@@ -1,0 +1,32 @@
+{
+  "name": "rct-project-template",
+  "build": { "dockerfile": "Dockerfile" },
+  "overrideCommand": false,
+  "workspaceFolder": "/workspaces/${localWorkspaceFolderBasename}",
+  "remoteUser": "rstudio",
+  "containerEnv": {
+    "PASSWORD": "rstudio"
+  },
+  "forwardPorts": [8787],
+  "portsAttributes": {
+    "8787": {
+      "label": "RStudio Server",
+      "onAutoForward": "openPreview"
+    }
+  },
+  "hostRequirements": {
+    "cpus": 2,
+    "memory": "4gb",
+    "storage": "16gb"
+  },
+  "postCreateCommand": "sudo chown -R rstudio:rstudio ${containerWorkspaceFolder} && git config --global --add safe.directory ${containerWorkspaceFolder}",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "REditorSupport.r",
+        "quarto.quarto",
+        "GitHub.vscode-github-actions"
+      ]
+    }
+  }
+}

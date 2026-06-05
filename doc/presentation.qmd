@@ -1,0 +1,90 @@
+---
+title: "A Minimal Research Project Template"
+subtitle: "An Illustrative Example in R"
+author: "Course Template"
+institute: "Your University"
+date: last-modified
+date-format: long
+fontsize: "10pt"
+format:
+  beamer:
+    slide-level: 3
+    number-sections: false
+    toc: false
+classoption: "aspectratio=169"
+execute:
+  echo: false
+  message: false
+  warning: false
+header-includes:
+  - \usepackage{booktabs}
+  - \usepackage{graphicx}
+---
+
+```{r setup}
+library(knitr)
+library(ggplot2)
+
+results <- readRDS("../output/results.rds")
+descriptive_table <- results$descriptive_table
+scatter_figure    <- results$scatter_figure
+table_note        <- results$table_note
+highlights        <- results$highlights
+```
+
+
+# Motivation
+
+### About This Template
+
+- A minimal reproducible research workflow in R
+- Data flow: **pull** → **prepare** → **analyze** → **present**
+- Built on the `mtcars` dataset as a teaching example
+- Each stage writes a durable artifact to disk; the paper and presentation read from the same results file
+
+
+### The Research Question
+
+- How does vehicle weight relate to fuel efficiency?
+- Does transmission type matter after controlling for weight?
+- Sample: `r highlights$sample_size` vehicles from the `mtcars` dataset
+- Average fuel efficiency: `r highlights$avg_mpg` mpg; heaviest vehicle: `r highlights$heaviest_model`
+
+
+# Data
+
+### Descriptive Statistics
+
+```{r tab_descriptives, results="asis"}
+kable(
+  descriptive_table,
+  format   = "latex",
+  booktabs = TRUE,
+  linesep  = ""
+)
+```
+
+
+# Results
+
+### Weight vs. Fuel Efficiency
+
+```{r fig_scatter, fig.height=4.2}
+scatter_figure
+```
+
+
+### Key Findings
+
+- A 1,000 lb increase in weight is associated with a **`r highlights$weight_slope` mpg** change
+- Manual transmission cars show a **`r highlights$manual_effect` mpg** difference vs. automatic after controlling for weight
+- `r highlights$interpretation`
+
+
+# Conclusion
+
+### Takeaways
+
+- The template keeps all moving parts visible while staying small enough to understand in one sitting
+- Replace the toy `mtcars` data with your own; the workflow shape stays the same
+- The paper and this presentation both read from `output/rct-project-template-results.rds` — run the pipeline once, render both outputs
