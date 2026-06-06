@@ -9,7 +9,7 @@ The main idea is simple:
 - analysis writes a serialized results bundle to `output/`
 - the paper in `doc/` reads those saved results
 
-So even though the example uses the tiny `mtcars` dataset, the workflow is already organized like a real empirical project.
+The example replicates the 10-K word count trend from @DLS2017 using real EDGAR filing metadata, and extends their sample to 2023.
 
 ## What You Are Looking At
 
@@ -20,9 +20,7 @@ This repository gives you a minimal project skeleton with four visible stages:
 3. `code/R/run_analysis.R`
 4. `doc/paper.qmd`
 
-The point is not the `mtcars` analysis itself. The point is to give you a clean starting structure that you can keep extending for your own work.
-
-If you later look at `trr266/treat`, you will see the same broad movement in a richer and more elaborate form.
+The workflow is organized like a real empirical project. If you later look at `trr266/treat`, you will see the same broad movement in a richer and more elaborate form.
 
 ## Project Structure
 
@@ -41,7 +39,10 @@ data/
   data_readme.md
 doc/
   paper.qmd
+  presentation.qmd
   references.bib
+info/
+  edgar_10k_intro.qmd
 output/
 ```
 
@@ -49,9 +50,9 @@ output/
 
 The workflow is intentionally explicit:
 
-1. `pull_data.R` creates a raw object in `data/pulled/`
-2. `prep_data.R` reads that raw object and creates a prepared analysis dataset in `data/generated/`
-3. `run_analysis.R` reads the prepared dataset and writes a serialized `.rds` results bundle to `output/`
+1. `pull_data.R` fetches EDGAR 10-K filing metadata from the TRR266 server via DuckDB over HTTPS and writes `data/pulled/edgar_10k_metadata.parquet`
+2. `prep_data.R` deduplicates, filters, and feature-engineers the raw metadata into `data/generated/prepared_data.parquet` and `data/generated/annual_summary.parquet`
+3. `run_analysis.R` reads the prepared data and writes a serialized `.rds` results bundle to `output/`
 4. `doc/paper.qmd` reads that `.rds` bundle and renders the paper
 
 The paper does **not** rerun the full analysis pipeline internally. It consumes prepared results from `output/`.
@@ -64,15 +65,13 @@ The `data/` folder keeps the same conceptual separation used in `treat`:
 - `data/pulled/`: raw data written by a pull step
 - `data/generated/`: prepared datasets created from raw or external inputs
 
-In this template, the pull step uses the built-in `mtcars` dataset, so `data/external/` starts empty. The folder is still there so you can swap in your own real project data later without changing the overall structure.
+## The `info/` Folder
+
+`info/edgar_10k_intro.qmd` is a standalone tutorial that shows how to access and query the EDGAR 10-K dataset directly. It is not part of the analysis pipeline but provides a helpful reference for understanding the data source.
 
 ## References
 
-The paper also includes a minimal bibliography workflow. The bibliography file lives at:
-
-- `doc/references.bib`
-
-and `doc/paper.qmd` cites at least one reference from that file. That way you can already see the basic citation pattern in a working template rather than adding it later from scratch.
+The paper cites Dyer, Lang & Stice-Lawrence (2017) and uses `doc/references.bib` for the bibliography.
 
 ## Recommended Setup Paths
 
@@ -135,7 +134,7 @@ Then open `http://localhost:8787` and log in with:
 - username: `rstudio`
 - password: `rstudio`
 
-The repository is mounted at `/workspaces/<your-repo-folder>`. If RStudio Server opens in the home directory and you do not see the project files yet, that is expected. Use `File -> Open Project`, paste `/workspaces/rct-project-template/rct-project-template.Rproj` into the `File name` field, and open it. If your repository folder has a different name, replace the middle `rct-project-template` folder segment with your actual repository folder name. Then run:
+Use `File -> Open Project` and paste `/workspaces/rct-project-template/rct-project-template.Rproj` into the `File name` field. Then run:
 
 ```bash
 git config --global --add safe.directory "$(pwd)"
@@ -152,7 +151,7 @@ You can also run the project outside containers, but this is **not recommended**
 - R
 - Quarto
 - TinyTeX or another LaTeX installation
-- the required R packages
+- the required R packages: `duckdb`, `ggplot2`, `gt`, `httr`, `rvest`, `htmltools`, `knitr`
 - Git and optionally GitHub CLI
 
 If you choose this route, the project command is still:
@@ -175,37 +174,7 @@ The Makefile runs the full pipeline in order:
 2. `code/R/prep_data.R`
 3. `code/R/run_analysis.R`
 4. `doc/paper.qmd`
-
-## Outputs
-
-The main analytical output is:
-
-- `output/rct-project-template-results.rds`
-
-The final paper is written to:
-
-- `output/rct-project-template-paper.pdf`
-
-That paper imports one saved descriptive table and one saved figure from the results bundle. The analytical objects are prepared first, then rendered in the paper.
-
-## The Paper
-
-The paper source lives in:
-
-- `doc/paper.qmd`
-
-It is formatted as a small article-style paper so the repository already feels like a miniature research template rather than a single script with a report attached at the end.
-The current template shows one descriptive table, one figure, and one bibliography entry so the reporting workflow stays visible without becoming crowded.
-
-## AI Prompts for Common Tasks
-
-Two ready-made prompts are included to help you work with the project configuration using an LLM assistant.
-
-- **`makefile_prompt.md`** — use this if you want to understand how the `Makefile` works or need help adapting it to your own pipeline.
-- **`docker_devcontainer_prompt.md`** — use this if you run into errors with the `.devcontainer/` setup or want to understand how the `Dockerfile` and `devcontainer.json` interact.
-
-In each file, replace the text inside the `{{ }}` blocks with your own input, then paste the whole prompt into an LLM of your choice.
-
+5. `doc/presentation.qmd`
 
 ## Container Notes
 
@@ -219,3 +188,12 @@ Both Codespaces and the local Docker path provide:
 - the R packages needed for this template
 
 This keeps the working environment consistent across students.
+
+## AI Prompts for Common Tasks
+
+Two ready-made prompts are included to help you work with the project configuration using an LLM assistant.
+
+- **`makefile_prompt.md`** — use this if you want to understand how the `Makefile` works or need help adapting it to your own pipeline.
+- **`docker_devcontainer_prompt.md`** — use this if you run into errors with the `.devcontainer/` setup or want to understand how the `Dockerfile` and `devcontainer.json` interact.
+
+In each file, replace the text inside the `{{ }}` blocks with your own input, then paste the whole prompt into an LLM of your choice.

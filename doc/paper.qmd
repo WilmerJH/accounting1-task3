@@ -1,11 +1,11 @@
 ---
 title: |
-  | A Minimal Research Project Template
-  | An Illustrative Example in R
+  | RCT Summer 2026
+  | Assignment 2: Word Count of 10-K Filings over Time
 author:
-  - name: Course Template
-    email: your.name@example.com
-    affiliation: Your University
+  - name: Fikir Worku Edossa
+    email: fikiredossa@googlemail.com
+    affiliation: Humboldt-Universität zu Berlin
 date: last-modified
 date-format: long
 execute:
@@ -13,8 +13,7 @@ execute:
   message: false
   warning: false
 abstract: |
-  | \vfill This paper demonstrates a minimal reproducible R workflow for class assignments. The project uses a tiny `mtcars` example, but preserves the basic logic of a larger empirical workflow: data are pulled, prepared, analyzed, serialized to disk, and then imported into the paper as prepared results.
-  | \vspace{6cm}
+  | In this assignment I replicate Panel A of Figure 1 of @DLS2017, which visualizes the increase in 10-K length over time. Using the EDGAR 10-K dataset, I extend the research period of the original study to 2023 and confirm that 10-Ks continue to grow longer. \vspace{6cm}
 bibliography: references.bib
 format:
   pdf:
@@ -45,76 +44,53 @@ header-includes:
 ```{r setup, include=FALSE}
 library(knitr)
 library(ggplot2)
+library(gt)
 
-results <- readRDS("../output/results.rds")
-descriptive_table <- results$descriptive_table
-scatter_figure <- results$scatter_figure
-table_note <- results$table_note
-highlights <- results$highlights
-
-render_table <- function(data, note) {
-  table_lines <- capture.output(
-    kable(
-      data,
-      format = "latex",
-      booktabs = TRUE,
-      linesep = "",
-      align = c("l", "r", "r", "r", "r")
-    )
-  )
-
-  latex_table <- c(
-    "\\begin{threeparttable}",
-    table_lines,
-    "\\begin{tablenotes}[flushleft]",
-    "\\setlength{\\labelsep}{0pt}",
-    paste0("\\item \\emph{Note}: ", note),
-    "\\end{tablenotes}",
-    "\\end{threeparttable}"
-  )
-
-  cat(paste(latex_table, collapse = "\n"))
-}
+results       <- readRDS("../output/results.rds")
+annual_data   <- results$annual_data
+annual_table  <- results$annual_table
+length_figure <- results$length_figure
+highlights    <- results$highlights
 ```
 
 \pagebreak
 
 # Introduction
 
-This repository is the R version of a barebones project template for class assignments. It keeps the moving parts of a larger workflow visible while staying small enough to understand in one sitting. Data move through a pull step, a preparation step, an analysis step, and finally into a paper that reads saved results rather than re-running the analytical pipeline. The paper structure is intentionally compact, but it already includes standard scholarly features such as citations and a bibliography [@Wickham2014].
+@DLS2017 study the development of 10-K filings over their sample period of 1996 to 2013 and document that the length of the documents increases significantly over time. Using filing metadata from the EDGAR 10-K dataset, I replicate their trend figure and extend the analysis to 2023.
 
-# Data
+# Procedure
 
-The example uses the built-in `mtcars` dataset. In this template, `code/R/pull_data.R` writes a raw object to `data/pulled/`, `code/R/prep_data.R` creates a prepared analysis dataset in `data/generated/`, and `code/R/run_analysis.R` reads that prepared dataset to create the final analytical objects stored in `output/`.
-
-The prepared sample contains `r highlights$sample_size` observations. Average fuel efficiency is `r highlights$avg_mpg` miles per gallon, average horsepower is `r highlights$avg_horsepower`, and the heaviest vehicle in the sample is `r highlights$heaviest_model`.
-
-# Analysis
-
-The analysis step estimates a simple linear model of miles per gallon as a function of vehicle weight and transmission type. The goal is not substantive complexity. The goal is to show how a project can separate raw data handling, preparation, analysis, and reporting into distinct scripts that produce durable artifacts.
+Filing metadata comes from the EDGAR 10-K dataset maintained by the TRR266 server, accessed via DuckDB over HTTPS. I restrict the sample to filings with successful markdown conversion and at least 3,000 words, keep one filing per firm per calendar year (the most recent), and require a filing date between 1995 and 2023. The final sample contains `r format(highlights$sample_size, big.mark = ",")` firm-year observations from `r format(highlights$n_firms, big.mark = ",")` unique firms spanning `r highlights$year_range`.
 
 # Results
 
-```{r, results="asis"}
-#| label: tbl-summary
-#| tbl-cap: Descriptive statistics by transmission show that manual cars in the prepared sample are lighter and more fuel efficient on average.
-render_table(descriptive_table, table_note)
+```{r}
+#| label: fig-length
+#| fig-cap: "10-K word count over time. Each point represents the median word count across all firm-year observations in that calendar year."
+#| out-width: 85%
+length_figure
 ```
 
 ```{r}
-#| label: fig-weight
-#| fig-cap: Fuel efficiency declines with vehicle weight in the prepared sample, with manual cars concentrated among the lighter and more efficient models.
-#| out-width: 85%
-scatter_figure
+#| label: tbl-annual
+#| tbl-cap: "Annual summary of 10-K filing characteristics."
+annual_table
 ```
 
-The fitted model implies a `r highlights$weight_slope` mpg change for an additional 1,000 pounds of vehicle weight. The coefficient on manual transmission is `r highlights$manual_effect` mpg. `r highlights$interpretation`
+```{r, include=FALSE}
+change <- highlights$median_words_last - highlights$median_words_first
+pct    <- round(100 * change / highlights$median_words_first)
+years  <- strsplit(highlights$year_range, "–")[[1]]
+first_year <- years[1]
+last_year  <- years[2]
+```
+
+@fig-length shows that the time trend documented by @DLS2017 continues beyond their sample period. Median word count rose from `r format(highlights$median_words_first, big.mark = ",")` words in `r first_year` to `r format(highlights$median_words_last, big.mark = ",")` words in `r last_year`, an increase of approximately `r pct` percent.
 
 # Conclusion
 
-This repository is intentionally small, but it is meant to be built on. Students can replace the toy data step, extend the preparation logic, add richer analysis, and continue writing in the same paper structure without changing the overall workflow shape.
-
-A visible placeholder remains here for the in-class GitHub edit if needed: `YOUR NAME – summary`.
+Replication using a different data source and extended sample period confirms the main finding of @DLS2017: 10-K filings continue to grow longer over time.
 
 \pagebreak
 

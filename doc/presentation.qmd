@@ -1,14 +1,15 @@
 ---
-title: "A Minimal Research Project Template"
-subtitle: "An Illustrative Example in R"
-author: "Course Template"
-institute: "Your University"
+title: "Assignment 2: Word Count of 10-K Filings over Time"
+subtitle: "RCT Summer 2026"
+author: "Fikir Worku Edossa"
+institute: "Humboldt-Universität zu Berlin"
 date: last-modified
 date-format: long
 fontsize: "10pt"
+bibliography: references.bib
 format:
   beamer:
-    slide-level: 3
+    slide-level: 2
     number-sections: false
     toc: false
 classoption: "aspectratio=169"
@@ -18,73 +19,57 @@ execute:
   warning: false
 header-includes:
   - \usepackage{booktabs}
-  - \usepackage{graphicx}
 ---
 
-```{r setup}
-library(knitr)
+```{r setup, include=FALSE}
 library(ggplot2)
 
-results <- readRDS("../output/results.rds")
-descriptive_table <- results$descriptive_table
-scatter_figure    <- results$scatter_figure
-table_note        <- results$table_note
-highlights        <- results$highlights
+results     <- readRDS("../output/results.rds")
+annual_data <- results$annual_data
+highlights  <- results$highlights
 ```
 
+## Research Question
 
-# Motivation
+- Do 10-K filings continue to grow longer over time?
+- Replicates @DLS2017 using the EDGAR 10-K dataset
+- Extends their sample period (1996–2013) to `r strsplit(highlights$year_range, "–")[[1]][2]`
 
-### About This Template
+## Data
 
-- A minimal reproducible research workflow in R
-- Data flow: **pull** → **prepare** → **analyze** → **present**
-- Built on the `mtcars` dataset as a teaching example
-- Each stage writes a durable artifact to disk; the paper and presentation read from the same results file
-
-
-### The Research Question
-
-- How does vehicle weight relate to fuel efficiency?
-- Does transmission type matter after controlling for weight?
-- Sample: `r highlights$sample_size` vehicles from the `mtcars` dataset
-- Average fuel efficiency: `r highlights$avg_mpg` mpg; heaviest vehicle: `r highlights$heaviest_model`
-
-
-# Data
-
-### Descriptive Statistics
-
-```{r tab_descriptives, results="asis"}
-kable(
-  descriptive_table,
-  format   = "latex",
-  booktabs = TRUE,
-  linesep  = ""
-)
+```{r, results="asis"}
+years <- strsplit(highlights$year_range, "–")[[1]]
+cat(sprintf(
+  "- EDGAR 10-K dataset (TRR266 server), accessed via DuckDB over HTTPS\n- Filters: $\\geq$ 3,000 words, successful download, one per firm per year\n- %s firm-year observations from %s firms, %s",
+  format(highlights$sample_size, big.mark = ","),
+  format(highlights$n_firms, big.mark = ","),
+  highlights$year_range
+))
 ```
 
+## 10-K Word Count over Time
 
-# Results
-
-### Weight vs. Fuel Efficiency
-
-```{r fig_scatter, fig.height=4.2}
-scatter_figure
+```{r, fig.width=7, fig.height=3.5}
+results$length_figure + theme_minimal(base_size = 8)
 ```
 
+## Conclusion
 
-### Key Findings
+```{r, results="asis"}
+change <- highlights$median_words_last - highlights$median_words_first
+pct    <- round(100 * change / highlights$median_words_first)
+years  <- strsplit(highlights$year_range, "–")[[1]]
+cat(sprintf(
+  "- Median word count: %s words (%s) $\\to$ %s words (%s)\n- Increase of approximately %d\\%%",
+  format(highlights$median_words_first, big.mark = ","), years[1],
+  format(highlights$median_words_last, big.mark = ","), years[2],
+  pct
+))
+```
 
-- A 1,000 lb increase in weight is associated with a **`r highlights$weight_slope` mpg** change
-- Manual transmission cars show a **`r highlights$manual_effect` mpg** difference vs. automatic after controlling for weight
-- `r highlights$interpretation`
+- The time trend of @DLS2017 continues beyond their sample period
 
+## References
 
-# Conclusion
-
-### Takeaways
-
-- The template keeps all moving parts visible while staying small enough to understand in one sitting
-- Replace the toy `mtcars` data with your own; the workflow shape stays the same
-- The paper and this presentation both read from `output/rct-project-template-results.rds` — run the pipeline once, render both outputs
+::: {#refs}
+:::

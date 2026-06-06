@@ -1,0 +1,620 @@
+---
+title: "Accessing the EDGAR 10-K Dataset"
+subtitle: "Research in Corporate Transparency 2026"
+author: "Fikir Worku Edossa"
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    toc-location: left
+    number-sections: true
+    code-fold: true
+    code-tools: true
+    theme: darkly
+    embed-resources: true
+    df-print: paged
+execute:
+  echo: true
+  warning: false
+  message: false
+---
+
+
+<style>
+:root {
+  color-scheme: dark;
+}
+body,
+.quarto-container,
+#quarto-content,
+main.content {
+  background: #050608 !important;
+  color: #e8edf2 !important;
+}
+a { color: #7cc7ff; }
+a:hover { color: #a9dcff; }
+.quarto-title-block .subtitle { font-size: 1.25rem; }
+.sidebar,
+#quarto-sidebar,
+.sidebar-navigation,
+.sidebar nav[role="doc-toc"] {
+  background: #080a0f !important;
+  color: #d8dee9 !important;
+}
+.warning-card {
+  border-left: 5px solid #ff6b6b;
+  background: #211014;
+  color: #f5d8dc;
+  padding: 1rem 1.25rem;
+  margin: 1rem 0;
+}
+.table-note {
+  color: #b8c0cc;
+  font-size: 0.9rem;
+}
+.dataframe { width: 100%; }
+.cell-output-display { overflow-x: auto; }
+.table,
+table,
+.dataframe {
+  --bs-table-bg: #10131a;
+  --bs-table-color: #e8edf2;
+  --bs-table-striped-bg: #151a23;
+  --bs-table-striped-color: #e8edf2;
+  --bs-table-hover-bg: #1b2230;
+  color: #e8edf2 !important;
+  border-color: #303746 !important;
+}
+thead,
+th {
+  background: #182030 !important;
+  color: #f2f6fb !important;
+}
+td {
+  color: #e8edf2 !important;
+}
+pre,
+code,
+.sourceCode {
+  background-color: #0d1117 !important;
+  color: #e6edf3 !important;
+}
+.text-preview-block {
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+  word-break: break-word;
+  background: #0d1117;
+  color: #e6edf3;
+  border: 1px solid #30363d;
+  border-radius: 4px;
+  padding: 1rem;
+  max-height: 34rem;
+  overflow-y: auto;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace;
+  font-size: 0.88rem;
+  line-height: 1.35;
+}
+</style>
+
+## Overview
+
+The EDGAR 10-K dataset is available as parquet files on the TRR266 server. The files can be queried directly over HTTPS with DuckDB, so it is not necessary to download the full dataset before starting an analysis.
+
+The dataset contains both filing metadata with downloaded filing documents. Two columns that contain the actual filing text:
+
+- `filing_raw_html`: the raw SEC HTML document.
+- `filing_markdown`: a Markdown/plain-text-oriented conversion of the filing.
+
+<div class="warning-card">
+The full text columns are large. Downloading the text columns for the entire dataset can require around 30 gigabytes of storage. Start with metadata-only queries, then pull text only for the sample needed for a specific research question.
+</div>
+
+## Setup
+
+The dataset is hosted on the TRR266 server and exposed as a plain HTTPS directory of parquet files — no API, no wildcard expansion. Four steps are needed before queries can run:
+
+1. Import the packages.
+2. Scrape the server directory to collect the individual parquet file URLs.
+3. Format the URL list into a SQL literal that DuckDB's `parquet_scan()` accepts.
+4. Install the `httpfs` extension, then create a view called `edgar_10k` over the remote files.
+
+The view is a SQL alias, not a local copy of the data. Creating it does not download any filing text — DuckDB pulls only the rows and columns a query actually requests. All of the following queries use `edgar_10k` as their table.
+
+### Import Packages
+
+We use DuckDB as the query engine. DuckDB can query parquet files directly and, with the `httpfs` extension, can read remote files over HTTPS. The other packages are used for listing files from the server page, displaying text, and plotting.
+
+```{r setup-imports}
+suppressPackageStartupMessages({
+  library(duckdb)
+  library(httr)
+  library(rvest)
+  library(ggplot2)
+  library(htmltools)
+})
+
+print_elapsed <- function(start_time, label) {
+  elapsed <- (proc.time() - start_time)["elapsed"]
+  cat(sprintf("[%s: %.2f s]\n", label, elapsed))
+}
+```
+
+The base URL points to the TRR266 server directory where the parquet files live. The text column set is used throughout to exclude the large filing columns from metadata-only queries. The sample constants keep the local text sample reproducible and easy to resize.
+
+```{r setup-constants}
+BASE_URL       <- "https://trr266.wiwi.hu-berlin.de/edgar_10k_apr26/"
+TEXT_COLUMNS   <- c("filing_raw_html", "filing_markdown")
+SAMPLE_SEED    <- "my-project-seed"
+N_TEXT_SAMPLE  <- 100L
+```
+
+### Collect Remote Parquet Files
+
+The TRR266 server exposes the parquet files through a regular HTTPS directory listing. DuckDB can read the individual files, but it does not expand `*.parquet` automatically for this kind of generic HTTP directory. The helper below reads the directory page and extracts the parquet links.
+
+```{r setup-list-parquet-files}
+list_parquet_files <- function(base_url) {
+  response <- GET(base_url, timeout(30))
+  stop_for_status(response)
+  page  <- read_html(content(response, as = "text"))
+  links <- html_attr(html_elements(page, "a"), "href")
+  links <- links[!is.na(links) & grepl("\\.parquet$", links, ignore.case = TRUE)]
+  sort(paste0(base_url, links))
+}
+```
+
+Now collect the parquet file URLs.
+
+```{r setup-file-list}
+start        <- proc.time()
+parquet_urls <- list_parquet_files(BASE_URL)
+print_elapsed(start, "list parquet files")
+
+data.frame(n_parquet_files = length(parquet_urls))
+```
+
+### Format The File List For DuckDB
+
+`parquet_scan()` can receive a list of files. The next helper turns the R character vector of URLs into a SQL list literal that can be inserted into the DuckDB query.
+
+```{r setup-duckdb-list-literal}
+duckdb_list_literal <- function(urls) {
+  escaped <- gsub("'", "''", urls)
+  paste0("['", paste(escaped, collapse = "','"), "']")
+}
+
+file_list <- duckdb_list_literal(parquet_urls)
+```
+
+### Set Up DuckDB
+
+`httpfs` is the DuckDB extension that allows remote file access over HTTPS. The metadata cache reduces repeated HTTP metadata requests during the session.
+
+```{r setup-duckdb}
+con <- dbConnect(duckdb())
+dbExecute(con, "INSTALL httpfs;")
+dbExecute(con, "LOAD httpfs;")
+dbExecute(con, "SET enable_http_metadata_cache = true;")
+```
+
+### Create The EDGAR View
+
+The main object used below is the `edgar_10k` view. The `SELECT` statement also performs a few light type conversions so that mixed source columns such as `sic`, `filmNumber`, and `items` are easier to work with.
+
+```{r setup-view}
+dbExecute(con, sprintf("
+  CREATE OR REPLACE VIEW edgar_10k AS
+  SELECT
+    cik,
+    name,
+    tickers,
+    exchanges,
+    entityType,
+    TRY_CAST(sic AS BIGINT) AS sic,
+    sicDescription,
+    stateOfIncorporation,
+    TRY_CAST(fiscalYearEnd AS BIGINT) AS fiscalYearEnd,
+    form,
+    filingDate,
+    reportDate,
+    acceptanceDateTime,
+    accessionNumber,
+    fileNumber,
+    CAST(filmNumber AS VARCHAR) AS filmNumber,
+    TRY_CAST(filmNumber AS DOUBLE) AS filmNumber_num,
+    CAST(items AS VARCHAR) AS items,
+    TRY_CAST(items AS DOUBLE) AS items_num,
+    size,
+    isXBRL,
+    isInlineXBRL,
+    primaryDocument,
+    primaryDocDescription,
+    primaryDocUrl,
+    filing_raw_html,
+    filing_markdown,
+    TRY_CAST(filing_word_count AS BIGINT) AS filing_word_count,
+    download_success,
+    download_error,
+    filename
+  FROM parquet_scan(
+    %s,
+    filename = true,
+    union_by_name = true
+  )
+", file_list))
+```
+
+After this point, queries can refer to `edgar_10k` as if it were a table. DuckDB still keeps the work lazy: selecting metadata columns does not require downloading the full filing text columns.
+
+The first thing to inspect is the schema. This confirms which columns are available before selecting rows.
+
+```{r schema}
+schema <- dbGetQuery(con, "DESCRIBE edgar_10k")
+schema
+```
+
+The preview blocks below use this small helper to display long filing text with wrapping.
+
+```{r setup-text-display-helper}
+block <- function(text) {
+  HTML(paste0(
+    '<div class="text-preview-block">',
+    htmlEscape(text),
+    '</div>'
+  ))
+}
+```
+
+## Dataset Overview
+
+```{r overview-table}
+start <- proc.time()
+metadata_overview <- dbGetQuery(con, "
+  SELECT
+    COUNT(*) AS n_rows,
+    COUNT(DISTINCT filename) AS n_remote_parquet_files,
+    COUNT(DISTINCT cik) AS n_unique_cik,
+    COUNT(DISTINCT accessionNumber) AS n_unique_accessions,
+    SUM(CASE WHEN download_success THEN 1 ELSE 0 END) AS n_download_success,
+    MIN(filingDate) AS first_filing_date,
+    MAX(filingDate) AS last_filing_date
+  FROM edgar_10k
+")
+print_elapsed(start, "dataset overview")
+
+metadata_overview
+```
+
+## Access Pattern
+
+The practical pattern is to query all columns except the large text columns first. This keeps the first-pass data work fast and manageable.
+
+```{r access-pattern}
+metadata_columns <- schema$column_name[!schema$column_name %in% TEXT_COLUMNS]
+metadata_select  <- paste(sprintf('"%s"', metadata_columns), collapse = ", ")
+
+start <- proc.time()
+metadata_preview <- dbGetQuery(con, sprintf("
+  SELECT %s
+  FROM edgar_10k
+  WHERE filingDate IS NOT NULL
+  ORDER BY filingDate DESC, cik
+  LIMIT 10
+", metadata_select))
+print_elapsed(start, "metadata preview")
+
+metadata_preview
+```
+
+## Codebook
+
+```{r codebook, echo=FALSE}
+codebook_descriptions <- list(
+  cik                 = "SEC Central Index Key. Identifies the registrant in EDGAR.",
+  name                = "Registrant name from SEC company metadata.",
+  tickers             = "Ticker symbols reported in SEC company metadata, if available.",
+  exchanges           = "Exchanges associated with the ticker symbols, if available.",
+  entityType          = "SEC entity type, often operating for ordinary registrants.",
+  sic                 = "Standard Industrial Classification code, cast to numeric when possible.",
+  sicDescription      = "Text label for the SIC industry.",
+  stateOfIncorporation = "State or jurisdiction of incorporation.",
+  fiscalYearEnd       = "Fiscal year-end as MMDD, cast to numeric when possible.",
+  form                = "SEC form type.",
+  filingDate          = "Date on which the filing was filed with the SEC.",
+  reportDate          = "Fiscal period-end date covered by the filing.",
+  acceptanceDateTime  = "SEC acceptance timestamp for the filing.",
+  accessionNumber     = "Unique SEC accession number for the filing submission.",
+  fileNumber          = "SEC file number associated with the registrant or filing.",
+  filmNumber          = "SEC film number as text. Kept as text because source values can be mixed.",
+  filmNumber_num      = "Numeric version of filmNumber when conversion succeeds.",
+  items               = "Filing item metadata from the SEC source, kept as text because values can be mixed.",
+  items_num           = "Numeric version of items when conversion succeeds.",
+  size                = "Size of the primary filing document in bytes, when available.",
+  isXBRL              = "Indicator for whether the filing has XBRL content.",
+  isInlineXBRL        = "Indicator for whether the filing has inline XBRL content.",
+  primaryDocument     = "Primary document filename, for example d10k.htm.",
+  primaryDocDescription = "SEC description of the primary document.",
+  primaryDocUrl       = "Direct URL to the primary document on sec.gov.",
+  filing_raw_html     = "Raw SEC filing HTML. Useful when original document structure matters; very large.",
+  filing_markdown     = "Converted Markdown text. Usually the best starting point for text/NLP work; very large.",
+  filing_word_count   = "Approximate word count of the converted filing text.",
+  download_success    = "Whether the filing document was successfully downloaded and converted.",
+  download_error      = "Error message if the filing download/conversion failed.",
+  filename            = "Remote parquet part from which the row was read."
+)
+
+codebook <- schema[, c("column_name", "column_type")]
+codebook$text_heavy  <- codebook$column_name %in% TEXT_COLUMNS
+codebook$description <- vapply(
+  codebook$column_name,
+  function(x) {
+    d <- codebook_descriptions[[x]]
+    if (!is.null(d)) d else "Source column retained from the EDGAR metadata/parquet source."
+  },
+  character(1)
+)
+
+codebook
+```
+
+<p class="table-note">
+Rows marked <code>text_heavy = TRUE</code> are the columns to avoid in first-pass full-dataset queries.
+</p>
+
+## Industry Coverage
+
+```{r top-sic}
+start <- proc.time()
+top_sic <- dbGetQuery(con, "
+  SELECT sic, sicDescription, COUNT(*) AS n
+  FROM edgar_10k
+  WHERE sicDescription IS NOT NULL
+  GROUP BY sic, sicDescription
+  ORDER BY n DESC
+  LIMIT 10
+")
+print_elapsed(start, "industry coverage")
+
+top_sic
+```
+
+## Example: Filing Length Over Time
+
+`filing_word_count` is a transparent first variable for studying disclosure length or complexity.
+
+```{r length-plot}
+start <- proc.time()
+filings_by_year <- dbGetQuery(con, "
+  SELECT
+    SUBSTR(filingDate, 1, 4) AS filing_year,
+    COUNT(*) AS n_filings,
+    COUNT(DISTINCT cik) AS n_unique_cik,
+    CAST(ROUND(MEDIAN(filing_word_count)) AS BIGINT) AS median_words,
+    CAST(ROUND(AVG(filing_word_count)) AS BIGINT) AS mean_words
+  FROM edgar_10k
+  WHERE filingDate IS NOT NULL
+    AND filing_word_count IS NOT NULL
+  GROUP BY filing_year
+  ORDER BY filing_year
+")
+print_elapsed(start, "filings by year")
+
+filings_by_year$filing_year <- as.integer(filings_by_year$filing_year)
+
+ggplot(filings_by_year, aes(x = filing_year, y = median_words)) +
+  geom_line(linewidth = 2) +
+  geom_point() +
+  labs(
+    x     = "Filing year",
+    y     = "Median filing word count",
+    title = "Median filing word count over time"
+  ) +
+  theme_minimal()
+```
+
+## Annual Summary
+
+```{r annual-summary}
+filings_by_year
+```
+
+## Saving A Text Sample Locally
+
+For text analysis, save a sample rather than the full corpus. The full text columns can reach tens of gigabytes across the whole dataset. The workflow below first stores the selected observation identifiers, `cik` and `accessionNumber`, in a temporary table. It also keeps `filename` internally so DuckDB can fetch text from only the parquet files that contain the selected observations.
+
+```{r save-text-sample}
+text_sample_path <- "edgar_10k_markdown_sample.parquet"
+if (file.exists(text_sample_path)) file.remove(text_sample_path)
+
+start <- proc.time()
+dbExecute(con, sprintf("
+  CREATE OR REPLACE TEMP TABLE text_sample_ids AS
+  SELECT cik, accessionNumber, filename
+  FROM (
+    SELECT DISTINCT cik, accessionNumber, filename
+    FROM edgar_10k
+    WHERE download_success = true
+      AND filing_word_count IS NOT NULL
+      AND cik IS NOT NULL
+      AND accessionNumber IS NOT NULL
+      AND filename IS NOT NULL
+  ) AS eligible_filings
+  ORDER BY hash(CAST(cik AS VARCHAR) || accessionNumber || '%s')
+  LIMIT %d
+", SAMPLE_SEED, N_TEXT_SAMPLE))
+
+selected_text_files <- dbGetQuery(con, "
+  SELECT DISTINCT filename
+  FROM text_sample_ids
+  ORDER BY filename
+")$filename
+selected_text_file_list <- duckdb_list_literal(selected_text_files)
+
+dbExecute(con, sprintf("
+  COPY (
+    SELECT
+      TRY_CAST(e.cik AS BIGINT) AS cik,
+      e.name,
+      e.sicDescription,
+      e.form,
+      e.filingDate,
+      e.reportDate,
+      e.accessionNumber,
+      e.primaryDocUrl,
+      TRY_CAST(e.filing_word_count AS BIGINT) AS filing_word_count,
+      e.filing_markdown,
+      e.filing_raw_html
+    FROM parquet_scan(
+      %s,
+      filename = true,
+      union_by_name = true
+    ) AS e
+    INNER JOIN text_sample_ids AS s
+      ON TRY_CAST(e.cik AS BIGINT) = s.cik
+     AND e.accessionNumber = s.accessionNumber
+     AND e.filename = s.filename
+    ORDER BY hash(CAST(TRY_CAST(e.cik AS BIGINT) AS VARCHAR) || e.accessionNumber || '%s')
+  )
+  TO '%s'
+  (FORMAT PARQUET)
+", selected_text_file_list, SAMPLE_SEED, text_sample_path))
+print_elapsed(start, "save text sample")
+```
+
+After saving, check the size and shape.
+
+```{r text-sample-summary}
+start <- proc.time()
+text_sample_shape <- dbGetQuery(con, sprintf("
+  SELECT
+    COUNT(*) AS n_observations,
+    COUNT(*) FILTER (WHERE filing_markdown IS NOT NULL) AS n_with_markdown,
+    COUNT(*) FILTER (WHERE filing_raw_html IS NOT NULL) AS n_with_html
+  FROM read_parquet('%s')
+", text_sample_path))
+print_elapsed(start, "text sample summary")
+
+text_sample_columns <- dbGetQuery(con, sprintf(
+  "DESCRIBE SELECT * FROM read_parquet('%s')", text_sample_path
+))
+
+cbind(
+  text_sample_shape,
+  n_columns    = nrow(text_sample_columns),
+  file_size_mb = round(file.info(text_sample_path)$size / 1024^2, 2)
+)
+```
+
+## Inspecting Filing Text
+
+One filing from the saved sample is displayed below. Both text columns were saved locally, so no additional remote fetching is needed.
+
+```{r text-preview}
+start <- proc.time()
+text_preview <- dbGetQuery(con, sprintf("
+  SELECT
+    cik,
+    name,
+    form,
+    filingDate,
+    sicDescription,
+    filing_word_count,
+    primaryDocUrl,
+    filing_markdown AS markdown_preview,
+    filing_raw_html AS html_preview
+  FROM read_parquet('%s')
+  WHERE filing_markdown IS NOT NULL
+    AND filing_raw_html IS NOT NULL
+  ORDER BY hash(COALESCE(accessionNumber, '') || 'rct2026-preview')
+  LIMIT 1
+", text_sample_path))
+print_elapsed(start, "text preview")
+
+text_preview[, c("cik", "name", "form", "filingDate", "sicDescription",
+                 "filing_word_count", "primaryDocUrl")]
+```
+
+## Markdown Preview
+
+```{r one-markdown-preview, results="asis"}
+block(text_preview$markdown_preview[1])
+```
+
+## HTML Preview
+
+```{r one-html-preview, results="asis"}
+block(text_preview$html_preview[1])
+```
+
+## Markdown Versus HTML
+
+`filing_raw_html` is closest to the original SEC document. It preserves HTML structure but is harder to tokenize.
+
+`filing_markdown` is usually easier for text analysis because it is closer to readable plain text.
+
+For most projects, start with `filing_markdown`. Use `filing_raw_html` only if the original HTML structure matters.
+
+## Saving Metadata Locally
+
+Saving metadata locally is usually reasonable because it excludes the large text columns.
+
+```r
+dbExecute(con, sprintf("
+  COPY (SELECT %s FROM edgar_10k)
+  TO 'edgar_10k_metadata.parquet'
+  (FORMAT PARQUET)
+", metadata_select))
+```
+
+## Keyword Count: Risk
+
+A simple keyword count can be computed on the saved text sample.
+
+```{r small-nlp-example}
+start <- proc.time()
+risk_counts <- dbGetQuery(con, sprintf("
+  SELECT
+    cik,
+    name,
+    filingDate,
+    filing_word_count,
+    CAST(
+      (length(lower(filing_markdown)) -
+       length(replace(lower(filing_markdown), 'risk', ''))) / length('risk')
+    AS BIGINT) AS n_risk_mentions
+  FROM read_parquet('%s')
+  ORDER BY n_risk_mentions DESC, filing_word_count DESC
+  LIMIT 20
+", text_sample_path))
+print_elapsed(start, "risk counts")
+
+risk_counts
+```
+
+Summarise the keyword count across the saved sample.
+
+```{r small-nlp-summary}
+start <- proc.time()
+risk_summary <- dbGetQuery(con, sprintf("
+  SELECT
+    COUNT(*) AS n_filings,
+    MIN(n_risk_mentions) AS min_risk_mentions,
+    CAST(ROUND(MEDIAN(n_risk_mentions)) AS BIGINT) AS median_risk_mentions,
+    CAST(ROUND(AVG(n_risk_mentions)) AS BIGINT) AS mean_risk_mentions,
+    MAX(n_risk_mentions) AS max_risk_mentions
+  FROM (
+    SELECT CAST(
+      (length(lower(filing_markdown)) -
+       length(replace(lower(filing_markdown), 'risk', ''))) / length('risk')
+    AS BIGINT) AS n_risk_mentions
+    FROM read_parquet('%s')
+  )
+", text_sample_path))
+print_elapsed(start, "risk summary")
+
+risk_summary
+```
+
+```{r cleanup, include=FALSE}
+dbDisconnect(con, shutdown = TRUE)
+```

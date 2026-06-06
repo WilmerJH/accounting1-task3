@@ -14,6 +14,7 @@ RUN apt-get update \
       libcurl4-openssl-dev \
       libssl-dev \
       libxml2-dev \
+      libuv1 \
  && rm -rf /var/lib/apt/lists/* /var/cache/apt/archives/*
 
 RUN install2.r --error --skipinstalled \
@@ -21,6 +22,11 @@ RUN install2.r --error --skipinstalled \
       knitr \
       rmarkdown \
       tinytex \
+      duckdb \
+      gt \
+      httr \
+      htmltools \
+      rvest \
  && rm -rf /tmp/downloaded_packages
 
 RUN Rscript -e "tinytex::install_tinytex(dir = '/opt/TinyTeX', force = TRUE)" \

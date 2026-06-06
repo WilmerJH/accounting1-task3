@@ -1,77 +1,69 @@
 suppressPackageStartupMessages({
+  library(duckdb)
   library(ggplot2)
+  library(gt)
 })
 
 dir.create("output", recursive = TRUE, showWarnings = FALSE)
 
-analysis_data <- readRDS("data/generated/prepared_data.rds")
+con <- dbConnect(duckdb())
+data   <- dbGetQuery(con, "SELECT * FROM read_parquet('data/generated/prepared_data.parquet')")
+annual <- dbGetQuery(con, "SELECT * FROM read_parquet('data/generated/annual_summary.parquet')")
+dbDisconnect(con, shutdown = TRUE)
 
-model <- lm(mpg ~ wt + transmission, data = analysis_data)
-model_coefs <- stats::coef(model)
+make_length_figure <- function(annual_data) {
+  ggplot(annual_data, aes(x = filing_year, y = median_words)) +
+    geom_line(linewidth = 0.8, color = "#1b6ca8") +
+    geom_point(size = 1.8, color = "#1b6ca8") +
+    scale_x_continuous(breaks = c(1995, 2000, 2005, 2010, 2015, 2020)) +
+    labs(x = "Filing year", y = "Median word count") +
+    theme_minimal(base_size = 11) +
+    theme(
+      panel.grid.minor = element_blank(),
+      axis.text.x = element_text(angle = 45, hjust = 1)
+    )
+}
 
-descriptive_table <- aggregate(
-  cbind(mpg, hp, wt) ~ transmission,
-  data = analysis_data,
-  FUN = function(x) round(mean(x), 1)
-)
-descriptive_table$n_cars <- as.integer(table(analysis_data$transmission)[descriptive_table$transmission])
-descriptive_table <- descriptive_table[, c("transmission", "n_cars", "mpg", "hp", "wt")]
-names(descriptive_table) <- c(
-  "Transmission",
-  "Cars",
-  "Mean fuel efficiency (mpg)",
-  "Mean horsepower",
-  "Mean weight (1,000 lbs)"
-)
+prepare_annual_table <- function(annual_data) {
+  gt(annual_data) |>
+    cols_label(
+      filing_year  = "Year",
+      n_filings    = "Filings",
+      n_firms      = "Firms",
+      median_words = "Median words",
+      mean_words   = "Mean words"
+    ) |>
+    fmt_integer(columns = c(n_filings, n_firms, median_words, mean_words)) |>
+    cols_align(
+      align   = "right",
+      columns = c(n_filings, n_firms, median_words, mean_words)
+    ) |>
+    tab_source_note(md(paste0(
+      "*Note*: Sample restricted to 10-K filings with ≥ 3,000 words ",
+      "and successful markdown conversion, one per firm per calendar year."
+    ))) |>
+    tab_options(table.font.size = px(12), data_row.padding = px(2.5))
+}
 
-scatter_figure <- ggplot(
-  analysis_data,
-  aes(x = wt, y = mpg, color = transmission)
-) +
-  geom_point(size = 2.6) +
-  geom_smooth(
-    method = "lm",
-    se = FALSE,
-    linewidth = 0.8,
-    fullrange = TRUE
-  ) +
-  scale_color_manual(values = c("Automatic" = "#1b6ca8", "Manual" = "#d95f02")) +
-  labs(
-    x = "Vehicle weight (1,000 lbs)",
-    y = "Fuel efficiency (miles per gallon)",
-    color = "Transmission"
-  ) +
-  theme_minimal(base_size = 11) +
-  theme(
-    legend.position = "top",
-    panel.grid.minor = element_blank()
-  )
+annual_table  <- prepare_annual_table(annual)
+length_figure <- make_length_figure(annual)
+
+first_year <- min(annual$filing_year)
+last_year  <- max(annual$filing_year)
 
 highlights <- list(
-  sample_size = nrow(analysis_data),
-  avg_mpg = round(mean(analysis_data$mpg), 1),
-  avg_weight = round(mean(analysis_data$wt), 2),
-  avg_horsepower = round(mean(analysis_data$hp), 1),
-  weight_slope = round(unname(model_coefs[["wt"]]), 2),
-  manual_effect = round(unname(model_coefs[["transmissionManual"]]), 2),
-  fastest_model = analysis_data$model[which.max(analysis_data$mpg)],
-  heaviest_model = analysis_data$model[which.max(analysis_data$wt)],
-  interpretation = paste(
-    "The prepared sample suggests a clear negative relationship between vehicle",
-    "weight and fuel efficiency, while the manual cars in this small dataset",
-    "have somewhat higher fuel efficiency after controlling for weight."
-  )
+  sample_size        = nrow(data),
+  year_range         = paste0(first_year, "–", last_year),
+  n_firms            = length(unique(data$cik_int)),
+  median_words_first = annual$median_words[annual$filing_year == first_year],
+  median_words_last  = annual$median_words[annual$filing_year == last_year]
 )
 
 results <- list(
-  descriptive_table = descriptive_table,
-  scatter_figure = scatter_figure,
-  table_note = paste(
-    "This table summarizes the prepared mtcars sample by transmission type.",
-    "Fuel efficiency is measured in miles per gallon and weight is measured",
-    "in 1,000 pounds."
-  ),
-  highlights = highlights
+  annual_table  = annual_table,
+  annual_data   = annual,
+  length_figure = length_figure,
+  highlights    = highlights
 )
 
 saveRDS(results, file = "output/results.rds")

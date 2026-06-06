@@ -1,14 +1,14 @@
 all: output/paper.pdf output/presentation.pdf
 
-data/pulled/raw_data.rds: code/R/pull_data.R
+data/pulled/edgar_10k_metadata.parquet: code/R/pull_data.R
 	mkdir -p data/pulled
 	Rscript --vanilla code/R/pull_data.R
 
-data/generated/prepared_data.rds: code/R/prep_data.R data/pulled/raw_data.rds
+data/generated/prepared_data.parquet: code/R/prep_data.R data/pulled/edgar_10k_metadata.parquet
 	mkdir -p data/generated
 	Rscript --vanilla code/R/prep_data.R
 
-output/results.rds: code/R/run_analysis.R data/generated/prepared_data.rds
+output/results.rds: code/R/run_analysis.R data/generated/prepared_data.parquet
 	mkdir -p output
 	Rscript --vanilla code/R/run_analysis.R
 
