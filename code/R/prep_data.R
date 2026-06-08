@@ -7,7 +7,7 @@ dir.create("data/generated", recursive = TRUE, showWarnings = FALSE)
 con <- dbConnect(duckdb())
 on.exit(dbDisconnect(con, shutdown = TRUE))
 
-dbExecute(con, "
+rv <- dbExecute(con, "
   CREATE TEMP TABLE filings AS
   SELECT DISTINCT ON (cik_int, filing_year)
     TRY_CAST(cik AS BIGINT) AS cik_int,
@@ -24,7 +24,7 @@ dbExecute(con, "
 ")
 
 n_firm_year <- dbGetQuery(con, "SELECT COUNT(*) FROM filings")[[1]]
-dbExecute(con, "
+rv <- dbExecute(con, "
   COPY (
     SELECT
       cik_int,
@@ -39,7 +39,7 @@ dbExecute(con, "
 ")
 
 n_annual <- dbGetQuery(con, "SELECT COUNT(DISTINCT filing_year) FROM filings")[[1]]
-dbExecute(con, "
+rv <- dbExecute(con, "
   COPY (
     SELECT
       filing_year,

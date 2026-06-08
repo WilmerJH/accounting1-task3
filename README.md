@@ -7,9 +7,9 @@ The main idea is simple:
 - data are pulled into `data/pulled/`
 - data are prepared into `data/generated/`
 - analysis writes a serialized results bundle to `output/`
-- the paper in `doc/` reads those saved results
+- the presentation slide deck in `doc/` reads those saved results
 
-The example replicates the 10-K word count trend from @DLS2017 using real EDGAR filing metadata, and extends their sample to 2023.
+The example replicates the 10-K word count trend from @DLS2017 using EDGAR filing metadata, and extends their sample to 2023.
 
 ## What You Are Looking At
 
@@ -18,7 +18,7 @@ This repository gives you a minimal project skeleton with four visible stages:
 1. `code/R/pull_data.R`
 2. `code/R/prep_data.R`
 3. `code/R/run_analysis.R`
-4. `doc/paper.qmd`
+4. `doc/presentation.qmd`
 
 The workflow is organized like a real empirical project. If you later look at `trr266/treat`, you will see the same broad movement in a richer and more elaborate form.
 
@@ -38,7 +38,6 @@ data/
   generated/
   data_readme.md
 doc/
-  paper.qmd
   presentation.qmd
   references.bib
 info/
@@ -53,9 +52,9 @@ The workflow is intentionally explicit:
 1. `pull_data.R` fetches EDGAR 10-K filing metadata from the TRR266 server via DuckDB over HTTPS and writes `data/pulled/edgar_10k_metadata.parquet`
 2. `prep_data.R` deduplicates, filters, and feature-engineers the raw metadata into `data/generated/prepared_data.parquet` and `data/generated/annual_summary.parquet`
 3. `run_analysis.R` reads the prepared data and writes a serialized `.rds` results bundle to `output/`
-4. `doc/paper.qmd` reads that `.rds` bundle and renders the paper
+4. `doc/presentation.qmd` reads that `.rds` bundle and renders the beamer slide deck
 
-The paper does **not** rerun the full analysis pipeline internally. It consumes prepared results from `output/`.
+The presentation does **not** rerun the full analysis pipeline internally. It uses prepared results from `output/`.
 
 ## The `data/` Folder
 

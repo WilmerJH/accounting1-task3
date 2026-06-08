@@ -1,4 +1,4 @@
-all: output/paper.pdf output/presentation.pdf
+all: output/presentation.pdf
 
 data/pulled/edgar_10k_metadata.parquet: code/R/pull_data.R
 	mkdir -p data/pulled
@@ -11,11 +11,6 @@ data/generated/prepared_data.parquet: code/R/prep_data.R data/pulled/edgar_10k_m
 output/results.rds: code/R/run_analysis.R data/generated/prepared_data.parquet
 	mkdir -p output
 	Rscript --vanilla code/R/run_analysis.R
-
-output/paper.pdf: doc/paper.qmd output/results.rds
-	cd doc && quarto render paper.qmd --to pdf --output paper.pdf
-	rm -f doc/paper.tex doc/paper.log doc/paper.aux doc/paper.out doc/paper.knit.md
-	rm -f doc/paper.fff doc/paper.ttt doc/texput.log
 
 output/presentation.pdf: doc/presentation.qmd output/results.rds
 	cd doc && quarto render presentation.qmd --output presentation.pdf

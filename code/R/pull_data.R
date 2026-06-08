@@ -10,7 +10,7 @@ EDGAR_OUTPUT <- "data/pulled/edgar_10k_metadata.parquet"
 list_parquet_files <- function(base_url) {
   response <- GET(base_url, timeout(30))
   stop_for_status(response)
-  page <- read_html(content(response, as = "text"))
+  page <- read_html(response, as = "text", encoding = "UTF-8")
   links <- html_attr(html_elements(page, "a"), "href")
   links <- links[!is.na(links) & grepl("\\.parquet$", links, ignore.case = TRUE)]
   sort(paste0(base_url, links))
@@ -29,10 +29,10 @@ on.exit(dbDisconnect(con, shutdown = TRUE))
 parquet_urls <- list_parquet_files(BASE_URL)
 file_list <- duckdb_list_literal(parquet_urls)
 
-dbExecute(con, "INSTALL httpfs; LOAD httpfs;")
-dbExecute(con, "SET enable_http_metadata_cache = true;")
+rv <- dbExecute(con, "INSTALL httpfs; LOAD httpfs;")
+rv <- dbExecute(con, "SET enable_http_metadata_cache = true;")
 
-dbExecute(con, sprintf("
+rv <- dbExecute(con, sprintf("
   CREATE OR REPLACE VIEW edgar_10k AS
   SELECT
     cik, name, tickers, exchanges, entityType,
@@ -44,7 +44,7 @@ dbExecute(con, sprintf("
   FROM parquet_scan(%s, union_by_name = true)
 ", file_list))
 
-dbExecute(con, sprintf(
+rv <- dbExecute(con, sprintf(
   "COPY (SELECT * FROM edgar_10k) TO '%s' (FORMAT 'parquet')",
   EDGAR_OUTPUT
 ))
