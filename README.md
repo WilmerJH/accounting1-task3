@@ -1,4 +1,4 @@
-# rct-project-template
+# RCT Summer 2026: Template for the Team Project
 
 This repository is the **R version of a barebones project template**. It is meant to be small enough to understand quickly, but structured enough to grow into a real project.
 
