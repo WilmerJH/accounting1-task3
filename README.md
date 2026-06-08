@@ -9,7 +9,7 @@ The main idea is simple:
 - analysis writes a serialized results bundle to `output/`
 - the presentation slide deck in `doc/` reads those saved results
 
-The example replicates the 10-K word count trend from @DLS2017 using EDGAR filing metadata, and extends their sample to 2023.
+The example replicates the 10-K word count trend from Dyer, Lang & Stice-Lawrence (2017) using EDGAR filing metadata, and extends their sample to 2023.
 
 ## What You Are Looking At
 
