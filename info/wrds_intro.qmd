@@ -1,0 +1,450 @@
+---
+title: "WRDS: Compustat, CRSP, and Linking to 10-K Filings"
+subtitle: "Research in Corporate Transparency 2026"
+author: "Fikir Worku Edossa"
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    toc-location: left
+    number-sections: true
+    code-fold: false
+    code-tools: true
+    theme: darkly
+    embed-resources: true
+    df-print: paged
+    mermaid:
+      theme: dark
+execute:
+  echo: true
+  eval: true
+  warning: false
+  message: false
+---
+
+<style>
+:root {
+  color-scheme: dark;
+}
+body,
+.quarto-container,
+#quarto-content,
+main.content {
+  background: #050608 !important;
+  color: #e8edf2 !important;
+}
+a { color: #7cc7ff; }
+a:hover { color: #a9dcff; }
+.quarto-title-block .subtitle { font-size: 1.25rem; }
+.sidebar,
+#quarto-sidebar,
+.sidebar-navigation,
+.sidebar nav[role="doc-toc"] {
+  background: #080a0f !important;
+  color: #d8dee9 !important;
+}
+.warning-card {
+  border-left: 5px solid #ff6b6b;
+  background: #211014;
+  color: #f5d8dc;
+  padding: 1rem 1.25rem;
+  margin: 1rem 0;
+}
+.info-card {
+  border-left: 5px solid #7cc7ff;
+  background: #0d1722;
+  color: #d6e8f7;
+  padding: 1rem 1.25rem;
+  margin: 1rem 0;
+}
+.teacher-note {
+  border-left: 5px solid #f5c451;
+  background: #1c1708;
+  color: #f0e2bd;
+  padding: 0.85rem 1.15rem;
+  margin: 0.75rem 0 1.5rem 0;
+  font-size: 0.92rem;
+  border-radius: 0 4px 4px 0;
+}
+.teacher-note p { margin: 0.35rem 0; }
+.teacher-note blockquote {
+  border-left: 3px solid #8a7320;
+  margin: 0.4rem 0 0.4rem 0.2rem;
+  padding: 0.1rem 0 0.1rem 0.8rem;
+  color: #ffe9a8;
+  font-style: italic;
+}
+.teacher-note .tn-head {
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-weight: 700;
+  color: #f5c451;
+  font-size: 0.78rem;
+}
+.table-note {
+  color: #b8c0cc;
+  font-size: 0.9rem;
+}
+.dataframe { width: 100%; }
+.cell-output-display { overflow-x: auto; }
+.table,
+table,
+.dataframe {
+  --bs-table-bg: #10131a;
+  --bs-table-color: #e8edf2;
+  --bs-table-striped-bg: #151a23;
+  --bs-table-striped-color: #e8edf2;
+  --bs-table-hover-bg: #1b2230;
+  color: #e8edf2 !important;
+  border-color: #303746 !important;
+}
+thead,
+th {
+  background: #182030 !important;
+  color: #f2f6fb !important;
+}
+td {
+  color: #e8edf2 !important;
+}
+pre,
+code,
+.sourceCode {
+  background-color: #0d1117 !important;
+  color: #e6edf3 !important;
+}
+.diagram-block {
+  white-space: pre;
+  overflow-x: auto;
+  background: #0d1117;
+  color: #9ad1ff;
+  border: 1px solid #30363d;
+  border-radius: 4px;
+  padding: 1rem;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace;
+  font-size: 0.9rem;
+  line-height: 1.45;
+}
+</style>
+
+## What this session covers
+
+By the end of this notebook you will be able to pull two of the most-used datasets in
+accounting research from WRDS with code, and join them to the 10-K filings you already met:
+
+- **Compustat** (`comp` library): yearly and quarterly numbers from financial statements (we use the annual data here).
+- **CRSP** (`crsp` library): daily and monthly share prices, returns, and volume.
+
+Your team project can lean on four data sources — the prepared **10-K filings**, the
+**EDGAR log files**, **Compustat**, and **CRSP**. This session is about the last two, and
+about getting all three into one data frame so you can attach financial controls and market reactions to a filing.
+
+## Connecting to WRDS
+
+WRDS hosts Compustat and CRSP on a PostgreSQL database. So we open a local **DuckDB** database and *attach* WRDS to it. DuckDB then becomes our single engine: it can read the remote WRDS tables, read the EDGAR parquet files, and join across them. Load the packages first.
+
+```{r}
+#| label: packages
+suppressPackageStartupMessages({
+  library(DBI)
+  library(duckdb)
+  library(glue)
+  library(dotenv)
+  library(httr)
+  library(rvest)
+  library(dplyr)
+  library(ggplot2)
+})
+```
+
+### Your credentials
+
+Keep it in a `secrets.env` file in the project root with two lines:
+
+```
+WRDS_USERNAME=your_wrds_id
+WRDS_PASSWORD=your_wrds_password
+```
+
+The repo ships `_secrets.env` as an empty template — copy it to `secrets.env` and fill in
+your details. `secrets.env` is in `.gitignore`, so git will not commit it. We read it with
+`dotenv`.
+
+```{r}
+#| label: load-secrets
+load_dot_env("../secrets.env")
+
+wrds_user <- Sys.getenv("WRDS_USERNAME")
+wrds_pass <- Sys.getenv("WRDS_PASSWORD")
+
+stopifnot(nzchar(wrds_user), nzchar(wrds_pass))
+```
+
+### Open DuckDB and attach WRDS
+
+```{r}
+#| label: wrds-connect
+con <- dbConnect(duckdb::duckdb())
+
+dbExecute(con, "INSTALL postgres; LOAD postgres;")
+dbExecute(con, sprintf(paste(
+  "SET pg_connection_limit=4;",
+  "ATTACH 'dbname=wrds host=wrds-pgdata.wharton.upenn.edu port=9737",
+  "user=%s password=%s' AS wrds (TYPE postgres, READ_ONLY)"
+), wrds_user, wrds_pass))
+```
+
+Check it worked. This just asks DuckDB which databases are attached — it returns instantly without touching WRDS. After attaching, WRDS tables are addressed as `wrds.<library>.<table>`, for example `wrds.comp.company`.
+
+```{r}
+#| label: wrds-check
+dbGetQuery(con, "SELECT database_name FROM duckdb_databases() WHERE database_name = 'wrds'")
+```
+
+<div class="info-card">
+To see what's available on WRDS, the command <code>SHOW ALL TABLES</code> lists every
+library and table (it's long, so we don't print it here).
+</div>
+
+## Compustat and CRSP
+
+We query WRDS by building SQL with `glue_sql()` and running it with `dbGetQuery()`. 
+
+### Compustat: company information (`comp.company`)
+
+`comp.company` has one row per firm, keyed by **GVKEY** (Compustat's permanent firm id). It  also carries each firm's **CIK** — the SEC's id — which we use later to reach the filings.
+
+```{r}
+#| label: comp-company
+company_q <- glue_sql("
+  SELECT gvkey, conm, cik, sic, state
+  FROM wrds.comp.company
+  WHERE conm LIKE 'A%'
+  ORDER BY conm
+  LIMIT 5
+", .con = con)
+
+dbGetQuery(con, company_q)
+```
+
+### Compustat: yearly financials (`comp.funda`)
+
+`comp.funda` holds the annual income statement, balance sheet, and cash-flow items. 
+
+```{r}
+#| label: comp-funda
+cs_filter <- "consol = 'C' and (indfmt = 'INDL' or indfmt = 'FS')
+              and datafmt = 'STD' and popsrc = 'D'"
+
+funda_q <- glue_sql(glue("
+  SELECT gvkey, datadate, fyear,
+         \"at\", sale, ni, ceq, prcc_f, csho
+  FROM wrds.comp.funda
+  WHERE {cs_filter}
+  LIMIT 5
+"), .con = con)
+
+dbGetQuery(con, funda_q)
+```
+
+We can take a quick look at the data — for instance, how many firm-years there are per decade.
+
+```{r}
+#| label: comp-funda-counts
+counts_q <- glue_sql(glue("
+  SELECT CAST(floor(fyear / 10) * 10 AS INTEGER) AS decade, COUNT(*) AS n
+  FROM wrds.comp.funda
+  WHERE {cs_filter}
+  GROUP BY decade
+  ORDER BY decade
+"), .con = con)
+
+dbGetQuery(con, counts_q)
+```
+
+### CRSP: prices, returns, and volume
+
+CRSP holds daily and monthly market data for US-listed stocks. Its id is **PERMNO** (one
+per security); **PERMCO** is the company-level id. CRSP does **not** use GVKEY — that gap is
+what the CCM link table (below) closes. First, a lookup from ticker to PERMNO:
+
+```{r}
+#| label: crsp-stocknames
+names_q <- glue_sql("
+  SELECT permno, comnam, ticker, namedt, nameenddt
+  FROM wrds.crsp.stocknames
+  WHERE ticker = 'AAPL'
+  LIMIT 5
+", .con = con)
+
+dbGetQuery(con, names_q)
+```
+
+The daily stock file is `crsp.dsf`; the matching market index is `crsp.dsi`, which carries
+the value-weighted market return `vwretd` (the benchmark for computing "abnormal" returns).
+There are monthly twins, `crsp.msf` and `crsp.msi`, for longer horizons.
+
+```{r}
+#| label: crsp-dsf
+dsf_q <- glue_sql("
+  SELECT permno, date, ret, retx, prc, vol, shrout
+  FROM wrds.crsp.dsf
+  WHERE permno = 14593 AND date >= DATE '2020-01-01'
+  LIMIT 5
+", .con = con)
+
+dbGetQuery(con, dsf_q)
+```
+
+
+## Linking the databases
+
+We have three datasets, each with its own identifier:
+
+| Dataset | Its identifier |
+|---|---|
+| 10-K filings (EDGAR) | CIK |
+| Compustat (`comp`) | GVKEY |
+| CRSP (`crsp`) | PERMNO |
+
+We need two bridges: GVKEY ↔ PERMNO (to add returns to fundamentals) and CIK ↔ GVKEY (to
+attach both to a filing). Because everything lives in one DuckDB connection, we build each
+bridge as a **view** and join them in SQL.
+
+### CRSP ↔ Compustat: the CCM link
+
+WRDS ships the **CRSP/Compustat Merged** link in `crsp.ccmxpf_lnkhist`. Each row maps a `gvkey` to a PERMNO (`lpermno`) valid over `[linkdt, linkenddt]`. We keep only clean links — link types `LC`/`LU`/`LS` and primary markers `C`/`P` — and fill a missing `linkenddt` (meaning "still valid") with the latest end date in the table so the date comparison works.
+
+```{r}
+#| label: ccm-build
+dbExecute(con, "
+  CREATE OR REPLACE VIEW ccm_link AS
+  SELECT gvkey,
+         lpermno AS permno,
+         lpermco AS permco,
+         linkdt,
+         COALESCE(linkenddt, MAX(linkenddt) OVER ()) AS linkenddt
+  FROM wrds.crsp.ccmxpf_lnkhist
+  WHERE linktype IN ('LC', 'LU', 'LS')
+    AND linkprim IN ('C', 'P')
+")
+
+dbGetQuery(con, "SELECT * FROM ccm_link LIMIT 5")
+```
+
+### EDGAR ↔ Compustat: matching on CIK
+
+A 10-K filing is identified by its **CIK**. The simplest bridge to Compustat is the `cik`
+column already in `comp.company`. We cast it to an integer.
+
+```{r}
+#| label: cik-gvkey
+dbExecute(con, "
+  CREATE OR REPLACE VIEW cik_gvkey AS
+  SELECT DISTINCT CAST(cik AS INTEGER) AS cik, gvkey
+  FROM wrds.comp.company
+  WHERE cik IS NOT NULL
+")
+
+dbGetQuery(con, "SELECT * FROM cik_gvkey LIMIT 5")
+```
+
+<div class="info-card">
+<b>Watch the type.</b> Compustat stores <code>cik</code> as zero-padded text
+(<code>"0000320193"</code>) while the EDGAR data stores it as a number
+(<code>320193</code>). Join text to a number and you silently get <i>zero</i> matches, so we
+cast both sides to integer.
+</div>
+
+<div class="info-card">
+<b>One limitation: </b> <code>comp.company</code> keeps only the firm's
+<i>current</i> CIK. A firm that changed CIK over time (often after a restructuring) may miss
+its older filings. </div>
+
+### Bringing in the 10-K filings
+
+The 10-K data are the parquet files from `edgar_10k_intro.qmd`, read with DuckDB over HTTPS.
+Because they live in the **same** `con` that has WRDS attached, we can join filings to
+Compustat and CRSP directly. We expose just the linking columns and cast `cik` to integer.
+
+```{r}
+#| label: edgar-view
+BASE_URL <- "https://trr266.wiwi.hu-berlin.de/edgar_10k_apr26/"
+
+list_parquet_files <- function(base_url) {
+  response <- GET(base_url, timeout(60))
+  stop_for_status(response)
+  page  <- read_html(content(response, as = "text"))
+  links <- html_attr(html_elements(page, "a"), "href")
+  links <- links[!is.na(links) & grepl("\\.parquet$", links, ignore.case = TRUE)]
+  sort(paste0(base_url, links))
+}
+duckdb_list_literal <- function(urls) {
+  escaped <- gsub("'", "''", urls)
+  paste0("['", paste(escaped, collapse = "','"), "']")
+}
+
+dbExecute(con, "INSTALL httpfs; LOAD httpfs; SET enable_http_metadata_cache = true;")
+file_list <- duckdb_list_literal(list_parquet_files(BASE_URL))
+
+dbExecute(con, sprintf("
+  CREATE OR REPLACE VIEW edgar_10k AS
+  SELECT TRY_CAST(cik AS INTEGER) AS cik,
+         accessionNumber,
+         CAST(filingDate AS DATE) AS filingDate,
+         form
+  FROM parquet_scan(%s, filename = true, union_by_name = true)
+", file_list))
+```
+
+Now build the linked sample in one SQL join: filings → CIK → GVKEY → PERMNO, requiring the
+filing date to fall inside the CCM link window.
+
+```{mermaid}
+%%| label: link-diagram
+%%| echo: false
+flowchart LR
+    E["10-K filings<br/>(CIK)<br/><i>text / metadata</i>"]
+    C["Compustat<br/>(GVKEY)<br/><i>financials</i>"]
+    R["CRSP<br/>(PERMNO)<br/><i>returns</i>"]
+    E ---|"cik_gvkey<br/>CIK"| C
+    C ---|"ccm_link<br/>GVKEY ↔ PERMNO"| R
+    classDef hub fill:#1b8a8f,stroke:#7cc7ff,color:#ffffff;
+    class C hub;
+```
+
+```{r}
+#| label: linked-sample
+dbExecute(con, "
+  CREATE OR REPLACE TEMP TABLE linked_sample AS
+  SELECT e.cik, e.accessionNumber, e.filingDate, g.gvkey, l.permno
+  FROM edgar_10k e
+  JOIN cik_gvkey g USING (cik)
+  JOIN ccm_link  l
+    ON l.gvkey = g.gvkey
+   AND e.filingDate BETWEEN l.linkdt AND l.linkenddt
+  WHERE e.form = '10-K'
+    AND e.cik IS NOT NULL
+")
+
+dbGetQuery(con, "SELECT * FROM linked_sample LIMIT 5")
+```
+
+Report how many filings made it through. Filings that drop out (no current CIK match, foreign issuers, timing gaps) are worth reporting.
+
+```{r}
+#| label: match-rate
+counts <- dbGetQuery(con, "
+  SELECT
+    (SELECT COUNT(*) FROM edgar_10k
+       WHERE form = '10-K' AND cik IS NOT NULL)         AS n_filings,
+    (SELECT COUNT(*) FROM linked_sample)                AS n_with_permno
+")
+
+counts |>
+  mutate(pct_linked = round(100 * n_with_permno / n_filings, 1))
+```
+
+## Reference
+
+The Compustat and CRSP material, and the CRSP–Compustat (CCM) link used here, follow Ian D.
+Gow and Tongqing Ding, very helpful textbook [**Empirical Research in Accounting: Tools and Methods**](https://iangow.github.io/far_book/){target="_blank"}
