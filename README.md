@@ -68,6 +68,16 @@ The `data/` folder keeps the same conceptual separation used in `treat`:
 
 `info/edgar_10k_intro.qmd` is a standalone tutorial that shows how to access and query the EDGAR 10-K dataset directly. It is not part of the analysis pipeline but provides a helpful reference for understanding the data source.
 
+## Credentials
+
+A `_secrets.env` template is included in the repository root. If any script you add later requires credentials (e.g. a WRDS username and password), copy this file to `secrets.env` and fill in your values:
+
+```bash
+cp _secrets.env secrets.env
+```
+
+Then edit `secrets.env` with your credentials. The file `secrets.env` is listed in `.gitignore` and will never be committed. The current workflow does not depend on this file.
+
 ## References
 
 The paper cites Dyer, Lang & Stice-Lawrence (2017) and uses `doc/references.bib` for the bibliography.

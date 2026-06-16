@@ -1,6 +1,7 @@
 # Local files
 .DS_Store
 *.log
+secrets.env
 
 # Generated data and output
 data/pulled/
