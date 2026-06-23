@@ -11,6 +11,10 @@ RUN apt-get update \
       xz-utils \
       ca-certificates \
       curl \
+      python3 \
+      python3-pip \
+      python3-venv \
+      python3-dev \
       libcurl4-openssl-dev \
       libssl-dev \
       libxml2-dev \
@@ -29,6 +33,14 @@ RUN install2.r --error --skipinstalled \
       rvest \
  && rm -rf /tmp/downloaded_packages
 
+RUN python3 -m pip install --break-system-packages --no-cache-dir \
+      jupyter \
+      ipykernel \
+      pandas \
+      numpy \
+      pyarrow \
+      openpyxl
+      
 RUN Rscript -e "tinytex::install_tinytex(dir = '/opt/TinyTeX', force = TRUE)" \
  && ln -sf /opt/TinyTeX/bin/*/* /usr/local/bin/
 

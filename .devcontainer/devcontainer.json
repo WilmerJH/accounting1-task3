@@ -25,7 +25,9 @@
       "extensions": [
         "REditorSupport.r",
         "quarto.quarto",
-        "GitHub.vscode-github-actions"
+        "GitHub.vscode-github-actions",
+        "ms-python.python",
+        "ms-toolsai.jupyter"
       ]
     }
   }
