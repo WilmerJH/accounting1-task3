@@ -8,6 +8,10 @@ data/pulled/
 data/generated/
 output/
 
+# Big files which have download links
+data/external/cik_to_permno.csv
+data/external/cik_to_permno.csv.gz
+
 # R / Quarto
 .Rproj.user
 .Rhistory
