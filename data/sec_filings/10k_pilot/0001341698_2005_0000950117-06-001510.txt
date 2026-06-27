@@ -1,0 +1,370 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>a41701.txt
+<DESCRIPTION>USAA AUTO OWNERS TRUST 2005-3
+<TEXT>
+
+<PAGE>
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+                                    FORM 10-K
+
+(Mark One)
+
+(X)   ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+ACT OF 1934.
+
+For the fiscal year ended December 31, 2005
+
+                                       or
+
+( )   TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+EXCHANGE ACT OF 1934.
+
+Commission file number 333-122759-03
+
+                      USAA AUTO OWNER TRUST 2005-3 (Issuer)
+                 USAA ACCEPTANCE, LLC (Originator of the Trust)
+             (Exact name of registrant as specified in its charter)
+
+               DELAWARE                                          72-6216179
+      (State or other jurisdiction of                         (I.R.S. Employer
+      incorporation or organization)                         Identification No.)
+
+      One Rodney Square
+      920 King Street, 1st Floor
+      Wilmington, Delaware                                           19801
+(Address of principal executive offices)                          (Zip Code)
+
+                                 (302) 888-7536
+                             (Registrant's telephone
+                          number, including area code)
+
+Securities registered pursuant to Section 12(b) of the Act: NONE
+
+Securities registered pursuant to Section 12(b) of the Act: NONE
+
+Indicate by check mark if the registrant is a well-known seasoned issuer, as
+defined in Rule 405 of the Securities Act. ( ) Yes (X) No
+
+Indicate by check mark if the registrant is not required to file reports
+pursuant to Section 13 or Section 15(d) of the Act. ( ) Yes (X) No
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months (or for such shorter period that the registrant was
+required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days. (X) Yes ( ) No
+
+
+
+
+
+<PAGE>
+
+Indicate by check mark whether the registrant is a large accelerated filer, an
+accelerate filer, or a non-accelerated filer. See definition of "accelerated
+filer and large accelerated filer" in Rule 12b-2 of the Exchange Act. (Check
+one):
+
+Larger accelerated filer ( ) Accelerated filer ( ) Non - accelerated filer (X).
+
+Indicate by check mark whether the registrant is a shell company (as defined in
+Rule 12b-2 of the Act). ( ) Yes (X) No
+
+State the aggregate market value of the voting and non-voting common equity held
+by non-affiliates computed by reference to the price at which the common equity
+was last sold, or the average bid and asked price of such common equity, as of
+the last business day of the registrant's most recently completed second fiscal
+quarter. Not Applicable.
+
+Indicate the number of shares outstanding of each of the registrant's classes of
+common stock, as of the latest practicable date. Not Applicable.
+
+USAA Auto Owner Trust 2005-3 had four classes of notes and one class of
+certificates outstanding as of December 31, 2005. The notes represent the Asset
+Backed Notes Class A-1, Asset Backed Notes Class A-2, Asset Backed Notes Class
+A-3, and Asset Backed Notes Class A-4 of USAA Auto Owner Trust 2005-3. The
+certificates represent the Class B Asset Backed Certificates of USAA Auto Owner
+Trust 2005-3.
+
+The registrant is filing this Annual Report on Form 10-K in a reduced disclosure
+format pursuant to a no-action letter received by USAA Federal Savings Bank from
+the Securities and Exchange Commission dated December 23, 1993. Items that are
+not referred to in this Annual Report are omitted because they are not
+applicable under such no action letter
+
+                          USAA AUTO OWNER TRUST 2005-3
+                            USAA FEDERAL SAVINGS BANK
+
+                                     PART I
+
+ITEM 1A. RISK FACTORS
+
+Not applicable.
+
+ITEM 1B. UNRESOLVED STAFF COMMENTS
+
+Not applicable. The registrant is not an accelerated filer or a large
+accelerated filer.
+
+ITEM 2. PROPERTIES
+
+      USAA Auto Owner Trust 2005-3 (the Trust) is governed by an Amended and
+Restated Trust Agreement dated October 20, 2005, between USAA Acceptance, LLC,
+as Depositor and Wachovia Trust Company, National Association, as Owner Trustee.
+The Trust is party to a Sale and Servicing Agreement dated as of October 1, 2005
+among USAA Auto Owner Trust 2005-3, as Issuer, USAA Acceptance, LLC, as
+Depositor, and USAA Federal Savings Bank as Seller and Servicer (the "Sale and
+Servicing Agreement").
+
+      The Trust was established solely for the purpose of acquiring the fixed
+rate simple interest motor vehicle installment loans and related collateral (the
+Receivables), issuing its 4.17% Class A-1 Asset Backed Trust Notes, 4.52% Class
+A-2 Asset Backed Trust Notes, 4.55% Class A-3 Asset Backed Trust Notes, 4.63%
+Class A-4 Asset Backed Trust Notes pursuant to an Indenture between the Trust
+and JPMorgan Chase Bank, National Association, as Indenture Trustee, dated as of
+October 20, 2005, and issuing 5.03% Class B Asset Backed Trust Certificates
+pursuant to the Trust Agreement, and engaging in related transactions.
+
+
+
+
+
+<PAGE>
+
+The property of the Trust consists of the Receivables described above. A summary
+of Receivable activity and delinquency information follows (unaudited):
+
+                                                  Units    ($ in 000's)
+                                                  ------   ------------
+Original Receivables outstanding,                 73,755   $  1,497,477
+   October 1, 2005
+Prepayments                                        3,537   $     49,194
+
+Receivables outstanding,                          71,082   $  1,382,924
+   December 31, 2005
+
+Delinquent Receivables as of December 31, 2005:
+
+                                                  Units    ($ in 000's)
+                                                  -----    ------------
+31-60 days                                          107    $      1,858
+61-90 days                                           28    $        496
+91 days or more                                       8    $        126
+                                                  -----    ------------
+  Total                                             143    $      1,479
+
+Gross losses for the period ending December 31, 2005 were approximately $
+447,597. Net losses for the period ending December 31, 2005 were approximately $
+419,156.
+
+Summary of certain distributions made by the Trust as of December 31, 2005
+(unaudited):
+
+<TABLE>
+<CAPTION>
+                                                Ending                                         Total        Reserve Fund
+Class                                           Balance         Interest      Principal      Amount Paid    Withdrawals
+<S>                                          <C>              <C>           <C>             <C>             <C>
+A-1 Notes                                    $ 213,446,714    $ 2,918,680   $114,553,286    $ 117,471,966   $          -
+
+A-2 Notes                                    $ 346,000,000    $ 3,692,589   $          -    $   3,692,589   $          -
+
+A-3 Notes                                    $ 477,000,000    $ 5,124,438   $          -    $   5,124,438   $          -
+
+A-4 Notes                                    $ 290,321,000    $ 3,173,773   $          -    $   3,173,773   $          -
+
+B Certificates                               $  56,155,933    $   666,930   $          -    $     666,930   $          -
+
+Total Reserve Fund Withdrawal:                                                                              $          -
+
+Total Deposits to Reserve Fund                                                                              $  4,068,079
+Reserve Account Balance (% of Pool Balance)                                                                         1.15%
+
+Total Servicing Fee:                                                                                        $  1,824,093
+</TABLE>
+
+
+
+
+
+<PAGE>
+
+ITEM 3. LEGAL PROCEEDINGS
+
+      None.
+
+ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+      None.
+
+                                     PART II
+
+ITEM 5. MARKET FOR REGISTRANT'S COMMON EQUITY AND RELATED STOCKHOLDER MATTERS
+
+      As of December 31, 2005, there are fewer than 300 direct participants of
+record of the Asset Backed Notes and Asset Backed Certificates. There is no
+secondary market for these securities.
+
+      The information required with respect to "Securities Authorized for
+Issuance Under Equity Compensation Plans" is not applicable to the registrant.
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+Not applicable.
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+FINANCIAL DISCLOSURE
+
+None.
+
+ITEM 9A. CONTROLS AND PROCEDURES
+
+Not applicable.
+
+ITEM 9B. OTHER INFORMATION
+
+None.
+
+ITEM 14. PRINCIPAL ACCOUNTANT FEES AND SERVICES
+
+Not applicable.
+
+                                     PART IV
+
+ITEM 15. EXHIBITS, FINANCIAL STATEMENTS, SCHEDULES AND REPORTS ON FORM 10-K
+
+      (a)   (1) Pursuant to the Sale & Servicing Agreement, the Servicer is
+            required (i) to deliver an annual statement as to compliance with
+            the provisions of the Sale & Servicing Agreement and certain other
+            matters, (the "Annual Statement of the Servicer") and (ii) to cause
+            a firm of independent public accountants to deliver an annual report
+            as to compliance with the servicing provisions of the Sale and
+            Servicing Agreement (the "Accountants' Annual Report"). Both the
+            Annual Statement of the Servicer and the Accountants' Annual Report
+            are attached as Exhibits 99.3 and 99.4, respectively, to this
+            Report.
+
+
+
+
+
+<PAGE>
+
+            (2)   Not applicable.
+
+            (3)   Exhibits:
+
+                  3.1   Amended and Restated Limited Liability Company
+                        Agreement, as amended (incorporated by reference to the
+                        registrant's filing on Form 8-K filed with the
+                        Commission on October 4, 2006)
+
+                  4.1   Indenture dated as of October 20, 2005 (incorporated by
+                        reference to the Trust's filing on Form 8-K filed with
+                        the Commission on October 21, 2005)
+
+                  4.2   Amended and Restated Trust Agreement dated as of October
+                        20, 2005 (incorporated by reference to the Trust's
+                        filing on Form 8-K filed with the Commission on October
+                        21, 2005)
+
+                  10.1  Sale and Servicing Agreement dated as of October 1, 2005
+                        (incorporated by reference to the Trust's filing on Form
+                        8-K filed with the Commission on October 21, 2005)
+
+                  31.1  Rule 15d-14(a) Certification
+
+                  99.1  Administration Agreement dated as of October 20, 2005
+                        (incorporated by reference to the Trust's filing on Form
+                        8-K filed with the Commission on October 21, 2005)
+
+                  99.2  Receivables Purchase Agreement dated as of October 1,
+                        2005 (incorporated by reference to the Trust's filing on
+                        Form 8-K filed with the Commission on October 21, 2005)
+
+                  99.3  Annual Statement of the Servicer.
+
+                  99.4  Accountant's Annual Report
+
+      (b)   See subparagraph (a) (3) above.
+
+      (c)   Not applicable.
+
+      SUPPLEMENTAL INFORMATION TO BE FURNISHED WITH REPORTS FILED PURSUANT TO
+SECTION 15(d) OF THE ACT BY REGISTRANTS WHICH HAVE NOT REGISTERED SECURTIES
+PURSUANT TO SECTION 12 OF THE ACT.
+
+      No such annual report, proxy statement, form of proxy or other soliciting
+material has been sent to Noteholders. The registrant will not be sending an
+annual report or proxy material to its Noteholders subsequent to the filing of
+this form.
+
+
+                                   SIGNATURES
+
+      Pursuant to the requirements of Section 13 or 15(d) of the Securities and
+Exchange Act of 1934, the registrant has duly caused this report to be signed on
+its behalf by the undersigned, thereunto duly authorized.
+
+                                   USAA FEDERAL SAVINGS BANK, as Servicer
+
+                                   By:   /s/ MICHAEL J. BROKER
+                                       -----------------------------------------
+                                         Michael J. Broker
+                                         (Duly Authorized Officer of
+                                         USAA Federal Savings Bank, as Servicer,
+                                         on behalf of the Trust)
+
+
+
+
+
+<PAGE>
+
+                                  EXHIBIT INDEX
+
+<TABLE>
+<CAPTION>
+                                                           PAGE NUMBER
+EXHIBIT      DOCUMENT                                      SEQUENTIAL
+-------      --------                                      ----------
+<S>          <C>                                           <C>
+3.1          Amended and Restated Limited Liability        (incorporated by reference to the
+             Company Agreement, as amended                 registrant's filing on Form 8-K filed with
+                                                           the Commission on October 4, 2006)
+
+4.1          Indenture dated as of October 20, 2005        (incorporated by reference to the Trust's
+                                                           filing on Form 8-K filed with the Commission
+                                                           on October 21, 2005)
+
+4.2          Amended and Restated Trust Agreement dated    (incorporated by reference to the Trust's
+             as of October 20, 2005                        filing on Form 8-K filed with the Commission
+                                                           on October 21, 2005)
+
+10.1         Sale and Servicing Agreement dated as of      (incorporated by reference to the Trust's
+             October 1, 2005                               filing on Form 8-K filed with the Commission
+                                                           on October 21, 2005)
+
+31.1         Rule 15d-14(a) Certification                  Filed herein
+
+99.1         Administration Agreement dated as of          (incorporated by reference to the Trust's
+             October 20, 2005                              filing on Form 8-K filed with the Commission
+                                                           on October 21, 2005)
+
+99.2         Receivables Purchase Agreement dated as of    (incorporated by reference to the Trust's
+             October 1, 2005                               filing on Form 8-K filed with the Commission
+                                                           on October 21, 2005)
+
+99.3         Annual Statement of the Servicer.             Filed herein
+
+99.4         Accountants' Annual Report - Independent      Filed herein
+             Accountants' Reports and Management
+             Assertions.
+</TABLE>
+</TEXT>
+</DOCUMENT>

@@ -1,0 +1,643 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>aeg05003_10k-2005.txt
+<TEXT>
+
+                                       UNITED STATES
+                             SECURITIES AND EXCHANGE COMMISSION
+                                   WASHINGTON, D.C. 20549
+
+
+
+                                          FORM 10-K
+
+
+  (Mark one)
+
+  /X/ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+      EXCHANGE ACT OF 1934
+      For the fiscal year ended December 31, 2005
+
+      OR
+
+
+
+  / / TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+      EXCHANGE ACT OF 1934
+
+
+      Commission File Number:  333-124934-01
+
+
+        Aegis Asset Backed Securities Corporation
+
+     (Exact name of registrant as specified in its charter)
+
+
+     Delaware                                           43-1964014
+   (State or other jurisdiction of                   (I.R.S Employer
+   incorporation or organization)                    Identification No.)
+
+
+
+   3250 Briarpark, 4th Floor
+   Houston, TX                                  77450
+  (Address of principal executive offices)    (Zip Code)
+
+
+  Registrant's telephone number, including area code: (713) 787-0100
+
+  Aegis Asset Backed Securities Trust
+  Mortgage Backed Notes
+  Series 2005-3
+
+  (Title of each class of securities covered by this form)
+
+
+  Securities registered pursuant to Section 12(b) of the Act:
+
+        NONE.
+
+
+  Securities registered pursuant to Section 12(g) of the Act:
+
+        NONE.
+
+
+  Indicate by check mark if the registrant is a well-known seasoned issuer,
+  as defined in Rule 405 of the Securities Act.
+
+        Yes  ___     No  X
+
+
+  Indicate by check mark if the registrant is not required to file reports
+  pursuant to Section 13 or Section 15(d) of the Act.
+
+        Yes  ___     No  X
+
+
+  Indicate by check mark whether the registrant (1) has filed all reports
+  required to be filed by Section 13 or 15(d) of the Securities Exchange
+  Act of 1934 during the preceding 12 months (or for such shorter period
+  that the registrant was required to file such reports), and (2) has been
+  subject to such filing requirements for the past 90 days.
+
+        Yes  X       No  ___
+
+
+  Indicate by check mark if disclosure of delinquent filers pursuant to
+  Item 405 of Regulation S-K ( 229.405 of this chapter) is not contained
+  herein, and will not be contained, to the best of registrant's knowledge,
+  in definitive proxy or information statements incorporated by reference
+  in Part III of this Form 10-K or any amendment to this Form 10-K.
+
+        Not applicable.
+
+
+  Indicate by check mark whether the registrant is a large accelerated filer,
+  an accelerated filer, or a non-accelerated filer. See Definition of
+  "accelerated filer and large accelerated filer" in Rule 12b-2 of the
+  Exchange Act. (Check One):
+
+
+  Large Accelerated Filer ___  Accelerated Filer ___  Non-Accelerated Filer X
+
+
+  Indicate by check mark whether the registrant is a shell company (as
+  defined in Rule 12b-2 of the Act).
+
+        Yes  ___     No  X
+
+
+  State the aggregate market value of the voting and non-voting common
+  equity held by non-affiliates computed by reference to the price at which
+  the common equity was last sold, or the average bid and asked price of
+  such common equity, as of the last business day of the registrant's most
+  recently completed second fiscal quarter.
+
+        Not applicable.
+
+
+     Documents Incorporated by Reference
+
+  List hereunder the following documents if incorporated by reference and
+  the Part of the Form 10-K (e.g. Part I, Part II, etc.) into which the
+  document is incorporated: (1)Any annual report to security holders; (2)
+  Any proxy or information statement; and (3)Any prospectus filed pursuant
+  to Rule 424(b) or (c) under the Securities Act of 1933. The listed
+  documents should be clearly described for identification purposes (e.g.
+  annual report to security holders for fiscal year ended December 24, 1980).
+
+        Not applicable.
+
+
+                                   PART I
+  Item 1.  Business.
+
+            Not applicable.
+
+
+  Item 1A.  Risk Factors.
+
+            Not applicable.
+
+
+  Item 1B.  Unresolved Staff Comments.
+
+            Not applicable.
+
+
+  Item 2.  Properties.
+
+            Not applicable.
+
+
+  Item 3.  Legal Proceedings.
+
+            The registrant knows of no material pending legal proceedings
+            involving the trust created under the Pooling and Servicing
+            Agreement (the Trust), the Trustee, the Servicer or the
+            registrant with respect to the Trust other than routine
+            litigation incidental to the duties of the respective parties.
+
+
+  Item 4.  Submission of Matters to a Vote of Security Holders.
+
+            None.
+
+                                PART II
+
+  Item 5.  Market for Registrant's Common Equity, Related Stockholder
+           Matters and Issuer Purchases of Equity Securities.
+
+            No established public trading market for the Certificates exists.
+
+            Records provided to the Trust by the DTC and the Trustee
+            indicate that as of December 31, 2005, the total number of holders
+            of record for the Series of Certificates is 36.
+
+
+  Item 6.  Selected Financial Data.
+
+            Not applicable.
+
+  Item 7.  Management's Discussion and Analysis of Financial Condition and
+           Results of Operation.
+
+
+            Not applicable.
+
+
+  Item 7A. Quantitative and Qualitative Disclosures about Market Risk.
+
+            Not applicable.
+
+
+  Item 8.  Financial Statements and Supplementary Data.
+
+            Not applicable.
+
+
+  Item 9.  Changes in and Disagreements with Accountants on Accounting and
+           Financial Disclosure.
+
+            None.
+
+
+  Item 9A. Controls and Procedures.
+            Not applicable.
+
+
+  Item 9B. Other Information.
+
+            None.
+
+
+                                PART III
+
+  Item 10. Directors and Executive Officers of the Registrant.
+
+            Not applicable.
+
+
+  Item 11. Executive Compensation.
+
+            Not applicable.
+
+  Item 12. Security Ownership of Certain Beneficial Owners and Management
+           and Related Stockholder Matters.
+
+            Not applicable.
+
+  Item 13. Certain Relationships and Related Transactions.
+
+            Not applicable.
+
+
+  Item 14. Principal Accounting Fees and Services.
+
+            Not applicable.
+
+
+                                PART IV
+
+  Item 15. Exhibits, Financial Statement Schedules.
+
+   (a) Exhibits
+
+     (31.1) Rule 13a-14(a)/15d-14(a) Certification
+
+    (99.1) Independent Accountants' Report.
+
+      <TABLE>
+
+      <s>         <c>
+      a) Aegis Mortgage Corporation, as Sub-Servicer for Ocwen Loan Servicing, LLC, f/k/a Ocwen Federal Bank FSB <F1>
+      b) Ocwen Loan Servicing, LLC, as Named Servicer, f/k/a Ocwen Federal Bank FSB <F1>
+
+      </TABLE>
+
+     (99.2) Management's Assertion.
+
+      <TABLE>
+
+      <s>        <c>
+      a) Aegis Mortgage Corporation, as Sub-Servicer for Ocwen Loan Servicing, LLC, f/k/a Ocwen Federal Bank FSB <F1>
+      b) Ocwen Loan Servicing, LLC, as Named Servicer, f/k/a Ocwen Federal Bank FSB <F1>
+
+      </TABLE>
+
+     (99.3) Annual Statements of Compliance under the Pooling and Servicing
+            Agreements.
+
+      <TABLE>
+
+      <s>         <c>
+      a) Ocwen Loan Servicing, LLC, as Servicer, f/k/a Ocwen Federal Bank FSB <F1>
+
+      </TABLE>
+
+
+     (99.4) Aggregate Statement of Principal and Interest Distributions to
+            Certificate Holders.
+
+
+   (b) Not applicable.
+
+   (c) Omitted.
+
+
+  <F1> Filed herewith.
+
+
+                                SIGNATURES
+
+  Pursuant to the requirements of Section 13 or 15(d) of the Securities
+  Exchange Act of 1934, the registrant has duly caused this report to be
+  signed on its behalf by the undersigned, thereunto duly authorized:
+
+
+
+    Aegis Asset Backed Securities Corporation
+    (Registrant)
+
+
+  Signed: Aegis Asset Backed Securities Corporation as Depositor
+
+  By:     Patrick Walden, President
+
+  By: /s/ Patrick Walden, President
+
+  Dated:  March 22, 2006
+
+
+  Exhibit Index
+
+  Exhibit No.
+
+  Ex-31.1 Rule 13a-14(a)/15d-14(a) Certification
+
+  I, Patrick Walden, certify that:
+
+  1. I have reviewed this annual report on Form 10-K, and all reports on
+     Form 8-K containing distribution or servicing reports filed in
+     respect of periods included in the year covered by this annual report,
+     of Aegis Asset Backed Securities Trust Asset Backed Securities,
+     Series 2005-3 Trust;
+
+  2. Based on my knowledge, the information in these reports, taken as a
+     whole, does not contain any untrue statement of a material fact or
+     omit to state a material fact necessary to make the statements made,
+     in light of the circumstances under which such statements were made,
+     not misleading as of the last day of the period covered by this
+     annual report;
+
+  3. Based on my knowledge, the distribution or servicing information
+     required to be provided to the Trustee by the Servicer under the
+     Pooling and Servicing or similar, agreement, for inclusion in these
+     reports is included in these reports;
+
+  4. Based on my knowledge and upon the annual compliance statement
+     included in the report and required to be delivered to the trustee in
+     accordance with the terms of the pooling and servicing, or similar,
+     agreement, and except as disclosed in the reports, the servicer has
+     fulfilled its obligations under the servicing agreement; and
+
+  5. The reports disclose all significant deficiencies relating to the
+     servicer's compliance with the minimum servicing standards based upon
+     the report provided by an independent public accountant, after
+     conducting a review in compliance with the Uniform Single Attestation
+     Program for Mortgage Bankers or similar procedure, as set forth in
+     the pooling and servicing, or similar, agreement, that is included in
+     these reports.
+
+     In giving the certifications above, I have reasonably relied on
+     information provided to me by the following unaffiliated parties:
+     Ocwen Loan Servicing, LLC, as Servicer, f/k/a Ocwen Federal Bank FSB.
+
+     Date: March 22, 2006
+
+     /s/ Patrick Walden
+     Signature
+
+     President
+     Title
+
+
+  EX-99.1 (a)
+(logo) KPMG
+
+KPMG LLP
+Suite 3100
+717 North Harwood Street
+Dallas, TX 75201-6585
+
+
+Independent Accountants' Report
+
+
+The Board of Directors
+Aegis Mortgage Corporation:
+
+
+We have examined the management assertion, included in the accompanying
+Management's Report, that Aegis Mortgage Corporation (the Corporation) complied
+with the minimum servicing standards set forth in the Mortgage Bankers
+Association of America's Uniform Single Attestation Program for Mortgage
+Bankers (USAP) as of and for the year ended December 31, 2005. Management is
+responsible for the Corporation's compliance with those minimum servicing
+standards. Our responsibility is to express an opinion on management's
+assertion about the Corporation's compliance based on our examination.
+
+Our examination was conducted in accordance with attestation standards
+established by the American Institute of Certified Public Accountants and,
+accordingly, included examining, on a test basis, evidence about the
+Corporation's compliance with the minimum servicing standards specified above
+and performing such other procedures as we considered necessary in the
+circumstances. We believe that our examination provides a reasonable basis for
+our opinion. Our examination does not provide a legal determination on the
+Corporation's compliance with the minimum servicing standards.
+
+In our opinion, management's assertion that Aegis Mortgage Corporation complied
+with the aforementioned minimum servicing standards as of and for the year
+ended December 31, 2005, is fairly stated, in all material respects.
+
+
+/s/KPMG LLP
+
+
+March 10, 2006
+
+
+KPMG LLP, a U.S. limited liability partnership, is the U.S.
+member firm of KPMG International, a Swiss cooperative.
+
+
+  EX-99.1 (b)
+(logo) PRICEWATERHOUSECOOPERS
+
+PricewaterhouseCoopers LLP
+222 Lakeview Avenue
+Suite 360
+West Palm Beach FL 33401
+Telephone (561) 832 0038
+Facsimile (561) 805 8181
+
+
+Report of Independent Certified Public Accountants
+
+
+To the Board of Directors of
+Ocwen Loan Servicing, LLC
+
+
+We have examined management's assertion that Ocwen Loan Servicing, LLC ("OLS"),
+as successor to Ocwen Federal Bank FSB (the "Bank"), has complied with the
+minimum servicing standards identified in the Mortgage Bankers Association of
+America's ("MBA's") Uniform Single Attestation Program for Mortgage Bankers
+("USAP") as of and for the year ended December 31, 2005 included in the
+accompanying Management Assertion on Compliance with USAP. Management is
+responsible for OLS's compliance with those minimum servicing standards. Our
+responsibility is to express an opinion on management's assertion about OLS's
+compliance based on our examination.
+
+Our examination was made in accordance with attestation standards established by
+the American Institute of Certified Public Accountants and, accordingly,
+included examining, on a test basis, evidence about OLS's compliance with the
+minimum servicing standards and performing such other procedures as we
+considered necessary in the circumstances. We believe that our examination
+provides a reasonable basis for our opinion. Our examination does not provide a
+legal determination on OLS's compliance with the minimum servicing standards.
+
+Our examination disclosed noncompliance with minimum servicing standards related
+to custodial account reconciliations and adjustments on adjustable rate
+mortgages applicable to OLS during the year ended December 31, 2005 which is
+described in the accompanying Management Assertion on Compliance with USAP.
+
+In our opinion, management's assertion that OLS complied with the aforementioned
+minimum servicing standards, except for noncompliance as described in the
+accompanying Management Assertion on Compliance with USAP, as of and for the
+year ended December 31, 2005 is fairly stated, in all material respects.
+
+
+
+/s/ PricewaterhouseCoopers LLP
+
+
+February 27, 2006
+
+
+
+
+  EX-99.2 (a)
+(logo)
+Aegis
+Mortgage
+
+3250 Briarpark
+Suite 400
+Houston, TX 77042
+713-787-0100
+Fax:713-735-5287
+
+
+Management Assertion
+
+
+As of and for the year ended December 31, 2005, Aegis Mortgage Corporation
+has complied in all material respects with the minimum servicing standards
+set forth in the Mortgage Bankers Association of America's Uniform Single
+Attestation Program for Mortgage Bankers. As of and for this same period,
+Aegis Mortgage Corporation had in effect fidelity bond and errors and
+omissions policies in the amount of $5,000,000 and $5,000,000, respectively.
+
+
+/s/Patrick A. Walden
+Patrick A. Walden
+President, Aegis Asset Backed Securities Corporation
+
+
+March 10, 2006
+
+
+  EX-99.2 (b)
+(logo) OCWEN
+
+
+MANAGEMENT ASSERTION ON COMPLIANCE WITH USAP
+
+
+February 27, 2006
+
+As of and for the year ended December 31, 2005, Ocwen Loan Servicing, LLC
+("OLS"), as successor to Ocwen Federal Bank FSB (the "Bank"), except as
+specifically noted below, has complied in all material respects with the minimum
+servicing standards set forth in the Mortgage Bankers Association of America's
+("MBA's") Uniform Single Attestation Program for Mortgage Bankers ("USAP")
+
+* Standard: Reconciliations shall be prepared on a monthly basis for all
+  custodial bank accounts and related bank clearing accounts. These
+  reconciliations shall be mathematically accurate, be prepared within forty
+  five (45) calendar days of the cutoff date; be reviewed and approved by
+  someone other than the person who prepared the reconciliation; and document
+  explanations for reconciling items. These reconciling items shall be
+  resolved within ninety (90) calendar days of their original identification.
+
+We have complied with all aspects of this standard with the exception of certain
+reconciling items which arose during the year ended December 31, 2005 were not
+cleared within 90 days of their original identification. All items identified
+were subsequently cleared within 6 months. As of December 31, 2005, there was
+exactly 1 reconciling item totaling $431.07 that had not cleared within 90 days
+of identification.
+
+
+* Standard: Adjustments on ARM loans shall be computed based on the related
+  mortgage note and any ARM rider.
+
+Certain ARM loans serviced by OLS were transferred in with an incorrect look
+back date due to errors in prior servicer records. These certain loans had ARM
+adjustments shortly after servicing transfer, but prior to OLS receiving the
+related mortgage documents from the prior servicer. When OLS received the
+mortgage documents and these errors were identified, OLS did not adjust the
+principal and interest payment amount. OLS has subsequently made adjustments to
+their procedures when they identify an error in prior servicer data to analyze
+the affect on the customer's account and make the appropriate adjustment.
+
+
+(PAGE)
+
+
+As of and for this same period, OLS had in effect a fidelity bond in the amount
+of $20,000,000 and an errors and omissions policy in the amount of $5,000,000.
+
+
+/s/ Ronald M. Faris
+Ronald M. Faris
+President
+
+
+/s/ Scott W. Anderson
+Scott W. Anderson
+Senior Vice President of
+Residential Assets
+
+
+
+/s/ Brian J. LaForest
+Brian J. LaForest
+Director of Investor Reporting
+
+
+/s/ Thomas Vickers
+Thomas Vickers
+Director and Servicing Controller
+
+
+
+  EX-99.3
+(logo)
+OCWEN
+
+
+Ocwen Loan Servicing, LLC
+successor in interest to
+Ocwen Federal Bank FSB
+Compliance Certification Year Ended December 31, 2005
+AEGIS 2005-3
+
+
+The undersigned Officer of Ocwen Loan Servicing, LLC successor in interest to
+Ocwen Federal Bank FSB (the "Servicer") confirms that a review of the activities
+of the Servicer during the calendar year ending on December 31, 2005 and of the
+performance of the Servicer under the Transfer and Servicing Agreement Aegis
+Asset Backed Securities Trust 2005-3 Mortgage Backed Notes Dated as of June 1,
+2005 (the "Servicing Agreement") has been made under his supervision. Except as
+noted on the Management Assertion on Compliance with USAP, to the best of the
+undersigned Officer's knowledge, based on such review, the Servicer has
+fulfilled all of its obligations as set forth in the Servicing Agreement.
+
+
+By: /s/ Scott W. Anderson
+    Scott W. Anderson, Senior Vice President
+
+Dated: February 28, 2006
+
+
+Ocwen Loan Servicing LLC
+1661 Worthington Road Suite 100
+Centrepark West
+West Palm Beach, FL 33409
+
+
+
+
+
+  Ex-99.4
+
+   Schedule of Year-To-Date Principal and Interest Distributions to
+   Certificateholders
+
+
+   <TABLE>
+
+   Class                              Interest             Principal               Losses             Ending Balance
+   <s>                       <c>                    <c>                  <c>                 <c>
+   A1                             5,372,347.96         83,042,564.45                 0.00             218,715,435.55
+   A2                             6,482,658.13                  0.00                 0.00             320,777,000.00
+   A3                               853,229.48                  0.00                 0.00              40,890,000.00
+   B1                               340,850.93                  0.00                 0.00              13,600,000.00
+   B2                               296,294.86                  0.00                 0.00              11,475,000.00
+   B3                               262,696.69                  0.00                 0.00               9,350,000.00
+   CE                                     0.00                  0.00                 0.00                       0.00
+   M1                               726,648.47                  0.00                 0.00              34,000,000.00
+   M2                               646,426.03                  0.00                 0.00              30,175,000.00
+   M3                               410,673.52                  0.00                 0.00              19,125,000.00
+   M4                               387,383.17                  0.00                 0.00              17,425,000.00
+   M5                               351,974.65                  0.00                 0.00              15,725,000.00
+   M6                               354,359.60                  0.00                 0.00              15,725,000.00
+   N1                               682,140.24         14,436,512.06                 0.00              20,843,489.11
+   N2                               260,190.00                  0.00                 0.00               8,820,000.00
+   </TABLE>
+</TEXT>
+</DOCUMENT>

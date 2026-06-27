@@ -1,0 +1,201 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>c37404_10k.txt
+<TEXT>
+
+================================================================================
+--------------------------------------------------------------------------------
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                              --------------------
+
+                                    FORM 10-K
+
+(Mark One)
+[X]          ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+             EXCHANGE ACT OF 1934
+                    For the fiscal year ended June 15, 2005
+
+                                       OR
+
+[ ]          TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+             EXCHANGE ACT OF 1934
+                       For the transition period from ______ to _______
+
+
+                      Commission file number 333-112244-18
+                   HARTFORD LIFE GLOBAL FUNDING TRUST 2004-018
+                (BY HARTFORD LIFE INSURANCE COMPANY AS DEPOSITOR)
+             (Exact name of registrant as specified in its charter)
+
+           DELAWARE                                                NONE
+(State or other jurisdiction of                             (I.R.S. Employer
+incorporation or organization)                            Identification Number)
+
+
+                   HARTFORD LIFE GLOBAL FUNDING TRUST 2004-018
+                200 HOPMEADOW STREET, SIMSBURY, CONNECTICUT 06089
+                    (Address of principal executive offices)
+
+                                 (860) 547-5000
+              (Registrant's telephone number, including area code)
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+                                                           NAME OF EACH EXCHANGE
+         TITLE OF EACH CLASS                               ON WHICH REGISTERED
+--------------------------------------------------------------------------------
+5.25% Callable Secured IncomeNotes(sm) due 2019            None
+of Hartford Life Global Funding Trust 2004-018
+
+Securities registered pursuant to Section 12(g) of the Act:  NONE
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months (or for such shorter period that the registrant was
+required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days. Yes [X] No [ ]
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405
+of Regulation S-K is not contained herein, and will not be contained, to the
+best of registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K. Yes [X] No [ ]
+
+
+
+<PAGE>
+
+Indicate by check mark whether the registrant is an accelerated filer (as
+defined in Exchange Act Rule 12b-2).  Yes [ ]  No [X]
+
+State the aggregate market value of the voting and non-voting common equity held
+by non-affiliates computed by reference to the price at which the common equity
+was last sold, or the average bid and asked price of such common equity, as of
+the last business day of the registrant's most recently completed second fiscal
+quarter. NONE.
+
+                   (APPLICABLE ONLY TO CORPORATE REGISTRANTS)
+
+Indicate the number of shares outstanding of each of the registrant's classes of
+common stock, as of the latest practicable date. NOT APPLICABLE.
+
+                       DOCUMENTS INCORPORATED BY REFERENCE
+
+Form 10-K filed by Hartford Life Insurance Company ("Hartford Life") on February
+28, 2005 and the Form 10-Qs filed by Hartford Life on May 2, 2005 and August 4,
+2005.
+
+                                     PART I
+
+ITEM 3.        LEGAL PROCEEDINGS.
+
+         None.
+
+ITEM 4.        SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS.
+
+         None.
+
+                                     PART II
+
+ITEM 5.        MARKET FOR REGISTRANT'S COMMON EQUITY, RELATED STOCKHOLDER
+               MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES.
+
+         None.
+
+                                    PART III
+
+ITEM 12.       SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+               AND RELATED STOCKHOLDER MATTERS.
+
+         Not applicable.
+
+ITEM 13.       CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS.
+
+         None.
+
+                                     PART IV
+
+ITEM 15.       EXHIBITS, FINANCIAL STATEMENT SCHEDULES, AND REPORTS ON FORM 8-K.
+
+Exhibit 31.1   Section 302 Certification.
+
+Exhibit 99.1   Annual Funds Application Statement.
+
+Exhibit 99.2   Report of Independent Registered Public Accounting Firm.
+
+Exhibit 99.3   Trustee Compensation Report.
+
+Exhibit 99.4   Administrative Report of the Trust.
+
+
+         For information relating to Hartford Life Insurance Company ("HLIC"),
+please see HLIC's (Commission file number 2-89516) periodic reports, including
+annual reports on Form 10-K, quarterly reports on Form 10-Q and current reports
+on Form 8-K, and other
+
+
+
+<PAGE>
+
+information on file with the Securities and Exchange Commission (the "SEC"). You
+can read and copy these reports and other information at the public reference
+facilities maintained by the SEC at Room 1024, 450 Fifth Street, NW, Washington,
+D.C. 20549. You may obtain copies of this material for a fee by writing to the
+SEC's Public Reference Section of the SEC at 450 Fifth Street, NW, Washington,
+D.C. 20549. You may obtain information about the operation of the Public
+Reference Room by calling the SEC at 1-800-SEC-0330. You can also access some of
+this information electronically by means of the SEC's website on the Internet at
+http://www.sec.gov, which contains reports and other information that HLIC has
+filed electronically with the SEC.
+
+--------------------------------------------------------------------------------
+
+                                   SIGNATURES
+
+         Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on
+its behalf by the undersigned, thereunto duly authorized.
+
+                               Hartford Life Global Funding Trust 2004-018
+                               (by Hartford Life Insurance Company as depositor)
+
+DATE:  August 10, 2005         By:  /s/  Jeffrey L. Johnson
+                               -----------------------------------
+                               Name:  Jeffrey L. Johnson
+                               Title: Assistant Vice President
+
+
+
+--------------------------------------------------------------------------------
+================================================================================
+
+
+
+                                  EXHIBIT INDEX
+
+EXHIBIT           DESCRIPTION
+
+--------------------------------------------------------------------------------
+
+Exhibit 31.1      Section 302 Certification.
+
+Exhibit 99.1      Annual Funds Application Statement.
+
+Exhibit 99.2      Report of Independent Registered Public Accounting Firm.
+
+Exhibit 99.3      Trustee Compensation Report.
+
+Exhibit 99.4      Administrative Report of the Trust.
+
+================================================================================
+
+
+
+
+</TEXT>
+</DOCUMENT>

@@ -1,0 +1,1263 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>smt12002_10k-2012.txt
+<TEXT>
+
+                                UNITED STATES
+                     SECURITIES AND EXCHANGE COMMISSION
+                            WASHINGTON, D.C. 20549
+
+                                  FORM 10-K
+
+
+  (Mark one)
+
+  /X/ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+      EXCHANGE ACT OF 1934
+      For the fiscal year ended December 31, 2012
+
+      OR
+
+
+  / / TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+      EXCHANGE ACT OF 1934
+      For the transition period from ____________ to ____________
+
+
+
+      Commission file number: 333-159791-06
+
+      Sequoia Mortgage Trust 2012-2
+      (exact name of issuing entity as specified in its charter)
+
+      Sequoia Residential Funding, Inc.
+      (exact name of the depositor as specified in its charter)
+
+      Comission file number of depositor: 333-159791
+
+      RWT Holdings, Inc.
+      (exact name of the sponsor as specified in its charter)
+
+
+
+  New York                                38-3867656
+  (State or other jurisdiction of         38-3867657
+  incorporation or organization)          (I.R.S. Employer
+                                          Identification No.)
+
+
+   c/o Wells Fargo Bank, N.A.
+   9062 Old Annapolis Road
+   Columbia, MD                                 21045
+  (Address of principal executive               (Zip Code)
+  offices)
+
+
+ Telephone number, including area code: (410) 884-2000
+
+
+
+
+  Securities registered pursuant to Section 12(b) of the Act:
+
+    NONE.
+
+
+
+  Securities registered pursuant to Section 12(g) of the Act:
+
+    NONE.
+
+
+
+  Indicate by check mark if the registrant is a well-known seasoned issuer, as
+  defined in Rule 405 of the Securities Act.
+
+    Yes ___     No  X
+
+
+
+  Indicate by check mark if the registrant is not required to file reports
+  pursuant to Section 13 or Section 15(d) of the Act.
+
+    Yes ___     No  X
+
+
+
+  Note - Checking the box above will not relieve any registrant required to
+  file reports pursuant to Section 13 or 15(d) of the Exchange Act from their
+  obligations under those Sections.
+
+
+  Indicate by check mark whether the registrant (1) has filed all reports
+  required to be filed by Section 13 or 15(d) of the Securities Exchange Act
+  of 1934 during the preceding 12 months (or for such shorter period that the
+  registrant was required to file such reports), and (2) has been subject to
+  such filing requirements for the past 90 days.
+
+    Yes  X      No ___
+
+
+
+  Indicate by check mark whether the registrant has submitted electronically
+  and posted on its corporate Web site, if any, every Interactive Data File
+  required to be submitted and posted pursuant to Rule 405 of Regulation S-T
+  (Section 232.405 of this chapter) during the preceding 12 months (or for
+  such shorter period that the registrant was required to submit and post such
+  files).
+
+  Not applicable.
+
+  Indicate by check mark if disclosure of delinquent filers pursuant to Item
+  405 of Regulation S-K (Section 229.405 of this chapter) is not contained
+  herein, and will not be contained, to the best of registrant's knowledge, in
+  definitive proxy or information statements incorporated by reference in Part
+  III of this Form 10-K or any amendment to this Form 10-K.
+
+    Not applicable.
+
+
+
+  Indicate by check mark whether the registrant is a large accelerated filer,
+  an accelerated filer, a non-accelerated filer, or a smaller reporting
+  company.  See the definitions of "large accelerated filer", "accelerated
+  filer" and "smaller reporting company" in Rule 12b-2 of the Exchange Act.
+
+   Large accelerated filer ___
+   Accelerated filer ___
+   Non-accelerated filer X (Do not check if a smaller reporting company)
+   Smaller reporting company ___
+
+  Indicate by check mark whether the registrant is a shell company (as defined
+  in Rule 12b-2 of the Act).
+
+    Yes ___     No  X
+
+
+
+  State the aggregate market value of the voting and non-voting common equity
+  held by non-affiliates computed by reference to the price at which the
+  common equity was last sold, or the average bid and asked price of such
+  common equity, as of the last business day of the registrant's most recently
+  completed second fiscal quarter.
+
+    Not applicable.
+
+
+
+  Indicate by check mark whether the registrant has filed all documents and
+  reports required to be filed by Section 12, 13 or 15(d) of the Securities
+  Exchange Act of 1934 subsequent to the distribution of securities under a
+  plan confirmed by a court.
+
+    Not applicable.
+
+
+
+  Indicate the number of shares outstanding of each of the registrant's
+  classes of common stock, as of the latest practicable date.
+
+    Not applicable.
+
+
+
+  DOCUMENTS INCORPORATED BY REFERENCE
+
+  List hereunder the following documents if incorporated by reference and the
+  Part of the Form 10-K (e.g., Part I, Part II, etc.) into which the document
+  is incorporated: (1)Any annual report to security holders; (2) Any proxy or
+  information statement; and (3)Any prospectus filed pursuant to Rule 424(b)
+  or (c) under the Securities Act of 1933. The listed documents should be
+  clearly described for identification purposes (e.g., annual report to
+  security holders for fiscal year ended December 24, 1980).
+
+    Not applicable.
+
+
+
+
+
+                                     PART I
+
+  Item 1.      Business.
+
+               Omitted.
+
+
+  Item 1A.     Risk Factors.
+
+               Omitted.
+
+
+  Item 1B.     Unresolved Staff Comments.
+
+               None.
+
+
+  Item 2.      Properties.
+
+               Omitted.
+
+
+  Item 3.      Legal Proceedings.
+
+               Omitted.
+
+
+  Item 4.      Mine Safety Disclosures.
+
+               Omitted.
+
+
+
+
+                                     PART II
+
+  Item 5.      Market for Registrant's Common Equity, Related Stockholder
+               Matters and Issuer Purchases of Equity Securities.
+
+               Omitted.
+
+
+  Item 6.      Selected Financial Data.
+
+               Omitted.
+
+
+  Item 7.      Management's Discussion and Analysis of Financial Condition and
+               Results of Operations.
+
+               Omitted.
+
+
+  Item 7A.     Quantitative and Qualitative Disclosures About Market Risk.
+
+               Omitted.
+
+
+  Item 8.      Financial Statements and Supplementary Data.
+
+               Omitted.
+
+
+  Item 9.      Changes in and Disagreements With Accountants on Accounting and
+               Financial Disclosure.
+
+               Omitted.
+
+
+  Item 9A.     Controls and Procedures.
+
+               Omitted.
+
+
+  Item 9B.     Other Information.
+
+               None.
+
+
+
+
+                                    PART III
+
+  Item 10.     Directors, Executive Officers and Corporate Governance.
+
+               Omitted.
+
+
+  Item 11.     Executive Compensation.
+
+               Omitted.
+
+
+  Item 12.     Security Ownership of Certain Beneficial Owners and Management
+               and Related Stockholder Matters.
+
+               Omitted.
+
+
+  Item 13.     Certain Relationships and Related Transactions, and Director
+               Independence.
+
+               Omitted.
+
+
+  Item 14.     Principal Accounting Fees and Services.
+
+               Omitted.
+
+
+
+
+  ADDITIONAL DISCLOSURE ITEMS FOR REGULATION AB
+
+
+Item 1112(b) of Regulation AB, Significant Obligor Financial Information.
+
+No single obligor represents 10% or more of the pool assets held by the issuing
+entity.
+
+
+
+Item 1114(b)(2) of Regulation AB, Significant Enhancement  Provider Financial
+Information.
+
+No entity or group of affiliated entities provides any external credit
+enhancement or other support for the certificates within this transaction as
+described under Item 1114 (a) of Regulation AB.
+
+
+
+Item 1115(b) of Regulation AB, Certain Derivatives Instruments (Financial
+Information).
+
+No entity or group of affiliated entities provides any derivative instruments or
+other support for the certificates within this transaction as described under
+Item 1115 of Regulation AB.
+
+
+
+Item 1117 of Regulation AB, Legal Proceedings.
+
+On or about December 23, 2009, the Federal Home Loan Bank of Seattle (the
+"FHLB-Seattle") filed a complaint in the Superior Court for the State of
+Washington (case number 09-2-46348-4 SEA) against the depositor, Redwood Trust,
+Inc., Morgan Stanley & Co., and Morgan Stanley Capital I, Inc. (collectively,
+the "FHLB-Seattle Defendants") alleging that the FHLB-Seattle Defendants made
+false or misleading statements in offering materials for a mortgage
+pass-through certificate (the "Seattle Certificate") issued in the Sequoia
+Mortgage Trust 2005-4 securitization transaction (the "2005-4 RMBS") and
+purchased by the FHLB-Seattle. Specifically, the complaint alleges that the
+alleged misstatements concern the (1) loan-to-value ratio of mortgage loans and
+the appraisals of the properties that secured loans supporting the 2005-4 RMBS,
+(2) occupancy status of the properties, (3) standards used to underwrite the
+loans, and (4) ratings assigned to the Seattle Certificate. The FHLB-Seattle
+alleges claims under the Securities Act of Washington (Section 21.20.005, et
+seq.) and seeks to rescind the purchase of the Seattle Certificate and to
+collect interest on the original purchase price at the statutory interest rate
+of 8% per annum from the date of original purchase (net of interest received)
+as well as attorneys' fees and costs. The Seattle Certificate was issued with
+an original principal amount of approximately $133 million, and, as of December
+31, 2012, the FHLB-Seattle had received approximately $108 million of principal
+and $10.9 million of interest payments in respect of the Seattle Certificate.
+As of December 31, 2012, the Seattle Certificate had a remaining outstanding
+principal amount of approximately $25 million. The claims were subsequently
+dismissed for lack of personal jurisdiction as to the depositor and Redwood
+Trust. The depositor and Redwood Trust agreed to indemnify the underwriters of
+the 2005-4 RMBS for certain losses and expenses they might incur as a result of
+claims made against them relating to this RMBS, including, without limitation,
+certain legal expenses. The FHLB-Seattle's claims against the underwriters of
+this RMBS were not dismissed and remain pending. Regardless of the outcome of
+this litigation, the depositor and Redwood Trust could incur a loss as a result
+of these indemnities.
+
+On or about July 15, 2010, The Charles Schwab Corporation ("Schwab") filed a
+complaint in the Superior Court for the State of California in San Francisco
+(case number CGC-10-501610) against the depositor and 26 other defendants
+(collectively, the "Schwab Defendants") alleging that the Schwab Defendants
+made false or misleading statements in offering materials for various
+residential mortgage-backed securities sold or issued by the Schwab Defendants.
+With respect to the depositor, Schwab alleges that the depositor made false or
+misleading statements in offering materials for a mortgage pass-through
+certificate (the "Schwab Certificate") issued in the 2005-4 RMBS and purchased
+by Schwab. Specifically, the complaint alleges that the misstatements for the
+2005-4 RMBS concern the (1) loan-to-value ratio of mortgage loans and the
+appraisals of the properties that secured loans supporting the 2005-4 RMBS, (2)
+occupancy status of the properties, (3) standards used to underwrite the loans,
+and (4) ratings assigned to the Schwab Certificate. Schwab alleges a claim for
+negligent misrepresentation under California state law and seeks unspecified
+damages and attorneys' fees and costs. The Schwab Certificate was issued with
+an original principal amount of approximately $14.8 million, and, as of
+December 31, 2012, Schwab had received approximately $12 million of principal
+and $1.3 million of interest payments in respect of the Schwab Certificate. As
+of December 31, 2012, the Schwab Certificate had a remaining outstanding
+principal amount of approximately $2.8 million. The depositor has denied
+Schwab's allegations. The depositor believes that this case is without merit,
+and intends to defend the action vigorously. The depositor and Redwood Trust
+agreed to indemnify the underwriters of the 2005-4 RMBS, which underwriters are
+also named defendants in this action, for certain losses and expenses they
+might incur as a result of claims made against them relating to this RMBS,
+including, without limitation, certain legal expenses. Regardless of the
+outcome of this litigation, the depositor and Redwood Trust could incur a loss
+as a result of these indemnities.
+
+On or about October 15, 2010, the Federal Home Loan Bank of Chicago
+("FHLB-Chicago") filed a complaint in the Circuit Court of Cook County,
+Illinois (case number 10-CH-45033) against the depositor and more than 45 other
+named defendants (collectively, the "FHLB-Chicago Defendants") alleging that
+the FHLB-Chicago Defendants made false or misleading statements in offering
+materials for various residential mortgage-backed securities sold or issued by
+the FHLB-Chicago Defendants or entities controlled by them. FHLB-Chicago
+subsequently amended the complaint to name Redwood Trust and another one of
+Redwood Trust's subsidiaries, RWT Holdings, Inc., as defendants. With respect
+to Redwood Trust, RWT Holdings, and the depositor, the FHLB-Chicago alleges
+that Redwood Trust, RWT Holdings, and the depositor made false or misleading
+statements in the offering materials for two mortgage pass-through certificates
+(the "Chicago Certificates") issued in the Sequoia Mortgage Trust 2006-1
+securitization transaction (the "2006-1 RMBS") and purchased by the
+FHLB-Chicago. The complaint alleges that the alleged misstatements concern,
+among other things, the (1) loan-to-value ratio of mortgage loans and the
+appraisals of the properties that secured loans supporting the 2006-1 RMBS, (2)
+occupancy status of the properties, (3) standards used to underwrite the loans,
+(4) ratings assigned to the Chicago Certificates, and (5) due diligence
+performed on these mortgage loans. The FHLB-Chicago alleges claims under
+Illinois Securities Law (815 ILCS Sections 5/12(F)-(H)) and North Carolina
+Securities Law (N.C.G.S.A. Section 78A-8(2) & Section 78A-56(a)) as well as a
+claim for negligent misrepresentation under Illinois common law. On some of the
+causes of action, the FHLB-Chicago seeks to rescind the purchase of the Chicago
+Certificates and to collect interest on the original purchase prices at the
+statutory interest rate of 10% per annum from the dates of original purchase
+(net of interest received). On one cause of action, the FHLB-Chicago seeks
+unspecified damages. The FHLB-Chicago also seeks attorneys' fees and costs. The
+first of the Chicago Certificates was issued with an original principal amount
+of approximately $105 million and, at December 31, 2012, the FHLB Chicago had
+received approximately $68 million of principal and $23 million of interest
+payments in respect of this Chicago Certificate. As of December 31, 2012, this
+Chicago Certificate had a remaining outstanding principal amount of
+approximately $37 million. The second of the Chicago Certificates was issued
+with an original principal amount of approximately $379 million and, at
+December 31, 2012, the FHLB Chicago had received approximately $244 million of
+principal and $78 million of interest payments in respect of this Chicago
+Certificate. As of December 31, 2012, this Chicago Certificate had a remaining
+outstanding principal amount of approximately $133 million (after taking into
+account approximately $1.6 million of principal losses allocated to this
+Chicago Certificate). The depositor, Redwood Trust, and RWT Holdings have
+denied FHLB-Chicago's allegations. The depositor believes that this case is
+without merit, and the depositor intends to defend the action vigorously. The
+depositor and Redwood Trust agreed to indemnify the underwriters of the 2006-1
+RMBS, which underwriters are also named defendants in this action, for certain
+losses and expenses they might incur as a result of claims made against them
+relating to this RMBS, including, without limitation, certain legal expenses.
+Regardless of the outcome of this litigation, the depositor and Redwood Trust
+could incur a loss as a result of these indemnities.
+
+The business of the sponsor, the depositor, the seller and their affiliates has
+included, and continues to include, activities relating to the acquisition and
+securitization of residential mortgage loans. In addition, the business of the
+sponsor has, in the past, included activities relating to the acquisition and
+securitization of debt obligations and other assets through the issuance of
+collateralized debt obligations (commonly referred to as CDO transactions).
+Because of their involvement in the securitization and CDO businesses, the
+sponsor, the depositor, the seller and their affiliates could become the
+subject of litigation relating to these businesses, including additional
+litigation of the type described above, and could also become the subject of
+governmental investigations, enforcement actions, or lawsuits and governmental
+authorities could allege that these entities violated applicable law or
+regulation in the conduct of their business.
+
+In fact, the sponsor and its affiliates have received, and responded to,
+information requests and subpoenas from two governmental authorities (one by
+the SEC relating to the sponsor's CDO business and one by the National Credit
+Union Administration relating to a residential mortgage securitization
+conducted by the sponsor and the depositor). It is possible that the sponsor,
+the depositor, the seller or their affiliates might not be successful in
+defending or responding to any litigation, governmental investigation or
+related action and any losses incurred as a result of the resolution of any
+such action or investigation could have a material adverse effect on the
+sponsor, the depositor, the seller or their affiliates. In any case, regardless
+of the merits of any allegation or legal action that may be brought against the
+sponsor, the depositor, the seller or their affiliates, or of their success in
+defending against such allegations or legal actions, the costs of defending
+against any such allegation or legal action may be significant or material and
+could have a material adverse effect on the sponsor, the depositor, the seller
+or their affiliates.
+
+
+
+Item 1119 of Regulation AB, Affiliations and Certain Relationships and Related
+Transactions.
+
+The seller and servicing administrator, the sponsor and the depositor are each
+wholly-owned subsidiaries of Redwood Trust, Inc. Barclays Capital Inc., the
+underwriter, is an affiliate of Barclays Bank PLC, from which the depositor
+purchased some of the mortgage loans as to which First Republic Bank is the
+originator.
+
+There is not currently, and there was not during the past two years, any
+material business relationship, agreement, arrangement, transaction or
+understanding that is or was entered into outside the ordinary course of
+business or is or was on terms other than would be obtained in an arm's length
+transaction with an unrelated third party, between (a) any of the seller, the
+sponsor, the depositor and the issuing entity on the one hand and (b) any of
+the trustee, any servicer, the custodian, the master servicer or any originator
+of the mortgage loans on the other hand.
+
+
+
+Item 1122 of Regulation AB, Compliance with Applicable Servicing Criteria.
+
+The reports on assessment of compliance with the servicing criteria for
+asset-backed securities and the related attestation reports on such assessments
+of compliance are attached hereto under Item 15.
+
+The registrant has prepared the Table below in connection with this
+transaction. The Table shows, in one compiled format, which entity
+participating in a servicing function for this transaction was assigned
+responsibility for each criterion in Item 1122(d). In the Table below, certain
+criteria are not applicable, given the structure of the offering, and
+accordingly no entity is assigned responsibility for such criteria.
+
+<TABLE>
+<CAPTION>
+
+SEQUOIA RESIDENTIAL FUNDING, INC.
+
+Reg AB 1122(d)
+
+Regulation AB      Servicing Criteria                           Wells Fargo   PHH Mortgage  First      Cenlar FSB,
+Reference                                                       Bank, as      Corp., as     Republic   as Servicer
+                                                                Master        Servicer      Bank, as
+                                                                Servicer,                   Servicer
+                                                                Securities
+                                                                Administrator
+                                                                and Paying
+                                                                Agent
+
+<s>                <c>                                          <c>           <c>           <c>        <c>
+                   General Servicing Considerations
+1122(d)(1)(i)      Policies and procedures are instituted        X             X             X          X
+                   to monitor any performance or other triggers
+                   and events of default in accordance with the
+                   transaction agreements.
+
+1122(d)(1)(ii)     If any material servicing activities are      X             X             X          X
+                   outsourced to third parties, policies and
+                   procedures are instituted to monitor the
+                   third party's performance and complaiance
+                   with such servicing activities.
+
+1122(d)(1)(iii)    Any requirements in the transaction          N/A           N/A           N/A        N/A
+                   agreements to maintain a back-up servicer
+                   for the pool assets are maintained.
+
+1122(d)(1)(iv)     A fidelity bond and errors and omissions      X             X             X          X
+                   policy is in effect on the party
+                   participating in the servicing fuction
+                   throughout the reporting period in the
+                   amount of coverage required by and
+                   otherwise in accordance with the terms of
+                   the transaction agreements.
+
+                   Cash Collection and Administration
+1122(d)(2)(i)      Payments on pool assets are deposited         X             X             X          X
+                   into the appropriate  bank collection
+                   accounts and related bank clearing accounts
+                   no more than two business days following
+                   receipt, or such other number of days
+                   specified in the transaction agreements.
+
+1122(d)(2)(ii)     Disbursements made via wire transfer on       X             X             X          X
+                   behalf of an obligor or to an investor are
+                   made only by authorized personnel.
+
+1122(d)(2)(iii)    Advances of funds or guarantees regarding     X             X             X          X
+                   collections, cash flows or distributions,
+                   and any interest or other fes charged for
+                   such advances, are made, reviewed and
+                   approved as specified in the transaction
+                   agreements.
+
+1122(d)(2)(iv)     The related accounts for the transaction,     X             X             X          X
+                   such as cash reserve accounts or accounts
+                   established as a form of over
+                   overcollateralization, are separately
+                   maintained (e.g., with respect to
+                   commingling of cash) as set forth in the
+                   transaction agreements.
+
+1122(d)(2)(v)      Each collection account is maintained at a    X             X             X          X
+                   federally insured depository institution
+                   as set forth in the transaction agreements.
+                   For purposes of this criterion, "federally"
+                   insured depository institution" with
+                   respect to a foreign  financial
+                   institution means a foreign financial
+                   institution that meets  the requirements
+                   of Rule 13k-1(b)(1) of the Securities
+                   Exchange Act.
+
+1122(d)(2)(vi)     Unissued checks are safeguarded so as to      X             X             X
+                   prevent unauthorized access.
+
+1122(d)(2)(vii)    Reconciliations are prepared on a monthly     X             X             X          X
+                   basis for all asset-backed securities
+                   related bank accounts, including collection
+                   accounts and related bank clearing
+                   accounts. These reconciliations are (A)
+                   mathematically accurate; (B) prepared
+                   within 30  calendar days after the bank
+                   statement cutoff date, or such other
+                   number of days specified in the transaction
+                   agreements; (C) reviewed and approved by
+                   someone other than the person who prepared
+                   the reconciliation; and (D) contain
+                   explanations for reconciling items.
+                   These reconciling items are resolved within
+                   90 calendar days of their original
+                   identification, or such other number of
+                   days specified in the transaction
+                   agreements.
+
+                   Investor Remittances and Reporting
+1122(d)(3)(i)      Reports to investors, including those to be   X             X             X          X
+                   filed with the Commission, are maintained                   (Except NOT   (Except NOT
+                   in accordance with the transaction                          1122(d)(3)    1122(d)(3)
+                   agreements and applicable Commission                        (i)(C))       (i)(C))
+                   requirements. Specifically, such reports
+                   (A) are prepared in accordance with
+                   timeframes and other terms set forth in the
+                   transaction agreements; (B) provide
+                   information calculated in accordance with
+                   the terms specified in the transaction
+                   agreements; (C) are filed with the
+                   Commission as required by its rules and
+                   regulations; and (D) agree with the
+                   investors' or trustee's records as to the
+                   total unpaid principal balance and number
+                   of loans serviced by the Servicer.
+
+1122(d)(3)(ii)     Amounts due to investors are allocated and    X             X             X          X
+                   remitted in accordance with timeframes
+                   distribution priority and other terma set
+                   forth in the transaction agreements.
+
+1122(d)(3)(iii)    Disbursements made to an investor are         X             X             X          X
+                   posted within two business days to the
+                   Servicer's investor records, or such other
+                   number of days specified in the transaction
+                   agreements.
+
+1122(d)(3)(iv)     Amounts remitted to investors per the         X             X             X          X
+                   investor reports agree with cancelled
+                   checks, or other form of payment, or
+                   custodial bank statements.
+
+                   Pool Asset Administration
+1122(d)(4)(i)      Collateral or security on pool assets                       X             X          X
+                   is maintained as required by the
+                   transaction agreements or related
+                   pool asset documents.
+
+1122(d)(4)(ii)     Pool assets and related documents are                       X             X          X
+                   safeguarded as required by the
+                   transaction agreements.
+
+1122(d)(4)(iii)    Any additions, removals or substitutions                    X             X          X
+                   to the asset pool are made, reviewed
+                   and approved in accordance with
+                   any conditions or requirements in the
+                   transaction agreements.
+
+1122(d)(4)(iv)     Payments on pool assets, including any                      X             X          X
+                   payoffs, made in accordance with related
+                   pool asset documents are posted to the
+                   Servicer's obligor records maintained no
+                   more than two business days after
+                   receipt, or such other number of days
+                   specified in the transaction agreements,
+                   and allocated to principal, interest, or
+                   other items (e.g., escrow) in accordance
+                   with the related pool asset documents.
+
+1122(d)(4)(v)      The Servicer's records regarding the                        X             X          X
+                   pool assets agree with the Servicer's
+                   records with respect to an obligor's
+                   unpaid principal balance.
+
+1122(d)(4)(vi)     Changes with respect to the terms or                        X             X          X
+                   status of an obligor's pool assets (e.g.,
+                   loan modifications or re-agings) are
+                   made, reviewed and approved by authorized
+                   personnel in accordance with the
+                   transaction agreements and related pool
+                   asset documents.
+
+1122(d)(4)(vii)    Loss mitigation or recovery actions                         X             X          X
+                   (e.g., forbearance plans, modifications
+                   and deeds in lieu of foreclosure,
+                   foreclosures and repossessions, as
+                   applicable) are initiated, conducted, and
+                   concluded in accordance with
+                   the timeframes or other requirements
+                   established by the transaction
+                   agreements.
+
+1122(d)(4)(viii)   Records documenting collection efforts                      X             X          X
+                   are maintained during the period a pool
+                   asset is delinquent in accordance with
+                   the transaction agreements. Such records
+                   are maintained on at least a monthly
+                   basis, or such other period specified in
+                   the transaction agreements, and describe
+                   the entity's activities in monitoring
+                   delinquent pool assets including, for
+                   exampl, phone calls, letters, and payment
+                   rescheduling plans in cases where
+                   delinquency is deemed temporary (e.g.,
+                   illness or unemployment).
+
+1122(d)(4)(ix)     Adjustments to interest rates or rates                      X             X          X
+                   of return for pool assets with variable
+                   rates are computed based on the related
+                   pool asset documents.
+
+1122(d)(4)(x)      Regarding any funds held in trust for                       X             X          X
+                   an obligor (such as escrow accounts): (A)
+                   such funds are analyzed, in accordance
+                   with the obligor's pool asset documents,
+                   on at least an annual basis, or such
+                   other period specified in the transaction
+                   agreements; (B) interest on such funds is
+                   paid, or credited, to obligors in
+                   accordance with applicable pool asset
+                   documents and state laws; and (C) such
+                   funds are returned to the obligor within
+                   30 calendar days of full repayment of the
+                   related pool asset, or such other number
+                   of days specified in the transaction
+                   agreements.
+
+1122(d)(4)(xi)     Payments made on behalf of an obligor                       X             X          X
+                   (such as tax or insurance payments) are
+                   made on or before the related penalty or
+                   expiration dates, as indicated on the
+                   appropriate bills or notices for such
+                   payments, provided that such support has
+                   been received by the servicer at least 30
+                   calendar days prior to these dates, or
+                   such other number of days specified in
+                   the transaction agreements.
+
+1122(d)(4)(xii)    Any late payment penalties in                               X             X          X
+                   connection with any payment to be made on
+                   behalf of an obligor are paid from the
+                   Servicer's funds and not charged to the
+                   obligor, unless the late payment was due
+                   to the obligor's error or omission.
+
+1122(d)(4)(xiii)   Disbursements made on behalf of an                          X             X          X
+                   obligor are posted within two business
+                   days to the obligor's records maintained
+                   by the Servicer, or such other number of
+                   days specified in the transaction
+                   agreements.
+
+1122(d)(4)(xiv)    Delinquencies, charge-offs, and               X             X             X          X
+                   uncollectible accounts are recognized and
+                   recorded in accordance with the
+                   transaction agreements.
+
+1122(d)(4)(xv)     Any external enhancement or other            N/A           N/A           N/A        N/A
+                   support, identified in Item
+                   1114(a)(1) through (3) or Item 1115 of
+                   Regulation AB, is maintained as set
+                   forth in the transaction agreements.
+
+</TABLE>
+
+<TABLE>
+<CAPTION>
+
+SEQUOIA RESIDENTIAL FUNDING, INC.
+
+Reg AB 1122(d)
+
+Regulation AB      Servicing Criteria                           Redwood Residential      Wells Fargo Bank, as
+Reference                                                       Acquisition              Custodian
+                                                                Corporation, as
+                                                                Servicing
+                                                                Administrator
+
+<s>                <c>                                          <c>                      <c>
+                   General Servicing Considerations
+1122(d)(1)(i)      Policies and procedures are instituted
+                   to monitor any performance or other triggers
+                   and events of default in accordance with the
+                   transaction agreements.
+
+1122(d)(1)(ii)     If any material servicing activities are
+                   outsourced to third parties, policies and
+                   procedures are instituted to monitor the
+                   third party's performance and complaiance
+                   with such servicing activities.
+
+1122(d)(1)(iii)    Any requirements in the transaction          N/A                      N/A
+                   agreements to maintain a back-up servicer
+                   for the pool assets are maintained.
+
+1122(d)(1)(iv)     A fidelity bond and errors and omissions
+                   policy is in effect on the party
+                   participating in the servicing fuction
+                   throughout the reporting period in the
+                   amount of coverage required by and
+                   otherwise in accordance with the terms of
+                   the transaction agreements.
+
+                   Cash Collection and Administration
+1122(d)(2)(i)      Payments on pool assets are deposited
+                   into the appropriate  bank collection
+                   accounts and related bank clearing accounts
+                   no more than two business days following
+                   receipt, or such other number of days
+                   specified in the transaction agreements.
+
+1122(d)(2)(ii)     Disbursements made via wire transfer on
+                   behalf of an obligor or to an investor are
+                   made only by authorized personnel.
+
+1122(d)(2)(iii)    Advances of funds or guarantees regarding     X
+                   collections, cash flows or distributions,
+                   and any interest or other fes charged for
+                   such advances, are made, reviewed and
+                   approved as specified in the transaction
+                   agreements.
+
+1122(d)(2)(iv)     The related accounts for the transaction,
+                   such as cash reserve accounts or accounts
+                   established as a form of over
+                   overcollateralization, are separately
+                   maintained (e.g., with respect to
+                   commingling of cash) as set forth in the
+                   transaction agreements.
+
+1122(d)(2)(v)      Each collection account is maintained at a
+                   federally insured depository institution
+                   as set forth in the transaction agreements.
+                   For purposes of this criterion, "federally"
+                   insured depository institution" with
+                   respect to a foreign  financial
+                   institution means a foreign financial
+                   institution that meets  the requirements
+                   of Rule 13k-1(b)(1) of the Securities
+                   Exchange Act.
+
+1122(d)(2)(vi)     Unissued checks are safeguarded so as to
+                   prevent unauthorized access.
+
+1122(d)(2)(vii)    Reconciliations are prepared on a monthly
+                   basis for all asset-backed securities
+                   related bank accounts, including collection
+                   accounts and related bank clearing
+                   accounts. These reconciliations are (A)
+                   mathematically accurate; (B) prepared
+                   within 30  calendar days after the bank
+                   statement cutoff date, or such other
+                   number of days specified in the transaction
+                   agreements; (C) reviewed and approved by
+                   someone other than the person who prepared
+                   the reconciliation; and (D) contain
+                   explanations for reconciling items.
+                   These reconciling items are resolved within
+                   90 calendar days of their original
+                   identification, or such other number of
+                   days specified in the transaction
+                   agreements.
+
+                   Investor Remittances and Reporting
+1122(d)(3)(i)      Reports to investors, including those to be
+                   filed with the Commission, are maintained
+                   in accordance with the transaction
+                   agreements and applicable Commission
+                   requirements. Specifically, such reports
+                   (A) are prepared in accordance with
+                   timeframes and other terms set forth in the
+                   transaction agreements; (B) provide
+                   information calculated in accordance with
+                   the terms specified in the transaction
+                   agreements; (C) are filed with the
+                   Commission as required by its rules and
+                   regulations; and (D) agree with the
+                   investors' or trustee's records as to the
+                   total unpaid principal balance and number
+                   of loans serviced by the Servicer.
+
+1122(d)(3)(ii)     Amounts due to investors are allocated and
+                   remitted in accordance with timeframes
+                   distribution priority and other terma set
+                   forth in the transaction agreements.
+
+1122(d)(3)(iii)    Disbursements made to an investor are
+                   posted within two business days to the
+                   Servicer's investor records, or such other
+                   number of days specified in the transaction
+                   agreements.
+
+1122(d)(3)(iv)     Amounts remitted to investors per the
+                   investor reports agree with cancelled
+                   checks, or other form of payment, or
+                   custodial bank statements.
+
+                   Pool Asset Administration
+
+1122(d)(4)(i)      Collateral or security on pool assets                                  X
+                   is maintained as required by the
+                   transaction agreements or related
+                   pool asset documents.
+
+1122(d)(4)(ii)     Pool assets and related documents are                                  X
+                   safeguarded as required by the
+                   transaction agreements.
+
+1122(d)(4)(iii)    Any additions, removals or substitutions
+                   to the asset pool are made, reviewed
+                   and approved in accordance with
+                   any conditions or requirements in the
+                   transaction agreements.
+
+1122(d)(4)(iv)     Payments on pool assets, including any
+                   payoffs, made in accordance with related
+                   pool asset documents are posted to the
+                   Servicer's obligor records maintained no
+                   more than two business days after
+                   receipt, or such other number of days
+                   specified in the transaction agreements,
+                   and allocated to principal, interest, or
+                   other items (e.g., escrow) in accordance
+                   with the related pool asset documents.
+
+1122(d)(4)(v)      The Servicer's records regarding the
+                   pool assets agree with the Servicer's
+                   records with respect to an obligor's
+                   unpaid principal balance.
+
+1122(d)(4)(vi)     Changes with respect to the terms or
+                   status of an obligor's pool assets (e.g.,
+                   loan modifications or re-agings) are
+                   made, reviewed and approved by authorized
+                   personnel in accordance with the
+                   transaction agreements and related pool
+                   asset documents.
+
+1122(d)(4)(vii)    Loss mitigation or recovery actions
+                   (e.g., forbearance plans, modifications
+                   and deeds in lieu of foreclosure,
+                   foreclosures and repossessions, as
+                   applicable) are initiated, conducted, and
+                   concluded in accordance with
+                   the timeframes or other requirements
+                   established by the transaction
+                   agreements.
+
+1122(d)(4)(viii)   Records documenting collection efforts
+                   are maintained during the period a pool
+                   asset is delinquent in accordance with
+                   the transaction agreements. Such records
+                   are maintained on at least a monthly
+                   basis, or such other period specified in
+                   the transaction agreements, and describe
+                   the entity's activities in monitoring
+                   delinquent pool assets including, for
+                   exampl, phone calls, letters, and payment
+                   rescheduling plans in cases where
+                   delinquency is deemed temporary (e.g.,
+                   illness or unemployment).
+
+1122(d)(4)(ix)     Adjustments to interest rates or rates
+                   of return for pool assets with variable
+                   rates are computed based on the related
+                   pool asset documents.
+
+1122(d)(4)(x)      Regarding any funds held in trust for
+                   an obligor (such as escrow accounts): (A)
+                   such funds are analyzed, in accordance
+                   with the obligor's pool asset documents,
+                   on at least an annual basis, or such
+                   other period specified in the transaction
+                   agreements; (B) interest on such funds is
+                   paid, or credited, to obligors in
+                   accordance with applicable pool asset
+                   documents and state laws; and (C) such
+                   funds are returned to the obligor within
+                   30 calendar days of full repayment of the
+                   related pool asset, or such other number
+                   of days specified in the transaction
+                   agreements.
+
+1122(d)(4)(xi)     Payments made on behalf of an obligor
+                   (such as tax or insurance payments) are
+                   made on or before the related penalty or
+                   expiration dates, as indicated on the
+                   appropriate bills or notices for such
+                   payments, provided that such support has
+                   been received by the servicer at least 30
+                   calendar days prior to these dates, or
+                   such other number of days specified in
+                   the transaction agreements.
+
+1122(d)(4)(xii)    Any late payment penalties in
+                   connection with any payment to be made on
+                   behalf of an obligor are paid from the
+                   Servicer's funds and not charged to the
+                   obligor, unless the late payment was due
+                   to the obligor's error or omission.
+
+1122(d)(4)(xiii)   Disbursements made on behalf of an
+                   obligor are posted within two business
+                   days to the obligor's records maintained
+                   by the Servicer, or such other number of
+                   days specified in the transaction
+                   agreements.
+
+1122(d)(4)(xiv)    Delinquencies, charge-offs, and
+                   uncollectible accounts are recognized and
+                   recorded in accordance with the
+                   transaction agreements.
+
+1122(d)(4)(xv)     Any external enhancement or other            N/A                      N/A
+                   support, identified in Item
+                   1114(a)(1) through (3) or Item 1115 of
+                   Regulation AB, is maintained as set
+                   forth in the transaction agreements.
+
+</TABLE>
+
+The assessment of compliance with applicable servicing criteria for the twelve
+months ended December 31, 2012, furnished pursuant to Item 1122 of Regulation AB
+by PHH Mortgage (the "2012 PHH Assessment") for its platform, discloses that
+material instances of noncompliance occurred with respect to the servicing
+criteria described in Item and 1122(d)(4)(vii) of Regulation AB. The 2012 PHH
+Assessment is attached to this Form 10-K as exhibit 33.3.
+
+1122(d)(4)(vii)  During the year ended December 31, 2012, the Asserting Party
+could not provide documentation to support that foreclosure
+and repossession procedures that were not concluded in
+accordance with the timelines in the transaction agreements
+were outside the control of the Asserting Party.
+
+The assessment of compliance with applicable servicing criteria for the twelve
+months ended December 31, 2012, furnished pursuant to Item 1122 of Regulation AB
+by the Corporate Trust Services division of Wells Fargo Bank (the "2012 Wells
+Assessment") for its platform, discloses that material instances of
+noncompliance occurred with respect to the servicing criteria described in Items
+1122(d)(3)(i)(B) and 1122(d)(3)(ii) of Regulation AB. The 2012 Wells Assessment
+is attached to this Form 10-K as exhibit 33.6.
+
+There were no instances of noncompliance for the transaction to which this Form
+10-K relates that led to Wells Fargo's determination that there was material
+instances of noncompliance at the platform level.
+
+Management's assessment of compliance with the Applicable Servicing Criteria
+set forth by the Securities and Exchange Commission in paragraph (d) of Item
+1122 of Regulation AB as of December 31, 2012 and for the Period, disclosed
+that material instances of noncompliance occurred with respect to the servicing
+criteria set forth in both of Items 1122(d)(3)(i)(B) and 1122(d)(3)(ii), as
+follows:
+* With respect to servicing criterion 1122(d)(3)(i)(B), certain reports to
+investors did not provide information calculated in accordance with the terms
+specified in the transaction agreements.
+
+* With respect to servicing criterion 1122(d)(3)(ii), certain amounts due to
+investors were not allocated and remitted in accordance with timeframes,
+distribution priority and other terms set forth in the transaction agreements.
+
+Management's Discussion on Material Instances of Noncompliance by the Company
+Disclosure: During the Period, Wells Fargo identified Payment Errors (as
+defined below) and Reporting Errors (as defined below) on certain residential
+mortgage-backed securities ("RMBS") transactions in the Platform. Although no
+individually identified error, in and of itself, was found to be material to
+the Platform, when the errors were considered in the aggregate, Management
+determined that, for Platform purposes, there were material instances of
+noncompliance with respect to both Items 1122(d)(3)(i)(B) and 1122(d)(3)(ii) of
+Regulation AB.
+
+For purposes of this Schedule B, the term "Payment Errors" means the identified
+payment errors that occurred during the Period and that, when considered in the
+aggregate, led to Management's determination that there was a material instance
+of noncompliance for the Platform with respect to Item 1122(d)(3)(i)(B) of
+Regulation AB. For purposes of this Schedule B, the term "Reporting Errors"
+means the identified reporting errors that occurred during the Period and that,
+when considered in the aggregate, led to Management's determination that there
+was a material instance of noncompliance for the Platform with respect to Item
+1122(d)(3)(ii) of Regulation AB.
+
+The identified Payment Errors and Reporting Errors on such RMBS transactions
+were attributable to certain failures in processes relating to waterfall
+calculations and reporting that, although adapted over time, still
+insufficiently addressed the impact of the unprecedented levels of collateral
+degradation in RMBS transactions on the calculation of principal and interest
+payments and losses and associated investor reporting.
+
+Scope of the Material Instances of Noncompliance: The identified Payment Errors
+and Reporting Errors that led to Management's determination that material
+instances of noncompliance with respect to the Platform had occurred were
+limited to certain RMBS transactions in the Platform. There were no identified
+Payment Errors or Reporting Errors for non-RMBS transactions in the Platform
+which contributed to Management's determination that there were material
+instances of noncompliance for the Platform. In some instances, the identified
+Payment Errors which contributed to Management's determination that there were
+material instances of noncompliance for the Platform were also considered
+material to the transactions on which they occurred. None of the identified
+Reporting Errors which contributed to Management's determination that there
+were material instances of noncompliance for the Platform were considered
+material for a particular transaction. For all transactions in the Platform
+(including RMBS transactions with identified Payment Errors and Reporting
+Errors), Management delivered an Item 1123 certification to the extent it was
+required to do so pursuant to the requirements of the applicable transaction
+documents and Regulation AB. Where there was an identified Payment Error that
+was considered material for an individual transaction, the Item 1123
+certification included a description of the nature and scope of such error.
+
+Remediation: Appropriate actions have been taken or are in the process of being
+taken to remediate the identified Payment Errors and Reporting Errors that led
+to Management's determination that material instances of noncompliance with
+respect to the Platform had occurred. Further, adjustments have been or will be
+made to the waterfall calculations and other operational processes and quality
+control measures applied to the RMBS transactions in the Platform to minimize
+the risk of future payment and reporting errors.
+
+Material Instance of Noncompliance by any Vendor
+NONE
+Material Deficiencies in Company's Policies and Procedures to Monitor
+Vendor's Compliance
+NONE
+
+
+
+Item 1123 of Regulation AB, Servicer Compliance Statement.
+
+The servicer compliance statements are attached hereto under Item 15.
+
+
+
+                               Part IV
+
+  Item 15. Exhibits, Financial Statement Schedules.
+
+  (a) Exhibits.
+
+  (31) Rule 13a-14(d)/15d-14(d) Certification.
+
+  (33) Reports on assessment of compliance with servicing criteria for
+  asset-backed securities.
+
+
+    <TABLE>
+    <s>      <c>
+
+    33.1 Cenlar, FSB as Servicer
+    33.2 First Republic Bank as Servicer
+    33.3 PHH Mortgage Corporation as Servicer
+    33.4 Redwood Residential Acquisition Corporation as Servicing Administrator
+    33.5 Wells Fargo Bank, N.A. as Custodian
+    33.6 Wells Fargo Bank, N.A. as Master Servicer and Securities Administrator
+
+    </TABLE>
+
+
+  (34) Attestation reports on assessment of compliance with servicing criteria
+  for asset-backed securities.
+
+
+    <TABLE>
+    <s>      <c>
+
+    34.1 Cenlar, FSB as Servicer
+    34.2 First Republic Bank as Servicer
+    34.3 PHH Mortgage Corporation as Servicer
+    34.4 Redwood Residential Acquisition Corporation as Servicing Administrator
+    34.5 Wells Fargo Bank, N.A. as Custodian
+    34.6 Wells Fargo Bank, N.A. as Master Servicer and Securities Administrator
+
+    </TABLE>
+
+
+   (35) Servicer compliance statement.
+
+
+    <TABLE>
+    <s>       <c>
+
+    35.1 Cenlar, FSB as Servicer
+    35.2 First Republic Bank as Servicer
+    35.3 PHH Mortgage Corporation as Servicer
+    35.4 Redwood Residential Acquisition Corporation as Servicing Administrator
+    35.5 Wells Fargo Bank, N.A. as Master Servicer and Securities Administrator
+
+    </TABLE>
+
+
+   (b) Not applicable.
+
+   (c) Omitted.
+
+
+
+                          SIGNATURES
+
+
+  Pursuant to the requirements of Section 13 or 15(d) of the Securities
+  Exchange Act of 1934, the registrant has duly caused this report to be
+  signed on its behalf by the undersigned, thereunto duly authorized.
+
+
+   Sequoia Residential Funding, Inc.
+   (Depositor)
+
+
+   /s/ John Isbrandtsen
+   John Isbrandtsen, Chairman of the Board and Chief Executive Officer
+   (senior officer in charge of securitization of the depositor)
+
+
+    Date:   March 29, 2013
+
+
+
+  Exhibit Index
+
+  Exhibit No.
+
+
+   (31) Rule 13a-14(d)/15d-14(d) Certification.
+
+   (33) Reports on assessment of compliance with servicing criteria for
+   asset-backed securities.
+
+
+    <TABLE>
+
+    <s>      <c>
+    33.1 Cenlar, FSB as Servicer
+    33.2 First Republic Bank as Servicer
+    33.3 PHH Mortgage Corporation as Servicer
+    33.4 Redwood Residential Acquisition Corporation as Servicing Administrator
+    33.5 Wells Fargo Bank, N.A. as Custodian
+    33.6 Wells Fargo Bank, N.A. as Master Servicer and Securities Administrator
+
+    </TABLE>
+
+   (34) Attestation reports on assessment of compliance with servicing
+   criteria for asset-backed securities.
+
+
+    <TABLE>
+
+    <s>      <c>
+    34.1 Cenlar, FSB as Servicer
+    34.2 First Republic Bank as Servicer
+    34.3 PHH Mortgage Corporation as Servicer
+    34.4 Redwood Residential Acquisition Corporation as Servicing Administrator
+    34.5 Wells Fargo Bank, N.A. as Custodian
+    34.6 Wells Fargo Bank, N.A. as Master Servicer and Securities Administrator
+
+    </TABLE>
+
+   (35) Servicer compliance statement.
+
+
+    <TABLE>
+
+    <s>       <c>
+    35.1 Cenlar, FSB as Servicer
+    35.2 First Republic Bank as Servicer
+    35.3 PHH Mortgage Corporation as Servicer
+    35.4 Redwood Residential Acquisition Corporation as Servicing Administrator
+    35.5 Wells Fargo Bank, N.A. as Master Servicer and Securities Administrator
+
+    </TABLE>
+
+
+
+</TEXT>
+</DOCUMENT>

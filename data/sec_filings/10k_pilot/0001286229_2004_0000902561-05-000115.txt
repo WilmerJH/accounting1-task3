@@ -1,0 +1,533 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>form10k_kd032305.txt
+<DESCRIPTION>IMS SERIES 2003-5G ANNUAL REPORT F/P/E 12-31-2004
+<TEXT>
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+                                    FORM 10-K
+
+(MARK ONE)
+[X]   ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+      EXCHANGE ACT OF1934
+
+For the fiscal period ended December 31, 2004
+
+OR
+
+[ ]   TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+      EXCHANGE ACT OF 1934 [NO FEE REQUIRED]
+
+Commission file number: 333-108537
+
+
+                INTERSTAR SECURITISATION MANAGEMENT PTY LIMITED
+   in its capacity as manager of the Interstar Millennium Series 2003-5G Trust
+                               ABN 37 663 648 829
+             ------------------------------------------------------
+             (Exact name of Registrant as specified in its charter)
+
+
+                           NEW SOUTH WALES, AUSTRALIA
+                 ----------------------------------------------
+                 (State or Other Jurisdiction of Incorporation)
+
+                                       N/A
+                       ----------------------------------
+                       (I.R.S Employer Identification No.)
+
+
+             LEVEL 10, 101 COLLINS STREET MELBOURNE, 3000, AUSTRALIA
+                    ----------------------------------------
+                    (Address of principal executive offices)
+
+
+                              (0011) 613 8616 1600
+              ----------------------------------------------------
+              (Registrant's Telephone Number, Including Area Code)
+
+
+SECURITIES REGISTERED PURSUANT TO SECTION 12(b) OF THE ACT:
+None
+
+SECURITIES REGISTERED PURSUANT TO SECTION 12(g) OF THE ACT:
+None.
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the  preceding 12 months (or for such  shorter  period that the  registrant  was
+required  to file  such  reports),  and  (2) has  been  subject  to such  filing
+requirements for the last 90 days.
+         Yes [ ]           No [X]
+
+Indicate by check mark if disclosure of delinquent  filers  pursuant to Item 405
+of Regulation  S-K is not contained  herein,  and will not be contained,  to the
+best of registrant's  knowledge,  in definitive proxy or information  statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K. [X]
+
+Indicate  by check mark  whether  the  registrant  is an  accelerated  filer (as
+defined in Rule 12b-2 of the Act). Yes [__] No [X]
+
+<PAGE>
+
+
+State the aggregate market value of the voting and non-voting common equity held
+by  nonaffiliates  computed by reference to the price at which the common equity
+was last sold, or the average bid and asked price of such common  equity,  as of
+the last business day of the registrant's most recently  completed second fiscal
+quarter. Not Applicable
+
+
+
+                                       2
+<PAGE>
+
+
+<TABLE>
+<CAPTION>
+
+                                TABLE OF CONTENTS
+<S>         <C>                                                                                            <C>
+
+PART 1       ...............................................................................................5
+ITEM 1.      BUSINESS.......................................................................................5
+ITEM 2.      PROPERTIES.....................................................................................5
+ITEM 3.      LEGAL PROCEEDINGS..............................................................................5
+ITEM 4.      SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS............................................5
+
+PART II      ...............................................................................................5
+ITEM 5.      MARKET FOR REGISTRANT'S COMMON EQUITY, RELATED STOCKHOLDER
+             MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES..............................................5
+ITEM 6.      SELECTED FINANCIAL DATA........................................................................6
+ITEM 7.      MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+             RESULTS OF OPERATIONS..........................................................................6
+ITEM 7A.     QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK.....................................6
+ITEM 8.      FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA....................................................7
+ITEM 9.      CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING
+             AND FINANCIAL DISCLOSURE.......................................................................7
+
+PART III     ...............................................................................................8
+ITEM 10.     DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT.............................................8
+ITEM 11.     EXECUTIVE COMPENSATION.........................................................................8
+ITEM 12.     SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+             AND RELATED STOCKHOLDER MATTERS................................................................8
+ITEM 13.     CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS.................................................8
+ITEM 14.     PRINCIPAL ACCOUNTANT FEES AND SERVICES.........................................................8
+
+PART IV      ...............................................................................................9
+ITEM 15.     EXHIBITS, FINANCIAL STATEMENT SCHEDULES, AND REPORTS ON FORM 6-K AND FORM 8-K..................9
+</TABLE>
+
+
+                                       3
+
+<PAGE>
+
+                                INTRODUCTORY NOTE
+
+
+The information  required for some items in Form 10-K is "not applicable" to the
+Trust or the Manager.  As used in this Annual  Report  filed on Form 10-K,  "not
+applicable"  or the "Not  Applicable"  means that the response to the referenced
+item is omitted in reliance  on the  procedures  outlined in numerous  no-action
+letters issued by the Commission's  Staff with respect to substantially  similar
+securities and trusts that file annual reports on Form 10-K.
+
+
+                                       4
+
+<PAGE>
+
+
+                                     PART I
+
+ITEM 1.    BUSINESS
+
+This  Annual  Report on Form 10-K  relates to the  Interstar  Millennium  Series
+2003-5G  Trust  (the  "Trust")  and the  Class A2 and Class B1  Mortgage  Backed
+Floating Rate Notes (the "Notes")  issued  pursuant to the Note Trust Deed dated
+as of October 23,  2003 (the "Note  Trust  Deed"),  between  Perpetual  Trustees
+Victoria  Limited,   the  issuer  trustee  (the  "Issuer  Trustee");   Interstar
+Securitisation  Management Pty Limited (the "Manager"), as Manager; and The Bank
+of New York,  as note trustee (the "Note  Trustee").  Capitalised  terms used in
+this  Form  10-K and not  defined  have the same  meanings  given to them in the
+Prospectus and Series Notice relating to the Notes.
+
+The only business of the Trust is the collection and distribution of payments on
+the  residential  mortgage  loans in the manner  described  in the  Registration
+Statement on Form S-11 (File No.  333-108537)  (the  "Registration  Statement").
+Accordingly,  there is no relevant information to report in response to Item 101
+of Regulation S-K.
+
+
+ITEM 2.    PROPERTIES
+
+The  registrant  and the Trust do not own any physical  properties.  Information
+regarding  the mortgage  loans is furnished  under Item 15 - Exhibit 99.1 and is
+incorporated herein by reference.
+
+
+ITEM 3.    LEGAL PROCEEDINGS
+
+The Manager knows of no material legal  proceedings  involving any of the Trust,
+the Manager, the Servicer or the Issuer Trustee.
+
+ITEM 4.    SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+No votes or consents of Noteholders  were  solicited  during the fiscal year for
+any purpose.
+
+
+                                     PART II
+
+ITEM 5.    MARKET FOR REGISTRANT'S COMMON EQUITY, RELATED STOCKHOLDER
+           MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES
+
+The Notes are not traded on any  nationally  recognized  exchange  in the United
+States.
+
+The Notes are currently  represented by  certificates  registered in the name of
+Cede & Co., the nominee of The Depository  Trust Company  ("DTC").  Accordingly,
+Cede & Co. is the sole  holder of record of the Notes,  which it holds on behalf
+of brokers, dealers, banks and other direct participants in the DTC system.
+
+The trust pays no dividends with respect to the Notes, the information  required
+by Item 201(c) of Regulation  S-K  regarding  dividends is  inapplicable  to the
+Trust.  See  Exhibit  99.1 for  information  with  respect to  distributions  to
+Noteholders.
+
+
+
+                                       5
+<PAGE>
+
+
+ITEM 6.     SELECTED FINANCIAL DATA
+
+The Manager incorporates by reference its Noteholders Reports, filed as periodic
+filings  on Form 6-K and on Form 8-K,  as  applicable,  in  respect of the Trust
+under  Central  Index Key  0001174852  and Central  Index Key  0001286229  which
+contain all financial  information  related to the Trust relevant to the holders
+of the Notes (the "Noteholders"),  pursuant to rule 12b-23 promulgated under the
+Securities Exchange Act of 1934.
+
+The Manager  globally  incorporates  by reference and attaches hereto as Exhibit
+13.1,  pursuant to Rules 12b-23 promulgated under the Securities Exchange Act of
+1934, the following quarterly Noteholders Report (the "Noteholder Report"),  for
+the  quarterly  Payment Date in January 2004 filed on Form 6-K in respect of the
+Trust under Central Index Key 0001174852, and for the quarterly Payment Dates in
+April 2004, July 2004 and October 2004 filed on Form 8-K in respect of the Trust
+under Central  Index Key  0001286229,  which  include all financial  information
+relating to the Trust that is relevant to Noteholders:
+
+o    Noteholders Report for the January 20, 2004 Payment Date
+o    Noteholders Report for the April 20, 2004 Payment Date
+o    Noteholders Report for the July 20, 2004 Payment Date
+o    Noteholders Report for the October 20, 2004 Payment Date
+
+The Manager also attaches hereto, as Exhibit 99.1 the following document:
+
+o    Aggregate Totals for the period January 1, 2004 to the end of the Trust's
+     fiscal year on December 31, 2004.
+
+The foregoing presents all relevant financial information relating to the Trust.
+Because of the limited business  activity of the Trust,  the Selected  Financial
+Data in Item 301 of Regulation S-K would not provide any  meaningful  additional
+information.
+
+
+ITEM 7.     MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+            RESULTS OF OPERATIONS
+
+Because of the limited  business  activity  of the Trust,  the  presentation  of
+Management's  Discussion  and  Analysis of  Financial  Condition  and Results of
+Operations,  as otherwise would be required by Item 303 of Regulation S-K, would
+not be  meaningful.  All relevant  information  is  contained  in the  quarterly
+servicing  reports (filed under Current  Reports on Form 6-K and on Form 8-K, as
+applicable) as described above.
+
+
+ITEM 7A.    QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+CURRENCY EXCHANGE CONTROL RISK
+Interest  and  principal  payments  to  holders  of the Notes are paid in United
+States dollars  ("U.S.  dollars").  However  payments on the mortgage loans (the
+"Collections")  are received by the Issuer Trustee,  in Australian  dollars,  in
+Australia.  Pursuant to certain swap agreements  ("Currency Swaps"),  the Issuer
+Trustee  is  required  to pay a  portion  of the  Collections  to  certain  swap
+counterparties  (the "Currency Swap  Providers") who in turn pay ("Swap Currency
+Exchange"),  at the direction of the Issuer Trustee, U.S. dollars to the holders
+of the Notes.  It is possible that in the future,  Australia may impose exchange
+controls that affect the  availability of Australian  dollar payments for making
+payments under the Currency  Swaps.  The holders of the Notes will bear the risk
+of the imposition of foreign exchange controls by the Australian government that
+impact upon the Issuer  Trustee's  ability to exchange the  Collections for U.S.
+dollars.
+
+The Issuer  Trustee  has no  control  over such risk,  which will  generally  be
+affected by economic and political  events in Australia.  If the Issuer  Trustee
+does  not pay  some or all of the  amount  in  Australian  dollars  which  it is
+required to pay the  Currency  Swap  Providers  under the  Currency  Swaps,  the
+Currency Swap Providers are only required to pay the U.S.  dollar  equivalent of
+the amounts they actually receive.  In such event, it is unlikely that the Trust
+would have sufficient U.S. dollars to make the payments due on the Notes.
+
+
+                                       6
+<PAGE>
+
+
+The specific prior approval of the Reserve Bank of Australia or the Minister for
+Foreign  Affairs of the  Commonwealth  of Australia must be obtained for certain
+transactions  involving or connected with  individuals or entities listed in the
+relevant Commonwealth  Government Gazette as persons or entities identified with
+terrorism or to which financial sanctions apply, including:
+
+o    certain Yugoslav entities or individuals; and
+
+o    the Government of Zimbabwe,  any public  authority or controlled  entity of
+     the Government of Zimbabwe and certain other individuals  identified by the
+     Reserve Bank of Australia.
+
+Any person  holding  financial or other assets of persons or entities  listed as
+terrorists by the Minister for Foreign  Affairs in the  Commonwealth  Gazette is
+prohibited from using or dealing with those assets.  It is a criminal offence to
+make  assets  available  to such  persons.  The  persons or  entities  listed as
+terrorists under the Charter of the United Nations  (Terrorism and Dealings with
+Assets)  Regulations 2002 and the Iraq  (Reconstruction and Repeal of Sanctions)
+Regulations 2003 include:
+
+o    the  Taliban  (also  known as the Islamic  Emirate of  Afghanistan)  or any
+     undertaking owned or controlled, directly or indirectly, by the Taliban;
+
+o    Osama bin Laden, the Al-Qaeda  organisation  and certain other  individuals
+     identified by the Reserve Bank of Australia as being linked to terrorism;
+
+o    Jemiah Islamiah; and
+
+o    the previous Government of Iraq, Saddam Hussein,  other senior officials of
+     his regime and their immediate families.
+
+CURRENCY EXCHANGE RATE RISK
+Interest and  principal on the Notes are payable in U.S.  dollars and the Issuer
+Trustee's  primary  source  for  funding  its  payments  on  the  Notes  is  its
+Collections on the mortgage loans, which will be sourced in Australian  dollars.
+If the Currency Swap  Providers were to fail to perform under the Currency Swaps
+or were to be discharged from such performance  because of a default  thereunder
+by the Issuer Trustee,  the Issuer Trustee might have to exchange its Australian
+dollars  for U.S.  dollars at an  exchange  rate that is less  favorable  to the
+Issuer  Trustee  than  when the  Currency  Swaps  were  entered  into and  might
+therefore not have sufficient U.S. dollars to make timely payments on the Notes,
+even though the  delinquency  and loss  experience on the mortgage  loans may be
+acceptable.
+
+
+ITEM 8.     FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+As discussed above,  furnishing the financial  information required by Item 8 of
+Form  10-K  would  not add any  relevant  information  to that  provided  by the
+foregoing   statements.   Because  the  Notes  are  essentially   "pass-through"
+securities, the Trust will have "income" only in the limited sense of collecting
+payments on the mortgage  loans.  The only  material  items of "expense" for the
+Trust will be the amounts paid as servicing compensation, and coupon interest to
+investors.  The quarterly Noteholder reports (filed on Form 6-K and Form 8-K, as
+applicable) disclose the amount of "income" and "expenses" of the Trust.
+
+
+ITEM 9.     CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING
+            AND FINANCIAL DISCLOSURE
+
+There were no disagreements on accounting disclosures.
+
+
+                                       7
+
+<PAGE>
+
+
+                                    PART III
+
+ITEM 10.    DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+The Trust has no directors or executive  officers.  Therefore,  this item is not
+applicable.
+
+
+ITEM 11.    EXECUTIVE COMPENSATION
+
+The Trust has no directors or executive  officers.  Therefore,  this item is not
+applicable.
+
+
+ITEM 12.    SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+            AND RELATED STOCKHOLDER MATTERS
+
+All of the Noteholders  maintained their security  positions with the DTC. While
+some of the  Noteholders'  security  positions in the Trust may exceed 5% of the
+outstanding  amount of the Notes, such Notes do not constitute voting securities
+within the meaning of Item 403 of Regulation S-K.
+
+As at the  date of  this  report,  none  of the  officers  or  directors  of the
+Registrant owns a beneficial interest in either the Trust, or in the Registrant.
+
+
+ITEM 13.   CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+Interstar Securitisation  Management Pty Limited is a wholly owned subsidiary of
+Interstar  Wholesale  Finance  Pty  Limited  (formerly,   Interstar   Securities
+(Australia) Pty Limited).  Its principal  business activity is the management of
+securitisation   trusts   established  under  the  Interstar   Millennium  Trust
+Programmes.
+
+Interstar Wholesale Finance Pty Limited acts as servicer (the "Servicer") to the
+Trust. The servicer receives a servicer fee direct from the Trust.
+
+The Servicer is a wholly owned direct subsidiary of Interstar  Wholesale Finance
+Holdings  Pty Limited  (formerly,  Interstar  Securities  Holdings  Pty Limited)
+("Interstar  Holdings").  All shares in Interstar  Holdings are ultimately owned
+(effective September 29, 2003) by Challenger Financial Services Group Limited, a
+public company listed on the Australian Stock Exchange.
+
+The Manager has  entered  into an  arrangement  with the  Servicer,  whereby the
+Servicer  provides  services  and  various  facilities  to the Trust  Manager on
+commercial terms, in order for the Manager to carry out its functions as manager
+under the securitization trusts. Interstar Securitisation Management Pty Limited
+pays management fees to the Servicer.
+
+
+ITEM 14.   PRINCIPAL ACCOUNTANT FEES AND SERVICES
+
+Asset-Backed  Issuers are not required to disclose the  information  required by
+this item.
+
+
+                                       8
+
+<PAGE>
+
+
+
+                                     PART IV
+
+ITEM 15.    EXHIBITS, FINANCIAL STATEMENT SCHEDULES, AND REPORTS ON FORM 6-K
+            AND ON FORM 8-K
+
+(a) (1) and (2):
+
+Incorporated  herein as Exhibit 99.1 are the  aggregate  totals of the quarterly
+Noteholder  Reports to the Trust for the 12 months  ended  December  31, 2004. A
+copy of the Officer's  Certificate  of Compliance is attached  hereto as Exhibit
+No. 99.3
+
+<TABLE>
+<CAPTION>
+
+(a)  (3) EXHIBITS:
+
+------------------------- --------------------------------------------------- ----------------------
+Designation               Description                                         Method of Filing
+------------------------- --------------------------------------------------- ----------------------
+<S>                      <C>                                                       <C>
+
+Exhibit 13.1              Noteholders Reports for the January 20, 2004,             13.1
+                          April 20, 2004, July 20, 2004 and the October 20,
+                          2004 Payment Dates
+Exhibit 31.1              Section 302 Certification                                 31.1
+Exhibit 99.1              Aggregate Totals for the period January 1, 2004           99.1
+                          to December 31, 2004
+Exhibit 99.2              Independent Auditor's Annual Servicer Compliance          99.2
+                          Certificate
+Exhibit 99.3              Officer's Certificate of Compliance                       99.3
+Exhibit 99.4              Servicer's Certificate of Compliance                      99.4
+------------------------- --------------------------------------------------- ----------------------
+</TABLE>
+
+
+(b)  FOR THE JANUARY 20, 2004 PAYMENT DATE A REPORT ON FORM 6-K WAS FILED BY THE
+     REGISTRANT IN ORDER TO PROVIDE THE STATEMENTS  FOR QUARTERLY  DISTRIBUTIONS
+     TO THE NOTEHOLDERS.
+
+     FOR THE APRIL 20, 2004  PAYMENT  DATE A REPORT ON FORM 8-K WAS FILED BY THE
+     REGISTRANT IN ORDER TO PROVIDE THE STATEMENTS  FOR QUARTERLY  DISTRIBUTIONS
+     TO THE NOTEHOLDERS.
+
+     FOR THE JULY 20,  2004  PAYMENT  DATE A REPORT ON FORM 8-K WAS FILED BY THE
+     REGISTRANT IN ORDER TO PROVIDE THE STATEMENTS  FOR QUARTERLY  DISTRIBUTIONS
+     TO THE NOTEHOLDERS.
+
+     FOR THE OCTOBER 20, 2004 PAYMENT DATE A REPORT ON FORM 8-K WAS FILED BY THE
+     REGISTRANT IN ORDER TO PROVIDE THE STATEMENTS  FOR QUARTERLY  DISTRIBUTIONS
+     TO THE NOTEHOLDERS.
+
+NO OTHER  REPORTS ON EITHER FORM 6-K OR FORM 8-K HAVE BEEN FILED DURING THE LAST
+TWELVE MONTHS COVERED BY THIS REPORT.
+
+
+                                       9
+<PAGE>
+
+
+SIGNATURES
+
+Pursuant to the  requirements of Section 13 or 15(d) of the Securities  Exchange
+Act of 1934,  the  registrant  has duly  caused  this report to be signed on its
+behalf by the undersigned, thereunto duly authorized.
+
+INTERSTAR SECURITISATION MANAGEMENT PTY LIMITED
+
+
+
+ /s/ Sam Kyriacou
+-------------------------
+Name: Sam Kyriacou
+Title: Director
+Date: March 24, 2005
+
+
+
+                                       10
+
+<PAGE>
+
+
+
+                                INDEX TO EXHIBITS
+
+
+EXHIBIT NO.         DOCUMENT DESCRIPTION
+----------- --------------------------------------------------------------------
+13.1        Noteholders  Reports  for the January  20,  2004,  April 20,
+            2004, July 20, 2004 and the October 20, 2004 Payment Dates
+
+31.1        Section 302 Certification
+
+99.1        Aggregate Totals for the Period January 1, 2004 to December 31, 2004
+
+99.2        Independent Auditor's Annual Servicer Compliance Certificate
+
+99.3        Officer's Certificate of Compliance
+
+99.4        Servicer's Certificate of Compliance
+
+
+
+                                       11
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOCUMENT>

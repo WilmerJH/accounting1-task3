@@ -1,0 +1,2680 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>plaicdocf10k.htm
+<TEXT>
+<HTML>
+<head>
+<title>10-K</title>
+</head>
+<BODY>
+
+
+
+<CENTER>_______________________________________________________________________________________________________________________</CENTER>
+
+<CENTER>_______________________________________________________________________________________________________________________</CENTER>
+<CENTER><H4>UNITED STATES</H4></center>
+<CENTER><H4>SECURITIES AND EXCHANGE COMMISSION</H4>
+<H5>WASHINGTON, D. C.  20549</H5></CENTER>
+<CENTER>_____________</CENTER>
+<CENTER><H4>FORM 10-K</H4></center>
+
+
+<H1 ALIGN=CENTER><FONT SIZE=3>Annual Report Pursuant to Section 13 or 15(d) of
+<BR>the Securities Exchange Act of 1934</FONT></H1>
+<table>
+<tr>
+        <th></th>
+        <th></th>
+        <th align=center width=50%>For the fiscal year ended</th>
+        <th align=center width=50%>Commission File Number</th>
+</tr>
+<tr>
+        <th></th>
+        <th></th>
+        <th align=center width=50%>December 31, 2002</th>
+        <th align=center width=50%>333-42425</th>
+</tr>
+</table>
+<br>
+<CENTER>_____________</CENTER>
+<br>
+<CENTER><H1>PROTECTIVE LIFE AND ANNUITY INSURANCE COMPANY</H1>
+<FONT SIZE=1>(Exact name of Registrant as specified in its charter)</FONT></CENTER>
+<br>
+<br>
+<br>
+<table>
+<tr>
+        <th></th>
+        <th></th>
+        <th align=center width=50%>Alabama</th>
+        <th align=center width=50%>63-0761690</th>
+</tr>
+<tr>
+        <th></th>
+        <th></th>
+        <th align=center width=50%>(State or other jurisdiction of</th>
+        <th align=center width=50%>(IRS Employer</th>
+</tr>
+<tr>
+        <th></th>
+        <th></th>
+        <th align=center width=50%>incorporation or organization)</th>
+        <th align=center width=50%>Identificiation No.</th>
+</tr>
+</table>
+<br>
+<br>
+<br>
+<br>
+<table>
+<tr>
+        <th></th>
+        <th></th>
+        <th align=center width=50%>2801 Highway 280 South</th>
+        <th align=center width=50%></th>
+</tr>
+<tr>
+        <th></th>
+        <th></th>
+        <th align=center width=50%>Birmingham, Alabama</th>
+        <th align=center width=50%>35223</th>
+</tr>
+<tr>
+        <th></th>
+        <th></th>
+        <th align=center width=50%>(Address of principal</th>
+        <th align=center width=50%>(Zip Code)</th>
+</tr>
+<tr>
+        <th></th>
+        <th></th>
+        <th align=center width=50%>executive offices)</th>
+        <th align=center width=50%></th>
+</tr>
+
+</table>
+
+
+
+<br>
+<br>
+<br>
+<br>
+<CENTER>Registrant's telephone number, including area code <B>(205) 268-1000</B>
+</CENTER>
+<br>
+<br>
+<CENTER>_____________</CENTER>
+<br>
+<br>
+<center>Securities registered pursuant to Section 12(b) of the Act:  None</center>
+<br>
+<br>
+<CENTER>_____________</CENTER>
+<br>
+<br>
+<center>Securities registered pursuant to Section 12(g) of the Act:  None</center>
+<br>
+<br>
+<P><FONT  SIZE=2>Indicate by check mark whether the Registrant (1) has filed all
+reports  required to be filed by Section 13 or 15(d) of the Securities  Exchange
+Act of 1934  during the  preceding  12 months (or for such shorter period that the registrant
+was required to file such reports), and (2) has been  subject to such
+filing requirements for the past 90 days.<br> Yes [X] No[ ]</FONT></P>
+
+
+<P><FONT  SIZE=2>Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation
+S-K is not contained herein, and will not be contained, to the best of Registrant's knowledge, in
+the definitive proxy statement or information statements incorporated by
+reference in Part III of this Form 10-K or any amendment to this Form 10-K. [X] </FONT></P>
+
+<P><FONT  SIZE=2>Indicate by checkmark whether the registrant is an accelerated filer. <br> Yes [ ] No [X]</FONT></P>
+
+<P><FONT  SIZE=2>Aggregate market value of voting stock held by nonaffiliates of the registrant:  None</FONT></P>
+
+<P><FONT  SIZE=2>Number of shares of Common Stock, $10.00 Par Value, outstanding as of March 7, 2003:  250,000.</FONT></P>
+
+
+<P><FONT  SIZE=2><b>The registrant meets the conditions set forth in General Instruction I(1) (a) and (b) of Form 10-K and is
+therefore filing this Form with the reduced disclosure format pursuant to General Instruction I(2).</b></FONT></P>
+
+<center>DOCUMENTS INCORPORATED BY REFERENCE</CENTER>
+<br>
+<br>
+<center>None, except Exhibits</center>
+<br>
+<br>
+
+<CENTER>_______________________________________________________________________________________________________________________</CENTER>
+
+<CENTER>_______________________________________________________________________________________________________________________</CENTER>
+
+
+
+                                                                <center><b>PART I</b></center>
+
+<b>Item 1.  Business</b>
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Protective
+Life and Annuity Insurance Company (&#147;the Company&#148;), a stock life
+insurance company, was founded in 1978. Since 1983, all outstanding shares of
+the Company&#146;s common stock have been owned by Protective Life Insurance
+Company (&#147;Protective&#148;), which is a wholly-owned subsidiary of
+Protective Life Corporation (&#147;PLC&#148;), an insurance holding company
+whose common stock is traded on the New York Stock Exchange under the symbol
+&#147;PL&#148;. All outstanding shares of the Company&#146;s preferred stock are
+owned by PLC. The Company is authorized to transact insurance business, as an
+insurance company or a reinsurance company, in 49 states, including New York. </FONT></P>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PLC
+through its subsidiaries provides financial services through the production,
+distribution, and administration of insurance and investment products. PLC
+through its subsidiaries operates business segments each having a strategic
+focus which can be grouped into three general categories: life insurance,
+retirement savings and investment products, and specialty insurance products.
+PLC&#146;s operating segments are Life Marketing, Acquisitions, Stable Value
+Products, Annuities, and Asset Protection. </FONT></P>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The
+Company, since it is licensed in the State of New York, is the entity through
+which PLC markets, distributes, and services insurance and annuity products in
+New York. As of December 31, 2002, the Company was involved in the businesses of
+four of PLC&#146;s operating segments: Life Marketing, Acquisitions, Asset
+Protection, and Annuities. The Company has an additional business segment which
+is described herein as the Corporate and Other segment. </FONT></P>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Protective
+has entered into an intercompany guaranty agreement, enforceable by the Company
+or its successors, whereby Protective has guaranteed the Company&#146;s payment
+of claims made by the holders of Company policies according to the terms of such
+policies. The guarantee will remain in force until the earlier of (a) when the
+Company achieves a claims-paying rating equal to or better than Protective
+without the benefit of any inter-company guaranty agreement or (b) 90 days after
+the guaranty agreement is revoked by written instrument; provided, however, even
+after any revocation or termination by such notice, the guarantee shall remain
+effective as to policies issued during the existence of the guaranty agreement. </FONT></P>
+
+<b>Item 2.  Properties</b>
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The
+Company has no properties. The Company has contracts with PLC and Protective
+under which it receives investment, legal, and data processing services on a fee
+basis and other managerial and administrative services on a shared cost basis. </FONT></P>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Protective&#146;s
+administrative office building is located at 2801 Highway 280 South, Birmingham,
+Alabama&#160;35223. </FONT></P>
+
+<b>Item 3.  Legal Proceedings</b>
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To
+the knowledge and in the opinion of management, there are no material pending
+legal proceedings, other than routine litigation incidental to the business of
+the Company, to which the Company or any of its affiliates is a party or of
+which any of its affiliates&#146; properties is subject. For additional
+information regarding legal proceedings see Note E to the financial statements
+included herein. </FONT></P>
+
+<b>Item 4. Submission of Matters to a Vote of Security Holders</b>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not required in accordance with General Instruction I(2)(c). </FONT></P>
+
+
+
+
+                            <center><b>PART II</b></center>
+<br>
+<b>Item 5.  Market for the Registrant's Common Stock and Related Share-Owner Matters</b>
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The
+Company is a wholly-owned subsidiary of Protective. All of the preferred stock
+issued by the Company is owned by PLC. Therefore, neither the Company&#146;s
+common stock nor its preferred stock is publicly traded. </FONT></P>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;At
+December 31, 2002, $91.3 million of share-owners&#146; equity, excluding net
+unrealized gains and losses, represented net assets of the Company that cannot
+be transferred to Protective in the form of dividends, loans, or advances. </FONT></P>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Insurers
+are subject to various state statutory and regulatory restrictions on the
+insurers&#146; ability to pay dividends. In general, dividends up to specific
+levels are considered ordinary and may be paid thirty days after written notice
+to the insurance commissioner of the state of domicile unless such commissioner
+objects to the dividend prior to the expiration of such period. Dividends in
+larger amounts are considered extraordinary and are subject to affirmative prior
+approval by such commissioner. The maximum amount that would qualify as ordinary
+dividends to Protective by the Company in 2003 is estimated to be $12.1 million. </FONT></P>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>In 2002, the Company
+declared and paid a cash dividend on common stock of $14.7&#160;million. In
+2001, the Company declared and paid a cash dividend on common stock of
+approximately $11.9 million. Preferred dividends of $50,000 were paid in 2002.
+Preferred dividends of $1.0 million were paid in 2001. The Company expects to
+continue to be able to pay cash dividends, subject to its earnings, financial
+condition and other relevant factors. </FONT></P>
+
+<b>Item 6.  Selected Financial Data</b>
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not
+required in accordance with General Instruction I(2)(a). </FONT></P>
+
+<b>Item 7.  Management's Narrative Analysis of the Results of Operations</b>
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In
+accordance with General Instruction I(2)(a), the Company includes the following
+analysis with the reduced disclosure format. </FONT></P>
+
+<b>Forward-Looking Statements - Cautionary Language</b>
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>This report reviews the
+Company&#146;s financial condition and results of operations. Historical
+information is presented and discussed. Where appropriate, factors that may
+affect future financial performance are also identified and discussed. Certain
+statements made in this report include &#147;forward-looking statements&#148;
+within the meaning of the Private Securities Litigation Reform Act of 1995.
+Forward-looking statements include any statement that may predict, forecast,
+indicate or imply future results, performance or achievements instead of
+historical facts, and may contain words like &#147;believe,&#148;
+&#147;expect,&#148; &#147;estimate,&#148; &#147;project,&#148;
+&#147;budget,&#148; &#147;forecast,&#148; &#147;anticipate,&#148;
+&#147;plan,&#148; &#147;will,&#148; &#147;shall,&#148; and other words, phrases
+or expressions with similar meaning. Forward-looking statements involve risks
+and uncertainties which may cause actual results to differ materially from the
+results contained in the forward-looking statements, and the Company cannot give
+assurances that such statements will prove to be correct. Given these risks and
+uncertainties, undue reliance should not be placed on forward-looking
+statements as a prediction of actual results. </FONT></P>
+
+<b>Critical Accounting Policies</b>
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>The Company&#146;s
+accounting policies inherently require the use of judgments relating to a
+variety of assumptions and estimates, in particular expectations of current and
+future mortality, morbidity, persistency, expenses, and interest rates. Because
+of the inherent uncertainty when using the assumptions and estimates, the effect
+of certain accounting policies under different conditions or assumptions could
+be materially different from those reported in the financial statements. A
+discussion of the various critical accounting policies is presented below. </FONT></P>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>The Company incurs
+significant costs in connection with acquiring new insurance business. These
+costs, which vary with and are primarily related to the production of new
+business and coinsurance of blocks of policies, are deferred. The recovery of
+such costs is dependent on the future profitability of the related policies. The
+amount of future profit is dependent principally on investment returns,
+mortality, morbidity, persistency, and expenses to administer the business and
+certain economic variables, such as inflation. These factors enter into
+management&#146;s estimates of future profits which generally are used to
+amortize certain of such costs. Revisions to estimates result in changes to the
+amounts expensed in the reporting period in which the revisions are made and
+could result in the impairment of the asset and a charge to income if estimated
+future profits are less than the unamortized deferred amounts. </FONT></P>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>The Company has a deferred
+policy acquisition costs asset of approximately $1 million related to its
+variable annuity product lines with an account balance of $13.2 million at
+December 31, 2002. The Company monitors the rate of amortization of the deferred
+policy acquisition costs associated with its variable annuity product line. The
+methodologies employ varying assumptions about how much and how quickly the
+stock markets will recover from their current depressed levels. The primary
+assumptions used to project future profits as part of the recoverability
+analysis include: a long-term equity market growth rate of 8%, reversion to the
+mean methodology with a reversion to the mean cap rate of 13%, reversion to the
+mean period of 5 years, and an amortization period of 20 years. A recovery in
+equity markets, or methodologies and assumptions that anticipate a recovery,
+result in lower amounts of amortization, and a worsening of equity markets
+result in higher amounts of amortization. </FONT></P>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Establishing an adequate
+liability for the Company&#146;s obligations to its policyholders requires the
+use of assumptions. Liabilities for future policy benefits on traditional life
+insurance products requires the use of assumptions relative to future investment
+yields, mortality, persistency and other assumptions based on the Company&#146;s
+experience, modified as necessary to reflect anticipated trends and to include
+provisions for possible adverse deviation. </FONT></P>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>The Company also
+establishes liabilities for guaranteed minimum death benefits (GMDB) on its
+variable annuity products. The methods used to estimate the liabilities employ
+assumptions about mortality and the performance of equity markets. The Company
+assumes mortality of 60% of the National Association of Insurance Commissioners
+1994 Variable Annuity GMDB Mortality Table to reflect improvements in mortality
+since the table was derived and other factors. Future declines in the equity
+market would increase the Company&#146;s GMDB liability. Differences between the
+actual experience and the assumptions used result in variances in profit and
+could result in losses. </FONT></P>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Determining whether a
+decline in the current fair value of invested assets is an other than temporary
+decline in value can involve a variety of assumptions and estimates,
+particularly for investments that are not actively traded on established
+markets. For example, assessing the value of some investments requires the
+Company to perform an analysis of expected future cash flows or rates of
+prepayments. Other investments, such as collateralized mortgage or bond
+obligations, represent selected tranches of a structured transaction, supported
+overall by underlying investments in a wide variety of issuers. The
+Company&#146;s specific accounting policies related to its invested assets are
+discussed in the notes to the financial statements. </FONT></P>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>The assessment of potential
+obligations for tax, regulatory, and litigation matters inherently involve a
+variety of estimates of potential future outcomes. The Company makes such
+estimates after consultation with its advisors and a review of available facts. </FONT></P>
+
+<b>Revenues</b>
+<br>
+      The following table sets forth revenues by source for the periods shown:
+<pre>
+                                                                    Year Ended                 Percentage
+                                                                   December 31                  Increase
+                                                                                               (Decrease)
+                                                        -----------------------------------    ----------
+
+                                                              2002              2001
+                                                              ----              ----
+
+Premiums and policy fees...........................       $27,558,996        $29,086,430          (5.3)%
+Net investment income..............................        36,245,837         33,876,409           7.0
+Realized investment losses.........................          (696,209)        (1,113,538)         37.5
+Other income.......................................            11,087              5,731          93.5
+                                                          -----------        -----------
+                                                          $63,119,711        $61,855,032
+                                                          ===========        ===========
+
+</PRE>
+
+
+
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Premiums
+and policy fees, net of reinsurance (&#147;premiums and policy fees&#148;)
+decreased $1.5 million or 5.3% in 2002 as compared to 2001. Premiums and policy
+fees in the Acquisitions segment are expected to decline with time unless new
+acquisitions are made. There were no new acquisitions made in 2002, resulting in a decrease of $1.4 million. Premiums and policy fees from the Asset
+Protection segment were $0.3 million lower in 2002 as compared to 2001. The
+Annuities segment's premiums in 2002 were approximately the same as in 2001. The Company became involved with PLC's Life Marketing segment in 2002 which added $0.1 million
+in premiums for the year. </FONT></P>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Net
+investment income for 2002 was $2.4 million or 7.0% higher than for the
+preceding year primarily due to increases in the average amount of invested
+assets. The percentage earned on average cash and investments was 6.3% in 2002
+and 6.6% in 2001. </FONT></P>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The
+Company generally purchases its investments with the intent to hold to maturity
+by purchasing investments that match future cash flow needs. However, the
+Company may sell any of its investments to maintain proper matching of assets
+and liabilities. Accordingly, the Company has classified its fixed maturities
+and certain other securities as &#147;available for sale.&#148; The sales of
+investments that have occurred generally result from portfolio management
+decisions to maintain proper matching of assets and liabilities. </FONT></P>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Realized
+investment gains in 2002 were approximately $2.7 million and realized investment
+losses were approximately $3.4 million. During 2002, the Company recorded other
+than temporary impairments in its investments of $4.3 million. </FONT></P>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Each
+quarter the Company reviews investments with material unrealized losses and
+tests for other-than-temporary impairments. Management analyzes various factors
+to determine if any specific other than temporary asset impairments exist. Once
+a determination has been made that a specific other-than-temporary impairment
+exists, a realized loss is recognized and the cost basis of the impaired asset
+is adjusted to its fair value. An other-than-temporary impairment loss is
+recognized based upon all relevant facts and circumstances for each investment.
+With respect to unrealized losses due to issuer-specific events, the Company
+considers the creditworthiness and financial performance of the issuer and other
+available information. With respect to unrealized losses that are not due to
+issuer-specific events, such as losses due to interest rate fluctuations,
+general market conditions or industry-related events, the Company considers its
+intent and ability to hold the investment to allow for a market recovery or to
+maturity together with an assessment of the likelihood of full recovery. </FONT></P>
+
+<b>Income Before Income Tax</b>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Management
+evaluates the results of the Company&#146;s segments on a before-income-tax
+basis as adjusted for certain items which management believes are not indicative
+of the Company&#146;s core operations. Segment operating income (loss) excludes
+net realized investment gains and losses and the related amortization of
+deferred policy acquisition costs because fluctuations in these items are due to
+changes in interest rates and other financial market factors instead of
+mortality and morbidity. Also, operating segment income (loss) excludes any net
+gains or losses on disposals of businesses, discontinued operations,
+extraordinary items, the cumulative effect of accounting changes, and any other
+items, that, in each case, are neither normal nor recurring. Although the items
+excluded from segment operating income (loss) may be significant components in
+understanding and assessing the Company&#146;s overall financial performance,
+management believes that operating segment income (loss) enhances an
+investor&#146;s understanding of the Company&#146;s results of operations by
+highlighting the income (loss) attributable to the normal, recurring operations
+of the insurance business (i.e., mortality and morbidity), consistent with
+industry practice. However, the Company&#146;s segment income (loss) measures
+may not be comparable to similarly titled measures reported by other companies.
+Segment income (loss) should not be construed as a substitute for net income
+(loss) determined in accordance with accounting principles generally accepted in
+the United States of America (GAAP). &#147;Total income from continuing
+operations before income tax&#148; is a GAAP measure to which the non-GAAP
+measure &#147;total operating income&#148; may be compared. Unlike total
+operating income, total income before income tax includes net realized
+investment gains and losses and the related amortization of deferred policy
+acquisition costs. </FONT></P>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The
+following table sets forth operating income or loss and income or loss before
+income tax by business segment for the periods shown: </FONT></P>
+
+<PRE>
+                                                                   Operating Income (Loss) and Income (Loss) Before
+                                                                           Income Tax Year Ended December 31
+                                                                  ----------------------------------------------------
+                                                                           2002                          2001
+                                                                           ----                          ----
+       Operating Income (Loss)(1)
+       Life Insurance
+            Life Marketing................................            $     142,070
+            Acquisitions..................................               11,732,882                    $11,538,404
+       Specialty Insurance Products
+            Asset Protection..............................                1,593,905                        976,656
+       Retirement Savings and
+         Investment Products
+            Annuities.....................................                 (536,584)                      (646,706)
+       Corporate and Other................................                1,010,857                      1,531,512
+                                                                       ------------                     -----------
+       Total operating income.............................               13,943,130                     13,399,866
+                                                                       ============                     ===========
+       Realized Investment Gains (Losses)
+            Annuities.....................................                   79,719
+       Unallocated Realized Investment Gains (Losses).....                 (775,928)                    (1,113,538)
+                                                                        ------------                    -----------
+       Total..............................................                 (696,209)                    (1,113,538)
+                                                                        ------------                    -----------
+       Income (Loss) Before Income Tax
+       Life Insurance
+            Life Marketing................................                  142,070
+            Acquisitions..................................               11,732,882                     11,538,404
+       Specialty Insurance Products
+            Asset Protection..............................                1,593,905                        976,656
+       Retirement Savings and
+         Investment Products
+            Annuities.....................................                 (456,865)                      (646,706)
+       Corporate and Other................................                1,010,857                      1,531,512
+       Unallocated Realized Investment Gains (Losses).....                 (775,928)                    (1,113,538)
+                                                                        ------------                  -------------
+       Total income from continuing operations before
+         income tax.......................................              $13,246,921                    $12,286,328
+                                                                        ============                  =============
+
+
+         (1)     Income  (loss) from  continuing  operations  before  income tax  excluding  realized  investment  gains and losses and
+           related amortization of deferred policy acquisition costs.
+</PRE>
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The
+Company became involved with PLC's Life Marketing segment during 2002, resulting in
+additional pretax earnings of $0.1 million. </FONT></P>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pretax earnings from the
+Acquisitions segment increased $0.2 million in 2002 as compared to 2001.
+Earnings from the Acquisitions segment are normally expected to decline over
+time (due to the lapsing of policies resulting from deaths of insureds or
+terminations of coverage) unless new acquisitions are made. However, the
+decline in premium income was more than offset by increased net investment income and increases in other income. </FONT></P>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The
+Asset Protection segment&#146;s 2002 pretax earnings increased $0.6 million as
+compared to 2001 primarily due to ceding commissions related to reinsurance arrangements with affiliates.  The reinsurance
+arrangements are more fully discussed in Note J to the Company's financial statements included herein.</FONT></P>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The
+Annuities segment&#146;s 2002 pretax loss decreased $0.1 million primarily due
+to an increase in net investment income on capital. The Annuities segment&#146;s
+future results may be negatively affected by a slow economy. Volatile equity
+markets could negatively affect sales of variable annuities and the fees the
+segment assesses on variable annuity contracts. Lower interest rates could
+negatively affect sales of fixed annuities. In this segment, equity market
+volatility may create uncertainty regarding the level of future profitability in
+the variable annuity business and the related rate of amortization of deferred
+policy acquisition cost. Also, beginning in January 2003, the Company is no longer
+marketing variable annuity products.</FONT></P>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The
+Company offers a guaranteed minimum death benefit feature (GMDB) on its variable
+annuity products. The Company&#146;s accounting policy has been to calculate its
+total exposure to GMDB, and then apply a mortality factor to determine the
+amount of claims that could be expected to occur in the coming twelve months.
+The Company then accrues to that amount over four quarters. At December 31,
+2002, the total GMDB reserve was $0.2 million, an increase of $0.1 million from
+December 31, 2001. At December 31, 2002, the total guaranteed amount payable
+under the GMDB feature based on variable annuity account balances at
+December&#160;31, 2002, was $3.4 million, compared to $1.7 million at December
+31, 2001. Based on variable annuity account balances as of January 31, 2003, the
+total guaranteed dollar amount payable under the GMDB feature was approximately
+$3.5 million. </FONT></P>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In
+accordance with statutory accounting practices prescribed or permitted by
+regulatory authorities (which require the assumption that equity markets will
+significantly worsen), the Company reported GMDB related policy liabilities and
+accruals of $0.2 million at December 31, 2002. </FONT></P>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The
+Corporate and Other segment consists of net investment income and expenses not
+identified with the preceding business segments. Pretax earnings in 2002
+decreased $0.5 million over 2001, primarily due to decreased net investment
+income on capital. </FONT></P>
+
+<b>Income Tax Expense</b>
+<br>
+      <P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The following table sets forth the effective income tax rates for the periods shown:</FONT></P>
+<pre>
+                      Year Ended                                          Effective Income
+                      December 31                                            Tax Rates
+                      -----------                                         ----------------
+
+                      2002...................................                  34.9%
+                      2001...................................                  33.9
+</PRE>
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Management&#146;s
+current estimate of the effective income tax rate for 2003 is 34.9%. </FONT></P>
+
+<b>Discontinued Operations</b>
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On
+December 31, 2001, PLC completed the sale to Fortis, Inc. of substantially all
+of its Dental Benefits Division (Dental Division), and discontinued certain
+other remaining Dental Division related operations, primarily other health
+insurance lines. In 2000, the loss from discontinued operations, net of income
+tax, was $51,006. In 2001, income from discontinued operations was $158,889 and
+the gain from the sale of discontinued operations was $1,625,000, both net of
+income tax. </FONT></P>
+
+<b>Change in Accounting Principle</b>
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On
+January 1, 2001, the Company adopted Statement of Financial  Accounting  Standards (SFAS) No. 133,  "Accounting for Derivative
+Instruments  and  Hedging  Activities."  The  adoption  of SFAS No. 133  resulted  in a  cumulative  after-tax  charge to net income of
+approximately $0.3 million.</FONT></P>
+
+<b>Net Income</b>
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The
+following table sets forth net income from continuing operations before
+cumulative effect of change in accounting principle for the periods shown: </FONT></P>
+
+<PRE>
+                                                                                                  Net Income
+                                                                                    ----------------------------------------
+                                                                                                            Percentage
+                                     Year Ended                                                              Increase
+                                     December 31                                          Amount            (Decrease)
+                                     ------------                                         ------            -----------
+
+                                     2002......................................         $8,624,649               6.2%
+                                     2001......................................         $8,121,263              (7.7)
+</PRE>
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Net
+income from continuing operations before cumulative effect of change in
+accounting principle in 2002 increased 6.2%, compared to 2001, reflecting
+improved operating earnings in the Life Marketing, Acquisitions, Asset
+Protection and the Annuities segments offset by lower operating earnings in the
+Corporate and Other segment. </FONT></P>
+
+<b>Recently Issued Accounting Standards</b>
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For
+information regarding recently issued accounting standards see Note A to the
+financial statements included herein. </FONT></P>
+
+<b>Item 7A. Quantitative and Qualitative Disclosures About Market Risk</b>
+<br>
+<br>
+<b>Investments</b>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Company generally
+purchases its investments with the intent to hold to maturity by purchasing
+investments that match future cash flow needs. However, the Company may sell any
+of its investments to maintain proper matching of assets and liabilities.
+Accordingly, the Company has classified its fixed maturities and certain other
+securities as &#147;available for sale.&#148; </FONT></P>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Company&#146;s
+investments in debt securities are reported at market value, and investments in
+mortgage loans are reported at amortized cost. At December 31, 2002, the
+Company&#146;s fixed maturity investments (bonds) had a market value of $488.7
+million, which is 4.7% above amortized cost of $466.9 million. The Company had
+$1.8 million in mortgage loans at December&#160;31,&#160;2002. While the
+Company&#146;s mortgage loans do not have quoted market values, at
+December&#160;31,&#160;2002, the Company estimates the market value of its
+mortgage loans to be $1.9 million (using discounted cash flows from the next
+call date), which is 3.9% above amortized cost. </FONT></P>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;At December 31, 2001, the
+Company&#146;s fixed maturity investments had a market value of $445.7 million,
+which was 0.7% below amortized cost of $442.6 million. The Company estimated the
+market value of its mortgage loans to be $2.9 million at December 31, 2001,
+which was 5.7% above amortized cost of $2.7 million. </FONT></P>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The approximate percentage distribution of the Company's fixed maturity investments by quality rating at December 31 is as follows:</FONT></P>
+<pre>
+                             Rating                                                        2002           2001
+                             ------                                                        ----           ----
+
+                             AAA...........................................                 8.3%          6.0%
+                             AA............................................                 7.2           5.4
+                             A.............................................                38.2          44.0
+                             BBB...........................................                40.7          42.2
+                             BB or Less....................................                 5.6           2.4
+                                                                                          -----         -----
+                                                                                          100.0%        100.0%
+                                                                                          =====         =====
+</PRE>
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The following table sets
+forth the estimated market values of the Company&#146;s fixed maturity
+investments and mortgage loans resulting from a hypothetical immediate 1
+percentage point increase in interest rates from levels prevailing at December
+31, and the percent change in market value the following estimated market values
+would represent. </FONT></P>
+
+<PRE>
+                                 Estimated Market Values Resulting From An
+                                   Immediate 1 Percentage Point Increase
+                                             In Interest Rates
+
+                                                                                             Percent
+At December 31, 2002                                                   Amount                Change
+--------------------                                                   ------                -------
+
+Fixed maturities.......................................               $458,352,064             (6.2)%
+Mortgage loans.........................................                  1,847,861             (0.8)
+
+ At December 31, 2001
+---------------------
+
+Fixed maturities.......................................               $425,089,252             (4.6)%
+Mortgage loans.........................................                  2,817,280             (1.9)
+</PRE>
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Estimated
+market values were derived from the durations of the Company&#146;s fixed
+maturities and mortgage loans. Duration measures the relationship between
+changes in market value to changes in interest rates. While these estimated
+market values generally provide an indication of how sensitive the market values
+of the Company&#146;s fixed maturities and mortgage loans are to changes in
+interest rates, they do not represent management&#146;s view of future market
+changes, and actual market results may differ from these estimates. </FONT></P>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;During 2002, the Company
+recorded pretax other than temporary impairments in its investments of $4.3
+million. </FONT></P>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Company&#146;s
+management considers a number of factors when determining the impairment status
+of individual securities. These include the economic condition of various
+industry segments and geographic locations and other areas of identified risks.
+Although it is possible for the impairment of one investment to affect other
+investments, the Company engages in ongoing risk management to safeguard against
+and limit any further risk to its investment portfolio. Special attention is
+given to correlative risks within specific industries, related parties and
+business markets. </FONT></P>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Once management has
+determined that a particular investment has suffered an other-than-temporary
+impairment, the asset is written down to its estimated fair value. The Company
+generally considers a number of factors in determining whether the impairment is
+other than temporary. These include, but are not limited to: 1) actions taken by
+rating agencies, 2) default by the issuer, 3) the significance of the decline,
+4) the intent and ability of the Company to hold the investment until recovery,
+5) the time period during which the decline has occurred, 6) an economic
+analysis of the issuer&#146;s industry, and 7) the financial strength,
+liquidity, and recoverability of the issuer. Management performs a security by
+security review each quarter in evaluating the need for any other-than-temporary
+impairments. Although no set formula is used in this process, the investment
+performance and continued viability of the issuer are significant measures. </FONT></P>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Company generally
+considers a number of factors relating to the issuer in determining the
+financial strength, liquidity, and recoverability of an issuer. These include
+but are not limited to: available collateral, tangible and intangible assets
+that might be available to repay debt, operating cash flows, financial ratios,
+access to capital markets, quality of management, market position, exposure to
+litigation or product warranties, and the effect of general economic conditions
+on the issuer. </FONT></P>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;There are certain risks and
+uncertainties associated with determining whether declines in market values are
+other than temporary. These include significant changes in general economic
+conditions and business markets, trends in certain industry segments, interest
+rate fluctuations, rating agency actions, changes in significant accounting
+estimates and assumptions, commission of fraud and legislative actions. The
+Company continuously monitors these factors as they relate to the investment
+portfolio in determining the status of each investment. The majority of
+unrealized losses can be attributed to interest rate fluctuations and are,
+therefore, deemed temporary. As indicated above, when the Company&#146;s
+investment management deems an investment&#146;s market value decline as other
+than temporary, it is written down to estimated market value. In all cases,
+management will continue to carefully review and monitor each security. </FONT></P>
+
+<b>Liabilities</b>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Many
+of the Company&#146;s products contain surrender charges and other features that
+reward persistency and penalize the early withdrawal of funds. Certain annuity
+contracts have market-value adjustments that protect the Company against
+investment losses if interest rates are higher at the time of surrender than at
+the time of issue. </FONT></P>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;At
+December 31, 2002, the Company had $60.1 million of annuity account balances
+with an estimated fair value of $63.0 million (using surrender value). </FONT></P>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;At
+December 31, 2001, the Company had $47.3 million of annuity account balances
+with an estimated fair value of $46.4 million. </FONT></P>
+
+
+<!-- MARKER PAGE="sheet: 5; page: 5" -->
+<HR SIZE=5 COLOR=GRAY NOSHADE>
+
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The
+following table sets forth the estimated fair values of the Company&#146;s
+annuity account balances resulting from a hypothetical immediate 1 percentage
+point decrease in interest rates from levels prevailing at December&#160;31, and
+the percent change in fair value the following estimated fair values would
+represent. </FONT></P>
+
+<PRE>
+                                 Estimated Fair Values Resulting From An
+                                  Immediate 1 Percentage Point Decrease
+                                           In Interest Rates
+
+                                                                                             Percent
+At December 31, 2002                                                     Amount                Change
+--------------------                                                     ------              --------
+
+Annuity account balances...............................                $65,819,278              4.5%
+
+At December 31, 2001
+--------------------
+
+Annuity account balances...............................                $48,484,093              4.5%
+</pre>
+
+     <P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Estimated  fair values were derived from the durations of the Company's  annuity  account  balances.  While these  estimated  fair
+values  generally  provide an indication of how sensitive the fair values of the Company's  annuity account  balances are to changes in
+interest  rates,  they do not represent  management's  view of future market  changes,  and actual market results may differ from these
+estimates.</FONT></P>
+
+     <P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Approximately  one-fourth of the Company's  liabilities  relate to products  (primary whole life insurance),  the profitability of
+which could be affected by changes in interest rates. The effect of such changes in any one year is not expected to be material.</FONT></P>
+
+
+<!-- MARKER PAGE="sheet: 6; page: 6" -->
+<HR SIZE=5 COLOR=GRAY NOSHADE>
+
+<b>Item 8.  Financial Statements and Supplementary Data</b>
+<br>
+<br>
+                                            <center><b>INDEX TO FINANCIAL STATEMENTS</b></center>
+
+<pre>
+
+Report of Independent Accountants........................................................................
+Statements of Income for the years ended December 31, 2002, 2001, and 2000...............................
+Balance Sheets as of December 31, 2002 and 2001..........................................................
+Statements of Share-Owners' Equity for the years ended
+   December 31, 2002, 2001, and 2000.....................................................................
+Statements of Cash Flows for the years ended December 31, 2002, 2001, and 2000...........................
+Notes to Financial Statements............................................................................
+Financial Statement Schedules:
+Schedule III-- Supplementary Insurance Information......................................................
+Schedule IV-- Reinsurance...............................................................................
+</pre>
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;All
+other schedules to the financial statements required by Article 7 of Regulation
+S-X are not required under the related instructions or are inapplicable and
+therefore have been omitted. </FONT></P>
+
+<center><b>REPORT OF INDEPENDENT ACCOUNTANTS</b></center>
+
+
+<br>
+<br>
+To the Directors and Share Owners<br>
+Protective Life and Annuity Insurance Company<br>
+Birmingham, Alabama<br>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In
+our opinion, the financial statements listed in the accompanying index present
+fairly, in all material respects, the financial position of Protective Life and
+Annuity Insurance Company at December 31, 2002 and 2001, and the results of its
+operations and its cash flows for each of the three years in the period ended
+December 31, 2002, in conformity with accounting principles generally accepted
+in the United States of America. In addition, in our opinion, the financial
+statement schedules listed in the accompanying index present fairly, in all
+material respects, the information set forth therein when read in conjunction
+with the related financial statements. These financial statements and financial
+statement schedules are the responsibility of the Company&#146;s management; our
+responsibility is to express an opinion on these financial statements and
+financial statement schedules based on our audits. We conducted our audits of
+these statements in accordance with auditing standards generally accepted in the
+United States of America, which require that we plan and perform the audit to
+obtain reasonable assurance about whether the financial statements are free of
+material misstatement. An audit includes examining, on a test basis, evidence
+supporting the amounts and disclosures in the financial statements, assessing
+the accounting principles used and significant estimates made by management, and
+evaluating the overall financial statement presentation. We believe that our
+audits provide a reasonable basis for our opinion. </FONT></P>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As
+discussed in Note A of the Notes to the Financial Statements, effective January
+1, 2001, the Company adopted Statement of Financial Accounting Standards No.
+133, &#147;Accounting for Derivative Instruments and Hedging Activities&#148;. </FONT></P>
+
+PricewaterhouseCoopers LLP
+<br>
+<br>
+Birmingham, Alabama<br>
+March 3, 2003
+
+
+
+<PRE>
+                                           PROTECTIVE LIFE AND ANNUITY INSURANCE COMPANY
+
+                                                         STATEMENTS OF INCOME
+
+                                                                                            Year Ended December 31
+                                                                               -------------------------------------------------
+                                                                                     2002             2001            2000
+                                                                                     ----             ----            ----
+
+REVENUES
+    Premiums and policy fees..............................................      $51,293,397       $47,707,465      $47,876,379
+    Reinsurance ceded.....................................................      (23,734,401)      (18,621,035)     (17,319,246)
+                                                                                ------------      ------------     ------------
+      Net of reinsurance ceded............................................       27,558,996        29,086,430       30,557,133
+    Net investment income.................................................       36,245,837        33,876,409       31,686,448
+    Realized investment gains (losses)....................................         (696,209)       (1,113,538)          42,148
+    Other income (loss)...................................................           11,087             5,731           (6,551)
+                                                                                ------------      ------------     ------------
+                                                                                 63,119,711        61,855,032       62,279,178
+
+BENEFITS AND EXPENSES
+    Benefits and settlement expenses (net of reinsurance ceded:
+    2002-$18,296,707; 2001-$13,449,131; 2000-$15,454,285).................       33,299,046        33,344,929       32,765,035
+    Amortization of deferred policy acquisition costs.....................        8,639,183         7,034,480        6,765,446
+    Other operating expenses (net of reinsurance ceded: 2002-$31,857,142;
+      2001-397,265; 2000-$286,602)........................................        7,934,561         9,189,295        9,321,713
+                                                                                ------------      ------------     ------------
+                                                                                 49,872,790        49,568,704       48,852,194
+                                                                                ------------      ------------     ------------
+
+Income from continuing operations before income tax.......................       13,246,921        12,286,328       13,426,984
+                                                                                ------------      ------------     ------------
+
+INCOME TAX EXPENSE........................................................        4,622,272         4,165,065        4,632,310
+                                                                                ------------      ------------     ------------
+
+Net income from continuing operations before cumulative effect of change in
+accounting principle......................................................        8,624,649         8,121,263        8,794,674
+Income (loss) from discontinued operations, net of income tax.............                            158,889          (51,006)
+Gain from sale of discontinued operations, net of income tax..............                          1,625,000
+                                                                                ------------      ------------     ------------
+
+Net income before cumulative effect of change in accounting principle.....        8,624,649         9,905,152        8,743,668
+Cumulative effect of change in accounting principle, net of income tax....                           (284,968)
+                                                                                ------------      ------------     ------------
+
+Net income................................................................       $8,624,649       $ 9,620,184      $ 8,743,668
+                                                                                ============      ============     ============
+
+
+
+
+
+                                                  See notes to financial statements.
+
+
+
+
+
+
+                                             PROTECTIVE LIFE AND ANNUITY INSURANCE COMPANY
+
+                                                            BALANCE SHEETS
+
+
+                                                                                                           December 31
+                                                                                                ----------------------------------
+                                                                                                      2002             2001
+                                                                                                      ----             ----
+
+ASSETS
+Investments:
+     Fixed maturities, at market (amortized cost: 2002 - $466,924,086; 2001 - $442,583,178)      $488,701,807      $445,730,493
+     Mortgage loans on real estate.......................................................           1,793,590         2,717,495
+     Other long term investments.........................................................             572,818           470,030
+     Policy loans........................................................................          54,807,151        54,565,016
+     Short-term investments..............................................................         178,805,245        12,000,000
+                                                                                                 ------------      ------------
+         Total investments...............................................................         724,680,611       515,483,034
+Cash                                                                                                1,669,532         4,284,257
+Accrued investment income................................................................           8,382,989         8,432,689
+Accounts and premiums receivable, net of allowance for uncollectible
+     amounts (2002-$7,000; 2001 - $7,000)................................................             325,479         7,888,382
+Reinsurance receivables..................................................................          92,256,257        20,642,570
+Deferred policy acquisition costs........................................................         104,779,582       118,997,438
+Other assets.............................................................................              21,955            19,689
+Assets related to separate accounts
+     Variable annuity....................................................................           8,382,367         9,001,016
+                                                                                                 ------------      ------------
+                                                                                                 $940,498,772      $684,749,075
+                                                                                                 ============      ============
+
+
+
+LIABILITIES
+Policy liabilities and accruals:
+     Future policy benefits and claims...................................................        $517,624,864      $458,568,381
+     Unearned premiums...................................................................          26,349,028         7,767,028
+                                                                                                 ------------      ------------
+                                                                                                  543,973,892       466,335,409
+Annuity deposits.........................................................................          60,080,082        47,324,337
+Other policyholders' funds...............................................................           6,025,066         5,874,932
+Funds held-coinsurance...................................................................          89,552,015         2,944,827
+Other liabilities........................................................................          14,214,260        14,445,632
+Deferred income taxes....................................................................          25,533,038        17,077,829
+Liabilities related to separate accounts
+     Variable annuity....................................................................           8,382,367         9,001,016
+                                                                                                 ------------      ------------
+        Total liabilities................................................................         747,760,720       563,003,982
+                                                                                                 ============      ============
+
+COMMITMENTS AND CONTINGENT LIABILITIES-- NOTE E
+
+SHARE-OWNERS' EQUITY
+Preferred Stock, $1.00 par value, shares
+    authorized, issued and outstanding:  2,000...........................................               2,000             2,000
+Common Stock, $10.00 par value
+    Shares authorized: 2002 and 2001 - 500,000
+    Shares issued and outstanding: 2002 and 2001 - 250,000...............................           2,500,000         2,500,000
+Additional paid-in capital...............................................................         171,386,324       101,386,324
+Retained earnings........................................................................           9,343,166        15,468,517
+Accumulated other comprehensive income:
+  Net unrealized gains (losses) on investments
+     (net of income tax: 2002-$5,118,918; 2001 - $1,285,982).............................           9,506,562         2,388,252
+                                                                                                 ------------      ------------
+     Total share-owners' equity..........................................................         192,738,052       121,745,093
+                                                                                                 ------------      ------------
+                                                                                                 $940,498,772      $684,749,075
+                                                                                                 ============      ============
+
+
+
+                                                  See notes to financial statements.
+
+
+
+
+                                             PROTECTIVE LIFE AND ANNUITY INSURANCE COMPANY
+
+                                                  STATEMENTS OF SHARE-OWNERS' EQUITY
+
+
+
+                                                                                                                 Net
+                                                                                                              Unrealized
+                                                                               Additional                       Gains            Total
+                                                     Preferred     Common        Paid-In       Retained      (Losses) On     Share-Owners'
+                                                       Stock        Stock        Capital       Earnings      Investments        Equity
+                                                     ---------    ---------    -----------     ----------    -------------   ------------
+        Balance, December 31, 1999..............       $2,000    $2,500,000   $101,386,324    $22,754,665    $(11,344,864)   $115,298,125
+          Net income for 2000...................                                                8,743,668                       8,743,668
+          Change in net unrealized gains/losses on
+           investments
+           (net of income tax:  $4,363,726).....                                                                8,104,062       8,104,062
+          Reclassification adjustment for amounts
+           included in net income
+           (net of income tax:  ($14,752))......                                                                  (27,396)        (27,396)
+                                                                                                                             -------------
+          Comprehensive income for 2000.........                                                                               16,820,334
+                                                                                                                             -------------
+          Common dividends ($51 per share)......                                              (12,750,000)                    (12,750,000)
+                                                     ---------    ---------    -----------     ----------    -------------   ------------
+        Balance, December 31, 2000..............       2,000      2,500,000     101,386,324    18,748,333      (3,268,198)    119,368,459
+                                                                                                                             ------------
+          Net income for 2001...................                                                9,620,184                       9,620,184
+          Change in net unrealized gains/losses on
+           investments
+           (net of income tax:  $2,502,598).....                                                                4,647,682       4,647,682
+          Reclassification adjustment for amounts
+           included in net income
+          (net of income tax:  $389,738)........                                                                  723,800         723,800
+          Transition adjustment on derivative
+           financial instruments (net of income
+           tax: $153,444).......................                                                                  284,968         284,968
+                                                                                                                              -----------
+          Comprehensive income for 2001.........                                                                               15,276,634
+                                                                                                                              -----------
+          Common dividends ($47.60 per share)...                                              (11,900,000)                    (11,900,000)
+          Preferred dividends ($500.00 per share)                                              (1,000,000)                     (1,000,000)
+                                                     ---------    ---------    -----------     ----------    -------------   ------------
+        Balance, December 31, 2001                      2,000     2,500,000    101,386,324     15,468,517       2,388,252     121,745,093
+                                                                                                                             ------------
+          Net income for 2002...................                                                8,624,649                      $8,624,649
+          Change in net unrealized gains/losses on
+           investments
+           (net of income tax: $3,589,263)......                                                                6,665,774       6,665,774
+          Reclassification adjustment for amounts
+            included in net income
+           (net of income tax: $243,673)........                                                                  452,536         452,536
+                                                                                                                             ------------
+          Comprehensive income for 2002.........                                                                               15,742,959
+                                                                                                                             ------------
+          Preferred dividends ($25 per share)...                                                  (50,000)                        (50,000)
+          Common dividends ($58.80 per share)...                                              (14,700,000)                    (14,700,000)
+          Capital contribution..................                                70,000,000                                     70,000,000
+                                                     ---------    ---------    -----------     ----------    -------------   ------------
+        Balance, December 31, 2002..............        $2,000   $2,500,000   $171,386,324    $ 9,343,166      $9,506,562    $192,738,052
+                                                     =========    =========    ===========     ==========    =============   ============
+
+
+
+
+                                                  See notes to financial statements.
+
+
+
+
+
+
+                                             PROTECTIVE LIFE AND ANNUITY INSURANCE COMPANY
+
+                                                       STATEMENTS OF CASH FLOWS
+
+
+                                                                                                           December 31
+                                                                                      -----------------------------------------------------
+                                                                                             2002             2001              2000
+                                                                                             ----             ----              ----
+
+CASH FLOWS FROM OPERATING ACTIVITIES
+    Net income..................................................................        $  8,624,649     $   9,620,184   $  8,743,668
+    Adjustments to reconcile net income to net cash provided by operating
+activities:                                                                                  696,209         1,113,538        (42,148)
+        Realized investment losses (gains)......................................           8,639,183         7,034,480      6,765,446
+        Amortization of deferred policy acquisition costs.......................          (2,161,267)       (1,792,738)    (2,593,858)
+        Capitalization of deferred policy acquisition costs.....................                   0        (1,625,000)             0
+        Gain on sale of discontinued operations.................................           4,622,272         5,121,553      4,605,444
+        Deferred income taxes...................................................          29,693,764        37,752,197     33,753,870
+        Interest credited to universal life and investment products.............         (34,641,740)      (36,063,990)   (37,777,093)
+        Policy fees assessed on universal life and investment products..........         (64,001,084)       (2,959,990)     4,751,257
+        Change in accrued investment income and other receivables...............
+        Change in policy liabilities and other policyholder funds of traditional
+          life and health products..............................................          70,326,971         1,495,557      3,848,851
+
+        Change in funds held-coinsurance........................................          86,607,188          (239,299)      (381,634)
+        Change in other liabilities.............................................            (231,372)       (3,579,771)     3,253,106
+        Other (net).............................................................              (2,266)       (1,013,986)       432,557
+                                                                                         ------------     -------------  ------------
+Net cash provided by operating activities.......................................         108,172,507        14,862,735     25,359,466
+                                                                                         ------------     -------------  ------------
+
+CASH FLOWS FROM INVESTING ACTIVITIES
+    Maturities and principal reduction of investments:
+        Investments available for sale..........................................          76,794,609       134,614,161    401,392,138
+        Other...................................................................           1,174,629           415,557        845,893
+    Sale of investments:
+        Investments available for sale..........................................         265,621,383       103,958,267     11,251,538
+        Other...................................................................                   0                 0      1,197,324
+    Cost of investments acquired:
+        Investments available for sale..........................................        (529,845,244)     (262,462,048)  (453,746,936)
+    Sale of discontinued operations.............................................                   0         2,500,000              0
+                                                                                         ------------     -------------  ------------
+Net cash used in investing activities...........................................        (186,254,623)      (20,974,063)   (39,060,043)
+                                                                                         ------------     -------------  ------------
+
+CASH FLOWS FROM FINANCING ACTIVITIES
+    Dividends to share owners...................................................         (14,750,000)      (12,900,000)   (12,750,000)
+    Capital contribution........................................................          70,000,000                 0              0
+    Investment product deposits and change in universal life deposits...........          69,229,610        56,941,071     47,248,477
+    Investment product withdrawals..............................................         (49,012,219)      (34,810,896)   (23,654,329)
+                                                                                         ------------     -------------  ------------
+    Net cash provided by financing activities...................................          75,467,391         9,230,175     10,844,148
+                                                                                         ------------     -------------  ------------
+
+INCREASE (DECREASE) IN CASH.....................................................          (2,614,725)        3,118,847     (2,856,429)
+CASH AT BEGINNING OF YEAR.......................................................           4,284,257         1,165,410      4,021,839
+                                                                                         ------------     -------------  ------------
+CASH AT END OF YEAR.............................................................        $  1,669,532    $    4,284,257   $  1,165,410
+                                                                                         ============     =============  ============
+
+
+SUPPLEMENTAL DISCLOSURES OF CASH FLOW  INFORMATION
+     There was no cash paid during any of the periods presented related to interest on
+     indebtedness or income taxes.
+
+
+
+
+
+
+                                                  See notes to financial statements.
+</PRE>
+
+<!-- MARKER PAGE="sheet: 10; page: 10" -->
+<HR SIZE=5 COLOR=GRAY NOSHADE>
+
+<center><b>PROTECTIVE LIFE AND ANNUITY INSURANCE COMPANY</b></center>
+<br>
+<center><b>NOTES TO FINANCIAL STATEMENTS</b></center>
+
+<b>Note A-- SIGNIFICANT ACCOUNTING POLICIES</b><br>
+
+        BASIS OF PRESENTATION
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The
+accompanying financial statements of Protective Life and Annuity Insurance
+Company (&#147;the Company&#148;) are prepared on the basis of accounting
+principles generally accepted in the United States of America. Such accounting
+principles differ from statutory reporting practices used by insurance companies
+in reporting to state regulatory authorities. (See also Note&#160; B.) </FONT></P>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The
+Company was founded in 1978 as American Foundation Life Insurance Company.
+Effective March&#160;1,&#160;1999, the Company&#146;s name was changed to
+Protective Life and Annuity Insurance Company. Since 1983, all outstanding
+shares of the Company&#146;s common stock have been owned by Protective Life
+Insurance Company (&#147;Protective&#148;), which is a wholly-owned subsidiary
+of Protective Life Corporation (&#147;PLC&#148;), an insurance holding company
+domiciled in the state of Delaware. All outstanding shares of the Company&#146;s
+preferred stock are owned by PLC. </FONT></P>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The
+preparation of financial statements in conformity with accounting principles
+generally accepted in the United States of America requires management to make
+various estimates that affect the reported amounts of assets and liabilities,
+disclosures of contingent assets and liabilities, as well as the reported
+amounts of revenues and expenses. Actual results could differ from these
+estimates. </FONT></P>
+
+      NATURE OF OPERATIONS
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The
+Company, since it is licensed in the State of New York, is the entity through
+which PLC markets, distributes, and services insurance and annuity products in
+New York. The operating results of companies in the insurance industry have
+historically been subject to significant fluctuations due to changing
+competition, economic conditions, interest rates, investment performance,
+insurance ratings, and other factors. </FONT></P>
+
+      RECENTLY ISSUED ACCOUNTING STANDARDS
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On
+January 1, 2001, the Company adopted Statement of Financial Accounting Standard
+(SFAS) No. 133, &#147;Accounting for Derivative Instruments and Hedging
+Activities&#148;. SFAS No. 133, as amended by SFAS Nos. 137 and 138, requires
+the Company to record all derivative financial instruments, at fair value on the
+balance sheet. Changes in fair value of a derivative instrument are reported in
+net income or other comprehensive income, depending on the designated use of the
+derivative instrument. The adoption of SFAS No. 133 resulted in a cumulative
+after-tax charge to net income of $0.3 million and a cumulative after-tax
+increase to other comprehensive income of $0.3 million on January 1, 2001.
+Prospectively, the adoption of SFAS No. 133 may introduce volatility into the
+Company&#146;s reported net income and other comprehensive income depending on
+future market conditions and the Company&#146;s hedging activities. </FONT></P>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In
+June 2001, the Financial Accounting Standards Board (FASB) issued SFAS No. 142,
+&#147;Goodwill and Other Intangible Assets&#148;. SFAS No. 142 revises the
+standards for accounting for acquired goodwill and other intangible assets. The
+standard replaces the requirements to amortize goodwill to one that calls for an
+annual impairment test, among other provisions. The Company adopted SFAS No. 142
+in the first quarter of 2002. The adoption of SFAS No. 142 did not have a
+material effect on the Company&#146;s financial position or results of
+operations. </FONT></P>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In
+June 2001, the FASB issued SFAS No. 143, &#147;Accounting for Asset Retirement
+Obligations&#148;. SFAS No. 143 requires that companies record the fair value of
+a liability for an asset retirement obligation in the period in which the
+liability is incurred. The Statement is effective for fiscal years beginning
+after June 15, 2002. The Company does not expect the adoption of SFAS No. 143 to
+have a material effect on the Company&#146;s financial position or results of
+operations. </FONT></P>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In
+August 2001, the FASB issued SFAS No. 144, &#147;Accounting for the Impairment
+or Disposal of Long-Lived Assets&#148;. SFAS No. 144 requires that the same
+accounting model be used for long-lived assets to be disposed of by sale,
+whether previously held and used or newly acquired, expands the use of
+discontinued operations accounting to include more types of transactions and
+changes the timing of when discontinued operations accounting is applied. The
+Company adopted SFAS No. 144 on January 1, 2002, and the adoption did not have a
+material effect on the Company&#146;s financial position or results of
+operations. </FONT></P>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In
+April 2002, the FASB issued SFAS No. 145, &#147;Rescission of FASB Statements
+No. 4, 44, and 64, Amendment of FASB Statement No. 13, and Technical Corrections
+as of April 2002.&#148; SFAS No. 145 rescinds SFAS No. 4, which required
+companies to treat the extinguishment of debt as an extraordinary item. SFAS No.
+145 requires companies to apply APB Opinion 30 when determining the accounting
+for the extinguishment of debt. The statement also rescinds and amends other
+statements to make various technical corrections and clarifications. SFAS No.
+145 is effective for fiscal years beginning after May 15, 2002. The Company does
+not expect the adoption of SFAS 145 to have a material effect on the
+Company&#146;s financial position or results of operations. </FONT></P>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In
+June 2002, the FASB issued SFAS No. 146, &#147;Accounting for Costs Associated
+with Exit or Disposal Activities.&#148; SFAS No. 146 requires companies to
+record a liability for a cost associated with an exit or disposal activity when
+the liability is incurred. The statement is effective for exit or disposal
+activities initiated after December 31, 2002. The Company does not expect the
+adoption of SFAS No. 146 to have a material effect on the Company&#146;s
+financial position or results of operations. </FONT></P>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In
+December 2002, the FASB issued SFAS No. 148, &#147;Accounting for Stock-Based
+Compensation-Transition and Disclosure, an amendment of SFAS No. 123.&#148; SFAS
+No. 148 amends SFAS No. 123 to offer alternative methods of transition for a
+voluntary change to the fair value based method of accounting for stock-based
+employee compensation. PLC adopted the fair value based method prescribed by
+SFAS No. 123 in 1995, therefore SFAS No. 148 will have no effect on the
+Company&#146;s financial position or results of operations. </FONT></P>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In
+November, 2002, the FASB issued FASB Interpretation No. (FIN) 45
+&#147;Guarantor&#146;s Accounting and Disclosure Requirements for Guarantees,
+Including Indirect Guarantees of Others.&#148; FIN 45 clarifies the requirements
+of SFAS No. 5 &#147;Accounting for Contingencies&#148; relating to the
+guarantor&#146;s accounting for, and disclosure of, the issuance of certain
+types of guarantees. The initial recognition and measurement provisions of FIN
+45 are applicable on a prospective basis to guarantees issued or modified after
+December 31, 2002. The Company does not expect FIN 45 to have a material effect
+on The Company&#146;s financial position or results of operations. </FONT></P>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In
+January, 2003, the FASB issued FIN 46 &#147;Consolidation of Variable Interest
+Entities.&#148; FIN 46 clarifies the application of Accounting Research Bulletin
+No. 51, &#147;Consolidated Financial Statements,&#148; to certain entities in
+which equity investors do not have the characteristics of a controlling
+financial interest or do not have sufficient equity at risk for the entity to
+finance its activities without additional subordinated support from the other
+parties. The Company does not expect the adoption of FIN 46 to have a material
+effect on the Company&#146;s financial position or results of operations. </FONT></P>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In
+May 2002, the Derivatives Implementation group of the FASB exposed for comment
+issue No. B36, &#147;Bifurcation of Embedded Credit Derivatives&#148; (DIG B36).
+DIG B36 would require the bifurcation of potential embedded derivatives within
+modified coinsurance and funds withheld coinsurance arrangements in which the
+terms require the future payment of a principal amount plus a return based on a
+specified proportion of the ceding company&#146;s return on either its general
+account assets or a specified block of those assets. The proposed effective date
+of the implementation guidance in DIG B36 is for the first fiscal quarter
+beginning after June 15, 2003 and would be applied on a prospective basis. The
+Company is currently evaluating the impact of this pronouncement on its
+financial statements but does not anticipate a material impact on its financial
+condition or results of operations. </FONT></P>
+
+      INVESTMENTS
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The
+Company has classified all of its investments in fixed maturities and short-term
+investments as &#147;available for sale.&#148; </FONT></P>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Investments
+are reported on the following bases less allowances for uncollectible amounts on
+investments, if applicable: </FONT></P>
+<pre>
+       *    Fixed maturities (bonds and redeemable preferred stocks)-- at current
+            market value. Where market values are unavailable, the Company obtains estimates
+            from independent pricing services or estimates market value based upon a
+            comparison to quoted issues of the same issuer or issues of other issuers with
+            similar terms and risk characteristics.
+
+       *    Mortgage loans--at unpaid balances, adjusted for loan origination costs, net of fees,
+            and amortization of premiums or discount.
+
+       *    Policy loans-- at unpaid balances.
+
+       *    Other long-term investments-- at a variety of methods similar to those
+            listed above, as deemed appropriate for the specific investment.
+
+       *    Short-term investments-- at cost, which approximates current market value.
+</pre>
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Estimated market values
+were derived from the durations of the Company&#146;s fixed maturities and
+mortgage loans. Duration measures the relationship between changes in market
+value to changes in interest rates. While these estimated market values
+generally provide an indication of how sensitive the market values of the
+Company&#146;s fixed maturities and mortgage loans are to changes in interest
+rates, they do not represent management&#146;s view of future market changes,
+and actual market results may differ from these estimates. </FONT></P>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Substantially all
+short-term investments have maturities of three months or less at the time
+of acquisition.</FONT></P>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As prescribed by generally
+accepted accounting principles certain investments are recorded at their market
+values with the resulting unrealized gains and losses reduced by a related
+adjustment to deferred policy acquisition costs, net of income tax, reported as
+a component of share-owners&#146; equity. The market values of fixed maturities
+increase or decrease as interest rates fall or rise. </FONT></P>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Company believes that
+an insurance company&#146;s balance sheet may be difficult to analyze without
+disclosing the effects of recording accumulated other comprehensive income
+(including unrealized gains and losses on investments). The carrying value of
+the Company&#146;s investments, deferred policy acquisition costs, deferred
+income taxes and share-owners&#146; equity are all affected by recording
+unrealized gains and losses on investments, therefore these items are separately
+identified in the table below. The captions &#147;all other assets&#148; and
+&#147;all other liabilities&#148; represent the assets and liabilities
+unaffected by recording unrealized gains and losses on investments. The
+Company&#146;s balance sheets at December 31, adjusted for the effects of
+recording accumulated other comprehensive income (including unrealized gains and
+losses on investments), are as follows: </FONT></P>
+
+<PRE>
+                                                                   2002              2001
+                                                                   ----              ----
+
+   Total investments...................................         $702,933,934      $512,427,543
+   Deferred policy acquisition costs...................          111,900,779       118,378,695
+   All other assets....................................          111,038,579        50,268,603
+                                                                ------------      ------------
+                                                                $925,873,292      $681,074,841
+                                                                ============      ============
+
+   Deferred income taxes...............................         $ 20,414,120      $ 15,791,847
+   All other liabilities...............................          722,227,682       545,926,153
+                                                                ------------      ------------
+                                                                 742,641,802       561,718,000
+   Share-owners' equity................................          183,231,490       119,356,841
+                                                                ------------      ------------
+                                                                $925,873,292      $681,074,841
+                                                                ============      ============
+</PRE>
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Realized
+gains and losses on sales of investments are recognized in net income using the
+specific identification basis. </FONT></P>
+
+      CASH
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cash
+includes all demand deposits reduced by the amount of outstanding checks and
+drafts. The Company has deposits with certain financial institutions which
+exceed federally insured limits. The Company has reviewed the creditworthiness
+of these financial institutions and believes there is minimal risk of a material
+loss. </FONT></P>
+
+      DEFERRED POLICY ACQUISITION COSTS
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Commissions
+and other costs of acquiring traditional life and health insurance, credit
+insurance, universal life insurance, and investment products that vary with and
+are primarily related to the production of new business, have been deferred.
+Traditional life and health insurance acquisition costs are amortized over the
+premium-payment period of the related policies in proportion to the ratio of
+annual premium income to the present value of the total anticipated premium
+income. Credit insurance acquisition costs are being amortized in proportion to
+earned premium. Acquisition costs for universal life and investment products are
+amortized over the lives of the policies in relation to the present value of
+estimated gross profits before amortization. Under SFAS No. 97, &#147;Accounting
+and Reporting by Insurance Enterprises for Certain Long-Duration Contracts and
+for Realized Gains and Losses from the Sale of Investments,&#148; the Company
+makes certain assumptions regarding the mortality, persistency, expenses, and
+interest rates (equal to the rate used to compute liabilities for future policy
+benefits; currently 3.0% to 9.4%) it expects to experience in future periods.
+These assumptions are to be best estimates and are to be periodically updated
+whenever actual experience and/or expectations for the future change from that
+assumed. Additionally, relating to SFAS No. 115, these costs have been adjusted
+by an amount equal to the amortization that would have been recorded if
+unrealized gains or losses on investments associated with the Company&#146;s
+universal life and investment products had been realized. </FONT></P>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The
+cost to acquire blocks of insurance representing the present value of future
+profits from such blocks of insurance is also included in deferred policy
+acquisition costs. The Company amortizes the present value of future profits
+over the premium payment period, including accrued interest of up to
+approximately 8.0%. The unamortized present value of future profits was
+approximately $106.5 million and $113.7 million at December&#160;31, 2002 and
+2001, respectively. During 2002, $7.2 million of present value of future profits
+was amortized. During 2001, $6.1 million of present value of future profits was
+amortized. No amounts were capitalized during 2002 or 2001. </FONT></P>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The
+expected amortization of the present value of future profits for the next five
+years is as follows:</FONT></P>
+<pre>
+                                            Year               Expected Amortization
+                                           ------              ----------------------
+
+                                            2003                     $5,774,552
+                                            2004                      5,553,514
+                                            2005                      5,576,901
+                                            2006                      5,698,837
+                                            2007                      5,910,611
+</PRE>
+      SEPARATE ACCOUNTS
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The
+assets and liabilities related to separate accounts in which the Company does
+not bear the investment risk are valued at market and reported separately as
+assets and liabilities related to separate accounts in the accompanying
+financial statements. </FONT></P>
+
+      REVENUES AND BENEFITS EXPENSE
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#149;
+Traditional Life, Health, and Credit Insurance Products &#151; Traditional life
+insurance products consist principally of those products with fixed and
+guaranteed premiums and benefits and include whole life insurance policies, term
+and term-like life insurance policies, limited-payment life insurance policies,
+and certain annuities with life contingencies. Life insurance and immediate
+annuity premiums are recognized as revenue when due. Health and credit insurance
+premiums are recognized as revenue over the terms of the policies. Benefits and
+expenses are associated with earned premiums so that profits are recognized over
+the life of the contracts. This is accomplished by means of the provision for
+liabilities for future policy benefits and the amortization of deferred policy
+acquisition costs. Gross premiums in excess of net premiums related to immediate
+annuities are deferred and recognized over the life of the policy. </FONT></P>
+
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Liabilities
+for future policy benefits on traditional life insurance products have been
+computed using a net level method including assumptions as to investment yields,
+mortality, persistency, and other assumptions based on the Company&#146;s
+experience, modified as necessary to reflect anticipated trends and to include
+provisions for possible adverse deviation. Reserve investment yield assumptions
+are graded and range from 2.5% to 7.0%. The liability for future policy benefits
+and claims on traditional life, health, and credit insurance products includes
+estimated unpaid claims that have been reported to the Company and claims
+incurred but not yet reported. Policy claims are charged to expense in the
+period in which the claims are incurred.</FONT></P>
+<pre>
+         Activity in the liability for unpaid claims is summarized as follows:
+
+                                                                              2002            2001             2000
+                                                                              ----            ----             ----
+
+          Balance beginning of year..............................          $7,074,480     $ 7,372,438      $ 9,557,627
+             Less reinsurance....................................           1,459,829       1,954,392        4,924,705
+                                                                           ----------     -----------      -----------
+
+          Net balance beginning of year..........................           5,614,651       5,418,046        4,632,922
+                                                                           ----------     -----------      -----------
+
+          Incurred related to:
+          Current year...........................................          11,448,215      11,883,729       11,780,396
+          Prior year.............................................             181,838         584,972         (213,798)
+                                                                           ----------     -----------      -----------
+             Total incurred......................................          11,630,053      12,468,701       11,566,598
+                                                                           ----------     -----------      -----------
+
+          Acquisitions and reserve transfers.....................                            (662,216)
+
+          Paid related to:
+          Current year...........................................          10,612,857       9,454,229        9,504,618
+          Prior year.............................................           1,137,071       2,155,651        1,276,856
+                                                                           ----------     -----------      -----------
+             Total paid..........................................          11,749,928      11,609,880       10,781,474
+                                                                           ----------     -----------      -----------
+
+          Net balance end of year................................           5,494,776       5,614,651        5,418,046
+             Plus reinsurance....................................           2,339,338       1,459,829        1,954,392
+                                                                           ----------     -----------      -----------
+          Balance end of year....................................          $7,834,114     $ 7,074,480      $ 7,372,438
+                                                                           ==========     ===========      ===========
+</PRE>
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#149;
+Universal Life and Investment Products &#151; Universal life and investment
+products include universal life insurance, deferred annuities, and annuities
+without life contingencies. Premiums and policy fees for universal life and
+investment products consist of policy fees that have been assessed against
+policy account balances for the costs of insurance, policy administration, and
+surrenders. Such fees are recognized when assessed and earned. Benefit reserves
+for universal life and investment products represent policy account balances
+before applicable surrender charges plus certain deferred policy initiation fees
+that are recognized in income over the term of the policies. Policy benefits and
+claims that are charged to expense include benefit claims incurred in the period
+in excess of related policy account balances and interest credited to policy
+account balances. Interest credit rates for universal life and investment
+products ranged from 3.6% to 9.4% in 2002. </FONT></P>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The
+Company&#146;s accounting policies with respect to variable universal life and
+variable annuities are identical except that policy account balances (excluding
+account balances that earn a fixed rate) are valued at market and reported as
+components of assets and liabilities related to separate accounts.</FONT></p>
+
+      INCOME TAXES
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The
+Company uses the asset and liability method of accounting for income taxes.
+Income tax provisions are generally based on income reported for financial
+statement purposes. Deferred federal income taxes arise from the recognition of
+temporary differences between the basis of assets and liabilities determined for
+financial reporting purposes and the basis determined for income tax purposes.
+Such temporary differences are principally related to the deferral of policy
+acquisition costs and the provision for future policy benefits and expenses. </FONT></P>
+
+
+<!-- MARKER PAGE="sheet: 11; page: 11" -->
+<HR SIZE=5 COLOR=GRAY NOSHADE>
+
+
+      DISCONTINUED OPERATIONS
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On
+December 31, 2001, PLC completed the sale to Fortis, Inc. of substantially all
+of its Dental Benefits Division (Dental Division), and discontinued certain
+other remaining Dental Division related operations, primarily other health
+insurance lines. These discontinued operations have been included in various
+operating subsidiaries of PLC, including the Company. The results of the
+operations of the Dental Division as related to the Company have been included
+herein as discontinued operations. PLC recorded an overall loss on the sale and
+discontinuance. The intercompany allocation of such loss resulted in the
+recognition of a net gain of $1,625,000 to the Company, reported herein as a
+gain on the sale of discontinued operations. </FONT></P>
+
+<PRE>
+      The operating results and charges related to the sale of the Dental division at December 31 are as follows:
+
+                                               2002               2001              2000
+-----------------------------------------------------------------------------------------------
+
+Total revenues                               $    0         $    970,192      $    653,995
+-----------------------------------------------------------------------------------------------
+
+Income (loss) before
+      income taxes from
+      discontinued operations                $    0         $    240,377      $    (77,872)
+Income tax (expense)
+      benefit                                                    (81,488)           26,866
+-----------------------------------------------------------------------------------------------
+Income (loss) from
+      discontinued operations                $    0         $    158,889      $    (51,006)
+-----------------------------------------------------------------------------------------------
+Gain from sale of
+      discontinued operations                               $  2,500,000
+      before income tax
+Income tax expense
+      related to sale                                       $    875,000
+-----------------------------------------------------------------------------------------------
+Gain from sale of
+      discontinued operations                               $  1,625,000
+-----------------------------------------------------------------------------------------------
+</PRE>
+      RECLASSIFICATIONS
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Certain
+reclassifications have been made in the previously reported financial statements
+and accompanying notes to make the prior year amounts comparable to those of the
+current year. Such reclassifications had no effect on previously reported net
+income, total assets, or share-owners&#146; equity. </FONT></P>
+
+
+<b>Note B-- RECONCILIATION WITH STATUTORY REPORTING PRACTICES</b>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Financial
+statements prepared in conformity with accounting principles generally accepted
+in the United States of America differ in some respects from the statutory
+accounting practices prescribed or permitted by insurance regulatory
+authorities. The most significant differences are as follows: (a) acquisition
+costs of obtaining new business are deferred and amortized over the approximate
+life of the policies rather than charged to operations as incurred; (b) benefit
+liabilities are computed using a net level method and are based on realistic
+estimates of expected mortality, interest, and withdrawals as adjusted to
+provide for possible unfavorable deviation from such assumptions; (c) deferred
+income taxes are not subject to statutory limitations as to amounts recognized
+and are recognized through earnings as opposed to being charged to
+share-owners&#146; equity; (d) the Asset Valuation Reserve and Interest
+Maintenance Reserve are restored to share-owners&#146; equity; (e) agents&#146;
+debit balances and prepaid expenses are reported as assets rather than being
+charged directly to surplus (referred to as nonadmitted items); (f) certain
+items of interest income, such as mortgage and bond discounts, are amortized
+differently; and (g) bonds are recorded at their market values instead of
+amortized cost. The National Association of Insurance Commissioners (NAIC) has
+adopted the Codification of Statutory Accounting Principles (Codification).
+Codification changed statutory accounting rules in several areas and was
+effective January 1, 2001. The adoption of Codification did not have a material
+effect on the Company&#146;s statutory capital. </FONT></P>
+
+
+<!-- MARKER PAGE="sheet: 12; page: 12" -->
+<HR SIZE=5 COLOR=GRAY NOSHADE>
+
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The
+reconciliations of net income and share-owners&#146; equity prepared in
+conformity with statutory reporting practices to that reported in the
+accompanying financial statements are as follows: </FONT></P>
+
+<PRE>
+                                                             Net Income                                Share-Owners' Equity
+                                                ----------------------------------------   -------------------------------------------
+                                                    2002          2001          2000            2002           2001           2000
+                                                    ----          ----          ----            ----           ----           ----
+
+In conformity with statutory reporting
+   practices:                                    $10,879,132   $13,895,381  $ 13,006,859    $102,550,549   $ 34,354,020  $  31,878,162
+   Additions (deductions) by adjustment:
+      Deferred policy acquisition costs,
+        net of amortization.................      (6,477,916)   (5,241,742)   (4,700,240)    104,779,582    118,997,438    128,228,360
+      Deferred income tax...................      (4,622,272)   (5,121,553)   (4,605,444)    (25,533,038)   (17,077,829)    (9,063,941)
+      Asset Valuation Reserve...............                                                   1,678,921        217,592      2,797,912
+      Interest Maintenance Reserve..........        (811,107)     (446,638)      118,604       1,505,616        694,509        247,870
+      Nonadmitted items.....................                                                     374,966        281,394         25,902
+      Other timing and valuation adjustments       9,656,812     6,534,736     4,923,889       7,381,456    (15,722,031)   (34,745,806)
+                                                 -----------  ------------  ------------    ------------   -------------  ------------
+In conformity with generally accepted
+   accounting principles                          $8,624,649  $  9,620,184  $  8,743,668    $192,738,052   $121,745,093   $119,368,459
+                                                 ===========  ============  ============    ============   =============  ============
+
+</PRE>
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As
+of December 31, 2002, the Company had on deposit with regulatory authorities,
+fixed maturity and short-term investments with a market value of approximately
+$7.6 million. </FONT></P>
+
+<b>Note C-- INVESTMENT OPERATIONS</b>
+<pre>
+      Major categories of net investment income for the years ended December 31 are summarized as follows:
+
+                                                                              2002            2001            2000
+                                                                              ----            ----            ----
+
+                Fixed maturities...................................       $33,778,487     $31,496,317     $28,808,155
+                Mortgage loans.....................................           170,428         282,544         314,376
+                Investment real estate.............................                 0               0         211,521
+                Policy loans.......................................         3,748,912       3,691,041       3,625,750
+                Other, principally short-term investments..........           312,989         236,511         556,879
+                                                                          -----------     -----------     -----------
+                                                                           38,010,816      35,706,413      33,516,681
+                Investment expenses................................        (1,764,979)     (1,830,004)     (1,830,233)
+                                                                          -----------     -----------     -----------
+                                                                          $36,245,837     $33,876,409     $31,686,448
+                                                                          ===========     ===========     ===========
+
+     Realized investment gains (losses) for the years ended December 31 are summarized as follows:
+
+                                                                              2002            2001             2000
+                                                                              ----            ----             ----
+
+                 Fixed maturities..................................        $(480,629)    $(1,113,538)       $ (70,176)
+                 Mortgage loans and other investments..............         (215,580)                         112,324
+                                                                           ----------    ------------       ----------
+                                                                           $(696,209)    $(1,113,538)       $  42,148
+                                                                           ==========    ============       ==========
+</pre>
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In 2002, gross gains on the sale of investments available for sale (fixed maturities and short-term investments) were approximately $2.1
+million and gross losses were approximately $2.6 million. In 2001, gross gains were approximately $1.1 million and gross losses were
+approximately $2.2 million.  In 2000, gross gains were approximately $27,500 and gross losses were approximately $97,700.</FONT></P>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Each quarter the Company
+reviews investments with material unrealized losses and tests for
+other-than-temporary impairments. The Company analyzes various factors to
+determine if any specific other-than-temporary asset impairments exist. Once a
+determination has been made that a specific other-than-temporary impairment
+exists, a realized loss is incurred and the cost basis of the impaired asset is
+adjusted to its fair value. During 2002 and 2001, the Company recorded other
+than temporary impairments in its investments of $4.3 million and $1.9 million,
+respectively. There were no other-than-temporary impairments recorded in 2000. </FONT></P>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The amortized cost and
+estimated market values of the Company&#146;s investments classified as
+available for sale at December&#160;31 are as follows:</FONT></P>
+<pre>
+                                                                                       Gross            Gross           Estimated
+                                                                   Amortized        Unrealized        Unrealized          Market
+                                                                     Cost              Gains            Losses            Values
+                                                                --------------    --------------    -------------    ----------------
+         2002
+         ----
+         Fixed maturities:
+             Bonds:
+                  Mortgage-backed securities..............       $ 17,963,051      $   995,934      $          0      $ 18,958,985
+                  United States Government and
+                  authorities.............................          8,822,336          268,990                 0         9,091,326
+                  Public utilities........................         76,359,211        2,799,099         3,751,446        75,406,864
+                  All other corporate bonds...............        363,779,488       28,095,926         6,630,782       385,244,632
+                                                                -------------      -----------      ------------       -----------
+                                                                  466,924,086       32,159,949        10,382,228       488,701,807
+         Short-term investments...........................        178,805,245                0                 0       178,805,245
+                                                                -------------      -----------      ------------       -----------
+                                                                 $645,729,331      $32,159,949      $ 10,382,228      $667,507,052
+                                                                =============      ===========      ============       ===========
+
+
+                                                                                      Gross            Gross            Estimated
+                                                                  Amortized        Unrealized        Unrealized          Market
+                                                                    Cost              Gains            Losses            Values
+         2001                                                   --------------    --------------    -------------    ----------------
+         ----
+         Fixed maturities:
+             Bonds:
+                  Mortgage-backed securities..............      $   6,655,797     $    214,820      $          0     $   6,870,617
+                  United States Government and
+                  authorities.............................          7,736,901          406,974             2,454         8,141,421
+                  States, municipalities, and
+                  political subdivisions..................          3,012,672           70,074                 0         3,082,746
+                  Public utilities........................         64,825,621        1,228,963         1,229,425        64,825,159
+                  All other corporate bonds...............        360,352,187       10,242,579         7,784,216       362,810,550
+                                                                -------------      -----------      ------------       -----------
+                                                                  442,583,178       12,163,410         9,016,095       445,730,493
+         Short-term investments...........................         12,000,000                0                 0        12,000,000
+                                                                -------------      -----------      ------------       -----------
+                                                                $ 454,583,178      $12,163,410      $  9,016,095      $457,730,493
+                                                                =============      ===========      ============      ============
+
+</PRE>
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The amortized cost and
+estimated market value of fixed maturities at December 31, by expected maturity,
+are shown below. Expected maturities are derived from rates of prepayment that
+may differ from actual rates of prepayment. </FONT></P>
+
+<PRE>
+                                                                                      Estimated
+                                                                  Amortized             Market
+                                                                     Cost               Values
+                                                                ---------------    ----------------
+
+      2002
+      ----
+      Due in one year or less..........................          $ 54,352,524       $ 55,079,080
+      Due after one year through five years............            93,935,056         98,446,189
+      Due after five years through ten years...........           132,434,167        142,450,128
+      Due after ten years..............................           186,202,339        192,726,410
+                                                                 ------------       ------------
+                                                                 $466,924,086       $488,701,807
+                                                                 ============       ============
+
+
+
+</PRE>
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;At
+December 31, 2002 and 2001, the Company had bonds which were rated less than
+investment grade of $27.7 million and $10.8 million, respectively, having an
+amortized cost of $32.9 million and $15.0 million, respectively. Approximately
+$7.6 million of bonds are not publicly traded. </FONT></P>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The
+change in unrealized gains (losses), net of income tax on fixed maturities for
+the years ended December&#160;31 is summarized as follows: </FONT></P>
+<pre>
+
+                                    2002           2001           2000
+                                    ----           ----           ----
+
+     Fixed maturities           $12,109,764     $8,309,103      $5,081,516
+
+
+</pre>
+<!-- MARKER PAGE="sheet: 13; page: 13" -->
+<HR SIZE=5 COLOR=GRAY NOSHADE>
+
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;At
+December 31, 2002, 99% of the Company&#146;s mortgage loans were commercial
+loans of which 74% were retail, and 25% were office buildings. The Company
+specializes in making mortgage loans on either credit-oriented or
+credit-anchored commercial properties, most of which are strip shopping centers
+in smaller towns and cities. All of the mortgage loans are on properties located
+in the following states listed in decreasing order of significance: Tennessee,
+Florida, Alabama, Arkansas and Texas. </FONT></P>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;At
+December 31, 2002, the average mortgage loan was $0.3 million, and the weighted
+average interest rate was 8.2%. The largest single mortgage loan was $1.1
+million. </FONT></P>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;At
+December 31, 2002 and 2001, the Company had no problem mortgage loans (over
+ninety days past due) and foreclosed properties. Since the Company&#146;s
+mortgage loans are collateralized by real estate, any assessment of impairment
+is based upon the estimated fair value of the real estate. Based on the
+Company&#146;s evaluation of its mortgage loan portfolio, the Company does not
+expect any material losses on its mortgage loans. </FONT></P>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Policy
+loan interest rates generally range from 4.5% to 8.0%. </FONT></P>
+
+<b>Note D-- FEDERAL INCOME TAXES</b>
+<pre>
+      The Company's effective income tax rate varied from the maximum federal income tax rate as follows:
+
+
+
+
+                                                                            2002        2001      2000
+                                                                            ----        ----      ----
+
+  Statutory federal income tax rate applied to pretax income.......         35.0%       35.0%     35.0%
+  Tax-exempt interest..............................................         (0.1)
+  Other adjustments................................................                     (1.1)     (0.5)
+                                                                            -----      ------     -----
+  Effective income tax rate........................................         34.9%       33.9%     34.5%
+                                                                            =====      ======     =====
+</PRE>
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The
+provision for federal income tax differs from amounts currently payable due to
+certain items reported for financial statement purposes in periods which differ
+from those in which they are reported for income tax purposes. </FONT></P>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Details
+of the deferred income tax provision for the years ended December 31 are as
+follows: </FONT></P>
+
+<PRE>
+                                                                             2002            2001             2000
+                                                                             ----            ----             ----
+
+  Deferred policy acquisition costs................................      $(8,924,591)   $10,448,277      $  6,202,088
+  Benefit and other policy liability changes.......................       15,201,433     (6,335,100)       (3,129,276)
+  Temporary differences of investment income.......................       (1,654,570)        51,888         1,532,632
+                                                                         ------------   ------------     -------------
+                                                                          $4,622,272    $ 4,165,065      $  4,605,444
+                                                                         ============   ============     =============
+
+
+     The components of the Company's net deferred income tax liability as of December 31 were as follows:
+
+
+
+                                                                                2002            2001
+                                                                                ----            ----
+
+      Deferred income tax assets:
+           Policy and policyholder liability reserves...................      $6,260,637   $ 21,462,070
+           Unrealized (gain) loss on investments........................      (3,644,299)    (1,295,737)
+                                                                              -----------  -------------
+                                                                               2,616,338     20,166,333
+                                                                              -----------  -------------
+      Deferred income tax liabilities:
+           Deferred policy acquisition costs............................      27,509,713     36,434,304
+           Other........................................................         639,663        809,858
+                                                                              -----------   -----------
+                                                                              28,149,376     37,244,162
+                                                                             ------------  ------------
+           Net deferred income tax liability............................     $25,533,038   $ 17,077,829
+                                                                             ============  =============
+
+</PRE>
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Company&#146;s income
+tax returns are included in the consolidated income tax returns of PLC. The
+allocation of income tax liabilities among affiliates is based upon separate
+income tax return calculations. At December 31, 2001 and 2000 no amounts were
+payable to PLC for income tax liabilities. </FONT></P>
+
+<b>Note E-- COMMITMENTS AND CONTINGENT LIABILITIES</b>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Under
+insurance guaranty fund laws, in most states insurance companies doing business
+therein can be assessed up to prescribed limits for policyholder losses incurred
+by insolvent companies. The Company does not believe such assessments will be
+materially different from amounts already provided for in the financial
+statements. Most of these laws do provide, however, that an assessment may be
+excused or deferred if it would threaten an insurer&#146;s own financial
+strength. </FONT></P>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A
+number of civil jury verdicts have been returned against insurers and other
+providers of financial services involving sales practices, alleged agent
+misconduct, failure to properly supervise representatives' relationships with
+agents or persons with whom the insurer does business, and other matters.
+Increasingly these lawsuits have resulted in the award of substantial judgments
+that are disproportionate to the actual damages, including material amounts of
+punitive and non-economic compensatory damages. In some states, juries, judges
+and arbitrators have substantial discretion in awarding punitive and
+non-economic compensatory damages which creates the potential for unpredictable
+material adverse judgments or awards in any given lawsuit or arbitration.
+Arbitration awards are subject to very little appellate review. In addition, in
+some class action and other lawsuits, companies have made material settlement
+payments. The Company, like other financial service companies, in the ordinary
+course of business, is involved in such litigation or, alternatively, in
+arbitration. Although the outcome of any such litigation or arbitration cannot
+be predicted, the Company believes that at the present time there are no pending
+or threatened lawsuits that are reasonably likely to have a material adverse
+effect on the financial position, results of operations, or liquidity of the
+Company. </FONT></P>
+
+<b>Note F-- SHARE-OWNERS' EQUITY AND RESTRICTIONS</b>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dividends
+on common stock are noncumulative and are paid as determined by the Board of
+Directors. At December 31, 2002, approximately $91.3 million of
+share-owners&#146; equity excluding net unrealized gains and losses represented
+net assets of the Company that cannot be transferred to Protective. In general,
+dividends up to specified levels are considered ordinary and may be paid thirty
+days after written notice to the insurance commissioner of the state of domicile
+unless such commissioner objects to the dividend prior to the expiration of such
+period. Dividends in larger amounts are considered extraordinary and are subject
+to affirmative prior approval by such commissioner. The maximum amount that
+would qualify as ordinary dividends to Protective by the Company in 2003 is
+estimated to be $12.1 million. </FONT></P>
+
+<b>Note G-- PREFERRED STOCK</b>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The
+Company&#146;s preferred stock pays, when and if declared, noncumulative
+participating dividends to the extent the Company&#146;s statutory earnings for
+the immediately preceding year exceeded $1.0 million. In 2002, the Company paid
+$50,000 of preferred dividends. In 2001, the Company paid $1.0 million of
+preferred dividends. No preferred dividends were paid in 2000. </FONT></P>
+
+<b>Note H-- RELATED PARTY MATTERS</b>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The
+Company has no employees; therefore, the Company purchases data processing,
+legal, investment, and other management services from PLC and other affiliates.
+The cost of such services was $8.4 million in 2002, $8.6 million in 2001, and
+$7.8 million in 2000. </FONT></P>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Receivables
+from and payables to related parties consisted of receivables from and payables
+to affiliates under control of PLC in the amount of a $6.5 million payable at
+December 31, 2002 and a $4.9 million payable at December 31, 2001. The Company
+routinely receives from or pays to affiliates under the control of PLC
+reimbursements for expenses incurred on one another&#146;s behalf. Receivables
+and payables among affiliates are generally settled monthly. </FONT></P>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Protective
+and the Company entered into a guaranty agreement on October 27, 1993, whereby
+Protective guaranteed the payment of all insurance policy claims made by the
+holders or beneficiaries of any of the Company&#146;s policies which were issued
+after the date of the guaranty agreement in accordance with the terms of said
+policies. Total liabilities for policies covered by this agreement were $50.6
+million and $43.8 million at December 31, 2002 and 2001, respectively. </FONT></P>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Protective
+and the Company also entered into a guaranty agreement on December 31, 1995,
+whereby Protective guaranteed that the Company will perform all of the
+obligations of Protective pursuant to the terms and conditions of an indemnity
+coinsurance agreement between Protective and an unaffiliated life insurance
+company. Total liabilities related to this coinsurance agreement were $9.7
+million and $10.1 million at December 31, 2002 and 2001, respectively. </FONT></P>
+
+<b>Note I-- OPERATING SEGMENTS</b>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PLC,
+through its subsidiaries, operates business segments each having a strategic
+focus which can be grouped into three general categories: life insurance,
+retirement savings and investment products, and specialty insurance products. An
+operating segment is generally distinguished by products and/or channels of
+distribution. A brief description of each division the Company operates in
+follows. </FONT></P>
+
+<b>Life Insurance</b>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The
+Company became involved with PLC's Life Marketing segment beginning in 2002.  The
+Life Marketing segment markets level premium term and term-like insurance,
+universal life, and variable universal life products on a national basis
+primarily through networks of independent insurance agents and brokers, and in
+the &#147;bank owned life insurance&#148; market. </FONT></P>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The
+Acquisitions segment focuses on acquiring, converting, and servicing policies
+acquired from other companies. The segment&#146;s primary focus is on life
+insurance policies sold to individuals. </FONT></P>
+
+<b>Retirement Savings and Investment Products</b>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The
+Annuities segment manufactures, sells, and supports fixed and variable annuity
+products. These products are primarily sold through stockbrokers, but are also
+sold through financial institutions and the Life Marketing segment&#146;s sales
+force. As of January 2003, the Company is no longer actively marketing variable
+annuity products. </FONT></P>
+
+<b>Specialty Insurance Products</b>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The
+Asset Protection segment markets credit life and disability insurance products
+through banks, consumer finance companies and automobile dealers, and markets
+vehicle and recreational marine extended service contracts. </FONT></P>
+
+<b>Corporate and Other</b>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The
+Company has an additional business segment herein referred to as Corporate and
+Other. The Corporate and Other segment primarily consists of net investment
+income and expenses not attributable to the segments above (including net
+investment income on unallocated capital). </FONT></P>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The
+Company uses the same accounting policies and procedures to measure operating
+segment income and assets as it uses to measure its net income and assets.
+Operating segment income is generally income before income tax. Premiums and
+policy fees, other income, benefits and settlement expenses, and amortization of
+deferred policy acquisition costs are attributed directly to each operating
+segment. Net investment income is allocated based on directly related assets
+required for transacting the business of that segment. Realized investment gains
+(losses) and other operating expenses are allocated to the segments in a manner
+which most appropriately reflects the operations of that segment. Unallocated
+realized investment gains (losses) are deemed not to be associated with any
+specific segment. </FONT></P>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Assets
+are allocated based on policy liabilities and deferred policy acquisition costs
+directly attributable to each segment. </FONT></P>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;There
+are no significant intersegment transactions. </FONT></P>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The
+following table sets forth total operating segment income and assets for the
+periods shown. Adjustments represent the inclusion of unallocated realized
+investment gains (losses), the recognition of income tax expense and income from
+discontinued operations and cumulative effect of change in accounting. Asset
+adjustments represent the inclusion of assets related to discontinued
+operations. </FONT></P>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In
+December 2001, the Company sold substantially all of its Dental Division, and
+discontinued other Dental related operations. Prior period segment results have
+been restated to reflect these changes. </FONT></P>
+
+<PRE>
+                                                                                       Corporate
+                                     Life                        Asset                    and
+Operating Segment Income           Marketing    Acquisitions   Protection   Annuities    Other     Adjustments       Total
+------------------------           ---------    ------------   ----------   ---------  ----------  -----------       -----
+
+2002
+Premiums and policy fees, net....    $142,454    $23,808,052   $3,454,960    $153,530                            $27,558,996
+Net investment income............       8,123     30,989,460      571,275   3,729,514   $947,465                  36,245,837
+Realized investment gains(losses)                                              79,719                $(775,928)     (696,209)
+Other income (loss)..............                      5,072                    6,015                                 11,087
+                                   ----------    -----------   ----------   ---------   ---------    ----------  ------------
+      Total revenues.............     150,577     54,802,584    4,026,235   3,968,778    947,465      (775,928)   63,119,711
+                                   ----------    -----------   ----------   ---------   ---------    ----------  ------------
+Benefits and settlement expenses.     186,800     27,513,318    2,087,070   3,511,858                             33,299,046
+Amortization of deferred policy
+      acquisition costs..........      76,132      7,225,750      669,620     667,681                              8,639,183
+Other operating expenses.........    (254,425)     8,330,634     (324,360)    246,104    (63,392)                  7,934,561
+                                   ----------    -----------   ----------   ---------   ---------    ----------  ------------
+      Total benefits and expenses       8,507     43,069,702    2,432,330   4,425,643    (63,392)                 49,872,790
+                                   ----------    -----------   ----------   ---------   ---------    ----------  ------------
+Income (loss) from continuing
+    operations before income tax.     142,070     11,732,882    1,593,905    (456,865) 1,010,857      (775,928)   13,246,921
+Income tax expense...............                                                                    4,622,272     4,622,272
+                                                                                                                 ------------
+Net Income.......................                                                                                 $8,624,649
+                                                                                                                 ============
+
+
+2001
+Premiums and policy fees, net....                $25,209,340   $3,721,792  $  155,298                            $29,086,430
+Net investment income............                 29,892,723      606,345   1,909,607 $1,467,734                  33,876,409
+Realized investment gains (losses)                                                                 $(1,113,538)   (1,113,538)
+Other income (loss)..............                        244                    5,487                                  5,731
+                                                 -----------   ----------   ---------   ---------    ----------  ------------
+      Total revenues.............                 55,102,307    4,328,137   2,070,392  1,467,734    (1,113,538)   61,855,032
+                                                 -----------   ----------   ---------   ---------    ----------  ------------
+Benefits and settlement expenses.                 28,533,646    2,567,742   2,243,541                             33,344,929
+Amortization of deferred policy
+      acquisition costs..........                  6,092,729      694,491     247,260                              7,034,480
+Other operating expenses.........                  8,937,528       89,248     226,297    (63,778)                  9,189,295
+                                                 -----------   ----------   ---------   ---------    ----------  ------------
+      Total benefits and expenses                 43,563,903    3,351,481   2,717,098    (63,778)                 49,568,704
+                                                 -----------   ----------   ---------   ---------    ----------  ------------
+Income (loss) from continuing
+    operations before income tax.                 11,538,404      976,656    (646,706) 1,531,512    (1,113,538)   12,286,328
+Income tax expense...............                                                                    4,165,065     4,165,065
+Discontinued operations, net of
+     income taz .................                                                                    1,783,889     1,783,889
+Change in accounting principle,
+     net of income tax...........                                                                     (284,968)     (284,968)
+                                                                                                                ------------
+Net income.......................                                                                               $  9,620,184
+                                                                                                                 ============
+
+2000
+Premiums and policy fees, net....                $27,443,897   $2,997,130   $ 116,106                             $30,557,133
+Net investment income............                 29,275,899      628,572   1,416,117  $  365,860                  31,686,448
+Realized investment gains........                                                                   $   42,148         42,148
+Other income  (loss).............                     (4,486)                  (2,065)                                 (6,551)
+                                                 -----------   ----------   ---------   ---------    ----------  ------------
+      Total revenues.............                 56,715,310    3,625,702   1,530,158     365,860       42,148     62,279,178
+                                                 -----------   ----------   ---------   ---------    ----------  ------------
+Benefits and settlement expenses.                 29,247,353    2,250,237   1,267,445                              32,765,035
+Amortization of deferred policy
+      acquisition costs..........                  5,871,420      714,278     179,748                               6,765,446
+Other operating expenses.........                  9,991,067       57,601    (787,364)     60,409                   9,321,713
+                                                 -----------   ----------   ---------   ---------    ----------  ------------
+      Total benefits and expenses                 45,109,840    3,022,116     659,829      60,409                  48,852,194
+                                                 -----------   ----------   ---------   ---------    ----------  ------------
+Income from continuing
+operations before income tax.....                 11,605,470      603,586     870,329     305,451       42,148     13,426,984
+Income tax expense...............                                                                    4,632,310      4,632,310
+Discontinued operations, net of
+     income tax..................                                                                      (51,006)       (51,006)
+                                                                                                                   -----------
+Net income......................                                                                                 $  8,743,668
+                                                                                                                  ============
+
+
+
+</PRE>
+<b>Note I-- OPERATING SEGMENTS (continued)</b>
+<pre>
+                                  Life                       Asset                     Corporate
+Operating Segment Assets       Marketing   Acquisitions   Protection     Annuities     and Other    Adjustments      Total
+------------------------       ----------  ------------  ------------   ----------    -----------   -----------   ------------
+2002
+Investments and other assets.....(476,600) $600,231,727   $78,120,621    $54,071,804  $100,048,550    $3,723,088  $835,719,190
+Deferred policy acquisition costs 583,131   100,007,935     1,607,207      2,581,309                               104,779,582
+                               ----------  ------------  ------------   ------------  ------------   -----------  ------------
+Total assets.................... $106,531  $700,239,662   $79,727,828    $56,653,113  $100,048,550    $3,723,088  $940,498,772
+                               ==========  ============  ============   ============  ============   ===========  ============
+
+
+2001
+Investments and other assets......         $471,065,653   $10,390,438    $46,091,122   $34,248,362    $3,956,062  $565,751,637
+Deferred policy acquisition costs.          114,902,459     1,611,339      2,483,640                               118,997,438
+                                           ------------  ------------   ------------   -----------   -----------  ------------
+Total assets......................         $585,968,112   $12,001,777    $48,574,762   $34,248,362    $3,956,062  $684,749,075
+                                           ============  ============   ============   ===========   ===========  ============
+</PRE>
+
+
+<b>Note J-- REINSURANCE</b>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The
+Company reinsures certain of its risks with, and assumes risks from, other
+insurers under yearly renewable term, coinsurance, and modified coinsurance
+agreements. Under yearly renewable term agreements, the Company generally pays
+specific premiums to the reinsurer and receives specific amounts from the
+reinsurer as reimbursement for certain expenses. Coinsurance agreements are
+accounted for by passing a portion of the risk to the reinsurer. Generally, the
+reinsurer receives a proportionate part of the premiums less commissions and is
+liable for a corresponding part of all benefit payments. Modified coinsurance is
+accounted for similarly to coinsurance except that the liability for future
+policy benefits is held by the original company, and settlements are made on a
+net basis between the companies. A substantial portion of the Company&#146;s new
+life insurance and credit insurance sales is being reinsured. The Company
+reviews the financial condition of its reinsurers and monitors the amount of
+reinsurance it has with its reinsurers. </FONT></P>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;During
+2002, Protective sold one of its subsidiaries, Lyndon Life Insurance Company
+(Lyndon Life) to an unaffiliated insurance company. As part of the transaction,
+the Company assumed and subsequently ceded a portion of Lyndon Life&#146;s
+business to Protective. The Company paid a ceding allowance of $31.2 million to
+Lyndon Life and received from Protective an allowance of $31.6 million. The
+total amount of reserves transferred in the transaction from Lyndon Life to the
+Company was $91.8 million. The same amount of reserves were ceded from the
+Company to Protective by structure of the treaty as funds withheld. </FONT></P>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The
+Company has reinsured approximately $6.6 billion, $4.9 billion, and $5.3 billion
+in face amount of life insurance risks with other insurers representing $18.1
+million, $17.6 million, and $17.4 million of premium income for 2002, 2001, and
+2000, respectively. The Company has also reinsured accident and health risks
+representing $0.8 million, $0.1 million, and $0.7 million of premium income for
+2002, 2001, and 2000, respectively. In 2002 and 2001, policy and claim reserves
+relating to insurance ceded of $89.9 million and $19.2&#160;million respectively
+are included in reinsurance receivables. Should any of the reinsurers be unable
+to meet its obligation at the time of the claim, obligation to pay such claim
+would remain with the Company. At December&#160;31, 2002 and 2001, the Company
+had paid $2.3 million and $1.5&#160;million, respectively, of ceded benefits
+which are recoverable from reinsurers. </FONT></P>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Approximately
+16% and 65% of the reinsurance receivable balances at December 31, 2002 and
+2001, respectively, relate to one unaffiliated insurance company rated
+&#147;A+&#148; (Superior) by the A. M. Best Company, an independent rating
+organization. Another $73.1 or 79% of the reinsurance receivable balance at
+December 31, 2002 relates to Protective. </FONT></P>
+
+
+
+
+<b>Note K-- ESTIMATED FAIR VALUES OF FINANCIAL INSTRUMENTS</b>
+<PRE>
+          The carrying amounts and estimated fair values of the Company's financial instruments at December 31 are as follows:
+
+                                                               2002                                 2001
+                                                 ---------------------------------     --------------------------------
+
+                                                                     Estimated                            Estimated
+                                                    Carrying           Fair               Carrying           Fair
+                                                     Amount           Values               Amount           Values
+                                                    --------       -----------          -----------    --------------
+
+Assets (see Notes A and C):
+Investments:
+     Fixed maturities......................       $488,701,807    $488,701,807          $445,730,493    $445,730,493
+     Mortgage loans on real estate.........          1,793,590       1,863,134             2,717,495       2,873,017
+     Short-term investments................        178,805,245     178,805,245            12,000,000      12,000,000
+Cash                                                 1,669,532       1,669,532             4,284,257       4,284,257
+Liabilities (see Note A):
+     Annuity deposits......................         60,080,082      62,984,955            47,324,337      46,396,261
+
+          Except as noted below, fair values were estimated using quoted market prices.
+
+          The Company estimates the fair value of its mortgage loans using discounted cash flows from the next call date.
+
+          The Company believes the fair value of short-term investments approximates their book value due to their short-term nature.
+
+          The Company estimates the fair value of its annuities using surrender values.
+
+          The  Company  believes  it is not  practicable  to  determine  the fair value of its policy  loans  since  there is no stated
+maturity, and policy loans are often repaid by reductions to policy benefits.
+
+
+
+
+                                          SCHEDULE III-- SUPPLEMENTARY INSURANCE INFORMATION
+                                             PROTECTIVE LIFE AND ANNUITY INSURANCE COMPANY
+
+
+---------------------------- ------------- ------------ ----------- ------------- ----------- ----------- ------------ ------------ -------------
+          COL. A                COL. B       COL. C       COL. D       COL. E       COL. F      COL. G      COL. H       COL. I        COL. J
+---------------------------- ------------- ------------ ----------- ------------- ----------- ----------- ------------ ------------ -------------
+
+                                             Future                    Annuity                                         Amortization
+                               Deferred      Policy                    Deposits     Premiums               Benefits    of Deferred
+                                Policy      Benefits                  and Other       and        Net         and         Policy        Other
+                              Acquisition     and       Unearned    Policyholders'   Policy   Investment  Settlement   Acquisition   Operating
+          Segment               Costs        Claims     Premiums        Funds         Fees    Income (1)   Expenses       Costs     Expenses (1)
+          -------            -----------   ---------    ----------  --------------  --------  ----------  ---------    -----------  ------------
+
+Year Ended
+December 31, 2002
+Life Insurance
+  Life Marketing...........  $   583,131  $    689,662  $        0  $        0    $  142,454 $     8,123  $   186,800  $   76,132  $   (254,425)
+  Acquisitions.............  100,007,935   460,211,404      43,965   4,841,464    23,808,052  30,989,460   27,513,318   7,225,750     8,330,634
+Specialty Insurance Products
+  Asset Protection.........    1,607,207    54,415,603  26,305,063     614,369     3,454,960     571,275    2,087,070     669,620      (324,360)
+Retirement Savings and
+  Investment Products
+  Annuities................    2,581,309     1,962,360           0  57,272,062       153,530   3,729,514    3,511,858     667,681       246,104
+Corporate and Other........            0             0           0           0             0     947,465            0           0       (63,392)
+Adjustments (2) ...........            0       345,835           0   3,377,253             0           0            0           0             0
+                             -----------  ------------ ----------- -----------   ----------- -----------  -----------  ----------    -----------
+     TOTAL................. $104,779,582  $517,624,864 $26,349,028 $66,105,148   $27,558,996 $36,245,837  $33,299,046  $8,639,183    $7,934,561
+                             ===========  ============ =========== ===========   =========== ===========  ===========  ==========    ===========
+
+
+Year Ended
+December 31, 2001
+Life Insurance
+  Acquisitions............  $114,902,459  $457,126,255  $   46,457 $ 1,924,344   $25,209,340 $29,892,723 $28,533,646   $6,092,729    $8,937,528
+Specialty Insurance Products
+  Asset Protection........     1,611,339     2,178,423   7,718,370     493,645     3,721,792     606,345   2,567,742      694,491        89,248
+Retirement Savings and
+  Investment Products
+  Annuities...............     2,483,640    (1,233,215)          0  47,324,337       155,298   1,909,607   2,243,541      247,260       226,297
+Corporate and Other.......             0             0           0           0             0   1,467,734           0            0       (63,778)
+Adjustments (2) ..........             0       496,918       2,201   3,456,943             0           0           0            0             0
+                             -----------  ------------ ----------- -----------   ----------- ----------- -----------   ----------    -----------
+Adjustments (2) ..........  $118,997,438  $458,568,381  $7,767,028 $53,199,269   $29,086,430 $33,876,409 $33,344,929   $7,034,480    $9,189,295
+                             ===========  ============ =========== ===========   =========== =========== ===========   ==========    ===========
+
+
+Year Ended
+December 31, 2000
+Life Insurance
+  Acquisitions............  $124,984,368  $447,949,295 $    50,335 $ 4,925,125  $27,443,897 $29,275,899 $29,247,353   $5,871,420    $9,991,067
+Specialty Insurance Prodcuts
+  Asset Protection             1,596,654     3,037,218   8,101,233     323,800    2,997,130     628,572   2,250,237      714,278        57,601
+Retirement Savings and
+  Investment Products
+  Annuities...............     1,647,338       619,322           0  25,179,780      116,106   1,416,117   1,267,445      179,748      (787,364)
+Corporate and Other.......             0             0           0           0            0     365,860           0            0        60,409
+Adjustments (2) ..........             0       607,136       2,665   3,424,830            0           0           0            0             0
+                             -----------  ------------ ----------- -----------   ----------- ----------- ----------   ----------    -----------
+      TOTAL...............  $128,228,360  $452,212,971 $ 8,154,233 $33,853,535  $30,557,133 $31,686,448 $32,765,035   $6,765,446    $9,321,713
+                             ===========  ============ =========== ===========  =========== =========== ===========   ==========    ===========
+
+
+
+
+
+
+(1)  Allocations of Net Investment Income and Other Operating Expenses are based on a number of assumptions and estimates and results
+     would change if different methods were applied.
+(2)  Adjustments represent the inclusion of assets related to discontinued operations.
+
+
+
+
+
+
+                                                       SCHEDULE IV-- REINSURANCE
+                                             PROTECTIVE LIFE AND ANNUITY INSURANCE COMPANY
+
+
+------------------------------------------------------------ -------------- -------------- -------------- -------------- -------------
+                          COL. A                                COL. B         COL. C         COL. D         COL. E         COL. F
+------------------------------------------------------------ -------------- -------------- -------------- -------------- -------------
+
+
+
+                                                                                                                          Percentage
+                                                                              Ceded to        Assumed                     of Amount
+                                                                Gross           Other       from Other        Net          Assumed
+                                                                Amount        Companies      Companies       Amount         to Net
+                                                              -----------    -----------    -----------    -----------    ------------
+
+    Year Ended December 31, 2002:
+       Life insurance in force(1) ...................          $1,045,749    $ 6,646,105      $7,207,124    $1,606,768       448.5%
+                                                              ===========     ==========     ===========    ==========     ==========
+
+    Premiums and policy fees:
+       Life insurance................................          $6,379,102    $22,962,666     $42,221,864   $25,638,300       164.7%
+       Accident and health insurance.................           3,131,323        771,735        (438,892)    1,920,696         -
+                                                               ----------    -----------     ------------  -----------
+          TOTAL......................................          $9,510,425    $23,734,401     $41,782,972   $27,558,996
+                                                              ===========    ===========     ============  ===========
+
+    Year Ended December 31, 2001:
+       Life insurance in force(1) .....................        $  337,079    $ 4,865,367    $  6,087,816  $  1,559,528       390.4%
+                                                              ===========     ==========     ===========    ==========     ==========
+
+    Premiums and policy fees:
+       Life insurance..................................        $6,006,689    $18,481,015     $39,585,878   $27,111,552       146.0%
+       Accident and health insurance...................         2,106,881        140,020           8,017     1,974,878
+                                                               ----------    -----------     ------------  -----------         0.4%
+          TOTAL........................................        $8,113,570    $18,621,035     $39,593,895   $29,086,430
+                                                               ==========    ===========     ===========   ===========
+
+    Year Ended December 31, 2000:
+       Life insurance in force(1) .....................        $  324,167    $ 5,287,046    $  6,600,096  $  1,637,217       403.1%
+                                                              ===========     ==========     ===========    ==========     ==========
+
+    Premiums and policy fees:
+       Life insurance..................................        $4,372,841    $17,244,402     $41,747,694   $28,876,133       144.6%
+       Accident and health insurance...................         1,751,478         74,844           4,366     1,681,000
+                                                               ----------    -----------     ------------  -----------         0.3%
+          TOTAL........................................        $6,124,319    $17,319,246     $41,752,060   $30,557,133
+                                                               ==========    ===========     ============  ===========
+
+
+
+
+(1) Dollars in thousands
+</pre>
+
+
+<b>Item 9.  Changes in and Disagreements with Accountants on Accounting and Financial Disclosures</b><br>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;None<br><br><br>
+
+<center><b>PART III</b></center>
+
+<b>Item 10.  Directors and Executive Officers of the Registrant</b><br>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not required in accordance with General Instruction I(2)(c).<br><br>
+<br>
+<b>Item 11.  Executive Compensation</b><br>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not required in accordance with General Instruction I(2)(c).<br><br>
+<br>
+<b>Item 12.  Security Ownership of Certain Beneficial Owners and Management and Related Share Owner Matters</b><br>
+<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not required in accordance with General Instruction I(2)(c).<br><br>
+<br>
+<b>Item 13.  Certain Relationships and Related Transactions</b><br><br>
+<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not required in accordance with General Instruction I(2)(c). <br>
+<br>
+<b>Item 14.  Controls and Procedures</b><br>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Company&#146;s Chief
+Executive Officer and Chief Financial Officer have, within the 90-day period
+preceding the filing of the report evaluated the Company&#146;s disclosure
+controls and procedures and believe them to be operating effectively to make
+known to them on a timely basis any material information required to be included
+in the Company&#146;s periodic filings with the Securities and Exchange
+Commission. There have been no significant changes in the internal controls, or
+in other factors that could significantly affect internal controls, subsequent
+to the date this evaluation was completed. </FONT></P><br><br>
+
+<center><b>PART IV</b></center>
+<br>
+<b>Item 15. Exhibits,
+Financial Statement Schedules, and Reports on Form 8-K </b><br>
+(a)&nbsp; The following documents are filed as part of this report: <br>
+<br>
+      <P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1.  Financial Statements (Item 8)</FONT></P>
+<br>
+<br>
+      <P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>2.  Financial Statement Schedules (see index annexed)</FONT></P>
+<br>
+<br>
+      <P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>3.  Exhibits:</FONT></P>
+<br>
+<br>
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>The exhibits listed in the Exhibit Index on page 37 of this Form 10-K are filed
+herewith or are incorporated herein by reference. No management contract or
+compensatory plan or arrangement is required to be filed as an exhibit to this
+form. The Registrant will furnish a copy of any of the exhibits listed upon the
+payment of $5.00 per exhibit to cover the cost of the Registrant in furnishing
+the exhibit.</FONT></P>
+<BR>
+<br>
+
+(b)&nbsp;Reports on Form 8-K:<br>
+<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;None
+
+
+
+
+
+
+<PRE>
+                                                             <b>SIGNATURES</b><br>
+ Pursuant to the  requirements  of Section 13 of the Securities  Exchange Act of 1934, the Registrant has duly caused this report to
+be signed on its behalf by the undersigned, thereunto duly authorized, in the City of Birmingham, State of Alabama on March 25, 2003.
+
+                                                                                          PROTECTIVE LIFE AND ANNUITY INSURANCE COMPANY
+
+                                                                                          By:  <u>/s/ WAYNE E. STUENKEL</u>
+                                                                                                  President
+
+    Pursuant to the  requirements  of Section 13 of the Securities  Exchange Act of 1934,  this report has been signed by the following
+persons in the capacities and on the dates indicated:                                                  Exhibit 3(b)
+
+
+
+                   Signature                                          Title                            Date
+
+(i)   Principal Executive Officer
+      <u>/s/       WAYNE E. STUENKEL</u>                                   President and
+                Wayne E. Stuenkel                                       Director                 March 25, 2003
+
+(ii)  Principal Financial Officer
+      <u>/s/       ALLEN W. RITCHIE</u>                               Chief Financial Officer
+                Allen W. Ritchie                                    and Director                 March 25, 2003
+
+(iii) Board of Directors:
+      *                                                                 Director                 March 25, 2003
+      ------------------------------------
+                     John D. Johns
+
+      *                                                                 Director                 March 25, 2003
+      ------------------------------------
+                     Richard J. Bielen
+
+      *                                                                 Director                 March 25, 2003
+      ------------------------------------
+                     R. Stephen Briggs
+
+      *                                                                 Director                 March 25, 2003
+      ------------------------------------
+                     J. William Hamer, Jr.
+
+      *                                                                 Director                 March 25, 2003
+      ------------------------------------
+                     T. Davis Keyes
+
+      *                                                                 Director                 March 25, 2003
+      ------------------------------------
+                     Carolyn King
+
+      *                                                                 Director                 March 25, 2003
+      ------------------------------------
+                     Deborah J. Long
+
+      *                                                                 Director                 March 25, 2003
+      ------------------------------------
+                     Jim E. Massengale
+
+      *                                                                 Director                 March 25, 2003
+      ------------------------------------
+                     Allen W. Ritchie
+
+
+
+*By:  <u>/s/JERRY W. DEFOOR</u>
+         Jerry W. DeFoor
+         Attorney-in-fact
+</PRE>
+
+
+
+
+<b>Certification Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002</b>
+
+<pre>
+I, Wayne E. Stuenkel, certify that:
+
+1.  I have reviewed this annual report on Form 10-Q of Protective Life and Annuity Insurance Company;
+
+2. Based on my  knowledge,  this annual  report does not contain any untrue  statement  of a material  fact or omit to state a material
+fact necessary to make the statements  made, in light of the  circumstances  under which such statements were made, not misleading with
+respect to the period covered by this annual report;
+
+3. Based on my knowledge,  the financial  statements,  and other financial  information included in this annual report,  fairly present
+in all material  respects the financial  condition,  results of operations and cash flows of the registrant as of, and for, the periods
+presented in this annual report;
+
+4. The  registrant's  other  certifying  officers and I are  responsible  for  establishing  and  maintaining  disclosure  controls and
+procedures (as defined in Exchange Act Rules 13a-14 and 15d-14) for the registrant and we have:
+
+a) designed such  disclosure  controls and procedures to ensure that material  information  relating to the  registrant,  including its
+consolidated  subsidiaries,  is made known to us by others within those entities,  particularly  during the period in which this annual
+report is being prepared;
+
+b)  evaluated  the  effectiveness  of the  registrant's  disclosure  controls and  procedures  as of a date within 90 days prior to the
+filing date of this annual report (the "Evaluation Date"); and
+
+c) presented in this annual report our  conclusions  about the  effectiveness  of the disclosure  controls and procedures  based on our
+evaluation as of the Evaluation Date;
+
+5. The  registrant's  other  certifying  officers  and I have  disclosed,  based on our most  recent  evaluation,  to the  registrant's
+auditors and the audit committee of registrant's board of directors (or persons performing the equivalent function):
+
+a) all  significant  deficiencies  in the design or  operation  of internal  controls  which could  adversely  affect the  registrant's
+ability to record,  process,  summarize  and report  financial  data and have  identified  for the  registrant's  auditors any material
+weaknesses in internal controls; and
+
+b) any fraud,  whether or not material,  that involves  management or other employees who have a significant  role in the  registrant's
+internal controls; and
+
+6. The  registrant's  other  certifying  officers and I have  indicated  in this annual  report  whether or not there were  significant
+changes in internal controls or in other factors that could  significantly  affect internal controls subsequent to the date of our most
+recent evaluation, including any corrective actions with regard to significant deficiencies and material weaknesses.
+
+
+Date:  March 20, 2003
+
+
+
+                                                          Title:  President and Chief Actuary
+
+</pre>
+
+
+<b>Certification Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002</b>
+
+<pre>
+I, Allen W. Ritchie, certify that:
+
+1.  I have reviewed this annual report on Form 10-Q of Protective Life and Annuity Insurance Company;
+
+2. Based on my  knowledge,  this annual  report does not contain any untrue  statement  of a material  fact or omit to state a material
+fact necessary to make the statements  made, in light of the  circumstances  under which such statements were made, not misleading with
+respect to the period covered by this annual report;
+
+3. Based on my knowledge,  the financial  statements,  and other financial  information included in this annual report,  fairly present
+in all material  respects the financial  condition,  results of operations and cash flows of the registrant as of, and for, the periods
+presented in this annual report;
+
+4. The  registrant's  other  certifying  officers and I are  responsible  for  establishing  and  maintaining  disclosure  controls and
+procedures (as defined in Exchange Act Rules 13a-14 and 15d-14) for the registrant and we have:
+
+a) designed such  disclosure  controls and procedures to ensure that material  information  relating to the  registrant,  including its
+consolidated  subsidiaries,  is made known to us by others within those entities,  particularly  during the period in which this annual
+report is being prepared;
+
+b)  evaluated  the  effectiveness  of the  registrant's  disclosure  controls and  procedures  as of a date within 90 days prior to the
+filing date of this annual report (the "Evaluation Date"); and
+
+c) presented in this annual report our  conclusions  about the  effectiveness  of the disclosure  controls and procedures  based on our
+evaluation as of the Evaluation Date;
+
+5. The  registrant's  other  certifying  officers  and I have  disclosed,  based on our most  recent  evaluation,  to the  registrant's
+auditors and the audit committee of registrant's board of directors (or persons performing the equivalent function):
+
+a) all  significant  deficiencies  in the design or  operation  of internal  controls  which could  adversely  affect the  registrant's
+ability to record,  process,  summarize  and report  financial  data and have  identified  for the  registrant's  auditors any material
+weaknesses in internal controls; and
+
+b) any fraud,  whether or not material,  that involves  management or other employees who have a significant  role in the  registrant's
+internal controls; and
+
+6. The  registrant's  other  certifying  officers and I have  indicated  in this annual  report  whether or not there were  significant
+changes in internal controls or in other factors that could  significantly  affect internal controls subsequent to the date of our most
+recent evaluation, including any corrective actions with regard to significant deficiencies and material weaknesses.
+
+
+Date:  March 20, 2003
+
+
+
+                                                              Title:   Executive Vice President and
+                                                                      Chief Financial Officer
+</pre>
+
+
+
+<PRE>
+                                        Exhibit Index
+  Item
+  Number                            Document
+---------                          ------------
+         *   3 (a) (1)             1998 Amended and Restated Articles of Incorporation
+         *   3 (a) (2)             Articles of Amendment to 1998 Amended and Restated Articles of Incorporation
+     *****   3(b)                  Amended and Restated Bylaws Effective August 1, 2000
+        **   4(a)                  Tax-Sheltered Annuity Endorsement
+        **   4(b)                  Qualified Retirement Plan Endorsement
+        **   4(c)                  Individual Retirement Annuity Endorsement
+       ***   4(d)                  Group Modified Guaranteed Annuity Contract
+       ***   4(e)                  Application for Group Modified Guaranteed Annuity Contract
+       ***   4(f)                  Individual Modified Guaranteed Annuity Certificate
+      ****   10 (a)                Guaranty Agreement from Protective Life Insurance Company
+      ****   10 (a) (1)            Amendment to Guaranty Agreement from Protective Life Insurance Company
+    ******   10 (b)                Indemnity Reinsurance Agreement By and Between Protective Life
+                                   & Annuity Insurance Company and First Fortis Life Insurance
+                                   Company dated December 31, 2001
+             24                    Power of Attorney
+             99(a)                 Safe Harbor for Forward-Looking Statements
+             99(b)                 Certification  Pursuant to 18 U.S.C.  Section 1350, as Adopted  Pursuant to Section 906 of the
+                                   Sarbanes-Oxley Act of 2002
+             99(c)                 Certification  Pursuant to 18 U.S.C.  Section 1350, as Adopted  Pursuant to Section 906 of the
+                                   Sarbanes-Oxley Act of 2002
+
+         *     Incorporated  herein by reference to the  Registrant's  Annual Report on Form 10-K for the year ended  December 31,
+               1998.
+        **     Incorporated herein by reference to the Registrant's Form N-4 Registration  Statement,  Registration No. 333-41577,
+               filed on December 5, 1997.
+       ***     Incorporated  herein by  reference  to the  Registrant's  Pre-Effective  Amendment  No. 1 to Form S-1  Registration
+               Statement, Registration No. 333-42425, filed on April 16, 1998.
+      ****     Incorporated  herein by reference to the  Registrant's  Annual Report on Form 10-K for the year ended  December 31,
+               1999.
+     *****     Incorporated  herein by reference to the  Registrant's  Annual Report on Form 10-K for the year ended  December 31,
+               2000.
+    ******     Incorporated  herein by reference to the  Registrant's  Annual Report on form 10-K for the year ended  December 31,
+               2001.
+
+
+
+
+
+</PRE>
+</BODY>
+</HTML>
+
+
+</TEXT>
+</DOCUMENT>

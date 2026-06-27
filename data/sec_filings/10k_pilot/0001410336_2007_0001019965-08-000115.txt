@@ -1,0 +1,220 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>rpt10klxs200717h.htm
+<DESCRIPTION>10-K
+<TEXT>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE>rpt10k</TITLE>
+<META name="generator" content="pdftohtml 0.36">
+<META name="author" content="EMEST">
+<META name="date" content="2008-03-27T21:06:44+00:00">
+</HEAD>
+<BODY  vlink="blue" link="blue">
+<p>
+<font size="2" face="Times">
+<!-- Page 1 -->
+<a name="1">
+<DIV style="position:relative;width:918;height:1188;">
+<DIV style="position:absolute;top:48;left:327"><b>SECURITIES AND EXCHANGE COMMISSION</b></DIV>
+<DIV style="position:absolute;top:66;left:380"><b>Washington, D.C.  20549</b></DIV>
+<DIV style="position:absolute;top:30;left:407"><b>UNITED STATES</b></DIV>
+<DIV style="position:absolute;top:88;left:422"><b>FORM 10-K</b></DIV>
+<DIV style="position:absolute;top:106;left:111"><b>[ X ] ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 </b></DIV>
+<DIV style="position:absolute;top:156;left:111"><b>[    ] TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934</b></DIV>
+<DIV style="position:absolute;top:440;left:134">(State or Other </DIV>
+<DIV style="position:absolute;top:455;left:147">Jurisdiction</DIV>
+<DIV style="position:absolute;top:440;left:659">(Telephone number, </DIV>
+<DIV style="position:absolute;top:455;left:662">including area code)</DIV>
+<DIV style="position:absolute;top:237;left:349"><b>Lehman XS Trust, Series 2007-17H</b></DIV>
+<DIV style="position:absolute;top:422;left:147"><b>Delaware</b></DIV>
+<DIV style="position:absolute;top:382;left:361">(I.R.S. Employer Identification No.)</DIV>
+<DIV style="position:absolute;top:365;left:417"><b>74-2440850</b></DIV>
+<DIV style="position:absolute;top:214;left:342">(Commission file number of Issuing Entity) </DIV>
+<DIV style="position:absolute;top:440;left:290">(Address of Principal Executive Offices)</DIV>
+<DIV style="position:absolute;top:422;left:335"><b>New York, New York</b></DIV>
+<DIV style="position:absolute;top:404;left:332"><b>745 Seventh Avenue</b></DIV>
+<DIV style="position:absolute;top:440;left:575">(Zip Code)</DIV>
+<DIV style="position:absolute;top:422;left:583"><b>10019</b></DIV>
+<DIV style="position:absolute;top:422;left:666"><b>(212) 526-7000</b></DIV>
+<DIV style="position:absolute;top:476;left:111">Securities registered pursuant to Section 12(b) of the Act:</DIV>
+<DIV style="position:absolute;top:476;left:723"><b>None.</b></DIV>
+<DIV style="position:absolute;top:517;left:111">Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the <br>Securities Act.</DIV>
+<DIV style="position:absolute;top:589;left:111">Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or <br>15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that <br>the registrant was required to file such reports), and (2) has been subject to such filing requirements for the <br>past 90 days. </DIV>
+<DIV style="position:absolute;top:124;left:111">For the fiscal year ended December 31, 2007</DIV>
+<DIV style="position:absolute;top:138;left:450">or</DIV>
+<DIV style="position:absolute;top:174;left:111">For the transition period from _____________ to _____________</DIV>
+<DIV style="position:absolute;top:255;left:376">(Exact name of Issuing Entity)</DIV>
+<DIV style="position:absolute;top:494;left:111">Securities registered pursuant to Section 12(g) of the Act:</DIV>
+<DIV style="position:absolute;top:494;left:723"><b>None.</b></DIV>
+<DIV style="position:absolute;top:553;left:111">Indicate by check mark  if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) <br>of the Act.</DIV>
+<DIV style="position:absolute;top:656;left:111">Indicate by check mark  if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K ( 229.405 <br>of this chapter) is not contained herein, and will not be contained, to the best of registrant's knowledge, in <br>definitive proxy or information statements incorporated by reference in Part III of this Form 10-K or any <br>amendment to this Form 10-K.                      <br>Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a <br>smaller reporting company. See the definitions of &quot;large accelerated filer&quot;, &quot;accelerated filer&quot;, and &quot;smaller reporting company" <br>in Rule 12b-2 of the Exchange Act.</DIV>
+<DIV style="position:absolute;top:805;left:111">Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act).</DIV>
+<DIV style="position:absolute;top:530;left:714"><b>[ Yes]</b></DIV>
+<DIV style="position:absolute;top:1003;left:111">Documents incorporated by reference:</DIV>
+<DIV style="position:absolute;top:832;left:111">State the aggregate market value of the voting and non-voting common equity held by non-affiliates <br>computed by reference to the price at which the common equity was last sold, or the average bid and <br>asked price of such common equity, as of the last business day of the registrant's most recently completed <br>second fiscal quarter.</DIV>
+<DIV style="position:absolute;top:877;left:710"><b>Not Applicable.</b></DIV>
+<DIV style="position:absolute;top:530;left:764"><b>[X No]</b></DIV>
+<DIV style="position:absolute;top:566;left:714"><b>[ Yes] [X No]</b></DIV>
+<DIV style="position:absolute;top:634;left:705"><b> [X Yes] [   N o ]</b></DIV>
+<DIV style="position:absolute;top:697;left:719"><b>[X]</b></DIV>
+<DIV style="position:absolute;top:805;left:705"><b>[  Yes] [X No]</b></DIV>
+<DIV style="position:absolute;top:764;left:111"><b>Large accelerated filer [ ]</b></DIV>
+<DIV style="position:absolute;top:764;left:390"><b>Accelerated filer [ ]</b></DIV>
+<DIV style="position:absolute;top:782;left:111"><b>Non-accelerated filer [X]</b></DIV>
+<DIV style="position:absolute;top:300;left:313">(Exact Name of Registrant as Specified in its Charter)</DIV>
+<DIV style="position:absolute;top:342;left:317">(Exact Name of Sponsor as Specified in its Charter)</DIV>
+<DIV style="position:absolute;top:282;left:330"><b>Structured Asset Securities Corporation</b></DIV>
+<DIV style="position:absolute;top:327;left:359"><b>Lehman Brothers Holdings Inc.</b></DIV>
+<DIV style="position:absolute;top:196;left:412"><b>333-139693-08</b></DIV>
+<DIV style="position:absolute;top:908;left:111">Indicate by check mark whether the registrant has filed all documents and reports required to be filed by <br>Section 12, 13 or 15(d) of the Securities Exchange Act of 1934 subsequent to the distribution of securities <br>under a plan confirmed by a court.</DIV>
+<DIV style="position:absolute;top:935;left:710"><b>Not Applicable.</b></DIV>
+<DIV style="position:absolute;top:962;left:111">Indicate the number of shares outstanding of each of the registrant's classes of common stock, as of the <br>last practicable date.</DIV>
+<DIV style="position:absolute;top:976;left:710"><b>Not Applicable.</b></DIV>
+<DIV style="position:absolute;top:1021;left:111">List hereunder the following documents if incorporated by reference and the Part of the Form 10-K (e.g., Part I, Part II, etc.) <br>into which the document is incorporated:  (1)Any annual report to security holders; (2) Any proxy or information statement; <br>and (3)Any prospectus filed pursuant to Rule 424(b) or (c) under the Securities Act of 1933.  The listed documents should be <br>clearly described for identification purposes (e.g., annual report to security holders for fiscal year ended December 24, 1980).<br><b>Certain information is incorporated by reference below under Additional Disclosure Items Pursuant to <br>General Instruction J.</b></DIV>
+<DIV style="position:absolute;top:782;left:390"><b>Smaller reporting company [ ]</b></DIV>
+</DIV>
+<!-- Page 2 -->
+<a name="2">
+<DIV style="position:relative;width:918;height:1188;">
+<DIV style="position:absolute;top:34;left:439"><b>PART I</b></DIV>
+<DIV style="position:absolute;top:66;left:111"><b>Item 1. Business.</b></DIV>
+<DIV style="position:absolute;top:111;left:111"><b>Item 1A. Risk Factors.</b></DIV>
+<DIV style="position:absolute;top:156;left:111"><b>Item 1B. Unresolved Staff Comments.</b></DIV>
+<DIV style="position:absolute;top:201;left:111"><b>Item 2. Properties.</b></DIV>
+<DIV style="position:absolute;top:246;left:111"><b>Item 3. Legal Proceedings.</b></DIV>
+<DIV style="position:absolute;top:291;left:111"><b>Item 4. Submission of Matters to a Vote of Security Holders.</b></DIV>
+<DIV style="position:absolute;top:88;left:161">Not Applicable.</DIV>
+<DIV style="position:absolute;top:133;left:161">Not Applicable.</DIV>
+<DIV style="position:absolute;top:223;left:161">Not Applicable.</DIV>
+<DIV style="position:absolute;top:268;left:161">None.</DIV>
+<DIV style="position:absolute;top:313;left:161">Not Applicable.</DIV>
+<DIV style="position:absolute;top:178;left:161">None.</DIV>
+<DIV style="position:absolute;top:363;left:111"><b>Item 5. Market for Registrant's Common Equity, Related Stockholder Matters and Issuer Purchases of Equity <br>Securities.</b></DIV>
+<DIV style="position:absolute;top:421;left:111"><b>Item 6. Selected Financial Data.</b></DIV>
+<DIV style="position:absolute;top:466;left:111"><b>Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operation.</b></DIV>
+<DIV style="position:absolute;top:511;left:111"><b>Item 7A. Quantitative and Qualitative Disclosures About Market  Risk.</b></DIV>
+<DIV style="position:absolute;top:555;left:111"><b>Item 8. Financial Statements and Supplementary Data.</b></DIV>
+<DIV style="position:absolute;top:600;left:111"><b>Item 9. Changes in and Disagreements With Accountants on Accounting and Financial Disclosure.</b></DIV>
+<DIV style="position:absolute;top:645;left:111"><b>Item 9A. Controls and Procedures.</b></DIV>
+<DIV style="position:absolute;top:336;left:437"><b>PART II</b></DIV>
+<DIV style="position:absolute;top:394;left:161">Not Applicable.</DIV>
+<DIV style="position:absolute;top:439;left:161">Not Applicable.</DIV>
+<DIV style="position:absolute;top:484;left:165">Not Applicable.</DIV>
+<DIV style="position:absolute;top:528;left:161">Not Applicable.</DIV>
+<DIV style="position:absolute;top:573;left:161">Not Applicable.</DIV>
+<DIV style="position:absolute;top:618;left:161">Not Applicable.</DIV>
+<DIV style="position:absolute;top:663;left:161">Not Applicable.</DIV>
+<DIV style="position:absolute;top:704;left:161">Not Applicable.</DIV>
+<DIV style="position:absolute;top:686;left:111"><b>Item 9A(T). Controls and Procedures.</b></DIV>
+<DIV style="position:absolute;top:726;left:111"><b>Item 9B. Other Information.</b></DIV>
+<DIV style="position:absolute;top:744;left:161">None.</DIV>
+<DIV style="position:absolute;top:798;left:113"><b>Item 10. Directors and Executive Officers and Corporate Governance.</b></DIV>
+<DIV style="position:absolute;top:843;left:111"><b>Item 11. Executive Compensation.</b></DIV>
+<DIV style="position:absolute;top:888;left:111"><b>Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters.</b></DIV>
+<DIV style="position:absolute;top:933;left:111"><b>Item 13. Certain Relationships and Related Transactions, and Director Independence.</b></DIV>
+<DIV style="position:absolute;top:978;left:111"><b>Item 14. Principal Accounting Fees and Services.</b></DIV>
+<DIV style="position:absolute;top:767;left:433"><b>PART III</b></DIV>
+<DIV style="position:absolute;top:816;left:161">Not Applicable.</DIV>
+<DIV style="position:absolute;top:861;left:161">Not Applicable.</DIV>
+<DIV style="position:absolute;top:906;left:161">Not Applicable.</DIV>
+<DIV style="position:absolute;top:951;left:161">Not Applicable.</DIV>
+<DIV style="position:absolute;top:996;left:161">Not Applicable.</DIV>
+</DIV>
+<!-- Page 3 -->
+<a name="3">
+<DIV style="position:relative;width:918;height:1188;">
+<DIV style="position:absolute;top:61;left:111"><b>Item 1112(b) of Regulation AB.</b></DIV>
+<DIV style="position:absolute;top:310;left:111"><b>Item 1117 of Regulation AB.</b></DIV>
+<DIV style="position:absolute;top:354;left:111"><b>Item 1119 of Regulation AB.</b></DIV>
+<DIV style="position:absolute;top:427;left:111"><b>Item 1122 of Regulation AB.</b></DIV>
+<DIV style="position:absolute;top:947;left:404"><b>Servicer Compliance Statement.</b></DIV>
+<DIV style="position:absolute;top:61;left:404"><b>Significant Obligors of Pool Assets (Financial Information). </b></DIV>
+<DIV style="position:absolute;top:310;left:405"><b>Legal Proceedings.</b></DIV>
+<DIV style="position:absolute;top:354;left:405"><b>Affiliations and Certain Relationships and Related Transactions.</b></DIV>
+<DIV style="position:absolute;top:427;left:405"><b>Compliance with Applicable Servicing Criteria</b></DIV>
+<DIV style="position:absolute;top:947;left:111"><b>Item 1123 of Regulation AB.</b></DIV>
+<DIV style="position:absolute;top:332;left:152">None.</DIV>
+<DIV style="position:absolute;top:84;left:152">None.</DIV>
+<DIV style="position:absolute;top:174;left:152">The consolidated balance sheets as of December 31, 2007 and 2006, and the related consolidated statements of <br>operations, stockholder's equity and cash flows for each of the three years in the period ended December 31, 2007, <br>together with the accompanying notes to consolidated financial statements, all of Ambac Assurance Corporation and its <br>subsidiaries, are incorporated herein by reference from Exhibit 99.01 to the Annual Report on Form 10-K of Ambac <br>Financial Group, Inc., as filed with the Commission on February 29, 2007, Commission File Number 001-10777, CIK <br>number 0000874501.</DIV>
+<DIV style="position:absolute;top:290;left:152">None.</DIV>
+<DIV style="position:absolute;top:268;left:111"><b>Item 1115(b) of Regulation AB.</b></DIV>
+<DIV style="position:absolute;top:376;left:152">Information required by Item 1119 has been omitted from this annual report on Form 10-K because it is materially the <br>same information as has been provided previously in a prospectus timely filed pursuant to Rule 424 promulgated under <br>the Securities Act of 1933 under the same Central Index Key (CIK) code as this annual report on Form 10-k.</DIV>
+<DIV style="position:absolute;top:484;left:152">LaSalle Bank National Association:<br>LaSalle Bank National Association's (&quot;LaSalle&quot;) Report on Assessment of Compliance with Servicing Criteria for 2007 (the <br>&quot;2007 Assessment&quot;) attached to this Report on Form 10-K describes in Appendix B the following material instance of <br>noncompliance related to investor reporting:</DIV>
+<DIV style="position:absolute;top:557;left:152">&quot;1122(d)(3)(i)(A) and (B) - During the Reporting Period, certain monthly investor or remittance reports were not <br>prepared in accordance with the terms set forth in the transaction agreements and certain investor reports did not <br>provide the information calculated in accordance with the terms specified in the transaction agreements for which certain <br>individual errors may or may not have been material.&quot;</DIV>
+<DIV style="position:absolute;top:630;left:152">The investor reporting errors identified on LaSalle's 2007 Assessment as material instances of noncompliance (the <br>&quot;Investor Reporting Errors&quot;) included, for example, revised delinquency, REO, foreclosure, repurchase, payoff or <br>modified loan counts, category indicators and/or balances.  The conclusion that the Investor Reporting Errors amounted <br>to a material instance of noncompliance was based primarily on the aggregate number of errors as opposed to the <br>materiality of any one error.</DIV>
+<DIV style="position:absolute;top:718;left:152">The Investor Reporting Errors were generally caused by human error resulting primarily from high volume monthly data <br>processing demands that had to be addressed within constricted time frames with less than a full complement of <br>operational staff.  Between the fourth quarter of the Reporting Period and the date of the 2007 Assessment, LaSalle <br>has employed additional operational staff to accommodate the high volume of monthly investor reporting requirements <br>and minimize the risk of the Investor Reporting Errors recurring.  Other necessary controls are in place to minimize the <br>risk of such errors.</DIV>
+<DIV style="position:absolute;top:821;left:152">With respect to the specific pool assets and asset-backed securities related to the Investor Reporting Errors, the errors <br>did not have, and are not reasonable likely in the future to have, any material impact or effect on pool asset <br>performance, servicing of the pool assets and payments or expected payments on the mortgage-backed securities.<br> <br>In this transaction, LaSalle served as custodian.  Please note that this additional disclosure does not relate to LaSalle's <br>custodial Servicing Criteria under Item 1122.</DIV>
+<DIV style="position:absolute;top:124;left:111"><b>Item 1114(b)(2) of Regulation AB.</b></DIV>
+<DIV style="position:absolute;top:124;left:404"><b>Credit Enhancement and Other Support, Except for Certain <br>Derivatives Instruments (Information Regarding Significant <br>Enhancement Providers Financial Information).</b></DIV>
+<DIV style="position:absolute;top:969;left:152">Servicer Compliance statements are attached hereto under Item 15.</DIV>
+<DIV style="position:absolute;top:268;left:404"><b>Certain Derivatives Instruments (Financial Information).</b></DIV>
+<DIV style="position:absolute;top:34;left:273"><b>ADDITIONAL ITEMS PURSUANT TO GENERAL INSTRUCTION J</b></DIV>
+<DIV style="position:absolute;top:449;left:152">Reports on assesment of compliance with the servicing criteria for asset-backed securities are <br>attached hereto under Item 15.</DIV>
+</DIV>
+<!-- Page 4 -->
+<a name="4">
+<DIV style="position:relative;width:918;height:1188;">
+<DIV style="position:absolute;top:693;left:111">b) Exhibits identified in paragraph (a) above.</DIV>
+<DIV style="position:absolute;top:57;left:111"><b>Item 15. Exhibits, Financial Statement Schedules.</b></DIV>
+<DIV style="position:absolute;top:724;left:111">c)  Not Applicable.</DIV>
+<DIV style="position:absolute;top:34;left:433"><b>PART IV</b></DIV>
+<DIV style="position:absolute;top:78;left:111">a) Exhibits</DIV>
+<DIV style="position:absolute;top:107;left:228">Trust Agreement, dated as of September 1, 2007, among Structured Asset Securities Corporation, as <br>Depositor, Aurora Loan Services LLC, as Master Servicer, and U.S. Bank National Association, as <br>Trustee (incorporated herein by reference from Exhibit 4.1 of the Current Report on Form 8-K of the <br>registrant, as filed with the Commission on October 12, 2007, Commission File Number 333-139693-08, <br>CIK number 0001410336).</DIV>
+<DIV style="position:absolute;top:565;left:228">Copy of the consolidated balance sheets as of December 31, 2007 and 2006, and the <br>related consolidated statements of operations, stockholder's equity and cash flows for <br>each of the three years in the period ended December 31, 2007, together with the <br>accompanying notes to consolidated financial statements, all of Ambac Assurance <br>Corporation and its subsidiaries, are incorporated herein by reference from Exhibit 99.01 <br>to the Annual Report on Form 10-K of Ambac Financial Group, Inc., as filed with the <br>Commission on February 29, 2007, Commission File Number 001-10777, CIK number <br>0000874501.</DIV>
+<DIV style="position:absolute;top:565;left:143">  Exhibit 99.1</DIV>
+<DIV style="position:absolute;top:192;left:228">Incorporated by reference as Exhibit 4.</DIV>
+<DIV style="position:absolute;top:107;left:143">   Exhibit 4</DIV>
+<DIV style="position:absolute;top:192;left:143">   Exhibit 10</DIV>
+<DIV style="position:absolute;top:234;left:143">   Exhibit 33       Reports on assessment of compliance with servicing criteria for asset-backed securities.</DIV>
+<DIV style="position:absolute;top:369;left:143">   Exhibit 34       Attestation reports on assessment of compliance with servicing criteria for asset-backed securities. </DIV>
+<DIV style="position:absolute;top:500;left:143">   Exhibit 35       Servicer compliance statements.</DIV>
+<DIV style="position:absolute;top:212;left:143">   Exhibit 31       Rule 13a-14(d)/15d-14(d) Certifications.</DIV>
+<DIV style="position:absolute;top:258;left:224">a) Aurora Loan Services LLC, as Master Servicer<br>b) Aurora Loan Services LLC, as Servicer<br>c) LaSalle Bank National Association, as Custodian<br>d) Newport Management Corporation, as Sub-Contractor for Aurora Loan Services LLC<br>e) U.S. Bank National Association, as Trustee, Paying Agent and Custodian<br>f) Westlake Settlement Services, LLC, as Sub-Contractor for Aurora Loan Services LLC</DIV>
+<DIV style="position:absolute;top:389;left:224">a) Aurora Loan Services LLC, as Master Servicer<br>b) Aurora Loan Services LLC, as Servicer<br>c) LaSalle Bank National Association, as Custodian<br>d) Newport Management Corporation, as Sub-Contractor for Aurora Loan Services LLC<br>e) U.S. Bank National Association, as Trustee, Paying Agent and Custodian<br>f) Westlake Settlement Services, LLC, as Sub-Contractor for Aurora Loan Services LLC</DIV>
+<DIV style="position:absolute;top:524;left:224">a) Aurora Loan Services LLC, as Master Servicer<br>b) Aurora Loan Services LLC, as Servicer</DIV>
+</DIV>
+<!-- Page 5 -->
+<a name="5">
+<DIV style="position:relative;width:918;height:1188;">
+<DIV style="position:absolute;top:43;left:419"><b>SIGNATURES</b></DIV>
+<DIV style="position:absolute;top:267;left:261"><b>      3/27/2008                                                                                                                                           </b></DIV>
+<DIV style="position:absolute;top:151;left:261"><b>     /s/    E. Todd Whittemore                                                                                                                                         </b></DIV>
+<DIV style="position:absolute;top:178;left:305"><b>E. Todd Whittemore<br>Executive Vice President, Master Servicing</b></DIV>
+<DIV style="position:absolute;top:70;left:111">Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this <br>report to be signed on its behalf by the undersigned, thereunto duly authorized.</DIV>
+<DIV style="position:absolute;top:245;left:261"><b>Aurora Loan Services LLC, as Master Servicer</b></DIV>
+<DIV style="position:absolute;top:115;left:260"><b>Lehman XS Trust, Series 2007-17H</b></DIV>
+<DIV style="position:absolute;top:214;left:260"><b>(Senior Officer in charge of the servicing function of Aurora Loan Services LLC, in its <br>capacity as master servicer)</b></DIV>
+<DIV style="position:absolute;top:196;left:260"><b>Title:</b></DIV>
+<DIV style="position:absolute;top:151;left:111">By (Signature and Title):</DIV>
+<DIV style="position:absolute;top:178;left:260"><b>Name:</b></DIV>
+<DIV style="position:absolute;top:267;left:111">Date</DIV>
+</DIV>
+<!-- Page 6 -->
+<a name="6">
+<DIV style="position:relative;width:918;height:1188;">
+<DIV style="position:absolute;top:39;left:408"><b>EXHIBIT INDEX </b></DIV>
+<DIV style="position:absolute;top:57;left:111">EXHIBIT DESCRIPTION</DIV>
+<DIV style="position:absolute;top:75;left:206">Trust Agreement, dated as of September 1, 2007, among Structured Asset Securities Corporation, as <br>Depositor, Aurora Loan Services LLC, as Master Servicer, and U.S. Bank National Association, as Trustee <br>(incorporated herein by reference from Exhibit 4.1 of the Current Report on Form 8-K of the registrant, as <br>filed with the Commission on October 12, 2007, Commission File Number 333-139693-08, CIK number <br>0001410336).</DIV>
+<DIV style="position:absolute;top:579;left:206">Copy of the consolidated balance sheets as of December 31, 2007 and 2006, and the related consolidated <br>statements of operations, stockholder's equity and cash flows for each of the three years in the period <br>ended December 31, 2007, together with the accompanying notes to consolidated financial statements, all of <br>Ambac Assurance Corporation and its subsidiaries, are incorporated herein by reference from Exhibit 99.01 <br>to the Annual Report on Form 10-K of Ambac Financial Group, Inc., as filed with the Commission on February <br>29, 2007, Commission File Number 001-10777, CIK number 0000874501.</DIV>
+<DIV style="position:absolute;top:579;left:111">    Exhibit 99.1</DIV>
+<DIV style="position:absolute;top:241;left:111">      Exhibit 33       Reports on assessment of compliance with servicing criteria for asset-backed securities.</DIV>
+<DIV style="position:absolute;top:374;left:111">      Exhibit 34       Attestation reports on assessment of compliance with servicing criteria for asset-backed securities. </DIV>
+<DIV style="position:absolute;top:503;left:111">      Exhibit 35       Servicer compliance statement.</DIV>
+<DIV style="position:absolute;top:220;left:111">      Exhibit 31       Rule 13a-14(d)/15d-14(d) Certifications.</DIV>
+<DIV style="position:absolute;top:194;left:206">Incorporated by reference as Exhibit 4.</DIV>
+<DIV style="position:absolute;top:75;left:111">     Exhibit 4</DIV>
+<DIV style="position:absolute;top:194;left:111">      Exhibit 10</DIV>
+<DIV style="position:absolute;top:264;left:228">a) Aurora Loan Services LLC, as Master Servicer<br>b) Aurora Loan Services LLC, as Servicer<br>c) LaSalle Bank National Association, as Custodian<br>d) Newport Management Corporation, as Sub-Contractor for Aurora Loan Services LLC<br>e) U.S. Bank National Association, as Trustee, Paying Agent and Custodian<br>f) Westlake Settlement Services, LLC, as Sub-Contractor for Aurora Loan Services LLC</DIV>
+<DIV style="position:absolute;top:392;left:228">a) Aurora Loan Services LLC, as Master Servicer<br>b) Aurora Loan Services LLC, as Servicer<br>c) LaSalle Bank National Association, as Custodian<br>d) Newport Management Corporation, as Sub-Contractor for Aurora Loan Services LLC<br>e) U.S. Bank National Association, as Trustee, Paying Agent and Custodian<br>f) Westlake Settlement Services, LLC, as Sub-Contractor for Aurora Loan Services LLC</DIV>
+<DIV style="position:absolute;top:526;left:228">a) Aurora Loan Services LLC, as Master Servicer<br>b) Aurora Loan Services LLC, as Servicer</DIV>
+</DIV>
+</font>
+</p>
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>

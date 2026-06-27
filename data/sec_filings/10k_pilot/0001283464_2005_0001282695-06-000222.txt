@@ -1,0 +1,427 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>e65695_group48-10k.txt
+<DESCRIPTION>ANNUAL REPORT
+<TEXT>
+
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                                    FORM 10-K
+
+                  ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d)
+                     OF THE SECURITIES EXCHANGE ACT OF 1934
+
+(Mark One)
+
+[X]  ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+     ACT OF 1934
+
+     For the fiscal year ended December 31, 2005
+
+                                       or
+
+[_]  TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+     EXCHANGE ACT OF 1934
+
+     For the transition period from ____ to ____
+
+                        Commission File Number 001-32089
+
+                           STRUCTURED PRODUCTS CORP.,
+                                  on behalf of
+
+                  CorTS Trust For Peco Energy Capital Trust III
+
+             (Exact name of registrant as specified in its charter)
+
+            Delaware                                             13-3692801
+(State or other jurisdiction of                               (I.R.S. Employer
+ incorporation or organization)                              Identification No.)
+
+                              388 Greenwich Street
+                            New York, New York 10013
+               (Address of principal executive offices) (zip code)
+
+Registrant's telephone number including area code:
+
+                                                  212-816-7496
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+         TITLE OF EACH CLASS           NAME OF EACH EXCHANGE ON WHICH REGISTERED
+
+CorTS Trust For Peco Energy                    New York Stock Exchange
+Capital Trust III, Corporate-Backed
+Trust Securities (CorTS) Certificates
+
+Securities registered pursuant to Section 12(g) of the Act:
+
+                                                           None
+
+Indicate by check mark if the registrant is a well-known seasoned issuer, as
+defined in Rule 405 of the Securities Act. |_| Yes   |X| No
+
+Indicate by check mark if the registrant is not required to file reports
+pursuant to Section 13 or Section 15(d) of the Act. |_| Yes   |X| No
+
+Indicate by check mark whether the Registrant has (1) filed all reports required
+to be filed by section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months (or for such shorter period that the Registrant was
+required to have filed such reports) and (2) has been subject to such filing
+requirements for the past 90 days.
+
+                            Yes  X(1)        No
+                                 ----            ----
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405
+of Regulation S-K is not contained herein, and will not be contained, to the
+best of Registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K. [X]
+
+----------
+(1)  Pursuant to staff administrative positions established in the no-action
+     letter Corporate Asset Backed Corporation ("CABCO") (available August 9,
+     1995), the Depositor is not required to respond to various items of Form
+     10-K. Such items are designated herein as "Not Applicable".
+
+<PAGE>
+
+
+Indicate by check mark whether the registrant is a large accelerated filer, an
+accelerated filer, or a non-accelerated filer. See definition of "accelerated
+filer and large accelerated filer" in Rule 12b-2 of the Exchange Act.
+
+(Check one)
+
+Large Accelerated Filer [_]  Accelerated Filer [_]  Non-accelerated Filer [X]
+
+Indicate by check mark whether the registrant is shell company (as defined in
+Rule 12b-2 of the Act). |_| Yes   |X| No
+
+State the aggregate market value of the voting and non-voting common equity held
+by non-affiliates computed by reference to the price at which the common equity
+was last sold, or the average bid and asked price of such common equity, as of
+the last business day of the registrant's most recently completed second fiscal
+quarter.
+
+As of the date of this report, all of the common stock of the Registrant is held
+by Citigroup Global Markets Holdings Inc.
+
+Indicate by check mark whether the Registrant is an accelerated filer (as
+defined in Exchange Act Rule 12b-2).
+
+                            Yes              No  X
+                                ---             ---
+
+                       Documents Incorporated by Reference
+
+The distribution reports to security holders filed on Form 8-K during the fiscal
+year in lieu of reports on Form 10-Q, which includes the reports filed on Form
+8-K listed in Item 15(b) hereto.
+
+                                Introductory Note
+
+Structured Products Corp. (the "Depositor") is the depositor under the Base
+Trust Agreement, dated as of December 15, 2000, as supplemented by the CorTS
+Supplement 2001-1, dated as of January 19, 2001, by and between the Depositor
+and U.S. Bank Trust National Association, as Trustee (the "Trustee"), providing
+for the issuance of the CorTS Trust For Peco Energy Capital Trust III,
+Corporate-Backed Trust Securities (CorTS) Certificates (the "Certificates") and
+is the depositor for the Certificates (the "Registrant"). The Certificates do
+not represent obligations of or interests in the Depositor or the Trustee.
+
+The issuer(s) of the underlying securities, or guarantor thereof, or successor
+thereto, as applicable, is subject to the information reporting requirements of
+the Securities Exchange Act of 1934, as amended (the "Exchange Act"). For
+information on the issuer(s) of the underlying securities, or guarantor thereof,
+or successor thereto, as applicable, please see its periodic and current reports
+filed with the Securities and Exchange Commission (the "Commission"). Such
+reports and other information required to be filed pursuant to the Exchange Act,
+by the issuer(s) of the underlying securities, or guarantor thereof, or
+successor thereto, as applicable, may be inspected and copied at the public
+reference facilities maintained by the Commission at 450 Fifth Street, N.W.,
+Washington, D.C. 20549. The Commission also maintains a site on the World Wide
+Web at "http://www.sec.gov" at which users can view and download copies of
+reports, proxy and information statements and other information filed
+electronically through the Electronic Data Gathering, Analysis and Retrieval
+system, or "EDGAR." Neither the Depositor nor the Trustee has participated in
+the preparation of such reporting documents, or made any due diligence
+investigation with respect to the information provided therein. Neither the
+Depositor nor the Trustee has verified the accuracy or completeness of such
+documents or reports. There can be no assurance that events affecting the
+issuer(s) of the underlying securities, or guarantor thereof, or successor
+thereto, as applicable, or the underlying securities have not occurred or have
+not yet been publicly disclosed that would affect the accuracy or completeness
+of the publicly available documents described above. The chart below lists each
+trust, the issuer(s) or guarantor, or successor thereto, of the related
+underlying security, and its respective Exchange Act file numbers, if
+applicable.
+
+--------------------------------------------------- ----------------------------
+Underlying Securities Issuer(s) or Guarantor, or     Exchange Act File Number
+                successor thereto
+
+--------------------------------------------------- ----------------------------
+Peco Energy Company                                 000-16844
+--------------------------------------------------- ----------------------------
+
+
+
+<PAGE>
+
+
+                                     PART I
+
+Item 1.    Business
+
+           None
+
+Item 1A.   Risk Factors
+
+           Not applicable
+
+Item 1B.   Unresolved Staff Comments
+
+           Not applicable
+
+Item 2.    Properties
+
+           None
+
+Item 3.    Legal Proceedings
+
+           None
+
+Item 4.    Submission of Matters To A Vote of Security Holders
+
+           None
+
+
+                                     PART II
+
+Item 5.    Market for Registrant's Common Equity, Related Stockholder Matters
+           and Issuer Purchases of Equity Securities
+
+           The Certificates representing investors' interest in the Trusts are
+           represented by one or more physical Certificates registered in the
+           name of Cede & Co., the nominee of The Depository Trust Company.
+
+           The Certificates are listed on the New York Stock Exchange.
+
+
+Item 6.    Selected Financial Data
+
+           None
+
+Item 7.    Management's Discussion and Analysis of Financial Condition and
+           Results of Operations
+
+           Not Applicable
+
+Item 7A.   Quantitative and Qualitative Disclosures About Market Risk
+
+           Not applicable
+
+Item 8.    Financial Statements and Supplementary Data
+
+           None
+
+Item 9.    Changes In and Disagreements With Accountants on Accounting and
+           Financial Disclosure
+
+           None
+
+Item 9A.   Controls and Procedures
+
+           Not applicable
+
+Item 9B.   Other Information
+
+           Not applicable
+
+
+                                    PART III
+
+Item 10.   Directors and Executive Officers of the Registrant
+
+           None
+
+<PAGE>
+
+
+Item 11.   Executive Compensation
+
+           Not Applicable
+
+Item 12.   Security Ownership of Certain Beneficial Owners and Management and
+           Related Stockholder Matters
+
+           Information required by Item 201(d) of Regulation S-X: Not applicable
+           Information required by Item 403 of Regulation S-X: None
+
+Item 13.   Certain Relationships and Related Transactions
+
+           None
+
+Item 14.   Principal Accounting Fees and Services
+
+           Not Applicable
+
+
+                                     PART IV
+
+Item 15.   Exhibits, Financial Schedules
+
+(a) The following documents are also filed as part of this Report:
+
+    3. Exhibits:
+
+
+       31.1      Certification by Assistant Secretary, Assistant Vice
+                 President and Finance Officer of the Registrant pursuant to
+                 15 U.S.C. Section 7241, as adopted pursuant to Section 302 of
+                 the Sarbanes-Oxley Act of 2002.
+
+       99.1      Annual Compliance Report by Trustee.
+
+
+(b) The following reports on Form 8-K were filed during the period covered by
+this report and are hereby incorporated by reference:
+
+             1.    Trustee's Distribution Statement for the May 2, 2005
+                   Distribution Date filed on Form 8-K on May 16, 2005.
+
+             2.    Trustee's Distribution Statement for the October 31, 2005
+                   Distribution Date filed on Form 8-K on 2. November 15, 2005.
+
+
+(c) See item 15(a)(3) above.
+
+
+
+<PAGE>
+
+
+
+                                   SIGNATURES
+
+
+
+     Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the Registrant has duly caused this report to be signed on
+its behalf by the undersigned thereunto duly authorized.
+
+                                Structured Products Corp., as depositor for the
+                                  Trusts (the "Registrant")
+
+
+
+
+Dated:  March 24, 2006          By:    /s/ Mark C. Graham
+                                       -----------------------------------
+                                Name:  Mark C. Graham
+                                Title: Assistant Secretary, Assistant Vice
+                                       President and Finance Officer
+
+
+
+<PAGE>
+
+
+                                                                    Exhibit 31.1
+
+
+                                  CERTIFICATION
+
+
+I, Mark C. Graham, certify that:
+
+1. I have reviewed this annual report on Form 10-K, and all reports on Form 8-K
+containing distribution or servicing reports filed in respect of periods
+included in the year covered by this annual report, of Structured Products
+Corp., on behalf of CorTS Trust For Peco Energy Capital Trust III;
+
+2. Based on my knowledge, the information in these reports, taken as a whole,
+does not contain any untrue statement of a material fact or omit to state a
+material fact necessary to make the statements made, in light of the
+circumstances under which such statements were made, not misleading as of the
+last day of the period covered by this annual report;
+
+3. Based on my knowledge, the distribution or servicing information required to
+be provided to the depositor by the trustee under the pooling and servicing, or
+similar agreement, for inclusion in these reports is included in these reports;
+and
+
+4. I am responsible for reviewing the activities performed by the depositor and
+the trustee under the pooling and servicing, or similar agreement and based
+upon my knowledge and the annual compliance review required under that
+agreement, and except as disclosed in the reports, the depositor and trustee
+have each fulfilled its obligations under that agreement.
+
+In giving the certifications above, I have reasonably relied on information
+provided to me by the following unaffiliated parties: U.S. Bank Trust National
+Association.
+
+
+                        By:     /s/ Mark C. Graham
+                                ---------------------------------------------
+                        Name:   Mark C. Graham
+                        Title:  Assistant Secretary, Assistant Vice President
+                                and Finance Officer
+                        Date:   March 24, 2006
+
+
+<PAGE>
+
+
+                                                                    Exhibit 99.1
+
+
+                            ANNUAL COMPLIANCE REPORT
+
+         The undersigned, being an officer of U.S. Bank Trust National
+Association, as trustee (the "Trustee"), with respect to CorTS Trust For Peco
+Energy Capital Trust III, on whose behalf Structured Products Corp. has prepared
+this annual report on Form 10-K for the fiscal year ended December 31, 2005 (the
+"Annual Report"), certifies as follows:
+
+1. The Trustee is the trustee under the trust agreement.
+
+2. Based on my knowledge, for the periods included in the year covered by the
+Annual Report, the Trustee has fulfilled its obligations, including any
+servicing obligations, under the trust agreement.
+
+
+
+                                /s/ Marlene Fahey
+                                -------------------------
+                                Name:   Marlene Fahey
+                                Title:  Vice President
+                                Date:   March 24, 2006
+
+
+
+<PAGE>
+
+
+                                  EXHIBIT INDEX
+
+Exhibit                                                                   Page
+  31.1       Certification by Assistant Secretary, Assistant Vice
+             President and Finance Officer of the Registrant pursuant
+             to 15 U.S.C. Section 7241, as adopted pursuant to Section
+             302 of the Sarbanes-Oxley Act of 2002.
+
+  99.1       Annual Compliance Report by Trustee pursuant to 15 U.S.C.
+             Section 7241.
+
+
+
+
+
+</TEXT>
+</DOCUMENT>

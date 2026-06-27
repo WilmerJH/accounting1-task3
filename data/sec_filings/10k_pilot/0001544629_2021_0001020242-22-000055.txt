@@ -1,0 +1,675 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>ubs2012c1_10k.htm
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+
+
+<P STYLE="font: bold 17pt Times New Roman,serif; margin: 6pt 0 0; text-align: center"></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 2pt solid; border-bottom: Black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: bold 17pt Times New Roman,serif; margin: 6pt 0 0; text-align: center">UNITED STATES<BR>
+SECURITIES AND EXCHANGE COMMISSION</P>
+
+<P STYLE="font: bold 12pt Times New Roman,serif; margin: 3pt 0 0; text-align: center">Washington, D.C. 20549</P>
+
+<P STYLE="font: bold 17pt Times New Roman,serif; margin: 6pt 0 0; text-align: center">FORM 10-K</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 0 0 0 0.25in; text-indent: -0.25in">(Mark One)</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: bold 12pt Times New Roman,serif; margin-top: 12pt; margin-bottom: 6pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.25in">&#9745;</TD><TD STYLE="text-align: center">ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934</TD></TR></TABLE>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0; text-align: center">For the fiscal year ended December 31, 2021<BR>
+<BR>
+or</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: bold 12pt Times New Roman,serif; margin-top: 6pt; margin-bottom: 6pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.25in">&#9744;</TD><TD STYLE="text-align: center"><FONT STYLE="font-size: 11.5pt">TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+ACT OF 1934</FONT></TD></TR></TABLE>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0; text-align: center">For the transition period from _____ to _____<BR>
+<BR>
+Commission file number of the issuing entity: 333-177354-01</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0; text-align: center">Central Index Key Number of the issuing entity: 0001544629</P>
+
+<P STYLE="font: bold 20pt Times New Roman,serif; margin: 0; text-align: center">UBS Commercial Mortgage Trust 2012-C1</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0; text-align: center">(exact name of the issuing entity as specified in its charter)</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0; text-align: center">Central Index Key Number of the depositor: 0001532799</P>
+
+<P STYLE="font: bold 20pt Times New Roman,serif; margin: 0; text-align: center">UBS Commercial Mortgage Securitization Corp.</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0; text-align: center">(exact name of the depositor as specified in its charter)</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0; text-align: center">Central Index Key Number of the sponsor: 0001541886</P>
+
+<P STYLE="font: bold 20pt Times New Roman,serif; margin: 0; text-align: center">UBS Real Estate Securities Inc.</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0; text-align: center">(exact name of the sponsor as specified in its charter)</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0; text-align: center">Central Index Key Number of the sponsor: 0000312070</P>
+
+<P STYLE="font: bold 20pt Times New Roman,serif; margin: 0; text-align: center">Barclays Bank PLC</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0; text-align: center">(exact name of the sponsor as specified in its charter)</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0; text-align: center">Central Index Key Number of the sponsor: 0001682523</P>
+
+<P STYLE="font: bold 20pt Times New Roman,serif; margin: 0; text-align: center">Starwood Mortgage Funding II LLC</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0; text-align: center">(exact name of the sponsor as specified in its charter)</P>
+
+<P STYLE="font: bold 20pt Times New Roman,serif; margin: 0; text-align: center">(formerly known as Archetype Mortgage Funding II LLC)</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0; text-align: center">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="width: 50%; padding-right: 5.75pt; padding-left: 5.75pt">
+    <P STYLE="font: bold 9pt Times New Roman,serif; margin: 0; text-align: center">New York<BR>
+    <FONT STYLE="font-size: 8pt">(State or other jurisdiction of<BR>
+    incorporation or organization of</FONT></P>
+    <P STYLE="font: bold 8pt Times New Roman,serif; margin: 0; text-align: center">the issuing entity)</P></TD>
+    <TD STYLE="width: 50%; padding-right: 5.75pt; padding-left: 5.75pt">
+    <P STYLE="font: bold 9pt Times New Roman,serif; margin: 0; text-align: center">45-5186367</P>
+    <P STYLE="font: bold 9pt Times New Roman,serif; margin: 0; text-align: center">45-5480507</P>
+    <P STYLE="font: bold 9pt Times New Roman,serif; margin: 0; text-align: center">46-6155120</P>
+    <P STYLE="font: bold 8pt Times New Roman,serif; margin: 0; text-align: center">(I.R.S. Employer</P>
+    <P STYLE="font: bold 8pt Times New Roman,serif; margin: 0; text-align: center">Identification Numbers)</P></TD></TR>
+  </TABLE>
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0; text-align: center"><BR>
+c/o Deutsche Bank Trust Company Americas</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0; text-align: center">as Certificate Administrator</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0; text-align: center">1761 East St. Andrew Place</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0; text-align: center">Santa Ana, CA</P>
+
+<P STYLE="font: bold 8pt Times New Roman,serif; margin: 0; text-align: center">(Address of principal executive offices of the issuing
+entity)</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 12pt 0 0; text-align: center">92705</P>
+
+<P STYLE="font: bold 8pt Times New Roman,serif; margin: 0; text-align: center">(Zip Code)</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 12pt 0 0; text-align: center">Registrant&#8217;s telephone number, including area
+code:</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0; text-align: center">(212) 713-2000</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Securities registered pursuant to Section 12(b) of the Act:</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 33%; border-bottom: Black 1pt solid; font: 9pt Times New Roman,serif; border-right: Black 1pt solid; padding-top: 10pt; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">Title of each class</TD>
+    <TD STYLE="width: 34%; border-bottom: Black 1pt solid; font: 9pt Times New Roman,serif; border-right: Black 1pt solid; padding-top: 10pt; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">Trading Symbol(s)</TD>
+    <TD STYLE="width: 33%; border-bottom: Black 1pt solid; font: 9pt Times New Roman,serif; padding-top: 10pt; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">Name of each exchange on which registered</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; font: 9pt Times New Roman,serif; padding-top: 10pt; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">None</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; font: 9pt Times New Roman,serif; padding-top: 10pt; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; font: 9pt Times New Roman,serif; padding-top: 10pt; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD></TR>
+  </TABLE>
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Securities registered pursuant to Section 12(g) of the Act: None.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Indicate by check mark if the registrant is a well-known seasoned issuer,
+as defined in Rule 405 of the Securities Act. &#9744;&nbsp;Yes&nbsp;&nbsp;&#9745;&nbsp;No</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Indicate by check mark if the registrant is not required to file reports
+pursuant to Section 13 or Section 15(d) of the Act. &#9744;&nbsp;Yes&nbsp;&nbsp;&#9745;&nbsp;No</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that
+the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. &#9745;&nbsp;Yes&nbsp;&nbsp;&#9744;&nbsp;No</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Indicate by check mark whether the registrant has submitted electronically
+and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of
+Regulation S-T (Section 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required
+to submit and post such files).</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 12pt 0 0; text-align: center">Not applicable.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Indicate by check mark if disclosure of delinquent filers pursuant to Item
+405 of Regulation S-K (Section 229.405 of this chapter) is not contained herein, and will not be contained, to the best of registrant&#8217;s
+knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 12pt 0 0; text-align: center">Not applicable.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Indicate by check mark whether the registrant is a large accelerated filer,
+an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of &#8220;large
+accelerated filer,&#8221; &#8220;accelerated filer,&#8221; &#8220;smaller reporting company,&#8221; and &#8220;emerging growth company&#8221;
+in Rule 12b-2 of the Exchange Act.</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; border-collapse: collapse; font-size: 9pt">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 17%; padding-top: 10pt; font-family: Times New Roman,serif">Large accelerated filer</TD>
+    <TD STYLE="width: 46%; padding-top: 10pt; font-family: Times New Roman,serif">&#9744;</TD>
+    <TD STYLE="width: 26%; padding-top: 10pt; font-family: Times New Roman,serif">Accelerated filer</TD>
+    <TD STYLE="width: 11%; padding-top: 10pt; font-family: Times New Roman,serif">&#9744;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-top: 10pt; font-family: Times New Roman,serif">Non-accelerated filer</TD>
+    <TD STYLE="padding-top: 10pt; font-family: Times New Roman,serif">&#9745; (Do not check if a smaller reporting company) </TD>
+    <TD STYLE="padding-top: 10pt; font-family: Times New Roman,serif">Smaller reporting company</TD>
+    <TD STYLE="padding-top: 10pt; font-family: Times New Roman,serif">&#9744;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-top: 10pt; font-family: Times New Roman,serif">&nbsp;</TD>
+    <TD STYLE="padding-top: 10pt; font-family: Times New Roman,serif">&nbsp;</TD>
+    <TD STYLE="padding-top: 10pt; font-family: Times New Roman,serif">Emerging growth company</TD>
+    <TD STYLE="padding-top: 10pt; font-family: Times New Roman,serif">&#9744;</TD></TR>
+  </TABLE>
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">If an emerging growth company, indicate by check mark if the registrant has
+elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant
+to Section 13(a) of the Exchange Act. &#9744;</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Indicate by check mark whether the registrant has filed a report on and attestation
+to its management&#8217;s assessment of the effectiveness of its internal control over financial reporting under Section 404(b) of the
+Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or issued its audit report. &#9744;</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Indicate by check mark whether the registrant is a shell company (as defined
+in Rule 12b-2 of the Act). &#9744;&nbsp;Yes&nbsp;&nbsp;&#9745;&nbsp;No</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">State the aggregate market value of the voting and non-voting common equity
+held by non-affiliates computed by reference to the price at which the common equity was last sold, or the average bid and asked price
+of such common equity, as of the last business day of the registrant&#8217;s most recently completed second fiscal quarter.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 12pt 0 0; text-align: center">Not applicable.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Indicate by check mark whether the registrant has filed all documents and
+reports required to be filed by Section 12, 13 or 15(d) of the Securities Exchange Act of 1934 subsequent to the distribution of securities
+under a plan confirmed by a court. &#9744;&nbsp;Yes&nbsp;&nbsp;&#9744;&nbsp;No</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 12pt 0 0; text-align: center">Not applicable.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Indicate the number of shares outstanding of each of the registrant&#8217;s
+classes of common stock, as of the latest practicable date.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 12pt 0 0; text-align: center">Not applicable.</P>
+
+
+
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 12pt 0 0; text-align: center"><B>DOCUMENTS INCORPORATED BY REFERENCE</B></P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">List hereunder the following documents if incorporated by reference and the
+Part of the Form 10-K (e.g., Part I, Part II, etc.) into which the document is incorporated: (1) Any annual report to security holders;
+(2) Any proxy or information statement; and (3) Any prospectus filed pursuant to Rule 424(b) or (c) under the Securities Act of 1933.
+The listed documents should be clearly described for identification purposes (e.g., annual report to security holders for fiscal year
+ended December 24, 1980).</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 6pt; text-align: center">Not applicable.</P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin-top: 1pt; margin-bottom: 1pt; width: 100%"><DIV STYLE="font-size: 1.5pt; border-top: Black 1.5pt solid; border-bottom: Black 1.5pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-bottom: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 12pt 0 0; text-align: center"><B>EXPLANATORY NOTES</B></P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">The Exhibit Index describes exhibits provided by certain parties (in their
+capacities indicated on the Exhibit Index) with respect to the Poughkeepsie Galleria Mortgage Loan, which constituted approximately 6.4%
+of the asset pool of the issuing entity as of its cut-off date.&nbsp; The Poughkeepsie Galleria Mortgage Loan is an asset of the issuing
+entity and is part of a loan combination that includes the Poughkeepsie Galleria Mortgage Loan and one other pari passu loan, which is
+not an asset of the issuing entity. The other pari passu portion of the loan combination was securitized in the UBS-Citigroup Commercial
+Mortgage Trust 2011-C1 transaction, Commission File Number 333-166711-01 (the &#8220;<U>UBS-Citigroup 2011-C1 Transaction</U>&#8221;).
+This loan combination, including the Poughkeepsie Galleria Mortgage Loan, is being serviced and administered pursuant to the pooling and
+servicing agreement for the UBS-Citigroup 2011-C1 Transaction, which is incorporated by reference as Exhibit 4.2 to this Annual Report
+on Form 10-K.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">The master servicer of a pooling and servicing agreement or trust and servicing
+agreement also functions as the primary servicer of the related mortgage loans serviced and administered pursuant to such agreement unless
+a separate primary servicer is identified herein. If this report does not identify a separate primary servicer, the servicer compliance
+statement provided by the master servicer under any such agreement also encompasses its responsibilities as primary servicer of the related
+mortgage loan or mortgage loans.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">KeyBank National Association (as successor to KeyCorp Real Estate Capital
+Markets, Inc.) (&#8220;<U>KeyBank</U>&#8221;), is the primary servicer of four of the mortgage loans serviced under the Pooling and Servicing
+Agreement and of the Poughkeepsie Galleria Mortgage Loan. These mortgage loans, in the aggregate, constituted more than 10% of the asset
+pool of the issuing entity as of its cut-off date. Thus, KeyBank is a &#8220;servicer,&#8221; as defined in Item 1108(a)(2)(iii) of Regulation
+AB, with respect to these mortgage loans. The assessments of compliance with applicable servicing criteria, accountants&#8217; attestation
+reports and servicer compliance statements delivered by KeyBank in the capacities described above are listed in the Exhibit Index.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Rialto Capital Advisors, LLC is the special servicer of the mortgage loans
+serviced under the Pooling and Servicing Agreement and the Poughkeepsie Galleria Mortgage Loan. As a result, Rialto Capital Advisors,
+LLC is a &#8220;servicer&#8221; as defined in Item 1108(a)(2)(iii) of Regulation AB, in the capacities described above, because it is
+servicing mortgage loans that constituted 10% or more of the assets of the issuing entity as of its cut-off date. The assessments of compliance
+with applicable servicing criteria, accountants&#8217; attestation reports and servicer compliance statements delivered by Rialto Capital
+Advisors, LLC in the capacities described above are listed in the Exhibit Index.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">This Annual Report on Form 10-K includes assessments of compliance with applicable
+servicing criteria and accountants&#8217; attestation reports from CoreLogic Solutions, LLC.&nbsp; This entity was engaged by the master
+servicer under the Pooling and Servicing Agreement (except with respect to those mortgage loans for which KeyBank National Association
+(as successor to KeyCorp Real Estate Capital Markets, Inc.) is the primary servicer) to remit tax payments received from the escrow accounts
+of borrowers to local taxing authorities, to report tax amounts due, to verify tax parcel information, and to verify non-escrow tax payments.
+These servicing functions are included within the servicing criteria set forth in Items 1122(d)(4)(xi) and 1122(d)(4)(xii) of Regulation
+AB.&nbsp; Therefore, under the principles-based definition of &#8220;servicer&#8221; set forth in Item 1101(j) of Regulation AB that looks
+to the functions that an entity performs, this vendor is a &#8220;servicer&#8221; for the purposes of Item 1122 of Regulation AB.&nbsp;
+<U>See</U> Compliance and Disclosure Interpretations, Section 301.01 (Item 1101(j)).</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">The assessment of compliance with applicable servicing criteria, accountants&#8217;
+attestation report and servicer compliance statement of the certificate administrator of the Poughkeepsie Galleria Mortgage Loan is omitted
+from this Annual Report on Form 10-K as the certificate administrator pursuant to the related pooling and servicing agreement or trust
+and servicing agreement does not perform any activities that address servicing criteria with respect to the issuing entity and because
+it is not a &#8220;servicer&#8221; that meets the criteria in Item 1108(a)(2)(i) through (iii) of Regulation AB.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 12pt 0 0; text-align: center"><B>PART I</B></P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0.25in 0 0">Item 1. Business.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Omitted.</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0.25in 0 0">Item 1A. Risk Factors.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Omitted.</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0.25in 0 0">Item 1B. Unresolved Staff Comments.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">None.</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0.25in 0 0">Item 2. Properties.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Omitted.</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0.25in 0 0">Item 3. Legal Proceedings.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Omitted.</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0.25in 0 0">Item 4. Mine Safety Disclosures.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Not applicable.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 12pt 0 0; text-align: center"><B>PART II</B></P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0.25in 0 0">Item 5. Market for Registrant&#8217;s Common Equity, Related Stockholder
+Matters and Issuer Purchases of Equity Securities.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Omitted.</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0.25in 0 0">Item 6. Selected Financial Data.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Omitted.</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0.25in 0 0">Item 7. Management&#8217;s Discussion and Analysis of Financial Condition
+and Results of Operations.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Omitted.</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0.25in 0 0">Item 7A. Quantitative and Qualitative Disclosures About Market Risk.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Omitted.</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0.25in 0 0">Item 8. Financial Statements and Supplementary Data.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Omitted.</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0.25in 0 0">Item 9. Changes in and Disagreements With Accountants on Accounting
+and Financial Disclosure.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Omitted.</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0.25in 0 0">Item 9A. Controls and Procedures.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Omitted.</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0.25in 0 0">Item 9B. Other Information.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">None.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 12pt 0 0; text-align: center"><B>PART III</B></P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0.25in 0 0">Item 10. Directors, Executive Officers and Corporate Governance.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Omitted.</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0.25in 0 0">Item 11. Executive Compensation.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Omitted.</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0.25in 0 0">Item 12. Security Ownership of Certain Beneficial Owners and Management
+and Related Stockholder Matters.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Omitted.</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0.25in 0 0">Item 13. Certain Relationships and Related Transactions, and Director
+Independence.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Omitted.</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0.25in 0 0">Item 14. Principal Accounting Fees and Services.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Omitted.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 12pt 0 0; text-align: center"><B>ADDITIONAL DISCLOSURE ITEMS FOR REGULATION AB</B></P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0.25in 0 0">Item 1112(b) of Regulation AB, Significant Obligor Financial Information.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">No single obligor represents 10% or more of the pool assets held by the issuing
+entity.</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0.25in 0 0">Item 1114(b)(2) of Regulation AB, Significant Enhancement Provider
+Financial Information.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 0.25in 0 0"><FONT STYLE="font-weight: normal">No entity or group of affiliated entities
+provides any external credit enhancement or other support for the certificates within this transaction as described under Item 1114(a)
+of Regulation AB.</FONT></P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0.25in 0 0">Item 1115(b) of Regulation AB, Certain Derivatives Instruments (Financial
+Information).</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">No entity or group of affiliated entities provides any derivative instruments
+or other support for the certificates within this transaction as described under Item 1115 of Regulation AB.</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0.25in 0 0">Item 1117 of Regulation AB, Legal Proceedings.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">The registrant knows of no material pending legal proceeding involving the
+trust or any party related to the trust, other than routine litigation incidental to the duties of those respective parties, and the following,
+with respect to Deutsche Bank Trust Company Americas, as Trustee, Certificate Administrator and Custodian.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Deutsche Bank Trust Company Americas (&#8220;<U>DBTCA</U>&#8221;) and Deutsche
+Bank National Trust Company (&#8220;<U>DBNTC</U>&#8221;) have been sued by investors in civil litigation concerning their roles as trustees
+of certain residential mortgage-backed securities (&#8220;<U>RMBS</U>&#8221;) trusts.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">On June 18, 2014, a group of investors, including funds managed by Blackrock
+Advisors, LLC, PIMCO-Advisors, L.P., and others, filed an action against DBNTC and DBTCA in New York State Supreme Court alleging that
+DBNTC and DBTCA failed to perform purported duties, as trustees for 544 private-label RMBS trusts, to enforce breaches of representations
+and warranties as to mortgage loans held by the trusts and to enforce breaches by servicers of their mortgage loan servicing obligations
+for the trusts. During the course of the litigation, plaintiffs dismissed the case from New York State Supreme Court and refiled two separate
+cases, one in the U.S. District Court for the Southern District of New York (the &#8220;<U>BlackRock SDNY Case</U>&#8221;) and the other
+in the Superior Court of California, Orange County (the &#8220;<U>BlackRock California Case</U>&#8221;). Pursuant to a settlement among
+the parties, the BlackRock SDNY Case was dismissed on December 6, 2018, and the BlackRock California Case was dismissed on January 11,
+2019.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">On September 27, 2017, DBTCA was added as a defendant to a case brought by
+certain special purpose entities including Phoenix Light SF Limited in the U.S. District Court for the Southern District of New York,
+in which the plaintiffs previously alleged incorrectly that DBNTC served as trustee for all forty-three of the trusts at issue. On September
+27, 2017, plaintiffs filed a third amended complaint that names DBTCA as a defendant in addition to DBNTC. DBTCA serves as trustee for
+one of the forty-three trusts at issue. DBNTC serves as trustee for the other forty-two trusts at issue. Plaintiffs&#8217; third amended
+complaint brings claims for violation of the U.S. Trust Indenture Act of 1939 (&#8220;<U>TIA</U>&#8221;); breach of contract; breach of
+fiduciary duty; negligence and gross negligence; violation of New York&#8217;s Streit Act; and breach of the covenant of good faith. However,
+in the third amended complaint, plaintiffs acknowledge that, before DBTCA was added to the case, the court dismissed plaintiffs&#8217;
+TIA Act claims, negligence and gross negligence claims, Streit Act claims, claims for breach of the covenant of good faith, and certain
+theories of plaintiffs&#8217; breach of contract claims, and plaintiffs only include these claims to preserve any rights on appeal. Plaintiffs
+allege damages of &#8220;hundreds of millions of dollars.&#8221; On November 13, 2017, DBNTC and DBTCA filed an answer to the third amended
+complaint. On December 7, 2018, DBNTC and DBTCA filed a motion for summary judgment. Also on December 7, 2018, plaintiffs, jointly with
+Commerzbank AG (see description of Commerzbank case below), filed a motion for partial summary judgment. On October 27, 2021, DBNTC and
+DBTCA filed a supplemental motion for summary judgment relating to plaintiffs&#8217; standing. On February 8, 2022, the court issued an
+order in which it granted DBNTC and DBTCA&#8217;s supplemental motion for summary judgment, granted in part DBNTC and DBTCA&#8217;s initial
+motion for summary judgment, and denied plaintiffs&#8217; motion for partial summary judgment. As a result of that order, all of plaintiffs&#8217;
+claims were dismissed with prejudice.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">On November 30, 2017, DBTCA was added as a defendant to a case brought by
+Commerzbank AG (&#8220;<U>Commerzbank</U>&#8221;) in the U.S. District Court for the Southern District of New York, in which Commerzbank
+previously alleged incorrectly that DBNTC served as trustee for all fifty of the trusts at issue. On November 30, 2017, Commerzbank filed
+a second amended complaint that names DBTCA as a defendant in addition to DBNTC. DBTCA serves as trustee for one of the fifty trusts at
+issue. DBNTC serves as trustee for the other forty-nine trusts at issue. Commerzbank&#8217;s second amended complaint brings claims for
+violation of the TIA; breach of contract; breach of fiduciary duty; negligence; violation of the Streit Act; and breach of the covenant
+of good faith. However, in the second amended complaint, Commerzbank acknowledges that, before DBTCA was added to the case, the court
+dismissed Commerzbank&#8217;s TIA claims for the trusts governed by pooling and servicing agreements, as well as its Streit Act claims
+and claims for breach of the covenant of good faith, and Commerzbank only includes these claims to preserve any rights on appeal. The
+second amended complaint alleges that DBNTC and DBTCA caused Commerzbank to suffer &#8220;hundreds of millions of dollars in losses,&#8221;
+but the complaint does not include a demand for money damages in a sum certain. On January 29, 2018, DBNTC and DBTCA filed an answer to
+the second amended complaint. On December 7, 2018, DBNTC and DBTCA filed a motion for summary judgment. Also on December 7, 2018, Commerzbank,
+jointly with the Phoenix Light plaintiffs, filed a motion for partial summary judgment. On February 8, 2022, the court issued an order
+in which it granted in part DBNTC and DBTCA&#8217;s motion for summary judgment and denied plaintiffs&#8217; motion for partial summary
+judgment. As a result of that order, many of plaintiffs&#8217; claims and theories were dismissed with prejudice. Discovery is ongoing.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">On December 30, 2015, IKB International, S.A. in Liquidation and IKB Deutsche
+Industriebank A.G. (collectively, &#8220;<U>IKB</U>&#8221;), as an investor in thirty-seven RMBS trusts, filed a summons with notice in
+the Supreme Court of the State of New York, New York County, against DBNTC and DBTCA as trustees of the trusts. On May 27, 2016, IKB served
+its complaint asserting claims for breach of contract, breach of fiduciary duty, breach of duty to avoid conflicts of interest, violation
+of the Streit Act, violation of the TIA, violation of Regulation AB, and violation of Section 9 of the Uniform Commercial Code. IKB alleges
+that DBNTC and DBTCA are liable for over U.S. $268 million in damages. On October 5, 2016, DBNTC and DBTCA, together with several other
+trustees defending lawsuits by IKB, filed a joint motion to dismiss. On January 6, 2017 and June 20, 2017, IKB voluntarily dismissed with
+prejudice all claims as to seven trusts. On January 27, 2021, the court granted in part and denied in part DBNTC and DBTCA&#8217;s motion
+to dismiss. The court granted the motion to dismiss with respect to IKB&#8217;s claims for violations of the Streit Act, Regulation AB,
+and Section 9 of the Uniform Commercial Code, as well as certain aspects of IKB&#8217;s claims for breach of contract, breach of fiduciary
+duty, and violation of the TIA. The court denied the remainder of the motion to dismiss. IKB&#8217;s remaining claims for breach of contract,
+breach of fiduciary duty, breach of duty to avoid conflicts of interest, and violation of the TIA will proceed. On May 10, 2021, DBNTC
+and DBTCA filed a notice of appeal with the New York Supreme Court Appellate Division, First Department, regarding certain aspects of
+the court&#8217;s order on the motion to dismiss. That appeal has been fully briefed. On May 20, 2021, IKB filed a notice of cross appeal
+with respect to other aspects of that order. That appeal is being briefed. On June 2, 2021, IKB filed a motion for re-argument regarding
+certain aspects of the court&#8217;s order on the motion to dismiss, which the court denied on August 3, 2021. On May 13, 2021, DBNTC
+and DBTCA filed an answer to the complaint. On October 28, 2021, the parties filed a stipulation, voluntarily dismissing with prejudice
+all claims as to seven additional trusts. On December 29, 2021, the parties filed a stipulation, voluntarily dismissing with prejudice
+all claims as to one additional trust. Discovery is ongoing.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">It is DBTCA&#8217;s belief that it has no pending legal proceedings (including,
+based on DBTCA&#8217;s present evaluation, the litigation disclosed in the foregoing paragraphs) that would materially affect its ability
+to perform its duties under the related servicing agreement for this transaction.</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0.25in 0 0">Item 1119 of Regulation AB, Affiliations and Certain Relationships
+and Related Transactions.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">The information regarding this Item has been previously provided in a prospectus
+supplement of the Registrant relating to the issuing entity filed on May 7, 2012 pursuant to Rule 424(b)(5).</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0.25in 0 0">Item 1122 of Regulation AB, Compliance with Applicable Servicing Criteria.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">The reports on assessments of compliance with the servicing criteria for
+asset-backed securities and related attestation reports on such assessments of compliance with respect to the mortgage loans are attached
+hereto under Item 15 to this Annual Report on Form 10-K. Attached as Schedule II to the Pooling and Servicing Agreement incorporated by
+reference as Exhibit 4.1 to this Annual Report on Form 10-K is a chart identifying the entities participating in a servicing function
+for the transaction responsible for each applicable servicing criteria set forth in Item 1122(d).</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">The report on assessments of compliance with the servicing criteria for asset-backed
+securities and related attestation report on such assessment of compliance with respect to the Poughkeepsie Galleria Mortgage Loan, which
+is being serviced and administered pursuant to the pooling and servicing agreement for the UBS-Citigroup 2011-C1 Transaction, are attached
+hereto under Item 15 to this Annual Report on Form 10-K. Attached as Schedule II to the pooling and servicing agreement for the UBS-Citigroup
+2011-C1 Transaction incorporated by reference as Exhibit 4.2 to this Annual Report on Form 10-K is a chart identifying the entities participating
+in a servicing function for the UBS-Citigroup 2011-C1 Transaction responsible for each applicable servicing criteria set forth in Item
+1122(d).</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0.25in 0 0">Item 1123 of Regulation AB, Servicer Compliance Statement.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">The servicer compliance statements are attached as Exhibits to this Annual
+Report on Form 10-K.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 12pt 0 0; text-align: center"><B>PART IV</B></P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0.25in 0 0">Item 15. Exhibits, Financial Statement Schedules</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">(a) The following is a list of documents filed as part of this Annual Report
+on Form 10-K:</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0 0.75in; text-indent: -0.5in">(1) Not applicable</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0 0.75in; text-indent: -0.5in">(2) Not applicable</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0 0.75in; text-indent: -0.5in">(3) See below</P>
+
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">4.1</TD><TD><A HREF="https://www.sec.gov/Archives/edgar/data/1544629/000153949712000161/exhibit-4.htm">Pooling and Servicing Agreement, dated
+as of May 1, 2012, by and among UBS Commercial Mortgage Securitization Corp., as Depositor, Wells Fargo Bank, National Association, as
+Master Servicer, Midland Loan Services, a Division of PNC Bank, National Association, as Special Servicer, Deutsche Bank Trust Company
+Americas, as Trustee, Certificate Administrator, Paying Agent and Custodian, and TriMont Real Estate Advisors, Inc., as Operating Advisor
+(filed as Exhibit 4 to the registrant&#8217;s Current Report on Form 8-K, filed on November 15, 2012 under Commission File No. 333-177354-01
+and incorporated by reference herein).</A></TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">4.2</TD><TD><A HREF="https://www.sec.gov/Archives/edgar/data/1536226/000152153611000561/q1100310_ex4.htm">Pooling and Servicing Agreement, dated
+as of December 1, 2011, by and among Citigroup Commercial Mortgage Securities Inc., as Depositor, Wells Fargo Bank, National Association,
+as Master Servicer, Midland Loan Services, a Division of PNC Bank, National Association, as Special Servicer, Deutsche Bank Trust Company
+Americas, as Trustee, Certificate Administrator, Paying Agent, and Custodian, and TriMont Real Estate Advisors Inc., as Operating Advisor
+(filed as Exhibit 4 to Citigroup Commercial Mortgage Securities Inc.&#8217;s Current Report on Form 8-K, filed on December 29, 2011 under
+Commission File No. 333-166711-01 and incorporated by reference herein)</A>, as amended by <A HREF="https://www.sec.gov/Archives/edgar/data/1536226/000102024213000017/ex42psaamend.txt">Amendment
+No. 1 to Pooling and Servicing Agreement, dated as of June 6, 2012, by and among Citigroup Commercial Mortgage Securities Inc., as Depositor,
+Wells Fargo Bank, National Association, as Master Servicer, Midland Loan Services, a Division of PNC Bank, National Association, as Special
+Servicer, Deutsche Bank Trust Company Americas, as Trustee, Certificate Administrator, Paying Agent and Custodian, and TriMont Real Estate
+Advisors, Inc., as Operating Advisor (filed as Exhibit 4.2 to Citigroup Commercial Mortgage Securities Inc.&#8217;s Annual Report on Form
+10-K, filed on March 29, 2013 under Commission File No. 333-166711-01 and incorporated by reference herein).</A></TD></TR></TABLE>
+
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">31</TD><TD><a STYLE="-sec-extract:exhibit" href="ex31.htm">Rule 13a-14(d)/15d-14(d) Certifications.</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33</TD><TD>Reports on assessment of compliance with servicing criteria for asset-backed securities.</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.1</TD><TD><a STYLE="-sec-extract:exhibit" href="ex331.htm">Wells Fargo Bank, National Association, as Master Servicer</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.2</TD><TD><a STYLE="-sec-extract:exhibit" href="ex332.htm">Rialto Capital Advisors, LLC, as Special Servicer</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.3</TD><TD><a STYLE="-sec-extract:exhibit" href="ex333.htm">Deutsche Bank Trust Company Americas, as Trustee, Certificate Administrator and Custodian</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.4</TD><TD><a STYLE="-sec-extract:exhibit" href="ex334.htm">TriMont Real Estate Advisors, Inc., as Operating Advisor</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.5</TD><TD><a STYLE="-sec-extract:exhibit" href="ex335.htm">CoreLogic Solutions, LLC, as Servicing Function Participant</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.6</TD><TD><a STYLE="-sec-extract:exhibit" href="ex336.htm">KeyBank National Association, as Primary Servicer</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.7</TD><TD><a STYLE="-sec-extract:exhibit" href="ex336.htm">KeyBank National Association (as successor to KeyCorp Real Estate Capital Markets, Inc.), as Primary Servicer of the Poughkeepsie
+Galleria Mortgage Loan (see Exhibit 33.6)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.8</TD><TD><a STYLE="-sec-extract:exhibit" href="ex332.htm">Rialto Capital Advisors, LLC, as Special Servicer of the Poughkeepsie Galleria Mortgage Loan (see Exhibit 33.2)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.9</TD><TD><a STYLE="-sec-extract:exhibit" href="ex333.htm">Deutsche Bank Trust Company Americas, as Trustee and Custodian of the Poughkeepsie Galleria Mortgage Loan (see Exhibit 33.3)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.10</TD><TD><a STYLE="-sec-extract:exhibit" href="ex334.htm">TriMont Real Estate Advisors, Inc., as Operating Advisor of the Poughkeepsie Galleria Mortgage Loan (see Exhibit 33.4)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34</TD><TD>Attestation reports on assessment of compliance with servicing criteria for asset-backed securities.</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.1</TD><TD><a STYLE="-sec-extract:exhibit" href="ex341.htm">Wells Fargo Bank, National Association, as Master Servicer</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.2</TD><TD><a STYLE="-sec-extract:exhibit" href="ex342.htm">Rialto Capital Advisors, LLC, as Special Servicer</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.3</TD><TD><a STYLE="-sec-extract:exhibit" href="ex343.htm">Deutsche Bank Trust Company Americas, as Trustee, Certificate Administrator and Custodian</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.4</TD><TD><a STYLE="-sec-extract:exhibit" href="ex344.htm">TriMont Real Estate Advisors, Inc., as Operating Advisor</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.5</TD><TD><a STYLE="-sec-extract:exhibit" href="ex345.htm">CoreLogic Solutions, LLC, as Servicing Function Participant</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.6</TD><TD><a STYLE="-sec-extract:exhibit" href="ex346.htm">KeyBank National Association, as Primary Servicer</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.7</TD><TD><a STYLE="-sec-extract:exhibit" href="ex346.htm">KeyBank National Association (as successor to KeyCorp Real Estate Capital Markets, Inc.), as Primary Servicer of the Poughkeepsie
+Galleria Mortgage Loan (see Exhibit 34.6)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.8</TD><TD><a STYLE="-sec-extract:exhibit" href="ex342.htm">Rialto Capital Advisors, LLC, as Special Servicer of the Poughkeepsie Galleria Mortgage Loan (see Exhibit 34.2)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.9</TD><TD><a STYLE="-sec-extract:exhibit" href="ex343.htm">Deutsche Bank Trust Company Americas, as Trustee and Custodian of the Poughkeepsie Galleria Mortgage Loan (see Exhibit 34.3)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.10</TD><TD><a STYLE="-sec-extract:exhibit" href="ex344.htm">TriMont Real Estate Advisors, Inc., as Operating Advisor of the Poughkeepsie Galleria Mortgage Loan (see Exhibit 34.4)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">35</TD><TD>Servicer compliance statements.</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">35.1</TD><TD><a STYLE="-sec-extract:exhibit" href="ex351.htm">Wells Fargo Bank, National Association, as Master Servicer</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">35.2</TD><TD><a STYLE="-sec-extract:exhibit" href="ex352.htm">Rialto Capital Advisors, LLC, as Special Servicer</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">35.3</TD><TD><a STYLE="-sec-extract:exhibit" href="ex353.htm">Deutsche Bank Trust Company Americas, as Certificate Administrator</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">35.4</TD><TD><a STYLE="-sec-extract:exhibit" href="ex354.htm">KeyBank National Association, as Primary Servicer</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">35.5</TD><TD><a STYLE="-sec-extract:exhibit" href="ex354.htm">KeyBank National Association (as successor to KeyCorp Real Estate Capital Markets, Inc.), as Primary Servicer of the Poughkeepsie
+Galleria Mortgage Loan (see Exhibit 35.4)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">35.6</TD><TD><a STYLE="-sec-extract:exhibit" href="ex352.htm">Rialto Capital Advisors, LLC, as Special Servicer of the Poughkeepsie Galleria Mortgage Loan (see Exhibit 35.2)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">99.1</TD><TD><A HREF="https://www.sec.gov/Archives/edgar/data/1544629/000153949712000161/exhibit-99_1.htm">Mortgage Loan Purchase Agreement, dated
+as of May 8, 2012, between UBS Real Estate Securities Inc. and UBS Commercial Mortgage Securitization Corp. (filed as Exhibit 99.1 to
+the registrant&#8217;s Current Report on Form 8-K filed on November 15, 2012 under Commission File No. 333-177354-01 and incorporated
+by reference herein)</A></TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">99.2</TD><TD><A HREF="https://www.sec.gov/Archives/edgar/data/1544629/000153949712000161/exhibit-99_2.htm">Mortgage Loan Purchase Agreement, dated
+as of May 8, 2012, between Barclays Bank PLC and UBS Commercial Mortgage Securitization Corp. (filed as Exhibit 99.2 to the registrant&#8217;s
+Current Report on Form 8-K filed on November 15, 2012 under Commission File No. 333-177354-01 and incorporated by reference herein)</A></TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">99.3</TD><TD><A HREF="https://www.sec.gov/Archives/edgar/data/1544629/000153949712000161/exhibit-99_3.htm">Mortgage Loan Purchase Agreement, dated
+as of May 8, 2012, between Archetype Mortgage Funding II LLC and UBS Commercial Mortgage Securitization Corp. (filed as Exhibit 99.3 to
+the registrant&#8217;s Current Report on Form 8-K filed on November 15, 2012 under Commission File No. 333-177354-01 and incorporated
+by reference herein)</A></TD></TR></TABLE>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The exhibits required to be
+filed by the Registrant pursuant to Item 601 of Regulation S-K are listed above.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Applicable.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">&nbsp;</P>
+
+
+<!-- Field: Page; Sequence: 2 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; padding-bottom: 2pt; border-bottom: rgb(98,145,178) 2pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt">&nbsp;</DIV>
+    <!-- Field: /Page -->
+
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0.25in 0 0">SIGNATURES</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange
+Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 12pt 4.5in 0 0">UBS Commercial Mortgage Securitization Corp.<BR>
+(Depositor)</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 12pt 0 0; border-bottom: Black 0.5pt solid; width:3in">/s/ Nicholas Galeone</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 0 4.5in 0 0">Nicholas Galeone, President</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 0 4.5in 0 0">(senior officer in charge of securitization of the depositor)</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 12pt 4.5in 0 0">Date: March 16, 2022</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 12pt 0 0; border-bottom: Black 0.5pt solid; width:3in">/s/ Andrew Lisa</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 0 4.5in 0 0">Andrew Lisa, Associate Director</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 12pt 0 0">Date: March 16, 2022</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 12pt 0 0">&nbsp;</P>
+
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>

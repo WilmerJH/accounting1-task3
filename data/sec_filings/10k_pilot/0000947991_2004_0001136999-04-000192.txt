@@ -1,0 +1,245 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>form10k.htm
+<DESCRIPTION>FORM 10-K
+<TEXT>
+<HTML>
+<HEAD>
+<META HTTP EQUIV="Content-Type" CONTENT="text/html; charset=windows-1252">
+<META NAME="Generator" CONTENT="Microsoft Word 97">
+<TITLE>UNITED STATES</TITLE>
+</HEAD>
+<BODY>
+
+<FONT SIZE=2><P>UNITED STATES</P>
+<P>SECURITIES AND EXCHANGE COMMISSION</P>
+<P>Washington, D.C. 20549</P>
+<P> </P>
+<P>FORM 10 K</P>
+
+<P>[X] ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE </P>
+<P>ACT OF 1934 </P>
+<P>For the fiscal year ended December 31, 2003</P>
+
+<P>Or</P>
+
+<P>[ ] TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES AND EXCHANGE ACT OF 1934</P>
+
+<P>For the transition period from ________to _______</P>
+
+<P>Commission file number 333 100695</P>
+
+<P>GMAC Commercial Mortgage Securities, Inc.</P>
+<P>(Exact name of registrant as specified in its charter)</P>
+
+<P>Delaware</P>
+<P>(State or other jurisdiction of incorporation or organization)</P>
+
+<P>23 2811925</P>
+<P>(I.R.S. Employer Identification No.)</P>
+<P> </P>
+<P>200 Witmer Road, Horsham, Pennsylvania</P>
+<P>(Address of principal executive offices)</P>
+<P> </P>
+<P>19044</P>
+<P>(Zip Code)</P>
+<P>Registrant's telephone number, including area code: 215 328 3164</P>
+
+<P>Securities registered pursuant to Section 12(b) of the Act: None</P>
+
+<P>Indicate by check mark whether the registrant (1) has filed all reports required </P>
+<P>to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during </P>
+<P>the preceding 12 months (or for such shorter period that the registrant was </P>
+<P>required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.</P>
+<P> </P>
+<P>Yes [ X ] No [ ]</P>
+<P> </P>
+<P>Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 </P>
+<P>of Regulation S K (~229.405 of this chapter)is not contained herein, and will not be contained, to the best of registrant's knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form 10 K or any amendment to this Form 10 K. </P>
+
+<P>Not Applicable </P>
+<P> </P>
+<P>Indicate by check mark whether the registrant is an accelerated filer (as defined in Rule 12b-2 of the Act).</P>
+
+<P>Yes [ ] No [ X ]</P>
+
+<P>State the aggregate market value of the voting and non voting common equity held by non affiliates computed by reference to the price at which the common equity was last sold, or the average bid and asked price of such common equity, as of the last business day of the registrant's most recently completed second fiscal quarter.</P>
+
+<P>Note.  If a determination as to whether a particular person or entity is an affiliate cannot be made without involving unreasonable effort and expense, the aggregate market value of the common stock held by non-affiliates may be calculated on the basis of assumptions reasonable under the circumstances, provided that the assumptions are set forth in the Form.</P>
+<P> </P>
+<P>Not Applicable </P>
+
+<P>APPLICABLE ONLY TO REGISTRANTS INVOLVED IN BANKRUPTCY</P>
+<P>PROCEEDINGS DURING THE PRECEDING FIVE YEARS:</P>
+
+<P>Indicate by check mark whether the registrant has filed all documents and reports required to be filed by Section 12, 13 or 15(d) of the Securities Exchange Act of 1934 subsequent to the distribution of securities under a plan confirmed by a court.</P>
+
+<P>Not Applicable</P>
+
+<P>&nbsp;</P>
+<P>(APPLICABLE ONLY TO CORPORATE REGISTRANTS)</P>
+
+<P>Indicate the number of shares outstanding of each of the registrant's classes of </P>
+<P>common stock, as of the latest practicable date.</P>
+<P> </P>
+<P>Not Applicable</P>
+
+<P>DOCUMENTS INCORPORATED BY REFERENCE</P>
+
+<P>List hereunder the following documents if incorporated by reference and the Part of the Form 10 K (e.g., Part I, Part II, etc.) into which the document is incorporated: (1) Any annual report to security holders: (2) Any proxy or information statement: and (3) Any prospectus filed pursuant to Rule 424(b) or (c) under the Securities Act of 1933. The listed documents should be clearly described for identification purposes (e.g., annual report to security holders for fiscal year ended December 24, 1980).</P>
+
+<P> </P>
+
+<P> </P>
+<B><P>PART I </P>
+<P>Item 1. Business.</P>
+</B>
+<P>Not applicable</P>
+
+<B><P>Item 2. Properties.</P>
+</B>
+<P>Not applicable</P>
+
+<B><P>Item 3. Legal Proceedings.</P>
+</B>
+<P>The registrant knows of no material pending legal proceedings involving</P>
+<P>the trust created under the Pooling and Servicing Agreement (the Trust), </P>
+<P>the Trustee, the Master Servicer or the registrant with respect to the Trust </P>
+<P>other than routine litigation incidental to the duties of the respective</P>
+<P>parties.</P>
+
+<B><P>Item 4. Submission of Matters to a Vote of Security Holders.</P>
+</B>
+<P>None. </P>
+<P> </P>
+<P> </P>
+<P>PART II </P>
+<B><P>Item 5. Market for Registrant's Common Equity and Related Stockholder </P>
+<P>Matters.</P>
+</B><P>Currently, there is no established trading market for the Certificates known to the Registrant.  </P>
+<P>There was an aggregate of 48 holders of record for the registered certificates (Classes A-1, A-2, B, C, D and E) of Mortgage Pass-Through Certificates Series 2003 C1. Holders of record by class were 18 holders for Class A 1; 19 holders for class A 2;  5 holders for Class B;  2 holders for Class C; 3 holders for Class D and  1 holder for Class E.  The calculation of holders of record was based upon the number of individual participants in the security position listing provided by DTC as of December 31, 2003. </P>
+<P> </P>
+<B><P>Item 6. Selected Financial Data.</P>
+</B>
+<P>Not applicable. </P>
+<P> </P>
+<B><P>Item 7. Management's Discussion and Analysis of Financial Condition and </P>
+<P>Results of Operation.</P>
+</B>
+<P>Not applicable. </P>
+<P> </P>
+<B><P>Item 7A. Quantitative and Qualitative Disclosures About Market Risk.</P>
+</B>
+<P>Not applicable. </P>
+<P> </P>
+<B><P>Item 8. Financial Statements and Supplementary Data.</P>
+</B>
+<P>Not applicable.</P>
+<P> </P>
+<B><P>Item 9. Changes in and Disagreements With Accountants on Accounting and </P>
+<P>Financial Disclosure.</P>
+</B>
+<P>None. </P>
+<P> </P>
+<B><P>Item 9A. Controls and Procedures.</P>
+
+</B><P>Not applicable.</P>
+
+<P> </P>
+<B><P>PART III </P>
+<P>Item 10. Directors and Executive Officers of the Registrant.</P>
+</B>
+<P>Not applicable. </P>
+<P> </P>
+<B><P>Item 11. Executive Compensation.</P>
+</B>
+<P>Not applicable. </P>
+<P> </P>
+<B><P>Item 12. Security Ownership of Certain Beneficial Owners and Management.</P>
+</B>
+<P>The number of holders of record for each registered class holding 5% or more of the </P>
+<P>outstanding balance of such class of certificates as of the end of the reporting period </P>
+<P>is reflected in Exhibit 99.5.  </P>
+<P> </P>
+<B><P>Item 13. Certain Relationships and Related Transactions.</P>
+</B>
+<P>Not applicable. </P>
+<P> </P>
+<B><P><A NAME="OLE_LINK1">Item 14. Principal Accounting Fees and Services.</P>
+</B>
+<P>Not applicable. </P>
+<P></A></P>
+<P> </P>
+<B><P>PART IV</P>
+</B><P> </P>
+<B><P>Item 15. Exhibits, Financial Statement Schedules, and Reports on Form 8 K.</P>
+<OL TYPE="A">
+
+</B><LI>Exhibits</LI></OL>
+
+
+<P>(99.1) Annual Independent Accountant's Servicing Report for the year ended </P>
+<P>December 31, 2003.</P>
+<P>a) GMAC Commercial Mortgage Corporation, as Master Servicer and Special Servicer</P>
+
+<P>(99.2) Report of Management as to compliance with minimum servicing standards </P>
+<P>for the year ended December 31, 2003.</P>
+<P>a) GMAC Commercial Mortgage Corporation, as Master Servicer and Special Servicer</P>
+
+<P>(99.3) Annual Statement of Compliance for the year ended December 31, 2003.</P>
+<P>a) GMAC Commercial Mortgage Corporation, as Master Servicer</P>
+<P>b) GMAC Commercial Mortgage Corporation, as Special Servicer</P>
+
+<P>(99.4) Aggregate Statement of Principal and Interest Distributions to </P>
+<P>Certificateholders as of December 31, 2003.</P>
+
+<P>(99.5) Report of holders of record holding 5% or more of the outstanding balance of</P>
+<P>each registered class as of the end of the reporting period for 2003.</P>
+<P> </P>
+<P>(B)&#9;Reports on Form 8 K were filed during the last quarter of 2003 in order to provide statements for the monthly distributions to investors on October 10, 2003, November 10, 2003 and December 10, 2003.</P>
+<P> </P>
+<P>SIGNATURES</P>
+
+<P>Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange </P>
+<P>Act of 1934, the registrant has duly caused this report to be signed on its </P>
+<P>behalf by the undersigned, thereunto duly authorized.</P>
+<P> </P>
+<P>GMAC Commercial Mortgage Securities, Inc. by LaSalle Bank National Association, as Trustee for GMAC Commercial Mortgage Securities, Inc., Mortgage Pass-Through Certificates, Series 2003-C1 as Attorney in Fact</P>
+<P> </P>
+<P>By: /s/ <U>Cynthia Reis</U>                                   </P>
+<P>Cynthia Reis</P>
+<P>Senior Vice President</P>
+<P>Date:  March <U>30</U>, 2004</P>
+
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+</FONT><FONT FACE="Courier New" SIZE=2><P> </P>
+</FONT><FONT SIZE=2><P ALIGN="CENTER">Certification</P>
+<P ALIGN="CENTER"></P>
+<P ALIGN="CENTER">GMAC Commercial Mortgage Securities, Inc.</P>
+<P ALIGN="CENTER">Commercial Mortgage Pass-Through Certificates</P>
+<P ALIGN="CENTER">Series 2003-C1</P>
+<P ALIGN="CENTER"></P>
+<P ALIGN="CENTER">&nbsp;</P>
+<P ALIGN="JUSTIFY">I, Maria Corpora, certify that: </P>
+<P ALIGN="JUSTIFY"></P>
+<OL>
+
+<LI>I have reviewed this annual report on Form 10-K, and all reports on Form 8-K containing distribution date reports filed in respect of periods included in the year covered by this annual report, of the trust (the "Trust") created pursuant to the Pooling and Servicing Agreement, dated as of May 1, 2003 (the "Pooling and Servicing Agreement"), among GMAC Commercial Mortgage Securities, Inc., as depositor, GMAC Commercial Mortgage Corporation, as master servicer (the "Master Servicer") and as special servicer (the "Special Servicer"), LaSalle Bank National Association, as trustee (the "Trustee") and ABN AMRO Bank N.V., as fiscal agent (the "Fiscal Agent");</LI>
+<P ALIGN="JUSTIFY"><LI>Based on my knowledge, the information in these reports, taken as a whole, does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading as of the last day of the period covered by this annual report;</LI></P>
+<P ALIGN="JUSTIFY"><LI>Based on my knowledge, the servicing information required to be provided to the trustee by the Master Servicer and the Special Servicer under the Pooling and Servicing Agreement is included in these reports;</LI></P>
+<P ALIGN="JUSTIFY"><LI>I am responsible for reviewing the activities performed by the Master Servicer and the Special Servicer under the Pooling and Servicing Agreement and based upon the review required under the Pooling and Servicing Agreement, and except as disclosed in the report, the Master Servicer and the Special Servicer have fulfilled their obligations under the Pooling and Servicing Agreement; and</LI></P>
+<P ALIGN="JUSTIFY"><LI>I have disclosed to the Trust's certified public accountants all significant deficiencies relating to the Master Servicer's or Special Servicer's compliance with the minimum servicing standards in accordance with a review conducted in compliance with the Uniform Single Attestation Program for Mortgage Bankers or similar standard as set forth in the Pooling and Servicing Agreement.</LI></P></OL>
+
+<P ALIGN="JUSTIFY">Date: March 30, 2004</P>
+<P ALIGN="JUSTIFY">/s/ <U>Maria Corpora</P>
+</U><P ALIGN="JUSTIFY">Maria Corpora</P>
+<P ALIGN="JUSTIFY">Vice President and Assistant Secretary</P>
+
+</FONT><FONT FACE="Courier New" SIZE=2><P> </P>
+</FONT></BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>

@@ -1,0 +1,692 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>ahfc-10k_20180331.htm
+<DESCRIPTION>10-K
+<TEXT>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>
+ahfc-10k_20180331.htm
+</title>
+</head>
+<!-- NG Converter v5.0.18092.123 -->
+<body>
+
+<p style="margin-bottom:0pt;margin-top:0pt;border-bottom:Double 2.25pt;padding-bottom:1pt;text-indent:0%;font-weight:bold;;font-size:1pt;">&nbsp;</p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-size:15pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">UNITED STATES</p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-size:15pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">SECURITIES AND EXCHANGE COMMISSION</p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-size:15pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">Washington, D.C. 20549</p>
+<p style="text-align:center;margin-bottom:4pt;margin-top:0pt;border-bottom:Solid 0.75pt;padding-bottom:1pt;margin-left:33.33%;margin-right:33.33%;text-indent:0%;font-size:3pt;">&nbsp;</p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-size:15pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">FORM 10-K</p>
+<p style="text-align:center;margin-bottom:4pt;margin-top:0pt;border-bottom:Solid 0.75pt;padding-bottom:1pt;margin-left:33.33%;margin-right:33.33%;text-indent:0%;font-size:3pt;">&nbsp;</p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-size:9pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">ANNUAL REPORT</p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-size:9pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">PURSUANT TO SECTION 13 OR 15(d)</p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-size:9pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">OF THE SECURITIES EXCHANGE ACT OF 1934</p>
+<p style="margin-bottom:0pt;margin-top:4pt;text-indent:0%;font-weight:bold;font-size:8pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">(Mark One)</p>
+<div align="left">
+<table border="0" cellspacing="0" cellpadding="0"  style="border-collapse:collapse; width:100%;">
+<tr>
+<td valign="top" style="width:4.54%;white-space:nowrap">
+<p style="margin-bottom:0pt;margin-top:0pt;font-weight:bold;font-size:8pt;font-family:MS Mincho;font-style:normal;text-transform:none;font-variant: normal;"><font style="font-weight:bold;font-size:8pt;font-family:MS Mincho;font-style:normal;text-transform:none;font-variant: normal;">&#9746;</font></p></td>
+<td valign="top">
+<p style="margin-bottom:0pt;margin-top:0pt;font-weight:bold;font-style:normal;text-transform:none;font-variant: normal;font-family:MS Mincho;font-size:8pt;"><font style="font-family:Times New Roman;">ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934</font></p></td></tr></table></div>
+<p style="text-align:center;margin-bottom:0pt;margin-top:4pt;text-indent:0%;font-weight:bold;font-size:8pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">For the fiscal year ended March 31, 2018</p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:4pt;text-indent:0%;font-weight:bold;font-size:8pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">OR</p>
+<div align="left">
+<table border="0" cellspacing="0" cellpadding="0"  style="border-collapse:collapse; width:100%;">
+<tr>
+<td valign="top" style="width:4.54%;white-space:nowrap">
+<p style="margin-bottom:0pt;margin-top:3pt;font-weight:bold;font-size:8pt;font-family:MS Mincho;font-style:normal;text-transform:none;font-variant: normal;"><font style="font-weight:bold;font-size:8pt;font-family:MS Mincho;font-style:normal;text-transform:none;font-variant: normal;">&#9744;</font></p></td>
+<td valign="top">
+<p style="margin-bottom:0pt;margin-top:3pt;font-weight:bold;font-style:normal;text-transform:none;font-variant: normal;font-family:MS Mincho;font-size:8pt;"><font style="font-weight:normal;"></font><font style="font-family:Times New Roman;">TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 </font></p></td></tr></table></div>
+<p style="text-align:center;margin-bottom:0pt;margin-top:3pt;text-indent:0%;font-weight:bold;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">For the transition period from <font style="text-decoration:underline;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</font> to <font style="text-decoration:underline;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</font></p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:3pt;text-indent:0%;font-weight:bold;font-size:12pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">333-205883-07</p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:3pt;text-indent:0%;font-weight:bold;font-size:8pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">(Commission File Number of issuing entity)</p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:3pt;text-indent:0%;font-weight:bold;font-size:15pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">Honda Auto Receivables 2017-3 Owner Trust</p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:3pt;text-indent:0%;font-size:8pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">(Exact name of issuing entity specified in its charter)</p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:3pt;text-indent:0%;font-size:12pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Central Index Key Number of issuing entity: 0001715362</p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:3pt;text-indent:0%;font-weight:bold;font-size:12pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">333-205883<br /><font style="font-size:8pt;font-weight:normal;">(Commission File Number of depositor)</font></p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:3pt;text-indent:0%;font-weight:bold;font-size:14pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">American Honda Receivables LLC</p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:3pt;text-indent:0%;font-size:8pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">(Exact name of depositor as specified in its charter)</p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:3pt;text-indent:0%;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Central Index Key Number of depositor: 0000890975</p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:3pt;text-indent:0%;font-weight:bold;font-size:14pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">American Honda Finance Corporation</p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:8pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">(Exact name of sponsor as specified in its charter)</p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Central Index Key Number of sponsor: 0000864270</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:4pt;">&nbsp;</p>
+<div>
+<table border="0" cellspacing="0" cellpadding="0" align="center" style="border-collapse:collapse; width:100%;">
+<tr>
+<td valign="top"  style="width:50%;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;font-size:8pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">Delaware</p></td>
+<td valign="top"  style="width:50%;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;font-size:8pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">82-6503419</p></td>
+</tr>
+<tr>
+<td valign="top"  style="width:50%;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:8pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">(State or other jurisdiction of organization<br />of the issuing entity)</p></td>
+<td valign="top"  style="width:50%;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:8pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">(I.R.S. Employer Identification No.)</p></td>
+</tr>
+</table></div>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:3pt;">&nbsp;</p>
+<div>
+<table border="0" cellspacing="0" cellpadding="0" align="center" style="border-collapse:collapse; width:100%;">
+<tr>
+<td valign="top"  style="width:50%;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;font-size:8pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">c/o American Honda Receivables LLC</p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;font-size:8pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">20800 Madrona Avenue Torrance, CA</p></td>
+<td valign="bottom"  style="width:50%;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;font-size:8pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">90503</p></td>
+</tr>
+<tr>
+<td valign="top"  style="width:50%;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:8pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">(Address of principal executive offices of the issuing entity)</p></td>
+<td valign="top"  style="width:50%;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:8pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">(Zip Code)</p></td>
+</tr>
+</table></div>
+<p style="text-align:center;margin-bottom:0pt;margin-top:3pt;text-indent:0%;font-weight:bold;font-size:8pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">(310) 972-2511</p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:3pt;text-indent:0%;font-size:8pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">(Telephone number, including area code)</p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:3pt;text-indent:0%;font-weight:bold;font-size:8pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">Securities registered pursuant to Section 12(b) of the Act: None</p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:3pt;text-indent:0%;font-weight:bold;font-size:8pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">Securities registered pursuant to Section 12(g) of the Act: None</p>
+<p style="margin-bottom:0pt;margin-top:3pt;text-indent:0%;font-size:8pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act.&#160;&#160;&#160;&#160;Yes<font style="text-decoration:underline;">&#160;&#160;</font><font style="font-family:MS Mincho;">&#9744;</font>&#160;&#160;&#160;&#160;No<font style="text-decoration:underline;">&#160;&#160;</font> <font style="font-family:MS Mincho;">&#9746;</font></p>
+<p style="margin-bottom:0pt;margin-top:3pt;text-indent:0%;font-size:8pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act.&#160;&#160;&#160;&#160;&#160;Yes<font style="text-decoration:underline;">&#160;&#160;&#160;</font><font style="font-family:MS Mincho;">&#9744;</font>&#160;&#160;&#160;&#160;&#160;No<font style="text-decoration:underline;">&#160;&#160;&#160;</font><font style="font-family:MS Mincho;">&#9746;</font></p>
+<p style="margin-bottom:0pt;margin-top:3pt;text-indent:0%;font-size:8pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.&#160;&#160;&#160;&#160;&#160;Yes&#160;&#160;&#160;<font style="font-family:MS Mincho;">&#9746;</font>&#160;&#160;&#160;&#160;&#160;No&#160;&#160;&#160;<font style="font-family:MS Mincho;">&#9744;</font></p>
+<p style="margin-bottom:0pt;margin-top:3pt;text-indent:0%;font-size:8pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files).&#160;&#160;&#160;&#160;&#160;Yes&#160;&#160;&#160;<font style="font-family:MS Mincho;">&#9746;</font>&#160;&#160;&#160;&#160;&#160;No&#160;&#160;&#160;<font style="font-family:MS Mincho;">&#9744;</font></p>
+<p style="margin-bottom:0pt;margin-top:3pt;text-indent:0%;font-size:8pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K is not contained herein, and will not be contained, to the best of registrant&#8217;s knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form 10-K or any amendment to this Form 10-K.&#160;&#160;&#160;&#160;&#160;<font style="font-family:MS Mincho;">&#9746;</font></p>
+<p style="margin-bottom:0pt;margin-top:3pt;text-indent:0%;font-size:8pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging growth company.&nbsp;&nbsp;See the definitions of &#8220;large accelerated filer,&#8221; &#8220;accelerated filer,&#8221; &#8220;smaller reporting company,&#8221; and &#8220;emerging growth company&#8221; in Rule 12b-2 of the Exchange Act.&#160;&#160;&#160;&#160;&#160;(Check one):</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:3pt;">&nbsp;</p>
+<div>
+<table border="0" cellspacing="0" cellpadding="0" align="center" style="border-collapse:collapse; width:100%;">
+<tr>
+<td valign="top"  style="width:47%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:8pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Large Accelerated Filer</p></td>
+<td valign="top"  style="width:3%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:8pt;font-family:MS Mincho;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#9744;</p></td>
+<td valign="top"  style="width:47%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:8pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Accelerated Filer</p></td>
+<td valign="top"  style="width:3%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:8pt;font-family:MS Mincho;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#9744;</p></td>
+</tr>
+<tr>
+<td valign="top"  style="width:47%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:8pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Non-Accelerated Filer</p></td>
+<td valign="top"  style="width:3%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:8pt;font-family:MS Mincho;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#9746;</p></td>
+<td valign="top"  style="width:47%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:8pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Smaller Reporting Company</p></td>
+<td valign="top"  style="width:3%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:8pt;font-family:MS Mincho;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#9744;</p></td>
+</tr>
+<tr>
+<td valign="top"  style="width:47%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:8pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Emerging Growth Company</p></td>
+<td valign="top"  style="width:3%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:8pt;font-family:MS Mincho;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#9744;</p></td>
+<td valign="top"  style="width:47%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:8pt;">&nbsp;</p></td>
+<td valign="top"  style="width:3%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:8pt;">&nbsp;</p></td>
+</tr>
+</table></div>
+<p style="margin-bottom:0pt;margin-top:3pt;text-indent:0%;font-size:8pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.&#160;&#160;&#160;&#160;&#160;<font style="font-family:MS Mincho;">&#9744;</font></p>
+<p style="margin-bottom:0pt;margin-top:3pt;text-indent:0%;font-size:8pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).&#160;&#160;&#160;&#160;&#160;Yes&#160;&#160;&#160;<font style="font-family:MS Mincho;">&#9744;</font>&#160;&#160;&#160;&#160;&#160;No&#160;&#160;&#160;<font style="font-family:MS Mincho;">&#9746;</font></p>
+<p style="margin-bottom:0pt;margin-top:3pt;text-indent:0%;font-size:8pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Registrant has no voting or non-voting class of common equity outstanding and held by nonaffiliates as of the date of this report, or as of the last business day of the registrant&#8217;s most recently completed second fiscal quarter.</p>
+<p style="border-bottom:Double 2.25pt;padding-bottom:1pt;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:6pt;">&nbsp;</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:3pt;">&nbsp;</p>
+<hr style="page-break-after:always;width:100%;">
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;"><a name="_AEIOULastRenderedPageBreakAEIOU2"></a><font style="font-weight:bold;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">PART I</font></p>
+<p style="margin-bottom:0pt;margin-top:12pt;text-indent:0%;font-weight:bold;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">The following items have been omitted in accordance with General Instruction J to Form 10-K:</p>
+<div align="left">
+<table border="0" cellspacing="0" cellpadding="0"  style="border-collapse:collapse; width:100%;">
+<tr>
+<td valign="top" style="width:4.17%;white-space:nowrap">
+<p style="margin-bottom:0pt;margin-top:12pt;font-weight:bold;font-style:normal;text-transform:none;font-variant: normal;font-family:Times New Roman;font-size:10pt;">&nbsp;</p></td>
+<td valign="top" style="width:8.33%;white-space:nowrap">
+<p style="margin-bottom:0pt;margin-top:12pt;font-weight:bold;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;"><font style="font-weight:bold;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">(a)</font></p></td>
+<td valign="top">
+<p style="margin-bottom:0pt;margin-top:12pt;font-weight:bold;font-style:normal;text-transform:none;font-variant: normal;font-family:Times New Roman;font-size:10pt;">Item 1, Business</p></td></tr></table></div>
+<div align="left">
+<table border="0" cellspacing="0" cellpadding="0"  style="border-collapse:collapse; width:100%;">
+<tr>
+<td valign="top" style="width:4.17%;white-space:nowrap">
+<p style="margin-bottom:0pt;margin-top:0pt;font-weight:bold;font-style:normal;text-transform:none;font-variant: normal;font-family:Times New Roman;font-size:10pt;">&nbsp;</p></td>
+<td valign="top" style="width:8.33%;white-space:nowrap">
+<p style="margin-bottom:0pt;margin-top:0pt;font-weight:bold;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;"><font style="font-weight:bold;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">(b)</font></p></td>
+<td valign="top">
+<p style="margin-bottom:0pt;margin-top:0pt;font-weight:bold;font-style:normal;text-transform:none;font-variant: normal;font-family:Times New Roman;font-size:10pt;">Item 1A, Risk Factors</p></td></tr></table></div>
+<div align="left">
+<table border="0" cellspacing="0" cellpadding="0"  style="border-collapse:collapse; width:100%;">
+<tr>
+<td valign="top" style="width:4.17%;white-space:nowrap">
+<p style="margin-bottom:0pt;margin-top:0pt;font-weight:bold;font-style:normal;text-transform:none;font-variant: normal;font-family:Times New Roman;font-size:10pt;">&nbsp;</p></td>
+<td valign="top" style="width:8.33%;white-space:nowrap">
+<p style="margin-bottom:0pt;margin-top:0pt;font-weight:bold;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;"><font style="font-weight:bold;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">(c)</font></p></td>
+<td valign="top">
+<p style="margin-bottom:0pt;margin-top:0pt;font-weight:bold;font-style:normal;text-transform:none;font-variant: normal;font-family:Times New Roman;font-size:10pt;">Item 2, Properties</p></td></tr></table></div>
+<div align="left">
+<table border="0" cellspacing="0" cellpadding="0"  style="border-collapse:collapse; width:100%;">
+<tr>
+<td valign="top" style="width:4.17%;white-space:nowrap">
+<p style="margin-bottom:0pt;margin-top:0pt;font-weight:bold;font-style:normal;text-transform:none;font-variant: normal;font-family:Times New Roman;font-size:10pt;">&nbsp;</p></td>
+<td valign="top" style="width:8.33%;white-space:nowrap">
+<p style="margin-bottom:0pt;margin-top:0pt;font-weight:bold;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;"><font style="font-weight:bold;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">(d)</font></p></td>
+<td valign="top">
+<p style="margin-bottom:0pt;margin-top:0pt;font-weight:bold;font-style:normal;text-transform:none;font-variant: normal;font-family:Times New Roman;font-size:10pt;">Item 3, Legal Proceedings</p></td></tr></table></div>
+<div align="left">
+<table border="0" cellspacing="0" cellpadding="0"  style="border-collapse:collapse; width:100%;">
+<tr>
+<td valign="top" style="width:12.5%;white-space:nowrap">
+<p style="margin-top:12pt;margin-bottom:0pt;font-weight:bold;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;"><font style="font-weight:bold;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">Item 1B.</font></p></td>
+<td valign="top">
+<p style="margin-top:12pt;margin-bottom:0pt;font-weight:bold;font-style:normal;text-transform:none;font-variant: normal;font-family:Times New Roman;font-size:10pt;">Unresolved Staff Comments.</p></td></tr></table></div>
+<p style="margin-bottom:0pt;margin-top:10pt;text-indent:0%;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Not applicable</p>
+<div align="left">
+<table border="0" cellspacing="0" cellpadding="0"  style="border-collapse:collapse; width:100%;">
+<tr>
+<td valign="top" style="width:12.5%;white-space:nowrap">
+<p style="margin-top:12pt;margin-bottom:0pt;font-weight:bold;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;"><font style="font-weight:bold;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">Item 4.</font></p></td>
+<td valign="top">
+<p style="margin-top:12pt;margin-bottom:0pt;font-weight:bold;font-style:normal;text-transform:none;font-variant: normal;font-family:Times New Roman;font-size:10pt;">Mine Safety Disclosures.</p></td></tr></table></div>
+<p style="margin-bottom:0pt;margin-top:10pt;text-indent:0%;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Not applicable</p>
+<p style="margin-bottom:0pt;margin-top:12pt;text-indent:0%;font-weight:bold;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">Substitute information provided in accordance with General Instruction J to Form 10-K:</p>
+<p style="margin-bottom:0pt;margin-top:12pt;text-indent:0%;font-weight:bold;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">Item 1112(b) of Regulation AB.&nbsp;&nbsp;&nbsp;&nbsp;Significant Obligors of Pool Assets (<font style="font-style:italic;">Financial Information</font>).</p>
+<p style="margin-bottom:0pt;margin-top:10pt;text-indent:0%;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">No single obligor represents more than 10% of the pool assets held by Honda Auto Receivables 2017-3 Owner Trust (the &#8220;Trust&#8221;). </p>
+<p style="margin-bottom:0pt;margin-top:12pt;text-indent:0%;font-weight:bold;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">Item 1114(b)(2) of Regulation AB.&nbsp;&nbsp;&nbsp;&nbsp;Credit Enhancement and Other Support, Except for Certain Derivatives Instruments (<font style="font-style:italic;">Information Regarding Significant Enhancement Providers</font>).</p>
+<p style="margin-bottom:0pt;margin-top:10pt;text-indent:0%;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">No entity or group of affiliated entities provides any external credit enhancement or other support with respect to either payment on the pool assets held by the Trust or payments on the notes (the &#8220;Notes&#8221;) or certificates (the &#8220;Certificates&#8221;) issued by the Trust. </p>
+<p style="margin-bottom:0pt;margin-top:12pt;text-indent:0%;font-weight:bold;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">Item 1115(b) of Regulation AB.&nbsp;&nbsp;&nbsp;&nbsp;Certain Derivatives Instruments (<font style="font-style:italic;">Financial Information</font>).</p>
+<p style="margin-bottom:0pt;margin-top:10pt;text-indent:0%;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">No entity or group of affiliated entities provides any derivative instruments that are used to alter the payment characteristics of the cashflows from the Trust. </p>
+<p style="margin-bottom:0pt;margin-top:12pt;text-indent:0%;font-weight:bold;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">Item 1117 of Regulation AB.&nbsp;&nbsp;&nbsp;&nbsp;Legal Proceedings.</p>
+<p style="margin-bottom:0pt;margin-top:10pt;text-indent:0%;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">No legal proceedings are pending, and no proceedings are known to be contemplated by governmental authorities, against any of the following companies: American Honda Finance Corporation (the &#8220;Sponsor&#8221;), American Honda Receivables LLC (the &#8220;Depositor&#8221;), or the Trust, or of which any property of the foregoing is the subject, that are or would be material to holders of the Notes or the Certificates. </p>
+<p style="margin-bottom:0pt;margin-top:10pt;text-indent:0%;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">U.S. Bank National Association (the &#8220;Indenture Trustee&#8221;), has provided the information contained in the following paragraphs for purposes of compliance with Regulation AB.</p>
+<p style="margin-bottom:0pt;margin-top:10pt;text-indent:0%;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Since 2014 various plaintiffs or groups of plaintiffs, primarily investors, have filed claims against U.S. Bank National Association (&#8220;U.S. Bank&#8221;), in its capacity as trustee or successor trustee (as the case may be) under certain residential mortgage backed securities ("RMBS") trusts.&nbsp;&nbsp;The plaintiffs or plaintiff groups have filed substantially similar complaints against other RMBS trustees.&nbsp;&nbsp;The complaints against U.S. Bank allege the trustee caused losses to investors as a result of alleged failures by the sponsors, mortgage loan sellers and servicers for these RMBS trusts and assert causes of action based upon the trustee's purported failure to enforce repurchase obligations of mortgage loan sellers for alleged breaches of representations and warranties concerning loan quality.&nbsp;&nbsp;The complaints also assert that the trustee failed to notify securityholders of purported events of default allegedly caused by breaches of servicing standards by mortgage loan servicers and that the trustee purportedly failed to abide by a heightened standard of care following alleged events of default.&nbsp;&nbsp;</p>
+<p style="text-align:center;margin-top:12pt;margin-bottom:0pt;text-indent:0%;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">- 2 -</p>
+<hr style="page-break-after:always;width:100%;">
+<p style="margin-bottom:0pt;margin-top:10pt;text-indent:0%;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;"><a name="_AEIOULastRenderedPageBreakAEIOU3"></a><font style="font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Currently U.S. Bank is a defendant in multiple actions alleging individual or class action claims against the trustee</font><font style="font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;"> with respect to multiple trusts as described above with the most substantial case being:&nbsp;&nbsp;BlackRock Balanced Capital Portfolio et al v. U.S. Bank National Association, No. 605204/2015 (N.Y. Sup. Ct.) (class action alleging claims with respect to approxima</font><font style="font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">tely 770 trusts) and its companion case BlackRock Core Bond Portfolio et al v. U.S Bank National Association, No. 14-cv-9401 (S.D.N.Y.).&nbsp;&nbsp;Some of the trusts implicated in the aforementioned Blackrock cases, as well as other trusts, are involved in actions </font><font style="font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">brought by separate groups of plaintiffs related to no more than 100 trusts per case. </font></p>
+<p style="margin-bottom:0pt;margin-top:10pt;text-indent:0%;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">U.S. Bank cannot assure you as to the outcome of any of the litigation, or the possible impact of these litigations on the trustee or the RMBS trusts. However, U.S. Bank denies liability and believes that it has performed its obligations under the RMBS trusts in good faith, that its actions were not the cause of losses to investors and that it has meritorious defenses, and it intends to contest the plaintiffs&#8217; claims vigorously.&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p style="margin-bottom:0pt;margin-top:10pt;text-indent:0%;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">The Bank of New York Mellon (the &#8220;Owner Trustee&#8221;) and BNY Mellon Trust of Delaware (the &#8220;Delaware Trustee&#8221;) has provided the information contained in the following paragraphs for purposes of compliance with Regulation AB.</p>
+<p style="margin-bottom:0pt;margin-top:10pt;text-indent:0%;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">In the ordinary course of business, The Bank of New York Mellon is named as a defendant in or made a party to pending and potential legal actions. In connection with its role as trustee of certain residential mortgage-backed securitization (&#8220;RMBS&#8221;) transactions, The Bank of New York Mellon has been named as a defendant in a number of legal actions brought by RMBS investors. These lawsuits allege that the trustee had expansive duties under the governing agreements, including the duty to investigate and pursue breach of representation and warranty claims against other parties to the RMBS transactions. While it is inherently difficult to predict the eventual outcomes of pending actions, The Bank of New York Mellon denies liability and intends to defend the litigations vigorously.</p>
+<p style="margin-bottom:0pt;margin-top:10pt;text-indent:0%;font-weight:bold;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">PART II</p>
+<p style="margin-bottom:0pt;margin-top:12pt;text-indent:0%;font-weight:bold;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">The following items have been omitted in accordance with General Instruction J to Form 10-K:</p>
+<div align="left">
+<table border="0" cellspacing="0" cellpadding="0"  style="border-collapse:collapse; width:100%;">
+<tr>
+<td valign="top" style="width:4.17%;white-space:nowrap">
+<p style="margin-bottom:0pt;margin-top:10pt;font-weight:bold;font-style:normal;text-transform:none;font-variant: normal;font-family:Times New Roman;font-size:10pt;">&nbsp;</p></td>
+<td valign="top" style="width:8.33%;white-space:nowrap">
+<p style="margin-bottom:0pt;margin-top:10pt;font-weight:bold;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;"><font style="font-weight:bold;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">(a)</font></p></td>
+<td valign="top">
+<p style="margin-bottom:0pt;margin-top:10pt;font-weight:bold;font-style:normal;text-transform:none;font-variant: normal;font-family:Times New Roman;font-size:10pt;">Item 5, Market for Registrant&#8217;s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities</p></td></tr></table></div>
+<div align="left">
+<table border="0" cellspacing="0" cellpadding="0"  style="border-collapse:collapse; width:100%;">
+<tr>
+<td valign="top" style="width:4.17%;white-space:nowrap">
+<p style="margin-bottom:0pt;margin-top:0pt;font-weight:bold;font-style:normal;text-transform:none;font-variant: normal;font-family:Times New Roman;font-size:10pt;">&nbsp;</p></td>
+<td valign="top" style="width:8.33%;white-space:nowrap">
+<p style="margin-bottom:0pt;margin-top:0pt;font-weight:bold;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;"><font style="font-weight:bold;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">(b)</font></p></td>
+<td valign="top">
+<p style="margin-bottom:0pt;margin-top:0pt;font-weight:bold;font-style:normal;text-transform:none;font-variant: normal;font-family:Times New Roman;font-size:10pt;">Item 6, Selected Financial Data</p></td></tr></table></div>
+<div align="left">
+<table border="0" cellspacing="0" cellpadding="0"  style="border-collapse:collapse; width:100%;">
+<tr>
+<td valign="top" style="width:4.17%;white-space:nowrap">
+<p style="margin-bottom:0pt;margin-top:0pt;font-weight:bold;font-style:normal;text-transform:none;font-variant: normal;font-family:Times New Roman;font-size:10pt;">&nbsp;</p></td>
+<td valign="top" style="width:8.33%;white-space:nowrap">
+<p style="margin-bottom:0pt;margin-top:0pt;font-weight:bold;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;"><font style="font-weight:bold;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">(c)</font></p></td>
+<td valign="top">
+<p style="margin-bottom:0pt;margin-top:0pt;font-weight:bold;font-style:normal;text-transform:none;font-variant: normal;font-family:Times New Roman;font-size:10pt;">Item 7, Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations</p></td></tr></table></div>
+<div align="left">
+<table border="0" cellspacing="0" cellpadding="0"  style="border-collapse:collapse; width:100%;">
+<tr>
+<td valign="top" style="width:4.17%;white-space:nowrap">
+<p style="margin-bottom:0pt;margin-top:0pt;font-weight:bold;font-style:normal;text-transform:none;font-variant: normal;font-family:Times New Roman;font-size:10pt;">&nbsp;</p></td>
+<td valign="top" style="width:8.33%;white-space:nowrap">
+<p style="margin-bottom:0pt;margin-top:0pt;font-weight:bold;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;"><font style="font-weight:bold;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">(d)</font></p></td>
+<td valign="top">
+<p style="margin-bottom:0pt;margin-top:0pt;font-weight:bold;font-style:normal;text-transform:none;font-variant: normal;font-family:Times New Roman;font-size:10pt;">Item 7A, Quantitative and Qualitative Disclosures About Market Risk</p></td></tr></table></div>
+<div align="left">
+<table border="0" cellspacing="0" cellpadding="0"  style="border-collapse:collapse; width:100%;">
+<tr>
+<td valign="top" style="width:4.17%;white-space:nowrap">
+<p style="margin-bottom:0pt;margin-top:0pt;font-weight:bold;font-style:normal;text-transform:none;font-variant: normal;font-family:Times New Roman;font-size:10pt;">&nbsp;</p></td>
+<td valign="top" style="width:8.33%;white-space:nowrap">
+<p style="margin-bottom:0pt;margin-top:0pt;font-weight:bold;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;"><font style="font-weight:bold;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">(e)</font></p></td>
+<td valign="top">
+<p style="margin-bottom:0pt;margin-top:0pt;font-weight:bold;font-style:normal;text-transform:none;font-variant: normal;font-family:Times New Roman;font-size:10pt;">Item 8, Financial Statements and Supplementary Data</p></td></tr></table></div>
+<div align="left">
+<table border="0" cellspacing="0" cellpadding="0"  style="border-collapse:collapse; width:100%;">
+<tr>
+<td valign="top" style="width:4.17%;white-space:nowrap">
+<p style="margin-bottom:0pt;margin-top:0pt;font-weight:bold;font-style:normal;text-transform:none;font-variant: normal;font-family:Times New Roman;font-size:10pt;">&nbsp;</p></td>
+<td valign="top" style="width:8.33%;white-space:nowrap">
+<p style="margin-bottom:0pt;margin-top:0pt;font-weight:bold;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;"><font style="font-weight:bold;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">(f)</font></p></td>
+<td valign="top">
+<p style="margin-bottom:0pt;margin-top:0pt;font-weight:bold;font-style:normal;text-transform:none;font-variant: normal;font-family:Times New Roman;font-size:10pt;">Item 9, Changes in and Disagreements With Accountants on Accounting and Financial Disclosure</p></td></tr></table></div>
+<div align="left">
+<table border="0" cellspacing="0" cellpadding="0"  style="border-collapse:collapse; width:100%;">
+<tr>
+<td valign="top" style="width:4.17%;white-space:nowrap">
+<p style="margin-bottom:0pt;margin-top:0pt;font-weight:bold;font-style:normal;text-transform:none;font-variant: normal;font-family:Times New Roman;font-size:10pt;">&nbsp;</p></td>
+<td valign="top" style="width:8.33%;white-space:nowrap">
+<p style="margin-bottom:0pt;margin-top:0pt;font-weight:bold;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;"><font style="font-weight:bold;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">(g)</font></p></td>
+<td valign="top">
+<p style="margin-bottom:0pt;margin-top:0pt;font-weight:bold;font-style:normal;text-transform:none;font-variant: normal;font-family:Times New Roman;font-size:10pt;">Item 9A, Controls and Procedures</p></td></tr></table></div>
+<p style="margin-bottom:0pt;margin-top:12pt;text-indent:0%;font-weight:bold;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">Item 9B.<font style="margin-left:36pt;">Other Information.</font></p>
+<p style="margin-bottom:0pt;margin-top:10pt;text-indent:0%;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Not applicable.</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;;font-size:10pt;">&nbsp;</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">PART III</p>
+<p style="margin-bottom:0pt;margin-top:12pt;text-indent:0%;font-weight:bold;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">The following items have been omitted in accordance with General Instruction J to Form 10-K:</p>
+<div align="left">
+<table border="0" cellspacing="0" cellpadding="0"  style="border-collapse:collapse; width:100%;">
+<tr>
+<td valign="top" style="width:4.17%;white-space:nowrap">
+<p style="margin-bottom:0pt;margin-top:10pt;font-weight:bold;font-style:normal;text-transform:none;font-variant: normal;font-family:Times New Roman;font-size:10pt;">&nbsp;</p></td>
+<td valign="top" style="width:8.33%;white-space:nowrap">
+<p style="margin-bottom:0pt;margin-top:10pt;font-weight:bold;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;"><font style="font-weight:bold;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">(a)</font></p></td>
+<td valign="top">
+<p style="margin-bottom:0pt;margin-top:10pt;font-weight:bold;font-style:normal;text-transform:none;font-variant: normal;font-family:Times New Roman;font-size:10pt;">Item 10, Directors, Executive Officers and Corporate Governance</p></td></tr></table></div>
+<div align="left">
+<table border="0" cellspacing="0" cellpadding="0"  style="border-collapse:collapse; width:100%;">
+<tr>
+<td valign="top" style="width:4.17%;white-space:nowrap">
+<p style="margin-bottom:0pt;margin-top:0pt;font-weight:bold;font-style:normal;text-transform:none;font-variant: normal;font-family:Times New Roman;font-size:10pt;">&nbsp;</p></td>
+<td valign="top" style="width:8.33%;white-space:nowrap">
+<p style="margin-bottom:0pt;margin-top:0pt;font-weight:bold;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;"><font style="font-weight:bold;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">(b)</font></p></td>
+<td valign="top">
+<p style="margin-bottom:0pt;margin-top:0pt;font-weight:bold;font-style:normal;text-transform:none;font-variant: normal;font-family:Times New Roman;font-size:10pt;">Item 11, Executive Compensation</p></td></tr></table></div>
+<div align="left">
+<table border="0" cellspacing="0" cellpadding="0"  style="border-collapse:collapse; width:100%;">
+<tr>
+<td valign="top" style="width:4.17%;white-space:nowrap">
+<p style="margin-bottom:0pt;margin-top:0pt;font-weight:bold;font-style:normal;text-transform:none;font-variant: normal;font-family:Times New Roman;font-size:10pt;">&nbsp;</p></td>
+<td valign="top" style="width:8.33%;white-space:nowrap">
+<p style="margin-bottom:0pt;margin-top:0pt;font-weight:bold;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;"><font style="font-weight:bold;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">(c)</font></p></td>
+<td valign="top">
+<p style="margin-bottom:0pt;margin-top:0pt;font-weight:bold;font-style:normal;text-transform:none;font-variant: normal;font-family:Times New Roman;font-size:10pt;">Item 12, Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters</p></td></tr></table></div>
+<div align="left">
+<table border="0" cellspacing="0" cellpadding="0"  style="border-collapse:collapse; width:100%;">
+<tr>
+<td valign="top" style="width:4.17%;white-space:nowrap">
+<p style="margin-bottom:0pt;margin-top:0pt;font-weight:bold;font-style:normal;text-transform:none;font-variant: normal;font-family:Times New Roman;font-size:10pt;">&nbsp;</p></td>
+<td valign="top" style="width:8.33%;white-space:nowrap">
+<p style="margin-bottom:0pt;margin-top:0pt;font-weight:bold;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;"><font style="font-weight:bold;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">(d)</font></p></td>
+<td valign="top">
+<p style="margin-bottom:0pt;margin-top:0pt;font-weight:bold;font-style:normal;text-transform:none;font-variant: normal;font-family:Times New Roman;font-size:10pt;">Item 13, Certain Relationships and Related Transactions, and Director Independence</p></td></tr></table></div>
+<div align="left">
+<table border="0" cellspacing="0" cellpadding="0"  style="border-collapse:collapse; width:100%;">
+<tr>
+<td valign="top" style="width:4.17%;white-space:nowrap">
+<p style="margin-bottom:0pt;margin-top:0pt;font-weight:bold;font-style:normal;text-transform:none;font-variant: normal;font-family:Times New Roman;font-size:10pt;">&nbsp;</p></td>
+<td valign="top" style="width:8.33%;white-space:nowrap">
+<p style="margin-bottom:0pt;margin-top:0pt;font-weight:bold;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;"><font style="font-weight:bold;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">(e)</font></p></td>
+<td valign="top">
+<p style="margin-bottom:0pt;margin-top:0pt;font-weight:bold;font-style:normal;text-transform:none;font-variant: normal;font-family:Times New Roman;font-size:10pt;">Item 14, Principal Accountant Fees and Services</p></td></tr></table></div>
+<p style="text-align:center;margin-top:12pt;margin-bottom:0pt;text-indent:0%;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">- 3 -</p>
+<hr style="page-break-after:always;width:100%;">
+<p style="margin-bottom:0pt;margin-top:12pt;text-indent:0%;font-weight:bold;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;"><font style="font-weight:bold;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">Substitute information provided in accordance with General Instruction J to Form 10-K:</font></p>
+<p style="margin-bottom:0pt;margin-top:12pt;text-indent:0%;font-weight:bold;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">Item 1119 of Regulation AB.&nbsp;&nbsp;&nbsp;&nbsp;Affiliations and Certain Relationships and Related Transactions.</p>
+<p style="margin-bottom:0pt;margin-top:10pt;text-indent:0%;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Information contemplated by Item 1119 of Regulation AB has been omitted from this report on Form 10-K in reliance on Instruction to Item 1119 of Regulation AB.</p>
+<p style="margin-bottom:0pt;margin-top:12pt;text-indent:0%;font-weight:bold;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">Item 1122 of Regulation AB.&nbsp;&nbsp;&nbsp;&nbsp;Compliance with Applicable Servicing Criteria.</p>
+<p style="margin-bottom:0pt;margin-top:10pt;text-indent:0%;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">The Sponsor (in its role as servicer) and the Indenture Trustee (together, the &#8220;Servicing Parties&#8221;) have each been identified by the registrant as a party participating in the servicing function with respect to the asset pool held by the Trust.&nbsp;&nbsp;Each of the Servicing Parties has completed a report on an assessment of compliance with the servicing criteria applicable to it (each, a &#8220;Servicing Report&#8221;), which Servicing Reports are attached as exhibits to this Form 10-K.&nbsp;&nbsp;In addition, each of the Servicing Parties has provided an attestation report (each, an &#8220;Attestation Report&#8221;) by one or more registered public accounting firms, which Attestation Reports are also attached as exhibits to this Form 10-K. Neither of the Servicing Reports prepared by the Sponsor or the Indenture Trustee, or the Attestation Reports provided by the Sponsor or the Indenture Trustee, has identified any material instance of noncompliance with the servicing criteria applicable to the respective Servicing Party.&nbsp;&nbsp;</p>
+<p style="margin-bottom:0pt;margin-top:12pt;text-indent:0%;font-weight:bold;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">Item 1123 of Regulation AB.&nbsp;&nbsp;&nbsp;&nbsp;Servicer Compliance Statement.</p>
+<p style="margin-bottom:0pt;margin-top:10pt;text-indent:0%;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">The Sponsor (in its role as servicer) has been identified by the registrant as a servicer with respect to the asset pool held by the Trust.&nbsp;&nbsp;The Sponsor has completed a statement of compliance with applicable servicing criteria (a &#8220;Compliance Statement&#8221;), signed by an authorized officer of the Sponsor.&nbsp;&nbsp;The Compliance Statement is attached as an exhibit to this Form 10-K.</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;;font-size:10pt;">&nbsp;</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">PART IV</p>
+<div align="left">
+<table border="0" cellspacing="0" cellpadding="0"  style="border-collapse:collapse; width:100%;">
+<tr>
+<td valign="top" style="width:12.5%;white-space:nowrap">
+<p style="margin-bottom:0pt;margin-top:12pt;font-weight:bold;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;"><font style="font-weight:bold;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">Item 15. </font></p></td>
+<td valign="top">
+<p style="margin-bottom:0pt;margin-top:12pt;font-weight:bold;font-style:normal;text-transform:none;font-variant: normal;font-family:Times New Roman;font-size:10pt;">Exhibits and Financial Statement Schedules.</p></td></tr></table></div>
+<p style="margin-bottom:0pt;margin-top:10pt;text-indent:0%;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">(a)(1)<font style="margin-left:36pt;">Not applicable.</font></p>
+<p style="margin-bottom:0pt;margin-top:10pt;text-indent:0%;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">(a)(2)<font style="margin-left:36pt;">Not applicable.</font></p>
+<p style="margin-bottom:0pt;margin-top:10pt;text-indent:0%;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">(a)(3)<font style="margin-left:36pt;">The exhibi</font>ts filed in response to Item 601 of Regulation S-K are listed in Item 15(b) below.</p>
+<p style="margin-bottom:0pt;margin-top:10pt;text-indent:0%;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">(b)<font style="margin-left:36pt;">Exhibits required by Item 601 of Regulation S-K.</font></p>
+<p style="margin-bottom:0pt;margin-top:10pt;text-indent:0%;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">The exhibits listed below are either included or incorporated by reference as indicated:</p>
+<p style="margin-bottom:0pt;margin-top:6pt;text-indent:0%;font-size:10pt;">&nbsp;</p>
+<div>
+<table border="0" cellspacing="0" cellpadding="0" align="center" style="border-collapse:collapse; width:100%;">
+<tr>
+<td valign="bottom"  style="width:12%; border-bottom:solid 0.75pt #000000;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">Exhibit</p></td>
+<td valign="top"  style="width:1%; border-bottom:solid 0.75pt transparent;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;;font-size:10pt;">&nbsp;</p></td>
+<td valign="bottom"  style="width:87%; border-bottom:solid 0.75pt #000000;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">Description</p></td>
+</tr>
+<tr>
+<td valign="top"  style="width:12%; border-top:solid 0.75pt #000000;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;;font-size:6pt;">&nbsp;</p></td>
+<td valign="top"  style="width:1%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;;font-size:6pt;">&nbsp;</p></td>
+<td valign="top"  style="width:87%; border-top:solid 0.75pt #000000;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;;font-size:6pt;">&nbsp;</p></td>
+</tr>
+<tr>
+<td valign="top"  style="width:12%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Exhibit 3.1</p></td>
+<td valign="top"  style="width:1%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;;font-size:10pt;">&nbsp;</p></td>
+<td valign="top"  style="width:87%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;"><a href="http://www.sec.gov/Archives/edgar/data/890975/000114420411018426/v216153_ex3-1.htm"><font style="text-decoration:underline;">Certificate of Formation of the Depositor, filed with the secretary of state of Delaware on March 16, 2011, incorporated by reference to Amendment No. 1 to Registration Statement on Form S-3 (Reg. No. 333-173202), filed with the SEC by the Depositor on April 25, 2011.</font></a></p></td>
+</tr>
+<tr>
+<td valign="top"  style="width:12%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;;font-size:6pt;">&nbsp;</p></td>
+<td valign="top"  style="width:1%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;;font-size:6pt;">&nbsp;</p></td>
+<td valign="top"  style="width:87%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;;font-size:6pt;">&nbsp;</p></td>
+</tr>
+<tr>
+<td valign="top"  style="width:12%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Exhibit 3.2</p></td>
+<td valign="top"  style="width:1%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;;font-size:10pt;">&nbsp;</p></td>
+<td valign="top"  style="width:87%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;"><a href="http://www.sec.gov/Archives/edgar/data/890975/000114420411018426/v216153_ex3-2.htm"><font style="text-decoration:underline;">Limited Liability Company Agreement of the Depositor, in effect since March 28, 2011, incorporated by reference to Amendment No. 1 to Registration Statement on Form S-3 (Reg. No. 333-173202), filed with the SEC by the Depositor on April 25, 2011.</font></a></p></td>
+</tr>
+<tr>
+<td valign="top"  style="width:12%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;;font-size:6pt;">&nbsp;</p></td>
+<td valign="top"  style="width:1%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;;font-size:6pt;">&nbsp;</p></td>
+<td valign="top"  style="width:87%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;;font-size:6pt;">&nbsp;</p></td>
+</tr>
+<tr>
+<td valign="top"  style="width:12%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Exhibit 4.1</p></td>
+<td valign="top"  style="width:1%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;;font-size:10pt;">&nbsp;</p></td>
+<td valign="top"  style="width:87%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;"><a href="http://www.sec.gov/Archives/edgar/data/890975/000114420417050643/v476210_ex4-1.htm"><font style="text-decoration:underline;">Indenture, dated September 29, 2017, between Honda Auto Receivables 2017-3 Owner Trust and U.S. Bank National Association, as indenture trustee, incorporated by reference to Exhibit 4.1 on Form 8-K dated September 29, 2017, and filed by the registrant on September 29, 2017.</font></a></p></td>
+</tr>
+<tr>
+<td valign="top"  style="width:12%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;;font-size:6pt;">&nbsp;</p></td>
+<td valign="top"  style="width:1%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;;font-size:6pt;">&nbsp;</p></td>
+<td valign="top"  style="width:87%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;;font-size:6pt;">&nbsp;</p></td>
+</tr></table></div>
+<p style="text-align:center;margin-top:12pt;margin-bottom:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">- 4 -</p>
+<hr style="page-break-after:always;width:100%;">
+<div>
+<table border="0" cellspacing="0" cellpadding="0" align="center" style="border-collapse:collapse; width:100%;">
+<tr>
+<td valign="top"  style="width:12%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Exhibit 10.1</p></td>
+<td valign="top"  style="width:1%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;;font-size:10pt;">&nbsp;</p></td>
+<td valign="top"  style="width:87%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;"><a href="http://www.sec.gov/Archives/edgar/data/890975/000114420417050643/v476210_ex10-1.htm"><font style="text-decoration:underline;">Receivables Purchase Agreement, dated September 29, 2017, between American Honda Finance Corporation and American Honda Receivables LLC, incorporated by reference to </font></p>
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;"><font style="text-decoration:underline;">Exhibit 10.1 on Form 8-K dated </font><font style="text-decoration:underline;">September 29, 2017</font><font style="text-decoration:underline;">, and filed by the registrant on </font><font style="text-decoration:underline;">September 29, 2017</font><font style="text-decoration:underline;">.</font></p></td>
+</tr>
+<tr>
+<td valign="top"  style="width:12%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;;font-size:6pt;">&nbsp;</p></td>
+<td valign="top"  style="width:1%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;;font-size:6pt;">&nbsp;</p></td>
+<td valign="top"  style="width:87%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;;font-size:6pt;">&nbsp;</p></td>
+</tr>
+<tr>
+<td valign="top"  style="width:12%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Exhibit 10.2</p></td>
+<td valign="top"  style="width:1%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;;font-size:10pt;">&nbsp;</p></td>
+<td valign="top"  style="width:87%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;"><a href="http://www.sec.gov/Archives/edgar/data/890975/000114420417050643/v476210_ex10-2.htm"><font style="text-decoration:underline;">Sale and Servicing Agreement, dated September 29, 2017, among Honda Auto Receivables 2017-3 Owner Trust, American Honda Receivables LLC and American Honda Finance Corporation, and acknowledged and accepted by U.S. Bank National Association, incorporated by reference to Exhibit 10.2 on Form 8-K dated September 29, 2017, and filed by the registrant on September 29, 2017.</font></a></p></td>
+</tr>
+<tr>
+<td valign="top"  style="width:12%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;;font-size:6pt;">&nbsp;</p></td>
+<td valign="top"  style="width:1%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;;font-size:6pt;">&nbsp;</p></td>
+<td valign="top"  style="width:87%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;;font-size:6pt;">&nbsp;</p></td>
+</tr>
+<tr>
+<td valign="top"  style="width:12%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Exhibit 10.3</p></td>
+<td valign="top"  style="width:1%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;;font-size:10pt;">&nbsp;</p></td>
+<td valign="top"  style="width:87%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;"><a href="http://www.sec.gov/Archives/edgar/data/890975/000114420417050643/v476210_ex10-3.htm"><font style="text-decoration:underline;">Administration Agreement, dated September 29, 2017, among Honda Auto Receivables 2017-3 Owner Trust, American Honda Finance Corporation, American Honda Receivables LLC and U.S. Bank National Association, as indenture trustee, incorporated by reference to Exhibit 10.3 on Form 8-K dated September 29, 2017, and filed by the registrant on September 29, 2017.</font></a></p></td>
+</tr>
+<tr>
+<td valign="top"  style="width:12%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;;font-size:6pt;">&nbsp;</p></td>
+<td valign="top"  style="width:1%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;;font-size:6pt;">&nbsp;</p></td>
+<td valign="top"  style="width:87%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;;font-size:6pt;">&nbsp;</p></td>
+</tr>
+<tr>
+<td valign="top"  style="width:12%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Exhibit 10.4</p></td>
+<td valign="top"  style="width:1%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;;font-size:10pt;">&nbsp;</p></td>
+<td valign="top"  style="width:87%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;"><a href="http://www.sec.gov/Archives/edgar/data/890975/000114420417050643/v476210_ex10-4.htm"><font style="text-decoration:underline;">Amended and Restated Trust Agreement, dated September 29, 2017, among American Honda Receivables LLC, The Bank of New York Mellon, as owner trustee, and BNY Mellon Trust of Delaware, as Delaware trustee, incorporated by reference to Exhibit 10.4 on Form 8-K dated September 29, 2017, and filed by the registrant on September 29, 2017.</font></a></p></td>
+</tr>
+<tr>
+<td valign="top"  style="width:12%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;;font-size:6pt;">&nbsp;</p></td>
+<td valign="top"  style="width:1%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;;font-size:6pt;">&nbsp;</p></td>
+<td valign="top"  style="width:87%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;;font-size:6pt;">&nbsp;</p></td>
+</tr>
+<tr>
+<td valign="top"  style="width:12%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Exhibit 10.5</p></td>
+<td valign="top"  style="width:1%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;;font-size:10pt;">&nbsp;</p></td>
+<td valign="top"  style="width:87%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;"><a href="http://www.sec.gov/Archives/edgar/data/890975/000114420417050643/v476210_ex10-5.htm"><font style="text-decoration:underline;">Asset Representations Review Agreement, dated September 29, 2017, among Honda Auto Receivables 2017-3 Owner Trust, American Honda Finance Corporation, and Clayton Fixed Income Services LLC, as asset representations reviewer, incorporated by reference to Exhibit 10.5 on Form 8-K dated September 29, 2017, and filed by the registrant on September 29, 2017.</font></a></p></td>
+</tr>
+<tr>
+<td valign="top"  style="width:12%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;;font-size:6pt;">&nbsp;</p></td>
+<td valign="top"  style="width:1%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;;font-size:6pt;">&nbsp;</p></td>
+<td valign="top"  style="width:87%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;;font-size:6pt;">&nbsp;</p></td>
+</tr>
+<tr>
+<td valign="top"  style="width:12%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Exhibit 31.1</p></td>
+<td valign="top"  style="width:1%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;;font-size:10pt;">&nbsp;</p></td>
+<td valign="top"  style="width:87%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;"><a href="ahfc-ex311_11.htm"><font style="text-decoration:underline;">Certification of senior officer in charge of the servicing function of the servicer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.</font></a></p></td>
+</tr>
+<tr>
+<td valign="top"  style="width:12%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;;font-size:6pt;">&nbsp;</p></td>
+<td valign="top"  style="width:1%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;;font-size:6pt;">&nbsp;</p></td>
+<td valign="top"  style="width:87%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;;font-size:6pt;">&nbsp;</p></td>
+</tr>
+<tr>
+<td valign="top"  style="width:12%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Exhibit 33.1</p></td>
+<td valign="top"  style="width:1%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;;font-size:10pt;">&nbsp;</p></td>
+<td valign="top"  style="width:87%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;"><a href="ahfc-ex331_10.htm"><font style="text-decoration:underline;">Report on Assessment of Compliance with Servicing Criteria for Asset-Backed Securities of American Honda Finance Corporation.</font></a></p></td>
+</tr>
+<tr>
+<td valign="top"  style="width:12%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;;font-size:6pt;">&nbsp;</p></td>
+<td valign="top"  style="width:1%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;;font-size:6pt;">&nbsp;</p></td>
+<td valign="top"  style="width:87%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;;font-size:6pt;">&nbsp;</p></td>
+</tr>
+<tr>
+<td valign="top"  style="width:12%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Exhibit 33.2</p></td>
+<td valign="top"  style="width:1%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;;font-size:10pt;">&nbsp;</p></td>
+<td valign="top"  style="width:87%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;"><a href="ahfc-ex332_9.htm"><font style="text-decoration:underline;">Report on Assessment of Compliance with Servicing Criteria for Asset-Backed Securities of U.S. Bank National Association.</font></a></p></td>
+</tr>
+<tr>
+<td valign="top"  style="width:12%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;;font-size:6pt;">&nbsp;</p></td>
+<td valign="top"  style="width:1%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;;font-size:6pt;">&nbsp;</p></td>
+<td valign="top"  style="width:87%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;;font-size:6pt;">&nbsp;</p></td>
+</tr>
+<tr>
+<td valign="top"  style="width:12%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Exhibit 34.1</p></td>
+<td valign="top"  style="width:1%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;;font-size:10pt;">&nbsp;</p></td>
+<td valign="top"  style="width:87%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;"><a href="ahfc-ex341_7.htm"><font style="text-decoration:underline;">Attestation Report on Compliance with Servicing Criteria for Asset-Backed Securities of KPMG LLP, on behalf of American Honda Finance Corporation.</font></a></p></td>
+</tr>
+<tr>
+<td valign="top"  style="width:12%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;;font-size:6pt;">&nbsp;</p></td>
+<td valign="top"  style="width:1%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;;font-size:6pt;">&nbsp;</p></td>
+<td valign="top"  style="width:87%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;;font-size:6pt;">&nbsp;</p></td>
+</tr>
+<tr>
+<td valign="top"  style="width:12%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Exhibit 34.2</p></td>
+<td valign="top"  style="width:1%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;;font-size:10pt;">&nbsp;</p></td>
+<td valign="top"  style="width:87%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;"><a href="ahfc-ex342_6.htm"><font style="text-decoration:underline;">Attestation Report on Assessment of Compliance with Servicing Criteria for Asset-Backed Securities of Ernst and Young LLP, on behalf of U.S. Bank National Association.</font></a></p></td>
+</tr>
+<tr>
+<td valign="top"  style="width:12%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;;font-size:6pt;">&nbsp;</p></td>
+<td valign="top"  style="width:1%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;;font-size:6pt;">&nbsp;</p></td>
+<td valign="top"  style="width:87%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;;font-size:6pt;">&nbsp;</p></td>
+</tr>
+<tr>
+<td valign="top"  style="width:12%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Exhibit 35.1</p></td>
+<td valign="top"  style="width:1%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;;font-size:10pt;">&nbsp;</p></td>
+<td valign="top"  style="width:87%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;"><a href="ahfc-ex351_8.htm"><font style="text-decoration:underline;">Servicing Compliance Statement of American Honda Finance Corporation.</font></a></p></td>
+</tr>
+</table></div>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:10pt;">&nbsp;</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">(c)<font style="margin-left:36pt;">Not applicable.</font></p>
+<p style="text-align:center;margin-top:12pt;margin-bottom:0pt;text-indent:0%;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">- 5 -</p>
+<hr style="page-break-after:always;width:100%;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;"><a name="SIGNATURES"></a><font style="font-weight:bold;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;"><a name="SIGNATURES"></a>SIGNAT</font><font style="font-weight:bold;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">URES</font></p>
+<p style="margin-bottom:0pt;margin-top:10pt;text-indent:5.67%;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:10pt;">&nbsp;</p>
+<div>
+<table border="0" cellspacing="0" cellpadding="0" align="center" style="border-collapse:collapse; width:100%;">
+<tr>
+<td valign="top"  style="width:45%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;">&nbsp;</p></td>
+<td valign="top"  style="width:1%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;">&nbsp;</p></td>
+<td valign="top"  style="width:3%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;">&nbsp;</p></td>
+<td valign="top"  style="width:1%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;">&nbsp;</p></td>
+<td valign="top"  style="width:50%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">Honda Auto Receivables 2017-3 Owner Trust</p></td>
+</tr>
+<tr>
+<td valign="top"  style="width:45%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;">&nbsp;</p></td>
+<td valign="top"  style="width:1%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;">&nbsp;</p></td>
+<td valign="top"  style="width:3%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;">&nbsp;</p></td>
+<td valign="top"  style="width:1%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;">&nbsp;</p></td>
+<td valign="top"  style="width:50%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;">&nbsp;</p></td>
+</tr>
+<tr>
+<td valign="top"  style="width:45%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;">&nbsp;</p></td>
+<td valign="top"  style="width:1%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;">&nbsp;</p></td>
+<td valign="top"  style="width:3%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">By:</p></td>
+<td valign="top"  style="width:1%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;">&nbsp;</p></td>
+<td valign="top"  style="width:50%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">American&#160;Honda&#160;Finance&#160;Corporation,&#160;as&#160;Servicer</p></td>
+</tr>
+<tr>
+<td valign="top"  style="width:45%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;">&nbsp;</p></td>
+<td valign="top"  style="width:1%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;">&nbsp;</p></td>
+<td valign="top"  style="width:3%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;">&nbsp;</p></td>
+<td valign="top"  style="width:1%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;">&nbsp;</p></td>
+<td valign="top"  style="width:50%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;">&nbsp;</p></td>
+</tr>
+<tr>
+<td valign="top"  style="width:45%; border-bottom:solid 0.75pt transparent;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;">&nbsp;</p></td>
+<td valign="top"  style="width:1%; border-bottom:solid 0.75pt transparent;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;">&nbsp;</p></td>
+<td valign="top"  style="width:3%; border-bottom:solid 0.75pt transparent;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">By:</p></td>
+<td valign="top"  style="width:1%; border-bottom:solid 0.75pt transparent;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;">&nbsp;</p></td>
+<td valign="top"  style="width:50%; border-bottom:solid 0.75pt #000000;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">/s/ Paul C. Honda</p></td>
+</tr>
+<tr>
+<td valign="top"  style="width:45%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;">&nbsp;</p></td>
+<td valign="top"  style="width:1%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;">&nbsp;</p></td>
+<td valign="top"  style="width:3%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;">&nbsp;</p></td>
+<td valign="top"  style="width:1%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;">&nbsp;</p></td>
+<td valign="top"  style="width:50%; border-top:solid 0.75pt #000000;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Paul C. Honda</p></td>
+</tr>
+<tr>
+<td valign="top"  style="width:45%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Date: June 25, 2018</p></td>
+<td valign="top"  style="width:1%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;">&nbsp;</p></td>
+<td valign="top"  style="width:3%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;">&nbsp;</p></td>
+<td valign="top"  style="width:1%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;">&nbsp;</p></td>
+<td valign="top"  style="width:50%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Vice President and Assistant Secretary (senior officer in charge of the servicing function)</p></td>
+</tr>
+</table></div>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:10pt;">&nbsp;</p>
+<p style="text-align:center;margin-top:12pt;margin-bottom:0pt;text-indent:0%;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">- 6 -</p>
+<hr style="page-break-after:always;width:100%;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;"><font style="font-weight:bold;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">SUPPLEMENTAL INFORMATION TO</font><font style="font-weight:bold;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;"> BE FURNISHED WITH REPORTS FILED PURSUANT TO SECTION 15(d) OF THE ACT BY REGISTRANTS WHICH HAVE NOT REGISTERED SECURITIES PURSUANT TO SECTION 12 OF THE ACT.</font></p>
+<p style="margin-top:10pt;margin-bottom:0pt;text-indent:0%;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">No annual report to security holders, proxy statement, form of proxy or other proxy soliciting material has been sent to security holders or is anticipated to be furnished to security holders subsequent to the filing of this annual report on Form 10-K.</p>
+<p style="text-align:center;margin-top:12pt;margin-bottom:0pt;text-indent:0%;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">- 7 -</p></body>
+</html>
+</TEXT>
+</DOCUMENT>

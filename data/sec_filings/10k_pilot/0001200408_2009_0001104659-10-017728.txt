@@ -1,0 +1,938 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>a10-7029_1610k.htm
+<DESCRIPTION>10-K
+<TEXT>
+
+<html>
+
+<head>
+
+
+
+
+
+</head>
+
+<body lang="EN-US">
+
+<div style="font-family:Times New Roman;">
+
+<div style="border-bottom:solid windowtext 1.0pt;border-left:none;border-right:none;border-top:solid windowtext 3.0pt;padding:1.0pt 0in 1.0pt 0in;">
+
+<p style="border:none;margin:0in 0in .0001pt;padding:0in;"><font size="1" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+
+</div>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Times New Roman" style="font-size:5.0pt;">&nbsp;</font></p>
+
+<p style="font-weight:bold;margin:0in 0in .0001pt;page-break-after:auto;text-align:center;"><b><font size="5" face="Times New Roman" style="font-size:18.0pt;">UNITED STATES</font></b></p>
+
+<p style="font-weight:bold;margin:0in 0in .0001pt;page-break-after:auto;text-align:center;"><b><font size="5" face="Times New Roman" style="font-size:18.0pt;">SECURITIES AND
+EXCHANGE COMMISSION</font></b></p>
+
+<p style="font-weight:bold;margin:0in 0in .0001pt;page-break-after:auto;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;">WASHINGTON, D.C.
+20549</font></b></p>
+
+<p style="font-weight:bold;margin:0in 0in .0001pt;page-break-after:auto;text-align:center;"><b><font size="1" face="Times New Roman" style="font-size:4.0pt;font-weight:normal;">&nbsp;</font></b></p>
+
+<div align="center" style="margin:0in 0in .0001pt;text-align:center;"><hr size="1" width="25%" noshade color="black" align="center"></div>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Times New Roman" style="font-size:4.0pt;">&nbsp;</font></p>
+
+<p style="font-weight:bold;margin:0in 0in .0001pt;page-break-after:auto;text-align:center;"><b><font size="5" face="Times New Roman" style="font-size:18.0pt;">FORM&nbsp;10-K</font></b></p>
+
+<p style="font-weight:bold;margin:0in 0in .0001pt;page-break-after:auto;text-align:center;"><b><font size="1" face="Times New Roman" style="font-size:6.0pt;font-weight:normal;">&nbsp;</font></b></p>
+
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">(Mark One)</font></b></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Times New Roman" style="font-size:6.0pt;">&nbsp;</font></p>
+
+<p style="font-size:12.0pt;margin:0in 0in .0001pt .5in;text-indent:-.25in;"><b><font size="3" face="Wingdings" style="font-size:12.0pt;font-weight:bold;">x</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160; </font></b><b>ANNUAL REPORT PURSUANT TO SECTION&nbsp;13 OR 15(d)&nbsp;OF THE
+SECURITIES EXCHANGE ACT OF 1934</b></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Times New Roman" style="font-size:5.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">For the fiscal year ended December&nbsp;31,
+200</font></b><b><font size="2" style="font-size:10.0pt;font-weight:bold;">9</font></b></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Times New Roman" style="font-size:5.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">or</font></b></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Times New Roman" style="font-size:5.0pt;">&nbsp;</font></p>
+
+<p style="font-size:12.0pt;margin:0in 0in .0001pt .5in;text-indent:-.25in;"><b><font size="3" face="Wingdings" style="font-size:12.0pt;font-weight:bold;">o</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b><b>TRANSITION REPORT PURSUANT TO SECTION&nbsp;13 OR 15(d)&nbsp;OF THE
+SECURITIES EXCHANGE ACT OF 1934</b></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Times New Roman" style="font-size:5.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">For the transition period from
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+to
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></b></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Times New Roman" style="font-size:5.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Commission File Number: 001-31515</font></b></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Times New Roman" style="font-size:5.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">filed on behalf of:</font></b></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Times New Roman" style="font-size:5.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="5" face="Times New Roman" style="font-size:18.0pt;font-weight:bold;">Corporate Backed
+Trust Certificates, American General Institutional Capital A Capital
+Securities-Backed Series<br>
+2002-17 Trust</font></b></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Exact Name of Registrant
+as Specified in Its Charter)</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Times New Roman" style="font-size:5.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">by:</font></b></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Times New Roman" style="font-size:5.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Lehman ABS Corporation</font></b></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Exact Name of Depositor
+as Specified in Its Charter)</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Times New Roman" style="font-size:6.0pt;">&nbsp;</font></p>
+
+<div align="center">
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+ <tr>
+  <td width="48%" valign="top" style="padding:0in 0in 0in 0in;width:48.94%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Delaware</font></b></p>
+  </td>
+  <td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.14%;">
+  <p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>
+  </td>
+  <td width="48%" valign="top" style="padding:0in 0in 0in 0in;width:48.92%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">13-3447441</font></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="48%" valign="top" style="padding:0in 0in 0in 0in;width:48.94%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(State or other
+  jurisdiction of incorporation or organization)</font></p>
+  </td>
+  <td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.14%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="48%" valign="top" style="padding:0in 0in 0in 0in;width:48.92%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(I.R.S. Employer
+  Identification No.)</font></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Times New Roman" style="font-size:6.0pt;">&nbsp;</font></p>
+
+<div align="center">
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+ <tr>
+  <td width="48%" valign="top" style="padding:0in 0in 0in 0in;width:48.94%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">1271
+  Avenue of the Americas, New York, New York</font></b></p>
+  </td>
+  <td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.14%;">
+  <p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>
+  </td>
+  <td width="48%" valign="top" style="padding:0in 0in 0in 0in;width:48.92%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">10020</font></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="48%" valign="top" style="padding:0in 0in 0in 0in;width:48.94%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Address of principal
+  executive offices)</font></p>
+  </td>
+  <td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.14%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="48%" valign="top" style="padding:0in 0in 0in 0in;width:48.92%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Zip Code)</font></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Times New Roman" style="font-size:5.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Registrant&#146;s telephone number, including area code: <b>(</b></font><b><font size="2" style="font-size:10.0pt;font-weight:bold;">646</font></b><b><font size="2" style="font-size:10.0pt;font-weight:bold;">) </font></b><b><font size="2" style="font-size:10.0pt;font-weight:bold;">285-9000</font></b></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Times New Roman" style="font-size:5.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Securities registered pursuant to Section&nbsp;12(b)&nbsp;of the Act:</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Times New Roman" style="font-size:6.0pt;">&nbsp;</font></p>
+
+<div align="center">
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+ <tr>
+  <td width="48%" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:48.94%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Times New Roman" style="font-size:8.0pt;font-weight:bold;">Title of
+  Each Class</font></b></p>
+  </td>
+  <td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.14%;">
+  <p style="margin:0in 0in .0001pt;"><b><font size="1" face="Times New Roman" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>
+  </td>
+  <td width="48%" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:48.92%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Times New Roman" style="font-size:8.0pt;font-weight:bold;">Name of
+  Each Exchange on Which Registered</font></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="48%" valign="top" style="padding:0in 0in 0in 0in;width:48.94%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Corporate
+  Backed Trust Certificates, American General Institutional Capital A Capital
+  Securities-Backed Series&nbsp;2002-17</font></p>
+  </td>
+  <td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.14%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="48%" valign="top" style="padding:0in 0in 0in 0in;width:48.92%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">New York Stock Exchange
+  (&#147;NYSE&#148;)</font></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Times New Roman" style="font-size:6.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Securities registered
+pursuant to Section&nbsp;12(g)&nbsp;of the Act: <b>None</b></font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Times New Roman" style="font-size:6.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;text-indent:.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Indicate
+by check mark if the registrant is a well-known seasoned issuer, as defined in Rule&nbsp;405
+of the Securities Act. Yes&nbsp;</font><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font><font size="2" style="font-size:10.0pt;"> No&nbsp;</font><font size="2" face="Wingdings" style="font-size:10.0pt;">x</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Times New Roman" style="font-size:6.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;text-indent:.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Indicate
+by check mark if the registrant is not required to file reports pursuant to Section&nbsp;13
+or Section&nbsp;15(d)&nbsp;of the Act. Yes&nbsp;</font><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font><font size="2" style="font-size:10.0pt;">
+No&nbsp;</font><font size="2" face="Wingdings" style="font-size:10.0pt;">x</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Times New Roman" style="font-size:6.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;text-indent:.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Indicate
+by check mark whether the registrant: (1)&nbsp;has filed all reports required
+to be filed by Section&nbsp;13 or 15(d)&nbsp;of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2)&nbsp;has been subject to
+such filing requirements for the past 90 days. Yes </font><font size="2" face="Wingdings" style="font-size:10.0pt;">x</font><font size="2" style="font-size:10.0pt;">
+No </font><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Times New Roman" style="font-size:6.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;text-indent:.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Indicate
+by check mark whether the registrant has submitted electronically and posted on
+its corporate Web site, if any, every Interactive Data File required to be
+submitted and posted pursuant to Rule 405 of Regulation S-T (&#167; 232.405 of this
+chapter) during the preceding 12 months (or for such shorter period that the
+registrant was required to submit and post such files). Yes </font><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font><font size="2" style="font-size:10.0pt;"> No </font><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Times New Roman" style="font-size:6.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;text-indent:.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Indicate by check mark if disclosure of delinquent
+filers pursuant to Item 405 of Regulation S-K (&#167; 229.405 of this chapter) is
+not contained herein, and will not be contained, to the best of registrant&#146;s
+knowledge, in definitive proxy or information statements incorporated by
+reference in Part&nbsp;III of this Form&nbsp;10-K or any amendment to this Form&nbsp;10-K.&#160; </font><font size="2" face="Wingdings" style="font-size:10.0pt;">x</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Times New Roman" style="font-size:6.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;text-indent:.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Indicate
+by check mark whether the registrant is a large accelerated filer, an
+accelerated filer, or a non-accelerated filer.&#160;
+See definition of &#147;accelerated filer and large accelerated filer&#148; in Rule&nbsp;12b-2
+of the Exchange Act.&#160; (Check one:)</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Times New Roman" style="font-size:6.0pt;">&nbsp;</font></p>
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+ <tr>
+  <td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Large Accelerated Filer </font><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font></p>
+  </td>
+  <td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Accelerated Filer </font><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+  <p style="margin:0in 0in .0001pt;"><font size="1" face="Times New Roman" style="font-size:5.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+  <p style="margin:0in 0in .0001pt;"><font size="1" face="Times New Roman" style="font-size:5.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Non-Accelerated Filer </font><font size="2" face="Wingdings" style="font-size:10.0pt;">x</font></p>
+  </td>
+  <td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Smaller reporting company </font><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font></p>
+  </td>
+ </tr>
+</table>
+
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Times New Roman" style="font-size:6.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;text-indent:.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Indicate
+by check mark whether the registrant is a shell company (as defined in Rule&nbsp;12b-2
+of the Act). Yes </font><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font><font size="2" style="font-size:10.0pt;">&#160;
+No </font><font size="2" face="Wingdings" style="font-size:10.0pt;">x</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Times New Roman" style="font-size:6.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">State the aggregate market value of the voting and non-voting common
+equity held by nonaffiliates computed by reference to the price at which the
+common equity was last sold, or the average bid and asked price of such common
+equity, as of the last business day of the registrant&#146;s most recently completed
+second fiscal quarter.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Times New Roman" style="font-size:6.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;text-indent:.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">The registrant has
+no voting stock or class of common stock that is held by nonaffiliates.</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Times New Roman" style="font-size:6.0pt;">&nbsp;</font></p>
+
+<div style="border-bottom:solid windowtext 3.0pt;border-left:none;border-right:none;border-top:solid windowtext 1.0pt;padding:1.0pt 0in 1.0pt 0in;">
+
+<p style="border:none;margin:0in 0in .0001pt;padding:0in;"><font size="1" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+
+</div>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Times New Roman" style="font-size:5.0pt;">&nbsp;</font></p>
+
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+</div>
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\brama\10-7029-16\task4011384\7029-16-ba.htm',USER='105435',CD='Mar 25 17:45 2010' -->
+
+
+
+<br clear="all" style="page-break-before:always;">
+<div style="font-family:Times New Roman;">
+
+<p style="font-weight:bold;margin:0in 0in .0001pt;page-break-after:auto;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:normal;">&nbsp;</font></b></p>
+
+<p style="font-weight:bold;margin:0in 0in .0001pt;page-break-after:auto;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;">DOCUMENTS
+INCORPORATED BY REFERENCE</font></b></p>
+
+<p style="font-weight:bold;margin:0in 0in .0001pt;page-break-after:auto;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:normal;">&nbsp;</font></b></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">The distribution reports to security holders, filed on Form&nbsp;8-K
+during the fiscal year in lieu of reports on Form&nbsp;10-Q, which include the
+reports filed on Form&nbsp;8-K listed in Item 15(a)&nbsp;hereto are
+incorporated by reference into part IV of this Annual Report.</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="font-weight:bold;margin:0in 0in .0001pt;page-break-after:auto;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;">Introductory</font></b><font size="2" style="font-size:10.0pt;">  Note</font></p>
+
+<p style="font-weight:bold;margin:0in 0in .0001pt;page-break-after:auto;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:normal;">&nbsp;</font></b></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Lehman ABS Corporation (the &#147;Depositor&#148;) is the Depositor in respect of
+the Corporate Backed Trust Certificates,
+American General Institutional Capital A Capital Securities-Backed Series&nbsp;2002-17
+Trust (the &#147;Trust&#148;), a common law trust formed pursuant to the Standard
+Terms for Trust Agreements, dated as of January&nbsp;16, 2001, between the
+Depositor and U.S. Bank Trust National Association, as trustee (the &#147;Trustee&#148;),
+as supplemented by a Series&nbsp;Supplement (the &#147;Series&nbsp;Supplement&#148;),
+dated as of October&nbsp;23, 2002, in
+respect of the Trust, as supplemented by a
+Supplement to the Series&nbsp;Supplement, dated as of June&nbsp;18, 2003.&#160; The Trust&#146;s assets consist solely of capital
+securities issued by American General Institutional
+Capital A (the &#147;Underlying Securities Issuer&#148;).&#160; The Certificates do not
+represent obligations of, or interests in, the Depositor or the Trustee.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">The Registrant is a wholly-owned, indirect subsidiary of Lehman
+Brothers Holdings Inc. (&#147;LBHI&#148;), which filed a voluntary petition (the &#147;Petition&#148;)
+for relief under Chapter 11 of the United States Code in the United States
+Bankruptcy Court for the Southern District of New York on September&nbsp;15,
+2008 in a jointly administered proceeding named In re Lehman Brothers Holdings
+Inc., et. al. under Case Number 08-13555. LBHI and its wholly-owned
+broker-dealer, Lehman Brothers Inc., have sold since September&nbsp;15, 2008
+significant businesses, including the sale on September&nbsp;21, 2008 of the
+investment banking business to Barclays Capital Inc., which business included
+the employees who historically conducted the Registrant&#146;s business.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">American General Institutional
+Capital A is a subsidiary of American International Group, Inc.&#160; American International Group,&nbsp;Inc.</font><font size="2" style="font-size:10.0pt;">, the guarantor of
+the junior subordinated debentures, the
+sole assets held by the Underlying Securities Issuer, </font><font size="2" style="font-size:10.0pt;">is subject to the information reporting
+requirements of the Securities Exchange Act of 1934, as amended (the &#147;Exchange
+Act&#148;).&#160; For information on American International Group,&nbsp;Inc., please see its periodic and current reports filed
+with the Securities and Exchange Commission (the &#147;Commission&#148;) under American International Group,&nbsp;Inc.&#146;s Exchange
+Act file number, 001-08787. &#160;The
+Commission maintains a site on the World Wide Web at &#147;http://www.sec.gov&#148; at
+which users can view and download copies of reports, proxy and information
+statements and other information regarding issuers filed electronically through
+the Electronic Data Gathering, Analysis and Retrieval system, or &#147;EDGAR.&#148;&#160; Periodic and current reports and other
+information required to be filed pursuant to the Exchange Act by the guarantor
+of the junior subordinated debentures may
+be accessed on this site.&#160; Neither
+the Depositor nor the Trustee has participated in the preparation of such
+reporting documents, or made any due diligence investigation with respect to
+the information provided therein.&#160;
+Neither the Depositor nor the Trustee has verified the accuracy or
+completeness of such documents or reports.&#160;
+There can be no assurance that events affecting the Underlying Securities Issuer, the guarantor of the junior
+subordinated debentures  or the
+underlying securities have not occurred or have not yet been publicly disclosed
+which would affect the accuracy or completeness of the publicly available
+documents described above.</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">2<a name="PB_2_074528_5250"></a></font></p>
+
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+
+</div>
+<!-- SEQ.=1,FOLIO='2',FILE='C:\JMS\dtodman\10-7029-16\task4024928\7029-16-bc.htm',USER='dtodman',CD='Mar 31 13:29 2010' -->
+
+
+<br clear="all" style="page-break-before:always;">
+
+
+<div style="font-family:Times New Roman;">
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="font-weight:bold;margin:0in 0in .0001pt;page-break-after:auto;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;">PART&nbsp;I</font></b></p>
+
+<p style="font-weight:bold;margin:0in 0in .0001pt;page-break-after:auto;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:normal;">&nbsp;</font></b></p>
+
+<p style="margin:0in 0in .0001pt;"><u><font size="2" face="Times New Roman" style="font-size:10.0pt;">Item 1. Business.</font></u></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt .5in;text-indent:0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Not Applicable</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><u><font size="2" face="Times New Roman" style="font-size:10.0pt;">Item 1A.&#160; Risk Factors</font></u><font size="2" style="font-size:10.0pt;">.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt .5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Not Applicable</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><u><font size="2" face="Times New Roman" style="font-size:10.0pt;">Item 1B.&#160; Unresolved Staff Comments</font></u><font size="2" style="font-size:10.0pt;">.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt .5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Not Applicable</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><u><font size="2" face="Times New Roman" style="font-size:10.0pt;">Item 2.&#160;
+Properties</font></u><font size="2" style="font-size:10.0pt;">.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt .5in;text-indent:0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Not Applicable</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><u><font size="2" face="Times New Roman" style="font-size:10.0pt;">Item 3.&#160; Legal
+Proceedings.</font></u></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt .5in;text-indent:0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">None</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><u><font size="2" face="Times New Roman" style="font-size:10.0pt;">Item 4.&#160;
+Submission of Matters to a Vote of Security Holders.</font></u></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt .5in;text-indent:0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">None</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="font-weight:bold;margin:0in 0in .0001pt;page-break-after:auto;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;">PART&nbsp;II</font></b></p>
+
+<p style="font-weight:bold;margin:0in 0in .0001pt;page-break-after:auto;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:normal;">&nbsp;</font></b></p>
+
+<p style="margin:0in 0in .0001pt;"><u><font size="2" face="Times New Roman" style="font-size:10.0pt;">Item 5.&#160; Market
+for Registrant&#146;s Common Equity, Related Stockholder Matters and Issuer Purchases
+of Equity Securities.</font></u></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">The publicly
+offered Certificates representing investors&#146; interest in the Trust are
+represented by one or more physical Certificates registered in the name of&#160; &#147;Cede&nbsp;&amp; Co.&#148;, the nominee of&#160; The Depository Trust Company.&#160; Those publicly offered Certificates are
+listed on the NYSE.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><u><font size="2" face="Times New Roman" style="font-size:10.0pt;">Item 6.&#160;
+Selected Financial Data.</font></u></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt .5in;text-indent:0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Not Applicable</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><u><font size="2" face="Times New Roman" style="font-size:10.0pt;">Item 7.<i>  </i>Management&#146;s
+Discussion and Analysis of Financial Condition and Results of Operation.</font></u></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt .5in;text-indent:0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Not Applicable</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><u><font size="2" face="Times New Roman" style="font-size:10.0pt;">Item 7A.<i>  </i>Quantitative
+and Qualitative Disclosures About Market Risk.</font></u></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Not Applicable</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><u><font size="2" face="Times New Roman" style="font-size:10.0pt;">Item 8. Financial Statements and Supplementary Data.</font></u></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Not Applicable</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><u><font size="2" face="Times New Roman" style="font-size:10.0pt;">Item 9. Changes in and Disagreements With Accountants
+on Accounting and Financial Disclosure.</font></u></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">None</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><u><font size="2" face="Times New Roman" style="font-size:10.0pt;">Item 9A. Controls
+and Procedures.</font></u></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Not Applicable</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><u><font size="2" face="Times New Roman" style="font-size:10.0pt;">Item 9A(T). Controls and Procedures.</font></u></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Not Applicable</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><u><font size="2" face="Times New Roman" style="font-size:10.0pt;">Item 9B. Other
+Information.</font></u></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Not Applicable</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">3<a name="PB_3_074528_7672"></a></font></p>
+
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+
+</div>
+<!-- SEQ.=1,FOLIO='3',FILE='C:\JMS\dtodman\10-7029-16\task4024928\7029-16-bc.htm',USER='dtodman',CD='Mar 31 13:29 2010' -->
+
+
+<br clear="all" style="page-break-before:always;">
+
+
+<div style="font-family:Times New Roman;">
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="font-weight:bold;margin:0in 0in .0001pt;page-break-after:auto;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;">PART&nbsp;III</font></b></p>
+
+<p style="font-weight:bold;margin:0in 0in .0001pt;page-break-after:auto;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:normal;">&nbsp;</font></b></p>
+
+<p style="margin:0in 0in .0001pt .5in;text-indent:-.5in;"><u><font size="2" face="Times New Roman" style="font-size:10.0pt;">Item 10.&#160; Directors, Executive Officers and Corporate
+Governance.</font></u></p>
+
+<p style="margin:0in 0in .0001pt .5in;text-indent:-.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt .5in;text-indent:0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Not Applicable</font></p>
+
+<p style="margin:0in 0in .0001pt .5in;text-indent:-.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><u><font size="2" face="Times New Roman" style="font-size:10.0pt;">Item 11.&#160;
+Executive Compensation.</font></u></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Not Applicable</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><u><font size="2" face="Times New Roman" style="font-size:10.0pt;">Item 12.&#160;
+Security Ownership of Certain Beneficial Owners and Management and
+Related Stockholder Matters.</font></u></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Not
+Applicable</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><u><font size="2" face="Times New Roman" style="font-size:10.0pt;">Item 13.&#160;
+Certain Relationships and Related Transactions, and Director
+Independence.</font></u></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">None</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><u><font size="2" face="Times New Roman" style="font-size:10.0pt;">Item 14.&#160;
+Principal Accountant Fees and Services.</font></u></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Not Applicable</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="font-weight:bold;margin:0in 0in .0001pt;page-break-after:auto;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;">PART&nbsp;IV</font></b></p>
+
+<p style="font-weight:bold;margin:0in 0in .0001pt;page-break-after:auto;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:normal;">&nbsp;</font></b></p>
+
+<p style="margin:0in 0in .0001pt;"><u><font size="2" face="Times New Roman" style="font-size:10.0pt;">Item 15.&#160;
+Exhibits, Financial Statement Schedules.</font></u></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(a)</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">The following documents have been filed
+as part of this report.</font></p>
+
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt 1.5in;text-indent:-.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">1.</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">Trustee&#146;s Distribution Statements
+documented on Form&nbsp;8-K regarding the distributions from the Trust to the
+certificateholders for the period from January&nbsp;1, 200</font><font size="2" style="font-size:10.0pt;">9</font><font size="2" style="font-size:10.0pt;">  </font><font size="2" style="font-size:10.0pt;">through and including December&nbsp;31, 200</font><font size="2" style="font-size:10.0pt;">9</font><font size="2" style="font-size:10.0pt;">  </font><font size="2" style="font-size:10.0pt;">have been filed with the Securities and
+Exchange Commission and are hereby incorporated by reference.&#160; Filing dates are listed below:</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+ <tr>
+  <td width="70%" valign="bottom" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:70.0%;">
+  <p style="margin:0in 0in .0001pt;"><b><font size="1" face="Times New Roman" style="font-size:8.0pt;font-weight:bold;">Trust Description</font></b></p>
+  </td>
+  <td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.5%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Times New Roman" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>
+  </td>
+  <td width="12%" valign="bottom" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:12.0%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Times New Roman" style="font-size:8.0pt;font-weight:bold;">Distribution&nbsp;Date</font></b></p>
+  </td>
+  <td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.5%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Times New Roman" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>
+  </td>
+  <td width="12%" valign="bottom" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:12.0%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Times New Roman" style="font-size:8.0pt;font-weight:bold;">Filed on</font></b></p>
+  </td>
+  <td width="1%" valign="bottom" style="padding:0in 0in 0in 0in;width:1.0%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Times New Roman" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="70%" valign="bottom" bgcolor="#CCEEFF" style="background:#CCEEFF;border:none;padding:0in 0in 0in 0in;width:70.0%;">
+  <p style="margin:0in 0in .0001pt 10.0pt;text-indent:-10.0pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Corporate Backed Trust Certificates, American General Institutional
+  Capital A Capital Securities-Backed Series&nbsp;2002-17 Trust</font></p>
+  </td>
+  <td width="2%" valign="bottom" bgcolor="#CCEEFF" style="background:#CCEEFF;padding:0in 0in 0in 0in;width:2.5%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="12%" valign="bottom" bgcolor="#CCEEFF" style="background:#CCEEFF;border:none;padding:0in 0in 0in 0in;width:12.0%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">06/01/2009</font></p>
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">12/01/2009</font></p>
+  </td>
+  <td width="2%" valign="bottom" bgcolor="#CCEEFF" style="background:#CCEEFF;padding:0in 0in 0in 0in;width:2.5%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="12%" valign="bottom" bgcolor="#CCEEFF" style="background:#CCEEFF;border:none;padding:0in 0in 0in 0in;width:12.0%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">07/21/2009</font></p>
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">12/09/2009</font></p>
+  </td>
+  <td width="1%" valign="bottom" bgcolor="#CCEEFF" style="background:#CCEEFF;padding:0in 0in 0in 0in;width:1.0%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+</table>
+
+<p style="margin:0in 0in .0001pt 1.5in;text-indent:-.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt 1.5in;text-indent:-.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">2.</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">None.</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt 1.5in;text-indent:-.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">3.</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">Exhibits:</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt 1.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">31.1 &#151; Certification by </font><font size="2" style="font-size:10.0pt;">Executive</font><font size="2" style="font-size:10.0pt;"> Vice President of the Registrant
+pursuant to 15 U.S.C. Section&nbsp;7241, as adopted pursuant to Section&nbsp;302
+of the Sarbanes-Oxley Act of 2002.</font></p>
+
+<p style="margin:0in 0in .0001pt 1.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt 1.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">31.2 &#151; Annual Compliance
+Report by Trustee pursuant to 15 U.S.C. Section&nbsp;7241, as adopted pursuant
+to Section&nbsp;302 of the Sarbanes-Oxley Act of 2002.</font></p>
+
+<p style="margin:0in 0in .0001pt 1.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt 1.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">The trust covered by this
+Annual Report was formed prior to June&nbsp;30, 2003 and there is no
+requirement in the trust agreement for the preparation of a report by an independent
+public accountant regarding the Trustee&#146;s compliance with its obligations.</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(b)</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">See Item 15(a)&nbsp;above.</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="left" style="font-weight:bold;margin:0in 0in .0001pt;page-break-after:auto;text-align:left;text-indent:.5in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:normal;">(c)</font></b><font size="1" style="font-size:3.0pt;font-weight:normal;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;font-weight:normal;">Not Applicable</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">4<a name="PB_4_074528_536"></a></font></p>
+
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+
+</div>
+<!-- SEQ.=1,FOLIO='4',FILE='C:\JMS\dtodman\10-7029-16\task4024928\7029-16-bc.htm',USER='dtodman',CD='Mar 31 13:29 2010' -->
+
+
+<br clear="all" style="page-break-before:always;">
+
+
+<div style="font-family:Times New Roman;">
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="font-weight:bold;margin:0in 0in .0001pt;page-break-after:auto;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;">SIGNATURES</font></b></p>
+
+<p style="font-weight:bold;margin:0in 0in .0001pt;page-break-after:auto;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:normal;">&nbsp;</font></b></p>
+
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Pursuant to the
+requirements of Section&nbsp;13 or 15(d)&nbsp;of&#160; the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized.&#160;
+In preparing this report the Registrant has relied on Distribution
+Statements provided to it by the Trustee.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+ <tr>
+  <td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="50%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Lehman ABS Corporation, as Depositor for the</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="50%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Trust (the &#147;Registrant&#148;)</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="50%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="50%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Dated: </font><font size="2" style="font-size:10.0pt;">March&nbsp;31</font><font size="2" style="font-size:10.0pt;">, 20</font><font size="2" style="font-size:10.0pt;">10</font></p>
+  </td>
+  <td width="6%" valign="top" style="padding:0in 0in 0in 0in;width:6.26%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">By:</font></p>
+  </td>
+  <td width="43%" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:43.74%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">/s/ William</font><font size="2" style="font-size:10.0pt;"> J.</font><font size="2" style="font-size:10.0pt;"> Fox</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="6%" valign="top" style="padding:0in 0in 0in 0in;width:6.26%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Name:</font></p>
+  </td>
+  <td width="43%" valign="top" style="border:none;padding:0in 0in 0in 0in;width:43.74%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">William </font><font size="2" style="font-size:10.0pt;">J. </font><font size="2" style="font-size:10.0pt;">Fox</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="6%" valign="top" style="padding:0in 0in 0in 0in;width:6.26%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Title:</font></p>
+  </td>
+  <td width="43%" valign="top" style="padding:0in 0in 0in 0in;width:43.74%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Chief Financial Officer and Executive Vice President
+  </font></p>
+  </td>
+ </tr>
+</table>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">5<a name="PB_5_074528_5926"></a></font></p>
+
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+
+</div>
+<!-- SEQ.=1,FOLIO='5',FILE='C:\JMS\dtodman\10-7029-16\task4024928\7029-16-bc.htm',USER='dtodman',CD='Mar 31 13:29 2010' -->
+
+
+<br clear="all" style="page-break-before:always;">
+
+
+<div style="font-family:Times New Roman;">
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt 2.5in;text-align:center;text-indent:-2.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">EXHIBIT INDEX</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+ <tr>
+  <td width="9%" valign="bottom" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:9.98%;">
+  <p style="margin:0in 0in .0001pt;"><b><font size="1" face="Times New Roman" style="font-size:8.0pt;font-weight:bold;">Reference<br>
+  Number per<br>
+  Item 601 of<br>
+  Regulation&nbsp;SK</font></b></p>
+  </td>
+  <td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.5%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Times New Roman" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>
+  </td>
+  <td width="67%" valign="bottom" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:67.02%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Times New Roman" style="font-size:8.0pt;font-weight:bold;">Description of Exhibits</font></b></p>
+  </td>
+  <td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.5%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Times New Roman" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>
+  </td>
+  <td width="18%" valign="bottom" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:18.0%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Times New Roman" style="font-size:8.0pt;font-weight:bold;">Exhibit&nbsp;Number<br>
+  in this Form&nbsp;10-K</font></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="9%" valign="top" style="padding:0in 0in 0in 0in;width:9.98%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(31.1)</font></p>
+  </td>
+  <td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.5%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="67%" valign="top" style="border:none;padding:0in 0in 0in 0in;width:67.02%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Certification by </font><font size="2" style="font-size:10.0pt;">Executive</font><font size="2" style="font-size:10.0pt;"> Vice President of the Registrant
+  pursuant to 15 U.S.C. Section&nbsp;7241, as adopted pursuant to
+  Section&nbsp;302 of the Sarbanes-Oxley Act of 2002.</font></p>
+  </td>
+  <td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.5%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="18%" valign="top" style="border:none;padding:0in 0in 0in 0in;width:18.0%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">31.1</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="9%" valign="top" style="padding:0in 0in 0in 0in;width:9.98%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(31.2)</font></p>
+  </td>
+  <td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.5%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="67%" valign="top" style="padding:0in 0in 0in 0in;width:67.02%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Annual Compliance
+  Report by Trustee pursuant to 15 U.S.C. Section&nbsp;7241, as adopted
+  pursuant to Section&nbsp;302 of the Sarbanes-Oxley Act of 2002.</font></p>
+  </td>
+  <td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.5%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="18%" valign="top" style="padding:0in 0in 0in 0in;width:18.0%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">31.2</font></p>
+  </td>
+ </tr>
+</table>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">6<a name="PB_6_074528_4688"></a></font></p>
+
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+</div>
+<!-- SEQ.=1,FOLIO='6',FILE='C:\JMS\dtodman\10-7029-16\task4024928\7029-16-bc.htm',USER='dtodman',CD='Mar 31 13:29 2010' -->
+
+
+</body>
+
+</html>
+</TEXT>
+</DOCUMENT>

@@ -1,0 +1,3045 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>e603576_10k-utg.txt
+<DESCRIPTION>FORM 10-K
+<TEXT>
+
+                                    FORM 10-K
+
+                       SECURITIES AND EXCHANGE COMMISSION
+
+                             Washington, D.C. 20549
+
+|X|   Annual Report Pursuant to Section 13 or 15(d) of the Securities Exchange
+      Act of 1934
+
+|_|   Transition Report under Section 13 of 15(d) of the Securities Exchange Act
+      of 1934
+
+Commission file number: 000-51516
+
+                             UNIVERSAL TRAVEL GROUP
+                 (Name of small business issuer in its charter)
+
+                   Nevada                                 90-0296536
+      (State or other jurisdiction of       (I.R.S. Employer Identification No.)
+
+Shennan Road, Hualian Center room 301 - 309
+   Shenzhen, People's Republic of China
+-------------------------------------------               ----------
+  (Address of principal executive offices)                (Zip code)
+
+         Issuer's telephone number, including area code: 86 755 836 68489
+
+       Securities registered under Section 12(b) of the Exchange Act: None
+
+         Securities registered under Section 12(g) of the Exchange Act:
+
+                    Common Stock, $0.001 par value per share
+                   Preferred Stock, $0.001 par value per share
+
+Indicate by check mark if the registrant is a well-known seasoned issuer, as
+defined in Rule 405 of the Securities Act. Yes |_| No |X|
+
+Indicate by check mark if the registrant is not required to file reports
+pursuant to Section 13 or Section 15(d) of the Act. Yes |X| No |_|
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months (or for such shorter period that the registrant was
+required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days. Yes |X| No |_|
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405
+of Regulation S-K (ss. 229.405 of this chapter) is not contained herein, and
+will not be contained, to the best of registrant's knowledge, in definitive
+proxy or information statements incorporated by reference in Part III of this
+Form 10-K or any amendment to this Form 10-K. |_|
+
+Indicate by check mark whether the registrant is a large accelerated filer, an
+accelerated filer, a non-accelerated filer, or a smaller reporting company. See
+definitions of "large accelerated filer," "accelerated filer," and "smaller
+reporting company" in Rule 12b-2 of the Exchange Act. (Check one):
+
+Large accelerated filer |_|        Accelerated filer |_|
+Non-accelerated filer   |_|        (Do not check if a smaller reporting company)
+                                   Smaller reporting company |X|
+
+Indicate by check mark whether the registrant is a shell company (as defined in
+Rule 12b-2 of the Act). Yes |_| No |X|
+
+State the aggregate market value of the voting and non-voting common equity held
+by non-affiliates computed by reference to the price at which the common equity
+was last sold, or the average bid and asked price of such common equity, as of
+the last business day of the registrant's most recently completed second fiscal
+quarter.
+
+As of June 30, 2007, the aggregate market value of the common stock of the
+registrant held by non-affiliates (excluding shares held by directors, officers
+and other holding more than 5% of the outstanding shares of the class) was
+$52,621,034, based upon the closing sale price of $2.00 as reported on the OTC
+Bulletin Board at March 24, 2008.
+
+APPLICABLE ONLY TO REGISTRANTS INVOLVED IN BANKRUPTCY PROCEEDINGS DURING THE
+PRECEDING FIVE YEARS:
+
+Indicate by check mark whether the registrant has filed all documents and
+reports required to be filed by Section 12, 13 or 15 of the Securities Exchange
+Act of 1934 subsequent to the distribution of securities under a plan confirmed
+by a court.
+
+Yes |_| No |X|
+
+(APPLICABLE ONLY TO CORPORATE REGISTRANTS)
+
+Indicate the number of shares outstanding of each of the registrant's classes of
+common stock, as of the latest practicable date. As of March 24, 2008, the
+registrant had outstanding 38,110,517 shares of common stock.
+
+DOCUMENTS INCORPORATED BY REFERENCE
+
+List hereunder the following documents if incorporated by reference and the Part
+of the Form 10-K (e.g., Part I, Part II, etc.) into which the document is
+incorporated: (1) Any annual report to security holders; (2) Any proxy or
+information statement; and (3) Any report filed pursuant to Rule 424(b) or (c)
+under the Securities Act of 1933. - None
+
+<PAGE>
+
+                                TABLE OF CONTENTS
+
+<TABLE>
+<CAPTION>
+                                                                                                                         Pages
+                                                                                                                         -----
+<S>                                                                                                                         <C>
+PART I
+Item 1.     Description of Business ..................................................................................       3
+Item 1A.    Risk Factors..............................................................................................       5
+Item 1B.    Unresolved Staff Comments.................................................................................      13
+Item 2.     Description of Property...................................................................................      13
+Item 3.     Legal Proceedings.........................................................................................      14
+Item 4.     Submission of Matters to a Vote of Security Holders.......................................................      14
+PART II
+Item 5.     Market for Registrant's Common Equity, Related Stockholder Matters
+            and Issuer Purchases of Equity Securities.................................................................      14
+Item 6.     Selected Financial and Other Data.........................................................................      16
+Item 7.     Management's Discussion and Analysis of Financial Condition and Results of Operations.....................      16
+Item 7A     Quantitative and Qualitative Disclosures About Market Risk ...............................................      24
+Item 8.     Financial Statements and Supplementary Data ..............................................................      24
+Item 9.     Changes in and Disagreements With Accountants on Accounting and Financial Disclosure .....................      24
+Item 9A     Controls and Procedures...................................................................................      25
+Item 9B     Other Information ........................................................................................      26
+PART III
+Item 10     Directors, Executive Officers and Corporate Governance....................................................      26
+Item 11     Executive Compensation....................................................................................      30
+Item 12     Security Ownership of Certain Beneficial Owners and Management
+            and Related Stockholder Matters ..........................................................................      32
+Item 13     Certain Relationships and Related Transactions............................................................      32
+Item 14     Principal Accounting Fees and Services....................................................................      34
+PART IV
+Item 15     Exhibits and Financial Statement Schedules................................................................      34
+
+Signatures
+</TABLE>
+
+<PAGE>
+
+Special Note Regarding Forward Looking Information
+
+      Universal Travel Group (referred to in this Annual Report on Form 10-K as
+"we" or the "Company") desires to take advantage of the "safe harbor" provisions
+of the Private Securities Litigation Reform Act of 1995. This report contains a
+number of forward-looking statements that reflect management's current views and
+expectations with respect to our business, strategies, future results and events
+and financial performance. All statements made in this annual report other than
+statements of historical fact, including statements that address operating
+performance, events or developments that management expects or anticipates will
+or may occur in the future, including statements related to future cash flows,
+revenues, profitability, adequacy of funds from operations, statements
+expressing general optimism about future operating results and non-historical
+information, are forward-looking statements. In particular, the words "believe,"
+"expect," "intend," " anticipate," "estimate," "may," "will," variations of such
+words and similar expressions identify forward-looking statements, but are not
+the exclusive means of identifying such statements and their absence does not
+mean that a statement is not forward-looking. These forward-looking statements
+are subject to certain risks and uncertainties, including those discussed below.
+Our actual results, performance or achievements could differ materially from
+historical results as well as those expressed in, anticipated or implied by the
+forward-looking statements contained herein. We do not undertake any obligation
+to revise these forward-looking statements to reflect any future events or
+circumstances.
+
+      Readers should not place undue reliance on forward-looking statements,
+which are based on management's current expectations and projections about
+future events, are not guarantees of future performance, are subject to risks,
+uncertainties and assumptions (including those described below) and apply only
+as of the date of this report. Our actual results, performance or achievements
+could differ materially from the results expressed in, or implied by, the
+forward-looking statements contained herein. Factors that could cause or
+contribute to such differences include, but are not limited to, those discussed
+in "--Risk Factors" below as well as those discussed elsewhere in this report,
+and the risks discussed in our press releases and other communications to
+shareholders issued by us from time to time, which attempt to advise interested
+parties of the risks and factors that may affect our business. We undertake no
+obligation to publicly update or revise any forward-looking statements, whether
+as a result of new information, future events or otherwise
+
+
+                                       2
+<PAGE>
+
+                                     PART I
+
+Item 1. Description of Business.
+
+      History and Organization
+
+      Our Company was incorporated on January 28, 2004, in and under the laws of
+the state of Nevada. On March 15, 2006, the Company entered into an Acquisition
+Agreement and Plan of Merger (the "Acquisition Agreement") with TAM of
+Henderson, Inc. ("TAM"), whereby TAM acquired all of the outstanding shares of
+common stock, par value $.001 per share (the "Common Stock") of the Company from
+the Company's then sole stockholder and simultaneously merged with and into the
+Company, with the Company as the surviving corporation. On June 20, 2006, Mr.
+Xiao Jun ("Jun"), a former officer and director of our Company, acquired from
+the then-majority-shareholder of our Company 8,000,000 shares of the Company's
+Common Stock, for an aggregate purchase price of $435,000 (the "Stock
+Transaction"). After giving effect to such acquisition, Jun held 8,000,000 of
+the 10,450,000 shares of the Company's Common Stock then issued and outstanding,
+constituting, in the aggregate, 77% of the then issued and outstanding shares of
+Common Stock of the Company. In connection with his acquisition of shares in the
+Company, Jun was appointed as Chief Executive Officer of the Company.
+
+      On July 12, 2006 (the "Effective Date"), the Company consummated the
+transaction contemplated by the Agreement and Plan of Merger, dated as of June
+26, 2006 (the "Merger Agreement"), by and among the Company, Merger Sub of Tam,
+Inc. ("Merger Subsidiary"), a wholly owned subsidiary of the Company, Full Power
+Enterprises Global Limited ("Full Power"), and the shareholders of Full Power.
+In accordance with the Merger Agreement, Merger Subsidiary merged with and into
+Full Power, Merger Subsidiary ceased to exist and Full Power was the surviving
+entity (the "Merger Transaction"). The Full Power Shareholders received
+20,000,000 shares of Common Stock of the Company in exchange for all of the
+issued and outstanding shares of Full Power. As a result of the Merger
+Transaction, Full Power became the Company's wholly owned subsidiary. Full Power
+owns all of the issued and outstanding capital stock of Shenzhen Yu Zhi Lu
+Aviation Service Company Limited, a company organized under the laws of China
+("YZL").
+
+      In connection with the Merger Transaction, Jiangping Jiang (who, prior to
+the Merger Transaction was a shareholder of Full Power), Xin Zhang and Hoi-Yui
+Lee were appointed to our Board of Directors and Jun resigned from all position
+with our Company.
+
+      Our Business
+
+      With the acquisition of Full Power and hence YZL, the Company shifted its
+business to the online travel service industry in China. YZL is primarily
+engaged in China domestic and international airline ticketing services and cargo
+transportation agency services, as well as international lines through Hong
+Kong, Macao and Taiwan. Additionally, YZL provides hotel reservations, packaged
+tours and and air delivery services both online and through customer
+representative services. The main activities of YZL developed over the years
+include air tickets booking, hotel reservations, and tour arrangements. YZL also
+owns an aviation network (www.cnutg.com) that provides a complete air ticket
+sales network.
+
+
+                                       3
+<PAGE>
+
+      During 2007 the Company completed four acquisitions. The first company
+acquired, Shenzhen Speedy Dragon Enterprise Limited ("SSD"), is engaged in the
+business of air freight forwarding. SSD, located in Shenzhen City, is a cargo
+logistics company providing commercial, point-to-point parcel and container
+transportation services within China. It also operates as an international and
+domestic freight forwarding agency for Chinese civil aviation companies and
+provides railway and express delivery services. In connection with its delivery
+services, SSD relies upon independent parties with more than 200 vehicles and
+manages leased and owned warehouses totaling 40,000 square meters (approximately
+430,556 square feet), which it uses to stage, transfer, and store packages in
+transit. During 2007, air cargo for which transportation was arranged by SSD
+accounted for approximately 30% of the total air cargo market in Shenzhen,
+China.
+
+      The second company acquired in 2007 was Xi'an Golden Net Travel Serve
+Service Company Limited ("XGN"). XGN was established in 2001 and focuses on the
+domestic tourism market and provides air tickets, train tickets and other
+travel-related services including servicing individuals and groups attending
+conferences and exhibits, arrangements for business studies, academic exchanges,
+travel adventures, cultural education, sports competition, and theatrical
+performances. XGN also specializes in central plains tours of the Xi'an. Since
+2005, XGN has been a leader in forming joint ventures with travel agencies in
+Tibet, Xinjiang, Shanxi and Inner Mongolia that focused on western plains routes
+to enable it to advertise a "Find one agency, tour the entire Chinese west"
+service concept. XGN provides its customers with one-stop shopping service.
+
+      The third company acquired in 2007 was Shanghai Lanbao Travel Service
+Company Limited ("SLB"). SLB was established in 2002 and its core business focus
+is a centralized real-time booking system providing consumers and travel related
+businesses with hotel bookings, air ticket and tourism information via the
+internet and mobile phone text-messaging technology. It owns and manages the
+award winning China Booking Association website, http://www.cba-hotel.com/,
+which receives approximately 200,000 visitors daily.
+
+      The fourth company acquired in 2007 was Foshan Overseas International
+Travel Service Co., Ltd. ("FOI"). FOI was established in 1990. Its core business
+focuses on both domestic and international tourism, as well as packaged airfare,
+hotel and conference reservations with ground transportation in China. FOI is
+recognized as a local market leader, with the second largest business volume in
+its territory. For three consecutive years, FOI has been recognized as one of
+the 100 outstanding enterprises by the China Tourism Bureau and in 2004 was
+voted one of the most credible enterprises in the country. Last year the company
+served more than 120,000 people with packaged tours and conferences.
+
+Sales and Marketing
+
+      We advertise our services for the general public through roadside
+billboards, brochures, internet ads, cell phone message ads, newspapers and
+magazines ads.
+
+
+                                       4
+<PAGE>
+
+Competition
+
+      Our main competitors in China in the online booking industry include
+Ctrip.com International, Ltd. and eLong, Inc. Competitors in the other
+businesses in which we are engaged include Lai Si Da Aviation Service Company
+Limited, Zhong Hao Hui Freight and Flight Agency Company Limited, Da Zhi Cheng
+Aviation Service Company Limited, Shenzhen Shi Xun Industry Company Limited, and
+Tempus International Logistic Company Limited.
+
+      Many of our competitors, particularly those engaged in the online booking
+industry, are better established than us, are more widely known to consumers,
+have larger infrastructures and greater capital resources.
+
+Employees
+
+      At the current time, in addition to our officers, we have approximately
+320 employees. None of our employees is a member of a union and our
+relationships with our employees are generally satisfactory.
+
+Item 1A. Risk Factors.
+
+      The reader should carefully consider each of the risks described below. If
+any of the following risks described below should occur, our business, financial
+condition or results of operations could be materially adversely affected and
+the trading price of our common stock could decline significantly.
+
+Risks Related to the Company
+
+      Risks associated with business declines or disruptions in the travel
+      industry generally could reduce our revenue.
+
+      A large part of our revenues are driven by the trends that occur in the
+travel industry in China, including the hotel, airline and packaged-tour
+industries. As the travel industry is highly sensitive to business and personal
+discretionary spending levels, it tends to decline during general economic
+downturns. Other adverse trends or events that tend to reduce travel and are
+likely to reduce the Company's revenues include the following:
+
+            o     an outbreak of political or economic unrest in China;
+
+            o     a recurrence of SARS or any other serious contagious diseases;
+
+            o     increased prices in the hotel, airline, or other
+                  travel-related industries;
+
+            o     increased occurrence of travel-related accidents;
+
+            o     outbreak of war or conflict in the Asia-Pacific region;
+
+            o     increases in terrorism or the occurrence of a terrorist attack
+                  in the Asia-Pacific region;
+
+            o     poor weather conditions; and
+
+            o     natural disasters.
+
+
+                                       5
+<PAGE>
+
+      The Company could be severely affected by changes in the travel industry
+and will, in many cases, have little or no control over those changes. As a
+result of any of these events, our operating results and financial conditions
+could be materially and adversely affected.
+
+      Loss of Key Personnel Could Affect Our Ability to Successfully Grow Our
+Business.
+
+      The Company is highly dependent upon the services of its senior management
+team. The permanent loss for any of the key executives could have a material
+adverse effect upon our operating results.
+
+      Our management is comprised almost entirely of individuals residing in the
+PRC with very limited English skills
+
+      Our management is comprised almost entirely of individuals born and raised
+in the PRC. As a result of differences in culture, educational background and
+business experiences, our management may analyze, evaluate and present business
+opportunities and results of operations differently from the way they are
+analyzed, evaluated and presented by management teams of public companies in
+Europe and the United States. In addition, our management has very limited
+skills in English. Consequently, it is possible that our management team will
+emphasize or fail to emphasize aspects of our business that might customarily be
+emphasized in a different manner by comparable public companies from different
+geographical and political areas.
+
+      Our management is not familiar with the United States securities laws.
+
+      Our management and the former owners of the businesses we acquire are
+generally unfamiliar with the requirements of the United States securities laws
+and may not appreciate the need to devote the resources necessary to comply with
+such laws. A failure to adequately respond to applicable securities laws could
+lead to investigations by the Securities and Exchange Commission and other
+regulatory authorities that could be costly, divert management's attention and
+disrupt our business.
+
+      Our operating history is not an adequate basis to judge our future
+prospects.
+
+      We have encountered and will continue to encounter risks and difficulties
+frequently experienced by companies in evolving industries such as the travel
+service industry in China. Some of the risks relate to our ability to:
+
+            o attract and retain customers and encourage our customers to engage
+            in repeat transactions;
+
+            o retain our existing agreements with travel suppliers such as
+            hotels and airlines and to expand our service offerings on
+            satisfactory terms with our travel suppliers;
+
+            o operate, support, expand and develop our operations, our call
+            center, our website, and our communications and other systems;
+
+
+                                       6
+<PAGE>
+
+            o diversify our sources of revenue;
+
+            o maintain effective control of our expenses; and
+
+            o respond to changes in our regulatory environment.
+
+If we are not successful in addressing any or all of these risks, our business
+may be materially affected in an adverse manner.
+
+      The travel industry in China is seasonal.
+
+      Our business travel operations experience seasonal fluctuations,
+reflecting seasonal variations in demand for travel services. During the first
+quarter, demand for travel services generally declines in China and the number
+of bookings flattens or decreases, in part due to a slowdown in business
+activity during the Chinese New Year holiday. Demand for travel services
+generally peaks during the second half of the year and there may be seasonal
+fluctuations in allocations of travel services made available to us by travel
+suppliers. Consequently, our revenues may fluctuate from quarter to quarter.
+
+      Our business depends on the technology infrastructure of third parties.
+
+      We rely on third-party computer systems and other service providers,
+including the computerized reservation systems of airlines and hotels to make
+reservations and confirmations. Other third parties provide, for instance, our
+back-up data center, telecommunications access lines, significant computer
+systems and software licensing, support and maintenance service and air-ticket
+delivery. Any interruption in these or other third-party services or
+deterioration in their performance could impair the quality of our service.
+
+Risks Related to our Common Stock
+
+      There is a limited public market for our common stock.
+
+      There is currently a limited public market for our common stock. Holders
+of our common stock may, therefore, have difficulty selling their common stock,
+should they decide to do so. In addition, there can be no assurances that such
+markets will continue or that any shares of common stock, which may be
+purchased, may be sold without incurring a loss. Any such market price of the
+common stock may not necessarily bear any relationship to our book value,
+assets, past operating results, financial condition or any other established
+criteria of value, and may not be indicative of the market price for the common
+stock in the future. Further, the market price for the common stock may be
+volatile depending on a number of factors, including business performance,
+industry dynamics, and news announcements or changes in general economic
+conditions.
+
+      Ownership of our common stock is concentrated.
+
+      Our common stock is owned by a relatively small number of holders, some of
+whom have business relationships in China. A determination by any of such
+holders to sell all or a substantial portion of its holdings could depress the
+trading price of our common stock.
+
+
+                                       7
+<PAGE>
+
+      We have not and do not anticipate paying any dividends on our common
+stock.
+
+      We have paid no dividends on our common stock to date and it is not
+anticipated that any dividends will be paid to holders of our common stock in
+the foreseeable future. While our future dividend policy will be based on the
+operating results and capital needs of the business, it is currently anticipated
+that any earnings will be retained to finance our future expansion and for the
+implementation of our new business plan. As an investor, you should take note of
+the fact that a lack of a dividend can further affect the market value of our
+stock, and could significantly affect the value of any investment in our
+Company.
+
+      We will incur significant costs as a result of operating as a public
+      company and our management will be required to devote substantial time to
+      compliance requirements.
+
+            As a public company we incur significant legal, accounting and other
+expenses under the Sarbanes-Oxley Act of 2002, together with rules implemented
+by the Securities and Exchange Commission and applicable market regulators.
+These rules impose various requirements on public companies, including requiring
+certain corporate governance practices. Our management and other personnel will
+need to devote a substantial amount of time to these compliance requirements.
+
+
+                                       8
+<PAGE>
+
+      In addition, the Sarbanes-Oxley Act requires, among other things, that we
+maintain effective internal controls for financial reporting and disclosure
+controls and procedures. In particular, commencing in 2007, we must perform
+system and process evaluations and testing of our internal controls over
+financial reporting to allow management to report on the effectiveness of our
+internal controls over financial reporting, as required by Section 404 of the
+Sarbanes-Oxley Act. Our testing may reveal deficiencies in our internal controls
+over financial reporting that are deemed to be material weaknesses. Compliance
+with Section 404 may require that we incur substantial accounting expenses and
+expend significant management efforts. If we are not able to comply with the
+requirements of Section 404 in a timely manner, or if our accountants later
+identify deficiencies in our internal controls over financial reporting that are
+deemed to be material weaknesses, the market price of our stock could decline
+and we could be subject to sanctions or investigations by the SEC or other
+applicable regulatory authorities.
+
+      Our Board of Directors has the authority, without stockholder approval, to
+      issue preferred stock with terms that may not be beneficial to common
+      stock holders.
+
+      Our Amended and Restated Articles of incorporation authorizes the issuance
+of preferred shares which may be issued with dividend, liquidation, voting and
+redemption rights senior to our Common Stock without prior approval by the
+stockholders. The Preferred Stock may be issued for such consideration as may be
+fixed from time to time by the Board of Directors. The Board of Directors may
+issue such shares of Preferred Stock in one or more series, with such
+designations, preferences and rights or qualifications, limitations or
+restrictions thereof as shall be stated in the resolution of resolutions.
+
+      The issuance of preferred stock could adversely affect the voting power
+and other rights of the holders of common stock. Preferred stock may be issued
+quickly with terms calculated to discourage, make more difficult, delay or
+prevent a change in control of our Company or make removal of management more
+difficult. As a result, the Board of Directors' ability to issue preferred stock
+may discourage the potential hostile acquirer, possibly resulting in beneficial
+negotiations. Negotiating with an unfriendly acquirer may result in, among other
+things, terms more favorable to us and our stockholders. Conversely, the
+issuance of preferred stock may adversely affect any market price of, and the
+voting and other rights of the holders of the common stock. We presently have no
+plans to issue any preferred stock.
+
+Risks Related to Doing Business in China
+
+      It may be difficult for our stockholders to enforce their rights against
+      the Company or its officers or directors.
+
+      Because our principal assets are located outside of the United States and
+some of our directors and all of our executive officers reside outside of the
+United States, it may be difficult for you to enforce your rights based on the
+United States Federal securities laws against us and our officers and directors
+in the United States or to enforce judgments of United States courts against us
+or them in the People's Republic of China.
+
+      In addition, our operating subsidiaries and substantially all of our
+assets are located outside of the United States. You will find it difficult to
+enforce your legal rights based on the civil liability provisions of the United
+States Federal securities laws against us in the courts of either the United
+States or the People's Republic of China and, even if civil judgments are
+obtained in courts of the United States, to enforce such judgments in the courts
+of the People's Republic of China. In addition, it is unclear if extradition
+treaties in effect between the United States and the People's Republic of China
+would permit effective enforcement against us or our officers and directors of
+criminal penalties, under the United States Federal securities laws or
+otherwise.
+
+
+                                       9
+<PAGE>
+
+      Our business operations take place primarily in China. Because Chinese
+      laws, regulations and policies are continually changing, our operations
+      will face numerous risks.
+
+      Because the Company's operations primarily take place outside of the
+United States and are subject to Chinese laws, regulations and policies
+affecting any change of Chinese laws may adversely affect the Company's
+business, such as exchange controls and currency restrictions, currency
+fluctuations and devaluations, changes in local economic conditions, changes in
+Chinese laws and regulations, exposure to possible expropriation or other
+Chinese government actions, and unsettled political conditions. These factors
+may have a material adverse effect on the Company's operations or on the
+Company's business, results of operations and financial condition.
+
+      China's economy differs from the economies of most developed countries in
+many respects, including substantial governmental regulation, development,
+growth rate, control of foreign exchange, significant restrictions on property
+rights, taxation levels, and permitted allocation of resources. While the
+People's Republic of China economy has experienced significant growth in the
+past 20 years, growth has been uneven across different regions and among various
+economic sectors of China. The government of the People's Republic of China has
+implemented various measures to encourage economic development and guide the
+allocation of resources, which may or may not achieve the desired results or
+stated goals. Some of these measures may benefit the overall economy of People's
+Republic of China, but may also have a negative effect on us or on the economy
+in general. For example, our financial condition and results of operations may
+be adversely affected by government control over capital investments or changes
+in tax regulations that are applicable to us. Since early 2004, the government
+of the People's Republic of China has implemented certain measures to control
+the pace of economic growth. Such measures may cause a decrease in the level of
+economic activity in China, which could adversely affect our results of
+operations and financial condition.
+
+      Limitations on Chinese economic market reforms may discourage foreign
+investment in Chinese businesses.
+
+      The value of investments in Chinese businesses could be adversely affected
+by political, economic and social uncertainties in China. The economic reforms
+in China in recent years are regarded by China's central government as a way to
+introduce economic market forces into China. Given the overriding desire of the
+central government leadership to maintain stability in China amid rapid social
+and economic changes in the country, the economic market reforms of recent years
+could be slowed, or even reversed.
+
+
+                                       10
+<PAGE>
+
+      We face economic risks in doing business in China.
+
+      As a developing nation, China's economy is more volatile than that of
+developed Western industrial economies. It differs significantly from that of
+the U.S. or a Western European country in such respects as structure, level of
+development, capital reinvestment, resource allocation and self-sufficiency.
+Only in recent years has the Chinese economy moved from what had been a command
+economy through the 1970s to one that during the 1990s encouraged substantial
+private economic activity. In 1993, the Constitution of China was amended to
+reinforce such economic reforms. The trends of the 1990s indicate that future
+policies of the Chinese government will emphasize greater utilization of market
+forces. For example, in 1999 the Government announced plans to amend the Chinese
+Constitution to recognize private property, although private business will
+officially remain subordinated to the state-owned companies, which are the
+mainstay of the Chinese economy. However, there can be no assurance that, under
+some circumstances, the government's pursuit of economic reforms will not be
+restrained or curtailed. Actions by the central government of China could have a
+significant adverse effect on economic conditions in the country as a whole and
+on the economic prospects for our Chinese operations.
+
+      Any slowdown of economic growth in China could have a negative effect on
+our business. There can be no assurance that the growth of the economy in China
+will continue or that any slowdown will not have a negative effect on our
+business.
+
+      Our online business relies on the existence of an adequate
+      telecommunications infrastructure for continued growth of China's internet
+      market.
+
+      Although private sector Internet service providers currently exist in
+China, almost all access to the Internet is maintained through a network owned
+by China Netcom under the regulatory supervision of China's Ministry of
+Information Industry. In addition, the national networks in China connect to the
+Internet through a government-controlled international gateway. This
+international gateway is the only channel through which a domestic Chinese user
+can connect to the international Internet network. We rely on this
+infrastructure and China Netcom to provide data communications capacity,
+primarily through local telecommunications lines. We cannot assure you that this
+infrastructure will be further developed. In addition, we will have no access to
+alternative networks and services, on a timely basis if at all, in the event of
+any infrastructure disruption or failure. The Internet infrastructure in China
+may not support the demands associated with continued growth in Internet usage.
+
+      We may suffer currency exchange losses if the Renminbi depreciates
+      relative to the U.S. Dollar.
+
+      Our reporting currency is the U.S. dollar. However, a substantial portion
+of our assets and revenues are denominated in the Chinese currency, Renminbi,
+commonly referred to as RMB. Our assets and revenues expressed in our U.S.
+dollar financial statements will decline in value of the Renminbi depreciates
+relative to the U.S. dollar. Any such depreciation could adversely affect the
+market price of our common stock. Very limited hedging transactions are
+available in China to reduce our exposure to exchange rate fluctuations and we
+do not intend to engage in any such transactions. In addition, our currency
+exchange losses may be magnified by Chinese exchange control regulations that
+restrict our ability to convert Renminbi into U.S. Dollars.
+
+
+                                       11
+<PAGE>
+
+      We may not be able to freely convert Renminbi into foreign currency.
+
+      A portion of our revenues and operating expenses will be denominated in
+Renminbi while a portion of our capital expenditures are denominated in U.S.
+dollars.
+
+      Under current Chinese regulations, the payment of dividends, trade and
+service-related foreign transactions to a foreign investor of a foreign-invested
+enterprise is treated as a "current account" payment for which the approval of
+the State Administration of Foreign Exchange is not required. However, in order
+to distribute dividends we may be required to file documentation to a designated
+foreign exchange bank. The Bank must certify that all requirements have been
+met, such as payment of taxes, directors' approval and a capital verification
+report issued by an accounting firm. If a foreign-invested enterprise dissolves,
+a return of capital, which includes foreign direct investment, is treated as a
+"capital account" payment. This typically requires approval of the State
+Administration of Foreign Exchanges' in addition to the filing of documentation.
+
+      We may currently convert Renminbi for transactions under the "current
+account" without the approval of the State Administration of Foreign Exchange
+for settlement of "current account" transactions, including payment of
+dividends, by providing commercial documents evidencing these transactions. They
+may also retain foreign exchange in their current accounts (subject to a ceiling
+approved by the State Administration of Foreign Exchange) to satisfy foreign
+exchange liabilities or to pay dividends. However, the relevant Chinese
+governmental authorities may limit or eliminate the ability to purchase and
+retain foreign currencies in the future. Such change of policy would materially
+and adversely affect our business, financial condition and results of
+operations.
+
+      The Chinese legal and judicial system may negatively impact foreign
+      investors.
+
+      In 1982, the National Peoples Congress amended the Constitution of China
+to authorize foreign investment and guarantee the "lawful rights and interests"
+of foreign investors in China. However, China's system of laws is not yet
+comprehensive. The legal and judicial systems in China are still rudimentary,
+and enforcement of existing laws is inconsistent. Many judges in China lack the
+depth of legal training and experience that would be expected of a judge in a
+more developed country. Because the Chinese judiciary is relatively
+inexperienced in enforcing the laws that do exist, anticipation of judicial
+decision-making is more uncertain than would be expected in a more developed
+country. It may be impossible to obtain swift and equitable enforcement of laws
+that do exist, or to obtain enforcement of the judgment of one court by a court
+of another jurisdiction. China's legal system is based on written statutes; a
+decision by one judge does not set a legal precedent that is required to be
+followed by judges in other cases. In addition, the interpretation of Chinese
+laws may be varied to reflect domestic political changes.
+
+
+                                       12
+<PAGE>
+
+      The promulgation of new laws, changes to existing laws and the pre-emption
+of local regulations by national laws may adversely affect foreign investors.
+However, the trend of legislation over the last 20 years has significantly
+enhanced the protection of foreign investment and allowed for more control by
+foreign parties of their investments in Chinese enterprises. There can be no
+assurance that a change in leadership, social or political disruption, or
+unforeseen circumstances affecting China's political, economic or social life,
+will not affect the Chinese government's ability to continue to support and
+pursue these reforms. Such a shift could have a material adverse effect on our
+business and prospects.
+
+      The practical effect of the Peoples Republic of China legal system on our
+business operations in China can be viewed from two separate but intertwined
+considerations. First, as a matter of substantive law, the Foreign Invested
+Enterprise laws provide significant protection from government interference. In
+addition, these laws guarantee the full enjoyment of the benefits of corporate
+Articles and contracts to Foreign Invested Enterprise participants. These laws,
+however, do impose standards concerning corporate formation and governance,
+which are not qualitatively different from the general corporation laws of the
+several states. Similarly, the Peoples Republic of China accounting laws mandate
+accounting practices, which are not consistent with U.S. Generally Accepted
+Accounting Principles. China's accounting laws require that an annual "statutory
+audit" be performed in accordance with Peoples Republic of China accounting
+standards and that the books of account of Foreign Invested Enterprises are
+maintained in accordance with Chinese accounting laws. Article 14 of the Peoples
+Republic of China Wholly Foreign-Owned Enterprise Law requires a Wholly
+Foreign-Owned Enterprise to submit certain periodic fiscal reports and
+statements to designate financial and tax authorities, at the risk of business
+license revocation. Second, while the enforcement of substantive rights may
+appear less clear than United States procedures, the Foreign Invested
+Enterprises and Wholly Foreign-Owned Enterprises are Chinese registered
+companies, which enjoy the same status as other Chinese registered companies in
+business-to-business dispute resolution. Generally, the Articles of Association
+provide that all business disputes pertaining to Foreign Invested Enterprises
+are to be resolved by the Arbitration Institute of the Stockholm Chamber of
+Commerce in Stockholm, Sweden, applying Chinese substantive law. Any award
+rendered by this arbitration tribunal is, by the express terms of the respective
+Articles of Association, enforceable in accordance with the "United Nations
+Convention on the Recognition and Enforcement of Foreign Arbitral Awards
+(1958)." Therefore, as a practical matter, although no assurances can be given,
+the Chinese legal infrastructure, while different in operation from its United
+States counterpart, should not present any significant impediment to the
+operation of Foreign Invested Enterprises.
+
+Item 1B. Unresolved Staff Comments.
+
+      Not applicable.
+
+Item 2. Description of Property.
+
+      Our principal executive offices are located at Shennan Road, Hualian
+Center Room 301 - 304, Shenzhen, People's Republic of China. Such offices
+contain approximately 8,600 square feet of usable space are subject to a lease
+which expires November 2008. The monthly rent payable for these offices is
+$4,500.
+
+
+                                       13
+<PAGE>
+
+      In addition to our headquarters, we maintain offices at the locations
+listed below which require aggregate monthly payments of $12,300.
+
+      1.    Nanshan Branch: Room A01, 1st Floor Lobby, Yi Hai Square, Chuang Ye
+            Road, Nanshan Qu, Shenzhen City.
+
+      2.    Luohu Branch: 1st Floor Lobby, Dongmen Hotel, Hubei Road, Luohu Qu,
+            Shenzhen City.
+
+      3.    Baoan Airport Branch: BT60-62, Area A, Shenzhen Baoan Airport.
+
+      4.    Fuyong Branch: No. 129. Bai Shi Sha Blvd, Fuyong Zhen, Shenzhen
+            City.
+
+      5.    Longhua Zhuojing Branch: No.11 Sheng Di Long Quan, Ban Ren Min Bei
+            Road, Longhua Blvd, Shenzhen City.
+
+      6.    Xinzhou Branch: 1st Floor Business Center, Chu Tian Hotel, Hubei
+            Building, Bin He Road, Shenzhen City.
+
+      7.    No. 2008 Shennan Road, Hua Lian Building Suite 305-309,
+            Shenzhen City.
+
+Item 3. Legal Proceedings.
+
+      The Company, its subsidiaries and its property are not a party to any
+pending legal proceeding
+
+Item 4. Submission of Matters to a Vote of Security Holders.
+
+      We did not submit any matter to a vote of our stockholders during the
+fourth quarter of 2007.
+
+                                     PART II
+
+Item 5. Market for Company's Common Equity, Related Stockholder Matters and
+        Issuer Purchases of Equity Securities.
+
+      Market Information.
+
+      Our common stock, $.001 par value, is traded on the OTC Bulletin Board
+under the symbol UTVG. Prior to August 21, 2006, the date we changed our name
+from TAM of Henderson, Inc. to Universal Travel Group, our Common Stock was
+quoted under the symbol "TMHN."
+
+      The prices set forth below reflect the quarterly high and low bid price
+information for shares of our common stock for the periods indicated. These
+quotations reflect inter-dealer prices, without retail markup, markdown or
+commission, and may not represent actual transactions.
+
+
+                                       14
+<PAGE>
+
+                   2007                  High                Low
+              --------------           -------             -------
+              Fourth Quarter           $  5.72             $  2.75
+              Third Quarter            $  4.08             $  1.85
+              Second Quarter           $  3.60             $  1.57
+              First Quarter            $  1.80             $  0.40
+
+                   2006
+              Fourth Quarter           $  1.66             $  0.35
+              Third Quarter            $  1.20             $  0.65
+              Second Quarter           $   N/A             $   N/A
+              First Quarter            $   N/A             $   N/A
+
+      Holders of Securities.
+
+      As of March 24, 2008, there were approximately 33 holders of record of our
+common stock.
+
+      Our common stock is covered by a Commission rule that imposes additional
+sales practice requirements on broker-dealers who sell such securities to
+persons other than established customers and accredited investors, which are
+generally institutions with assets in excess of $5,000,000 or individuals with
+net worth in excess of $1,000,000 or annual income exceeding $200,000 or
+$300,000 jointly with their spouse. For transactions covered by the rule, the
+broker-dealer must make a special suitability determination for the purchaser
+and transaction prior to the sale. Consequently, the rule may affect the ability
+of broker-dealers to sell our securities and also may affect the ability of
+purchasers of our common stock to sell their shares in the secondary market. It
+may also cause fewer broker-dealers to be willing to make a market in our common
+stock, and it may affect the level of news coverage we receive.
+
+      Dividends.
+
+      We have not declared or paid any cash dividends on our common stock since
+our inception, and our board of directors currently intends to retain all
+earnings for use in the business for the foreseeable future. Any future payment
+of dividends will depend upon our results of operations, financial condition,
+cash requirements and other factors deemed relevant by our board of directors.
+There are currently no restrictions that limit our ability to declare cash
+dividends on its common stock and we do not believe that there are any that are
+likely to do so in the future.
+
+      Securities Authorized for Issuance Under Equity Compensation Plans.
+
+      In January 2007 the Company adopted the Universal Travel Group 2007 Equity
+Incentive Plan. In the first quarter of 2007 the Company issued 3,770,000 shares
+of its common stock pursuant to the Plan for services rendered from October 2,
+2006, through February 28, 2007. At the time of issuance the 3,770,000 shares
+were valued at $1,583,400, of which $950,040 was charged against earnings in
+2006 and $633,360 was charged against earnings for 2007.
+
+
+                                       15
+<PAGE>
+
+      There are no longer any shares available for issuance pursuant to the
+Universal Travel Group 2007 Equity Incentive Plan.
+
+      During 2007 we issued Options to purchase 100,000 shares to each of three
+newly appointed directors. The Options are exercisable for a period of
+approximately 10 years from the date of issuance and are exercisable at prices
+of $1.95; $2.85 and $3.75, respectively. The following table provides
+information as of December 31, 2007 about our outstanding equity compensation
+plans and arrangements.
+
+Equity Compensation Plan Information - December 31, 2007
+
+<TABLE>
+<CAPTION>
+-------------------------------------------------------------------------------------------------------------------
+                                                                                   Number of securities remaining
+                          Number of securities to   Weighted-average exercise   available for future issuance under
+     Plan category        be issued upon exercise      price of outstanding          equity compensation plans
+                          of outstanding options,     options, warrants and      (excluding securities reflected in
+                            warrants and rights               rights                        column (a))
+-------------------------------------------------------------------------------------------------------------------
+                                    (a)                        (b)                              (c)
+-------------------------------------------------------------------------------------------------------------------
+<S>                               <C>                         <C>                                <C>
+Equity compensation
+plans approved by                  none                        N/A                               0
+security holders
+-------------------------------------------------------------------------------------------------------------------
+Equity compensation
+plans not approved by             300,000                     $2.85                              0
+security holders
+-------------------------------------------------------------------------------------------------------------------
+Total                             300,000                     $2.85                              0
+-------------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+Purchases of Equity Securities by the Company and Affiliated Purchasers
+
+      During the fourth quarter of our fiscal year ended December 31, 2007,
+neither we nor any "affiliated purchaser" (as defined in Rule 10b-18(a)(3) under
+the Exchange Act) purchased any shares of our common stock, the only class of
+our outstanding equity securities registered pursuant to section 12 of the
+Exchange Act.
+
+      Recent Sales of Unregistered Equity Securities
+
+      There were no unregistered sales of equity securities during 2007 that
+were not previously included by the Company in a Current Report on Form 8-K or
+on a Quarterly Report on Form 10-Q or 10-QSB.
+
+Item 6. Selected Financial Data.
+
+      Not applicable.
+
+Item 7. Management's Discussion and Analysis of Financial Condition and Results
+        of Operation.
+
+
+                                       16
+<PAGE>
+
+Introduction
+
+      The following discussion should be read in conjunction with the
+Consolidated Financial Statements and Notes thereto appearing elsewhere in this
+Form 10-K. The following discussion contains forward-looking statements. Our
+actual results may differ significantly from those projected in the
+forward-looking statements. Factors that may cause future results to differ
+materially from those projected in the forward-looking statements include, but
+are not limited to, those discussed in "Risk Factors" and elsewhere in this
+Report on Form 10-K.
+
+OVERVIEW
+
+      In June 2006, we commenced our business in the online travel service
+industry in China through the acquisition of Full Power Enterprises Global
+Limited ("Full Power") a holding corporation formed under the laws of the
+British Virgin Islands which owned all of the capital stock of Shenzhen Yu Zhi
+Lu Aviation Service Company Limited ("YZL). The acquisition of Full Power and
+YZL was accounted for as a reverse acquisition. Consequently, the financial
+statements included herein for dates and periods prior to the consummation of
+the acquisition reflect the historical financial condition, results of
+operations and cash flows of Full Power and, hence, YZL.
+
+      YZL, a company organized under the laws of China, is primarily engaged in
+China domestic and international airline ticketing services and cargo
+transportation agency services as well as international lines through Hong Kong,
+Macao and Taiwan. Additionally, YZL provides hotel reservations, packaged tours,
+and air delivery services. The main activities of YZL developed over the years
+include air tickets booking, hotel reservations, and tour arrangements. YZL also
+owns an aviation network (www.cnutg.com) that provides a complete air ticket
+sales network.
+
+      On April 10, 2007, the Company acquired Shenzhen Speedy Dragon Enterprise
+Limited ("SSD") in exchange for 714,285 shares of the Company's common stock and
+an interest-free promissory note in the principal amount of $3,000,000, payable
+no later than April 10, 2008.
+
+      SSD, located in Shenzhen City, is a cargo logistics company providing
+commercial, point-to-point parcel and container transportation services within
+China. It also operates as an international and domestic freight forwarding
+agency for Chinese civil aviation companies and provides railway and express
+delivery services. SSD relies upon independent delivery services with more than
+200 vehicles and manages leased and owned warehouses totaling 40,000 square
+meters (approximately 430,556 square feet), which it uses to stage, transfer,
+and store packages in transit. During 2007, air cargo for which SSD arranged
+transportation accounted for approximately 30% of the total air cargo market in
+Shenzhen, China.
+
+      On August 6, 2007, the Company acquired Xi'an Golden Net Travel Serve
+Service Company Limited ("XGN") in exchange for 151,765 shares of the Company's
+common stock and interest-free promissory notes in the aggregate principal
+amount of $1,542,000, payable no later than August 6, 2008.
+
+
+                                       17
+<PAGE>
+
+      XGN was established in 2001 and focuses on the domestic tourism market and
+provides air tickets, train tickets and other travel-related services including
+servicing individuals and groups attending conferences and exhibits,
+arrangements for business studies, academic exchanges, travel adventures,
+cultural education, sports competition, and theatrical performances. XGN also
+specializes in central plains tours of the Xi'an. Since 2005, XGN has been a
+leader in forming joint ventures with travel agencies in Tibet, Xinjiang, Shanxi
+and Inner Mongolia that focused on western plains routes to enable it to
+advertise a "Find one agency, tour the entire Chinese west" service concept. XGN
+provides its customers with a one-stop shopping service.
+
+      On August 8, 2007, the Company acquired Shanghai Lanbao Travel Service
+Company Limited ("SLB") in exchange for 600,000 shares of the Company's common
+stock and interest-free promissory notes in the aggregate principal amount of
+$2,828,000, payable no later than August 8, 2008.
+
+      SLB was established in 2002 and its core business focus is a centralized
+real-time booking system providing consumers and travel related businesses with
+hotel bookings, air ticket and tourism information via the internet and mobile
+phone text-messaging technology. It owns and manages the award winning China
+Booking Association website, http://www.cba-hotel.com/, which receives
+approximately 200,000 visitors daily.
+
+      On October 29, 2007, the Company acquired Foshan Overseas International
+Travel Service Co., Ltd. ("FOI") in exchange for 1,122,986 shares of the
+Company's common stock and interest-free promissory notes in the aggregate
+principal amount of $3,153,500, payable no later than October 29, 2008. .
+
+      FOI was established in 1990. Its core business focuses on both domestic
+and international tourism, as well as packaged airfare, hotel and conference
+reservations with ground transportation in China. FOI is recognized as a local
+market leader, with the second largest business volume in its territory. For
+three consecutive years, the company has been recognized as one of the 100
+outstanding enterprises by the China Tourism Bureau and in 2004 was voted one of
+the most credible enterprises in the country. Last year the company served more
+than 120,000 people with packaged tours and conferences.
+
+      All capital stock shares and amounts and per share data included herein
+have been retroactively restated for the recapitalization treatment accorded the
+acquisition of FPEG. Because the acquisition of each of XGN and SLB occurred
+during the third quarter the financial statements of the Company and the
+Management's Discussion and Analysis set forth below include the results of
+operations of XGN and SLB for the period of August 6 through December 31, 2007
+and August 8 through December 31, 2007, respectively. The acquisition of FOI
+occurred subsequent to the end of the third quarter and, consequently, only its
+4th quarter results in 2007 are reflected in the financial statements included
+in this Report.
+
+
+                                       18
+<PAGE>
+
+RESULTS OF OPERATIONS
+
+      The following table presents certain consolidated statement of operations
+information derived from the consolidated statements of income for years ended
+December 31, 2006 and 2007.
+
+                                                   FY2007               FY2006
+                                                   ------               ------
+
+Revenues                                        $44,294,853          $10,013,788
+
+Cost of Services                                $29,519,012          $ 4,594,376
+--------------------------------------------------------------------------------
+Gross Profit                                    $14,775,841          $ 5,419,412
+
+General and Administrative Expense              $ 3,229,526          $ 1,353,434
+
+Stock based compensation                        $   945,903          $   950,040
+
+Income from Operations                          $10,600,412          $ 3,115,938
+
+Revenue by subsidiary:
+
+<TABLE>
+<CAPTION>
+                        YZL            SSD            XGN             SLB           FOI           Total
+<S>                 <C>            <C>            <C>            <C>            <C>            <C>
+Sales               $16,760,039    $11,739,272    $ 8,548,989    $ 2,383,129    $ 4,863,423    $44,294,853
+
+Cost of Services    $ 7,574,560    $ 9,631,553    $ 7,297,253    $   764,774    $ 4,250,872    $29,519,012
+----------------------------------------------------------------------------------------------------------
+Gross Profit        $ 9,185,480    $ 2,107,719    $ 1,251,736    $ 1,618,355    $   612,551    $14,775,841
+</TABLE>
+
+                       YZL(%)    SSD(%)    XGN(%)    SLB(%)    FOI(%)   Total(%)
+
+Sales                   38%       27%       19%        5%       11%      100%
+
+Cost of Services        26%       33%       25%        3%       14%      100%
+--------------------------------------------------------------------------------
+Gross Profit            62%       14%        8%       11%        4%      100%
+
+      Revenues for the year ended December 31, 2007 ("fiscal 2007") were
+$44,294,853 compared to $10,013,788 for the year ended December 31, 2006
+("fiscal 2006"), an increase of approximately 342%. This increase is
+attributable to the Company's organic growth as well as its expansion into air
+cargo transportation, packaged tours services and hotel booking services,
+through the acquisitions of SSD, XGN, SLB and FOI.
+
+      Gross Profit for fiscal 2007 was $14,775,841 compared to $5,419,412 for
+fiscal 2006, an increase of approximately 173%. The increase in gross profit
+reflects the Company's aggressive growth strategy as exemplified by continued
+growth in its traditional customer base and the acquisitions of SSD, XGN , SLB
+and FOI.
+
+
+                                       19
+<PAGE>
+
+      Gross profit margin for fiscal 2007 was 33% compared to 54% in fiscal
+2006. This decrease is primarily due to the fact that the accounting treatment
+for the operations of SSD, XGN and SLB and other new operations undertaken by
+the Company require the deduction of cost of service to derive gross profit as
+opposed to the businesses the Company was engaged in during the fiscal year 2006
+which recorded commissions earned on airline bookings and whose cost of service
+was minimal as compared to the commissions earned.
+
+      Selling, general and administrative expenses for fiscal 2007 totaled
+$3,229,526 compared to $1,353,434 in fiscal 2006. S, G & A was approximately 7%
+of revenues in fiscal 2007 as compared to 14% for fiscal 2006. The increase in
+S,G & A reflects the acquisitions of SSD, XGN , SLB and FOI, and the decrease in
+S,G & A as a percentage of revenues reflects the fact that certain expenses did
+not grow proportionate with the increase in the Company's revenues.
+
+      Stock based compensation reflects shares issued to certain consultants
+who, among other things, assisted the Company in its efforts to become publicly
+traded in the United States. The Company anticipates that it will not rely as
+much on such consultants in the future and that the amount of stock based
+compensation will decrease. The Company anticipates that it will look to its
+directors, counsel and other third parties to provide the services previously
+rendered by these consultants and that the fees payable to its directors and
+counsel will increase to reflect the added services rendered.
+
+      Interest expense for fiscal 2007 totaled $80,847 compared to $2,754 for
+fiscal 2006. The significant increase in interest expense reflects the fact that
+the Company financed a portion of the cost of its acquisitions with cash
+borrowed from commercial banks.
+
+      Net income was $8,695,894 or 20% of Revenues for fiscal 2007, compared to
+$2,558,478 or 26% of Revenues for fiscal 2006. The increase in net income
+reflects the continued growth in the Company's business and the acquisitions of
+SSD, XGN, SLB and FOI. The decrease in net income as a percentage of Revenues
+reflects the fact that the businesses acquired generally had lower margins than
+the Company's historical operations.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+      Cash for operations and liquidity needs are funded primarily through cash
+flows from operations and short-term borrowings. Cash and cash equivalents were
+$2,671,684 at December 31, 2007. Current assets and current liabilities as of
+December 31, 2007, were $16,252,071 and $8,267,851, yielding working capital of
+$7,984,220. During 2007 we paid the debts incurred in connection with the
+acquisitions of SSD, SLB and XGN, respectively. We believe that the funds
+available to us from operations are adequate to meet our operating needs in 2008
+and satisfy the debt incurred in connection with the acquisition of FOI
+($1,576,750). For the fiscal year 2007, net cash provided by operating
+activities was approximately $7,103,059, which resulted primarily from our
+organic growth and growth of our newly acquired businesses.
+
+
+                                       20
+<PAGE>
+
+Capital expenditures
+
+      Total capital expenditures for fiscal 2007 were $57,930 for purchase of
+fixed assets, primarily machinery and equipment. We have no plans for material
+capital expenditures during 2008.
+
+Working Capital Requirements
+
+      Historically operations and short term financing have been sufficient to
+meet our cash needs. We believe that we will be able to generate revenues from
+operations to provide the necessary cash flow to meet anticipated working
+capital requirements for at least the following 12 months. However, our actual
+working capital needs for the long and short term will depend upon numerous
+factors, including operating results, competition, the opportunity to acquire or
+start-up new businesses, and the availability of credit facilities, none of
+which can be predicted with certainty. If necessary, we will seek to raise
+capital for the maintenance and expansion of our operations through the issuance
+of debt or equity. There can be no assurance that such financing will be
+available or, if available, will be on terms acceptable to the Company. Future
+expansion will be limited by the availability of financing.
+
+
+                                       21
+<PAGE>
+
+      On February 4, 2008, we received commitments from three Chinese entities
+for $3,500,000 in financing at a price of $2.70 per share. The funds were to be
+advanced in three tranches. We received the first tranche of $600,000 on
+February 4, 2008. The second tranche due February 28th has not been received, in
+part, as a result of a dispute with the investors as to how the proceeds would
+be applied. Discussions with the investors are ongoing, but in light of market
+conditions we do not anticipate receiving either the second or third tranche on
+a timely basis. The company is continuing to generate cash from operations and
+is evaluating its options with a number of prospective financiers.
+
+Off Balance Sheet Arrangements
+
+      We have never entered into any off-balance sheet financing arrangements
+and have never established any special purpose entities. We have not guaranteed
+any debt or commitments of other entities or entered into any options on
+non-financial assets.
+
+Critical Accounting Policies and Estimates
+
+Basis of consolidation
+
+The consolidated financial statements include the accounts of universal travel
+group and its wholly owned subsidiaries shenzhen yuzhilu aviation service co.,
+ltd, shenzhen speedy dragon enterprises limited, shanghai lanbao travel service
+co., ltd, xian golden net travel serve services, ltd., foshan overseas
+international travel service co. Ltd. And full power enterprise global limited
+collectively referred to herein as the company. All material inter-company
+accounts, transactions and profits have been eliminated in consolidation.
+
+Use of estimates
+
+The preparation of financial statements in conformity with generally accepted
+accounting principles requires management to make estimates and assumptions that
+affect the reported amounts of assets and liabilities and disclosure of
+contingent assets and liabilities at the date of the financial statements and
+the reported amounts of revenues and expenses during the reporting period.
+Actual results could differ from those estimates.
+
+Cash and cash equivalents
+
+Cash and cash equivalents include cash on hand and cash in time deposits,
+certificates of deposit and all highly liquid debt instruments with original
+maturities of three months or less.
+
+Accounts receivable
+
+The company maintains reserves for potential credit losses on accounts
+receivable. Allowance for doubtful accounts amounted to $ 73,115 and $74,945 as
+at December 31, 2007 and 2006 respectively.
+
+Property, plant & equipment
+
+Property and equipment are stated at cost. Expenditures for maintenance and
+repairs are charged to earnings as incurred; additions, renewals and betterments
+are capitalized. When property and equipment are retired or otherwise disposed
+of, the related cost and accumulated depreciation are removed from the
+respective accounts, and any gain or loss is included in operations.
+Depreciation of property and equipment is provided using the straight-line
+method for substantially all assets over the estimated useful lives.
+
+
+                                       22
+<PAGE>
+
+Long-lived assets
+
+The company adopted statement of financial accounting standards no. 144,
+accounting for the impairment or disposal of long-lived assets (sfas 144), which
+addresses financial accounting and reporting for the impairment or disposal of
+long-lived assets and supersedes sfas no. 121, accounting for the impairment of
+long-lived assets and for long-lived assets to be disposed of, and the
+accounting and reporting provisions of apb opinion no. 30, reporting the results
+of operations for a disposal of a segment of a business. The company
+periodically evaluates the carrying value of long-lived assets to be held and
+used in accordance with sfas 144. Sfas 144 requires impairment losses to be
+recorded on long-lived assets used in operations when indicators of impairment
+are present and the undiscounted cash flows estimated to be generated by those
+assets are less than the assets carrying amounts. In that event, a loss is
+recognized based on the amount by which the carrying amount exceeds the fair
+market value of the long-lived assets. Loss on long-lived assets to be disposed
+of is determined in a similar manner, except that fair market values are reduced
+for the cost of disposal. Based on its review, the company believes that, as of
+december 31,2007 there were no significant impairments of its long-lived assets.
+
+Fair value of financial instruments
+
+Statement of financial accounting standard no. 107, disclosures about fair value
+of financial instruments, requires that the company disclose estimated fair
+values of financial instruments. The carrying amounts reported in the statements
+of financial position for current assets and current liabilities qualifying as
+financial instruments are a reasonable estimate of fair value.
+
+Revenue recognition
+
+The company's revenue recognition policies are in compliance with staff
+accounting bulletin (sab) 104. Revenue is recognized at the date the price is
+fixed or determinable, the delivery is completed, no other significant
+obligations of the company exist and collectibility is reasonably assured.
+Payments received before all of the relevant criteria for revenue recognition
+are satisfied are recorded as unearned revenue.
+
+Advertising
+
+Advertising expenses consist primarily of costs of promotion for corporate image
+and product marketing and costs of direct advertising. The company expenses all
+advertising costs as incurred.
+
+Income taxes
+
+The company utilizes sfas no. 109, accounting for income taxes, which requires
+the recognition of deferred tax assets and liabilities for the expected future
+tax consequences of events that have been included in the financial statements
+or tax returns. Under this method, deferred income taxes are recognized for the
+tax consequences in future years of differences between the tax bases of assets
+and liabilities and their financial reporting amounts at each period end based
+on enacted tax laws and statutory tax rates applicable to the periods in which
+the differences are expected to affect taxable income. Valuation allowances are
+established, when necessary, to reduce deferred tax assets to the amount
+expected to be realized.
+
+
+                                       23
+<PAGE>
+
+Intangibles
+
+Intangible assets are amortized using the straight-line method over their
+estimated period of benefit. Evaluation of the recoverability of intangible
+assets is made annually to take into account events or circumstances that
+warrant revised estimates of useful lives or that indicate that impairment
+exists. All of our intangible assets are subject to amortization. No impairments
+of intangible assets have been identified during any of the periods presented.
+
+Reporting Currency and Translation
+
+The Company's functional currency is Renminbi ("RMB"); however, the reporting
+currency is the United States dollar ("USD"). Assets and liabilities of the
+Company have been translated into dollars using the exchange rate at the balance
+sheet date. The average exchange rate for the period has been used to translate
+revenues and expenses. Translation adjustments are reported separately and
+accumulated in a separate component of equity (cumulative translation
+adjustment).
+
+Foreign Operations
+
+All of the Company's operations and assets are located in China. The Company may
+be adversely affected by possible political or economic events in this country.
+The effect of these factors cannot be accurately predicted.
+
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk.
+
+      Not applicable.
+
+Item 8. Financial Statements and Supplementary Data.
+
+      The financial information required by this item is set forth beginning on
+page F-1.
+
+Item 9. Changes in and Disagreements with Accountants on Accounting and
+        Financial Disclosure.
+
+      On June 23, 2006, we dismissed the firm of Moore & Associates, Chartered
+("Former Auditor"), which had served as our independent auditor until that date.
+The Former Auditor was our auditor prior to the acquisition of control of our
+Company by Xiao Jun.
+
+      On June 23, 2006, we retained Morgenstern, Svoboda & Baer, CPA's, P.C. to
+serve as our principal independent accountant.
+
+      Our Board of Directors approved the decision to dismiss the Former Auditor
+and engage the New Auditor.
+
+      The reports of the Former Auditor on our financial statements for the two
+fiscal years preceding its dismissal did not contain an adverse opinion or
+disclaimer of opinion or any qualifications or modifications related to
+uncertainty, limitation of audit scope or application of accounting principles,
+except that report of the Former Auditor dated March 6, 2006, on our financial
+
+
+                                       24
+<PAGE>
+
+statements for the periods from January 15, 2004 (inception) through December
+31, 2004, and for the fiscal year ended December 31, 2005 expressed "substantial
+doubt about our ability to continue as a going concern" and stated that the
+"financial statements do not include any adjustments that might result from the
+outcome of this uncertainty". During the fiscal years ending December 31, 2004
+and December 31, 2005 and the period from December 31, 2005, 2006 to June 23,
+2006, the Company did not have any disagreements (within the meaning of
+Instruction 4 of Item 304 of Regulation S-K) with the Former Auditor as to any
+matter of accounting principles or practices, financial statement disclosure, or
+auditing scope or procedure and there have been no reportable events (as defined
+in Item 304 of Regulation S-K).
+
+      We furnished the Former Auditor with a copy of the disclosures in our Form
+8-K dated June 23, 2006 reporting the change in accountants and the Former
+Auditor filed a letter dated June 23, 2006 addressed to the Securities and
+Exchange Commission stating that it agreed with the statements in our Form 8-K.
+A copy of that letter was filed as Exhibit 16.2 to our Form 8-K.
+
+Item 9A. Controls and Procedures.
+
+      Our management is responsible for establishing and maintaining disclosure
+controls and procedures that are designed to ensure that information required to
+be disclosed in our reports under the Securities Exchange Act of 1934 (the
+"Exchange Act") is recorded, processed, summarized and reported within the time
+periods specified in the rules and forms of the Securities and Exchange
+Commission (the "SEC"), and that such information is accumulated and
+communicated to our management, including our Chief Executive Officer and Chief
+Financial Officer, as appropriate, to allow timely decisions regarding required
+disclosure based closely on the definition of "disclosure controls and
+procedures" in Rule 15d-15(e) under the Exchange Act. In designing and
+evaluating the disclosure controls and procedures, management recognized that
+any controls and procedures, no matter how well designed and operated, can
+provide only reasonable assurance of achieving the desired control objectives,
+and management necessarily was required to apply its judgment in evaluating the
+cost-benefit relationship of possible controls and procedures.
+
+      At the end of the period covered by this Annual Report, we carried out an
+evaluation, under the supervision and with the participation of our management,
+including our Chief Executive Officer and Chief Financial Officer, of the
+effectiveness of the design and operation of our Company's disclosure controls
+and procedures. Based upon the foregoing, our Chief Executive Officer and Chief
+Financial Officer concluded that, as of December 31, 2007, the disclosure
+controls and procedures of our Company were effective to ensure that the
+information required to be disclosed in our Exchange Act reports was recorded,
+processed, summarized and reported on a timely basis.
+
+Our management is also responsible for establishing and maintaining adequate
+internal controls over financial reporting. Such controls are intended to
+provide reasonable assurance regarding the reliability of our financial reports
+for external reporting purposes and for purposes of monitoring operations.
+
+
+                                       25
+<PAGE>
+
+      In June 2006, we, then a public shell company, acquired FPEG, a holding
+company, and its wholly-owned operating subsidiary, YZL, which was doing
+business in the PRC. At such time the management of YZL assumed management
+control of our company. Further, as we had no operations prior to such
+acquisition, upon the acquisition of YZL, its system of financial controls and
+procedures were adopted as those of our Company. Such financial controls and
+procedures were not adequate for a public reporting company and our management
+began the process of upgrading our financial controls and procedures. During
+2007 we made a number of acquisitions. None of the businesses or operations
+acquired had financial controls and procedures appropriate for a public company
+and we began the procedure of incorporating the assets or operations acquired
+into our financial systems.
+
+      Our management performed an assessment of the effectiveness of our
+internal control over financial reporting as of December 31, 2007. Based upon
+such assessment, management concluded that our operational procedures were
+generally adequate. Nevertheless, during the course of such review our
+management found a number of areas where the procedures required by Section 404
+had not been fully implemented due, in certain instances, to the late date at
+which the subsidiary had been acquired. Management believes that these
+discrepancies do not represent material deficiencies in our financial reporting
+systems. Nevertheless, management has recommended changes to be adopted in
+respect of each deficiency uncovered and intends to implement such changes.
+Management will continue to assess the adequacy of our financial reporting
+systems in light of the anticipated continued growth in our operations. We
+anticipate that if we grow significantly, we will have to continuously upgrade
+our systems to ensure the reliability of our financial statements.
+
+      This annual report does not include an attestation report of our
+registered public accounting firm regarding internal control over financial
+reporting. Our management's report was not subject to attestation by our
+registered public accounting firm pursuant to temporary rules of the Securities
+and Exchange Commission that permit the company to provide only our management's
+report in this annual report.
+
+      There were no changes in internal controls over financial reporting that
+occurred during the fiscal year ended December 31, 2007, that have materially
+affected, or are reasonably likely to materially affect, our internal control
+over financial reporting.
+
+Item 9B. Other Information.
+
+Not applicable
+
+                                    PART III
+
+Item 10. Directors and Executive Officers.
+
+      Our directors, executive officers and key employees are:
+
+      Name                            Age      Position
+      ----                            ---      --------
+      Jiangping Jiang                  46      Chair, Chief Executive Officer
+      Jing Xie                         26      Secretary, Director
+      Richard Cohen                    56      Director
+      Richard P. Randall               70      Director
+      James Treacy                     50      Director
+      Huijie Gao                       27      Vice President of
+                                               Corporate Finance
+
+
+                                       26
+<PAGE>
+
+      Each of our directors is presently holding a director position of one year
+ending at the next annual meeting of stockholders or his or her earlier
+resignation or death.
+
+      Jiangping Jiang has been serving as chair and Chief Executive Officer
+since July 12, 2006. Xin Zhang has been serving as director and Chief Financial
+Officer since July 12, 2006. Jing Xie has been serving as a director and
+Secretary since December 29, 2006. Richard Cohen has been serving as a director
+since May 7, 2007. Richard P. Randall has been serving as a director since
+September 6, 2007. James Treacy has been serving as a director since December 7,
+2007.
+
+      The business experience of each or our directors, named executive officers
+and significant employees is set forth below:
+
+      Jiangping Jiang. Prior to founding the Yu Zhi Lu Aviation Service Company,
+in 1998, Jiangping Jiang held positions in the airline industry and in
+government. From 1991 to 1998, she was the manager of Shenzhen International
+Airlines Agency. From 1982-1991, she served as a member of the Chongqing
+municipal government planning committee. From 1979 to 1982, she was employed by
+Chengdu airport.
+
+      Huijie Gao. Mr. Gao graduated from Wuhan University, Hubei Province,
+China, with a Bachelor of Economics degree, major in International Accounting in
+2002. He started his career as an Jounior accountant in Hubei DaXin Accounting
+firm since 2002, and reached a professional level of Senior General Accountant
+in 2005. He had been working on the accounting jobs in many different industries
+and had been engaged in serveral Chinese pubilc company's audit works, including
+Shandong Yanfa industry Co., Ltd. , Lu neng Tai mountain Group, etc. He is a
+keen and diligent profession pursuer, since his engagement in Shenzhen Yuzhilu
+Aviation Service Co., Ltd. In 2005, he had devoted continuous efforts in the
+financial department. He is familiar with the electronic operation and financial
+softwares, and he is skillful in online travel industry.
+
+      Jing Xie. Since March 2005, Mr. Jing Xie has served as a Deputy General
+Manager at the Company on February 2005. Mr. Xie graduated from Economics &
+Business Faculty, University of Sydney, located in Sydney, Australia, with a
+Bachelor of Commerce degree.
+
+      Richard Cohen. Mr. Cohen serves as a member of our Audit Committee. Mr.
+Cohen has more than 25 years experience in the financial services industry. From
+1992 to 1995, Mr. Cohen served as President of General Media, Inc. where he was
+responsible for raising over $250 million in a variety of financings, expanding
+licensing opportunities in both Europe and Asia, and operating a company whose
+revenues exceeded $150 million and which employed approximately 150 employees.
+In 1999, Mr. Cohen served as the interim president of National Auto Credit,
+Inc., a publicly traded sub-prime auto finance company. Since 2000, Mr. Cohen
+has been involved as an investor/operator with a number of entrepreneurial
+ventures, including Novation Capital, Inc., a niche financial service provider
+which factors, pools and securitizes structured settlement awards. Mr. Cohen is
+a Certified Public Accountant, and is considered an expert for audit committees
+under the Sarbanes-Oxley Act of 2002. Mr. Cohen currently serves as a director
+of Rodman & Renshaw (NASDAQ:RODM), Dune Energy (AMEX:DNE) and Helix Bio Medix
+(OTCBB:HXBM) and chairs the audit Committee of RODM and HXBM. He received a BS
+from the University of Pennsylvania (Wharton School) and an MBA from Stanford
+University.
+
+
+                                       27
+<PAGE>
+
+      Richard P. Randall. Mr. Randall's career includes extensive financial and
+accounting experience as a Chief Financial Officer and Board Member for several
+U.S. publicly traded companies, including Steven Madden Ltd., international
+designer, marketer and retailer of footwear for women, men and children, and
+Home System Group, a Chinese company that manufactures stainless steel barbecue
+grills, ceiling fans and other electrical devices and is publicly owned in the
+US. He serves as chair to the Audit Committee of these two companies. From 2002
+to 2005, Mr. Randall served as the Executive Vice President, Chief Operating
+Officer and Chief Financial Officer of Direct Holdings Worldwide, the parent of
+Lillian Vernon Corp. and Time Life, where he was responsible for orchestrating
+the sale of the Company, and from 2000 to 2001, Mr. Randall served as the Senior
+Vice President and the Chief Financial Officer of Coach, Inc, a publicly traded
+international designer and marketer of handbags and accessories, where he
+oversaw the auditing process and SEC compliance. Mr. Randall provided consulting
+services to Supreme International (renamed Perry Ellis International) and Mondo,
+Inc., and was employed in the finance department of Revlon and is a member of
+the American Institute of CPAs and New York Society of CPAs. Mr. Randall
+received a degree in accounting from the City University of New York, Baruch
+College in 1964 and has been certified as a CPA in New York State.
+
+      James Treacy. Mr. Treacy brings more than 20 years of experience with
+public companies. In 1994, he joined TMP Worldwide, now Monster Worldwide, as
+chief executive officer of the company's Recruitment Advertising Division. In
+1998, Monster appointed Mr. Treacy as executive vice president, COO and to its
+board of directors. He became company president and COO in November 2001,
+serving in those roles until his resignation in 2002. Prior to Monster, Mr.
+Treacy was a senior vice president with WPP, USA. He was also with The Ogilvy
+Group and before that was with Texaco, Inc. Mr. Treacy served on the board of
+publicly-listed eBookers Public Limited Company, which was sold to Cendant (now
+part of Travelport), in 2005. From March 2006 until March 2007, he served as a
+director on the board of Dice Holdings, Inc. Currently, Mr. Treacy serves on the
+President's Council of Valley Hospital and is an angel investor in several early
+stage Internet companies. He works in a private business as well as in an
+investor consultancy capacity.
+
+Director Compensation.
+
+      The following table sets forth a summary of compensation paid to Messrs.
+Cohen, Randall and Treacy during the fiscal year ended December 31, 2007:
+
+<TABLE>
+<CAPTION>
+                               Fees  earned or paid
+Name                           in cash                  Option awards            All other compensation     Total
+---------------------------    ---------------------    ---------------------    -----------------------    --------------
+<S>                            <C>                      <C>                      <C>                        <C>
+Richard Cohen                  $16,667                  $ 89,819                 N/A                        $106,486
+Richard P. Randall             $ 8,333                  $114,934                 N/A                        $123,267
+James Treacy                   $ 1,667                  $114,790                 N/A                        $116,457
+</TABLE>
+
+
+                                       28
+<PAGE>
+
+      Our compensation agreements with Messrs. Cohen, Randall and Treacy as
+follows:
+
+      Richard Cohen. On May 7, 2007, the Company entered into an agreement with
+Mr. Cohen. Under the terms of the Agreement, Mr. Cohen is to receive $20,000
+annually for his service on the Board of Directors, plus an additional $2,500
+for serving on the Audit Committee. Pursuant to the Agreement, the Company
+granted Mr. Cohen options to purchase 100,000 shares of the Company's common
+stock, exercisable at a price of $1.95. The options are exercisable through May
+2017 and vested with respect to 33,333 of the underlying shares
+immediately on the date of grant, and the remaining underlying shares will vest
+with respect to 33,333 and 33,334 on the first and second anniversaries of the
+grant date, respectively, provided that, Mr. Cohen is still a director of or
+otherwise engaged by the Company on such dates.
+
+      Richard P. Randall. On September 6, 2007, the Company entered into an
+agreement with Mr. Randall. Under the terms of the Agreement, Mr. Randall is to
+receive $20,000 annually for his service on the Board of Directors, plus an
+additional $7,500 for his service as Chairman of the Audit Committee. Pursuant
+to the Agreement, the Company granted Mr. Randall options to purchase 100,000
+shares of the Company's common stock, exercisable at a price of $2.85. The
+options are exercisable until June 1, 2017, and vested with respect to 33,333 of
+the underlying shares immediately on the date of grant, while the remaining
+underlying shares will vest with respect to 33,333 and 33,334 on the first and
+second anniversaries of the grant date, respectively, provided that, Mr. Randall
+is still a director of or otherwise engaged by the Company on such dates.
+
+      James Treacy. On December 7, 2007, the Company entered into an agreement
+with Mr. Treacy. Under the terms of the Agreement, Mr. Treacy is to receive
+$20,000 annually for his service on the Board of Directors. Pursuant to such
+agreement, the Company granted Mr. Treacy options to purchase 100,000 shares of
+the Company's common stock, exercisable at a price of $3.75. The options are
+exercisable until November 1, 2017, and vested with respect to 33,333 of the
+underlying shares immediately on the date of grant, while the remaining
+underlying shares will vest with respect to 33,333 and 33,334 on the first and
+second anniversaries of the grant date, respectively, provided that, Mr. Treacy
+is still a director of or otherwise engaged by the Company on such dates.
+
+Section 16(a) Beneficial Ownership Reporting Compliance
+
+      Our common stock is not currently registered under the Securities Exchange
+Act of 1934, as amended ("Exchange Act"), and accordingly our directors,
+officers and holders of 10% or more of our common stock are not required to file
+statements of beneficial ownership with regards to their ownership of our equity
+securities under Section 16 of the Exchange Act. The reports and certain other
+information under the Exchange Act filed by us with the Commission during our
+fiscal years ended February 28, 2006 and 2007 and during the fiscal year ended
+December 31, 2007 were filed pursuant to the rules under Section 15(d) of the
+Exchange Act.
+
+
+                                       29
+<PAGE>
+
+Code of Ethics
+
+      We have not adopted a code of ethics to apply to our principal executive
+officer, principal financial officer, principal accounting officer and
+controller, or persons performing similar functions. We expect to prepare a Code
+of Ethics in the near future
+
+Board Committees and Independent Directors
+
+      Our Board of Directors did not hold any formal meetings during fiscal year
+ending December 31, 2007, though it did meet several times for discussions
+relevant to the company's operations and strategic plans. It did act by
+unanimous written consent on seven occasions.
+
+      Our Board of Directors established an Audit Committee in May 2007. The
+Audit Committee is responsible for reviewing the results and scope of the audit,
+and other services provided by our independent auditors, and reviewing and
+evaluating our system of internal controls. Our Audit Committee members are
+Richard Cohen and Richard P. Randall. Our audit committee reviewed and discussed
+with our outside auditor the financial statements included in all filings made
+subsequent to its establishment. Our Board of Directors has determined that
+Messrs. Cohen and Randall are "independent directors" within the meaning of Rule
+10A-3 under the Exchange Act, as determined based upon the criteria for
+"independence" set forth in the rules of The NASDAQ Stock Market, Inc.
+
+      We have not established a Compensation Committee or a Nominating
+Committee. Our independent directors have determined that we should follow the
+corporate governance policies of the American Stock Exchange and we intend to
+form the relevant committees and adopt appropriate policies in 2008.
+
+Item 11. Executive Compensation.
+
+      The following table sets forth information with respect to the
+compensation of each of the named executive officers for services provided in
+all capacities to the Company and its subsidiaries in the fiscal years ended
+December 31, 2007, 2006 and 2005 in their capacity as such officers; such
+individuals are also directors of the Company but receive no compensation for
+their service in their capacity as director. No other executive officer or
+former executive officer received more than $100,000 in compensation in the
+fiscal years reported below.
+
+Name and principal position             Year       Salary      Bonus      Total
+---------------------------------       -----      ------      -----      -----
+
+Jiangping Jiang,
+Chief Executive Officer
+(principal executive officer) (1)       2007       $9,230     $1,411     $10,641
+                                        2006       $9,230     $1,411     $10,641
+Xin Zhang,
+Chief Financial Officer
+(principal financial officer)           2007       $5,384      $461      $5,845
+                                        2006       $5,384      $461      $5,845
+
+
+                                       30
+<PAGE>
+
+      There are no current employment agreements between the Company and its
+executive officers. Our executive officers have agreed to work without
+remuneration until such time as we receive sufficient revenues necessary to
+provide proper salaries to the officer and compensate the director for
+participation.
+
+      As described above, we have certain agreements with three of our
+directors, Messrs. Cohen, Randall and Treacy.
+
+      There are no annuity, pension or retirement benefits proposed to be paid
+to officers, directors or employees of the corporation in the event of
+retirement at normal retirement date pursuant to any presently existing plan
+provided or contributed to by Company.
+
+Outstanding Equity Awards at Fiscal Year End
+
+<TABLE>
+<CAPTION>
+
+                                 Number of                Number of
+                                 securities               securities
+                                 underlying               underlying
+                            unexercised options      unexercised options      Option exercise      Option expiration
+Name                          (#) exercisable         (#) un-exercisable           price                  date
+------------------          -------------------       ------------------      ---------------      -----------------
+<S>                                <C>                      <C>                    <C>                <C>
+Richard Cohen(1)                   66,666                   33,334                 $1.95               May 7, 2017
+Richard P. Randall(1)              33,333                   66,667                 $2.85              June 1, 2017
+James Treacy(1)                    33,333                   66,667                 $3.75              June 1, 2017
+</TABLE>
+
+(1) The options granted to each director vested as to one-third the date he
+agreed to serve as a director (Mr. Cohen - May 7, Mr. Randall - July 1 and Mr.
+Treacy - November 1) and will vest as to additional thirds on the anniversary of
+such date in 2008 and 2009.
+
+                                       31
+<PAGE>
+
+Item 12. Security Ownership of Certain Beneficial Owners and Management and
+         Related Stockholder Matters.
+
+      Ownership
+
+      As of March 24, 2008, we had 38,110,517 shares of common stock
+outstanding. The following table sets forth certain information regarding the
+beneficial ownership of our common stock as of that date by (i) each person who,
+to our knowledge, beneficially owns more than 5% of our common stock; (ii) each
+of our current directors and executive officers; and (iii) all of our current
+directors and executive officers as a group:
+
+<TABLE>
+<CAPTION>
+
+                             Name and Address                 Amount and nature of         Percent of
+Title of class            of Beneficial Owner                 beneficial ownership            class
+--------------            -----------------------             --------------------         ----------
+<S>                   <C>                                          <C>                        <C>
+Common Stock          Jiangping Jiang                              11,800,000                 31.0%
+                      Huijie Gao                                           --                   --
+                      Jing Xie                                             --                   --
+                      Richard Cohen                                    66,666(1)                 *
+                      Richard P. Randall                               33,333(1)                 *
+                      James Treacy                                     33,333(1)                 *
+                      Officers & directors as a group              11,933,332                 31.3%
+</TABLE>
+
+*     Represents less than 1%
+(1)   Represents shares issuable pursuant to options which are currently
+      exercisable. Excludes shares underlying 33,334 options in the case of Mr.
+      Cohen and 66,667 options in the cases of Messrs. Randall and Treacy not
+      exercisable within 60 days of the date of this report.
+
+      Change in Control Arrangements
+
+      There are currently no arrangements that would result in a change in
+control of our Company.
+
+Item 13. Certain Relationships and Related Transactions.
+
+      Relationships and Related Transactions.
+
+      In connection with the merger of our Company and Full Power, Ms. Jiang,
+then a shareholder of Full Power was issued 11,800,000 shares of our Common
+Stock.
+
+      Except as otherwise disclosed herein or incorporated herein by reference,
+there have not been any transactions, or proposed transactions, during the last
+two years, to which the Company was or is to be a party, in which any director
+or executive officer of the Company, any nominee for election as a director, any
+security holder owning beneficially more than five percent of the common stock
+of the Company, or any member of the immediate family of the aforementioned
+persons had or is to have a direct or indirect material interesting any amount
+that exceeded the lesser of $120,000 or one percent of the average of the
+Company's total assets for the last two fiscal years.
+
+
+                                       32
+<PAGE>
+
+      Director Independence.
+
+      The OTC Bulletin Board, on which our common stock is currently traded,
+does not maintain director independence standards, however, Messrs. Cohen,
+Randall and Treacy qualify as independent directors under the guidelines of the
+AMEX.
+
+
+                                       33
+<PAGE>
+
+Item 14. Principal Accountant Fees and Services.
+
+      In connection with our change in control effective pursuant to a merger
+transaction, as disclosed as disclosed on our Current Report on Form 8-K filed
+on July 12, 2006, our Board of Directors approved the engagement of Morgenstern,
+Svoboda, & Baer, CPA's, P.C. for all audit and permissible non-audit services,
+and dismissed Moore & Associates, Chartered the Company's prior certifying
+accountant, in each case effective as of June 23, 2006.
+
+      Our Audit Committee annually reviews the audit and permissible non-audit
+services performed by our principal accounting firm and reviews and approves the
+fees charged by our principal accounting firm. Our Audit Committee has
+considered the role of Morgenstern, Svoboda, & Baer in providing tax and audit
+services and other permissible non-audit services to us and has concluded that
+the provision of such services, if any, was compatible with the maintenance of
+such firm's independence in the conduct of its auditing functions.
+
+      During fiscal years 2006 and 2007, the aggregate fees which we paid to or
+were billed by Morgenstern, Svoboda & Baer, CPA's P.C. and Moore & Associates
+for professional services were as follows:
+
+<PAGE>
+
+                                 Fiscal year ended December 31,
+                                   2007                  2006
+                                 --------              -------
+                  Audit fees     $ 54,000              $31,000
+          Audit-related fees     $193,000              $0
+                    Tax fees     $0                    $0
+              All other fees     $0                    $0
+
+                                     PART IV
+
+Item 15. Exhibits.
+
+(A) Documents filed as a part of the report:
+
+      (1)   Financial Statements;
+
+            Our consolidated financial statements repuired by this item are
+            submitted in a separate section beginning on page F-1 of this
+            Report.
+
+      (2)   Financial Statement Schedules
+
+            None.
+
+      (3)   Exhibits
+
+            The information called for by this paragraph is contained in the
+            Index to Exhibits which is incorporated herein by reference.
+
+
+                                       34
+<PAGE>
+
+                                   SIGNATURES
+
+      In accordance with Section 13 or 15(d) of the Exchange Act, the registrant
+has duly caused this report to be signed on its behalf by the undersigned,
+thereunto duly authorized.
+
+                                    UNIVERSAL TRAVEL GROUP
+
+
+Date: March 31, 2008                By: /s/ Jiangping Jiang
+                                        ----------------------------------------
+                                        Jiangping Jiang, Chief Executive Officer
+
+      In accordance with the Exchange Act, this report has been signed below by
+the following persons on behalf of the registrant and in the capacities and on
+the dates indicated.
+
+Signature                                                              Date
+---------                                                              ----
+
+
+/s/ Jiangping Jiang                                               March 31, 2008
+-------------------------------------------------                 --------------
+Jiangping Jiang, Chief Executive Officer
+(principal executive officer), Chair and Director
+
+
+/s/ Huijie Gao                                                    March 31, 2008
+-------------------------------------------------                 --------------
+Huijie Gao, Vice President of Corporate Finance
+(principal financial and accounting officer)
+
+
+/s/ Jing Xie                                                      March 31, 2008
+-------------------------------------------------                 --------------
+Jing Xie, Secretary, Director
+
+
+/s/ Richard Cohen                                                 March 31, 2008
+-------------------------------------------------                 --------------
+Richard Cohen, Director
+
+
+/s/ Richard P. Randall                                            March 31, 2008
+-------------------------------------------------                 --------------
+Richard P. Randall, Director
+
+
+/s/ James Treacy                                                  March 31, 2008
+-------------------------------------------------                 --------------
+James Treacy, Director
+
+
+                                       35
+<PAGE>
+
+                                  Exhibit Index
+
+Exhibit No.    Description
+-----------    -----------------------------------------------------------------
+
+2.1            Agreement and Plan of Merger between TAM of Henderson, Inc. and
+               Registrant, incorporated herein by reference to Exhibit 2.1 to
+               the Registrant's Current Report on Form 8-K filed on March 20,
+               2006.
+
+3.1            Articles of Incorporation, incorporated herein by reference to
+               Exhibit 3.1 to the Registrant's Registration Statement on Form
+               10SB12G filed on September 6, 2005.
+
+3.2            Bylaws, incorporated herein by reference to Exhibit 3.2 to the
+               Registrant's Registration Statement on Form 10SB12G filed on
+               September 6, 2005.
+
+3.3            Articles of Merger between TAM of Henderson, Inc. and Registrant,
+               incorporated herein by reference to Exhibit 3.3 to the
+               Registrant's Current Report on Form 8-K filed on March 27, 2006.
+
+3.4            Amended and Restated Articles of Incorporation, changing our name
+               from Tam of Henderson, Inc. to Universal Travel Group,
+               incorporated herein by reference to Exhibit 3.1 to the
+               Registrant's Current Report on Form 8-K filed on August 23, 2006.
+
+4.1            2007 Equity Incentive Plan, incorporated herein by reference to
+               Exhibit 4.1 to the Registrant's Registration Statement on Form
+               S-8 (No. 333-140130) declared effective on January 22, 2007.
+
+10.1           Shareholder Agreement between Registrant and Doreen E. Zimmerman,
+               incorporated herein by reference to Exhibit 10.1 to the
+               Registrant's Registration Statement on Form 10SB12G filed on
+               September 6, 2005.
+
+10.2           Share Purchase Agreement between Marcus Luna, Esq. representing a
+               certain Selling Shareholder of Registrant, and Xiao Jun,
+               incorporated herein by reference to Exhibit 10.1 to the
+               Registrant's Current Report on Form 8-K filed on June 22, 2006.
+
+10.3           Agreement and Plan of Merger by and among Registrant, Full Power
+               Enterprise Global Limited ("FPEG"), and the shareholders of FPEG,
+               incorporated herein by reference to Exhibit 10.1 to the
+               Registrant's Current Report on Form 8-K filed on June 27, 2006.
+
+10.4           Share Exchange Agreement among Registrant, Full Power Enterprise
+               Global Limited, Shenzhen Yu Zhi Lu Aviation Service Company
+               Limited, Shenzhen Speedy Dragon Enterprise Limited and the
+               Shareholders of Shenzhen Speedy Dragon Enterprise Limited,
+               incorporated herein by reference to Exhibit 10.1 to the
+               Registrant's Current Report on Form 8-K filed on April 12, 2007.
+
+10.5           Share Exchange Agreement among Registrant, Shenzhen Yu Zhi Lu
+               Aviation Service Company Limited, Xi'an Golden Net Travel Serve
+               Service Company Limited, and the Shareholders of Xi'an Golden Net
+               Travel Serve Service Company Limited, incorporated herein by
+               reference to Exhibit 10.1 to the Registrant's Current Report on
+               Form 8-K filed on August 7, 2007.
+
+10.6           Share Exchange Agreement among Registrant, Shenzhen Yu Zhi Lu
+               Aviation Service Company Limited, Shanghai Lanbao Travel Service
+               Company Limited, and the Shareholders of Shanghai Lanbao Travel
+               Service Company Limited, incorporated herein by reference to
+               Exhibit 10.1 to the Registrant's Current Report on Form 8-K filed
+               on August 10, 2007.
+
+10.7           Agreement by and between Registrant and Richard P. Randall,
+               incorporated herein by reference to Exhibit 10.1 to the
+               Registrant's Current Report on Form 8-K filed on September 10,
+               2007.
+
+10.8           Share Exchange Agreement among Registrant, Shenzhen Yu Zhi Lu
+               Aviation Service Company Limited, Foshan Overseas International
+               Travel Service Co., Ltd., and the Shareholders of Foshan Overseas
+               International Travel Service Co., Ltd., incorporated herein by
+               reference to Exhibit 10.1 to the Registrant's Current Report on
+               Form 8-K filed on September 25, 2007.
+
+10.9           Share Exchange Agreement among Registrant, Shenzhen Yu Zhi Lu
+               Aviation Service Company Limited, Tianjin Golden Dragon
+               International Travel Service Co., Ltd., and the Shareholders of
+               Tianjin Golden Dragon International Travel Service Co., Ltd.,
+               incorporated herein by reference to Exhibit 10.1 to the
+               Registrant's Current Report on Form 8-K filed on October 23,
+               2007.
+
+10.10          Agreement by and between Registrant and James Treacy,
+               incorporated herein by reference to Exhibit 10.1 to the
+               Registrant's Current Report on Form 8-K filed on December 12,
+               2007.
+
+10.11          Subscription Agreement by and among Registrant and the Investors
+               listed on Schedule 1, incorporated herein by reference to Exhibit
+               99.1 to the Registrant's Current Report on Form 8-K filed on
+               February 11, 2008.
+
+10.12          Rescission And Release Agreement by and among Registrant,
+               Shenzhen Yu Zhi Lu Aviation Service Company Limited, a wholly
+               owned subsidiary of Registrant, Tianjin Golden Dragon
+               International Travel Service Co., Ltd., and the shareholders of
+               Golden Dragon, incorporated herein by reference to Exhibit 99.1
+               to the Registrant's Current Report on Form 8-K filed on February
+               15, 2008.
+
+21.1           List of Subsidiaries
+
+
+31.1           Certification of Chief Executive Officer pursuant to Rule
+               13a-14(a) under the Securities Exchange Act of 1934.
+
+31.2           Certification of Chief Financial Officer pursuant to Rule
+               13a-14(a) under the Securities Exchange Act of 1934.
+
+32.1           Certification of Chief Executive Officer pursuant to Section 906
+               of the Sarbanes-Oxley Act of 2002 (18 U.S.C. 1350).
+
+32.2           Certification of Chief Financial Officer pursuant to Section 906
+               of the Sarbanes-Oxley Act of 2002 (18 U.S.C. 1350).
+
+<PAGE>
+
+                             UNIVERSAL TRAVEL GROUP
+
+                        CONSOLIDATED FINANCIAL STATEMENTS
+
+                                DECEMBER 31, 2007
+
+
+                                      F-1
+<PAGE>
+
+                                TABLE OF CONTENTS
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM                    F-3
+
+CONSOLIDATED BALANCE SHEETS                                                F-4
+
+CONSOLIDATED STATEMENTS OF INCOME                                          F-5
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS                                    F-6-F-7
+
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY                            F-8
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS                              F-9-F-17
+
+
+                                      F-2
+<PAGE>
+
+MORGENSTERN, SVOBODA & BAER, CPA'S, P.C.
+
+CERTIFIED PUBLIC ACCOUNTANTS
+40 EXCHANGE PLACE, SUITE 1820
+NEW YORK, N.Y.10005
+TEL:  (212) 925-9490
+FAX: (212) 226-9134
+E-MAIL:  MSBCPAS@GMAIL.COM
+
+1. REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+BOARD OF DIRECTORS AND STOCKHOLDERS OF
+UNIVERSAL TRAVEL GROUP
+
+WE HAVE AUDITED THE ACCOMPANYING CONSOLIDATED BALANCE SHEETS OF UNIVERSAL TRAVEL
+GROUP AS OF DECEMBER 31, 2007 AND 2006, AND THE RELATED CONSOLIDATED STATEMENTS
+OF INCOME, STOCKHOLDERS' EQUITY AND COMPREHENSIVE INCOME, AND CASH FLOWS FOR
+EACH OF THE YEARS IN THE TWO-YEAR PERIOD ENDED DECEMBER 31, 2007. UNIVERSAL
+TRAVEL GROUP'S MANAGEMENT IS RESPONSIBLE FOR THESE FINANCIAL STATEMENTS. OUR
+RESPONSIBILITY IS TO EXPRESS AN OPINION ON THESE FINANCIAL STATEMENTS BASED ON
+OUR AUDITS.
+
+WE CONDUCTED OUR AUDITS IN ACCORDANCE WITH THE STANDARDS OF THE PUBLIC COMPANY
+ACCOUNTING OVERSIGHT BOARD (UNITED STATES). THOSE STANDARDS REQUIRE THAT WE PLAN
+AND PERFORM THE AUDIT TO OBTAIN REASONABLE ASSURANCE ABOUT WHETHER THE FINANCIAL
+STATEMENTS ARE FREE OF MATERIAL MISSTATEMENT. THE COMPANY IS NOT REQUIRED TO
+HAVE, NOR WERE WE ENGAGED TO PERFORM, AN AUDIT OF ITS INTERNAL CONTROL OVER
+FINANCIAL REPORTING. OUR AUDIT INCLUDED CONSIDERATION OF INTERNAL CONTROL OVER
+FINANCIAL REPORTING AS A BASIS FOR DESIGNING AUDIT PROCEDURES THAT ARE
+APPROPRIATE IN THE CIRCUMSTANCES, BUT NOT FOR THE PURPOSE OF EXPRESSING AN
+OPINION ON THE EFFECTIVENESS OF THE COMPANY'S INTERNAL CONTROL OVER FINANCIAL
+REPORTING. ACCORDINGLY, WE EXPRESS NO SUCH OPINION. AN AUDIT ALSO INCLUDES
+EXAMINING, ON A TEST BASIS, EVIDENCE SUPPORTING THE AMOUNTS AND DISCLOSURES IN
+THE FINANCIAL STATEMENTS, ASSESSING THE ACCOUNTING PRINCIPLES USED AND
+SIGNIFICANT ESTIMATES MADE BY MANAGEMENT, AS WELL AS EVALUATING THE OVERALL
+FINANCIAL STATEMENT PRESENTATION. WE BELIEVE THAT OUT AUDITS PROVIDE A
+REASONABLE BASIS FOR OUR OPINION.
+
+IN OUR OPINION, THE FINANCIAL STATEMENTS REFERRED TO ABOVE PRESENT FAIRLY, IN
+ALL MATERIAL RESPECTS, THE FINANCIAL POSITION OF UNIVERSAL TRAVEL GROUP AS OF
+DECEMBER 31, 2007 AND 2006, AND THE RESULTS OF ITS OPERATIONS AND ITS CASH FLOWS
+FOR EACH OF THE YEARS IN THE TWO-YEAR PERIOD ENDED DECEMBER 31, 2007 IN
+CONFORMITY WITH ACCOUNTING PRINCIPLES GENERALLY ACCEPTED IN THE UNITED STATES OF
+AMERICA.
+
+
+MORGENSTERN, SVOBODA & BAER CPA'S P.C.
+CERTIFIED PUBLIC ACCOUNTANTS
+
+NEW YORK, N.Y.
+MARCH 18, 2008
+
+
+                                      F-3
+<PAGE>
+
+                             UNIVERSAL TRAVEL GROUP
+                           CONSOLIDATED BALANCE SHEETS
+                            DECEMBER 31 2007 AND 2006
+
+<TABLE>
+<CAPTION>
+                                    ASSETS                                 2007           2006
+                                                                           ----           ----
+<S>                                                                    <C>            <C>
+CURRENT ASSETS
+
+CASH AND CASH EQUIVALENTS                                              $ 2,671,684    $ 1,043,555
+ACCOUNTS RECEIVABLE, NET                                                 5,403,820         18,788
+OTHER RECEIVABLES AND DEPOSITS, NET                                      1,297,426        661,158
+ACQUISITION DEPOSIT                                                             --      2,881,823
+REFUNDABLE ACQUISITION DEPOSIT                                           1,453,050             --
+DUE FROM SHAREHOLDERS                                                    1,444,818             --
+TRADE DEPOSIT                                                            2,650,744        959,605
+ADVANCES                                                                   616,861      1,831,558
+REFUNDABLE DEPOSIT                                                              --         34,004
+PREPAID EXPENSES                                                           713,668         31,842
+                                                                       -----------    -----------
+TOTAL CURRENT ASSETS                                                    16,252,071      7,462,333
+
+PROPERTY & EQUIPMENT, NET                                                  127,393         51,555
+INTANGIBLE ASSETS                                                           18,626         49,938
+GOODWILL                                                                13,526,809             --
+                                                                       -----------    -----------
+                                                                        13,672,828        101,493
+                                                                       -----------    -----------
+
+TOTAL ASSETS                                                           $29,924,899    $ 7,563,826
+                                                                       ===========    ===========
+
+                     LIABILITIES AND STOCKHOLDERS' EQUITY
+
+CURRENT LIABILITIES
+NOTES PAYABLE - BANK                                                   $ 1,288,554    $        --
+NOTE PAYABLE - OTHERS                                                    1,576,750             --
+ACCOUNTS PAYABLE AND ACCRUED EXPENSES                                    3,604,666      3,391,229
+CUSTOMER DEPOSITS                                                        1,132,886             --
+INCOME TAX PAYABLE                                                         664,995        263,850
+                                                                       -----------    -----------
+TOTAL CURRENT LIABILITIES                                                8,267,851      3,655,079
+                                                                       ===========    ===========
+
+STOCKHOLDERS' EQUITY
+
+COMMON STOCK, $.001 PAR VALUE, 70,000,000
+SHARES AUTHORIZED, 36,809,036 AND 30,450,000 ISSUED AND OUTSTANDING         36,810         30,450
+ADDITIONAL PAID IN CAPITAL                                               8,601,534        332,013
+OTHER COMPREHENSIVE INCOME                                                 545,164        103,811
+STATUTORY RESERVE                                                          372,144             --
+RETAINED EARNINGS                                                       12,101,396      3,442,473
+                                                                       -----------    -----------
+TOTAL STOCKHOLDERS' EQUITY                                              21,657,048      3,908,747
+                                                                       -----------    -----------
+TOTAL LIABILITIES AND STOCKHOLDERS' EQUITY                             $29,924,899    $ 7,563,826
+                                                                       ===========    ===========
+</TABLE>
+
+                 THE ACCOMPANYING NOTES ARE AN INTEGRAL PART OF
+                    THESE CONSOLIDATED FINANCIAL STATEMENTS.
+
+
+                                      F-4
+<PAGE>
+
+                             UNIVERSAL TRAVEL GROUP
+                        CONSOLIDATED STATEMENTS OF INCOME
+                 FOR THE YEARS ENDED DECEMBER 31, 2007 AND 2006
+
+                                                      2007             2006
+                                                      ----             ----
+
+GROSS REVENUES,                                   $ 44,294,853     $ 10,013,788
+COST OF SERVICES                                    29,519,012        4,594,376
+                                                  ------------     ------------
+GROSS PROFIT                                        14,775,841        5,419,412
+
+SELLING, GENERAL AND ADMINISTRATIVE EXPENSES         3,229,526        1,353,434
+
+STOCK BASED COMPENSATION                               945,903          950,040
+                                                  ------------     ------------
+                                                     4,175,429        2,303,474
+                                                  ------------     ------------
+INCOME FROM OPERATIONS                              10,600,412        3,115,938
+                                                  ------------     ------------
+
+OTHER INCOME (EXPENSE)
+OTHER INCOME                                            25,105           36,383
+INTEREST INCOME                                          3,293           11,994
+INTEREST EXPENSE                                       (80,847)          (2,754)
+                                                  ------------     ------------
+TOTAL OTHER INCOME (EXPENSE)                           (52,449)          45,623
+                                                  ------------     ------------
+INCOME BEFORE INCOME TAXES                          10,547,963        3,161,561
+
+PROVISION FOR INCOME TAXES                           1,852,069          603,083
+                                                  ------------     ------------
+NET INCOME                                        $  8,695,894     $  2,558,478
+                                                  ============     ============
+
+NET INCOME PER COMMON SHARE
+   BASIC                                          $       0.26     $       0.07
+   DILUTED                                        $       0.26     $       0.07
+
+WEIGHTED AVERAGE COMMON SHARES OUTSTANDING
+   BASIC                                            33,629,518       30,450,000
+   DILUTED                                          33,779,518       30,450,000
+
+                 THE ACCOMPANYING NOTES ARE AN INTEGRAL PART OF
+                    THESE CONSOLIDATED FINANCIAL STATEMENTS.
+
+
+                                      F-5
+<PAGE>
+
+                      CONSOLIDATED STATEMENTS OF CASH FLOWS
+                        FOR THE YEARS ENDED DECEMBER 31,
+
+<TABLE>
+<CAPTION>
+                                                                     2007             2006
+                                                                     ----             ----
+<S>                                                             <C>              <C>
+CASH FLOWS FROM OPERATING ACTIVITIES
+
+NET INCOME                                                      $  8,695,894     $  2,558,478
+ADJUSTMENTS TO RECONCILE NET INCOME TO NET CASH
+PROVIDED BY OPERATING ACTIVITIES:
+DEPRECIATION AND AMORTIZATION                                         88,792           48,031
+STOCK BASED COMPENSATION                                             945,903          950,040
+(INCREASE) / DECREASE IN ASSETS:
+ACCOUNTS RECEIVABLE                                               (1,773,123)         (18,788)
+OTHER RECEIVABLE                                                    (546,172)        (661,158)
+ADVANCES                                                           1,214,697       (1,831,558)
+DUE FROM SHAREHOLDER                                                 747,471          642,608
+LOANS SHAREHOLDERS
+PREPAID EXPENSES                                                       4,896          (26,061)
+TRADE DEPOSITS                                                    (1,177,822)        (397,041)
+DEPOSITS                                                              34,004          (15,298)
+INCREASE / (DECREASE) IN CURRENT LIABILITIES:
+ACCOUNTS PAYABLE AND ACCRUED EXPENSES                             (1,504,385)          76,406
+CUSTOMER DEPOSIT                                                     275,247               --
+                                                                ------------     ------------
+INCOME TAX PAYABLE                                                    97,657          106,973
+                                                                ------------     ------------
+TOTAL ADJUSTMENTS                                                 (1,592,835)      (1,125,846)
+                                                                ------------     ------------
+NET CASH PROVIDED BY(USED IN) OPERATING ACTIVITIES                 7,103,059        1,432,632
+                                                                ------------     ------------
+CASH FLOWS FROM INVESTING ACTIVITIES
+
+PURCHASE OF PROPERTY & EQUIPMENT                                     (57,930)         (60,406)
+ACQUISITION DEPOSITS                                               1,428,773       (1,580,740)
+PAID FOR ACQUISITION - NET OF CASH ACQUIRED                      (10,008,642)              --
+                                                                ------------     ------------
+NET CASH USED BY INVESTING ACTIVITIES                             (8,637,799)      (1,641,146)
+                                                                ------------     ============
+CASH FLOWS FROM FINANCING ACTIVITIES
+
+PROCEEDS FROM BANK LOAN - NET                                      1,288,554               --
+                                                                                 ------------
+NOTE PAYABLE - FOSHAN SHAREHOLDERS                                 1,576,750               --
+                                                                ------------     ------------
+NET CASH PROVIDED BY FINANCING ACTIVITIES                          2,865,304               --
+                                                                ============     ============
+EFFECT OF EXCHANGE RATE CHANGES ON CASH AND CASH EQUIVALENTS         297,565           89,763
+                                                                ------------     ------------
+NET CHANGE IN CASH AND CASH EQUIVALENTS                            1,628,129         (118,751)
+CASH AND CASH EQUIVALENTS, BEGINNING BALANCE                       1,043,555     $  1,162,306
+                                                                ------------     ------------
+CASH AND CASH EQUIVALENTS, ENDING BALANCE                       $  2,671,684     $  1,043,555
+                                                                ============     ============
+</TABLE>
+
+
+                                      F-6
+<PAGE>
+
+<TABLE>
+      <S>                                                  <C>              <C>
+      SUPPLEMENTAL DISCLOSURES:
+
+      CASH PAID DURING THE YEAR FOR:
+      INTEREST PAYMENTS                                    $     80,847     $      2,754
+                                                           ============     ============
+      INCOME TAXES                                         $  1,450,924     $    496,110
+                                                           ============     ============
+      OTHER NON-CASH TRANSACTIONS
+
+      PURCHASED GOODWILL                                   $(13,526,809)
+
+      FAIR VALUE OF ASSETS PURCHASED LESS CASH ACQUIRED      (2,178,333)
+
+      ACQUISITION FINANCED WITH STOCK ISSUANCE                5,696,500
+                                                           ------------
+      ACQUISITION PAID FOR WITH CASH - NET OF ACQUIRED     $(10,008,642)
+                                                           ============
+</TABLE>
+
+                 THE ACCOMPANYING NOTES ARE AN INTEGRAL PART OF
+                    THESE CONSOLIDATED FINANCIAL STATEMENTS.
+
+
+                                      F-7
+<PAGE>
+
+                             UNIVERSAL TRAVEL GROUP
+                 CONSOLIDATED STATEMENT OF STOCKHOLDERS' EQUITY
+                 FOR THE YEARS ENDED DECEMBER 31, 2007 AND 2006
+
+<TABLE>
+<CAPTION>
+                                                  ADDITIONAL       OTHER                                         TOTAL
+                          COMMON STOCK             PAID-IN     COMPREHENSIVE     RETAINED      STATUTORY    STOCKHOLDERS'
+                      SHARES         AMOUNT        CAPITAL         INCOME        EARNINGS       RESERVE         EQUITY
+                   -----------    -----------    -----------    -----------    -----------    -----------   -------------
+<S>                 <C>           <C>            <C>            <C>            <C>            <C>            <C>
+BALANCE
+DECEMBER 31,
+2006                30,450,000    $    30,450    $   332,013    $   103,811    $ 3,442,473    $        --    $ 3,908,747
+
+STOCK PAID FOR
+ACQUISITION          2,589,036          2,590      5,693,910                                                   5,696,500
+
+FOREIGN
+CURRENCY
+TRANSLATION
+ADJUSTMENTS                                                         441,353                                      441,353
+
+ISSUANCE OF
+SHARES FOR
+COMPENSATION         3,770,000          3,770      1,579,630                                                   1,583,400
+
+WARRANTS ISSUED                                      995,981                                                     995,981
+
+EFFECT OF THE
+ACQUISITION                                                                                       335,173        335,173
+
+TRANSFER TO
+STATUTORY
+RESERVE                                                                            (36,971)        36,971             --
+
+INCOME FOR THE
+YEARS ENDED
+12/31/2007                                                                       8,695,894                     8,695,894
+                   -----------    -----------    -----------    -----------    -----------    -----------    -----------
+BALANCE
+DECEMBER 31,
+2007                36,809,036    $    36,810    $ 8,601,534    $   545,164    $12,101,396    $   372,144    $21,657,048
+                   ===========    ===========    ===========    ===========    ===========    ===========    ===========
+</TABLE>
+
+                 THE ACCOMPANYING NOTES ARE AN INTEGRAL PART OF
+                    THESE CONSOLIDATED FINANCIAL STATEMENTS.
+
+
+                                      F-8
+<PAGE>
+
+                             UNIVERSAL TRAVEL GROUP
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                DECEMBER 31, 2007
+
+Note 1 - Organization
+
+Universal Travel Group was Incorporated On January 28, 2004 Under the Laws of
+the State of Nevada. Full Power Enterprise Global Limited - Bvi was Incorporated
+Under the Laws of the British Virginia Islands. Shenzhen Yuzhilu Aviation
+Service Co., Ltd was Incorporated On March 9, 1998 Under the Laws of the Peoples
+Republic of China (Prc). Shenzhen Speedy Dragon Enterprises Limited was
+Incorporated in August of 2002 Under the Laws of the Peoples Republic of China
+(Prc), Xian Golden Net Travel Serve Services was Incorporated On July 25, 2001
+Under the Laws of the Peoples Republic of China, Xian City, Shanghai Lanbao
+Travel Service Co., Ltd, was Established in 2002 Under the Laws of Shanghai
+China. Foshan Overseas International Travel Service Co., Ltd. was Incorporated
+in 1990 Under the Laws of the Peoples Republic of China. Full Power Enterprise
+Global Limited Owns 100% of the Shenzhen Yuzhilu Aviation Service Co., Ltd.
+Collectively the Four Corporations are Referred to Herein as the Company.
+
+The Company is Now Engaged in the Travel Business, Including Airline Ticketing,
+Hotel Reservation Services and Air Cargo Transportation Services, Technological
+Solutions to Travel Reservations, and Tour Planning and Tour Guide Services.
+
+Note 2 - Summary of Significant Accounting Policies
+
+Basis of Presentation
+
+The Accompanying Consolidated Financial Statements Have Been Prepared in
+Conformity With Accounting Principles Generally Accepted in the United States of
+America. the Company's Functional Currency is the Chinese Renminbi; However the
+Accompanying Consolidated Financial Statements Have Been Translated and
+Presented in United States Dollars.
+
+Translation Adjustment
+
+As of December 31, 2007 and December 31, 2006 the Accounts of Universal Travel
+Group Were Maintained, and Its Financial Statements Were Expressed, in Chinese
+Yuan Renminbi (Cny). Such Financial Statements Were Translated Into U.s. Dollars
+(Usd) in Accordance With Statement of Financial Accounts Standards (Sfas) No.
+52, Foreign Currency Translation With the Cny as the Functional Currency.
+According to the Statement, All Assets and Liabilities Were Translated At the
+Current Exchange Rate, Stockholders Equity are Translated At the Historical
+Rates and Income Statement Items are Translated At the Average Exchange Rate for
+the Period. the Resulting Translation Adjustments are Reported Under Other
+Comprehensive Income in Accordance With Sfas No. 130, Reporting Comprehensive
+Income as a Component of Shareholders Equity. Transaction Gains and Losses are
+Reflected in the Income Statement.
+
+Use of Estimates
+
+The Preparation of Financial Statements in Conformity With Generally Accepted
+Accounting Principles Requires Management to Make Estimates and Assumptions That
+Affect the Reported Amounts of Assets and Liabilities and Disclosure of
+Contingent Assets and Liabilities At the Date of the Financial Statements and
+the Reported Amounts of Revenues and Expenses During the Reporting Period.
+Actual Results Could Differ From Those Estimates.
+
+
+                                      F-9
+<PAGE>
+
+Principles of Consolidation
+
+The Consolidated Financial Statements Include the Accounts of Universal Travel
+Group and Its Wholly Owned Subsidiaries Shenzhen Yuzhilu Aviation Service Co.,
+Ltd, Shenzhen Speedy Dragon Enterprises Limited, Shanghai Lanbao Travel Service
+Co., Ltd, Xian Golden Net Travel Serve Services, Ltd., Foshan Overseas
+International Travel Service Co. Ltd. and Full Power Enterprise Global Limited
+Collectively Referred to Herein as the Company. All Material Inter-company
+Accounts, Transactions and Profits Have Been Eliminated in Consolidation.
+
+
+                                      F-10
+<PAGE>
+
+                             UNIVERSAL TRAVEL GROUP
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                DECEMBER 31, 2007
+
+Note 2 - Summary of Significant Accounting Policies (Continued)
+
+Risks and Uncertainties
+
+The Company is Subject to Substantial Risks From, Among Other Things, Intense
+Competition Associated With the Industry in General, Other Risks Associated With
+Financing, Liquidity Requirements, Rapidly Changing Customer Requirements,
+Limited Operating History, Foreign Currency Exchange Rates and the Volatility of
+Public Markets.
+
+Contingencies
+
+Certain Conditions May Exist as of the Date the Financial Statements are Issued.
+These Conditions May Result in a Future Loss to the Company But Which Will Only
+be Resolved When One or More Future Events Occur or Fail to Occur. the Company's
+Management and Legal Counsel Assess Such Contingent Liabilities, and Such
+Assessment Inherently Involves an Exercise of Judgment. in Assessing Loss
+Contingencies Related to Legal Proceedings That are Pending Against the Company
+or Unasserted Claims That May Result in Such Proceedings, the Company's Legal
+Counsel Evaluates the Perceived Merits of Any Legal Proceedings or Unasserted
+Claims as Well as the Perceived Merits of the Amount of Relief Sought or
+Expected to be Sought.
+
+If the Assessment of a Contingency Indicates That It is Probable That a Material
+Loss has Been Incurred and the Amount of the Liability Can be Estimated, Then
+the Estimated Liability Would be Accrued in the Company's Financial Statements.
+If the Assessment Indicates That a Potential Material Loss Contingency is Not
+Probable But is Reasonably Possible, or is Probable But Cannot be Estimated,
+Then the Nature of the Contingent Liability, Together With an Estimate of the
+Range of Possible Loss If Determinable and Material Would be Disclosed.
+
+Loss Contingencies Considered to be Remote by Management are Generally Not
+Disclosed Unless They Involve Guarantees, in Which Case the Guarantee Would be
+Disclosed.
+
+Cash and Cash Equivalents
+
+Cash and Cash Equivalents Include Cash On Hand and Cash in Time Deposits,
+Certificates of Deposit and All Highly Liquid Debt Instruments With Original
+Maturities of Three Months or Less.
+
+Accounts Receivable
+
+The Company Maintains Reserves for Potential Credit Losses On Accounts
+Receivable. Management Reviews the Composition of Accounts Receivable and
+Analyzes Historical Bad Debts, Customer Concentrations, Customer Credit
+Worthiness, Current Economic Trends and Changes in Customer Payment Patterns to
+Evaluate the Adequacy of These Reserves. Terms of the Sales Vary. Reserves are
+Recorded Primarily On a Specific Identification Basis. Allowance for Doubtful
+Accounts Amounted to $ 73,115 and $74,945 as At December 31, 2007 and 2006
+Respectively.
+
+Property, Plant & EQUIPMENT
+
+Property and Equipment are Stated At Cost. Expenditures for Maintenance and
+Repairs are Charged to Earnings as Incurred; Additions, Renewals and Betterments
+are Capitalized. When Property and Equipment are Retired or Otherwise Disposed
+Of, the Related Cost and Accumulated Depreciation are Removed From the
+Respective Accounts, and Any Gain or Loss is Included in Operations.
+Depreciation of Property and Equipment is Provided Using the Straight-line
+Method for Substantially All Assets With Estimated Lives Of:
+
+
+                                      F-11
+<PAGE>
+
+Note 2 - Summary of Significant Accounting Policies (Continued)
+
+      FURNITURE AND FIXTURES                              5 YEARS
+      TRANSPORTATION EQUIPMENT                            5 YEARS
+      OFFICE EQUIPMENT                                    5 YEARS
+      LEASEHOLD IMPROVEMENTS                              5 - 10 YEARS
+
+As of December 31, 2007 and 2006 Property, Plant & EQUIPMENT CONSIST OF THE
+FOLLOWING:
+
+                                                  2007             2006
+                                                  ----             ----
+      FURNITURE & FIXTURE                      $  18,247            6,267
+      TRANSPORTATION EQUIP                       301,308           27,426
+      OFFICE EQUIPMENT                           177,004           54,285
+      LEASEHOLD IMPROVE                           31,374            9,403
+                                               ---------        ---------
+                                                 527,933           97,381
+      ACCUMULATED DEPRECIATION                  (400,540)         (74,352)
+                                               ---------        ---------
+                                               $ 127,393           23,029
+                                               =========        =========
+
+Long-lived Assets
+
+The Company Adopted Statement of Financial Accounting Standards No. 144,
+Accounting for the Impairment or Disposal of Long-lived Assets (Sfas 144), Which
+Addresses Financial Accounting and Reporting for the Impairment or Disposal of
+Long-lived Assets and Supersedes Sfas No. 121, Accounting for the Impairment of
+Long-lived Assets and for Long-lived Assets to be Disposed Of, and the
+Accounting and Reporting Provisions of Apb Opinion No. 30, Reporting the Results
+of Operations for a Disposal of a Segment of a Business. the Company
+Periodically Evaluates the Carrying Value of Long-lived Assets to be Held and
+Used in Accordance With Sfas 144. Sfas 144 Requires Impairment Losses to be
+Recorded On Long-lived Assets Used in Operations When Indicators of Impairment
+are Present and the Undiscounted Cash Flows Estimated to be Generated by Those
+Assets are Less Than the Assets Carrying Amounts. in That Event, a Loss is
+Recognized Based On the Amount by Which the Carrying Amount Exceeds the Fair
+Market Value of the Long-lived Assets. Loss On Long-lived Assets to be Disposed
+of is Determined in a Similar Manner, Except That Fair Market Values are Reduced
+for the Cost of Disposal. Based On Its Review, the Company Believes That, as of
+September 30, 2007 and December 31, 2006 There Were No Significant Impairments
+of Its Long-lived Assets.
+
+Fair Value of Financial Instruments
+
+Statement of Financial Accounting Standard No. 107, Disclosures About Fair Value
+of Financial Instruments, Requires That the Company Disclose Estimated Fair
+Values of Financial Instruments. the Carrying Amounts Reported in the Statements
+of Financial Position for Current Assets and Current Liabilities Qualifying as
+Financial Instruments are a Reasonable Estimate of Fair Value.
+
+Revenue Recognition
+
+The Company's Revenue Recognition Policies are in Compliance With Staff
+Accounting Bulletin (Sab) 104. Revenue is Recognized At the Date the Price is
+Fixed or Determinable, the Delivery is Completed, No Other Significant
+Obligations of the Company Exist and Collectibility is Reasonably Assured.
+Payments Received Before All of the Relevant Criteria for Revenue Recognition
+are Satisfied are Recorded as Unearned Revenue.
+
+
+                                      F-12
+<PAGE>
+
+                             UNIVERSAL TRAVEL GROUP
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                DECEMBER 31, 2007
+
+Note 2 - Summary of Significant Accounting Policies (Continued)
+
+Advertising
+
+Advertising Expenses Consist Primarily of Costs of Promotion for Corporate Image
+and Product Marketing and Costs of Direct Advertising. the Company Expenses All
+Advertising Costs as Incurred.
+
+Income Taxes
+
+The Company Utilizes Sfas No. 109, Accounting for Income Taxes, Which Requires
+the Recognition of Deferred Tax Assets and Liabilities for the Expected Future
+Tax Consequences of Events That Have Been Included in the Financial Statements
+or Tax Returns. Under This Method, Deferred Income Taxes are Recognized for the
+Tax Consequences in Future Years of Differences Between the Tax Bases of Assets
+and Liabilities and Their Financial Reporting Amounts At Each Period End Based
+On Enacted Tax Laws and Statutory Tax Rates Applicable to the Periods in Which
+the Differences are Expected to Affect Taxable Income. Valuation Allowances are
+Established, When Necessary, to Reduce Deferred Tax Assets to the Amount
+Expected to be Realized.
+
+Statement of Cash Flows
+
+In Accordance With Sfas No. 95, Statement of Cash Flows, Cash Flows From the
+Company's Operations is Based Upon the Local Currencies. as a Result, Amounts
+Related to Assets and Liabilities Reported On the Statement of Cash Flows Will
+Not Necessarily Agree With Changes in the Corresponding Balances On the Balance
+Sheet.
+
+Intangibles
+
+Intangible Assets are Amortized Using the Straight-line Method Over Their
+Estimated Period of Benefit. Evaluation of the Recoverability of Intangible
+Assets is Made Annually to Take Into Account Events or Circumstances That
+Warrant Revised Estimates of Useful Lives or That Indicate That Impairment
+Exists. All of Our Intangible Assets are Subject to Amortization. No Impairments
+of Intangible Assets Have Been Identified During Any of the Periods Presented.
+
+Concentration of Credit Risk
+
+Financial Instruments That Potentially Subject the Company to Concentrations of
+Credit Risk are Cash, Accounts Receivable and Other Receivables Arising From Its
+Normal Business Activities. the Company Places Its Cash in What It Believes to
+be Credit-worthy Financial Institutions. the Company has a Diversified Customer
+Base, Most of Which are in China. the Company Controls Credit Risk Related to
+Accounts Receivable Through Credit Approvals, Credit Limits and Monitoring
+Procedures. the Company Routinely Assesses the Financial Strength of Its
+Customers And, Based Upon Factors Surrounding the Credit Risk, Establishes an
+Allowance, If Required, for Uncollectible Accounts And, as a Consequence,
+Believes That Its Accounts Receivable Credit Risk Exposure Beyond Such Allowance
+is Limited.
+
+Recent Accounting Pronouncements
+
+In February 2006, Fasb Issued Sfas No. 155, Accounting for Certain Hybrid
+Financial Instruments Sfas No. 155 Amends Sfas No 133, Accounting for Derivative
+Instruments and Hedging Activities, and Sfaf No. 140, Accounting for Transfers
+and Servicing of Financial Assets and Extinguishments of Liabilities. Sfas No.
+155, Permits Fair Value Re-measurement for Any Hybrid Financial Instrument That
+Contains an Embedded Derivative That Otherwise Would Require Bifurcation,
+Clarifies Which Interest-only Strips and Principal-only Strips are Not Subject
+to the Requirements of Sfas No. 133, Establishes a Requirement to Evaluate
+Interest in Securitized Financial Assets to Identify Interests That Are
+
+
+                                      F-13
+<PAGE>
+
+Freestanding Derivatives or That are Hybrid Financial Instruments That Contain
+an Embedded Derivative Requiring Bifurcation, Clarifies That Concentrations of
+Credit Risk in the Form of Subordination are Not Embedded Derivatives, and
+Amends Sfas No. 140 to Eliminate the Prohibition On the Qualifying
+Special-purpose Entity From Holding a Derivative Financial Instrument That
+Pertains to a Beneficial Interest Other Than Another Derivative Financial
+Instrument. This Statement is Effective for All Financial Instruments Acquired
+or Issued After the Beginning of the Company's First Fiscal Year That Begins
+After September 15, 2006.
+
+In March 2006, the Fasb Issued Fasb Statement No. 156, Accounting for Servicing
+of Financial Assets - an Amendment to Fasb Statement No. 140. Statement 156
+Requires That an Entity Recognize a Servicing Asset Or
+
+Note 2 - Summary of Significant Accounting Policies (Continued)
+
+Servicing Liability Each Time It Undertakes an Obligation to Service a Financial
+Asset by Entering Into a Service Contract Under Certain Situations. the New
+Standard is Effective for Fiscal Years Beginning After September 15, 2006. the
+Company Does Not Expect Its Adoption of This New Standard to Have a Material
+Impact On Its Financial Position Results of Operations or Cash Flows.
+
+In September, 2006, Fasb Issued Sfas 157 `Fair Value Measurements'. This
+Statement Defines Fair Value, Establishes a Framework for Measuring Fair Value
+in Generally Accepted Accounting Principles (Gaap), and Expands Disclosures
+About Fair Value Measurements. This Statements Applies Under Other Accounting
+Pronouncements That Require or Permit Fair Value Measurements, the Board Having
+Previously Concluded in Those Accounting Pronouncements That Fair Value is the
+Relevant Measurement Attribute. Accordingly, This Statement Does Not Require Any
+New Fair Value Measurements. However, for Some Entities, the Application of This
+Statement Will Change Current Practice. This Statement is Effective for
+Financial Statements Issued for Fiscal Years Beginning After November 15, 2007,
+and Interim Periods Within Those Fiscal Years. the Management is Currently
+Evaluating the Effect of This Pronouncement On Financial Statements.
+
+In September 2006, Fasb Issued Sfas 158 `Employers' Accounting for Defined
+Benefit Pension and Other Postretirement Plans - an Amendment of Fasb Statements
+No. 87, 88, 106, and 132(R)' This Statement Improves Financial Reporting by
+Requiring an Employer to Recognize the Over Funded or Under Funded Status of a
+Defined Benefit Postretirement Plan (Other Than a Multiemployer Plan) as an
+Asset or Liability in Its Statement of Financial Position and to Recognize
+Changes in That Funded Statues in the Year in Which the Changes Occur Through
+Comprehensive Income of a Business Entity or Changes in Unrestricted Net Assets
+of a Not-for-profit Organization. This Statement Also Improves Financial
+Reporting by Requiring an Employer to Measure the Funded Status of a Plan as of
+the Date of Its Year-end Statement of Financial Position, With Limited
+Exceptions. an Employer With Publicly Traded Equity Securities is Required to
+Initially Recognize the Funded Status of a Defined Benefit Postretirement Plan
+and to Provide the Required Disclosures as of the End of the Fiscal Year Ending
+After December 15, 2006. an Employer Without Publicly Traded Equity Securities
+is Required to Recognize the Funded Status of a Defined Benefit Postretirement
+Plan and to Provide the Required Disclosures as of the End of the Fiscal Year
+Ending After June 15, 2007. However, an Employer Without Publicly Traded Equity
+Securities is Required to Disclose the Following Information in the Notes to
+Financial Statements for a Fiscal Year Ending After December 15, 2006, But
+Before June 16, 2007, Unless It has Applied the Recognition Provisions of This
+Statement in Preparing Those Financial Statements.
+
+A.    A Brief Description of the Provisions of This Statement
+B.    The Date That Adoption is Required
+C.    The Date the Employer Plans to Adopt the Recognition Provisions of This
+      Statement, If Earlier.
+
+The Requirement to Measure Plan Assets and Benefit Obligations as of the Date of
+the Employer's Fiscal Year-end Statement of Financial Position is Effective for
+Fiscal Years Ending After December 15, 2008. the Management is Currently
+Evaluating the Effect of This Pronouncement On Financial Statements.
+
+
+                                      F-14
+<PAGE>
+
+The Company Believes That the Adoption of These Standards Will Have No Material
+Impact On Its Financial Statements.
+
+In February, 2007, Fasb Issued Sfas 159 `The Fair Value Option for Financial
+Assets and Financial Liabilities' - Including an Amendment of Fabs Statement No.
+115. This Statement Permits Entities to Choose to Measure Many Financial
+Instruments and Certain Other Items At Fair Value. This Statement is Expected to
+Expand the Use of Fair Value Measurement, Which is Consistent With the Board's
+Long-term Measurement Objectives for Accounting for Financial Instruments. This
+Statement is Effective as of the Beginning of an Entity's First Fiscal Year That
+Begins After November 15, 2007. the Management is Currently Evaluating the
+Effect of This Pronouncement On Financial Statements.
+
+Note 2 - Summary of Significant Accounting Policies (Continued)
+
+Merger and Corporate Restructure
+
+On June 26, 2006 the Company Entered Into an Agreement and Plan of Merger With
+Full Power Enterprises Global Limited, a Holding Company That Owns All of the
+Issued and Outstanding Shares of Shenzhen Yuzhilu Aviation Service Company
+Limited, the Operating Company. in Substance the Agreement is a Recapitalization
+of Shenzhen Yuzhilu Aviation Service Company's Capital Structure.
+
+For Accounting Purposes, the Company Accounted for the Transaction as a Reverse
+Acquisition and With Full Power Enterprises Global Limited Being the Surviving
+Entity. the Company Did Not Recognize Goodwill or Any Intangible Assets in
+Connection With the Transaction. Prior to the Agreement, the Company was an
+Inactive Corporation With No Significant Assets and Liabilities.
+
+The Accompanying Financial Statements Present the Historical Financial
+Condition, Results of Operations and Cash Flows of the Operating Company Prior
+to the Merger.
+
+Note 3 - Trade Deposits and Advances
+
+Trade Deposits Represents Amount Held by Airlines and Deposits. as of December
+31, 2007 and 2006 the Company Had Paid $2,650,744 and $959,605 as Trade Deposits
+Respectively.
+
+During the Year, the Company Entered Into a Co-operation Agreement With an
+Unrelated Company, to Assist That Company in Their Business Development by
+Participating in That Business Operations and Providing Working Capital Funding.
+as of December 31, 2007 the Company has Advanced This Company $616,861.
+
+Note 4 - Compensated Absences
+
+Regulation 45 of Local Prc Labor Law Entitles Employees to Annual Vacation Leave
+After 1 Year of Service. in General All Leave Must be Utilized Annually, With
+Proper Notification. Any Unutilized Leave is Cancelled.
+
+Note 5 - Income Taxes
+
+The Company Through Its Subsidiary Shenzhen Yuzhilu Aviation Service Co. is
+Governed by the Income Tax Laws of the Prc. Operations in the United States of
+America Have Incurred Net Accumulated Operating Losses for Income Tax Purposes.
+
+Pursuant to the Prc Income Tax Laws, the Enterprise Income Tax (Eit) the Company
+has a Varying Statutory Rate of 15% - 33%.
+
+
+                                      F-15
+<PAGE>
+
+      THE FOLLOWING IS A
+      RECONCILIATION OF INCOME
+      TAX EXPENSE:
+                                                   2007             2006
+                                                   ----             ----
+
+      CURRENT                                  $1,852,069       $  603,083
+      DEFERRED                                         --               --
+                                               ----------       ----------
+      TOTAL                                    $1,852,069       $  603,083
+                                               ==========       ==========
+
+
+                                      F-16
+<PAGE>
+
+                             UNIVERSAL TRAVEL GROUP
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                DECEMBER 31, 2007
+
+Note 6 - Committments
+
+The Company Leases Various Office Facilities Under Month-to-month Arrangements.
+Rental Expense for Leases Consisted of $184,552 and $65,698 for the Years Ended
+December 31, 2007 and 2006 Respectively. the Company has Future Minimum Lease
+Obligations as of December 31, 2007 as Follows:
+
+12/31/2008        $ 155,855
+12/31/2009        $  32,019
+                  ---------
+TOTAL             $ 187,874
+                  =========
+
+Note 7 - Notes Payable
+
+The Following Table Summaries Notes Payable as of December 31, 2007:
+
+LENDER                        DUE DATE          INTEREST RATE        OUTSTANDING
+CHINA CONSTRUCTION BANK       JULY 29, 2008     6.25% PER ANNUM      $ 1,288,554
+
+On September 20, 2007, the Company Entered Into a Share Exchange Agreement With
+Foshan Overseas International Travel Service Co.("foi"), Led,, and the
+Shareholders of Foi. the Shareholders of Foi Received a Promissory Note From the
+Company Totaling $3,153,500. the Promissory Note Bears No Interest, With a
+Maturity Date of One Year. Balance At December 31, 2007 is 1,576,750.
+
+Note 8 - Common Stock
+
+In January 2007 the Company Adopted the Universal Travel Group 2007 Equity
+Incentive Plan. Under the Terms of This Plan the Company Issued 3,770,000 Shares
+of the Company's Stock, Valued At $1,583,400, for Services Rendered During the
+Period From October 2, 2006 Through February 28, 2007. as of December 31, 2007
+the Financial Statements Include a Charge $633,360 With the Remaining $950,040
+Being Expensed as of December 31, 2006.
+
+Pursuant to a Share Exchange Agreement, the Company Issued 714,285 Shares of
+Newly Issued Shares of Common Stock to the Former Shareholders of Shenzhen
+Speedy Dragon Enterprises Limited. the Shares Were Valued At $1,000,000, Which
+was the Fair Value of the Shares At the Date of Exchange Agreement. This Amount
+is Included in the Cost of Net Assets and Goodwill Purchased.
+
+Pursuant to a Share Exchange Agreement, the Company Issued 151,765 Shares of
+Newly Issued Shares of Common Stock to the Former Shareholders of Xian Golden
+Net Travel Serve Services, Inc. the Shares Were Valued At $258,000, Which was
+the Fair Value of the Shares At the Date of Exchange Agreement. This Amount is
+Included in the Cost of Net Assets and Goodwill Purchased.
+
+Pursuant to a Share Exchange Agreement, the Company Issued 600,000 Shares of
+Newly Issued Shares of Common Stock to the Former Shareholders of Shanghai
+Lanbao Travel Services Co., Ltd. the Shares Were Valued At $1,092,000, Which was
+the Fair Value of the Shares At the Date of Exchange Agreement. This Amount is
+Included in the Cost of Net Assets and Goodwill Purchased.
+
+Pursuant to a Share Exchange Agreement, the Company Issued 1,122,986 Shares of
+Newly Issued Shares of Common Stock and a Promissory Note to the Former
+Shareholders of Foshan Overseas International Travel Service Co., Ltd.. the
+Shares Were Valued At $ 3,346,500, Which was the Fair Value of the Shares At the
+Date of Exchange Agreement. This Amount is Included in the Cost of Net Assets
+and Goodwill Purchased.
+
+
+                                      F-17
+<PAGE>
+
+Note 9 - Stock Warrants, Options, and Compensation
+
+On May 7, 2007, the Company Issued, to a Newly Appointed Board Member, an Option
+Grant to Purchase 100,000 Shares of Common Stock At the Closing Price At $ 1.95.
+the Options are Exercisable Until May 7, 2017.
+
+On September 6, 2007, the Company Issued, to a Newly Appointed Board Member, an
+Option Grant to Purchase 100,000 Shares of Common Stock At the Closing Price At
+$ 2.85. the Options are Exercisable Until June 1, 2017.
+
+On December 7, 2007, the Company Issued, to Another Newly Appointed Board
+Member, an Option Grant to Purchase 100,000 Shares of Common Stock At the
+Closing Price of $ 3.75. the Options are Exercisable Until November 1, 2017.
+
+Stock Options--- the Option Holder has No Voting or Dividend Rights. the Company
+Records the Expense of the Stock Options Over the Related Vesting Period. the
+Options Were Valued Using the Black-scholes Option-pricing Model At the Model At
+the Date of Grant Stock Option Pricing
+
+                                                                   YEAR ENDED
+                                                               DECEMBER 31, 2007
+
+EXPECTED VOLATILITY                                                   128%
+EXPECTED TERM (IN YEARS)
+   RICHARD P. RANDALL                                                   9
+   RICHARD M. COHEN                                                     9
+   JAMES TREACY                                                        10
+EXPECTED DIVIDENDS                                                     --
+RISK-FREE RATE OF RETURN (WEIGHTED AVERAGE)                             2%
+WEIGHTED AVERAGE GRANT-DATE FAIR VALUE                            $ 1.95-3.75
+
+Expected Volatility is Based On the Historical Volatility of the Company's Stock
+Price. the Expected Term Represents the Estimated Average Period of Time That
+the Options Remain Outstanding. No Dividend Payouts Were Assumed, as the Company
+has No Plans to Declare Dividends During the Expected Term of the Stock Options.
+the Risk-free Rate of Return Reflects the Weighted Average Interest Rate Offered
+for Zero Coupon Treasury Bonds Over the Expected Term of the Options.
+
+                                                                 AGGREGATE
+                                               EXERCISE    REMAINING   INTRINSIC
+                                     TOTAL       PRICE       LIFE        VALUE
+                                  ----------  ----------  ----------  ----------
+
+Outstanding, December 31, 2006            --          --          --          --
+Granted in 2007                      100,000  $     2.85           9          --
+                                     100,000        1.95           9          --
+                                     100,000        3.75          10          --
+Exercised in 2007                         --          --          --          --
+                                  ----------  ----------  ----------  ----------
+OUTSTANDING, DECEMBER 31, 2007       300,000                                  --
+                                  ==========  ==========  ==========  ==========
+
+
+                                      F-18
+<PAGE>
+
+Note 10 - Other Comprehensive Income
+
+Balances of Related After-tax Components Comprising Accumulated Other
+Comprehensive Income, Included in Stockholders Equity, At December 31, 2007 are
+as Follows:
+
+<TABLE>
+<CAPTION>
+                                                 FOREIGN CURRENCY    ACCUMULATED OTHER
+                                                    TRANSLATION        COMPREHENSIVE
+                                                    ADJUSTMENT            INCOME
+                                                 ----------------    -----------------
+<S>                                                  <C>                 <C>
+BALANCE DECEMBER 31, 2006                            $103,811            $103,811
+CHANGES FOR 12 MONTHS ENDED DECEMBER 31, 2007         441,353             441,353
+                                                     --------            --------
+BALANCE AT DECEMBER 31, 2007                         $545,164            $545,164
+                                                     ========            ========
+</TABLE>
+
+Note 11 - Current Vulnerability Due to Certain Risk Factors
+
+The Company's Operations are Carried Out in the Prc. Accordingly, the Company's
+Business, Financial Condition and Results of Operations May be Influenced by the
+Political, Economic and Legal Environments in the Prc, and by the General State
+of the Prc's Economy. the Company's Business May be Influenced by Changes in
+Governmental Policies With Respect to Laws and Regulations, Anti-inflationary
+Measures, Currency Conversion and Remittance Abroad, and Rates and Methods of
+Taxation, Among Other Things.
+
+Note 12 - Major Customers and Credit Risk
+
+The Company Derives Its Income From Various Airlines. Most Revenue is Cleared
+Thru Iata, a Centralized Reporting Platform.
+
+Note 13 - Subsequent Events
+
+On February 4, 2008, the Company Received a Commitment for $ 3.5 Million in
+Financing From Three Chinese Financial Institutions in Exchange for 1, 301,481
+Shares of the Company's Common Stock, a Price of $ 2.70 Per Share. the Proceeds
+Will be Used Exclusively to Reduce Debt From Past Acquisitions. the Funds are to
+be Paid in Three Installments. On February 7, 2008, the Company Announced That
+It has Received This Commitment.
+
+On February 12, 2008, the Company entered into an agreement with Tianjin Golden
+Dragon rescinding the Company's previously announced acquisition of 90% of the
+outstanding capital stock of Tianjin Golden Dragon.
+
+
+                                      F-19
+</TEXT>
+</DOCUMENT>

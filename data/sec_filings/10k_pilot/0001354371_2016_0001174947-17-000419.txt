@@ -1,0 +1,867 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>form10k-17061_pplustsrrd1.htm
+<DESCRIPTION>10-K
+<TEXT>
+
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<DIV STYLE="font: 10pt Times New Roman,Times,serif">
+
+
+<DIV style="width: 100%; border-bottom: 2pt solid black; font-size: 1pt">&nbsp;</DIV>
+<DIV style="width: 100%; border-bottom: 1pt solid black; font-size: 1pt">&nbsp;</DIV>
+
+
+
+
+
+
+<DIV align="center" style="font-size: 14pt; margin-top: 12pt"><B>UNITED STATES<BR>
+SECURITIES AND EXCHANGE COMMISSION</B>
+</DIV>
+
+<DIV align="center" style="font-size: 12pt"><B>WASHINGTON, D.C. 20549 </B><BR>
+<DIV align="center"><DIV style="font-size: 3pt; margin-top: 12pt; width: 26%; border-top: 1px solid #000000">&nbsp;</DIV></DIV>
+</DIV>
+
+<DIV align="center" style="font-size: 18pt; margin-top: 12pt"><B>FORM 10-K</B>
+</DIV>
+
+
+<DIV align="center" style="font-size: 12pt; margin-top: 12pt"><B>ANNUAL REPORT</B>
+</DIV>
+
+
+<DIV align="center" style="font-size: 12pt; margin-top: 12pt"><B>Pursuant to Section&nbsp;13 or 15(d) of the Securities Exchange Act of 1934</B>
+</DIV>
+
+  <DIV align="center" style="font-size: 10pt; margin-top: 12pt"><B>For the fiscal
+    year ended: December&nbsp;31, 2016</B><BR>
+<DIV align="center"><DIV style="font-size: 3pt; margin-top: 12pt; width: 26%; border-top: 1px solid #000000">&nbsp;</DIV></DIV></DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt"><B>001-32824<BR>
+(Commission file number of issuing entity)</B></DIV>
+
+<DIV align="center" style="font-size: 24pt; margin-top: 12pt"><B>PPLUS TRUST SERIES RRD-1</B>
+</DIV>
+
+<DIV align="center" style="font-size: 10pt">(Exact name of issuing entity)</DIV>
+
+<DIV STYLE="text-align: center; font-size: 10pt">&nbsp;<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">0001354371</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">(CIK number of issuing entity)</P>
+
+
+</DIV>
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt"><B>333-116208<BR>
+(Commission file number of depositor)</B></DIV>
+
+<DIV align="center" style="font-size: 24pt; margin-top: 12pt"><B>MERRILL LYNCH DEPOSITOR, INC.</B>
+</DIV>
+
+<DIV align="center" style="font-size: 10pt">(Exact name of depositor as specified in its charter)</DIV>
+
+<DIV STYLE="text-align: center; font-size: 10pt">&nbsp;<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">0001040240</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">(CIK number of depositor)</P>
+
+
+</DIV>
+
+
+<DIV align="center" style="font-size: 24pt; margin-top: 12pt"><B>MERRILL LYNCH DEPOSITOR, INC.</B>
+</DIV>
+
+<DIV align="center" style="font-size: 10pt">(Exact name of sponsor as specified in its charter)</DIV>
+
+<DIV STYLE="text-align: center; font-size: 10pt">&nbsp;<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">0001040240</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">(CIK number of sponsor)</P>
+
+
+</DIV>
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="48%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="48%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="center" valign="top"><B>New York</B><BR>
+(State or other jurisdiction of <BR>
+incorporation or organization of the issuing entity)
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><B>13-3891329</B><BR>
+(I. R. S. Employer Identification No.)</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="47%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="47%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+        <TD align="center" valign="top"><B>One Bryant Park, 4th FL <br>
+        New York, NY<BR>
+        </B>(Address of principal executive offices of the <BR>
+        issuing entity)</TD>
+    <TD>&nbsp;</TD>
+        <TD align="center" valign="top"><B>10036</B><BR>
+(Zip Code)</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt"><DIV align="center"><DIV style="font-size: 3pt; margin-top: 16pt; width: 26%; border-top: 1px solid #000000">&nbsp;</DIV></DIV></DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt">Registrant&#146;s telephone number, including area code: (646)&nbsp;855-6745</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Securities registered pursuant to Section 12(b) of the Act:
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">PPLUS Trust Certificates Series&nbsp;RRD-1, listed on The New York Stock Exchange
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Securities registered pursuant to Section 12(g) of the Act:
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Not Applicable.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule&nbsp;405 of
+the Securities Act.
+</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt">Yes <FONT face="Wingdings">&#111;</FONT>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No <FONT face="Wingdings">&#254;</FONT></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Indicate by check mark if the registrant is not required to file reports pursuant to Section&nbsp;13 or
+Section 15(d) of the Act.
+</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt">Yes <FONT face="Wingdings">&#111;</FONT>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No <FONT face="Wingdings">&#254;</FONT></DIV>
+
+  <DIV align="left" style="font-size: 10pt; margin-top: 6pt">Indicate by check mark whether the registrant (1)&nbsp;has filed all reports required to be filed by
+Section&nbsp;13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12&nbsp;months (or for
+such shorter period that the registrant was required to file such reports), and (2)&nbsp;has been
+subject to such filing requirements for the past 90&nbsp;days.
+</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt">Yes <FONT face="Wingdings">&#254;</FONT>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No <FONT face="Wingdings">&#111;</FONT></DIV>
+
+  <DIV align="left" style="font-size: 10pt; margin-top: 6pt">
+    <p>Indicate by check mark whether the  registrant  has  submitted  electronically  and posted on its  corporate  Web site,  if any,  every
+Interactive  Data File  required to be submitted and posted  pursuant to Rule 405 of Regulation  S-T during the preceding 12 months (or
+for such shorter period that the registrant was required to submit and post such files).
+</p>
+    <div align="center" style="font-size: 10pt; margin-top: 12pt">Yes <font face="Wingdings">&#111;</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No <font face="Wingdings">&#111;</font></div>
+    <p>Indicate by check mark if disclosure of delinquent filers pursuant to Item&nbsp;405 of Regulation&nbsp;S-K is
+not contained herein, and will not be contained, to the best of registrant&#146;s knowledge, in
+definitive proxy or information statements incorporated by reference in Part&nbsp;III of this Form 10-K
+or any amendment to this Form 10-K. <FONT face="Wingdings">&#111;</FONT>
+</p>
+  </DIV>
+
+  <DIV align="left" style="font-size: 10pt; margin-top: 6pt">Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer,
+a non-accelerated filer or a smaller reporting company. See the definitions of  &#147;large accelerated filer,&#148; &#147;accelerated filer&#148; and &#147;smaller reporting company&#148; in
+Rule&nbsp;12b-2 of the Exchange Act. </DIV>
+
+  <DIV align="center" style="font-size: 10pt; margin-top: 12pt">Large
+accelerated filer <FONT face="Wingdings">&#111;</FONT> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Accelerated filer <FONT face="Wingdings">&#111;</FONT> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Non-accelerated filer <FONT face="Wingdings">&#254;<font face="Times New Roman, Times, serif"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Smaller reporting  filer <font face="Wingdings">&#111;</font></font></FONT></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Indicate by check mark whether the registrant is a shell company (as defined in Rule&nbsp;12b-2 of the
+ Act).
+</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt">Yes <FONT face="Wingdings">&#111;</FONT>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No <FONT face="Wingdings">&#254;</FONT></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">State the aggregate market value of the voting and non-voting common equity held by non-affiliates
+computed by reference to the price at which the common equity was last sold, or the average bid and
+asked price of such common equity, as of the last business day of the registrant&#146;s most recently
+completed second fiscal quarter.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Not Applicable.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Indicate the number of shares outstanding for each of the registrant&#146;s classes of common stock, as
+of the latest practicable date.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Not Applicable.
+</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt"><B>DOCUMENTS INCORPORATED BY REFERENCE</B></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">None.
+</DIV>
+
+
+<DIV style="width: 100%; border-bottom: 1pt solid black; margin-top: 10pt; font-size: 1pt">&nbsp;</DIV>
+<DIV style="width: 100%; border-bottom: 2pt solid black; font-size: 1pt">&nbsp;</DIV>
+
+
+
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio --></p>
+</DIV>
+
+
+<HR SIZE=5 noshade> <!-- Field: Page; Sequence: 1 -->   <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 12pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV> <!-- Field: /Page -->
+
+
+
+
+<!-- *************************************************************************** -->
+<!-- MARKER PAGE="sheet: 42; page: 42" -->
+
+
+
+<DIV STYLE="font: 10pt Times New Roman,Times,serif">
+
+
+
+
+
+
+
+
+<!-- TOC -->
+<DIV align="CENTER"><U><B>TABLE OF CONTENTS</B></U></DIV>
+
+<P><CENTER STYLE="text-align: left">
+<P STYLE="margin-top: 0pt; margin-bottom: 0pt; text-align: left"><A HREF="#page000">PART I</A></P>
+
+<P STYLE="margin-top: 0pt; margin-bottom: 0pt; text-align: left; margin-left: 20pt"><A HREF="#page001">Item&nbsp;1B. Unresolved Staff Comments</A></P>
+
+<P STYLE="margin-top: 0pt; margin-bottom: 0pt; text-align: left; margin-left: 20pt"> <A HREF="#page002">Item&nbsp;1112(B) of Regulation&nbsp;AB. Significant Obligors of Pool Assets (Financial Information)</A></P>
+
+<P STYLE="margin-top: 0pt; margin-bottom: 0pt; text-align: left; margin-left: 20pt"> <A HREF="#page003">Item&nbsp;1114(B)(2) of Regulation&nbsp;AB. Credit Enhancement and Other Support Except for Certain Derivatives Instruments (Information Regarding Significant Enhancement Providers)</A></P>
+
+<P STYLE="margin-top: 0pt; margin-bottom: 0pt; text-align: left; margin-left: 20pt"> <A HREF="#page004">Item&nbsp;1115(B) of Regulation&nbsp;AB. Certain Derivative Instruments (Financial Information)</A></P>
+
+<P STYLE="margin-top: 0pt; margin-bottom: 0pt; text-align: left; margin-left: 20pt"> <A HREF="#page005">Item&nbsp;1117 of Regulation&nbsp;AB. Legal Proceedings</A></P>
+
+<P STYLE="margin-top: 0pt; margin-bottom: 0pt; text-align: left; margin-left: 0pt"><A HREF="#page006">PART II</A></P>
+
+<P STYLE="margin-top: 0pt; margin-bottom: 0pt; text-align: left; margin-left: 20pt"> <A HREF="#page007">Item&nbsp;9B Other Information</A></P>
+
+<P STYLE="margin-top: 0pt; margin-bottom: 0pt; text-align: left"><A HREF="#page008">PART III</A></P>
+
+<P STYLE="margin-top: 0pt; margin-bottom: 0pt; text-align: left; margin-left: 20pt"> <A HREF="#page009">Item&nbsp;1119 of Regulation&nbsp;AB. Affiliations and Certain Relationships and Related Transactions.</A></P>
+
+<P STYLE="margin-top: 0pt; margin-bottom: 0pt; text-align: left; margin-left: 20pt"> <A HREF="#page010">Item&nbsp;1122 of Regulation&nbsp;AB. Compliance with Applicable Servicing Criteria</A></P>
+
+<P STYLE="margin-top: 0pt; margin-bottom: 0pt; text-align: left; margin-left: 20pt"> <A HREF="#page011">Item&nbsp;1123 of Regulation&nbsp;AB. Servicer Compliance Statement</A></P>
+
+<P STYLE="margin-top: 0pt; margin-bottom: 0pt; text-align: left"><A HREF="#page012">PART IV</A></P>
+
+<P STYLE="margin-top: 0pt; margin-bottom: 0pt; text-align: left; margin-left: 20pt"> <A HREF="#page013">Item&nbsp;15.Exhibits, Financial Statement Schedules</A></P>
+
+<P STYLE="margin-top: 0pt; margin-bottom: 0pt; text-align: left"><A HREF="#page014">SIGNATURES</A></P>
+
+<P STYLE="margin-top: 0pt; margin-bottom: 0pt; text-align: left"><A HREF="e17061ex31_1.htm">EX-31.1: CERTIFICATION</A></P>
+
+<P STYLE="margin-top: 0pt; margin-bottom: 0pt; text-align: left"><A HREF="e17061ex33_1.htm">EX-33.1: REPORT ON ASSESSMENT OF COMPLIANCE WITH SERVICING CRITERIA</A></P>
+
+<P STYLE="margin-top: 0pt; margin-bottom: 0pt; text-align: left"><A HREF="e17061ex34_1.htm">EX-34.1: ATTESTATION REPORT</A></P>
+
+<P STYLE="margin-top: 0pt; margin-bottom: 0pt; text-align: left"><A HREF="e17061ex35_1.htm">EX-35.1: SERVICER COMPLIANCE STATEMENT</A></P>
+
+
+</CENTER>
+</p>
+
+
+<!-- MARKER FORMAT-SHEET="Pg brk no folio" FSL="Project" -->
+<HR SIZE=5 noshade> <!-- Field: Page; Sequence: 1 -->   <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 12pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV> <!-- Field: /Page -->
+
+
+<!-- *************************************************************************** -->
+<!-- MARKER PAGE="sheet: 1; page: 1" -->
+
+
+
+
+
+
+<!-- link1 "PART I" -->
+<DIV align="left"><A NAME="page000"></A></DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><B>PART I</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>The following items have been omitted in accordance with general instruction J to Form&nbsp;10-K:</B>
+</DIV>
+
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left">(A)</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Item&nbsp;1, Business.</TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left">(B)</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Item&nbsp;1A, Risk Factors.</TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left">(C)</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Item&nbsp;2, Properties.</TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left">(D)</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Item&nbsp;3, Legal Proceedings.</TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left">(E)</TD>
+    <TD width="1%">&nbsp;</TD>
+        <TD>Item&nbsp;4, Mine Safety Disclosures.</TD>
+</TR>
+
+</TABLE>
+</DIV>
+<!-- link2 "Item&nbsp;1B. Unresolved Staff Comments" -->
+<DIV align="left"><A NAME="page001"></A></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Item&nbsp;1B</B>. <B>Unresolved Staff Comments</B>
+</DIV>
+
+  <DIV align="left" style="font-size: 10pt; margin-top: 6pt">None.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Substitute information provided in accordance with general instruction J to Form&nbsp;10-K:</B>
+</DIV>
+
+<!-- link2 "Item&nbsp;1112(B) of Regulation&nbsp;AB. Significant Obligors of Pool Assets (Financial Information)" -->
+<DIV align="left"><A NAME="page002"></A></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt"><B>Item&nbsp;1112(B) of Regulation&nbsp;AB. Significant Obligors of Pool Assets (Financial Information)</B>
+</DIV>
+
+  <DIV align="left" style="font-size: 10pt; margin-top: 6pt">The underlying securities issued by R.R. Donnelley &amp; Sons Company (the &#147;<b>underlying securities
+issuer</b>&#148; or the &#147;<b>significant obligor</b>&#148;) constitute the only pool assets held by PPLUS Trust Series
+RRD-1. Pursuant to Item&nbsp;1100(c)(2) of Regulation&nbsp;AB, financial information relating to the
+significant obligor is not included in or incorporated by reference into this annual report on
+Form 10-K. For information with respect to the underlying securities held by PPLUS Trust Series
+RRD-1, please refer to R.R. Donnelley &amp; Sons Company&#146;s (Commission file number 001-04694) periodic
+reports, including annual reports on Form 10-K, quarterly reports on Form 10-Q and current reports
+on Form 8-K, and other information on file with the Securities and Exchange Commission (the
+&#147;<b>SEC</b>&#148;). You can read and copy these reports and other information at the public reference
+facilities maintained by the SEC at Room&nbsp;1580, 100 F Street, NE, Washington, D.C. 20549. You may
+obtain copies of this material for a fee by writing to the Public Reference Section of the
+SEC at 100 F Street, NE, Washington, D.C. 20549. You may obtain information about the operation
+of the Public Reference Room by calling the SEC at 1-800-SEC-0330. You can also access some of
+this information electronically by means of the SEC&#146;s website on the Internet at
+http://www.sec.gov, which contains reports, proxy and information statements and other information
+that the underlying securities issuer has filed electronically with the SEC.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Although we have no reason to believe the information concerning the underlying securities or the
+underlying securities issuer contained in the underlying securities issuer&#146;s Exchange Act reports
+is not reliable, neither the depositor nor the trustee participated in the preparation of such
+documents, or made any due diligence inquiry with respect to the information provided therein. No
+investigation with respect to the underlying securities issuer (including, without limitation, no
+investigation as to its financial condition or creditworthiness) or of the underlying securities
+has been made. You should obtain and evaluate the same information concerning the underlying
+securities issuer as you would obtain and evaluate if your investment were directly in the
+underlying securities or in other securities issued by the underlying securities issuer. There
+can be no assurance that events affecting the underlying securities or the underlying securities
+issuer have not occurred or have not yet been publicly disclosed which would affect the accuracy
+or completeness of the publicly available documents described above.
+</DIV>
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->3<!-- /Folio --></p>
+</DIV>
+
+
+<HR SIZE=5 noshade> <!-- Field: Page; Sequence: 1 -->   <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 12pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV> <!-- Field: /Page -->
+
+
+
+
+<!-- *************************************************************************** -->
+<!-- MARKER PAGE="sheet: 43; page: 43" -->
+<HR SIZE=5 COLOR=GRAY noshade>
+
+
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+<!-- link2 "Item&nbsp;1114(B)(2) of Regulation&nbsp;AB. Credit Enhancement and Other Support Except for Certain Derivatives Instruments (Information Regarding Significant Enhancement Providers)" -->
+<DIV align="left"><A NAME="page003"></A></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Item&nbsp;1114(B)(2) of Regulation&nbsp;AB. Credit Enhancement and Other Support Except for Certain
+Derivatives Instruments (Information Regarding Significant Enhancement Providers)</B>
+</DIV>
+
+  <DIV align="left" style="font-size: 10pt; margin-top: 6pt">Not
+Applicable.
+</DIV>
+
+<!-- link2 "Item&nbsp;1115(B) of Regulation&nbsp;AB. Certain Derivative Instruments (Financial Information)" -->
+<DIV align="left"><A NAME="page004"></A></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Item&nbsp;1115(B) of Regulation&nbsp;AB. Certain Derivative Instruments (Financial Information)</B>
+</DIV>
+
+  <DIV align="left" style="font-size: 10pt; margin-top: 6pt">Not
+Applicable.
+</DIV>
+
+<!-- link2 "Item&nbsp;1117 of Regulation&nbsp;AB. Legal Proceedings" -->
+<DIV align="left"><A NAME="page005"></A></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Item&nbsp;1117 of Regulation&nbsp;AB. Legal Proceedings</B>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">None.
+</DIV>
+
+<!-- link1 "PART II" -->
+<DIV align="left"><A NAME="page006"></A></DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><B>PART II</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>The following items have been omitted in accordance with general instruction J to Form&nbsp;10-K:</B>
+</DIV>
+
+
+<DIV style="margin-top: 6pt">
+    <TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+      <TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+        <TD width="1%" nowrap align="left">(A)</TD>
+        <TD width="1%">&nbsp;</TD>
+        <TD>Item&nbsp;5, Market for Registrant&#146;s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities.</TD>
+      </TR>
+
+      <TR>
+        <TD style="font-size: 6pt">&nbsp;</TD>
+      </TR>
+      <TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+        <TD width="1%" nowrap align="left">(B)</TD>
+        <TD width="1%">&nbsp;</TD>
+        <TD>Item&nbsp;6, Selected Financial Data.</TD>
+      </TR>
+
+      <TR>
+        <TD style="font-size: 6pt">&nbsp;</TD>
+      </TR>
+      <TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+        <TD width="1%" nowrap align="left">(C)</TD>
+        <TD width="1%">&nbsp;</TD>
+        <TD>Item&nbsp;7, Management&#146;s Discussion and Analysis of Financial Condition and Results of Operations.</TD>
+      </TR>
+
+      <TR>
+        <TD style="font-size: 6pt">&nbsp;</TD>
+      </TR>
+      <TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+        <TD width="1%" nowrap align="left">(D)</TD>
+        <TD width="1%">&nbsp;</TD>
+        <TD>Item 7A, Quantitative and Qualitative Disclosures About Market Risk.</TD>
+      </TR>
+      <TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+        <TD width="1%" nowrap align="left">&nbsp;</TD>
+        <TD width="1%">&nbsp;</TD>
+        <TD>&nbsp;</TD>
+      </TR>
+      <TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+        <TD width="1%" nowrap align="left">(E)</TD>
+        <TD width="1%">&nbsp;</TD>
+        <TD>Item&nbsp;8, Financial Statements and Supplementary Data.</TD>
+      </TR>
+
+      <TR>
+        <TD style="font-size: 6pt">&nbsp;</TD>
+      </TR>
+      <TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+        <TD width="1%" nowrap align="left">(F)</TD>
+        <TD width="1%">&nbsp;</TD>
+        <TD>Item&nbsp;9, Changes in and Disagreements with Accountants on Accounting and Financial Disclosure.</TD>
+      </TR>
+
+      <TR>
+        <TD style="font-size: 6pt">&nbsp;</TD>
+      </TR>
+      <TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+        <TD width="1%" nowrap align="left">(G)</TD>
+        <TD width="1%">&nbsp;</TD>
+        <TD>Item&nbsp;9A, Controls and Procedures.</TD>
+      </TR>
+
+    </TABLE>
+</DIV>
+<!-- link2 "Item&nbsp;9B Other Information" -->
+<DIV align="left"><A NAME="page007"></A></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Item&nbsp;9B Other Information</B>
+</DIV>
+
+  <DIV align="left" style="font-size: 10pt; margin-top: 6pt">None.
+</DIV>
+
+<!-- link1 "PART III" -->
+<DIV align="left"><A NAME="page008"></A></DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><B>PART III</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>The following items have been omitted in accordance with general instruction J to Form&nbsp;10-K:</B>
+</DIV>
+
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left">(A)</TD>
+    <TD width="1%">&nbsp;</TD>
+        <TD>Item&nbsp;10, Directors, Executive Officers and Corporate Governance.</TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left">(B)</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Item&nbsp;11, Executive Compensation.</TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left">(C)</TD>
+    <TD width="1%">&nbsp;</TD>
+        <TD>Item&nbsp;12, Security of Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters.</TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left">(D)</TD>
+    <TD width="1%">&nbsp;</TD>
+        <TD>Item&nbsp;13, Certain Relationships and Related Transactions, and Director Independence.</TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left">(E)</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Item&nbsp;14, Principal Accounting Fees and Services.</TD>
+</TR>
+
+</TABLE>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Substitute information provided in accordance with general instruction J to Form&nbsp;10-K:</B>
+</DIV>
+
+<!-- link2 "Item&nbsp;1119 of Regulation&nbsp;AB. Affiliations and Certain Relationships and Related Transactions." -->
+<DIV align="left"><A NAME="page009"></A></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt"><B>Item&nbsp;1119 of Regulation&nbsp;AB. Affiliations and Certain Relationships and Related Transactions.</B>
+</DIV>
+
+  <DIV align="left" style="font-size: 10pt; margin-top: 6pt">None.
+</DIV>
+
+<!-- link2 "Item&nbsp;1122 of Regulation&nbsp;AB. Compliance with Applicable Servicing Criteria" -->
+<DIV align="left"><A NAME="page010"></A></DIV>
+
+
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->4<!-- /Folio --></p>
+</DIV>
+
+
+<HR SIZE=5 noshade> <!-- Field: Page; Sequence: 1 -->   <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 12pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV> <!-- Field: /Page -->
+
+
+
+
+<!-- *************************************************************************** -->
+<!-- MARKER PAGE="sheet: 44; page: 44" -->
+<HR SIZE=5 COLOR=GRAY noshade>
+
+
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Item&nbsp;1122 of Regulation&nbsp;AB. Compliance with Applicable Servicing Criteria</B>
+</DIV>
+
+  <DIV align="left" style="font-size: 10pt; margin-top: 6pt">
+    <p>The Bank of New York Mellon (in its role as trustee) has been identified by the registrant as
+participating in the servicing function with respect to the asset pool held by the PPLUS Trust
+Series&nbsp;RRD-1 (the &#147;<B>Servicing Party</B>&#148;). The Servicing Party has completed a report on assessment of
+compliance with the servicing criteria applicable to it (a &#147;<B>Servicing Report</B>&#148;), which Servicing
+Report is attached as exhibit 33.1  to this Form 10-K. The Servicing Party has provided an
+attestation report (an &#147;<B>Attestation Report</B>&#148;) by KPMG LLP, Independent Registered Public
+Accounting Firm, which report is attached as exhibit 34.1 to this Form&nbsp;10-K.
+</p>
+  <DIV align="left" style="font-size: 10pt; margin-top: 6pt">
+    <p>While Regulation AB does not contemplate identifying noncompliance on an
+individual transaction basis, the Servicing Party has confirmed to the
+Registrant that no instances of noncompliance with Regulation AB were discovered
+with respect to the PPLUS trust series that were part of the statistical sample
+used in preparing the Servicing Report. The Servicing Party has informed the
+Registrant that the Servicing Party cannot provide any assurances that had an
+analysis been done of each and every transaction included in the platform
+(including all PPLUS trust series forming part of the platform), that
+instances of noncompliance would not have been discovered. However, the
+Servicing Party has informed the Registrant that it has no reason, based on the
+sampling and analysis done, to believe that there are any instances of
+noncompliance with those PPLUS trust series that were not part of the sampling
+procedures.<br>
+    <br>
+ </p>
+  </DIV>
+
+
+ <!-- link2 "Item&nbsp;1123 of Regulation&nbsp;AB. Servicer Compliance Statement" -->
+<DIV align="left"><A NAME="page011"></A></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Item&nbsp;1123 of Regulation&nbsp;AB. Servicer Compliance Statement</B>
+</DIV>
+
+    <DIV align="left" style="font-size: 10pt; margin-top: 6pt">The Bank of New York Mellon  has been identified by the registrant as the servicer with respect to the
+asset pool held by the Trust. The Bank of New York Mellon has completed a statement of compliance with
+applicable servicing criteria (a &#147;<B>Compliance Statement</B>&#148;), signed by an authorized officer of The
+Bank of New York Mellon. The Compliance Statement is attached as an exhibit to this Form 10-K.
+</DIV>
+
+<!-- link1 "PART IV" -->
+<DIV align="left"><A NAME="page012"></A></DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><B>PART IV</B>
+</DIV>
+
+<!-- link2 "Item&nbsp;15.Exhibits, Financial Statement Schedules" -->
+<DIV align="left"><A NAME="page013"></A></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Item&nbsp;15. Exhibits, Financial Statement Schedules</B>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">(a)(1) <I>Financial Statements: </I>Not Applicable.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2) <I>Financial Statement Schedules: </I>Not Applicable.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(3) <I>List of Exhibits</I>
+</DIV>
+
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 4%">The following exhibits are filed as part of, and incorporated by reference into, this Annual
+Report on Form 10-K:
+</DIV>
+
+
+    <DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 6%">3.1.
+      Amended and Restated Certificate of Incorporation of Merrill Lynch Depositor,
+      Inc. (the &#147;<b>Depositor</b>&#148;) is set forth as Exhibit&nbsp;3.1
+      to the Depositor&#146;s Registration Statement on Form S-3 (Registration
+      No.&nbsp;333-29015, dated September&nbsp;17, 1997) (the &#147;<b>Registration
+      Statement</b>&#148;) and is incorporated herein by reference. </DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 6%">3.2. By-laws of the Depositor are set forth as Exhibit&nbsp;3.2 to the
+Registration Statement and are incorporated herein by reference.
+</DIV>
+
+
+  <DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 6%">4.1. Standard Terms for Trust Agreements dated November&nbsp;5, 2004 (the &#147;<b>Standard
+Terms</b>&#148;) are set forth as Exhibit&nbsp;4 to the Form&nbsp;8-A (No.&nbsp;001-32364) filed by the
+Depositor with the SEC on November&nbsp;24, 2004 and is incorporated herein by
+reference.
+</DIV>
+  <DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 6%">4.2. Series&nbsp;Supplement between Merrill Lynch Depositor, Inc., as Depositor, and The
+Bank of New York Mellon, as Trustee and Securities Intermediary, dated as of March&nbsp;2,
+2006, is set forth as Exhibit&nbsp;4.2 to the Form 8-K filed by the registrant with the
+SEC on March&nbsp;3, 2006 and is incorporated herein by reference.
+</DIV>
+
+    <DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 6%">31.1.
+      Certification of the President of Registrant dated March 17, 2017,
+      pursuant to Rules 13a-14 and 15d-14 under the Securities Exchange Act of
+      1934, as adopted pursuant to Section&nbsp;302 of the Sarbanes-Oxley Act
+      of 2002, with respect to the Registrant&#146;s Annual Report on Form 10-K
+      for the year ended December&nbsp;31, 2016. </DIV>
+
+
+    <DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 6%">33.1.
+      Report on Assessment of Compliance with Servicing Criteria of The Bank of
+      New York Mellon dated February 28, 2017. </DIV>
+
+
+    <DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 6%">34.1.
+      Attestation Report on Assessment of Compliance with Servicing Criteria of
+      KPMG LLP, on behalf of The Bank of New York Mellon dated February 28,
+      2017. </DIV>
+    <DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 6%">35.1.
+      Servicer Compliance Statement of The Bank of New York Mellon dated February 28, 2017. </DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left">(b)</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><I>Exhibits</I></TD>
+</TR>
+
+</TABLE>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">The Registrant hereby files as part of this Annual Report on Form 10-K the exhibits listed in Item
+15(a)(3) set forth above.
+</DIV>
+
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left">(c)</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><I>&nbsp;Financial Statement Schedules</I></TD>
+</TR>
+
+</TABLE>
+</DIV>
+    <DIV align="left" style="font-size: 10pt; margin-top: 6pt">Not Applicable.
+</DIV>
+</div>
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->5<!-- /Folio --></p>
+</DIV>
+
+
+<HR SIZE=5 noshade> <!-- Field: Page; Sequence: 1 -->   <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 12pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV> <!-- Field: /Page -->
+
+
+
+
+<!-- *************************************************************************** -->
+<!-- MARKER PAGE="sheet: 45; page: 45" -->
+<HR SIZE=5 COLOR=GRAY noshade>
+
+
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+<!-- link1 "<B>SIGNATURES</B>" -->
+<DIV align="left"><A NAME="page014"></A></DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><B>SIGNATURES</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuant to the requirements of Section&nbsp;13 or 15(d) of the Securities Exchange Act of 1934,
+the registrant has duly caused this report to be signed on its behalf by the undersigned, hereunto
+duly authorized.
+</DIV>
+
+
+<TABLE width="100%" border="0" cellspacing="0" cellpadding="0" style="font-size: 10pt">
+<TR>
+    <TD width="48%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="35%">&nbsp;</TD>
+    <TD width="15%">&nbsp;</TD>
+</TR>
+<TR>
+    <TD valign="top" align="left">&nbsp;</TD>
+    <TD colspan="3" align="left">MERRILL LYNCH DEPOSITOR, INC.<BR>
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+      <TD align="left">Date: March 17, 2017</TD>
+    <TD valign="top">By:&nbsp;&nbsp;</TD>
+
+      <TD colspan="2" style="border-bottom: 1px solid #000000" align="left">/s/ Mohammad N. Islam   </TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top">Name:&nbsp;&nbsp;</TD>
+      <TD align="left">Mohammad N. Islam</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top">Title:&nbsp;&nbsp;</TD>
+      <TD align="left">President</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+</TABLE>
+
+  <P align="center" style="font-size: 10pt"><!-- Folio -->6<!-- /Folio --></p>
+</DIV>
+
+<!-- MARKER FORMAT-SHEET="5 pt rule no space" FSL="Workstation" -->
+<HR SIZE=5 noshade WIDTH=100% ALIGN=LEFT>
+
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>

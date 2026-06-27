@@ -1,0 +1,999 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>jmxi081484_10k.txt
+<DESCRIPTION>FORM 10-K FOR FISCAL YEAR ENDED DECEMBER 31, 2007
+<TEXT>
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    FORM 10-K
+
+          [X] ANNUAL REPORT FOR THE FISCAL YEAR ENDED DECEMBER 31, 2007
+
+                        Commission File Number 000-25943*
+
+                             JMXI Liquidating Trust
+             (Exact name of registrant as specified in its charter)
+
+              Delaware                                  20-6007641
+              --------                                  ----------
+    (State or other jurisdiction of                   (I.R.S. Employer
+     incorporation or organization)                  Identification No.)
+
+                   c/o Wells Fargo Bank, National Association
+                       (as successor by consolidation to
+               Wells Fargo Bank Minnesota, National Association)
+                        625 Marquette Ave., MAC N9311-110
+                              Minneapolis, MN 55479
+              (Address and zip code of principal executive offices)
+
+                                 (612) 667-3961
+              (Registrant's telephone number, including area code)
+
+Securities registered pursuant to Section 12(b) of the Act: None
+
+Securities registered pursuant to Section 12(g) of the Act: None
+
+     *JMXI Liquidating Trust is the distributee of certain assets and
+liabilities of JMXI, Inc. and submits reports under JMXI's former Commission
+file number. This report is not deemed to be "filed" under the Securities
+Exchange Act of 1934. See, e.g., MGI Properties MGI Liquidating Trust (pub.
+avail. Sept. 29, 2000) and Burnham Pacific Properties, Inc. (pub. avail. June
+21, 2002).
+
+     Indicate by check mark if the registrant is a well-known seasoned issuer,
+as defined in Rule 405 of the Securities Act. Yes |_| No |X|
+
+     Indicate by check mark if the registrant is not required to file reports
+pursuant to Section 13 or Section 15(d) of the Act. Yes |X| No |_|
+
+     Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days. Not applicable.
+
+<PAGE>
+
+     Indicate by check mark if disclosure of delinquent filers pursuant to Item
+405 of Regulation S-K is not contained herein, and will not be contained, to the
+best of registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K. Not applicable.
+
+     Indicate by check mark whether the registrant is a large accelerated filer,
+an accelerated filer, or a non-accelerated filer. See definition of "accelerated
+filer and large accelerated filer" in Rule 12b-2 of the Exchange Act. (Check
+one): Large Accelerated Filer |_| Accelerated Filer |_| Non-Accelerated Filer
+|_| Smaller Reporting Company |X|
+
+     Indicate by check mark whether the registrant is a shell company (as
+defined in Rule 12b-2 of the Exchange Act). Yes |_| No |X|
+
+     State the aggregate market value of the voting and non-voting common equity
+held by non-affiliates computed by reference to the price at which the common
+equity was last sold, or the average bid and asked price of such common equity,
+as of the last business day of the registrant's most recently completed second
+fiscal quarter. Not applicable.
+
+                    DOCUMENTS INCORPORATED BY REFERENCE: NONE
+
+<PAGE>
+
+                             JMXI LIQUIDATING TRUST
+
+                                TABLE OF CONTENTS
+
+                                                                       Page No.
+                                                                       --------
+
+PART I........................................................................1
+
+ITEM 1. BUSINESS..............................................................1
+
+ITEM 1A. RISK FACTORS.........................................................3
+
+ITEM 1B. UNRESOLVED STAFF COMMENTS............................................3
+
+ITEM 2. PROPERTIES............................................................3
+
+ITEM 3. LEGAL PROCEEDINGS.....................................................4
+
+ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS...................4
+
+PART II.......................................................................4
+
+ITEM 5. MARKET FOR REGISTRANT'S COMMON EQUITY, RELATED STOCKHOLDER
+MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES.............................4
+
+ITEM 6. SELECTED FINANCIAL DATA...............................................5
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+AND RESULTS OF OPERATIONS.....................................................5
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK...........6
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA...........................7
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+FINANCIAL DISCLOSURE.........................................................15
+
+ITEM 9A. CONTROLS AND PROCEDURES.............................................15
+
+ITEM 9B. OTHER INFORMATION...................................................15
+
+PART III.....................................................................15
+
+ITEM 10. DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE..............15
+
+ITEM 11. EXECUTIVE COMPENSATION..............................................15
+
+
+                                       -i-
+
+<PAGE>
+
+                                                                       Page No.
+                                                                       --------
+
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+AND RELATED STOCKHOLDER MATTERS..............................................16
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR
+INDEPENDENCE.................................................................16
+
+ITEM 14. PRINCIPAL ACCOUNTANT FEES AND SERVICES..............................16
+
+PART IV......................................................................16
+
+ITEM 15. EXHIBITS AND FINANCIAL STATEMENT SCHEDULES..........................16
+
+SIGNATURES...................................................................17
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                      -ii-
+
+<PAGE>
+
+
+         This report includes "forward-looking statements." These
+forward-looking statements include, but are not limited to, statements about the
+Trust's plans, objectives, representations and contentions and are not
+historical facts, and may be identified by use of terms such as "anticipate,"
+"believe," "estimate," "plan," "may," "expect," "intend," "could," "potential"
+and similar expressions, although some forward-looking statements are expressed
+differently. Readers should be aware that the forward-looking statements
+included in this report represent the Liquidating Trustee's current judgment and
+expectations, but actual results, events and performance could differ materially
+from those in the forward-looking statements. The forward-looking statements are
+subject to a number of risks and uncertainties. The Liquidating Trustee does not
+intend to update any of these factors or to publicly announce the results of any
+revisions to these forward-looking statements.
+
+                                     PART I
+
+ITEM 1. BUSINESS.
+
+OVERVIEW
+
+         The JMXI Liquidating Trust (the "Trust") was established pursuant to
+the JMXI Liquidating Trust Agreement dated May 1, 2003 (the "Trust Agreement"),
+by and among Wells Fargo Bank, National Association (the "Liquidating Trustee"),
+Wells Fargo Bank Delaware Trust Company, the Liquidating Trustee's affiliate
+(the "Delaware Trustee") and JMXI, Inc., a Delaware corporation ("JMXI").
+Pursuant to the Plan of Distribution of JMXI, Inc. dated May 1, 2003, certain
+assets and liabilities of JMXI were transferred to the Trust, and JMXI dissolved
+(the "Dissolution").
+
+         The Trust was formed in order to liquidate the assets and liabilities
+so transferred to it and to distribute the net funds remaining following such
+liquidation to the former holders of the common shares of JMXI (the
+"Beneficiaries"). Interests in the Trust ("Beneficial Interests") are not
+assignable or transferable except by will, intestate succession or operation of
+law. The Beneficial Interests are not certificated. The Trust was intended to
+dissolve within three years. The Trust may be dissolved at any time by the
+action of Beneficiaries having more than 66.7 percent of the aggregate
+Beneficiary's percentage interest, provided that there remain no liabilities for
+which the Trust may be responsible.
+
+         The Trust receives income from subtenants and makes payment to
+landlords on account of three remaining rental properties pursuant to office
+leases that it assumed at the time it was formed. The Liquidating Trustee and
+the landlords have reached an agreement in principle, subject to the execution
+of a written agreement among the Liquidating Trustee, the subtenants and the
+landlords, to terminate these leases and obtain full releases from the
+subtenants for the benefit of each of the Liquidating Trustee and the landlords.
+After the leases have been terminated and the releases have been obtained
+(currently expected to occur in the second quarter of 2008), it is expected that
+the Liquidating Trustee will take action to terminate the Trust and make final
+distributions to the Beneficiaries. The Liquidating Trustee will provide notice
+to the Beneficiaries of any final distributions.
+
+
+                                      -1-
+<PAGE>
+
+         As of December 31, 2007, the Trust is a tenant or subtenant under three
+separate real property leases for properties located on the 6th, 12th and 14th
+floors of a building located at 352 Park Avenue South, New York, New York. The
+Trust, in turn, subleases each of these properties to a subtenant or
+sub-subtenant. The Trust is negotiating lease termination agreements for the 6th
+floor and 14th floor properties. The lease termination agreements, if finalized,
+would allow the Trust to terminate its lease interest in the properties and
+receive full releases of any further obligations. The lease for the 12th floor
+property expires by its own terms on August 27, 2008. The Trust is attempting to
+negotiate a lease termination agreement for the 12th floor property as well, but
+if unsuccessful, will fully reserve and escrow at the time of the termination of
+the Trust all amounts due and owing under the lease, net of expected sublease
+rental income, until its expiration.
+
+         The principal assets transferred to the Trust on or about May 1, 2003,
+included:
+
+         -        Interest in several JMXI bank accounts
+         -        Cash in the amount of $7,265,397 (inclusive of interest in
+                  JMXI depository accounts)
+
+         The principal liabilities assumed by the Trust on May 1, 2003,
+included:
+
+         -        The liabilities and obligations of JMXI under several leases
+         -        The obligations of JMXI with respect to claims by certain
+                  taxing authorities
+         -        The liabilities of JMXI associated with a certain employee
+                  lawsuit brought against JMXI
+
+TAX TREATMENT
+
+         Because the Trust is classified as a liquidating trust, it will be
+treated as a grantor trust for federal income tax purposes and, accordingly,
+will not be subject to tax on any income or gain recognized by it. Each
+Beneficiary will be treated as the owner of his pro rata portion of each asset,
+including cash received by and held by the Trust. Each Beneficiary will be
+required to take into account in computing his own taxable income his pro rata
+share of each item of income, gain and loss of the Trust.
+
+         The Trust will issue an annual information statement to the
+Beneficiaries with tax information sufficient to enable Beneficiaries to
+complete their tax returns. Beneficiaries are urged to consult with their own
+tax advisors as to their own filing requirements and the appropriate tax
+reporting of this information on their returns.
+
+
+                                      -2-
+<PAGE>
+
+INCOME, PAYMENTS AND DISBURSEMENTS
+
+         The Trust receives income from subtenants and makes payment to
+landlords on account of three rental properties pursuant to office leases that
+it assumed at the time it was formed. The Liquidating Trustee and the landlords
+have reached an agreement in principle that will only be consummated upon the
+execution of a written agreement among the Liquidating Trustee, the subtenants
+and the landlords, to terminate these leases and obtain full releases for the
+benefit of each of the Liquidating Trustee and the landlords. After the leases
+have been terminated and the releases have been obtained, it is expected that
+the Liquidating Trustee will take action to terminate the Trust and make final
+distributions to the Beneficiaries.
+
+
+         Payments by the Trust in satisfaction of liabilities totaled $1,556,603
+during the year ended December 31, 2007. The Trust did not make any
+distributions to Beneficiaries during the year ended December 31, 2007.
+
+REPORTS TO BENEFICIARIES; MEETINGS
+
+         The Liquidating Trustee is required to provide to the Beneficiaries and
+to file with the Securities and Exchange Commission an annual report on Form
+10-K and reports on Form 8-K whenever, in the opinion of the Liquidating
+Trustee, a significant event relating to the Trust's assets has occurred.
+
+         Generally, there will not be meetings of the Beneficiaries. However,
+holders of at least 10 percent of the aggregate Beneficial Interests may require
+the Liquidating Trustee to call a meeting of the Beneficiaries.
+
+ITEM 1A. RISK FACTORS.
+
+         Risks to the Trust include the Trust's subtenants defaulting on their
+lease obligations and any claims being asserted against the Trust. In the event
+that subtenants default on their lease obligations or that additional claims are
+asserted against the Trust, no assurances can be made regarding the amount of
+money, if any, that will be distributed to the Beneficiaries of the Trust.
+
+ITEM 1B. UNRESOLVED STAFF COMMENTS.
+
+         Not applicable.
+
+ITEM 2. PROPERTIES.
+
+         At December 31, 2007, the Trust owned no properties, but is a tenant or
+subtenant under three separate real property leases for properties located on
+the 6th, 12th and 14th floors of a building located at 352 Park Avenue South,
+New York, New York. The Trust, in turn, subleases each of these properties to a
+subtenant or sub-subtenant. The Trust is negotiating lease termination
+agreements for the 6th floor and 14th floor properties. The lease termination
+agreements will allow the Trust to terminate its lease interest in the
+properties and receive full releases of any further obligations. The lease for
+the 12th floor property expires by its own terms on August 27, 2008. The Trust
+is attempting to negotiate a lease termination agreement for the 12th floor
+property as well, but if unsuccessful, will fully reserve all amounts due and
+owing under the lease until its expiration.
+
+
+                                      -3-
+<PAGE>
+
+ITEM 3. LEGAL PROCEEDINGS.
+
+         The Trust is presently unaware of any material pending litigation for
+which it may be liable, other than as discussed below.
+
+         A complaint was filed against JMXI in 2001 by a former landlord
+following termination and surrender of space for approximately $39,000. The
+landlord failed to respond to JMXI's answer and counterclaim and has refused to
+respond to repeated requests to dismiss or settle the action. The case has never
+been assigned to a specific judge. No documents have been filed with the court
+since May 2001. JMXI's counsel has advised it to take no further action with
+respect to this matter, since it appears that the landlord has abandoned the
+litigation.
+
+ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS.
+
+         No matters were submitted to a vote of the Beneficiaries, through the
+solicitation of proxies or otherwise, during the fiscal year ended December 31,
+2007.
+
+                                     PART II
+
+ITEM 5. MARKET FOR REGISTRANT'S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND
+ISSUER PURCHASES OF EQUITY SECURITIES.
+
+         There is no public market for the Beneficial Interests of the Trust.
+Beneficial Interests are not transferable except by will, intestate succession
+or operation of law. As of December 31, 2007, the Trust had approximately 543
+Beneficiaries of record and 36,010,575 units of Beneficial Interest outstanding.
+
+
+                                      -4-
+<PAGE>
+
+ITEM 6. SELECTED FINANCIAL DATA.
+
+         The following selected unaudited financial data of the Trust are
+qualified by reference to and should be read in conjunction with the unaudited
+financial statements, related notes thereto and other financial data included
+elsewhere herein. The operating results reflected below are for the period from
+inception of the Trust through December 31, 2007, and for the year ended
+December 31, 2007. These historical results are not necessarily indicative of
+the results to be expected in the future.
+
+<TABLE>
+<CAPTION>
+                                                                                 Inception           For the Year
+                                                                                  Through               Ended
+                                                                                  12/31/07             12/31/07
+                                                                                (Unaudited)          (Unaudited)
+-----------------------------------------------------------------------------------------------------------------------
+<S>                                                                                 <C>                     <C>
+Operating results and distributions:
+    Increase in net assets                                                          $ 6,472,449             $   79,244
+    Increase in net assets per beneficial unit before distributions                        0.18                     --
+    Distributions to Beneficiaries per beneficial unit                                     None                   None
+
+                                                                                                    As of 12/31/07
+                                                                                                     (Unaudited)
+-----------------------------------------------------------------------------------------------------------------------
+Net asset data (at December 31, 2007):
+    Total assets (cash and cash equivalents)                                                               $ 6,472,449
+    Total liabilities                                                                                        6,472,449
+    Beneficiaries' net assets in liquidation (cash basis)                                                           --
+    Net asset value per beneficial unit                                                                             --
+
+</TABLE>
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+OF OPERATIONS.
+
+         The following discussion of results of operations and financial
+condition should be read in conjunction with the Selected Financial Data (Item
+6) and the Unaudited Financial Statements and Notes thereto (Item 8).
+
+         Application of Critical Accounting Policies -- Cash Basis of
+Accounting. The Trust financial statements are prepared on a cash basis of
+accounting. Transactions (including the recording of interest earned) are
+recorded when cash is received or disbursed. The statement of cash receipts and
+disbursements includes cash receipts as additions and cash disbursements as
+expenses/deductions. The Trust Agreement provides for the fiscal year of the
+Trust to end on December 31.
+
+
+                                      -5-
+<PAGE>
+
+         The Trust, a grantor trust, was formed in order to liquidate the assets
+and liabilities transferred to it by JMXI and to distribute the net funds
+remaining following such liquidation to the former shareholders of JMXI. The
+Trust began operations on May 1, 2003, when JMXI transferred certain of its
+assets, subject to certain identified liabilities, to the Trust. The Liquidating
+Trustee is charged with the duty to operate the Trust, liquidate its remaining
+assets, provide for and satisfy its remaining liabilities, and make
+distributions to the Beneficiaries of the Trust. During the year ended December
+31, 2007, the Trust incurred legal expenses and expenses related to Advisory
+Services (as defined in the Trust Agreement) of $25,530, representing an
+increase of $8,786 from the previous year.
+
+         The Trust recorded an increase in net cash and cash equivalents before
+distributions to Beneficiaries of $79,244 ($0.00 per unit) for the year ended
+December 31, 2007. The increase in net assets primarily resulted from property
+operating income (which is defined as sublease rental income less rent paid),
+interest income, and general and administrative expense.
+
+         At December 31, 2007, the Trust had cash and cash equivalents of
+$6,472,449. The Liquidating Trustee believes that its cash resources and
+receivables are sufficient to meet all anticipated liquidity requirements.
+Certain depository accounts are anticipated to be transferred into the Trust at
+a later date. Management has not assessed the dollar amount of these assets to
+be received in the future.
+
+         The Trust historically maintained two accounts. The main account
+("Principal Trust Account") is used to process the day-to-day activities of the
+Trust. Pursuant to terms of the Trust Agreement, the Trust entered into an
+escrow agreement ("Escrow Agreement") with Ipsos UK Limited (the "Guarantor")
+and Wells Fargo Bank, National Association (the "Escrow Agent") to escrow funds
+("Escrow Account") for payment of a lease commitment related to property in
+England. Pursuant to the terms of the Trust Agreement, the Guarantor and the
+Trust agreed to reimburse the Escrow Agent in equal amounts for all reasonable
+expenses in performance of its duties.
+
+         In July 2004, the Escrow Account was terminated, and all obligations of
+the Trust, including all obligations for payments due to the Escrow Agent, were
+deemed satisfied with respect thereto. The former subsidiary of JMXI, MMXI UK
+("MMXI"), was liquidated after paying its creditors. The remaining assets of
+approximately $2,600,000 were released to the Trust. Subsequently, in November
+2004, the liquidator of MMXI, appointed in accordance with UK law, was able to
+release another $130,000 to the Trust from the reserve it had maintained to
+satisfy liquidation costs. In addition, in September 2005, $142,830 was released
+and transferred to the Trust. This amount is the result of a tax refund on
+account of value-added tax paid by MMXI.
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK.
+
+         The Trust is presently exposed to the effects of interest rate changes
+primarily from the financial instruments comprising its portfolio of cash and
+cash equivalents and fluctuations in exchange rates.
+
+
+                                      -6-
+<PAGE>
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA.
+
+        CONTENTS
+
+        Unaudited Financial Statements                         Page Number
+        ------------------------------                         -----------
+
+        Cash balance sheets                                    8
+
+        Statements of cash receipts and disbursements          9
+
+        Notes to financial statements                          10 - 14
+
+
+
+
+                                      -7-
+<PAGE>
+
+
+JMXI LIQUIDATING TRUST
+
+CASH BALANCE SHEETS
+DECEMBER 31, 2007 AND 2006
+
+<TABLE>
+<CAPTION>
+ASSETS                                                                            2007               2006
+--------------------------------------------------------------------------------------------------------------
+<S>                                                                           <C>                 <C>
+Cash and Cash Equivalents (Note 2)                                            $ 6,472,449         $ 6,393,205
+                                                                              -----------         -----------
+         TOTAL ASSETS                                                         $ 6,472,449         $ 6,393,205
+                                                                              ===========         ===========
+
+Commitments and Contingencies (Notes 3, 4, 6 and 7)
+
+LIABILITIES (RESERVES)
+
+Distribution Reserve for Allowed and Disputed Liabilities (Note 3)            $ 6,472,449         $ 6,393,205
+                                                                              -----------         -----------
+         TOTAL LIABILITIES (RESERVES)                                         $ 6,472,449         $ 6,393,205
+                                                                              ===========         ===========
+</TABLE>
+
+See Notes to Financial Statements.
+
+
+
+                                      -8-
+<PAGE>
+
+JMXI LIQUIDATING TRUST
+
+STATEMENTS OF CASH RECEIPTS AND DISBURSEMENTS
+FOR THE YEARS ENDED DECEMBER 31, 2007 AND 2006
+
+<TABLE>
+<CAPTION>
+                                                              2007        2006
+-----------------------------------------------------------------------------------
+<S>                                                        <C>          <C>
+Receipts:
+    Amounts transferred to the Trust (Note 3)              $       --   $   45,169
+    Sublease rental income received (Note 4)                1,348,665    1,437,333
+    Interest received                                         287,182      277,425
+                                                           ----------   ----------
+         TOTAL RECEIPTS                                     1,635,847    1,759,927
+                                                           ----------   ----------
+
+Disbursements:
+    Rent paid (Note 4)                                      1,510,801    1,527,436
+    Legal fees                                                 11,470          233
+    Accounting fees                                             8,473        6,971
+    Other miscellaneous disbursements                             329        3,190
+    Trustee fees (Note 5)                                       5,232        5,613
+    Trustee expenses (Note 5)                                  20,298       11,131
+                                                           ----------   ----------
+         TOTAL DISBURSEMENTS                                1,556,603    1,554,574
+                                                           ----------   ----------
+
+         EXCESS OF CASH RECEIPTS OVER CASH DISBURSEMENTS       79,244      205,353
+
+Cash and cash equivalents:
+    Beginning                                               6,393,205    6,187,852
+                                                           ----------   ----------
+    Ending                                                 $6,472,449   $6,393,205
+                                                           ==========   ==========
+</TABLE>
+
+See Notes to Financial Statements.
+
+
+
+                                      -9-
+<PAGE>
+
+JMXI LIQUIDATING TRUST
+
+NOTES TO FINANCIAL STATEMENTS
+(UNAUDITED)
+--------------------------------------------------------------------------------
+
+NOTE 1.  NATURE OF ORGANIZATION
+
+The JMXI Liquidating Trust (the Trust), a grantor trust, was established
+pursuant to the JMXI Liquidating Trust Agreement dated May 1, 2003 (the Trust
+Agreement), by and between JMXI, Inc. (JMXI), Wells Fargo Bank, National
+Association (the Liquidating Trustee) and Wells Fargo Delaware Trust Company
+(the Delaware Trustee). Pursuant to the Plan of Distribution of JMXI, Inc. dated
+April 22, 2003, certain assets and liabilities of JMXI were transferred to the
+Trust, and JMXI, Inc. dissolved (the Dissolution).
+
+The Trust was formed in order to liquidate the assets and liabilities so
+transferred to it and to distribute the net funds remaining following such
+liquidation to the former shareholders of JMXI (the Beneficiaries). Interests in
+the Trust (Beneficial Interests) are not assignable or transferable except by
+will, intestate succession or operation of law.
+
+The common stock transfer books of JMXI were permanently closed on May 1, 2003.
+All shareholders of JMXI at that time were deemed to be Beneficiaries of the
+Trust. As of December 31, 2007, the Trust had approximately 543 Beneficiaries of
+record and 36,010,575 units of Beneficial Interest outstanding. The Trust was
+intended to dissolve within three years from the date of the Trust Agreement;
+however, the business of the Trust was not completed as of such date. The Trust
+may be dissolved at any time by the action of Beneficiaries having more than
+66.7 percent of the aggregate Beneficiary's percentage interest, provided that
+there remain no liabilities for which the Trust may be responsible. As of
+December 31, 2007, there were outstanding lease commitments and, as a result,
+the Trust cannot be terminated until such commitments are resolved. Subsequent
+to December 31, 2007, the Trustee and the landlords are in negotiations to
+terminate the three remaining lease agreements. Assuming that these negotiations
+are successful and the lease agreements are terminated, it is expected that the
+Liquidating Trustee will take action to terminate the Trust and make final
+distributions to the Beneficiaries.
+
+NOTE 2.  SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+BASIS OF PRESENTATION: The Trust's accounts are maintained on a cash receipts
+and disbursements basis, and the statement of cash receipts and disbursements
+reflects cash received and disbursed. The statements of cash receipts and
+disbursements reflect activity in the Principal Trust Account for the years
+ended December 31, 2007 and 2006. The cash receipts and disbursements basis is a
+comprehensive basis of accounting other than accounting principles generally
+accepted in the United States of America. Therefore, noncash transactions,
+including receivables, payables, and accrued revenue and expenses, which would
+be recognized under accounting principles generally accepted in the United
+States of America and which may be material in amount, are not recognized in the
+accompanying financial statements.
+
+
+
+                                      -10-
+<PAGE>
+
+JMXI LIQUIDATING TRUST
+
+NOTES TO FINANCIAL STATEMENTS
+(UNAUDITED)
+--------------------------------------------------------------------------------
+
+NOTE 2.  SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (CONTINUED)
+
+CASH AND CASH EQUIVALENTS: Cash and cash equivalents consisted of a Principal
+Trust Account as of January 1, 2006. The Principal Trust Account is invested in
+U.S. Treasury cash reserve money market funds (money market funds). No minimum
+excess cash balance is required to be maintained. The balance in the Principal
+Trust Account as of December 31, 2007 and 2006, was $6,472,449 and $6,393,205,
+respectively.
+
+CONCENTRATION OF CREDIT RISK: The Trust is presently exposed to interest rate
+changes primarily as a result of the short maturity of the financial instruments
+comprising its portfolio of cash equivalents. In addition, the Trust maintains
+its cash and cash equivalents in the Principal Trust Account that, at times, may
+exceed federally insured limits. The Trust has not experienced any losses in
+such account.
+
+INCOME TAX STATUS: The Trust is considered a liquidating trust and is exempt
+from paying income taxes under Treasury Regulations Section 301.7701-4 of the
+Internal Revenue Code and applicable sections of state statutes.
+
+NOTE 3.  ASSETS AND LIABILITIES TRANSFERRED TO THE TRUST
+
+The Trust assumed certain assets and all asserted and unasserted liabilities
+arising out of JMXI's ownership of assets. Assets transferred to the Trust
+included depository accounts, equity interests in JMXI, Inc. foreign
+subsidiaries, certain amounts receivable and prepaid, and the rights to sublease
+rental income on certain leased properties. Certain depository accounts and
+equity interests are not yet liquid and are anticipated to be transferred into
+the Trust at a later date. Certain receivables are also anticipated to be
+received and will be transferred into the Trust when received. Management has
+not assessed the dollar amount of these assets to be received in the future.
+
+The principal assets transferred to the Trust in the period from May 1, 2003,
+through December 31, 2003, included cash in the amount of $6,694,310 and the
+interest in several JMXI, Inc. depository accounts totaling $571,087. In June
+2003, the Trust entered into an escrow agreement (Escrow Agreement) with Ipsos
+UK Limited (the Guarantor) and Wells Fargo Bank, National Association (the
+Escrow Agent) to escrow funds (Escrow Account) for payment of a lease commitment
+related to property in England. During 2004, settlement claims of $174,000 were
+disbursed from the Escrow Account. Obligations under the Escrow Agreement were
+satisfied, and approximately $2.6 million was released and transferred from the
+Escrow Account to the Principal Trust Account.
+
+
+                                      -11-
+<PAGE>
+
+
+JMXI LIQUIDATING TRUST
+
+NOTES TO FINANCIAL STATEMENTS
+(UNAUDITED)
+--------------------------------------------------------------------------------
+
+NOTE 3.  ASSETS AND LIABILITIES TRANSFERRED TO THE TRUST (CONTINUED)
+
+In addition to the $2,636,682 transferred as a result of the closing of the
+Escrow Account during 2004, an additional $771,996 was transferred into the
+Principal Trust Account from certain depository accounts as they became liquid.
+During 2005, $143,224 was transferred to the Principal Trust Account, which
+consisted primarily of a tax refund on account of valued-added tax paid by a
+former subsidiary. During 2006, $45,169 related to the remaining assets of MMXI
+Europe, B.V. and JMXI Latin America, B.V. was transferred into the Principal
+Trust Account, which consisted primarily of a tax refund on account of
+value-added tax paid by a former subsidiary. No additional monies from
+depository accounts, tax refunds or other sources were received in 2007.
+
+The principal known liabilities assumed by the Trust included:
+
+o        The liabilities and obligations of JMXI under operating leases of
+         properties
+
+o        The liabilities of JMXI associated with professional services not yet
+         billed and certain advisory service agreements
+
+o        Potential amounts payable under pending litigation, including the fees
+         of legal counsel to be incurred in defending those claims
+
+o        The obligations of JMXI with respect to amounts owed to certain taxing
+         authorities and vendors (including disputed obligations), and employee
+         benefit-related liabilities
+
+Management is unable to ascertain the amount, if any, by which assets will
+exceed final liabilities. As a result, all available assets have been reserved
+for potential allowed and disputed liabilities of the Trust, as defined in
+Sections 9.1 and 9.2 of the Trust Agreement.
+
+NOTE 4.  RENT PAID AND SUBLEASE RENTAL INCOME RECEIVED
+
+As detailed in Attachment 2 to the Trust Agreement, the Trust has assumed
+numerous operating leases in New York, California and England for various terms
+through 2011. A significant number of these leased properties, or portions
+thereof, have been subleased to several occupants for various terms and amounts
+through 2011.
+
+
+
+                                      -12-
+<PAGE>
+
+JMXI LIQUIDATING TRUST
+
+NOTES TO FINANCIAL STATEMENTS
+(UNAUDITED)
+--------------------------------------------------------------------------------
+
+NOTE 4.  RENT PAID AND SUBLEASE RENTAL INCOME RECEIVED (CONTINUED)
+
+As of December 31, 2007, the Trust is party to three remaining lease agreements
+as either tenant or subtenant for three separate real property leases for
+properties located on the 6th, 12th and 14th floors of a building located at 352
+Park Avenue South, New York, New York. The Trust, in turn, subleases each of
+these properties to a subtenant or sub-subtenant. The Trust is negotiating lease
+termination agreements for the 6th and 14th floor properties. The lease
+termination agreements, if finalized, will allow the Trust to terminate its
+lease interest in the properties and receive full releases of any further
+obligations. The lease for the 12th floor property expires by its own terms on
+August 27, 2008. The Trust is attempting to negotiate a lease termination
+agreement for the 12th floor property as well, but if unsuccessful, will fully
+reserve and escrow, at lease termination, all amounts due and owing under this
+lease net of expected sublease rental income until its expiration. The
+Liquidating Trustee and the landlords have reached an agreement in principle,
+subject to the execution of a written agreement among the Liquidating Trustee,
+the subtenants and the landlords, to terminate these leases and obtain full
+releases for the benefit of each of the Liquidating Trustee and the landlords.
+After the leases have been terminated and the releases have been obtained
+(currently expected to occur in the second quarter of 2008), it is expected that
+the Liquidating Trustee will take action to terminate the Trust and make final
+distributions to the Beneficiaries. The Liquidating Trustee will provide notice
+to the Beneficiaries of any final distributions.
+
+NOTE 5.  FEES PAID TO THE TRUSTEES
+
+In accordance with the Trust Agreement and Escrow Agreement, fees paid during
+the years ended December 31, 2007 and 2006, to the Liquidating Trustee and
+Delaware Trustee consisted of the following:
+
+                                           Years Ended December 31
+                                     -------------------------------
+                                            2007               2006
+--------------------------------------------------------------------
+Liquidating Trustee:
+    Beneficiary account maintenance       $ 2,732            $ 3,113
+Delaware Trustee:
+    Annual fee                              2,500              2,500
+                                          -------            -------
+Total trustee fees                        $ 5,232            $ 5,613
+                                          =======            =======
+
+
+Trustee expenses relate to legal fees paid to counsel engaged by the Liquidating
+Trustee to provide consultation to the Liquidating Trustee regarding Trust
+matters.
+
+
+                                      -13-
+<PAGE>
+
+JMXI LIQUIDATING TRUST
+
+NOTES TO FINANCIAL STATEMENTS
+(UNAUDITED)
+--------------------------------------------------------------------------------
+
+NOTE 6.  INTERIM DISTRIBUTIONS
+
+Article 9.8 of the Trust Agreement contains provisions in which interim
+liquidating distributions may be made. These distributions may be made after the
+Liquidating Trustee conducts a review of all Trust assets and considers the
+extent to which these assets exceed the anticipated final liabilities.
+Distributions will be made at the Liquidating Trustee's discretion ratably to
+Beneficiaries in accordance with each Beneficiary's percentage interests. During
+2007 and 2006, no amounts were distributed or payable by the Liquidating Trustee
+to the Beneficiaries.
+
+NOTE 7.  COMMITMENTS
+
+At the inception of the Trust, there were several actions against JMXI. No
+estimate of potential liabilities to the Trust was determinable at that time.
+All active litigation claims were settled in 2005 and there were no remaining
+claims. As discussed in Notes 1 and 4, the Liquidating Trustee is currently
+negotiating to terminate its three remaining lease commitments. Any liability
+associated with the termination of these lease agreements has not been included
+in the December 31, 2007, financial statements.
+
+
+
+                                      -14-
+<PAGE>
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+FINANCIAL DISCLOSURE.
+
+         None.
+
+ITEM 9A. CONTROLS AND PROCEDURES.
+
+         (a) Evaluation of Disclosure Controls and Procedures
+
+         One of the Liquidating Trustee's vice presidents, after evaluating the
+effectiveness of the Trust's disclosure controls and procedures (as defined in
+the Securities Exchange Act of 1934 (the "Exchange Act") Rules 13a-15(e) and
+15d-15(e)) as of the end of the period covered by this annual report (the
+"Evaluation Date"), has concluded that, as of the Evaluation Date, the Trust's
+disclosure controls and procedures were effective. This annual report does not
+include an attestation report of the Trust's registered public accounting firm
+regarding internal control over financial reporting. The Liquidating Trustee's
+report was not subject to attestation by the Trust's registered public
+accounting firm pursuant to temporary rules of the Securities and Exchange
+Commission that permit the Trust to provide only the Liquidating Trustee's
+report in this annual report.
+
+         (b) Changes in Internal Controls
+
+         There were no significant changes in the Trust's internal controls over
+financial reporting identified in connection with the evaluation required by
+paragraph (d) of Exchange Act Rules 13a-15 and 15d-15 that occurred during the
+last fiscal year that have materially affected, or are reasonably likely to
+materially affect, the Trust's internal controls over financial reporting. The
+Trust has adopted a Disclosure Controls Policy, which is designed to insure the
+reliability and timeliness of its reporting.
+
+ITEM 9B. OTHER INFORMATION.
+
+         None.
+
+                                    PART III
+
+ITEM 10. DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE.
+
+         Wells Fargo Bank, National Association serves as the Liquidating
+Trustee of the Trust. The Trust does not have employees or officers.
+
+         The Trust has not adopted a Code of Ethics and does not have a
+Nominating Committee or Audit Committee because it does not have any directors,
+officers or employees.
+
+ITEM 11. EXECUTIVE COMPENSATION.
+
+         Under terms of the Trust Agreement, the Liquidating Trustee received
+payments during the year ended December 31, 2007, of $5,232, comprised of
+Liquidating Trustee administration and beneficiary account maintenance fees for
+the period from May 1, 2007, through April 30, 2008.
+
+
+                                      -15-
+<PAGE>
+
+         The Trust does not have a compensation committee because it does not
+have any directors, officers or employees.
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND
+RELATED STOCKHOLDER MATTERS.
+
+         The Trust does not have any securities that vote for the election of
+the Liquidating Trustee and, consequently, does not have any "voting securities"
+within the meaning of the Securities Exchange Act of 1934, as amended, and the
+regulations thereunder applicable to the disclosure of 5 percent holders of
+voting securities. The Liquidating Trustee is not a beneficial owner of any
+Beneficial Interests. The Liquidating Trustee has no knowledge of any
+arrangements which may result in a change of control of the Trust.
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR
+INDEPENDENCE.
+
+         None. The Trust does not have any directors, officers or employees.
+
+ITEM 14. PRINCIPAL ACCOUNTANT FEES AND SERVICES.
+
+         None.
+
+                                     PART IV
+
+ITEM 15. EXHIBITS AND FINANCIAL STATEMENT SCHEDULES.
+
+         (a) Financial Statements; Exhibits.
+
+         1. The financial statements are filed as part of this report under Item
+         8, Financial Statements and Supplementary Data.
+
+         2. Financial statement schedules have been omitted because the
+         information is either not required, not applicable, or is included in
+         Item 8.
+
+         3. Exhibits.
+
+                  Exhibit 2.1  - Plan of Distribution of JMXI, Inc., dated May
+                                 1, 2003.
+
+                  Exhibit 2.2  - JMXI Liquidating Trust Agreement, by and among
+                                 the Company, Wells Fargo Bank, National
+                                 Association, as liquidating trustee, and Wells
+                                 Fargo Delaware Trust Company, as Delaware
+                                 trustee, dated May 1, 2003.*
+
+                  Exhibit 31.1 - Certification.+
+
+
+
+___________________________
+         * Filed as an exhibit to the Current Report on Form 8-K dated May 8,
+2003, of JMXI, Inc., predecessor of JMXI Liquidating Trust, and incorporated
+herein by reference.
+
+         + Filed herewith.
+
+
+
+                                      -16-
+<PAGE>
+
+                                   SIGNATURES
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange
+Act of 1934, the registrant has duly caused this report to be signed on its
+behalf by the undersigned, thereunto duly authorized.
+
+
+                                         JMXI Liquidating Trust
+                                         ----------------------
+                                         (Registrant)
+
+
+                                         By: Wells Fargo Bank,
+                                             National Association, as
+                                             liquidating trustee
+
+                                         By:
+
+                                         /s/ Nicholas D. Tally
+                                         --------------------------------
+                                         Name:      Nicholas D. Tally
+                                         Title:     Vice President
+
+Dated: March 31, 2008
+
+
+                                      -17-
+
+
+</TEXT>
+</DOCUMENT>

@@ -1,0 +1,3270 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>l35685ae10vk.htm
+<DESCRIPTION>FORM 10-K
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>FORM 10-K</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+<DIV style="width: 100%; border-bottom: 2pt solid black; font-size: 1pt">&nbsp;</DIV>
+<DIV style="width: 100%; border-bottom: 1pt solid black; font-size: 1pt">&nbsp;</DIV>
+
+
+
+
+<DIV align="center" style="font-size: 14pt; margin-top: 12pt"><B>SECURITIES AND EXCHANGE COMMISSION</B>
+</DIV>
+
+<DIV align="center" style="font-size: 12pt"><B>Washington, D. C. 20549</B>
+</DIV>
+
+<DIV align="center" style="font-size: 18pt; margin-top: 12pt"><B>FORM 10-K</B>
+</DIV>
+
+<DIV align="center">
+<TABLE cellspacing="0" border="0" cellpadding="0" width="100%" style="font-size: 12pt">
+<TR style="font-size: 6pt">
+    <TD width="7%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="88%">&nbsp;</TD>
+</TR>
+<TR valign="top">
+    <TD align="center"><FONT face="Wingdings">&#254;</FONT></TD>
+    <TD>&nbsp;</TD>
+    <TD><B>ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934</B></TD>
+</TR>
+</TABLE>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 12%"><B>For the fiscal year ended <U>December&nbsp;31, 2008</U>
+</B>
+</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt"><B>Commission
+file number 1<U>-6747</U></B></DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt"><B>OR</B></DIV>
+
+<DIV align="center">
+<TABLE cellspacing="0" border="0" cellpadding="0" width="100%" style="font-size: 12pt">
+<TR style="font-size: 6pt">
+    <TD width="7%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="88%">&nbsp;</TD>
+</TR>
+<TR valign="top">
+    <TD align="center"><FONT face="Wingdings">&#111;</FONT></TD>
+    <TD>&nbsp;</TD>
+    <TD><B>TRANSITION REPORT PURSUANT TO SECTION 13 OR 15 (d)&nbsp;OF THE SECURITIES EXCHANGE ACT
+OF 1934</B></TD>
+</TR>
+</TABLE>
+</DIV>
+
+<DIV align="center" style="font-size: 24pt; margin-top: 12pt"><B>THE GORMAN-RUPP COMPANY<DIV style="width: 100%; border-bottom: 1px solid #000000; font-size: 1px">&nbsp;</DIV></B>
+</DIV>
+
+<DIV align="center" style="font-size: 10pt">(Exact name of Registrant as specified in its charter)</DIV>
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="48%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="48%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="center" valign="top">Ohio
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">34-0253990</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD align="center" valign="top" style="border-top: 1px solid #000000">&nbsp;
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top">(State or other jurisdiction of incorporation or organization)
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">(I.R.S. Employer Identification No.)</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD align="center" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top">305 Bowman St., Mansfield, Ohio
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">44903</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD align="center" valign="top" style="border-top: 1px solid #000000">&nbsp;
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top">(Address of principal executive offices)
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">(Zip Code)</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Registrant&#146;s telephone number, including area code (<U>419) 755-1011</U>
+</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt">SECURITIES REGISTERED PURSUANT TO SECTION 12(b) OF THE ACT:</DIV>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="47%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="47%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD style="font-size: 8pt" align="center" valign="top">Title of each class
+</TD>
+    <TD>&nbsp;</TD>
+    <TD style="font-size: 8pt" align="center" valign="top">Name of each exchange on which registered</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top"><U>Common Shares, without par
+value</U>
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><U>NYSE Alternext Exchange (formerly
+American Stock Exchange)</U></TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt">SECURITIES REGISTERED PURSUANT TO SECTION 12(g) OF THE ACT: NONE</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Indicate by check mark if the Registrant is a well-known seasoned issuer, as defined in Rule&nbsp;405 of
+the Securities Act.<BR>
+Yes&nbsp;<FONT face="Wingdings">&#111;</FONT>&nbsp;&nbsp;No&nbsp;<FONT face="Wingdings">&#254;</FONT>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Indicate by check mark if the Registrant is not required to file reports pursuant to Section&nbsp;13 or
+Section 15(d) of the Act.<BR>
+Yes&nbsp;<FONT face="Wingdings">&#111;</FONT>&nbsp;&nbsp;No&nbsp;<FONT face="Wingdings">&#254;</FONT>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Indicate by check mark whether the Registrant (1)&nbsp;has filed all reports required to be filed by
+Section&nbsp;13 or 15(d) of the Securities
+Exchange Act of 1934 during the preceding 12&nbsp;months, and (2)&nbsp;has been subject to such filing
+requirements for the past 90&nbsp;days.<br>
+Yes&nbsp;<FONT face="Wingdings">&#254;</FONT>&nbsp;&nbsp;No&nbsp;<FONT face="Wingdings">&#111;</FONT>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Indicate by check mark if disclosure of delinquent filers pursuant to Item&nbsp;405 of Regulation&nbsp;S-K is
+not contained herein, and will
+not be contained, to the best of Registrant&#146;s knowledge, in the definitive proxy statement
+incorporated by reference in Part&nbsp;III of this
+Form 10-K or any amendment to this Form 10-K.&nbsp;<FONT face="Wingdings">&#254;</FONT>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer or a smaller reporting company. See the definitions of &#147;large accelerated filer,&#148; &#147;accelerated filer&#148; and &#147;smaller reporting company&#148; in Rule 12b-2 of the Exchange Act. (Check one):</DIV>
+
+<TABLE width="100%" style="font-size: 10pt; margin-top: 0pt">
+<TR><TD>Large accelerated filer&nbsp;<FONT face="Wingdings">&#111;</FONT></TD>
+<TD align="center">Accelerated filer&nbsp;<FONT face="Wingdings">&#254;</FONT>&nbsp;</TD>
+<TD align="center">Non-accelerated filer&nbsp;<FONT face="Wingdings">&#111;</FONT><BR>(Do not check if a smaller reporting company)</TD><TD align="right">Smaller reporting company&nbsp;<FONT face="Wingdings">&#111;</FONT></TD></TR></TABLE>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Indicate by check mark whether the Registrant is a shell company (as defined in Rule&nbsp;12b-2 of the
+Exchange Act).&nbsp;Yes&nbsp;<FONT face="Wingdings">&#111;</FONT>&nbsp;&nbsp;No&nbsp;<FONT face="Wingdings">&#254;</FONT>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">State the aggregate market value of the voting common equity held by non-affiliates of the
+Registrant. The aggregate market value is<BR>
+computed by reference to the price at which the common equity was sold as of June&nbsp;30, 2008. <U>$478,458,998</U>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Indicate the number of shares outstanding of each of the Registrant&#146;s classes of common stock as of
+<U>March&nbsp;1, 2009</U>.
+</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt"><U>Common Shares, without par value&#151;16,707,535</U></DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt">DOCUMENTS INCORPORATED BY REFERENCE</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Portions of the 2008 Annual Report to Shareholders incorporated by reference into Part&nbsp;II (Items
+5-9B).
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Portions of Notice of 2009 Annual Meeting of Shareholders and related Proxy Statement incorporated
+by reference into Part&nbsp;III (Items 10-14).
+</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt">**************</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt">The Exhibit&nbsp;Index is located at Page 18</DIV>
+
+
+<DIV style="width: 100%; border-bottom: 1pt solid black; margin-top: 10pt; font-size: 1pt">&nbsp;</DIV>
+<DIV style="width: 100%; border-bottom: 2pt solid black; font-size: 1pt">&nbsp;</DIV>
+
+
+
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+
+
+
+
+
+<!-- TOC -->
+<A name="toc"><DIV align="CENTER" style="page-break-before:always"><U><B>TABLE OF CONTENTS</B></U></DIV></A>
+
+<P><CENTER>
+<TABLE border="0" width="90%" cellpadding="0" cellspacing="0">
+<TR>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="76%"></TD>
+</TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#000">PART I</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#001">ITEM 1. BUSINESS</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#002">ITEM 1A. RISK FACTORS</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#003">ITEM 1B. UNRESOLVED STAFF COMMENTS</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#004">ITEM 2. PROPERTIES</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#005">ITEM 3. LEGAL PROCEEDINGS</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#006">ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#007">PART II</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#008">ITEM 5. MARKET FOR REGISTRANT&#146;S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#009">ITEM 6. SELECTED FINANCIAL DATA</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#010">ITEM 7. MANAGEMENT&#146;S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#011">ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#012">ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#013">ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#014">ITEM 9A. CONTROLS AND PROCEDURES</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#015">ITEM 9B. OTHER INFORMATION</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#016">PART III</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#017">ITEM 10. DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#018">ITEM 11. EXECUTIVE COMPENSATION</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#019">ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#020">ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#021">ITEM 14. PRINCIPAL ACCOUNTANT FEES AND SERVICES</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#022">PART IV</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#023">ITEM 15. EXHIBITS AND FINANCIAL STATEMENT SCHEDULES</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#024">SIGNATURES</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#025">EXHIBIT INDEX</A></TD></TR>
+<TR><TD colspan="9"><A HREF="l35685aexv13.htm">EX-13</A></TD></TR>
+<TR><TD colspan="9"><A HREF="l35685aexv14.htm">EX-14</A></TD></TR>
+<TR><TD colspan="9"><A HREF="l35685aexv21.htm">EX-21</A></TD></TR>
+<TR><TD colspan="9"><A HREF="l35685aexv23.htm">EX-23</A></TD></TR>
+<TR><TD colspan="9"><A HREF="l35685aexv24.htm">EX-24</A></TD></TR>
+<TR><TD colspan="9"><A HREF="l35685aexv31w1.htm">EX-31.1</A></TD></TR>
+<TR><TD colspan="9"><A HREF="l35685aexv31w2.htm">EX-31.2</A></TD></TR>
+<TR><TD colspan="9"><A HREF="l35685aexv32.htm">EX-32</A></TD></TR>
+</TABLE>
+</CENTER>
+<!-- /TOC -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+
+
+
+
+
+<!-- link2 "PART I" -->
+<DIV align="left"><A NAME="000"></A></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>PART I</B>
+</DIV>
+
+<!-- link2 "ITEM 1. BUSINESS" -->
+<DIV align="left"><A NAME="001"></A></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt"><B>ITEM 1. BUSINESS</B>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Registrant (&#147;Gorman-Rupp&#148; or the &#147;Company&#148;) designs, manufactures and sells pumps and related
+equipment (pump and motor controls) for use in water, wastewater, construction, industrial,
+petroleum, original equipment, agriculture, fire protection, heating, ventilating and air
+conditioning (&#147;HVAC&#148;), military and other liquid-handling applications.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>PRODUCTS</B>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">The principal products of the Company are pumps and fluid control products. The Company operates
+principally in one business segment, the manufacture and sale of pumps and related fluid control
+equipment. The following table sets forth, for the years 2006 through 2008, the total net sales,
+income before income taxes and total assets ($000 omitted) of the Company.
+</DIV>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="64%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000">2008</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000">2007</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000">2006</TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Net Sales</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">330,646</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">305,562</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">270,910</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Income Before Income Taxes</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">40,494</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">35,383</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">27,726</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Assets</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">231,538</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">211,534</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">187,540</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">The
+Company&#146;s product line consists of pump models ranging in size
+from
+<FONT style="font-size: 70%"><SUP>1</SUP></FONT>/<FONT style="font-size: 60%">4</FONT>&#148; to 144&#148; and ranging in
+rated capacity from less than one gallon per minute to in excess of 750,000 gallons per minute. The types of
+pumps which the Company produces include self priming centrifugal, standard centrifugal, magnetic
+drive centrifugal, axial and mixed flow, rotary gear, diaphragm, bellows and oscillating.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">The pumps have drives that range from 1/35 horsepower electric motors up to much larger electric
+motors or internal combustion engines. Many of the larger units comprise encased, fully integrated
+sewage pumping stations. In certain cases, units are designed for the inclusion of
+customer-supplied drives.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">The Company&#146;s larger pumps are sold principally for use in the construction, industrial, sewage and
+waste handling fields; for boosting low residential water pressure; for pumping refined petroleum
+products, including the ground refueling of aircraft; for fluid control in heating, ventilating and
+air conditioning (HVAC)&nbsp;applications; and for various agricultural purposes. Additionally, pumps
+manufactured for fire protection are used for sprinkler systems, fire hydrants, stand pipes, fog
+systems and deluge systems at hotels, banks, factories, airports, schools, public buildings and
+hundreds of other facilities throughout the world. Pumps are also utilized for dewatering and
+flood control purposes.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Many of the Company&#146;s smallest pumps are sold to customers for incorporation into such products as
+food processing, chemical, photo processing, waste treatment, HVAC equipment, appliances, and for
+automated explosives detection systems in airports.
+</DIV>
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->2<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>PART I &#151; CONTINUED</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt"><B>ITEM 1. BUSINESS &#151; CONTINUED</B>
+
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>MARKETING</B>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Except for government and export sales, the Company&#146;s pumps are marketed in the United States and
+Canada through a network of about 1,000 distributors, through manufacturers&#146; representatives (for
+sales to many original equipment manufacturers), through third-party distributor catalogs, and by
+direct sales. The Company is continuously seeking alliances to further enhance marketing
+opportunities. Government sales
+are handled directly by the Company; and export sales are made primarily through foreign
+distributors and representatives. During 2008, 2007 and 2006, there were no shipments to any
+single customer that exceeded 10% of total net sales.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Over the last thirteen years, Gorman-Rupp has actively pursued international business opportunities
+by, among other efforts, opening facilities outside North America. In 1998, Patterson Pump
+Company&#146;s majority-owned subsidiary, Patterson Pump Ireland Limited, started the assembly of pumps
+in Ireland to better serve the European market. (In March&nbsp;2002, Patterson Pump Company acquired
+the balance of the equity interest in Patterson Pump Ireland Limited.) In January&nbsp;2002, the
+Mansfield Division opened a warehouse near Leeuwarden, The Netherlands to further enhance marketing
+opportunities in Europe. In April&nbsp;2007, the Company&#146;s wholly owned subsidiary, The Gorman-Rupp
+International Company, purchased a 90% controlling equity interest in Wavo Pompen B.V. located in
+The Netherlands, which was subsequently renamed Gorman-Rupp Europe B.V. During 2006, the Company
+began shipping pumps from a leased warehouse in Bangkok, Thailand principally to its Asian
+customers. The Company&#146;s foreign operations do not involve material market risks due to their
+small size, both individually and collectively.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">As a result of this active pursuit of international business, approximately $103.2&nbsp;million of 2008
+sales were made to customers in over 100 countries outside the United States, as compared to $88.1
+million in 2007 and $82.4&nbsp;million in 2006. International sales represented 31%, 29% and 30% of
+total sales in 2008, 2007 and 2006, respectively. No sales made to customers in any one foreign
+country amounted to more than 5% of total sales during 2008; however in 2006, sales to customers in
+Kuwait represented 7% of total sales. The Company continues its efforts to penetrate international
+markets principally by its aggressive response to worldwide pumping needs.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>COMPETITION</B>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Since the late 1990&#146;s, a number of consolidations have occurred within the highly competitive pump
+industry. As a consequence, numerous pump competitors now exist as subsidiaries, divisions or
+departments within larger corporations. Foreign sourced pumps have also increasingly penetrated
+into the Company&#146;s domestic markets.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Gorman-Rupp estimates that 80 other companies selling pumps and pump units compete in one or more
+of the lines of business and applications in which comparable products of the Company are utilized.
+Many pumps are specifically designed and engineered for a particular customer&#146;s application. The
+Company believes that proper application, product performance, and quality of delivery and service
+are the principal methods of competition, and attributes its success to its continued emphasis in
+these areas.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>PURCHASING AND PRODUCTION</B>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Virtually all materials, supplies, components and accessories used by the Company in the
+fabrication of its products, including all castings (for which most patterns are made and owned by
+the Company), structural steel, bar stock, motors, solenoids, engines, seals, and plastic and
+elastomeric components are purchased
+</DIV>
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->3<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>PART I &#151; CONTINUED</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt"><B>ITEM 1. BUSINESS &#151; CONTINUED</B>
+
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">by the Company from other suppliers and manufacturers. No purchases are made under long-term
+contracts and the Company is not dependent upon a single source for any materials, supplies,
+components or accessories which are of material importance to its business.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">The Company purchases motors for its polypropylene bellows pumps and magnetic drive pumps from
+several alternative vendors, and motor components for its large submersible pumps from a limited
+number of suppliers. Small motor requirements are also currently sourced from alternative
+suppliers.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">The other production operations of the Company consist of the machining of castings, the cutting,
+shaping and welding of bar stock and structural members, the manufacture of a few minor components,
+and the assembling, painting and testing of its products. Virtually all of the Company&#146;s products
+are tested prior to shipment.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>OTHER ASPECTS</B>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">As of December&nbsp;31, 2008, the Company employed approximately 1,093 persons, of whom approximately
+674 were hourly employees. The Company has no collective bargaining agreements, has never
+experienced a strike and considers its labor relations to be satisfactory.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Although the Company owns a number of patents, and several of them are important to its business,
+Gorman-Rupp believes that the business of the Company is not materially dependent upon any one or
+more patents. The Company&#146;s patents, trademarks and other intellectual property are adequate for
+its business purposes.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">The backlog of orders at December&nbsp;31, 2008 was valued at $107.8&nbsp;million compared to $116.4&nbsp;million
+at December&nbsp;31, 2007. About 95% of the Company&#146;s backlog of unfilled orders is scheduled to be
+shipped during 2009, with the remainder during 2010.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>AVAILABLE INFORMATION</B>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">The Company maintains a website accessible through its Internet address of <I>www.gormanrupp.com</I>.
+Gorman-Rupp makes available free of charge on or through <I>www.gormanrupp.com </I>its annual reports on
+Form 10-K, its quarterly reports on Form 10-Q, and its current reports on Form 8-K, and any
+amendments thereto, as soon as reasonably practicable after those reports (and any amendments) are
+electronically filed with or furnished to the Securities and Exchange Commission (&#147;Commission&#148;).
+(As noted in Gorman-Rupp&#146;s Annual Report to Shareholders, a paper copy of the Company&#146;s Form 10-K
+is also available free of charge upon written request to the Company&#146;s Corporate Secretary.)
+However, the information contained on the Company&#146;s website is not a part of this Form 10-K or any
+other report filed with or furnished to the Commission.
+</DIV>
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->4<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>PART I &#151; CONTINUED</B>
+</DIV>
+
+<!-- link2 "ITEM 1A. RISK FACTORS" -->
+<DIV align="left"><A NAME="002"></A></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt"><B>ITEM 1A. RISK FACTORS</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt"><B><I>Market influences and cost pressures</I></B>
+
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">The overall pump industry is cyclical in nature, and business activity is somewhat related to
+conditions in the durable goods and capital equipment markets. The Company cannot predict the
+timing or extent of future economic or market swings. Additionally, raw material and energy
+purchases are major drivers of costs in the manufacture of pumps, and these costs are highly
+unpredictable. While efforts are made to recoup higher production costs through increased prices,
+the future acceptability of such price increases by customers is not guaranteed due to the highly
+competitive market place.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B><I>Family ownership of common equity</I></B>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">A substantial percentage of the Company&#146;s Common Shares is held by various members of the Gorman
+and Rupp families and their affiliates. These family holdings do not typically trade; therefore,
+the Common Shares, in part because of these circumstances, generally have a history of relatively
+thin trading experiences on the NYSE Alternext (formerly American Stock Exchange).
+</DIV>
+
+<!-- link2 "ITEM 1B. UNRESOLVED STAFF COMMENTS" -->
+<DIV align="left"><A NAME="003"></A></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>ITEM 1B. UNRESOLVED STAFF COMMENTS</B>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">The Company has not received any written comments from the Commission staff regarding its periodic
+or current reports under the Securities Exchange Act of 1934 within 180&nbsp;days before the end of its
+fiscal year to which this Form10-K relates.
+</DIV>
+
+<!-- link2 "ITEM 2. PROPERTIES" -->
+<DIV align="left"><A NAME="004"></A></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>ITEM 2. PROPERTIES</B>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">All of the production operations of the Company are conducted at its plants located in Mansfield
+and Bellville, Ohio; Toccoa, Georgia; Royersford, Pennsylvania; St. Thomas, Ontario, Canada; County
+Westmeath, Ireland; and Leeuwarden, The Netherlands. All of these properties, except the plants in
+Leeuwarden, The Netherlands and County Westmeath, Ireland are owned in fee without any material
+encumbrance. The Company similarly owns a facility in Sparks, Nevada comprising a training center
+and warehouse, and a former production plant in Oklahoma now used for warehousing and office space.
+In addition, the Company leases warehouse facilities in Toccoa, Georgia, Bangkok, Thailand and
+Culemborg, The Netherlands to house pumps and pump parts. The Company&#146;s various production
+facilities and warehouses are described below in more detail.
+</DIV>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="25%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="4%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="4%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="40%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3">Company</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3">Square</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3">Operation</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="left" style="border-bottom: 1px solid #000000">Location</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000">Footage</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000">Start Date</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" style="border-bottom: 1px solid #000000">Description of Production Activity</TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Mansfield, Ohio
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">238,000</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">1947</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Assembly, Warehousing and Office (1)</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">134,200</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">1968</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Assembly, Warehousing and Office (2)</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">11,500</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">1979</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Training, Personnel and Advertising</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">83,500</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">1983</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Warehousing (3)</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">360,000</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">2000</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Machining, Assembly and Warehousing (4)</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Bellville, Ohio
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">93,200</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">1953</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Assembly, Warehousing and Office (5)</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->5<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>PART I &#151; CONTINUED</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt"><B>ITEM 2. PROPERTIES &#151; CONTINUED</B>
+
+</DIV>
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="25%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="4%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="4%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="40%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Toccoa, Georgia
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">171,750</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">1988</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Manufacturing, Warehousing and Office (6)</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">31,800</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">2006</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Assembly and Warehousing (7)</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">10,000</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">2008</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Warehousing (8)</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">St. Thomas, Ontario, Canada
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">52,600</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">1960</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Manufacturing, Warehousing and Office (9)</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">County Westmeath, Ireland
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">10,000</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">1998</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Manufacturing (10)</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Royersford, Pennsylvania
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">78,400</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">2002</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Manufacturing, Warehousing and Office (11)</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">43,100</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">2002</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Warehousing (12)</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom"  style="background: #cceeff">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Sand Springs, Oklahoma
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">28,200</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">1977</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Warehousing and Office (13)</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Leeuwarden, The Netherlands
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">16,210</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">2002</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Warehousing (14)</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">10,193</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">2007</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Assembly, Warehousing and Office (15)</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Culemborg, The Netherlands
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">10,150</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">2007</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Warehousing and Office (16)</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">2,691</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">2007</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Warehousing (17)</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Sparks, Nevada
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">26,000</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">1972</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Warehousing (18)</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Bangkok, Thailand
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">3,000</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">2006</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Warehousing (19)</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+<DIV align="left">
+<DIV style="font-size: 3pt; margin-top: 16pt; width: 18%; border-top: 1px solid #000000">&nbsp;</DIV>
+</DIV>
+
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+<TR>
+    <TD width="3%"></TD>
+    <TD width="1%"></TD>
+    <TD width="96"></TD>
+</TR>
+
+<TR valign="top">
+    <TD nowrap align="left">(1)</TD>
+    <TD>&nbsp;</TD>
+    <TD>The original production plant, located on a 26 acre site, was built in 1917 and has been
+expanded on several occasions, the latest in 1973.</TD>
+</TR>
+
+<TR style="font-size: 3pt"><TD>&nbsp;</TD></TR>
+
+<TR valign="top">
+    <TD nowrap align="left">(2)</TD>
+    <TD>&nbsp;</TD>
+    <TD>This facility, also situated on the foregoing 26 acre site, has been frequently expanded,
+most recently in 1994 and includes a modern testing facility.</TD>
+</TR>
+
+<TR style="font-size: 3pt"><TD>&nbsp;</TD></TR>
+
+<TR valign="top">
+    <TD nowrap align="left">(3)</TD>
+    <TD>&nbsp;</TD>
+    <TD>This facility was built in 1920 and is located on 3.4 acres adjacent to the Company&#146;s 26 acre
+site. This facility was renovated in 1983.</TD>
+</TR>
+
+<TR style="font-size: 3pt"><TD>&nbsp;</TD></TR>
+
+<TR valign="top">
+    <TD nowrap align="left">(4)</TD>
+    <TD>&nbsp;</TD>
+    <TD>In 1997, the Company purchased 90 acres of undeveloped land near the Mansfield Lahm Airport
+for future expansion and consolidation of facilities for the Mansfield Division and the
+Corporate Office. In 1998, design work and site preparation began on the new consolidated
+facilities project. In 2000, the first phase of the manufacturing and warehousing facility
+was completed, and the machining, weld and fabrication operations of the Mansfield Division
+were relocated to this facility. Construction of the second phase began in the third quarter
+2008 and is expected to be completed by the end of 2009 which will further consolidate and
+expand the Mansfield, Ohio facilities.</TD>
+</TR>
+
+<TR style="font-size: 3pt"><TD>&nbsp;</TD></TR>
+
+<TR valign="top">
+    <TD nowrap align="left">(5)</TD>
+    <TD>&nbsp;</TD>
+    <TD>This facility, which comprises the production operations of the Industries Division, is
+situated on an 8.5 acre site. The initial portion of this plant was built in 1953
+and has been expanded on several occasions, most recently in 1973-74.</TD>
+</TR>
+
+<TR style="font-size: 3pt"><TD>&nbsp;</TD></TR>
+
+<TR valign="top">
+    <TD nowrap align="left">(6)</TD>
+    <TD>&nbsp;</TD>
+    <TD>This facility, which supports Patterson Pump Company, is situated on a 31 acre site. Between
+1989 and 2000, the facility was expanded on several occasions, including the addition of a
+modern 400,000 gallon testing facility and office.</TD>
+</TR>
+
+<TR style="font-size: 3pt"><TD>&nbsp;</TD></TR>
+
+<TR valign="top">
+    <TD nowrap align="left">(7)</TD>
+    <TD>&nbsp;</TD>
+    <TD>This newly constructed facility adjacent to the current plant is operated by Patterson Pump
+Company and is utilized for light manufacturing and inventory warehousing purposes.</TD>
+</TR>
+
+<TR style="font-size: 3pt"><TD>&nbsp;</TD></TR>
+
+<TR valign="top">
+    <TD nowrap align="left">(8)</TD>
+    <TD>&nbsp;</TD>
+    <TD>This leased warehousing facility in Toccoa, Georgia is used by Patterson Pump Company for
+storage of product. The ending date for the lease agreement is January&nbsp;26, 2009.</TD>
+</TR>
+
+</TABLE>
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->6<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>PART I &#151; CONTINUED</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt"><B>ITEM 2. PROPERTIES &#151; CONTINUED</B>
+
+</DIV>
+
+
+
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+<TR>
+    <TD width="3%"></TD>
+    <TD width="1%"></TD>
+    <TD width="96"></TD>
+</TR>
+
+<TR style="font-size: 6pt"><TD>&nbsp;</TD></TR>
+
+<TR valign="top">
+    <TD nowrap align="left">9)</TD>
+    <TD>&nbsp;</TD>
+    <TD>The plant in St. Thomas, Ontario is operated by Gorman-Rupp of Canada, Ltd. It is situated
+on an 11 acre site and has undergone a number of expansions since it was established
+in 1960, the latest being completed in 1998.</TD>
+</TR>
+
+<TR style="font-size: 3pt"><TD>&nbsp;</TD></TR>
+
+<TR valign="top">
+    <TD nowrap align="left">(10)</TD>
+    <TD>&nbsp;</TD>
+    <TD>This leased manufacturing facility is occupied by Patterson Pump Ireland Limited and
+consists of 8,000 square feet of manufacturing space and 2,000 square feet of office
+space. The lease is for a 20&nbsp;year term ending March&nbsp;31, 2022, with certain
+lease termination options throughout the time period.</TD>
+</TR>
+
+<TR style="font-size: 3pt"><TD>&nbsp;</TD></TR>
+
+<TR valign="top">
+    <TD nowrap align="left">(11)</TD>
+    <TD>&nbsp;</TD>
+    <TD>This facility supports the operations of American Machine and Tool Co., Inc. of Pennsylvania.
+It is located on a 3.25 acre site and has undergone a number of expansions since it was
+established in 1962.</TD>
+</TR>
+
+<TR style="font-size: 3pt"><TD>&nbsp;</TD></TR>
+
+<TR valign="top">
+    <TD nowrap align="left">(12)</TD>
+    <TD>&nbsp;</TD>
+    <TD>This facility also supports the operations of American Machine and Tool Co., Inc. of
+Pennsylvania. It is located on a 2.2 acre site and has undergone two expansions since it
+was established in 1982. Ten thousand square feet of this facility is leased to an
+unrelated company under a 60&nbsp;month agreement ending April&nbsp;1, 2009.</TD>
+</TR>
+
+<TR style="font-size: 3pt"><TD>&nbsp;</TD></TR>
+
+<TR valign="top">
+    <TD nowrap align="left">(13)</TD>
+    <TD>&nbsp;</TD>
+    <TD>The Oklahoma facility is located on 4.5 acres of land. Originally built in 1973, the
+facility was expanded four times
+between 1978 and 1991. In 1980, a contiguous parcel of two acres of undeveloped land was
+purchased for future needs. Starting in 1977, this plant comprised the Company&#146;s Ramparts
+Division (manufacturer of chemical pumps). In 2003, the Ramparts Division was integrated
+into the Mansfield Division and manufacturing operations were relocated to
+Mansfield, Ohio.</TD>
+</TR>
+
+<TR style="font-size: 3pt"><TD>&nbsp;</TD></TR>
+
+<TR valign="top">
+    <TD nowrap align="left">(14)</TD>
+    <TD>&nbsp;</TD>
+    <TD>This leased warehousing facility near Leeuwarden, The Netherlands is used by Gorman-Rupp
+Europe B.V. for storage of product, and by the Mansfield Division as a warehouse for
+distributing product principally to European customers. The ending date for the lease
+agreement is December&nbsp;31, 2012.</TD>
+</TR>
+
+<TR style="font-size: 3pt"><TD>&nbsp;</TD></TR>
+
+<TR valign="top">
+    <TD nowrap align="left">(15)</TD>
+    <TD>&nbsp;</TD>
+    <TD>This leased warehousing facility near Leeuwarden, The Netherlands is used by Gorman-Rupp
+Europe B.V. for office facilities, the assembly of pumps and the storage of product.
+The ending date for the lease agreement is December&nbsp;31, 2012.</TD>
+</TR>
+
+<TR style="font-size: 3pt"><TD>&nbsp;</TD></TR>
+
+<TR valign="top">
+    <TD nowrap align="left">(16)</TD>
+    <TD>&nbsp;</TD>
+    <TD>This leased warehousing facility in Culemborg, The Netherlands is used by Gorman-Rupp Europe
+B.V. for storage of product. The ending date for the lease agreement is December&nbsp;31,
+2012.</TD>
+</TR>
+
+<TR style="font-size: 3pt"><TD>&nbsp;</TD></TR>
+
+<TR valign="top">
+    <TD nowrap align="left">(17)</TD>
+    <TD>&nbsp;</TD>
+    <TD>This leased warehousing facility in Culemborg, The Netherlands is used by Gorman-Rupp Europe
+B.V. for storage of product. The ending date for the lease agreement is July&nbsp;31,
+2012.</TD>
+</TR>
+
+<TR style="font-size: 3pt"><TD>&nbsp;</TD></TR>
+
+<TR valign="top">
+    <TD nowrap align="left">(18)</TD>
+    <TD>&nbsp;</TD>
+    <TD>The Nevada facility consists of office and warehouse space. The Company utilizes 13,000
+square feet of the facility, and 13,000 square feet is leased on a month to month basis to
+an unrelated party.</TD>
+</TR>
+
+<TR style="font-size: 3pt"><TD>&nbsp;</TD></TR>
+
+<TR valign="top">
+    <TD nowrap align="left">(19)</TD>
+    <TD>&nbsp;</TD>
+    <TD>This leased warehousing facility is used by the Mansfield Division for distributing product
+principally to customers in Asia. The lease is on a month to month basis.</TD>
+</TR>
+
+</TABLE>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Gorman-Rupp considers its plants, machinery and equipment to be well maintained, in good operating
+condition and adequate for the present uses and business requirements of the Company.
+</DIV>
+
+<!-- link2 "ITEM 3. LEGAL PROCEEDINGS" -->
+<DIV align="left"><A NAME="005"></A></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>ITEM 3. LEGAL PROCEEDINGS</B>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Numerous business entities in the pump and fluid handling industries, as well as a multitude of
+companies in many other industries, continue to be targeted in a series of lawsuits in several
+jurisdictions by various
+individuals seeking redress to claimed injury as a result of the entities&#146; alleged use of asbestos
+in their products. The Company and two of its subsidiaries remain drawn into this mass-scaled
+litigation, typically as one of hundreds of co-defendants in a particular proceeding. (The vast
+majority of these cases
+</DIV>
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->7<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>PART I &#151; CONTINUED</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt"><B>ITEM 3. LEGAL PROCEEDINGS &#151; CONTINUED</B>
+
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">are against Patterson Pump Company.) The allegations in the lawsuits involving the Company and/or
+its subsidiaries are vague, general and speculative, and most cases have not advanced beyond the
+early stage of discovery. In certain situations, the plaintiffs have voluntarily dismissed the
+Company and/or its subsidiaries from some of the lawsuits after the plaintiffs have acknowledged
+that there is no basis for their claims. In other situations, the Company and/or its subsidiaries
+have been dismissed from some of the lawsuits as a result of court rulings in favor of motions to
+dismiss and/or motions for summary judgment. In twenty-five cases, the Company and/or its
+subsidiaries have entered into nominal economic settlements recommended and paid for by insurers,
+coupled with dismissal of the lawsuits. Insurers of the Company have engaged legal counsel to
+represent the Company and its subsidiaries and to protect their interests.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">In addition, the Company and/or its subsidiaries are parties in a small number of legal proceedings
+arising out of the ordinary course of business. Management does not currently believe that these
+proceedings, or the industry-wide asbestos litigation, will materially impact the Company&#146;s results
+of operations, liquidity or financial condition.
+</DIV>
+
+<!-- link2 "ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS" -->
+<DIV align="left"><A NAME="006"></A></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS</B>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">During the fourth quarter of the fiscal year covered by this Form 10-K, no matter was submitted to
+a vote of the Company&#146;s shareholders, through the solicitation of proxies or otherwise.
+</DIV>
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt">************************
+</DIV>
+
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->8<!-- /Folio -->
+</DIV>
+
+
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><B>EXECUTIVE OFFICERS OF THE REGISTRANT</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Pursuant to General Instruction G(3), the information regarding executive officers called for by
+Item&nbsp;401 of Regulation&nbsp;S-K and by Item&nbsp;10 of this Form 10-K is set forth below.
+</DIV>
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="20%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="60%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="4%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3">Date</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3">Elected to</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="left" style="border-bottom: 1px solid #000000">Name</TD>
+    <TD style="border-bottom: 1px solid #000000">&nbsp;</TD>
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000">Age</TD>
+    <TD style="border-bottom: 1px solid #000000">&nbsp;</TD>
+    <TD nowrap align="center" style="border-bottom: 1px solid #000000">Office</TD>
+    <TD style="border-bottom: 1px solid #000000">&nbsp;</TD>
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000">Position</TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+
+<TR valign="bottom">
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" style="background: #cceeff">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">James C. Gorman
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">84</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Chairman
+</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">1989</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Jeffrey S. Gorman
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">56</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">President and Chief Executive Officer
+</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">1998</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Robert E. Kirkendall
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">66</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Senior Vice President, Chief Financial
+Officer and Assistant Corporate Secretary</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">2003</TD>
+    <TD valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Wayne L. Knabel
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">62</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Vice President Finance
+</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">2008</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">William D. Danuloff
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">61</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Vice President and Chief Information
+Officer
+</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">2005</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Judith L. Sovine
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">64</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Treasurer
+</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">2001</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">David P. Emmens
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">60</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Corporate Counsel and Corporate
+Secretary
+</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">2002</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Lee A. Wilkins
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">54</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Vice President Human Resources
+</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">2006</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Ronald D. Pittenger
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">49</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Assistant Treasurer
+</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">2008</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Except as noted, each of the above-named officers has held his or her executive position with the
+Company for the past five years. Mr.&nbsp;J. C. Gorman served as the Company&#146;s President from 1964
+until 1989, and as Chief Executive Officer from 1964 until 1996. (He has served as a Director of
+the Company continuously since 1946.) Mr.&nbsp;J. S. Gorman was elected President and Chief Executive
+Officer effective May&nbsp;1, 1998, after having served as Senior Vice President since 1996. Mr.&nbsp;J. S.
+Gorman also held the position of General Manager of the Mansfield Division from 1989 through 2005.
+He served as Assistant General Manager from 1986 to 1988; and he held the office of Corporate
+Secretary from 1982 to 1990. (He has served as a Director of the Company continuously since 1989.)
+Mr.&nbsp;Kirkendall was elected Senior Vice President, Chief Financial Officer and Assistant Corporate
+Secretary in 2003. He was elected Senior Vice President and Assistant Corporate Secretary in 2002;
+and he served as Vice President Corporate Development from 1999 to 2002, Corporate Secretary from
+1990 to 2002 and Assistant Treasurer from 1982 to 1999. Mr.&nbsp;Knabel joined the Company in 2008.
+He previously served as Chief Financial Officer at Arthur Middleton
+Capital Holdings from 2003 to 2008, which manufactures and
+distributes over-the-counter nutraceuticals and performs direct
+marketing.
+
+Mr.&nbsp;Danuloff was elected Vice President and Chief Information Officer in 2005. He previously
+served as Vice President Information Technology from 1991 to 2005, after having served as Director
+of Information Services from 1981 to 1991. Ms.&nbsp;Sovine was elected Treasurer in 2001. She served as
+Assistant Treasurer from 1999 to 2001 and prior to 1999 held a variety of financial management
+positions within the Company. Mr.&nbsp;Emmens joined the Company as Corporate Counsel in 1997, and was
+elected as Corporate Secretary in 2002. He served as Assistant Corporate Secretary from 1999 to
+2002. Mr.&nbsp;Wilkins joined the Company in 1990 and most recently
+</DIV>
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->9<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">(beginning in 2002 ) served as
+Corporate Director of Human Resources. Mr.&nbsp;Pittenger joined the
+Company in 1993 and most recently (beginning in 2005) served as Corporate Controller, and prior to
+2005 held a variety of financial management positions within the Company. Mr.&nbsp;J. S. Gorman is the
+son of Mr.&nbsp;J. C. Gorman. Mr.&nbsp;Christopher H. Lake, a Director of the Company, is the son of Dr.
+Peter B. Lake, also a Director. There are no other family relationships among any of the Executive
+Officers and Directors of the Company.
+</DIV>
+<!-- link2 "PART II" -->
+<DIV align="left"><A NAME="007"></A></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>PART II</B>
+</DIV>
+
+<!-- link2 "ITEM 5. MARKET FOR REGISTRANT&#146;S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES" -->
+<DIV align="left"><A NAME="008"></A></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt"><B>ITEM 5. MARKET FOR REGISTRANT&#146;S COMMON EQUITY, RELATED
+STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY
+SECURITIES</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Attention is directed to the section &#147;Ranges of Stock Prices&#148; and the data immediately below
+pertaining to the shareholder information reported by the Transfer Agent and Registrar on page 58
+in the Company&#146;s 2008 Annual Report to Shareholders, which is incorporated herein by this
+reference.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Attention is also directed to the section &#147;Shareholder Return Performance Presentation&#148; on page 58
+in the Company&#146;s 2008 annual report to shareholders, which is incorporated herein by this
+reference.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">The Company did not repurchase any of its Common Shares during the fourth quarter of the period
+covered by this Form 10-K.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">The
+Company sold 2,000 unregistered  common shares
+during 2008 which was previously disclosed in the quarterly report
+Form 10-Q for the quarter ended September 30, 2008.</DIV>
+
+<!-- link2 "ITEM 6. SELECTED FINANCIAL DATA" -->
+<DIV align="left"><A NAME="009"></A></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>ITEM 6. SELECTED FINANCIAL DATA</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Attention is directed to the section &#147;Eleven Year Summary of Selected Financial Data&#148; on pages 54
+and 55 in the Company&#146;s 2008 Annual Report to Shareholders, which is incorporated herein by this
+reference.
+</DIV>
+<!-- link2 "ITEM 7. MANAGEMENT&#146;S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION" -->
+<DIV align="left"><A NAME="010"></A></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>ITEM
+7. MANAGEMENT&#146;S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS</B>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Attention is directed to the section &#147;Management&#146;s Discussion and Analysis of Financial Condition
+and Results of Operations&#148; on pages 46 &#151; 51, and to the &#147;Safe Harbor Statement&#148; on page 59, in the
+Company&#146;s 2008 Annual Report to Shareholders, which are incorporated herein by this reference.
+</DIV>
+<!-- link2 "ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK" -->
+<DIV align="left"><A NAME="011"></A></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET
+RISK</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Attention is directed to the section &#147;Management&#146;s Discussion and Analysis of Financial Condition
+and Results of Operations&#148; on pages 46 &#151; 51, and to the &#147;Safe Harbor Statement&#148; on page 59, in the
+Company&#146;s 2008 Annual Report to Shareholders, which are incorporated herein by this reference. The
+Company&#146;s foreign operations do not involve material market risks due to their small size, both
+individually and collectively. As indicated in paragraph 8 on page 48 referenced above, the
+Company has no material market risk exposures required to be reported by Item&nbsp;305 of Regulation
+S-K.
+</DIV>
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->10<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>PART II&#151;CONTINUED</B>
+</DIV>
+
+<!-- link2 "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA" -->
+<DIV align="left"><A NAME="012"></A></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt"><B>ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Attention is directed to the Company&#146;s consolidated financial statements, the notes thereto and the
+report of the independent registered public accounting firm thereon on pages 30 &#151; 45, and to the
+section &#147;Summary of Quarterly Results of Operations&#148; on pages 54 and 55, in the Company&#146;s 2008
+Annual Report to Shareholders, which are incorporated herein by this reference.
+</DIV>
+<!-- link2 "ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE" -->
+<DIV align="left"><A NAME="013"></A></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">The Company has not changed its independent public accountants and there have been no reportable
+disagreements with such accountants regarding accounting principles or practices or financial
+disclosure matters.
+</DIV>
+<!-- link2 "ITEM 9A. CONTROLS AND PROCEDURES" -->
+<DIV align="left"><A NAME="014"></A></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>ITEM 9A. CONTROLS AND PROCEDURES</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt"><B>Evaluation of Disclosure Controls and Procedures</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">The Company maintains a set of disclosure controls and procedures designed to ensure that
+information required to be disclosed by the Company in reports that it files or submits under the
+Securities Exchange Act of 1934 is recorded, processed, summarized and reported within the time
+periods specified in Securities and Exchange Commission rules and forms. An evaluation was carried
+out under the supervision and with the participation of the Company&#146;s Management, including the
+principal executive officer and the principal financial officer, of the effectiveness of the design
+and operation of the Company&#146;s disclosure controls and procedures as of the end of the period
+covered by this report on Form 10-K. Based on that evaluation, the principal executive officer and
+the principal financial officer have concluded that the Company&#146;s disclosure controls and
+procedures maintained effective internal control over financial reporting as of December&nbsp;31, 2008.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Management&#146;s Report on Internal Control over Financial Reporting</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">There were no material weaknesses identified at any Division or Subsidiary of the Company during
+2008. The 2008 Report of Management on Internal Control over Financial Reporting and the related
+Report of Independent Registered Public Accounting Firm on Internal Control over Financial
+Reporting are incorporated herein by this reference from pages 52 and 53 of the Company&#146;s 2008
+Annual Report to Shareholders.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Changes in Internal Control over Financial Reporting</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">There were no other changes in the Company&#146;s disclosure controls and procedures that occurred
+during the most recent fiscal year that have materially affected, or are reasonably likely to
+materially affect, the Company&#146;s internal control over financial reporting. Subsequent to the date
+of the evaluation, there have been no significant changes in the Company&#146;s disclosure controls and
+procedures that could significantly affect the Company&#146;s internal control over financial reporting.
+</DIV>
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->11<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>PART II&#151;CONTINUED</B>
+</DIV>
+
+<!-- link2 "ITEM 9B. OTHER INFORMATION" -->
+<DIV align="left"><A NAME="015"></A></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt"><B>ITEM 9B. OTHER INFORMATION</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">The Company has no information required to be disclosed in a report on Form 8-K during the fourth
+quarter of the year covered by this report on Form 10-K that has not otherwise been reported on a
+Form 8-K.
+</DIV>
+<!-- link2 "PART III" -->
+<DIV align="left"><A NAME="016"></A></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>PART III</B>
+</DIV>
+
+<!-- link2 "ITEM 10. DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE" -->
+<DIV align="left"><A NAME="017"></A></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt"><B>ITEM 10. DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">With respect to Directors, attention is directed to the sections &#147;Election of Directors&#148;, &#147;Board of
+Directors and Directors&#146; Committees&#148; and &#147;Audit Review Committee Report&#148; in the Company&#146;s
+definitive Notice of 2009 Annual Meeting of Shareholders and related Proxy Statement (filed
+pursuant to Regulation&nbsp;14A not later than 120&nbsp;days after the end of the fiscal year covered by this
+Form 10-K), which are incorporated herein by this reference.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">With respect to executive officers, attention is directed to Part&nbsp;I of this Form 10-K.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">The Company has adopted a Code of Ethics that applies to its President and Chief Executive Officer,
+Senior Vice President and Chief Financial Officer, and Treasurer (as well as to all employees,
+officers and Directors). The Code of Ethics is set forth as an exhibit to this Form 10-K. In
+addition, the Code of Ethics is posted on the Company&#146;s website accessible through its Internet
+address of <I>www.gormanrupp.com </I>(under the heading &#147;Investor Relations&#148; and the sub-heading
+&#147;Corporate Governance&#148;).
+</DIV>
+<!-- link2 "ITEM 11. EXECUTIVE COMPENSATION" -->
+<DIV align="left"><A NAME="018"></A></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>ITEM 11. EXECUTIVE COMPENSATION</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Attention is directed to the sections &#147;Board of Directors and Directors&#146; Committees&#148;, &#147;Executive
+Compensation&#148;, &#147;Compensation Discussion and Analysis&#148;, &#147;Pension Benefits&#148; and &#147;Compensation
+Committee Report&#148; in the Company&#146;s definitive Notice of 2009 Annual Meeting of Shareholders and
+related Proxy Statement (filed pursuant to Regulation&nbsp;14A not later than 120&nbsp;days after the end of
+the fiscal year covered by this Form 10-K), which are incorporated herein by this reference.
+</DIV>
+<!-- link2 "ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS" -->
+<DIV align="left"><A NAME="019"></A></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND
+MANAGEMENT AND RELATED STOCKHOLDER MATTERS</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Attention is directed to the sections &#147;Principal Shareholders&#148;, &#147;Election of Directors&#148; and
+&#147;Shareholdings by Named Executive Officers&#148; in the Company&#146;s definitive Notice of 2009 Annual
+Meeting of Shareholders and related Proxy Statement (filed pursuant to Regulation&nbsp;14A not later
+than 120&nbsp;days after the end of the fiscal year covered by this Form 10-K), which are incorporated
+herein by this reference.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">On May&nbsp;22, 1997, the Company&#146;s Board of Directors adopted a Non-Employee Directors&#146; Compensation
+Plan. This Plan became effective without shareholder approval and constitutes the Company&#146;s only
+equity compensation plan. The Plan provides (originally through 2006) for share compensation for
+regular services performed by each of the Company&#146;s non-employee Directors. In addition to cash
+compensation, non-employee Directors receive an automatic award of 500 Common Shares (from the
+Company&#146;s
+</DIV>
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->12<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>PART III &#151; CONTINUED</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt"><B>ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND
+MANAGEMENT AND RELATED STOCKHOLDER MATTERS &#151; CONTINUED</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">treasury) on each July 1. On July&nbsp;27, 2006, the Company&#146;s Board of Directors adopted a resolution
+extending the Non-Employee Directors&#146; Compensation plan for an additional term until the earlier of
+(i)&nbsp;May&nbsp;21, 2017, (ii)&nbsp;at such time as all of the Company&#146;s Common Shares authorized for award
+under the Plan and registered under Form S-8 Registration Statement No.&nbsp;333-30159 shall have been
+awarded and issued, (iii)&nbsp;at such time as the Company deregisters any Common Shares not issued
+under the foregoing Registration Statement, or (iv)&nbsp;at such time as the Plan is terminated by
+action of the Board of Directors. The number of Common Shares which may be awarded under the Plan
+cannot exceed 50,000, subject to certain conditions (e.g. stock splits, stock dividends).
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">As of December&nbsp;31, 2008, 34,000 Common Shares had been issued to non-employee Directors and 38,085
+Common Shares remained available for future issuance. (6,875 Common Shares were added as a result
+of the 5 for 4 stock split effective September&nbsp;10, 2004; 7,093 Common Shares were added as a result
+of the 5 for 4 stock split effective December&nbsp;8, 2006; and 8,117 Common Shares were added as a
+result of the 5 for 4 stock split effective December&nbsp;10, 2007). No options, warrants or rights are
+available for issuance under the Plan. Attention is directed to the section &#147;Board of Directors
+and Directors&#146; Committees&#148; in the Company&#146;s definitive Notice of 2009 Annual Meeting of
+Shareholders and related Proxy Statement (filed pursuant to Regulation&nbsp;14A not later than 120&nbsp;days
+after the end of the fiscal year covered by this Form 10-K), which is incorporated herein by this
+reference.
+</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt">EQUITY COMPENSATION PLAN INFORMATION
+</DIV>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="64%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="7%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="7%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+</TR>
+
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center">Number of securities</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center"></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3">&nbsp;</TD>
+</TR>
+
+
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center">to be issued upon</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center">Weighted average</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center">exercise of outstanding</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center">exercise price of</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3">Number of securities</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center">options, warrants and</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center">outstanding options,</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3">remaining available</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="left" style="border-bottom: 1px solid #000000">Plan Category</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" style="border-bottom: 1px solid #000000">rights</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" style="border-bottom: 1px solid #000000">warrants and rights</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000">for future issuance</TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom" style="background: #cceeff">
+    <TD valign="top"><DIV style="margin-left:15px; text-indent:-15px">Non-Employee Directors&#146;
+Compensation Plan
+(not approved
+by shareholders)
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="bottom">-0-
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="bottom">$-0-
+</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="bottom">38,085</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Equity compensation plans approved by shareholders
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">&#151;
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">&#151;
+</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="3" align="center" valign="top">&#151;
+</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top" style="border-top: 1px solid #000000">&nbsp;
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top" style="border-top: 1px solid #000000">&nbsp;
+</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD valign="top"><DIV style="margin-left:15px; text-indent:-15px">Total
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">-0-
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">$-0-
+</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">38,085</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+<!-- link2 "ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE" -->
+<DIV align="left"><A NAME="020"></A></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Attention is directed to the section &#147;Board of Directors and Directors&#146; Committees&#148; in the
+Company&#146;s definitive Notice of 2009 Annual Meeting of Shareholders and related Proxy Statement
+(filed pursuant to Regulation&nbsp;14A not later than 120&nbsp;days after the end of the fiscal year covered
+by this Form 10-K), which is incorporated herein by this reference.
+</DIV>
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->13<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>PART III &#151; CONTINUED</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt"><B>ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR
+INDEPENDENCE &#151; CONTINUED</B>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">The Company has no relationships or transactions required to be reported by Item&nbsp;404 of Regulation<BR>
+S-K.
+</DIV>
+<!-- link2 "ITEM 14. PRINCIPAL ACCOUNTANT FEES AND SERVICES" -->
+<DIV align="left"><A NAME="021"></A></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>ITEM 14. PRINCIPAL ACCOUNTANT FEES AND SERVICES</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Attention is directed to the section &#147;Appointment of Independent Registered Public Accounting Firm&#148;
+in the Company&#146;s definitive Notice of 2009 Annual Meeting of Shareholders and related Proxy
+Statement (filed pursuant to Regulation&nbsp;14A not later than 120&nbsp;days after the end of the fiscal
+year covered by this Form 10-K), which is incorporated herein by this reference.
+</DIV>
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->14<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<!-- link2 "PART IV" -->
+<DIV align="left"><A NAME="022"></A></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>PART IV</B>
+</DIV>
+
+<!-- link2 "ITEM 15. EXHIBITS AND FINANCIAL STATEMENT SCHEDULES" -->
+<DIV align="left"><A NAME="023"></A></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt"><B>ITEM 15. EXHIBITS AND FINANCIAL STATEMENT SCHEDULES</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">The following documents are filed as part of this report:
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left">1.</TD>
+    <TD width="1%"><B>&nbsp;</B></TD>
+    <TD> <U>Financial Statements</U></TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>With respect to the audited consolidated financial statements of the Registrant and its
+subsidiaries, the following documents have been incorporated by reference into this report:</TD>
+</TR>
+
+</TABLE>
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="10%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left">(i)</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Consolidated balance sheets&#151;December&nbsp;31, 2008 and 2007</TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="6%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left">(ii)</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Consolidated statements of income&#151;Years ended
+December&nbsp;31, 2008, 2007 and 2006</TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="6%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left">(iii)</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Consolidated statements of shareholders&#146; equity&#151;Years ended
+December&nbsp;31, 2008, 2007 and 2006</TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="6%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left">(iv)</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Consolidated statements of cash flows&#151;Years ended
+December&nbsp;31, 2008, 2007 and 2006</TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="6%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left">(v)</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Notes to consolidated financial statements</TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="6%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left">(vi)</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>2008 Report of independent registered public accounting firm on
+consolidated financial statements</TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="6%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left">(vii)</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>2008 Report of management on internal control over financial
+reporting</TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="6%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left">(viii)</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>2008 Report of independent registered public accounting firm
+on internal control over financial reporting</TD>
+</TR>
+
+</TABLE>
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left">2.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><U>Financial Statement Schedules</U></TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>All financial statement schedules for which provision is made in the applicable accounting
+regulation of the Securities and Exchange Commission are not required under the related
+instructions or are inapplicable and, therefore, have been omitted.</TD>
+</TR>
+
+</TABLE>
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left">3.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><U>Exhibits</U></TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>The exhibits listed below are submitted in a separate section of this report immediately
+following the Exhibit&nbsp;Index.</TD>
+</TR>
+
+</TABLE>
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="10%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left">(3)</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>(i)&nbsp;Articles of incorporation and (ii)&nbsp;By-laws<BR></TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="6%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left">(4)</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Instruments defining the rights of security holders, including indentures</TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="6%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left">(10)</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Material contracts</TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="6%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left">(13)</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Annual report to security holders</TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="6%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left">(14)</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Code of ethics</TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="6%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left">(21)</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Subsidiaries of the registrant</TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="6%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left">(23)</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Consents of experts</TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="6%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left">(24)</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Powers of attorney</TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="6%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left">(31)</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Rule&nbsp;13a-14(a)/15d-14(a) Certifications</TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="6%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left">(32)</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Section&nbsp;1350 Certifications
+</TD>
+</TR>
+</TABLE>
+</DIV>
+<P align="center" style="font-size: 10pt"><!-- Folio -->15<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<DIV style="margin-top: 6pt"><TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+
+</TABLE>
+</DIV>
+<!-- link2 "SIGNATURES" -->
+<DIV align="left"><A NAME="024"></A></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>SIGNATURES</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Pursuant to the requirements of Section&nbsp;13 or 15(d) of the Securities Exchange Act of 1934, the
+Registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto
+duly authorized.
+</DIV>
+
+<TABLE width="100%" border="0" cellspacing="0" cellpadding="0" style="font-size: 10pt">
+<TR>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="35%">&nbsp;</TD>
+    <TD width="15%">&nbsp;</TD>
+    <TD width="48%">&nbsp;</TD>
+
+</TR>
+<TR>
+    <TD colspan="3" align="left">THE GORMAN-RUPP COMPANY<BR>
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top" align="left">&nbsp;</TD>
+
+</TR><TR>
+    <TD NOWRAP valign="top">*By:&nbsp;&nbsp;</TD>
+    <TD colspan="2" align="left" style="border-bottom: 1px solid #000000">DAVID P. EMMENS
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">&nbsp;</TD>
+</TR><TR>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left">David P. Emmens&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">&nbsp;</TD>
+
+</TR><TR>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left">Attorney-In-Fact&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">&nbsp;</TD>
+
+</TR>
+
+<TR>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR>
+    <TD colspan="5">Date:  March 5, 2009&nbsp;</TD>
+</TR>
+</TABLE>
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->16<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed
+below by the following persons on behalf of the Registrant and in the capacities and on the date
+indicated.
+</DIV>
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="40%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="46%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top" style="border-bottom: 1px solid #000000"><DIV style="margin-left:0px; text-indent:-0px">*JEFFREY S. GORMAN
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">President and Chief Executive Officer and Director</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Jeffrey S. Gorman
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">(Principal Executive Officer)</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">*ROBERT E. KIRKENDALL
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Senior Vice President and Chief Financial Officer</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD valign="top" style="border-top: 1px solid #000000"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Robert E. Kirkendall
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">(Principal Financial and Accounting Officer)</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">*JAMES C. GORMAN
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Director</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD valign="top" style="border-top: 1px solid #000000"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">James C. Gorman</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">*THOMAS E. HOAGLIN
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Director</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD valign="top" style="border-top: 1px solid #000000"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Thomas E. Hoaglin</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">*CHRISTOPHER H. LAKE
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Director</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD valign="top" style="border-top: 1px solid #000000"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Christopher H. Lake</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">*PETER B. LAKE
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Director</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD valign="top" style="border-top: 1px solid #000000"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Peter B. Lake</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">*RICK R. TAYLOR
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Director</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD valign="top" style="border-top: 1px solid #000000"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Rick R. Taylor
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top"></TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">*W. WAYNE WALSTON
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Director</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD valign="top" style="border-top: 1px solid #000000"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">W. Wayne Walston
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top"></TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<DIV align="left">
+<DIV style="font-size: 3pt; margin-top: 16pt; width: 18%; border-top: 1px solid #000000">&nbsp;</DIV>
+</DIV>
+
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+<TR>
+    <TD width="3%"></TD>
+    <TD width="1%"></TD>
+    <TD width="96"></TD>
+</TR>
+
+<TR valign="top">
+    <TD nowrap align="left">*</TD>
+    <TD>&nbsp;</TD>
+    <TD>The undersigned, by signing his name hereto, does sign and execute this Annual Report on Form 10-K
+on behalf of The Gorman-Rupp Company and on behalf of each of the above-named Officers and
+Directors of The Gorman-Rupp Company pursuant to Powers of Attorney executed by The Gorman-Rupp
+Company and by each such Officer and Director and filed with the Securities and Exchange
+Commission.</TD>
+</TR>
+
+</TABLE>
+
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt">March&nbsp;5, 2009
+</DIV>
+
+
+<TABLE width="100%" border="0" cellspacing="0" cellpadding="0" style="font-size: 10pt">
+<TR>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="35%">&nbsp;</TD>
+    <TD width="15%">&nbsp;</TD>
+    <TD width="48%">&nbsp;</TD>
+
+</TR>
+<TR>
+    <TD colspan="3" align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top" align="left">&nbsp;</TD>
+
+</TR><TR>
+    <TD valign="top">By:&nbsp;&nbsp;</TD>
+
+<TD colspan="2" style="border-bottom: 1px solid #000000" align="left">/s/ DAVID P. EMMENS
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">&nbsp;</TD>
+
+</TR><TR>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left">David P. Emmens&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">&nbsp;</TD>
+
+</TR><TR>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left">Attorney-In-Fact&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">&nbsp;</TD>
+
+</TR>
+
+</TABLE>
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->17<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+<TABLE width="100%" border="0" cellspacing="0" cellpadding="0" style="font-size: 10pt">
+<TR>
+    <TD width="48%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="35%">&nbsp;</TD>
+    <TD width="15%">&nbsp;</TD>
+</TR>
+
+</TABLE>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt">ANNUAL REPORT ON FORM 10-K
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">THE GORMAN-RUPP COMPANY
+
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">For the Year Ended December&nbsp;31, 2008
+
+</DIV>
+<!-- link2 "EXHIBIT INDEX" -->
+<DIV align="left"><A NAME="025"></A></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">EXHIBIT INDEX
+</DIV>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="10%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="36%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="4%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left">EXHIBIT</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3">pg.no.</TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+
+
+<TR valign="bottom">
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" style="background: #ffffff">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">(3)(4)
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;&nbsp;&nbsp;Amended Articles of Incorporation, as amended
+</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">*</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+</TR>
+
+
+<TR valign="bottom">
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">(3)(4)
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;&nbsp;&nbsp;Regulations
+</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">*</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" style="background: #ffffff">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">(10)(a)
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;&nbsp;&nbsp;Form of
+Indemnification Agreement between the Company and its Directors and Officers</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">**</TD>
+    <TD valign="top">&nbsp;</TD>
+</TR>
+
+
+<TR valign="bottom">
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" style="background: #ffffff">
+    <TD nowrap valign="top"><DIV style="margin-left:0px; text-indent:-0px">(10)(b)
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;&nbsp;&nbsp;Non-Employee Directors&#146; Compensation Plan
+</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">***</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">(13)
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;&nbsp;&nbsp;Incorporated Portions of 2008 Annual Report
+to Shareholders
+</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">19</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+</TR>
+
+
+<TR valign="bottom">
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" style="background: #ffffff">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">(14)
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;&nbsp;&nbsp;Code of Ethics
+</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">47</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+</TR>
+
+
+<TR valign="bottom">
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">(21)
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;&nbsp;&nbsp;Subsidiaries of the Company </TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">50</TD>
+    <TD valign="top">&nbsp;</TD>
+</TR>
+
+
+<TR valign="bottom">
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" style="background: #ffffff">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">(23)
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;&nbsp;&nbsp;Consent of Independent Registered Public Accounting Firm
+</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">51</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+</TR>
+
+
+<TR valign="bottom">
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">(24)
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;&nbsp;&nbsp;Powers of Attorney </TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">52</TD>
+    <TD valign="top">&nbsp;</TD>
+</TR>
+
+
+<TR valign="bottom">
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" style="background: #ffffff">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">(31)(a)
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;&nbsp;&nbsp;Certification of Chief Executive Officer (Section&nbsp;302 of
+the Sarbanes-Oxley Act of 2002)
+</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">55</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+</TR>
+
+
+<TR valign="bottom">
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">(31)(b)
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;&nbsp;&nbsp;Certification of Chief Financial Officer (Section&nbsp;302 of
+the Sarbanes-Oxley Act of 2002)
+</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">57</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+</TR>
+
+
+<TR valign="bottom">
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" style="background: #ffffff">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">(32)
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top" nowrap>&nbsp;&nbsp;&nbsp;Certification Pursuant to 18 U. S. C. Section&nbsp;1350,
+as adopted pursuant to Section&nbsp;906 of the Sarbanes-Oxley
+Act of 2002
+</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="bottom">59</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+<DIV align="left">
+<DIV style="font-size: 3pt; margin-top: 16pt; width: 18%; border-top: 1px solid #000000">&nbsp;</DIV>
+</DIV>
+
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+<TR>
+    <TD width="3%"></TD>
+    <TD width="1%"></TD>
+    <TD width="96"></TD>
+</TR>
+
+<TR valign="top">
+    <TD nowrap align="left">*</TD>
+    <TD>&nbsp;</TD>
+    <TD>Incorporated herein by this reference from Exhibit (3) (4)&nbsp;of the Company&#146;s Quarterly Report on
+Form 10-Q for the quarter ended June&nbsp;30, 2007.</TD>
+</TR>
+
+<TR style="font-size: 3pt"><TD>&nbsp;</TD></TR>
+
+<TR valign="top">
+    <TD nowrap align="left">**</TD>
+    <TD>&nbsp;</TD>
+    <TD>Incorporated herein by this reference from Exhibit (10) (a)&nbsp;of the Company&#146;s Annual Report on
+Form 10-K for the year ended December&nbsp;31, 2005.</TD>
+</TR>
+
+<TR style="font-size: 3pt"><TD>&nbsp;</TD></TR>
+
+<TR valign="top">
+    <TD nowrap align="left">***</TD>
+    <TD>&nbsp;</TD>
+    <TD>Incorporated herein by this reference from Exhibit (10) (b)&nbsp;of the Company&#146;s Annual Report on
+Form 10-K for the year ended December&nbsp;31, 2005.</TD>
+</TR>
+
+</TABLE>
+
+
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->18<!-- /Folio -->
+</DIV>
+
+
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>

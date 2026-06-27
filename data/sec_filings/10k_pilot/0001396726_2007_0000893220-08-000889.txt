@@ -1,0 +1,1306 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>w51583e10vk.htm
+<DESCRIPTION>FORM 10-K
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>e10vk</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+<DIV style="width: 100%; border-bottom: 2pt solid black; font-size: 1pt">&nbsp;</DIV>
+<DIV style="width: 100%; border-bottom: 1pt solid black; font-size: 1pt">&nbsp;</DIV>
+
+
+
+
+
+
+<DIV align="center" style="font-size: 14pt; margin-top: 12pt"><B>SECURITIES AND EXCHANGE COMMISSION</B>
+</DIV>
+
+<DIV align="center" style="font-size: 12pt"><B>WASHINGTON, D.C. 20549</B>
+</DIV>
+
+<DIV align="center" style="font-size: 12pt"><B><DIV align="center"><DIV style="font-size: 3pt; margin-top: 16pt; width: 26%; border-top: 1px solid #000000">&nbsp;</DIV></DIV></B>
+</DIV>
+
+<DIV align="center" style="font-size: 18pt; margin-top: 12pt"><B>FORM 10-K<BR>
+<DIV align="center"><DIV style="font-size: 3pt; margin-top: 16pt; width: 26%; border-top: 1px solid #000000">&nbsp;</DIV></DIV></B>
+</DIV>
+
+<DIV align="center">
+<TABLE cellspacing="0" border="0" cellpadding="0" width="100%" style="font-size: 12pt">
+<TR style="font-size: 6pt">
+    <TD width="7%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="88%">&nbsp;</TD>
+</TR>
+<TR valign="top">
+    <TD align="center"><FONT face="Wingdings">&#254;</FONT></TD>
+    <TD>&nbsp;</TD>
+    <TD><B>ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+FOR THE FISCAL YEAR ENDED December&nbsp;31, 2007</B></TD>
+</TR>
+</TABLE>
+</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt"><B>OR</B></DIV>
+
+<DIV align="center">
+<TABLE cellspacing="0" border="0" cellpadding="0" width="100%" style="font-size: 12pt">
+<TR style="font-size: 6pt">
+    <TD width="7%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="88%">&nbsp;</TD>
+</TR>
+<TR valign="top">
+    <TD align="center"><FONT face="Wingdings">&#111;</FONT></TD>
+    <TD>&nbsp;</TD>
+    <TD><B>TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF
+1934 FOR THE TRANSITION PERIOD FROM &#091;<U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U>&#093; TO &#091;<U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U>&#093;</B></TD>
+</TR>
+</TABLE>
+</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt"><B>Commission File Number of Issuing Entity: 333-141145-02</B></DIV>
+
+<DIV align="center" style="font-size: 24pt; margin-top: 12pt"><B>Chase Mortgage Finance Trust Series&nbsp;2007-S3<DIV style="width: 90%; border-bottom: 1px solid #000000; font-size: 1px">&nbsp;</DIV></B>
+</DIV>
+
+<DIV align="center" style="font-size: 10pt">(Exact name of issuing entity as specified in its charter)</DIV>
+
+
+<DIV align="center" style="font-size: 24pt; margin-top: 12pt"><B>Chase Mortgage Finance Corporation<DIV style="width: 90%; border-bottom: 1px solid #000000; font-size: 1px">&nbsp;</DIV></B>
+</DIV>
+
+<DIV align="center" style="font-size: 10pt">(Exact name of depositor as specified in its charter)</DIV>
+
+
+<DIV align="center" style="font-size: 24pt; margin-top: 12pt"><B>Chase Home Finance LLC<DIV style="width: 90%; border-bottom: 1px solid #000000; font-size: 1px">&nbsp;</DIV></B>
+</DIV>
+
+<DIV align="center" style="font-size: 10pt">(Exact name of sponsor as specified in its charter)</DIV>
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="47%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="47%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="center" valign="top">Delaware
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">86-1169040</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD align="center" valign="top" style="border-top: 1px solid #000000">&nbsp;
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top">(State of incorporation or organization)
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">(IRS Employer Identification No.)</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="30%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="30%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="30%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="center" valign="top">194 Wood Avenue South, Iselin, NJ
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">08830
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">(732) 452-8000</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD align="center" valign="top" style="border-top: 1px solid #000000">&nbsp;
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top" style="border-top: 1px solid #000000">&nbsp;
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top">(Address of Principal Executive Offices)
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">(Zip Code)
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">(Telephone Number)</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt">SECURITIES REGISTERED PURSUANT TO SECTION 12(b) OF THE ACT: NONE<BR>
+SECURITIES REGISTERED PURSUANT TO SECTION 12(g) OF THE ACT: NONE</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule&nbsp;405 of
+the Securities Act
+</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt">Yes <FONT face="Wingdings">&#111;</FONT> No <FONT face="Wingdings">&#254;</FONT></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Indicate by check mark if the registrant is not required to file reports, pursuant to Sections&nbsp;13
+or 15(d) of the Act
+</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt">Yes <FONT face="Wingdings">&#111;</FONT> No <FONT face="Wingdings">&#254;</FONT></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Indicate by check mark whether the registrant (1)&nbsp;has filed all reports required to be filed by
+Sections&nbsp;13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12&nbsp;months (or for
+such shorter period than the registrant was required to file such reports), and (2)&nbsp;has been
+subject to such filing requirements for the past 90&nbsp;days.
+</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt">Yes <FONT face="Wingdings">&#254;</FONT> No <FONT face="Wingdings">&#111;</FONT></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Indicate by check mark if disclosure of delinquent filers pursuant to Item&nbsp;405 of Regulation&nbsp;S-K is
+not contained herein, and will not be contained, to the best of registrant&#146;s knowledge, in
+definitive proxy or information statements incorporated by reference in Part&nbsp;III of this Form 10-K
+or any amendment to this Form 10-K.
+</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt">Not Applicable.</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer,
+a non-accelerated filer, or a smaller reporting company. See the definitions of &#147;large accelerated filer,&#148; &#147;accelerated filer&#148; and &#147;smaller reporting company&#148; in
+Rule&nbsp;12b-2 of the Exchange Act. (Check one):
+</DIV>
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="23%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="23%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="23%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="23%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="center" valign="top">Large accelerated filer&nbsp;<FONT face="Wingdings">&#111;</FONT>
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">Accelerated filer&nbsp;<FONT face="Wingdings">&#111;</FONT>
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">Non-accelerated filer&nbsp;<FONT face="Wingdings">&#254;</FONT>
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">Smaller reporting company&nbsp;<FONT face="Wingdings">&#111;</FONT></TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top">&nbsp;
+</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="5" align="center" valign="top">(Do not check if a smaller reporting company)</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Indicate by check mark whether the registrant is a shell company (as defined in Rule&nbsp;12b-2 of the
+Act).
+</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt">Yes <FONT face="Wingdings">&#111;</FONT> No <FONT face="Wingdings">&#254;</FONT></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">State the aggregate market value of the voting and non-voting common equity held by non-affiliates
+computed by reference to the price at which the common equity was last sold, or the average bid and
+asked price of such common equity, as of the last business day of the registrant&#146;s most recently completed second fiscal
+quarter.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The registrant has not issued voting or non-voting common equity. The registrant is a trust
+that has issued certificates of beneficial interest in the trust assets.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Indicate the number of shares as of the latest practicable date.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Applicable.
+</DIV>
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt">DOCUMENTS INCORPORATED BY REFERENCE</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;List hereunder the following documents if incorporated by reference and the part of the Form
+10-K (Part&nbsp;I, Part&nbsp;II, etc.) into which the document is incorporated: (1)&nbsp;Any annual report to
+security holders; (2)&nbsp;any proxy information statement; and, (3)&nbsp;Any prospectus filed pursuant to
+Rule 424(b) or (c)&nbsp;under the Securities Act of 1933. The listed documents should be clearly
+described for identification purposes (e.g. annual report to security holders for fiscal year ended
+December&nbsp;24, 1980).
+</DIV>
+
+<DIV style="width: 100%; border-bottom: 1pt solid black; margin-top: 10pt; font-size: 1pt">&nbsp;</DIV>
+<DIV style="width: 100%; border-bottom: 2pt solid black; font-size: 1pt">&nbsp;</DIV>
+
+
+
+
+
+
+
+
+
+<P align="right" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+
+
+
+
+
+<!-- TOC -->
+<A name="toc"><DIV align="CENTER" style="page-break-before:always"><U><B>TABLE OF CONTENTS</B></U></DIV></A>
+
+<P><CENTER>
+<TABLE border="0" width="90%" cellpadding="0" cellspacing="0">
+<TR>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="76%"></TD>
+</TR>
+<TR><TD colspan="9"><A HREF="#000"><U>PART I</U></A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#001">Item&nbsp;1. Business</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#002">Item&nbsp;1A. Risk Factors</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#003">Item&nbsp;1B. Unresolved Staff Comments</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#004">Item&nbsp;2. Properties</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#005">Item&nbsp;3. Legal Proceedings</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#006">Item&nbsp;4. Submission of Matters to a Vote of Security Holders</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#007"><U>PART II</U></A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#008">Item&nbsp;5. Market for Registrant&#146;s Common Equity and Related Stockholders Matters and Issuer Purchases of Equity Securities</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#009">Item&nbsp;6. Selected Financial Data</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#010">Item&nbsp;7. Management&#146;s Discussion and Analysis of Financial Condition and Results of Operations</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#011">Item&nbsp;7A. Quantitative and Qualitative Disclosures About Market Risk</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#012">Item&nbsp;8. Financial Statements and Supplementary Data</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#013">Item&nbsp;9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#014">Item&nbsp;9A(T). Controls and Procedures</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#015">Item&nbsp;9A. Controls and Procedures</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#016">Item&nbsp;9B. Other Information</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#017"><U>PART III</U></A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#018">Item&nbsp;10. Directors and Executive Officers of the Registrant</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#019">Item&nbsp;11. Executive Compensation</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#020">Item&nbsp;12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#021">Item&nbsp;13. Certain Relationships and Related Transactions</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#022">Item&nbsp;14. Principal Accounting Fees and Services</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#023">Item&nbsp;1112(b) of Regulation&nbsp;AB. Significant Obligor Financial Information</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#024">Item&nbsp;1114(b)(2) of Regulation&nbsp;AB. Significant Enhancement Provider Financial Information</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#025">Item 1115(b) of Regulation AB. Certain Derivatives Instruments (Financial Information)</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#026">Item&nbsp;1117 of Regulation&nbsp;AB. Legal Proceedings</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#027">Item&nbsp;1119 of Regulation&nbsp;AB. Affiliations and Certain Relationships and Related Transactions</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#028">Item&nbsp;1122 of Regulation&nbsp;AB. Compliance with applicable Servicing Criteria</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#029">Item&nbsp;1123 of Regulation&nbsp;AB. Servicer Compliance Statement</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#030"><U>PART IV</U></A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#031">Item&nbsp;15. Exhibits and Financial Statement Schedules</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#032"><U>SIGNATURES</U></A></TD></TR>
+<TR><TD colspan="9"><A HREF="#033"><U>INDEX TO EXHIBITS</U></A></TD></TR>
+<TR><TD colspan="9"><A HREF="w51583exv31.htm">Sarbanes-Oxley Certification of Chase Mortgage Finance Corporation</A></TD></TR>
+<TR><TD colspan="9"><A HREF="w51583exv33w1.htm">JPMorgan Chase Bank, National Association's Report on Assessment of Compliance (Servicer)</A></TD></TR>
+<TR><TD colspan="9"><A HREF="w51583exv33w2.htm">Chase Home Finance LLC's Report on Assessment of Compliance (Subservicer)</A></TD></TR>
+<TR><TD colspan="9"><A HREF="w51583exv33w3.htm">The Bank of New York Trust Company, N.A.'s Report on Assessment of Compliance (Paying Agent)</A></TD></TR>
+<TR><TD colspan="9"><A HREF="w51583exv34w1.htm">Report of Independent Registered Public Accounting Firm (Servicer)</A></TD></TR>
+<TR><TD colspan="9"><A HREF="w51583exv34w2.htm">Report of Independent Registered Public Accounting Firm (Subservicer)</A></TD></TR>
+<TR><TD colspan="9"><A HREF="w51583exv34w3.htm">Report of Independent Registered Public Accounting Firm (Paying Agent)</A></TD></TR>
+<TR><TD colspan="9"><A HREF="w51583exv35w1.htm">Item 1123 Compliance Statement of JPMorgan Chase Bank, National Association</A></TD></TR>
+<TR><TD colspan="9"><A HREF="w51583exv35w2.htm">Item 1123 Compliance Statement of Chase Home Finance LLC</A></TD></TR>
+</TABLE>
+</CENTER>
+<!-- /TOC -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+
+
+
+<!-- link1 "<U>PART I</U>" -->
+<DIV align="left"><A NAME="000"></A></DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 6pt"><U><B>PART I</B></U>
+</DIV>
+
+<!-- link2 "Item&nbsp;1. Business" -->
+<DIV align="left"><A NAME="001"></A></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Item&nbsp;1. &nbsp;&nbsp;&nbsp;Business</B>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Omitted.</DIV>
+
+<!-- link2 "Item&nbsp;1A. Risk Factors" -->
+<DIV align="left"><A NAME="002"></A></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt"><B>Item&nbsp;1A. Risk Factors</B>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Omitted.
+</DIV>
+
+
+<!-- link2 "Item&nbsp;1B. Unresolved Staff Comments" -->
+<DIV align="left"><A NAME="003"></A></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt"><B>Item&nbsp;1B. Unresolved Staff Comments</B>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;None.
+</DIV>
+<!-- link2 "Item&nbsp;2. Properties" -->
+<DIV align="left"><A NAME="004"></A></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt"><B>Item&nbsp;2. &nbsp;&nbsp;&nbsp;Properties</B>
+
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Omitted.</DIV>
+
+<!-- link2 "Item&nbsp;3. Legal Proceedings" -->
+<DIV align="left"><A NAME="005"></A></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt"><B>Item&nbsp;3. &nbsp;&nbsp;&nbsp;Legal Proceedings</B>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Omitted.
+</DIV>
+
+<!-- link2 "Item&nbsp;4. Submission of Matters to a Vote of Security Holders" -->
+<DIV align="left"><A NAME="006"></A></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt"><B>Item&nbsp;4. &nbsp;&nbsp;&nbsp;Submission of Matters to a Vote of Security Holders</B>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Omitted.</DIV>
+
+
+<!-- link1 "<U>PART II</U>" -->
+<DIV align="left"><A NAME="007"></A></DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 6pt"><U><B>PART II</B></U>
+</DIV>
+
+<!-- link2 "Item&nbsp;5. Market for Registrant&#146;s Common Equity and Related Stockholders Matters and Issuer Purchases of Equity Securities" -->
+<DIV align="left"><A NAME="008"></A></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Item&nbsp;5. &nbsp;&nbsp;&nbsp;Market for Registrant&#146;s Common Equity and Related Stockholders Matters and Issuer
+Purchases of Equity Securities</B>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Omitted.
+</DIV>
+
+<!-- link2 "Item&nbsp;6. Selected Financial Data" -->
+<DIV align="left"><A NAME="009"></A></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt"><B>Item&nbsp;6. &nbsp;&nbsp;&nbsp;Selected Financial Data</B>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Omitted.
+</DIV>
+
+<!-- link2 "Item&nbsp;7. Management&#146;s Discussion and Analysis of Financial Condition and Results of Operations" -->
+<DIV align="left"><A NAME="010"></A></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt"><B>Item&nbsp;7. &nbsp;&nbsp;&nbsp;Management&#146;s Discussion and Analysis of Financial Condition and Results of Operations</B>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Omitted.
+</DIV>
+
+<!-- link2 "Item&nbsp;7A. Quantitative and Qualitative Disclosures About Market Risk" -->
+<DIV align="left"><A NAME="011"></A></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt"><B>Item&nbsp;7A. Quantitative and Qualitative Disclosures About Market Risk</B>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Omitted.
+</DIV>
+
+<!-- link2 "Item&nbsp;8. Financial Statements and Supplementary Data" -->
+<DIV align="left"><A NAME="012"></A></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt"><B>Item&nbsp;8. &nbsp;&nbsp;&nbsp;Financial Statements and Supplementary Data</B>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Omitted.
+</DIV>
+
+<!-- link2 "Item&nbsp;9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure" -->
+<DIV align="left"><A NAME="013"></A></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt"><B>Item&nbsp;9. &nbsp;&nbsp;&nbsp;Changes in and Disagreements with Accountants on Accounting and Financial Disclosure</B>
+</DIV>
+<!-- link2 "Item&nbsp;9A(T). Controls and Procedures" -->
+<DIV align="left"><A NAME="014"></A></DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Omitted.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt"><B>Item&nbsp;9A(T). Controls and Procedures</B>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Omitted.
+</DIV>
+
+
+<!-- link2 "Item&nbsp;9A. Controls and Procedures" -->
+<DIV align="left"><A NAME="015"></A></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt"><B>Item&nbsp;9A. Controls and Procedures</B>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Omitted.
+</DIV>
+
+<!-- link2 "Item&nbsp;9B. Other Information" -->
+<DIV align="left"><A NAME="016"></A></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt"><B>Item&nbsp;9B. Other Information</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;None.
+</DIV>
+
+<P align="right" style="font-size: 10pt"><!-- Folio -->2<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+</DIV>
+
+<!-- link1 "<U>PART III</U>" -->
+<DIV align="left"><A NAME="017"></A></DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 6pt"><U><B>PART III</B></U>
+</DIV>
+
+<!-- link2 "Item&nbsp;10. Directors and Executive Officers of the Registrant" -->
+<DIV align="left"><A NAME="018"></A></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Item&nbsp;10. &nbsp;&nbsp;Directors and Executive Officers of the Registrant</B>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Omitted.
+</DIV>
+
+<!-- link2 "Item&nbsp;11. Executive Compensation" -->
+<DIV align="left"><A NAME="019"></A></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt"><B>Item&nbsp;11. &nbsp;&nbsp;Executive Compensation</B>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Omitted.
+</DIV>
+
+<!-- link2 "Item&nbsp;12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters" -->
+<DIV align="left"><A NAME="020"></A></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt"><B>Item&nbsp;12. &nbsp;&nbsp;Security Ownership of Certain Beneficial Owners and Management and Related
+Stockholder Matters</B>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Omitted.
+</DIV>
+
+<!-- link2 "Item&nbsp;13. Certain Relationships and Related Transactions" -->
+<DIV align="left"><A NAME="021"></A></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt"><B>Item&nbsp;13. &nbsp;&nbsp;Certain Relationships and Related Transactions</B>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Omitted.
+</DIV>
+
+<!-- link2 "Item&nbsp;14. Principal Accounting Fees and Services" -->
+<DIV align="left"><A NAME="022"></A></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt"><B>Item&nbsp;14. &nbsp;&nbsp;Principal Accounting Fees and Services</B>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Omitted.
+</DIV>
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><U><B>THE FOLLOWING ITEMS HAVE BEEN SUBSTITUTED IN ACCORDANCE WITH<BR>
+GENERAL INSTRUCTION J(2) TO FORM 10-K AND PURSUANT TO REGULATION AB.</B></U>
+</DIV>
+
+<!-- link2 "Item&nbsp;1112(b) of Regulation&nbsp;AB. Significant Obligor Financial Information" -->
+<DIV align="left"><A NAME="023"></A></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Item&nbsp;1112(b)
+of Regulation&nbsp;AB. Significant Obligor Financial Information</B>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">No single
+obligor represents 10% or more of the pool of assets held by the
+Issuing Entity.
+</DIV>
+
+<!-- link2 "Item&nbsp;1114(b)(2) of Regulation&nbsp;AB. Significant Enhancement Provider Financial Information" -->
+<DIV align="left"><A NAME="024"></A></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Item&nbsp;1114(b)(2) of Regulation&nbsp;AB. Significant Enhancement Provider Financial
+Information</B>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">No entity
+or group of affiliated entities provides any external credit
+enhancement or other support for the certificates within this
+transaction as described under item 1114(a) of Regulation AB.
+
+</DIV>
+
+<!-- link2 "Item 1115(b) of Regulation AB. Certain Derivatives Instruments (Financial Information)" -->
+<DIV align="left"><A NAME="025"></A></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Item
+1115(b) of Regulation AB. Certain Derivatives Instruments (Financial
+Information)</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">The
+significance percentages of the derivative transactions entered into
+on behalf of the Issuing Entity are less than 10%.
+</DIV>
+
+<!-- link2 "Item&nbsp;1117 of Regulation&nbsp;AB. Legal Proceedings" -->
+<DIV align="left"><A NAME="026"></A></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Item&nbsp;1117 of Regulation&nbsp;AB. Legal Proceedings</B>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">There are no legal proceedings pending, or any proceedings known to be contemplated by governmental
+authorities, against the issuing entity, the depositor, the servicer, the trustee, the paying
+agent, the custodian or any property thereof that is material to the Holders of any Class.
+</DIV>
+
+<!-- link2 "Item&nbsp;1119 of Regulation&nbsp;AB. Affiliations and Certain Relationships and Related Transactions" -->
+<DIV align="left"><A NAME="027"></A></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Item&nbsp;1119 of Regulation&nbsp;AB. Affiliations and Certain Relationships and Related Transactions</B>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">JPMorgan Chase Bank, National Association, Chase Home Finance LLC and Chase Mortgage Finance
+Corporation are all affiliated. JPMorgan Chase Bank, National Association, a national banking
+association, is a wholly-owned bank subsidiary of JPMorgan Chase &#038; Co., a Delaware corporation
+whose principal office is located in New York, New York. Prior to January&nbsp;1, 2005, JPMorgan Chase
+Bank, National Association formed Chase Home Finance LLC, a wholly-owned, Delaware limited
+liability company. JPMorgan Chase Bank, National Association has</DIV>
+<P align="right" style="font-size: 10pt"><!-- Folio -->3<!-- /Folio -->
+
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">engaged Chase Home Finance LLC as its subservicer to perform loan servicing activities on its
+behalf. Chase Home Finance LLC acquired the mortgage loans after the origination by or for
+JPMorgan Chase Bank, National Association or its affiliates. There are no relationships, agreements
+or arrangements outside of this transaction among the affiliated parties that are material to an
+understanding of the certificates.
+</DIV>
+
+<!-- link2 "Item&nbsp;1122 of Regulation&nbsp;AB. Compliance with applicable Servicing Criteria" -->
+<DIV align="left"><A NAME="028"></A></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Item&nbsp;1122 of Regulation&nbsp;AB. Compliance with applicable Servicing Criteria</B>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">See Item&nbsp;15, Exhibits 33 and 34.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">The servicing criterion prescribed under Item&nbsp;1122(d)(1)(iii) is not covered in any of the
+assessment or attestation reports because there is no requirement in the transaction agreements to
+maintain a back-up servicer for the pool assets.
+</DIV>
+<!-- link2 "Item&nbsp;1123 of Regulation&nbsp;AB. Servicer Compliance Statement" -->
+<DIV align="left"><A NAME="029"></A></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Item&nbsp;1123 of Regulation&nbsp;AB. Servicer Compliance Statement</B>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">See Item&nbsp;15, Exhibit&nbsp;35.
+</DIV>
+
+<!-- link1 "<U>PART IV</U>" -->
+<DIV align="left"><A NAME="030"></A></DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><U><B>PART IV</B></U>
+</DIV>
+
+<!-- link2 "Item&nbsp;15. Exhibits and Financial Statement Schedules" -->
+<DIV align="left"><A NAME="031"></A></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Item&nbsp;15. Exhibits and Financial Statement Schedules</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(a)&nbsp;The following is a list of documents filed as part of this Annual Report on Form
+10- K.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(1)&nbsp;Not applicable.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2)&nbsp;Not applicable.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(3)
+</DIV>
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="7%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="91%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="left" style="border-bottom: 1px solid #000000">Exhibit No.</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left" style="border-bottom: 1px solid #000000">Description</TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">4.1
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Pooling and Servicing Agreement (filed as an exhibit to Form&nbsp;8-K
+on May &nbsp;10, 2007)</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">10.1
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Mortgage Loan Sale Agreement (Chase Home Finance LLC) (filed as
+an exhibit to Form&nbsp;8-K on May&nbsp;10, 2007)</TD>
+</TR>
+
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+
+<TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">10.2
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Trust Agreement (filed as an exhibit to Form&nbsp;8-K on May 10, 2007).</TD>
+</TR>
+
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">31
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Sarbanes-Oxley Certification of Chase Mortgage Finance Corporation.</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">33.1
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">JPMorgan Chase Bank, National Association&#146;s (&#147;JPMorgan&#148;) Report
+on Assessment of Compliance with Servicing Criteria (Servicer)</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">33.2
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Chase Home Finance LLC&#146;s (&#147;CHF&#148;) Report on Assessment of
+Compliance with Servicing Criteria (Subservicer)</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<P align="right" style="font-size: 10pt"><!-- Folio -->4<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="7%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="91%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="left" style="border-bottom: 1px solid #000000">Exhibit No.</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left" style="border-bottom: 1px solid #000000">Description</TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">33.3
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">The Bank of New York Trust Company,
+N.A.&#146;s
+(&#147;BNY&#148;) Report on Assessment of Compliance with Servicing
+Criteria (Paying Agent)</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">34.1
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Report of Independent Registered Public Accounting Firm
+(PriceWaterhouseCoopers LLP) (JPMorgan as Servicer)</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">34.2
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Report of Independent Registered Public Accounting Firm
+(PriceWaterhouseCoopers LLP) (CHF as Subservicer)</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">34.3
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Report of Independent Registered Public Accounting Firm (Ernst &#038;
+Young) (BNY as Paying Agent)</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">35.1
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Servicer Compliance Statement of
+JPMorgan Chase Bank, National Association</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">35.2
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Subservicer Compliance Statement of Chase Home Finance LLC</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(b)&nbsp;The exhibits required to be filed pursuant to Item&nbsp;601 of Regulation&nbsp;S-K.
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left">31</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Rule&nbsp;13a-14(d)/15d-14(d) Certifications</TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left">33</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Reports on assessment of compliance with servicing criteria for asset-backed securities:</TD>
+</TR>
+
+</TABLE>
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>JPMorgan Chase Bank, National Association, as Servicer</TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Chase Home Finance LLC, as Subservicer</TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>The Bank of New York Trust Company, N.A. as Paying Agent</TD>
+</TR>
+
+</TABLE>
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left">34</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Attestation reports on assessment of compliance with servicing criteria for asset-backed
+securities:</TD>
+</TR>
+
+</TABLE>
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>JPMorgan Chase Bank, National Association, as Servicer</TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Chase Home Finance LLC, as Subservicer</TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>The Bank of New York Trust Company, N.A. as Paying Agent</TD>
+</TR>
+
+</TABLE>
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left">35</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Servicer Compliance Statements</TD>
+</TR>
+
+</TABLE>
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>JPMorgan Chase Bank, National Association, as Servicer</TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Chase Home Finance LLC, as Subservicer</TD>
+</TR>
+
+</TABLE>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(c)&nbsp;Not Applicable.
+</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt">SUPPLEMENTAL INFORMATION TO BE FURNISHED WITH REPORTS FILED PURSUANT TO SECTION 15(d) OF THE ACT BY<BR>
+REGISTRANTS WHICH HAVE NOT REGISTERED SECURITIES PURSUANT TO SECTION 12 OF THE ACT.
+</DIV>
+
+
+<P align="right" style="font-size: 10pt"><!-- Folio -->5<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">No annual report, proxy statement, form of proxy or other proxy soliciting material has been sent
+to Certificateholders during the period covered by this Annual Report on Form 10-K and the
+registrant does not intend to furnish such materials to Certificateholders subsequent to the filing
+of this report.
+</DIV>
+
+
+<P align="right" style="font-size: 10pt"><!-- Folio -->6<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+<!-- link1 "<U>SIGNATURES</U>" -->
+<DIV align="left"><A NAME="032"></A></DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><U><B>SIGNATURES</B></U>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Pursuant to the requirements of Section&nbsp;13 or 15(d) of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto
+duly authorized.
+</DIV>
+
+
+<TABLE width="100%" border="0" cellspacing="0" cellpadding="0" style="font-size: 10pt">
+<TR>
+    <TD width="48%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="35%">&nbsp;</TD>
+    <TD width="15%">&nbsp;</TD>
+</TR>
+<TR>
+    <TD valign="top" align="left">&nbsp;</TD>
+    <TD colspan="3" align="left">CHASE MORTGAGE FINANCE CORPORATION,<BR>
+as depositor<BR>
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD valign="top">By:&nbsp;&nbsp;</TD>
+    <TD colspan="2" style="border-bottom: 1px solid #000000" align="left">/s/ Jerome A. Cipponeri
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top">Name:&nbsp;&nbsp;</TD>
+    <TD align="left">Jerome A. Cipponeri&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top">Title:&nbsp;&nbsp;</TD>
+    <TD nowrap align="left">President and CEO<br>
+(senior officer in charge of securitization of the depositor)&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+</TABLE>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Date:
+March&nbsp;26, 2008
+</DIV>
+
+
+<P align="right" style="font-size: 10pt"><!-- Folio -->7<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+<!-- link1 "<U>INDEX TO EXHIBITS</U>" -->
+<DIV align="left"><A NAME="033"></A></DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><U>INDEX TO EXHIBITS</U>
+</DIV>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="7%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="91%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="left" style="border-bottom: 1px solid #000000">Exhibit Number</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left" style="border-bottom: 1px solid #000000">Description</TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">4.1
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Pooling and Servicing Agreement (filed as an exhibit to Form&nbsp;8-K
+on May &nbsp;10, 2007)</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">10.1
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Mortgage Loan Sale Agreement (Chase Home Finance LLC) (filed as
+an exhibit to Form&nbsp;8-K on May&nbsp;10, 2007)</TD>
+</TR>
+
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+
+<TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">10.2
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Trust Agreement (filed as an exhibit to Form&nbsp;8-K on May 10, 2007)</TD>
+</TR>
+
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">31
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Sarbanes-Oxley Certification of Chase Mortgage Finance Corporation</TD>
+</TR>
+
+
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">33.1
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">JPMorgan Chase Bank, National Association&#146;s (&#147;JPMorgan&#148;) Report
+on Assessment of Compliance with Servicing Criteria (Servicer)</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">33.2
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Chase Home Finance LLC&#146;s (&#147;CHF&#148;) Report on Assessment of
+Compliance with Servicing Criteria (Subservicer)</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">33.3
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">The Bank of New York Trust Company,
+N.A.&#146;s
+(&#147;BNY&#148;) Report on Assessment of Compliance with Servicing
+Criteria (Paying Agent)</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">34.1
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Report of Independent Registered Public Accounting Firm
+(PriceWaterhouseCoopers LLP) (JPMorgan as Servicer)</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">34.2
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Report of Independent Registered Public Accounting Firm
+(PriceWaterhouseCoopers LLP) (CHF as Subservicer)</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">34.3
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Report of Independent Registered Public Accounting Firm (Ernst &#038;
+Young) (BNY as Paying Agent)</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">35.1
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Item&nbsp;1123 Compliance Statement of JPMorgan Chase Bank, National
+Association</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">35.2
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Item&nbsp;1123 Compliance Statement of Chase Home Finance LLC</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<P align="right" style="font-size: 10pt"><!-- Folio -->8<!-- /Folio -->
+</DIV>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>

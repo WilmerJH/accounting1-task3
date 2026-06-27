@@ -1,0 +1,1897 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>k92228e10vk.htm
+<DESCRIPTION>ANNUAL REPORT FOR FISCAL YEAR ENDED 12/31/04
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>e10vk</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+<DIV style="font-family: Helvetica,Arial,sans-serif">
+
+
+
+<DIV style="width: 100%; border-bottom: 2pt solid black; font-size: 1pt">&nbsp;</DIV>
+<DIV style="width: 100%; border-bottom: 1pt solid black; font-size: 1pt">&nbsp;</DIV>
+
+
+
+
+
+
+<P align="center" style="font-size: 14pt"><B>SECURITIES AND EXCHANGE COMMISSION</B>
+
+<DIV align="center" style="font-size: 12pt"><B>Washington, D.C. 20549</B>
+</DIV>
+
+<P align="center" style="font-size: 18pt"><B>Form&nbsp;10-K</B>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="3%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="95%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom" STYLE="font-size:12pt">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px"><FONT face="Wingdings">&#254;</FONT>
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top"><B>ANNUAL REPORT PURSUANT TO
+SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934.</B></TD>
+</TR>
+<TR valign="bottom">
+    <TD width="3%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="95%">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">For the fiscal year ended <U> December&nbsp;31, 2004 </U></TD>
+</TR>
+<TR valign="bottom">
+    <TD width="3%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="95%">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><B>OR </B></TD>
+</TR>
+<TR valign="bottom">
+    <TD width="3%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="95%">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom"  style="font-size:12pt">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px"><FONT face="Wingdings">&#111;</FONT>
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top"><b>TRANSITION REPORT
+PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF
+1934.</b></TD>
+</TR>
+<TR valign="bottom">
+    <TD width="3%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="95%">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">For the transition period from &#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;to</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<P align="left" style="font-size: 10pt">Commission file number: <U>333-75942-08</U>
+
+
+
+<P align="center" style="font-size: 18pt"><B>DAIMLERCHRYSLER AUTO
+TRUST 2004-B</B><BR>
+<HR size="1" noshade width="100%" align="center" color="#000000">
+
+
+<DIV align="center" style="font-size: 10pt">(Exact name of registrant as specified in its charter)</DIV>
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="47%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="47%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="center" valign="top">State of Delaware
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">74-6523269</TD>
+</TR>
+<TR valign="bottom">
+    <TD colspan="3" valign="top" align="left"><HR size="1" noshade width="100%" align="center" color="#000000"></TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top">(State or other jurisdiction of<BR>
+incorporation or organization)
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">(I.R.S. Employer<BR>
+Identification No.)</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top">1011 Centre Road, Suite&nbsp;200, Wilmington, Delaware
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">19805</TD>
+</TR>
+<TR valign="bottom">
+    <TD colspan="3" valign="top" align="left"><HR size="1" noshade width="100%" align="center" color="#000000"></TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top">(Address of principal executive offices)
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">(Zip Code)</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<P align="left" style="font-size: 10pt">Registrant&#146;s telephone number, including area code <U> (248)&nbsp;427-2565 </U>
+
+
+
+<P align="left" style="font-size: 10pt">Securities registered pursuant to Section&nbsp;12(b) of the Act: None<BR>
+Securities registered pursuant to Section&nbsp;12(g) of the Act: None
+
+
+
+<P align="left" style="font-size: 10pt">Indicate by check mark whether the registrant (1)&nbsp;has filed all reports required to be filed by
+Section&nbsp;13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12&nbsp;months (or for
+such shorter period that the registrant was required to file such reports), and (2)&nbsp;has been
+subject to such filing requirements for the past 90&nbsp;days. Yes <FONT face="Wingdings">&#254;</FONT> No <FONT face="Wingdings">&#111;</FONT>
+
+
+
+<P align="left" style="font-size: 10pt">Indicate by check mark if disclosure of delinquent filers pursuant to Item&nbsp;405 of Regulation&nbsp;S-K is
+not contained herein, and will not be contained, to the best of registrant&#146;s knowledge, in
+definitive proxy or information statements incorporated by reference in Part III of this Form&nbsp;10-K
+or any amendment to this Form&nbsp;10-K. <FONT face="Wingdings">&#111;</FONT>
+
+
+
+<P align="left" style="font-size: 10pt">Indicate by check mark whether the registrant is an accelerated filer (as defined in Rule&nbsp;12b-2 of
+the Act). Yes <FONT face="Wingdings">&#111;</FONT> No <FONT face="Wingdings">&#254;</FONT>
+
+
+
+<P align="left" style="font-size: 10pt">State the aggregate market value of the voting and non-voting common equity held by non-affiliates
+computed by reference to the price at which the common equity was last sold, or the average bid and
+asked price of such common equity, as of the last business day of the registrant&#146;s most recently
+completed second fiscal quarter. <U>None</U>
+
+
+
+<DIV style="width: 100%; border-bottom: 1pt solid black; margin-top: 10pt; font-size: 1pt">&nbsp;</DIV>
+<DIV style="width: 100%; border-bottom: 2pt solid black; font-size: 1pt">&nbsp;</DIV>
+
+
+
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+
+<DIV style="font-family: Helvetica,Arial,sans-serif">
+
+<!-- TOC -->
+<A name="toc"><DIV align="CENTER" style="page-break-before:always"><U><B>TABLE OF CONTENTS</B></U></DIV></A>
+
+<P><CENTER>
+<TABLE border="0" width="90%" cellpadding="0" cellspacing="0">
+<TR>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="76%"></TD>
+</TR>
+<TR><TD colspan="9"><A HREF="#000">PART I</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#001">ITEM 1. BUSINESS</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#002">ITEM 2. PROPERTIES</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#003">ITEM 3. LEGAL PROCEEDINGS</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#004">ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#005">PART II</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#006">ITEM 5. MARKET FOR REGISTRANT&#146;S COMMON EQUITY AND RELATED STOCKHOLDER MATTERS</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#007">ITEM 6. SELECTED FINANCIAL DATA</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#008">ITEM 7. MANAGEMENT&#146;S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATION</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#009">ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#010">ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#011">Report of Independent Registered Public Accounting Firm</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#012">ITEM 9.CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#013">ITEM 9A. CONTROLS AND PROCEDURES</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#014">ITEM 9B. OTHER INFORMATION</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#015">PART III</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#016">ITEM 10. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#017">ITEM 11. EXECUTIVE COMPENSATION</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#018">ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#019">ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#020">ITEM 14. PRINCIPAL ACCOUNTANT FEES AND SERVICES</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#021">PART IV</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#022">ITEM 15. EXHIBITS AND FINANCIAL STATEMENT SCHEDULES</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#023">SIGNATURES</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#024">EXHIBIT INDEX</A></TD></TR>
+<TR><TD colspan="9"><A HREF="k92228exv31.htm">Certification Pursuant to Section 302</A></TD></TR>
+<TR><TD colspan="9"><A HREF="k92228exv32.htm">Certification Pursuant to Section 906</A></TD></TR>
+<TR><TD colspan="9"><A HREF="k92228exv99w1.htm">Annual Servicer's Certificate and Independent Accountants' Report</A></TD></TR>
+<TR><TD colspan="9"><A HREF="k92228exv99w2.htm">DaimlerChrysler Auto Trust 2004-B Annual Issuer's Certificate</A></TD></TR>
+</TABLE>
+</CENTER>
+<!-- /TOC -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+
+
+
+<!-- link1 "PART I" -->
+<DIV align="left"><A NAME="000"></A></DIV>
+
+<P align="center" style="font-size: 10pt"><U>PART I.</U>
+
+
+<!-- link2 "ITEM 1. BUSINESS" -->
+<DIV align="left"><A NAME="001"></A></DIV>
+
+<P align="left" style="font-size: 10pt"><U>ITEM 1.</U> <U>BUSINESS</U>
+
+
+
+<P align="left" style="font-size: 10pt">DaimlerChrysler Auto Trust 2004-B (the &#147;Trust&#148;) was formed under the laws of Delaware pursuant to
+an Amended and Restated Trust Agreement dated as of July&nbsp;1, 2004, among DaimlerChrysler Retail
+Receivables LLC (&#147;DCRR&#148;), DaimlerChrysler Services North America LLC (&#147;DCS&#148; and &#147;Servicer&#148;), and
+Deutsche Bank Trust Company Delaware, acting thereunder not in its individual capacity but solely
+as trustee of the Trust.
+
+
+
+<P align="left" style="font-size: 10pt">On July&nbsp;30, 2004, the Trust issued $380,000,000 aggregate principal amount of 1.72% Asset Backed
+Notes, Class&nbsp;A-1 (the &#147;Class&nbsp;A-1 Notes&#148;), $375,000,000 aggregate principal amount of 2.48% Asset
+Backed Notes, Class&nbsp;A-2 (the &#147;Class&nbsp;A-2 Notes&#148;), $480,000,000 aggregate principal amount of 3.18%
+Asset Backed Notes, Class&nbsp;A-3 (the &#147;Class&nbsp;A-3 Notes&#148;), and $220,000,000 aggregate principal amount
+of 3.71% Asset Backed Notes, Class&nbsp;A-4 (the &#147;Class&nbsp;A-4 Notes&#148; and together with the Class&nbsp;A-1
+Notes, the Class&nbsp;A-2 Notes and the Class&nbsp;A-3 Notes, the &#147;Class&nbsp;A Notes&#148;), and $45,000,000 aggregate
+principal amount of 3.89% Class&nbsp;B Notes (the &#147;Class&nbsp;B Notes&#148; and, together with the Class&nbsp;A Notes,
+the &#147;Notes&#148;). The Notes were issued pursuant to an Indenture dated as of July&nbsp;1, 2004, between the
+Trust and JPMorgan Chase Bank, (the &#147;Indenture Trustee&#148;). The assets of the Trust include a pool
+of motor vehicle retail installment sale contracts (&#147;Receivables&#148;), secured by security interests
+in the motor vehicles financed thereby and including certain monies due or received thereunder on
+or after July&nbsp;14, 2004, transferred to the Trust by DCS on July&nbsp;30, 2004. The Notes are secured by
+the assets of the Trust pursuant to the Indenture. The Class&nbsp;A-1 Notes were not offered publicly.
+
+
+
+<P align="left" style="font-size: 10pt">The Trust has no employees.
+
+
+
+<P align="left" style="font-size: 10pt">The Securities and Exchange Commission maintains an Internet site that contains reports, proxy and
+information statements, and other information regarding issuers that file electronically with the
+SEC. The address of the SEC Internet site is <U>http://www.sec.gov</U>.
+
+
+
+<P align="left" style="font-size: 10pt">The Internet address for obtaining free of charge the Trust&#146;s annual report on Form&nbsp;10-K and
+current reports on Form&nbsp;8-K and amendments (if any) filed or furnished pursuant to Section&nbsp;13(a)
+and 15(d) of the Exchange Act as soon as reasonably practicable after such material is
+electronically filed with the SEC is <U>http://investor.chryslerfinancial.com</U>.
+
+
+<!-- link2 "ITEM 2. PROPERTIES" -->
+<DIV align="left"><A NAME="002"></A></DIV>
+
+<P align="left" style="font-size: 10pt"><U>ITEM 2.</U> <U>PROPERTIES</U>
+
+
+
+<P align="left" style="font-size: 10pt">There is nothing to report with regard to this item.
+
+
+<!-- link2 "ITEM 3. LEGAL PROCEEDINGS" -->
+<DIV align="left"><A NAME="003"></A></DIV>
+
+<P align="left" style="font-size: 10pt"><U>ITEM 3.</U> <U>LEGAL PROCEEDINGS</U>
+<P align="left" style="font-size: 10pt">There is nothing to report with regard to this item.
+
+
+
+<P align="center" style="font-size: 10pt">2
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: Helvetica,Arial,sans-serif">
+
+
+
+<!-- link2 "ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS" -->
+<DIV align="left"><A NAME="004"></A></DIV>
+
+<P align="left" style="font-size: 10pt"><U>ITEM 4.</U> <U>SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS</U>
+
+
+
+<P align="left" style="font-size: 10pt">There is nothing to report with regard to this item.
+
+
+<!-- link1 "PART II" -->
+<DIV align="left"><A NAME="005"></A></DIV>
+
+<P align="center" style="font-size: 10pt"><U>PART II.</U>
+
+
+<!-- link2 "ITEM 5. MARKET FOR REGISTRANT&#146;S COMMON EQUITY AND RELATED STOCKHOLDER MATTERS" -->
+<DIV align="left"><A NAME="006"></A></DIV>
+
+<P align="left" style="font-size: 10pt"><U>ITEM 5.</U> <U>MARKET FOR REGISTRANT&#146;S COMMON EQUITY AND RELATED STOCKHOLDER MATTERS</U>
+
+
+
+<P align="left" style="font-size: 10pt">There is nothing to report with regard to this item.
+
+
+<!-- link2 "ITEM 6. SELECTED FINANCIAL DATA" -->
+<DIV align="left"><A NAME="007"></A></DIV>
+
+<P align="left" style="font-size: 10pt"><U>ITEM 6.</U> <U>SELECTED FINANCIAL DATA</U>
+
+
+
+<P align="left" style="font-size: 10pt">The selected financial data has been omitted since the required information is included in the
+financial statements or notes thereto.
+
+
+<!-- link2 "ITEM 7. MANAGEMENT&#146;S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATION" -->
+<DIV align="left"><A NAME="008"></A></DIV>
+
+<P align="left" style="font-size: 10pt"><U>ITEM 7.</U> <U>MANAGEMENT&#146;S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF
+OPERATION</U>
+
+
+
+<P align="left" style="font-size: 10pt">The Trust was formed under the laws of Delaware pursuant to an Amended and Restated Trust Agreement
+dated as of July&nbsp;1, 2004, among DCRR, DCS, and Deutsche Bank Trust Company Delaware, acting
+thereunder not in its individual capacity but solely as trustee of the Trust.
+
+
+
+<P align="left" style="font-size: 10pt">On July&nbsp;30, 2004, the Trust issued $380,000,000 aggregate principal amount of 1.72% Asset Backed
+Notes, Class&nbsp;A-1 (the &#147;Class&nbsp;A-1 Notes&#148;), $375,000,000 aggregate principal amount of 2.48% Asset
+Backed Notes, Class&nbsp;A-2 (the &#147;Class&nbsp;A-2 Notes&#148;), $480,000,000 aggregate principal amount of 3.18%
+Asset Backed Notes, Class&nbsp;A-3 (the &#147;Class&nbsp;A-3 Notes&#148;), and $220,000,000 aggregate principal amount
+of 3.71% Asset Backed Notes, Class&nbsp;A-4 (the &#147;Class&nbsp;A-4 Notes&#148; and together with the Class&nbsp;A-1
+Notes, the Class&nbsp;A-2 Notes and the Class&nbsp;A-3 Notes, the &#147;Class&nbsp;A Notes&#148;), and $45,000,000 aggregate
+principal amount of 3.89% Class&nbsp;B Notes (the &#147;Class&nbsp;B Notes&#148; and, together with the Class&nbsp;A Notes,
+the &#147;Notes&#148;). The Notes were issued pursuant to an Indenture dated as of July&nbsp;1, 2004, between the
+Trust and JPMorgan Chase Bank, (the &#147;Indenture Trustee&#148;). The assets of the Trust include a pool
+of motor vehicle retail installment sale contracts (&#147;Receivables&#148;), secured by security interests
+in the motor vehicles financed thereby and including certain monies due or received thereunder on
+or after July&nbsp;14, 2004, transferred to the Trust by DCS on July&nbsp;30, 2004. The Notes are secured by
+the assets of the Trust pursuant to the Indenture. The Class&nbsp;A-1 Notes were not offered publicly.
+
+
+
+<P align="left" style="font-size: 10pt">DCS services the Receivables in the Trust for an annual fee of 1% of the outstanding receivables
+balance.
+
+
+
+
+
+<!-- link2 "ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK" -->
+<DIV align="left"><A NAME="009"></A></DIV>
+
+<P align="left" style="font-size: 10pt"><U>ITEM 7A.</U> <U>QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK</U>
+
+
+
+<P align="left" style="font-size: 10pt">There is nothing to report with regard to this item.
+
+
+
+<P align="center" style="font-size: 10pt">3
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: Helvetica,Arial,sans-serif">
+
+
+
+<!-- link2 "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA" -->
+<DIV align="left"><A NAME="010"></A></DIV>
+
+<P align="left" style="font-size: 10pt"><U>ITEM 8.</U> <U>FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA</U>
+
+
+
+<P align="center" style="font-size: 10pt">DAIMLERCHRYSLER AUTO TRUST 2004-B<BR>
+STATEMENT OF ASSETS, LIABILITIES AND EQUITY<BR>
+ARISING FROM CASH TRANSACTIONS<BR>
+DECEMBER 31, 2004<BR>
+(in millions of dollars)
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="90%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">ASSETS</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR><TD>&nbsp;</TD></TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Cash and Cash Equivalents (Note 1)</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">57.0</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD width="90%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Receivables (Note 2)</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">1,351.3</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD width="90%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">TOTAL ASSETS</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">1,408.3</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 3px double #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD width="90%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD width="90%">LIABILITIES AND EQUITY</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD width="90%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+</TR>
+
+<TR valign="top">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">
+Amounts Held for Future Distribution<BR>
+
+(includes $55.2&nbsp;million of collections of principal and
+interest to be applied on the next scheduled Distribution
+Date) (Note 1)</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">162.4</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD width="90%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Asset Backed Notes (Notes 2 and 3)</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">1,245.9</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD width="90%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">TOTAL LIABILITIES AND EQUITY</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">1,408.3</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+        <TD nowrap colspan="2" align="right" style="border-top: 3px double #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<P align="left" style="font-size: 10pt">See Notes to Financial Statements
+
+
+
+<P align="center" style="font-size: 10pt">4
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: Helvetica,Arial,sans-serif">
+
+
+
+
+<P align="left" style="font-size: 10pt"><U>ITEM 8.</U> <U>FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA (continued)</U>
+
+
+
+<P align="center" style="font-size: 10pt">DAIMLERCHRYSLER AUTO TRUST 2004-B<BR>
+STATEMENT OF CASH RECEIPTS AND DISBURSEMENTS<BR>
+FOR THE PERIOD JULY 13, 2004 (INCEPTION)&nbsp;THROUGH DECEMBER 31, 2004<BR>
+(in millions of dollars)
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="90%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">CASH RECEIPTS</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Proceeds from Sale of Asset Backed Notes</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">1,500.0</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Collections of Principal, Interest, and Other</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">330.8</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">TOTAL CASH RECEIPTS</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">1,830.8</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">CASH DISBURSEMENTS
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR><TD>&nbsp;</TD></TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">
+Purchase of Receivables</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">1,500.0</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Distribution of Principal, Interest, and Other</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">273.9</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">TOTAL CASH DISBURSEMENTS</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">1,773.9</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">CASH RECEIPTS IN EXCESS OF CASH DISBURSEMENTS</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">57.0</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"></TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">CASH AND CASH EQUIVALENTS AT BEGINNING OF PERIOD</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">0.0</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+        <TD nowrap colspan="2" align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">CASH AND CASH EQUIVALENTS AT END OF PERIOD</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">57.0</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+        <TD nowrap colspan="2" align="right" style="border-top: 3px double #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<P align="left" style="font-size: 10pt">See Notes to Financial Statements
+
+
+
+<P align="center" style="font-size: 10pt">5
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: Helvetica,Arial,sans-serif">
+
+
+
+
+<P align="left" style="font-size: 10pt"><U>ITEM 8.</U> <U>FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA (continued)</U>
+
+
+
+<P align="center" style="font-size: 10pt">DAIMLERCHRYSLER AUTO TRUST 2004-B<BR>
+NOTES TO FINANCIAL STATEMENTS
+
+
+
+<P align="left" style="font-size: 10pt"><U>NOTE 1 &#150; SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES</U>
+
+
+
+<P align="left" style="font-size: 10pt"><B>Basis of Accounting</B>
+
+
+
+<P align="left" style="font-size: 10pt">The financial statements of DaimlerChrysler Auto Trust 2004-B (the &#147;Trust&#148;) are prepared on the
+basis of cash receipts and disbursements, which is a comprehensive basis of accounting other than
+accounting principles generally accepted in the United States of America. The primary difference
+from the accrual basis to this basis is that the financial statements do not record provisions for
+credit losses on Receivables, accrued interest receivable on the Receivables, or accrued interest
+payable on the Asset Backed Notes.
+
+
+
+<P align="left" style="font-size: 10pt"><B>Cash and Cash Equivalents</B>
+
+
+
+<P align="left" style="font-size: 10pt">Short-term instruments with a maturity of less than three months when purchased are considered to
+be cash equivalents. The Trust received certain cash deposits from DaimlerChrysler Services North
+America LLC (&#147;DCS&#148; and &#147;Servicer&#148;), which are held as liquidity and credit enhancement reserves and
+invested in short-term instruments. Under the Sale and Servicing Agreement dated as of July&nbsp;1,
+2004, the servicer is required to convey principal and interest collections to the Trust on a
+monthly basis except when commingling conditions cease to be met under the Sale and Servicing
+Agreement. During 2004, the commingling conditions set forth in the Sale and Servicing Agreement
+were not met, and as a result, DCS is required to convey principal and interest collections to the
+Trust on a daily basis.
+
+
+
+<P align="left" style="font-size: 10pt"><B>Amounts Held for Future Distribution</B>
+
+
+
+<P align="left" style="font-size: 10pt">Amounts Held for Future Distribution represent certain short-term investments held for future
+distributions to Noteholders and for liquidity and credit enhancement reserves. Amounts held for
+liquidity and credit enhancement reserves which are not utilized for future distributions to
+Noteholders will be distributed to DaimlerChrysler Retail Receivables LLC (&#147;DCRR&#148;). Also included
+in the balance of Amounts Held for Future Distribution are $55.2&nbsp;million of collections of
+principal and interest on the Receivables. These amounts have not been applied as of the balance
+sheet date to either the outstanding principal balance of the Receivables or the Asset Backed
+Notes, but will be applied in accordance with the Prospectus Supplement for the next scheduled
+Distribution Date.
+
+
+
+<P align="left" style="font-size: 10pt"><B>Servicing</B>
+
+
+
+<P align="left" style="font-size: 10pt">DCS services the Receivables in the Trust for an annual fee of 1% of the outstanding receivables
+balance.
+
+
+
+<P align="left" style="font-size: 10pt"><U>NOTE 2 &#150; SALE OF ASSET BACKED NOTES</U>
+
+
+
+<P align="left" style="font-size: 10pt">The Trust was formed under the laws of Delaware pursuant to an Amended and Restated Trust Agreement
+dated as of July&nbsp;1, 2004, among DCRR, DCS, and Deutsche Bank Trust Company Delaware, acting
+thereunder not in its individual capacity but solely as trustee of the Trust.
+
+
+
+<P align="center" style="font-size: 10pt">6
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: Helvetica,Arial,sans-serif">
+
+<P align="left" style="font-size: 10pt"><U>ITEM 8.</U> <U>FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA (continued)</U>
+
+
+
+<P align="center" style="font-size: 10pt">DAIMLERCHRYSLER AUTO TRUST 2004-B<BR>
+NOTES TO FINANCIAL STATEMENTS
+
+
+
+<P align="left" style="font-size: 10pt"><U>NOTE 2 &#150; SALE OF ASSET BACKED NOTES (continued)</U>
+
+
+
+<P align="left" style="font-size: 10pt">On July&nbsp;30, 2004, the Trust issued $380,000,000 aggregate principal amount of 1.72% Asset Backed
+Notes, Class&nbsp;A-1 (the &#147;Class&nbsp;A-1 Notes&#148;), $375,000,000 aggregate principal amount of 2.48% Asset
+Backed Notes, Class&nbsp;A-2 (the &#147;Class&nbsp;A-2 Notes&#148;), $480,000,000 aggregate principal amount of 3.18%
+Asset Backed Notes, Class&nbsp;A-3 (the &#147;Class&nbsp;A-3 Notes&#148;), and $220,000,000 aggregate principal amount
+of 3.71% Asset Backed Notes, Class&nbsp;A-4 (the &#147;Class&nbsp;A-4 Notes&#148; and together with the Class&nbsp;A-1
+Notes, the Class&nbsp;A-2 Notes and the Class&nbsp;A-3 Notes, the &#147;Class&nbsp;A Notes&#148;), and $45,000,000 aggregate
+principal amount of 3.89% Class&nbsp;B Notes (the &#147;Class&nbsp;B Notes&#148; and , together with the Class&nbsp;A Notes,
+the &#147;Notes&#148;). The Notes were issued pursuant to an Indenture dated as of July&nbsp;1, 2004, between the
+Trust and JPMorgan Chase Bank, (the &#147;Indenture Trustee&#148;). The assets of the Trust include a pool
+of motor vehicle retail installment sale contracts (&#147;Receivables&#148;), secured by security interests
+in the motor vehicles financed thereby and including certain monies due or received thereunder on
+or after July&nbsp;14, 2004, transferred to the Trust by DCS on July&nbsp;30, 2004. The Notes are secured by
+the assets of the Trust pursuant to the Indenture. The Class&nbsp;A-1 Notes were not offered publicly.
+
+
+
+<P align="left" style="font-size: 10pt"><U>NOTE 3 &#150; PRINCIPAL AND INTEREST PAYMENTS</U>
+
+
+
+<P align="left" style="font-size: 10pt">Interest on the Notes accrues at the respective fixed per annum interest rates specified above.
+Interest on the Notes will generally be payable on the 8th day of each month or, if any such day is
+not a business day, on the next succeeding business day (each, a &#147;Distribution Date&#148;), commencing
+August&nbsp;9, 2004. Principal on the Notes will be payable on each Distribution Date to the extent
+described in the Prospectus Supplement dated July&nbsp;21, 2004, and the Prospectus dated July&nbsp;21, 2004
+(collectively, the &#147;Prospectus&#148;); however, no principal payments will be made (i)&nbsp;on the Class&nbsp;A-2
+Notes until the Class&nbsp;A-1 Notes have been paid in full, (ii)&nbsp;on the Class&nbsp;A-3 Notes until the Class
+A-2 Notes have been paid in full, or (iii)&nbsp;on the Class&nbsp;A-4 Notes until the Class&nbsp;A-3 Notes have
+been paid in full. Each class of Notes will be payable in full on the applicable final scheduled
+Distribution Date as set forth in the Prospectus. However, payment in full of a class of Notes
+could occur earlier than such dates as described in the Prospectus. In addition, the Class&nbsp;A-4
+Notes will be subject to redemption in whole, but not in part, on any Distribution Date on which
+the Servicer exercises its option to purchase the Receivables. The Servicer may purchase the
+Receivables when the aggregate principal balance of the Receivables shall have declined to 10% or
+less of the initial aggregate principal balance of the Receivables purchased by the Trust.
+
+
+
+<P align="left" style="font-size: 10pt"><U>NOTE 4 &#150; FEDERAL INCOME TAXES</U>
+
+
+
+<P align="left" style="font-size: 10pt">In the opinion of outside legal counsel, for federal income tax purposes, the Notes will be
+characterized as debt, and the Trust will not be characterized as an association (or a publicly
+traded partnership) taxable as a corporation. Therefore no provision for federal income tax has
+been recorded.
+
+
+
+<P align="center" style="font-size: 10pt">7
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: Helvetica,Arial,sans-serif">
+
+<P align="left" style="font-size: 10pt"><U>ITEM 8.</U> <U>FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA (continued)</U>
+
+
+
+<P align="center" style="font-size: 10pt">DAIMLERCHRYSLER AUTO TRUST 2004-B<BR>
+NOTES TO FINANCIAL STATEMENTS
+
+
+
+<P align="left" style="font-size: 10pt"><U>NOTE 5 &#150; FINANCIAL INSTRUMENTS</U>
+
+
+
+<P align="left" style="font-size: 10pt">The estimated fair values of financial instruments have been determined using available market
+information and valuation methodologies as described below. However, considerable judgment is
+required in interpreting market data to develop the estimates of fair value. Accordingly, the
+estimates presented herein are not necessarily indicative of the amounts that could be realized in
+a current market exchange. The use of different market assumptions or valuation methodologies may
+have a material effect on the estimated fair value amounts.
+
+
+
+<P align="left" style="font-size: 10pt">The carrying amounts and estimated fair values of the Trust&#146;s financial instruments at December&nbsp;31,
+2004 were as follows (in millions of dollars):
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="80%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2">Carrying</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2">Fair</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2" style="border-bottom: 1px solid #000000">Amount</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2" style="border-bottom: 1px solid #000000">Value</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Cash and Cash Equivalents</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">57.0</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">57.0</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Receivables</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">1,351.3</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">1,338.3</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Amounts Held for Future Distribution</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">162.4</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">150.1</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Asset Backed Notes</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">1,245.9</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">1,241.8</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<P align="left" style="font-size: 10pt">Assumptions and Methodologies
+
+
+
+<P align="left" style="font-size: 10pt">The carrying value of cash and cash equivalents approximates fair value due to the short maturity
+of these instruments.
+
+
+
+<P align="left" style="font-size: 10pt">The fair value of receivables was estimated by discounting expected cash flows using rates of
+receivables with similar maturities at December&nbsp;31, 2004.
+
+
+
+<P align="left" style="font-size: 10pt">The fair value of Amounts Held for Future Distribution was estimated at carrying value for certain
+short-term investments, and amounts to be distributed to DCRR were estimated by discounting
+expected cash flows.
+
+
+
+<P align="left" style="font-size: 10pt">The fair value of Asset Backed Notes was estimated using quoted market prices.
+
+
+
+<P align="center" style="font-size: 10pt">8
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+<DIV style="font-family: Helvetica,Arial,sans-serif">
+<!-- link1 "Report of Independent Registered Public Accounting Firm" -->
+<DIV align="left"><A NAME="011"></A></DIV>
+
+
+<P align="center" style="font-size: 10pt"><U>Report of Independent Registered Public Accounting Firm</U>
+
+
+
+<P align="left" style="font-size: 10pt">The Manager and Member<BR>
+DaimlerChrysler Services North America LLC:
+
+<P align="left" style="font-size: 10pt">We have audited the accompanying statement of assets, liabilities and equity arising from cash
+transactions of DaimlerChrysler Auto Trust 2004-B (the &#147;Trust&#148;) as of December&nbsp;31, 2004, and the
+related statement of cash receipts and disbursements for the period July&nbsp;13, 2004 (inception)
+through December&nbsp;31, 2004. These financial statements are the responsibility of the management of
+DaimlerChrysler Services North America LLC, servicer for the Trust. Our responsibility is to
+express an opinion on these financial statements based on our audit.
+
+
+<P align="left" style="font-size: 10pt">We conducted our audit in accordance with the standards of the Public Company Accounting Oversight
+Board (United States). Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material misstatement. An
+audit includes consideration of internal control over financial reporting as a basis for designing
+audit procedures that are appropriate in the circumstances, but not for the purpose of expressing
+an opinion on the effectiveness of the Company&#146;s internal control over financial reporting.
+Accordingly, we express no such opinion. An audit includes examining, on a test basis, evidence
+supporting the amounts and disclosures in the financial statements. An audit also includes
+assessing the accounting principles used and significant estimates made by management, as well as
+evaluating the overall financial statement presentation. We believe that our audit provides a
+reasonable basis for our opinion.
+
+
+<P align="left" style="font-size: 10pt">As described in Note 1, these financial statements were prepared on the basis of cash receipts and
+disbursements, which is a comprehensive basis of accounting other than generally accepted
+accounting principles.
+
+
+<P align="left" style="font-size: 10pt">In our opinion, the financial statements referred to above present fairly, in all material
+respects, the assets, liabilities and equity arising from cash transactions of DaimlerChrysler Auto
+Trust 2004-B as of December&nbsp;31, 2004, and its cash receipts and disbursements for the period July
+13, 2004 (inception)&nbsp;through December&nbsp;31, 2004, on the basis of accounting described in Note 1.
+
+
+
+<P align="left" style="font-size: 10pt">/s/ KPMG LLP
+
+
+<P align="left" style="font-size: 10pt">Detroit, Michigan<BR>
+March&nbsp;21, 2005
+
+
+
+
+<P align="center" style="font-size: 10pt">9
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: Helvetica,Arial,sans-serif">
+<!-- link2 "ITEM 9.CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE" -->
+<DIV align="left"><A NAME="012"></A></DIV>
+
+<P align="left" style="font-size: 10pt"><U>ITEM 9.</U> <U>CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL
+DISCLOSURE</U>
+
+
+
+<P align="left" style="font-size: 10pt">There is nothing to report with regard to this item.
+
+
+<!-- link2 "ITEM 9A. CONTROLS AND PROCEDURES" -->
+<DIV align="left"><A NAME="013"></A></DIV>
+
+<P align="left" style="font-size: 10pt"><U>ITEM 9A.</U> <U>CONTROLS AND PROCEDURES</U>
+
+
+
+<P align="left" style="font-size: 10pt">Registrant is an Asset Backed Issuer and is not required to disclose the information required by
+this item.
+
+
+<!-- link2 "ITEM 9B. OTHER INFORMATION" -->
+<DIV align="left"><A NAME="014"></A></DIV>
+
+<P align="left" style="font-size: 10pt"><U>ITEM 9B.</U> <U>OTHER INFORMATION</U>
+
+
+
+<P align="left" style="font-size: 10pt">There is nothing to report with regard to this item.
+
+
+<!-- link1 "PART III" -->
+<DIV align="left"><A NAME="015"></A></DIV>
+
+<P align="center" style="font-size: 10pt"><U>PART III.</U>
+
+
+<!-- link2 "ITEM 10. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT" -->
+<DIV align="left"><A NAME="016"></A></DIV>
+
+<P align="left" style="font-size: 10pt"><U>ITEM 10.</U> <U>DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT</U>
+
+
+
+<P align="left" style="font-size: 10pt">There is nothing to report with regard to this item.
+
+
+<!-- link2 "ITEM 11. EXECUTIVE COMPENSATION" -->
+<DIV align="left"><A NAME="017"></A></DIV>
+
+<P align="left" style="font-size: 10pt"><U>ITEM 11.</U> <U>EXECUTIVE COMPENSATION</U>
+
+
+
+<P align="left" style="font-size: 10pt">There is nothing to report with regard to this item.
+
+
+<!-- link2 "ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT" -->
+<DIV align="left"><A NAME="018"></A></DIV>
+
+<P align="left" style="font-size: 10pt"><U>ITEM 12.</U> <U>SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT</U>
+
+
+
+<P align="left" style="font-size: 10pt">There is nothing to report with regard to this item.
+
+
+<!-- link2 "ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS" -->
+<DIV align="left"><A NAME="019"></A></DIV>
+
+<P align="left" style="font-size: 10pt"><U>ITEM 13.</U> <U>CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS</U>
+
+
+
+<P align="left" style="font-size: 10pt">There is nothing to report with regard to this item.
+
+
+<!-- link2 "ITEM 14. PRINCIPAL ACCOUNTANT FEES AND SERVICES" -->
+<DIV align="left"><A NAME="020"></A></DIV>
+
+<P align="left" style="font-size: 10pt"><U>ITEM 14.</U> <U>PRINCIPAL ACCOUNTANT FEES AND SERVICES</U>
+
+
+
+<P align="left" style="font-size: 10pt">Registrant is an Asset Backed Issuer and is not required to disclose the information required by
+this item.
+
+
+<!-- link1 "PART IV" -->
+<DIV align="left"><A NAME="021"></A></DIV>
+
+<P align="center" style="font-size: 10pt"><U>PART IV.</U>
+
+
+<!-- link2 "ITEM 15. EXHIBITS AND FINANCIAL STATEMENT SCHEDULES" -->
+<DIV align="left"><A NAME="022"></A></DIV>
+
+<P align="left" style="font-size: 10pt"><U>ITEM 15.</U> <U>EXHIBITS AND FINANCIAL STATEMENT SCHEDULES</U>
+
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="4%" nowrap align="left">(a)&nbsp;&nbsp;</TD>
+    <TD>The following documents are filed as a part of this report:</TD>
+</TR>
+
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="4%" nowrap align="left">(1)&nbsp;&nbsp;</TD>
+    <TD><U>Financial Statements</U></TD>
+</TR>
+
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="4%" nowrap align="left">&nbsp;&nbsp;&nbsp;</TD>
+    <TD>Financial statements for DaimlerChrysler Auto Trust 2004-B as follows:</TD>
+</TR>
+
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="4%" nowrap align="left">&nbsp;&nbsp;&nbsp;</TD>
+    <TD>Statement of Assets, Liabilities and Equity Arising from Cash Transactions &#150; December&nbsp;31, 2004
+(page 4 of this report)</TD>
+</TR>
+
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="4%" nowrap align="left">&nbsp;&nbsp;&nbsp;</TD>
+    <TD>Statement of Cash Receipts and Disbursements for the period July&nbsp;13, 2004 (inception)&nbsp;through
+December&nbsp;31, 2004 (page 5 of this report)<BR></TD>
+</TR>
+
+</TABLE>
+
+
+<P align="center" style="font-size: 10pt">10
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: Helvetica,Arial,sans-serif">
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+
+    <TD><U>ITEM 15. </U> <U>EXHIBITS AND FINANCIAL STATEMENT SCHEDULES (continued) </U></TD>
+</TR>
+
+</TABLE>
+
+
+
+<P align="left" style="margin-left:4%; font-size: 10pt">Notes to Financial Statements (pages 6, 7, and 8 of this report)
+
+
+
+<P align="left" style="margin-left:4%; font-size: 10pt">Report of Independent Registered Public Accounting Firm (page 9 of this report)
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="4%" nowrap align="left">(2)&nbsp;&nbsp;</TD>
+    <TD><U>Financial Statement Schedules</U></TD>
+</TR>
+
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="4%" nowrap align="left">&nbsp;&nbsp;&nbsp;</TD>
+    <TD>All financial statement schedules have been omitted because the information to be provided therein
+is included in the financial statements or the notes thereto.</TD>
+</TR>
+
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="4%" nowrap align="left">(3)&nbsp;&nbsp;</TD>
+    <TD><U>Exhibits</U></TD>
+</TR>
+
+</TABLE>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="10%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="85%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="left">EXHIBIT</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="left" style="border-bottom: 1px solid #000000">NUMBER</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left" style="border-bottom: 1px solid #000000">DESCRIPTION OF EXHIBIT</TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">3
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Purchase Agreement, dated as of July&nbsp;1, 2004,
+between DaimlerChrysler Retail Receivables LLC
+and DaimlerChrysler Services North America LLC.
+Filed as Exhibit&nbsp;99.2 to DCS&#146;s Current Report on
+Form&nbsp;8-K dated July&nbsp;30, 2004 and incorporated
+herein by reference.</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">4.1
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Amended and Restated Trust Agreement, dated as of
+July&nbsp;1, 2004, among DaimlerChrysler Retail
+Receivables LLC, DaimlerChrysler Services North
+America LLC and Deutsche Bank Trust Company
+Delaware, as Owner Trustee. Filed as Exhibit&nbsp;4.2
+to DCS&#146;s Current Report on Form&nbsp;8-K dated July
+30, 2004 and incorporated herein by reference.</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">4.2
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Indenture, dated as of July&nbsp;1, 2004, between
+DaimlerChrysler Auto Trust 2004-B and JPMorgan
+Chase Bank as Indenture Trustee. Filed as
+Exhibit&nbsp;4.1 to DCS&#146;s Current Report on Form&nbsp;8-K
+dated July&nbsp;30, 2004 and incorporated herein by
+reference.</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">4.3
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Sale and Servicing Agreement, dated as of July&nbsp;1,
+2004, between DaimlerChrysler Auto Trust 2004-B
+and DaimlerChrysler Services North America LLC.
+Filed as Exhibit&nbsp;10 to DCS&#146;s Current Report on
+Form&nbsp;8-K dated July&nbsp;30, 2004 and incorporated
+herein by reference.</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">4.4
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Administration Agreement, dated as of July&nbsp;1,
+2004, between DaimlerChrysler Auto Trust 2004-B
+and DaimlerChrysler Services North America LLC.
+Filed as Exhibit&nbsp;99.1 to DCS&#146;s Current Report on
+Form&nbsp;8-K dated July&nbsp;30, 2004 and incorporated
+herein by reference.</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">31
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Certification pursuant to Section&nbsp;302 of the
+Sarbanes-Oxley Act of 2002 (Subsections (a)&nbsp;and
+(b)&nbsp;of Section&nbsp;1350, Chapter&nbsp;63 of Title 18,
+United States Code).</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">32
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Certification Pursuant to Section&nbsp;906 of the
+Sarbanes-Oxley Act of 2002 (Subsections (a)&nbsp;and
+(b)&nbsp;of Section&nbsp;1350, Chapter&nbsp;63 of Title 18,
+United States Code).</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">99.1
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Annual Servicer&#146;s Certificate for the year ended
+December&nbsp;31, 2004, and Independent Accountants&#146;
+Report.</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<P align="center" style="font-size: 10pt">11
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: Helvetica,Arial,sans-serif">
+
+
+
+
+<P align="left" style="font-size: 10pt"><U>ITEM 15.</U> <U>EXHIBITS AND FINANCIAL STATEMENT SCHEDULES (continued)</U>
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="10%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="85%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="left">EXHIBIT</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="left" style="border-bottom: 1px solid #000000">NUMBER</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left" style="border-bottom: 1px solid #000000">DESCRIPTION OF EXHIBIT</TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">99.2
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">DaimlerChrysler Auto Trust 2004-B Annual Issuer&#146;s Certificate.</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<P align="left" style="font-size: 10pt">(b)&nbsp;See item 15(a) above.
+
+
+
+<P align="left" style="font-size: 10pt">(c)&nbsp;Not applicable.
+
+
+
+<P align="center" style="font-size: 10pt">12
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: Helvetica,Arial,sans-serif">
+
+
+
+
+<P align="center" style="font-size: 10pt"><U>DAIMLERCHRYSLER AUTO TRUST 2004-B</U>
+
+
+<!-- link1 "SIGNATURES" -->
+<DIV align="left"><A NAME="023"></A></DIV>
+
+<P align="center" style="font-size: 10pt"><U>SIGNATURES</U>
+
+
+
+<P align="left" style="font-size: 10pt">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused
+this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="45%">&nbsp;</TD>
+    <TD width="10%">&nbsp;</TD>
+    <TD width="45%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+
+<TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DaimlerChrysler Auto Trust 2004-B<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Registrant)
+
+</TD>
+</TR>
+<TR><TD>&nbsp;</TD></TR>
+<TR valign="bottom">
+
+<TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD align="right" valign="top">By:&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DaimlerChrysler
+Services North America LLC, as
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Servicer</TD>
+</TR>
+<TR><TD>&nbsp;</TD></TR>
+<TR valign="bottom">
+
+<TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD align="right">By:&nbsp;</TD>
+
+<TD align="left" valign="top" style="border-bottom: 1px solid #000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; /s/ Paul E. Knauss</TD>
+</TR>
+<TR valign="bottom">
+
+<TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Paul E. Knauss, Vice President and Chief
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Financial Officer
+</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+
+<P align="left" style="font-size: 10pt">Date: March&nbsp;21, 2005
+
+
+
+<P align="left" style="font-size: 10pt">Supplemental Information to be furnished with reports filed pursuant to Section&nbsp;15(d) of the Act by
+Registrants which have not registered securities pursuant to Section&nbsp;12 of the Act.
+
+
+
+<P align="left" style="font-size: 10pt">No annual report or proxy material has been sent to security holders.
+
+
+
+<P align="center" style="font-size: 10pt">13
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: Helvetica,Arial,sans-serif">
+
+
+
+
+<P align="center" style="font-size: 10pt"><U>DAIMLERCHRYSLER AUTO TRUST 2004-B</U>
+
+
+<!-- link1 "EXHIBIT INDEX" -->
+<DIV align="left"><A NAME="024"></A></DIV>
+
+<P align="center" style="font-size: 10pt"><U>EXHIBIT INDEX</U>
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="10%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="85%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="left">EXHIBIT</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="left" style="border-bottom: 1px solid #000000">NUMBER</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left" style="border-bottom: 1px solid #000000">DESCRIPTION OF EXHIBIT</TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">3
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Purchase Agreement, dated as of July&nbsp;1, 2004, between
+DaimlerChrysler Retail Receivables LLC and DaimlerChrysler
+Services North America LLC. Filed as Exhibit&nbsp;99.2 to DCS&#146;s
+Current Report on Form&nbsp;8-K dated July&nbsp;30, 2004 and
+incorporated herein by reference.</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">4.1
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Amended and Restated Trust Agreement, dated as of July&nbsp;1,
+2004, among DaimlerChrysler Retail Receivables LLC,
+DaimlerChrysler Services North America LLC and Deutsche Bank
+Trust Company Delaware, as Owner Trustee. Filed as Exhibit
+4.2 to DCS&#146;s Current Report on Form&nbsp;8-K dated July&nbsp;30, 2004
+and incorporated herein by reference.</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">4.2
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Indenture, dated as of July&nbsp;1, 2004, between DaimlerChrysler
+Auto Trust 2004-B and JPMorgan Chase Bank as Indenture
+Trustee. Filed as Exhibit&nbsp;4.1 to DCS&#146;s Current Report on
+Form&nbsp;8-K dated July&nbsp;30, 2004 and incorporated herein by
+reference.</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">4.3
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Sale and Servicing Agreement, dated as of July&nbsp;1, 2004,
+between DaimlerChrysler Auto Trust 2004-B and DaimlerChrysler
+Services North America LLC. Filed as Exhibit&nbsp;10 to DCS&#146;s
+Current Report on Form&nbsp;8-K dated July&nbsp;30, 2004 and
+incorporated herein by reference.</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">4.4
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Administration Agreement, dated as of July&nbsp;1, 2004, between
+DaimlerChrysler Auto Trust 2004-B and DaimlerChrysler
+Services North America LLC. Filed as Exhibit&nbsp;99.1 to DCS&#146;s
+Current Report on Form&nbsp;8-K dated July&nbsp;30, 2004 and
+incorporated herein by reference.</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">31
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Certification pursuant to Section&nbsp;302 of the Sarbanes-Oxley
+Act of 2002 (Subsections (a)&nbsp;and (b)&nbsp;of Section&nbsp;1350, Chapter
+63 of Title 18, United States Code).</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">32
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Certification Pursuant to Section&nbsp;906 of the Sarbanes-Oxley
+Act of 2002 (Subsections (a)&nbsp;and (b)&nbsp;of Section&nbsp;1350, Chapter
+63 of Title 18, United States Code).</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">99.1
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Annual Servicer&#146;s Certificate for the year ended December&nbsp;31,
+2004, and Independent Accountants&#146; Report.</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">99.2
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">DaimlerChrysler Auto Trust 2004-B Annual Issuer&#146;s Certificate.</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+<P align="center" style="font-size: 10pt">14
+</DIV>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>

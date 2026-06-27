@@ -1,0 +1,1280 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>sai04010_2004.txt
+<TEXT>
+
+                                       UNITED STATES
+                             SECURITIES AND EXCHANGE COMMISSION
+                                   WASHINGTON, D.C. 20549
+
+
+
+                                          FORM 10-K
+
+
+  (Mark one)
+
+  /X/ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+      EXCHANGE ACT OF 1934
+      For the fiscal year ended December 31, 2004
+
+      OR
+
+
+
+  / / TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+      EXCHANGE ACT OF 1934
+
+
+      Commission File Number:  333-115858-30
+
+
+          Structured Asset Securities Corporation
+
+     (Exact name of registrant as specified in its charter)
+
+
+   Delaware                                         74-2440850
+  (State or other jurisdiction of                  (I.R.S. Employer
+  incorporation or organization)                   Identification No.)
+
+
+
+
+
+   745 Seventh Avenue, 7th Floor
+   New York, NY                                10019
+  (Address of principal executive offices)     (Zip Code)
+
+
+  Registrant's telephone number, including area code: (212) 526-7000
+
+        Structured Asset Investment Loan Trust
+        Mortgage Pass-Through Certificates
+        Series 2004-10
+
+  Securities registered pursuant to Section 12(b) of the Act:
+
+        NONE.
+
+
+  Securities registered pursuant to Section 12(g) of the Act:
+
+        NONE.
+
+
+  Indicate by check mark whether the registrant (1) has filed all reports
+  required to be filed by Section 13 or 15(d) of the Securities Exchange
+  Act of 1934 during the preceding 12 months (or for such shorter period
+  that the registrant was required to file such reports), and (2) has been
+  subject to such filing requirements for the past 90 days.
+
+        Yes  X       No ___
+
+
+  Indicate by check mark if disclosure of delinquent filers pursuant to
+  Item 405 of Regulation S-K ( 229.405 of this chapter) is not contained
+  herein, and will not be contained, to the best of registrant's knowledge,
+  in definitive proxy or information statements incorporated by reference
+  in Part III of this Form 10-K or any amendment to this Form 10-K.
+
+        Not applicable.
+
+
+  Indicate by check mark whether the registrant is an accelerated filer
+  (as defined in Exchange Act Rule 12b-2).
+
+        Yes  ___     No  X
+
+
+  State the aggregate market value of the voting and non-voting common
+  equity held by non-affiliates computed by reference to the price at which
+  the common equity was last sold, or the average bid and asked price of
+  such common equity, as of the last business day of the registrant's most
+  recently completed second fiscal quarter.
+
+        Not applicable.
+
+
+  Indicate the number of shares outstanding of each of the registrant's
+  classes of common stock, as of the latest practicable date.
+
+        Not applicable.
+
+
+     Documents Incorporated by Reference
+
+  List hereunder the following documents if incorporated by reference and
+  the Part of the Form 10-K (e.g. Part I, Part II, etc.) into which the
+  document is incorporated: (1)Any annual report to security holders; (2)
+  Any proxy or information statement; and (3)Any prospectus filed pursuant
+  to Rule 424(b) or (c) under the Securities Act of 1933. The listed
+  documents should be clearly described for identification purposes (e.g.
+  annual report to security holders for fiscal year ended December 24, 1980).
+
+        Not applicable.
+
+
+                                   PART I
+
+  Item 1.  Business.
+
+            Not applicable.
+
+  Item 2.  Properties.
+
+            Not applicable.
+
+
+  Item 3.  Legal Proceedings.
+
+            The registrant knows of no material pending legal proceedings
+            involving the trust created under the Pooling and Servicing
+            Agreement (the Trust), the Trustee, the Servicer or the
+            registrant with respect to the Trust.
+
+
+  Item 4.  Submission of Matters to a Vote of Security Holders.
+
+No matter was submitted to a vote or consent of the holders of each class of
+offered certificates during the fiscal year covered by this report.
+
+                                PART II
+
+  Item 5.  Market for registrant's Common Equity and Related Stockholder
+           Matters and Issuer Purchases of Equity Securities.
+
+            The Trust does not issue stock. No established public trading market
+            for the Certificates exists.
+
+            As of December 31, 2004, the total number of holders
+            of record for the Series of Certificates is 23.
+
+
+  Item 6.  Selected Financial Data.
+
+            Not applicable.
+
+
+  Item 7.  Management's Discussion and Analysis of Financial Condition and
+           Results of Operation.
+
+            Not applicable.
+
+
+  Item 7A. Quantitative and Qualitative Disclosures about Market Risk.
+
+            Not applicable.
+
+
+  Item 8.  Financial Statements and Supplementary Data.
+
+            Not applicable.
+
+
+  Item 9.  Changes in and Disagreements with Accountants on Accounting and
+           Financial Disclosure.
+
+            None.
+
+
+  Item 9A. Controls and Procedures.
+
+            Not applicable.
+
+
+  Item 9B. Other Information.
+
+            None.
+
+
+                                PART III
+
+  Item 10. Directors and Executive Officers of the Registrant.
+
+            Not applicable.
+
+
+  Item 11. Executive Compensation.
+
+            Not applicable.
+
+
+  Item 12. Security Ownership of Certain Beneficial Owners and Management.
+
+            Not applicable.
+
+  Item 13. Certain Relationships and Related Transactions.
+
+            Not applicable.
+
+
+  Item 14. Principal Accounting Fees and Services.
+
+            Not applicable.
+
+
+                                PART IV
+
+  Item 15. Exhibits, Financial Statement Schedules.
+
+   (a)(1) Financial Statements
+
+            Not applicable.
+
+   (a)(2) Financial Statement Schedules
+
+             Not applicable.
+
+   (a)(3) Exhibits
+
+     (31.1) Rule 13a-14(a)/15d-14(a) Certification
+
+     (99.1) Annual Independent Accountants' Servicing Reports concerning
+            servicing activities.
+
+      <TABLE>
+
+      <s>         <c>
+      a) Aurora Loan Services LLC fka Aurora Loan Services Inc.,
+      as Servicer <F1>
+      b) Chase Manhattan Mortgage Corporation, as Servicer <F1>
+      c) Ocwen Federal Bank FSB, as Servicer <F1>
+      d) Option One Mortgage Corporation, as Servicer <F1>
+      e) Wells Fargo Bank, N.A., as Servicer <F1>
+
+      </TABLE>
+
+     (99.2) Report of Management as to Compliance with Minimum Servicing
+            Standards.
+
+      <TABLE>
+
+      <s>        <c>
+      a) Aurora Loan Services LLC fka Aurora Loan Services Inc.,
+      as Servicer <F1>
+      b) Chase Manhattan Mortgage Corporation, as Servicer <F1>
+      c) Ocwen Federal Bank FSB, as Servicer <F1>
+      d) Option One Mortgage Corporation, as Servicer <F1>
+      e) Wells Fargo Bank, N.A., as Servicer <F1>
+
+      </TABLE>
+
+     (99.3) Annual Statements of Compliance under the Trust Agreements.
+
+      <TABLE>
+
+      <s>         <c>
+      a) Aurora Loan Services LLC fka Aurora Loan Services Inc.,
+      as Master Servicer <F1>
+
+      </TABLE>
+
+
+     (99.4) Aggregate Statement of Principal and Interest Distributions to
+            Certificate Holders.
+
+
+   (b) Exhibits to this report are listed on item 15(a)(3)
+
+   (c) Not applicable.
+
+
+  <F1> Filed herewith.
+
+
+                                SIGNATURES
+
+  Pursuant to the requirements of Section 13 or 15(d) of the Securities
+  Exchange Act of 1934, the registrant has duly caused this report to be
+  signed on its behalf by the undersigned, thereunto duly authorized:
+
+
+
+    Structured Asset Investment Loan Trust
+    Mortgage Pass-Through Certificates
+    Series 2004-10
+    (Registrant)
+
+
+  Signed: Aurora Loan Services LLC fka Aurora Loan Services Inc. as Master
+          Servicer
+
+  By:     E. Todd Whittemore, Executive Vice President
+
+  By: /s/ E. Todd Whittemore, Executive Vice President
+
+  Dated: March 29, 2005
+
+
+  SUPPLEMENTAL INFORMATION TO BE FURNISHED WITH REPORTS FILED PURSUANT TO
+  SECTION 15(d) OF THE ACT BY REGISTRANTS WHICH HAVE NOT REGISTERED
+  SECURITIES PURSUANT TO SECTION 12 OF THE ACT.
+
+
+  (a)(i) No annual report is provided to the Certificateholders other than
+  with respect to aggregate principal and interest distributions.
+
+
+  (a)(ii) No proxy statement, form of proxy or other proxy soliciting
+  material has been sent to any Certificateholder with respect to any
+  annual or other meeting of Certificateholders.
+
+
+
+  Exhibit Index
+
+  Exhibit No.
+
+  Ex-31.1 Rule 13a-14(a)/15d-14(a) Certification
+
+  I, E. Todd Whittemore, certify that:
+
+  1. I have reviewed this annual report on Form 10-K, and all reports on
+     Form 8-K containing distribution or servicing reports filed in
+     respect of periods included in the year covered by this annual report
+     , of Structured Asset Investment Loan Trust Mortgage Pass-Through
+     Certificates, Series 2004-10 Trust;
+
+  2. Based on my knowledge, the information in these reports, taken as a
+     whole, does not contain any untrue statement of a material fact or
+     omit to state a material fact necessary to make the statements made,
+     in light of the circumstances under which such statements were made,
+     not misleading as of the last day of the period covered by this
+     annual report;
+
+  3. Based on my knowledge, the distribution or servicing information
+     required to be provided to the Trustee by the Servicer under the
+     Pooling and Servicing or similar, agreement, for inclusion in these
+     reports is included in these reports;
+
+  4. Based on my knowledge and upon the annual compliance statement
+     included in the report and required to be delivered to the trustee in
+     accordance with the terms of the pooling and servicing, or similar,
+     agreement, and except as disclosed in the reports, the servicer has
+     fulfilled its obligations under the servicing agreement; and
+
+  5. The reports disclose all significant deficiencies relating to the
+     servicer's compliance with the minimum servicing standards based upon
+     the report provided by an independent public accountant, after
+     conducting a review in compliance with the Uniform Single Attestation
+     Program for Mortgage Bankers or similar procedure, as set forth in
+     the pooling and servicing, or similar, agreement, that is included in
+     these reports.
+
+     In giving the certifications above, I have reasonably relied on
+     information provided to me by the following unaffiliated parties:
+     Chase Manhattan Mortgage Corporation as Servicer, Ocwen Federal Bank
+     FSB as Servicer, Option One Mortgage Corporation as Servicer, Wells
+     Fargo Bank, N.A. as Servicer and Securities Adminstrator.
+
+     Date: March 29, 2005
+
+     /s/ E. Todd Whittemore
+     Signature
+
+     Executive Vice President
+     Title
+
+
+  EX-99.1 (a)
+(logo) ERNST & YOUNG
+
+Ernst & Young LLP
+Suite 3300
+370 17th Street
+Denver Colorado 80202-5665
+
+Phone (720) 931-4000
+Fax   (720) 931-4444
+www.ey.com
+
+
+Report of Independent Accountants
+
+
+Board of Directors
+Aurora Loan Services Inc.
+
+
+We have examined management's assertion, included in the accompanying report
+titled Report of Management, that Aurora Loan Services Inc. (the "Company")
+complied with the minimum servicing standards identified in Exhibit A to the
+Report of Management (the "specified minimum servicing standards") as set forth
+in the Mortgage Bankers Association of America's Uniform Single Attestation
+Program for Mortgage Bankers ("USAP") during the year ended November 30, 2004.
+Management is responsible for the Company's compliance with the specified
+mininum servicing standards. Our responsibility is to express an opinion on
+management's assertions about the Company's compliance based on our examination.
+
+
+Our examination was made in accordance with attestation standards established by
+the American Institute of Certified Public Accountants and, accordingly,
+included examining, on a test basis, evidence about the Company's compliance
+with the specified minimum servicing standards and performing such other
+procedures as we considered necessary in the circumstances. We believe that our
+examination provides a reasonable basis for our opinion. Our examination does
+not provide a legal determination on the Company's compliance with the specified
+minimum servicing standards.
+
+
+In our opinion, management's assertion, that the Company complied with the
+aforementioned specified minimum servicing standards during the year ended
+November 30, 2004, is fairly stated, in all material respects.
+
+
+
+/s/ Ernst & Young LLP
+
+February 11, 2005
+
+
+
+A Member Practice of Ernst & Young Global
+
+
+
+
+
+  EX-99.1 (b)
+(logo) PRICEWATERHOUSECOOPERS
+
+PricewaterhouseCoopers LLP
+PricewaterhouseCoopers Center
+300 Madison Avenue
+New York NY 10017
+Telephone (646) 471 3000
+Facsimile (813) 286 6000
+
+
+
+Report of Independent Auditors
+
+
+To the Board of Directors and Stockholder
+of Chase Home Finance LLC:
+
+
+We have examined management's assertion about Chase Home Finance LLC's
+(formerly known as Chase Manhattan Mortgage Corporation) (the "Company")
+compliance with the minimum servicing standards identified in the Mortgage
+Bankers Association of America's Uniform Single Attestation Program for
+Mortgage Bankers ("USAP") as of and for the year ended December 31, 2004
+included in the accompanying management assertion (see Exhibit I). Management
+is responsible for the Company's compliance with those minimum servicing
+standards. Our responsibility is to express an opinion on management's
+assertion about the Company's compliance based on our examination.
+
+
+Our examination was made in accordance with attestation standards established
+by the American Institute of Certified Public Accountants and, accordingly,
+included examining, on a test basis, evidence about the Company's compliance
+with the minimum servicing standards and performing such other procedures as we
+considered necessary in the circumstances. We believe that our examination
+provides a reasonable basis for our opinion. Our examination does not provide a
+legal determination on the Company's compliance with the minimum servicing
+standards.
+
+
+In our opinion, management's assertion that the Company complied with the
+aforementioned minimum servicing standards as of and for the year ended
+December 31, 2004 is fairly stated, in all material respects.
+
+
+/s/ PricewaterhouseCoopers LLP
+
+March 11, 2005
+
+
+(logo) JPMorganChase
+
+
+Exhibit I
+
+
+Management's Assertion Concerning Compliance
+with USAP Minimum Servicing Standards
+
+
+March 11, 2005
+
+
+As of and for the year ended December 31, 2004, Chase Home Finance LLC
+(formerly known as Chase Manhattan Mortgage Corporation) (the "Company") has
+complied in all material respects with the minimum servicing standards
+(the "Standards") set forth in the Mortgage Bankers Association of America's
+Uniform Single Attestation Program for Mortgage Bankers ("USAP"). These
+Standards are applicable only to the Company's prime and subprime mortgage
+portfolios.
+
+As of and for this same period, the Company had in effect fidelity bond and
+errors and omissions policies in the amounts of $250,000,000 and $25,000,000
+respectively.
+
+
+
+/s/ Thomas L. Wind
+Thomas L. Wind
+Co-Chief Executive Officer
+Chase Home Finance LLC
+
+
+/s/ Scott Powell
+Scott Powell
+Co-Chief Executive Officer
+Chase Home Finance LLC
+
+
+/s/ Terry L. Gentry
+Terry L. Gentry
+SVP of Servicing
+Chase Home Finance LLC
+
+
+
+
+
+  EX-99.1 (c)
+(logo) PRICEWATERHOUSECOOPERS
+
+PricewaterhouseCoopers LLP
+222 Lakeview Avenue
+Suite 360
+West Palm Beach, FL 33401
+Telephone (561) 832 0038
+Facsimile (561) 805 8181
+
+
+
+
+INDEPENDENT REGISTERED CERTIFIED PUBLIC ACCOUNTANT'S REPORT
+
+
+
+To the Board of Directors of
+Ocwen Federal Bank FSB
+
+
+We have examined management's assertion, included in the accompanying
+Management Assertion on Compliance with USAP, that, except for the
+noncompliance related to reconciliations described in the third paragraph and
+the noncompliance related to adjustable rate mortgages described in the fifth
+paragraph, Ocwen Federal Bank FSB (the "Bank") complied with the minimum
+servicing standards identified in the Mortgage Bankers Association of America's
+("MBA's") Uniform Single Attestation program for Mortgage Bankers ("USAP") as
+of and for the year ended December 31, 2004. Management is responsible for the
+Bank's compliance with those minimum servicing standards. Our responsibility is
+to express an opinion on management's assertion about the Bank's compliance
+based on our examination.
+
+
+Our examination was made in accordance with standards established by the
+American Institute of Certified Public Accountants and, accordingly, included
+examining, on a test basis, evidence about the Bank's compliance with the
+minimum servicing standards and performing such other procedures as we consider
+necessary in the circumstances. We believe that our examination provides a
+reasonable basis for our opinion. Our examination does not provide a legal
+determination on the Bank's compliance with the minimum servicing standards.
+
+
+Our examination disclosed noncompliance with minimum servicing standards
+related to account reconciliations and adjustable rate mortgages applicable to
+the Bank during the year ended December 31, 2004. Such noncompliance is
+described in the accompanying Management Assertion on Compliance with USAP.
+
+
+In our opinion, management's assertion that the Bank complied with the
+aforementioned minimum servicing standards, except for noncompliance as
+described in the accompanying Management Assertion on Compliance with USAP, as
+of and for the year ended December 31, 2004 is fairly stated, in all material
+respects.
+
+
+
+/S/ PricewaterhouseCoopers LLP
+
+
+
+March 29, 2005
+
+
+
+
+
+  EX-99.1 (d)
+(logo) KPMG
+
+KPMG LLP
+Suite 2000
+355 South Grand Avenue
+Los Angeles, CA 90071-1568
+
+
+Independent Accountants' Report
+
+
+The Board of Directors and Stockholder
+
+Option One Mortgage Corporation
+
+
+We have examined management's assertion, included in the accompanying
+management assertion, that Option One Mortgage Corporation complied with the
+minimum servicing standards set forth in the Mortgage Bankers Association of
+America's Uniform Single Attestation Program for Mortgage Bankers as of and for
+the year ended December 31, 2004. Management is responsible for Option One
+Mortgage Corporation's compliance with those minimum servicing standards. Our
+responsibility is to express an opinion on management's assertion about the
+Company's compliance based on our examination.
+
+Our examination was conducted in accordance with attestation standards
+established by the American Institute of Certified Public Accountants and,
+accordingly, included examining, on a test basis, evidence about Option One
+Mortgage Corporation's compliance with the minimum servicing standards specified
+above and performing such other procedures as we considered necessary in the
+circumstances. We believe that our examination provides a reasonable basis for
+our opinion. Our examination does not provide a legal determination on Option
+One Mortgage Corporation's compliance with the minimum servicing standards.
+
+In our opinion, management's assertion that Option One Mortgage Corporation
+complied with the aforementioned minimum servicing standards as of and for the
+year ended December 31, 2004 is fairly stated, in all material respects.
+
+/s/ KMPG LLP
+
+
+Los Angeles, California
+February 28, 2005
+
+
+
+KPMG LLP, a U.S. limited liability partnership, is the U.S.
+member firm of KPMG international a Swiss cooperative.
+
+
+
+
+
+  EX-99.1 (e)
+(logo) KPMG
+
+
+KPMG LLP
+2500 Ruan Center
+666 Grand Avenue
+Des Moines, IA 50309
+
+
+Independent Accountants' Report
+
+The Board of Directors
+Wells Fargo Home Mortgage, a division of Wells Fargo Bank, N.A.:
+
+
+We have examined management's assertion, included in the accompanying
+Assertion of Management of Wells Fargo Home Mortgage, a division of Wells
+Fargo Bank, N.A. (the Company), that the Company complied with the minimum
+servicing standards set forth in the Mortgage Bankers Association of
+America's Uniform Single Attestation Program for Mortgage Bankers (USAP) as
+of and for the year ended December 31, 2004. Management is responsible for
+the Company's compliance with those minimum servicing standards. Our
+responsibility is to express an opinion on management's assertion about the
+Company's compliance based on our examination.
+
+
+Our examination was conducted in accordance with attestation standards
+established by the American institute of Certified Public Accountants and,
+accordingly, included examining, on a test basis, evidence about the
+Company's compliance with the minimum servicing standards specified above
+and performing such other procedures, as we considered necessary in the
+circumstances. We believe that our examination provides a reasonable basis
+for our opinion. Our examination does not provide a legal determination on
+the Company's compliance with the minimum servicing standards.
+
+
+In our opinion, management's assertion that the Company complied with the
+aforementioned minimum servicing standards as of and for the year ended
+December 31, 2004 is fairly stated, in all material respects.
+
+
+/s/ KPMG LLP
+
+
+February 23, 2005
+
+
+
+
+
+  EX-99.2 (a)
+AURORA LOAN SERVICES
+
+
+
+
+Report of Management
+
+
+We, as members of management of Aurora Loan Services Inc. (the "Company"), are
+responsible for complying with the minimum servicing standards identified in
+the attached Exhibit A (the "specified minimum servicing standards") as set
+forth in the Mortgage Bankers Association of America's Uniform Single
+Attestation Program for Mortgage Bankers ("USAP"). We are also responsible for
+establishing and maintaining effective internal control over compliance with
+these specified minimum servicing standards. We have performed an evaluation of
+the Company's compliance with the specified minimum servicing standards as set
+forth in the USAP as of November 30, 2004 and for the year then ended. Based on
+this evaluation, we assert that during the year ended November 30, 2004, the
+Company complied, in all material respects, with the specified
+minimum servicing standards set forth in the USAP.
+
+As of and for this same period, the Company had in effect a fidelity bond
+policy and an errors and omissions policy in the amounts of $60 million and $70
+million, respectively.
+
+
+Very truly yours,
+
+
+/s/ Bruce Witherell
+Bruce Witherell
+Chief Executive Officer
+
+
+/s/ Rick Skogg
+Rick Skogg
+Co-Chief Operating Officer
+
+
+/s/ Roy Browning
+Roy Browning
+Chief Financial Officer
+
+/s/ Bill Napier
+William Napier
+Controller
+
+
+February 11, 2005
+
+
+
+
+Aurora Loan Services Inc
+10350 Park Meadows Drive Littleton, Colorado 80124 800-550-0508
+
+
+
+
+
+
+AURORA LOAN SERVICES EXHIBIT A
+
+Specified Minimum Servicing Standards
+
+I. Custodial Bank Accounts
+
+1. Reconciliations shall be prepared on a monthly basis for all custodial
+bank accounts and related bank clearing accounts. These reconciliations
+shall:
+
+a. be mathematically accurate;
+
+b. be prepared within forty-five (45) calendar days after the cutoff date.
+The cutoff date is the date as of which a bank account is reconciled
+every month. It may, or may not, coincide with a prescribed investor
+reporting date but shall be consistent from period to period;
+
+c. be reviewed and approved by someone other than the person who prepared
+the reconciliation; and
+
+d. document explanations for reconciling items. These reconciling items
+shall be resolved within ninety (90) calendar days of their original
+identification.
+
+2. Funds of the servicing entity shall be advanced in cases where there is
+an overdraft in an investor's or a mortgagor's account.
+
+3. Each custodial account shall be maintained at a federally insured
+depository institution in trust for the applicable investor.
+
+4. Escrow funds held in trust for a mortgagor shall be returned to the
+mortgagor within thirty (30) calendar days of payoff of the mortgage loan..
+
+II. Mortgage Payments
+
+1. Mortgage payments shall be deposited into the custodial bank accounts and
+related bank clearing accounts within two (2) business days of receipt.
+
+2. Mortgage payments made in accordance with the mortgagor's loan documents
+shall be posted to the applicable mortgagor records within two (2) business
+days of receipt.
+
+3. Mortgage payments shall be allocated to principal, interest, insurance,
+taxes or other escrow items in accordance with the mortgagor's loan
+documents.
+
+4. Mortgage payments identified as loan payoffs shall be allocated in
+accordance with the mortgagor's loan documents.
+
+III. Disbursements
+
+1. Disbursements made via wire transfer on behalf of a mortgagor or investor
+shall be made only by authorized personnel.
+
+2. Disbursements made on behalf of a mortgagor or investor shall be posted
+within two (2) business days to the mortgagor's or investor's records
+maintained by the servicing entity.
+
+3. Tax and insurance payments shall be made on or before the penalty or
+insurance policy expiration dates, as indicated on tax bills and insurance
+premium notices, respectively, provided that such support has been received
+by the servicing entity at least thirty (30) calendar days prior to these
+dates.
+
+4. Any late payment penalties paid in conjunction with the payment of any tax
+bill or insurance premium notice shall be paid from the servicing entity's
+funds and not charged to the mortgagor, unless the late payment was due to
+the mortgagor's error or omission.
+
+5. Amounts remitted to investors per the servicer's investor reports shall
+agree with cancelled checks, or other form of payment, or custodial bank
+statements.
+
+6. Unissued checks shall be safeguarded so as to prevent unauthorized access.
+
+IV. Investor Accounting and Reporting
+
+1. The servicing entity's investor reports shall agree with, or reconcile to,
+investors' records on a monthly basis as to the total unpaid principal
+balance and number of loans serviced by the servicing entity.
+
+V. Mortgagor Loan Accounting
+
+1. The servicing entity's mortgage loan records shall agree with, or
+reconcile to, the records of mortgagors with respect to the unpaid
+principal balance on a monthly basis.
+
+2. Adjustments on adjustable rate mortgage (ARM) loans shall be computed
+based on the related mortgage note and any ARM rider.
+
+3. Escrow accounts shall be analyzed, in accordance with the mortgagor's loan
+documents, on at least an annual basis.
+
+V. Mortgagor Loan Accounting (continued)
+
+4. Interest on escrow accounts shall be paid, or credited, to mortgagors in
+accordance with the applicable state laws.
+
+VI. Delinquencies
+
+1. Records documenting collection efforts shall be maintained during the
+period a loan is in default and shall be updated at least monthly. Such
+records shall describe the entity's activities in monitoring delinquent
+loans including, for example, phone calls, letters and mortgage payment
+rescheduling plans in cases where the delinquency is deemed temporary
+(i.e., illness or unemployment).
+
+VII. Insurance Policies
+
+1. A fidelity bond and errors and omissions policy shall be in effect on the
+servicing entity throughout the reporting period in the amount of coverage
+represented to investors in management's assertion.
+
+
+
+
+
+  EX-99.2 (b)
+(logo) JPMorganChase
+
+
+Exhibit I
+
+
+Management's Assertion Concerning Compliance
+with USAP Minimum Servicing Standards
+
+
+March 11, 2005
+
+
+As of and for the year ended December 31, 2004, Chase Home Finance LLC
+(formerly known as Chase Manhattan Mortgage Corporation) (the "Company") has
+complied in all material respects with the minimum servicing standards
+(the "Standards") set forth in the Mortgage Bankers Association of America's
+Uniform Single Attestation Program for Mortgage Bankers ("USAP"). These
+Standards are applicable only to the Company's prime and subprime mortgage
+portfolios.
+
+As of and for this same period, the Company had in effect fidelity bond and
+errors and omissions policies in the amounts of $250,000,000 and $25,000,000
+respectively.
+
+
+
+/s/ Thomas L. Wind
+Thomas L. Wind
+Co-Chief Executive Officer
+Chase Home Finance LLC
+
+
+/s/ Scott Powell
+Scott Powell
+Co-Chief Executive Officer
+Chase Home Finance LLC
+
+
+/s/ Terry L. Gentry
+Terry L. Gentry
+SVP of Servicing
+Chase Home Finance LLC
+
+
+
+
+
+  EX-99.2 (c)
+(logo)
+OCWEN
+
+
+
+
+
+
+MANAGEMENT ASSERTION ON COMPLIANCE WITH USAP
+
+
+March 11, 2005
+
+As of and for the year ended December 31, 2004, except as specifically noted
+below, Ocwen Federal Bank FSB (the "Bank") has complied in all material respects
+with the minimum servicing standards set forth in the Mortgage Bankers
+Association of America's ("MBA's") Uniform Single Attestation Program for
+Mortgage Bankers ("USAP").
+
+* Standard: Reconciliations shall be prepared on a monthly basis for all
+custodial bank accounts and related bank clearing accounts. These
+reconciliations shall be mathematically accurate, be prepared within forty
+five (45) calendar days of the cutoff date; be reviewed and approved by
+someone other than the person who prepared the reconciliation; and document
+explanations for reconciling items. These reconciling items shall be resolved
+within ninety (90) calendar days of their original identification.
+
+Certain reconciling items which arose during the year ended December 31, 2004
+were not cleared within 90 days of their original identification. Management has
+developed and implemented an action plan and continues to resolve outstanding
+reconciling items. All significant reconciling items have been isolated and
+reviewed by the Bank, and the Bank believes these items will not have a material
+impact on the status of any custodial accounts.
+
+* Standard: Adjustments on ARM loans shall be computed based on the related
+mortgage note and any ARM rider.
+
+Certain ARM loans serviced by the Bank have odd due dates (i.e., due dates other
+than the first day of the month). The mortgage notes or ARM riders for some of
+the odd due date loans establish a look back date for the applicable index at a
+certain number of days prior to each Change Date, for example, 45 days prior to
+the effective Change Date. The Bank determines the look-back days by using a
+30-day month when subtracting the actual number of look-back days stated in the
+Mortgage Note or ARM rider from the effective Change Date. Some months that have
+more or less than 30 days may therefore have a miscalculated look-back date,
+resulting in the index rate being used on an incorrect date, but generally no
+more than a two-business day difference. This has resulted in some minor
+differences in the calculated monthly payment amount, which could be either
+higher or lower, depending on the movement in interest rates.
+
+
+
+
+
+
+
+(logo)
+OCWEN
+
+
+
+
+
+
+Management has implemented a corrective action plan to revise the internal
+procedures for processing these types of ARM adjustments, which includes
+adjusting the borrower accounts where necessary. The Bank believes that these
+differences did not have a material impact on any mortgagor or investor.
+
+As of and for this same period, the Bank had in effect a fidelity bond in the
+amount of $15,000,000 and an errors and omissions policy in the amount of
+$5,000,000.
+
+
+
+
+
+/s/ Ronald M. Faris
+Ronald M. Faris
+President
+
+
+
+/s/ Scott W. Anderson
+Scott W. Anderson
+Senior Vice President of Residential Assets
+
+
+
+
+/s/ Brian J. LaForest
+Brian J. LaForest
+Director of Investor Reporting
+
+
+
+/s/ Paul E. Neff
+Paul E. Neff
+Director of Servicing Operations
+
+
+
+
+
+  EX-99.2 (d)
+(logo) OPTION ONE
+       MORTGAGE
+
+(logo) H&R BLOCK
+an H&R Block company
+
+
+Management Assertion
+
+
+As of and for the year ended December 31, 2004, Option One Mortgage Corporation
+complied in all material respects with the minimum servicing standards set forth
+in the Mortgage Bankers Association of America's Uniform Single Attestation
+Program for Mortgage Bankers. As of and for this same period, Option One
+Mortgage Corporation had in effect a fidelity bond and errors and omissions
+policy in the amounts of $30,000,000 and $10,000,000, respectively.
+
+
+
+/s/ Robert E. Dubrish
+Robert E. Dubrish, Chief Executive Officer
+
+
+/s/ William L. O'Neill
+William L. O'Neill, Chief Financial Officer
+
+
+/s/ Matthew A. Engel
+Matthew A. Engel, Controller
+
+
+/s/ John A. Vella
+John A. Vella, Chief Servicing Officer
+
+
+
+
+
+  EX-99.2 (e)
+(logo) Wells Fargo Home Mortgage
+
+1 Home Campus
+Des Moines, IA 50328
+
+
+Assertion of Management of Wells Fargo Home Mortgage, a division of Wells
+Fargo Bank, N.A
+
+
+
+
+As of and for the year ended December 31, 2004, Wells Fargo Home Mortgage, a
+division of Wells Fargo Bank, N.A. (the Company) has complied in all material
+respects with the minimum servicing standards set forth in the Mortgage
+Bankers Association of America's Uniform Single Attestation Program for
+Mortgage Bankers.
+
+As of and for this same period, the Company had in effect a fidelity bond
+along with an errors and omissions policy in the amounts of $100 million and
+$20 million, respectively.
+
+
+/s/ Michael J. Heid
+February 23, 2005
+Michael J. Heid, Division President, Capital Markets, Finance, & Administration
+Wells Fargo Home Mortgage, a division of Wells Fargo Bank, N.A.
+
+
+/s/ Franklin R. Codel
+February 23. 2005
+Franklin R. Codel, Executive Vice President, Finance and Corporate Real Estate
+Wells Fargo Home Mortgage, a division of Wells Fargo Bank, N.A.
+
+
+/s/ Michael Lepore
+February 23. 2005
+Michael Lepore, Executive Vice President, Institutional Lending
+Wells Fargo Home Mortgage, a division of Wells Fargo Bank, N.A.
+
+
+/s/ Mary Coffin
+February 23, 2005
+Mary Coffin, Executive Vice President, Servicing & Post Closing
+Wells Fargo Home Mortgage, a division of Wells Fargo Bank, N.A.
+
+
+
+Wells Fargo Home Mortgage
+Is a division of Wells Fargo Bank, N.A.
+
+
+
+
+
+  EX-99.3 (a)
+AURORA LOAN SERVICES
+A Lehman Brothers Company
+
+
+Via UPS
+
+February 25, 2005
+
+Carla Shedrick
+Corporate Trust Services
+Wells Fargo Bank Minnesota, N.A.
+9062 Old Annapolis Road
+Columbia, MD 21045
+
+RE: Annual Officer's Certificate as to Compliance (Securitization listing on the
+    attached Exhibit A)
+
+Dear Ms. Shedrick:
+
+The undersigned Officer certifies the following for the period ending on
+December 31, 2004:
+
+1. I have reviewed the activities and performance of the Master Servicer during
+the preceding calendar year under the terms of the Trust Agreements and to the
+best of this Officer's knowledge, the Master Servicer has fulfilled all of its
+duties, responsibilities or obligations under the Agreements;
+
+2. Based on said review and to the best of this Officer's knowledge, the Master
+Servicer is not in default of its obligations under the terms of the Trust
+Agreements in any material respect, or, if there is a default in the
+fulfillment of its obligations, a description of each default or failure and
+the nature and status thereof has been reported to this Officer;
+
+3. To the best of this Officer's knowledge, nothing has arose to lead this
+Officer to believe that its Servicer has failed to perform any of its
+duties, responsibilities and obligations under its Servicing Agreement
+during the preceding calendar year;
+
+4. To the best of this Officer's knowledge, the Servicer is not in default of
+its obligations under the terms of its Servicing Agreement in any material
+respect, or, if there is a default in the fulfillment of its obligations, a
+description of each default or failure and the nature and status thereof has
+been reported to this Officer;
+
+5. The Master Servicer has received from its Servicer such Servicer's annual
+certificate of compliance and a copy of such Servicer's annual audit report,
+in each case to the extent required under the applicable Servicing
+Agreement, or, if any such certificate or report has not been received by
+the Master Servicer, the Master Servicer is using its best reasonable
+efforts to obtain such certificate or report.
+
+Certified By:
+
+/s/ R. Peter Karr
+
+R. Peter Karr
+Senior Vice President
+Master Servicing Division
+
+Cc: Greg Anselmi, Client Service Manager
+
+(logo) EQUAL HOUSING LENDER
+
+
+Exhibit A
+
+
+SASCO           SARM            ARC             SAIL
+2002-HF2        2004-1          2002-BC8        2003-BC3
+2002-BC1        2004-4          2002-BC9        2003-BC4
+2002-26         2004-5		2002-BC10	2003-BC5
+2003-6A         2004-7		2004-1		2003-BC6
+2003-15A        2004-9XS			2003-BC7
+2003-17A        2004-10				2003-BC8
+2003-22A        2004-12				2003-BC9
+2003-26A        2004-14				2003-BC10
+2003-34A        2004-16				2003-BC11
+2003-S2         2004-18 			2003-BC12
+2004-S2         2004-20				2003-BC13
+2004-SC1					2004-2
+2004-S3        					2004-3
+						2004-4
+						2004-5
+						2004-6
+						2004-BNC1
+						2004-8
+						2004-9
+						2004-10
+						2004-BNC2
+
+
+FFMLT		LABS		Encore
+2002-FF3	2004-2		2003-1
+2003-FFB
+2003-FF3
+2004-FFA
+2004-FF7
+
+
+
+
+
+
+
+
+
+
+  Ex-99.4
+
+   Schedule of Year-To-Date Principal and Interest Distributions to
+   Certificateholders
+
+
+   <TABLE>
+
+   Class                              Interest             Principal               Losses             Ending Balance
+   <s>                       <c>                    <c>                  <c>                 <c>
+   A1                             2,067,251.40          9,651,556.08                 0.00             499,819,443.92
+   A10                              438,250.00                  0.00                 0.00             100,000,000.00
+   A11                              158,271.78                  0.00                 0.00              32,251,000.00
+   A2                               489,135.51                  0.00                 0.00             108,156,000.00
+   A3                               992,005.46          7,473,237.39                 0.00             239,751,762.61
+   A4                               247,021.14                  0.00                 0.00              55,262,000.00
+   A5                             1,384,181.44         16,490,608.48                 0.00             344,196,391.52
+   A6                               621,371.94                  0.00                 0.00             149,548,000.00
+   A7                               502,626.13                  0.00                 0.00             111,139,000.00
+   A8                               992,850.54          3,797,575.78                 0.00             242,189,424.22
+   A9                               255,584.57                  0.00                 0.00              56,514,000.00
+   M1                               316,954.86                  0.00                 0.00              62,362,000.00
+   M2                               265,285.22                  0.00                 0.00              47,309,000.00
+   M3                                82,050.86                  0.00                 0.00              13,978,000.00
+   M4                                88,166.24                  0.00                 0.00              13,978,000.00
+   M5                               106,801.04                  0.00                 0.00              15,053,000.00
+   M6                                49,721.09                  0.00                 0.00               6,451,000.00
+   M7                                34,278.97                  0.00                 0.00               4,301,000.00
+   P                                301,077.75                  0.00                 0.00                     100.00
+   R1                                     0.00                  0.00                 0.00                       0.00
+   R2                                     0.00                  0.00                 0.00                       0.00
+   X                             13,881,622.95                  0.00                 0.00              10,751,318.16
+   </TABLE>
+</TEXT>
+</DOCUMENT>

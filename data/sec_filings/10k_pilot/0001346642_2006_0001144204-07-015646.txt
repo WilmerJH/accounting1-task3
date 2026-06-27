@@ -1,0 +1,271 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>v069958_10k.txt
+<TEXT>
+
+                            UNITED STATES OF AMERICA
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                                    FORM 10-K
+
+(Mark one)
+
+|X|   ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+      EXCHANGE ACT OF 1934
+      For the fiscal year ended December 31, 2006
+
+      OR
+
+|_|   TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+      EXCHANGE ACT OF 1934
+
+                      Commission File Number: 333-127360-02
+
+
+                    GE-WMC MORTGAGE SECURITIES, L.L.C. 2005-2
+
+            (as depositor under the Pooling and Servicing Agreement,
+           dated as of December 1, 2005, providing for the issuance of
+          GE-WMC ASSET-BACKED PASS-THROUGH CERTIFICATES, SERIES 2005-2)
+
+                       GE-WMC Mortgage Securities, L.L.C.
+             (Exact name of registrant as specified in its charter)
+
+                 Delaware                                         20-3251258
+     (State or other jurisdiction of                          (I.R.S. Employer
+      incorporation or organization)                         Identification No.)
+
+          3100 Thornton Avenue
+          Burbank, California                                        91504
+(Address of principal executive offices)                          (Zip Code)
+
+Registrants telephone number, including area code: 818-736-7023
+
+<PAGE>
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+      NONE.
+
+Securities registered pursuant to Section 12(g) of the Act:
+
+      NONE.
+
+Indicate by check mark whether the registrant is a well-known seasoned issuer,
+as defined in Rule 405 of the Securities Act.
+
+      Yes      No  X
+
+Indicate by check mark whether the registrant is not required to file reports
+pursuant to Section 13 or Section 15(d) of the Act.
+
+      Yes      No  X
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months (or for such shorter period that the registrant was
+required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days.
+
+      Yes  X   No
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405
+of Regulation S-K ( 229.405 of this chapter) is not contained herein, and will
+not be contained, to the best of registrants knowledge, in definitive proxy or
+information statements incorporated by reference in Part III of this Form 10-K
+or any amendment to this Form 10-K.
+
+      Yes      No  X
+
+Indicate by check mark whether the registrant is an accelerated filer (as
+defined in Rule 12b-2 of the Act).
+
+      Yes      No  X
+
+State the aggregate market value of the voting and non-voting common equity held
+by non-affiliates computed by reference to the price at which the common equity
+was last sold, or the average bid and asked price of such common equity, as of
+the last business day of the registrants most recently completed second fiscal
+quarter.
+
+      Not applicable.
+
+Indicate the number of shares outstanding of each of the registrants classes of
+common stock, as of the latest practicable date.
+
+      Not applicable.
+
+List hereunder the following documents if incorporated by reference and the Part
+of the Form 10-K (e.g. Part I, Part II, etc.) into which the document is
+incorporated: (1)Any annual report to security holders (2) Any proxy or
+information statement and (3)Any prospectus filed pursuant to Rule 424(b) or (c)
+under the Securities Act of 1933. The listed documents should be clearly
+described for identification purposes (e.g. annual report to security holders
+for fiscal year ended December 24, 1980).
+
+      Not applicable.
+
+                                      * * *
+
+<PAGE>
+
+                                     PART I
+
+Item 1. Business.
+
+                  This Annual Report on Form 10-K (the Report) is filed with
+            respect to GE-WMC Mortgage Securities Trust 2005-2 (the Trust).
+            Certain information requested by this Report is omitted pursuant to
+            the request for no-action letter forwarded to the Office of Chief
+            Counsel Division of Corporate Finance, dated November 25, 1996,
+            relating to Nellie Mae Education Funding, LLC, and the reponse of
+            the SEC, dated December 20, 1996, to the no-action request
+            (collectively, the No-Action Request).
+
+                  Omitted pursuant to the No-Action Request.
+
+Item 2. Properties.
+
+      Not applicable.
+
+Item 3. Legal Proceedings.
+
+      The Registrant knows of no material pending legal proceedings involving
+      the trust created under the pooling and servicing agreement pursuant to
+      which the Trust was created, the trustee, the servicer or the Registrant
+      with respect to the Trust other than routine litigation involving the
+      assets of the Trust or incidental to the duties of the respective parties
+
+Item 4. Submission of Matters to a Vote of Security Holders.
+
+      None.
+
+<PAGE>
+
+                                     PART II
+
+Item 5. Market for registrants Common Equity and Related Stockholder Matters.
+
+      (a)   Each class of publicly-offered securites is represented by one or
+            more certificates registered in the name of Cede & Co., the nominee
+            of The Depository Trust Company. To the best of knowledge of the
+            Registrant, there is no established public trading market for the
+            securities.
+
+      (b)   Not applicable
+
+      (c)   Not applicable.
+
+Item 6. Selected Financial Data.
+
+      Omitted pursuant to the No-Action Request.
+
+Item 7. Managements Discussion and Analysis of Financial Condition and Results
+        of Operation.
+
+      Omitted pursuant to the No-Action Request.
+
+Item 7A. Quantitative and Qualitative Disclosures about Market Risk.
+
+      Not applicable.
+
+Item 8. Financial Statements and Supplementary Data.
+
+      Omitted pursuant to the No-Action Request.
+
+Item 9. Changes in and Disagreements with Accountants on Accounting and
+        Financial Disclosure.
+
+      None.
+
+Item 9A and 9A(T). Controls and Procedures.
+
+      Omitted.
+
+Item 9B. Other Information
+
+      None.
+
+<PAGE>
+
+                                    PART III
+
+Item 10. Directors and Executive Officers of the Registrant.
+
+      Omitted pursuant to the No-Action Request.
+
+Item 11. Executive Compensation.
+
+      Omitted pursuant to the No-Action Request.
+
+Item 12. Security Ownership of Certain Beneficial Owners and Management.
+
+      Each class of securities is represented by one or more notes or
+      certificates registered in the name of Cede & Co., the nominee of The
+      Depository Trust Company (DTC). Cede & Co. is the sole holder of record of
+      the securities, which it held on behalf of brokers, dealers, banks and
+      other direct participants in the DTC system at December 31, 2006. Such
+      direct participants may hold securities for their own accounts or for the
+      accounts of their customers.
+
+Item 13. Certain Relationships and Related Transactions.
+
+      Nothing to report.
+
+Item 14. Principal Accounting Fees and Services.
+
+      Omitted.
+
+<PAGE>
+
+                                     PART IV
+
+Item 15. Exhibits, Financial Statement Schedules, and Reports on Form 8-K.
+
+(a)   List of Documents Filed as Part of this Annual Report on Form 10-K
+
+        EXHIBIT                         DESCRIPTION
+
+          31.1          Certification pursuant to Section 302 of the
+                        Sarbanes-Oxley Act of 2002
+
+          99.1          Annual Independent Accountants Servicing Reports
+                        concerning servicing activities for the year ended
+                        December 31, 2006.
+
+          99.2          Annual Statement of Compliance under the Pooling
+                        and Servicing Agreement for the year ended
+                        December 31, 2006.
+
+          99.4          Aggregate Statement of Principal and Interest
+                        Distributions to Certificate Holders.
+
+(b)   The following Current Reports on Form 8-K were filed by the Registrant
+      during the fiscal year ending December 31, 2006 and through the date
+      hereof:
+
+      Not Applicable.
+
+<PAGE>
+
+                                   SIGNATURES
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange
+Act of 1934, the registrant has duly caused this report to be signed on its
+behalf by the undersigned, thereunto duly authorized:
+
+
+GE-WMC MORTGAGE SECURITIES, L.L.C.
+(Registrant)
+
+Signed:
+
+By: James Zollo
+
+By: /s/ James Zollo
+
+Dated: March 29, 2007
+</TEXT>
+</DOCUMENT>

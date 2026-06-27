@@ -1,0 +1,508 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>d929417d10k.htm
+<DESCRIPTION>10-K
+<TEXT>
+<HTML><HEAD>
+<TITLE>10-K</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P> <P STYLE="margin-top:4pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>UNITED STATES </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>SECURITIES AND EXCHANGE COMMISSION </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Washington, D.C. 20549 </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>FORM <FONT
+STYLE="white-space:nowrap">10-K</FONT> </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>(Mark One) </B></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:12pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><B></B>&#9746;<B></B><B></B></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman; " ALIGN="left"><B>ANNUAL REPORT PURSUANT TO SECTION 13 OR 15 (d)&nbsp;OF THE SECURITIES EXCHANGE ACT OF 1934.
+</B></P></TD></TR></TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>For the fiscal year ended December&nbsp;31, 2018. </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>or </B></P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:12pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><B></B>&#9744;<B></B><B></B></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman; " ALIGN="left"><B>TRANSITION REPORT PURSUANT TO SECTION 13 OR 15 (d)&nbsp;OF THE SECURITIES EXCHANGE ACT OF 1934.
+</B></P></TD></TR></TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>For the transition period from
+<U>&nbsp;&nbsp;&nbsp;&nbsp;</U><U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U><U>&nbsp;&nbsp;&nbsp;&nbsp;</U><U>&nbsp;&nbsp;&nbsp;&nbsp;</U> to
+<U>&nbsp;&nbsp;&nbsp;&nbsp;</U><U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U><U>&nbsp;&nbsp;&nbsp;&nbsp;</U><U>&nbsp;&nbsp;&nbsp;&nbsp;</U>. </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:20pt; font-family:Times New Roman" ALIGN="center"><B>DRIVE AUTO
+RECEIVABLES TRUST <FONT STYLE="white-space:nowrap">2018-5</FONT> </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(Exact name of issuing entity as specified in its charter) </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Commission file number of the issuing entity: <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-215494-08</FONT></FONT>
+</B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Central Index Key Number of issuing entity: 0001757404 </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:20pt; font-family:Times New Roman" ALIGN="center"><B>SANTANDER DRIVE AUTO RECEIVABLES LLC </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(Exact name of depositor as specified in its charter) </B></P>
+<P STYLE="margin-top:10pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Commission file number of depositor: <FONT STYLE="white-space:nowrap">333-215494</FONT> </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Central Index Key Number of depositor: 0001383094 </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:20pt; font-family:Times New Roman" ALIGN="center"><B>SANTANDER CONSUMER USA INC. </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(Exact name of sponsor as specified in its charter) </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Central Index
+Key Number of sponsor: 0001540151 </B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Delaware </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(State or other jurisdiction of incorporation or organization of the issuing entity) </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B><FONT STYLE="white-space:nowrap">83-6270467</FONT> </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(I.R.S. Employer Identification No. of the issuing entity) </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>c/o Santander Drive Auto Receivables LLC </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>1601 Elm Street, Suite 800 </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Dallas, Texas 75201 </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Address of principal executive offices) </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(214) <FONT STYLE="white-space:nowrap">292-1930</FONT> </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Telephone number, including area code) </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Securities Registered Pursuant to Section&nbsp;12 (b)&nbsp;of the Securities Exchange Act of 1934: None </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Securities Registered Pursuant to Section&nbsp;12 (g)&nbsp;of the Securities Exchange Act of 1934: None </B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities
+Act.&nbsp;&nbsp;&nbsp;&nbsp;Yes&nbsp;&nbsp;&#9744;&nbsp;&nbsp;&nbsp;&nbsp;No&nbsp;&nbsp;&#9746; </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Indicate by check mark if the registrant is not required
+to file reports pursuant to Section&nbsp;13 or Section&nbsp;15(d) of the Act.&nbsp;&nbsp;&nbsp;&nbsp;Yes&nbsp;&nbsp;&#9744;&nbsp;&nbsp;&nbsp;&nbsp;No&nbsp;&nbsp;&#9746; </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Indicate by check mark whether the registrant (1)&nbsp;has filed all reports required to be filed by Section&nbsp;13 or 15 (d)&nbsp;of the Securities Exchange
+Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2)&nbsp;has been subject to such filing requirements for the past 90
+days.&nbsp;&nbsp;&nbsp;&nbsp;Yes&nbsp;&nbsp;&#9746;&nbsp;&nbsp;&nbsp;&nbsp;No&nbsp;&nbsp;&#9744; </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Indicate by check mark whether the registrant has
+submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation <FONT STYLE="white-space:nowrap">S-T</FONT> (&#167;232.405 of this chapter)
+during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files).&nbsp;&nbsp;&nbsp;&nbsp;Yes&nbsp;&nbsp;&#9746;&nbsp;&nbsp;&nbsp;&nbsp;No&nbsp;&nbsp;&#9744; </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Indicate by check mark if the disclosure of delinquent filers pursuant to Item&nbsp;405 of Regulation <FONT STYLE="white-space:nowrap">S-K</FONT>
+(&#167;229.405 of this chapter) is not contained herein and will not be contained, to the best of the Registrants&#146; knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form <FONT
+STYLE="white-space:nowrap">10-K</FONT> or any amendment to this Form <FONT STYLE="white-space:nowrap">10-K.&nbsp;&nbsp;&#9746;</FONT> </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Indicate by check
+mark whether the registrant is a large accelerated filer, an accelerated filer, a <FONT STYLE="white-space:nowrap">non-accelerated</FONT> filer, a smaller reporting company, or an emerging growth company. See the definitions of &#147;large
+accelerated filer,&#148; &#147;accelerated filer,&#148; &#147;smaller reporting company,&#148; and &#147;emerging growth company&#148; in Rule <FONT STYLE="white-space:nowrap">12b-2</FONT> of the Exchange Act. </P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="16%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="60%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="20%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="1%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom">Large&nbsp;accelerated&nbsp;filer</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&#9744;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">Accelerated&nbsp;filer</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&#9744;</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom">Non-accelerated filer</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&#9746;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">Smaller&nbsp;reporting&nbsp;company</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&#9744;</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">Emerging&nbsp;growth&nbsp;company</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&#9744;</TD></TR>
+</TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period
+for complying with any new or revised financial accounting standards provided pursuant to Section&nbsp;13(a) of the Exchange Act.&nbsp;&nbsp;&#9744; </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Indicate by check mark whether the registrant is a shell company (as defined in Rule <FONT STYLE="white-space:nowrap">12b-2</FONT> of the
+Act).&nbsp;&nbsp;&nbsp;&nbsp;Yes&nbsp;&nbsp;&#9744;&nbsp;&nbsp;&nbsp;&nbsp;No&nbsp;&nbsp;&#9746; </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">State the aggregate market value of the voting and <FONT
+STYLE="white-space:nowrap">non-voting</FONT> common equity held by <FONT STYLE="white-space:nowrap">non-affiliates</FONT> computed by reference to the price at which the common equity was last sold, or the average bid and asked price of such common
+equity, as of the last business day of the registrant&#146;s most recently completed second fiscal quarter. <B>Not applicable</B>. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">List hereunder the
+following documents if incorporated by reference and the part of the Form <FONT STYLE="white-space:nowrap">10-K</FONT> (e.g. Part I, Part II, etc.) into which the document is incorporated: (1)&nbsp;Any annual report to security holders; (2)&nbsp;Any
+proxy information statement; and (3)&nbsp;Any prospectus filed pursuant to Rule 424(b) or (c)&nbsp;under the Securities Act of 1933. The listed documents should be clearly described for identification purposes (e.g., annual report to security
+holders for fiscal year ended December&nbsp;24, 1980). <B>None</B>. </P> <P STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>PART I </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>The following items have been omitted in accordance with General Instruction J to Form <FONT STYLE="white-space:nowrap">10-K:</FONT> </B></P>
+<P STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="6%">&nbsp;</TD>
+<TD WIDTH="11%" VALIGN="top" ALIGN="left">Item&nbsp;1:</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">Business </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="6%">&nbsp;</TD>
+<TD WIDTH="11%" VALIGN="top" ALIGN="left">Item&nbsp;1A:</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">Risk Factors </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="6%">&nbsp;</TD>
+<TD WIDTH="11%" VALIGN="top" ALIGN="left">Item&nbsp;2:</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">Properties </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="6%">&nbsp;</TD>
+<TD WIDTH="11%" VALIGN="top" ALIGN="left">Item&nbsp;3:</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">Legal Proceedings </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="6%">&nbsp;</TD>
+<TD WIDTH="11%" VALIGN="top" ALIGN="left">Item&nbsp;4:</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">Mine Safety Disclosures </P></TD></TR></TABLE>
+<P STYLE="margin-top:10pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;1B. Unresolved Staff Comments. </B></P>
+<P STYLE="margin-top:10pt; margin-bottom:0pt; margin-left:6%; font-size:10pt; font-family:Times New Roman">Nothing to report. </P> <P STYLE="margin-top:10pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Substitute information
+provided in accordance with General Instruction J to Form <FONT STYLE="white-space:nowrap">10-K:</FONT> </B></P> <P STYLE="margin-top:10pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;1112(b) of Regulation AB.
+Significant Obligors of Pool Assets (Financial Information). </B></P> <P STYLE="margin-top:10pt; margin-bottom:0pt; margin-left:6%; font-size:10pt; font-family:Times New Roman">Nothing to report. </P>
+<P STYLE="margin-top:10pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;1114(b)(2) of Regulation AB. Credit Enhancement and Other Support, Except for Certain Derivatives Instruments (Information Regarding Significant
+Enhancement Providers). </B></P> <P STYLE="margin-top:10pt; margin-bottom:0pt; margin-left:6%; font-size:10pt; font-family:Times New Roman">Nothing to report. </P>
+<P STYLE="margin-top:10pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;1115(b) of Regulation AB. Certain Derivatives Instruments (Financial Information). </B></P>
+<P STYLE="margin-top:10pt; margin-bottom:0pt; margin-left:6%; font-size:10pt; font-family:Times New Roman">Nothing to report. </P> <P STYLE="margin-top:10pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;1117 of
+Regulation AB. Legal Proceedings. </B></P> <P STYLE="margin-top:10pt; margin-bottom:0pt; margin-left:6%; font-size:10pt; font-family:Times New Roman">Nothing to report. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">2 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>PART II </B></P>
+<P STYLE="margin-top:10pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>The following items have been omitted in accordance with General Instruction J to Form <FONT STYLE="white-space:nowrap">10-K:</FONT> </B></P>
+<P STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="6%">&nbsp;</TD>
+<TD WIDTH="11%" VALIGN="top" ALIGN="left">Item&nbsp;5:</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">Market for Registrant&#146;s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity
+Securities </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="6%">&nbsp;</TD>
+<TD WIDTH="11%" VALIGN="top" ALIGN="left">Item&nbsp;6:</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">Selected Financial Data </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="6%">&nbsp;</TD>
+<TD WIDTH="11%" VALIGN="top" ALIGN="left">Item&nbsp;7:</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">Management&#146;s Discussion and Analysis of Financial Condition and Results of Operations
+</P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="6%">&nbsp;</TD>
+<TD WIDTH="11%" VALIGN="top" ALIGN="left">Item&nbsp;7A:</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">Quantitative and Qualitative Disclosures about Market Risk </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="6%">&nbsp;</TD>
+<TD WIDTH="11%" VALIGN="top" ALIGN="left">Item&nbsp;8:</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">Financial Statements and Supplementary Data </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="6%">&nbsp;</TD>
+<TD WIDTH="11%" VALIGN="top" ALIGN="left">Item&nbsp;9:</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">Changes in and Disagreements with Accountants on Accounting and Financial Disclosure </P></TD></TR></TABLE>
+<P STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="6%">&nbsp;</TD>
+<TD WIDTH="11%" VALIGN="top" ALIGN="left">Item&nbsp;9A:</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">Controls and Procedures </P></TD></TR></TABLE>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;9B. Other Information. </B></P>
+<P STYLE="margin-top:10pt; margin-bottom:0pt; margin-left:6%; font-size:10pt; font-family:Times New Roman">Santander Consumer USA Inc. (&#147;SC&#148;) is a wholly-owned subsidiary of Santander Consumer USA Holdings Inc. (&#147;SC Holdings&#148;).
+On February&nbsp;26, 2019, SC Holdings filed its Annual Report on Form <FONT STYLE="white-space:nowrap">10-K</FONT> for the year ended December&nbsp;31, 2018 and disclosed certain legal and regulatory matters.&nbsp;Additional information about SC
+Holdings and its consolidated subsidiaries, including information contained in required annual reports on Form <FONT STYLE="white-space:nowrap">10-K,</FONT> quarterly reports on Form <FONT STYLE="white-space:nowrap">10-Q</FONT> and current reports
+on Form <FONT STYLE="white-space:nowrap">8-K,</FONT> is on file with the SEC under the name &#147;Santander Consumer USA Holdings Inc.&#148; and file number <FONT STYLE="white-space:nowrap">001-36270.</FONT> </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">3 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>PART III </B></P>
+<P STYLE="margin-top:10pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>The following items have been omitted in accordance with General Instruction J to Form <FONT STYLE="white-space:nowrap">10-K:</FONT> </B></P>
+<P STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="6%">&nbsp;</TD>
+<TD WIDTH="11%" VALIGN="top" ALIGN="left">Item&nbsp;10:</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">Directors, Executive Officers, and Corporate Governance </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="6%">&nbsp;</TD>
+<TD WIDTH="11%" VALIGN="top" ALIGN="left">Item&nbsp;11:</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">Executive Compensation </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="6%">&nbsp;</TD>
+<TD WIDTH="11%" VALIGN="top" ALIGN="left">Item&nbsp;12:</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
+</P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="6%">&nbsp;</TD>
+<TD WIDTH="11%" VALIGN="top" ALIGN="left">Item&nbsp;13:</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">Certain Relationships and Related Transactions, and Director Independence </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="6%">&nbsp;</TD>
+<TD WIDTH="11%" VALIGN="top" ALIGN="left">Item&nbsp;14:</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">Principal Accounting Fees and Services </P></TD></TR></TABLE>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Substitute information provided in accordance with General Instruction J to Form <FONT STYLE="white-space:nowrap">10-K:</FONT> </B></P>
+<P STYLE="margin-top:10pt; margin-bottom:0pt; margin-left:6%; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;1119 of Regulation AB. Affiliations and Certain Relationships and Related Transactions. </B></P>
+<P STYLE="margin-top:10pt; margin-bottom:0pt; margin-left:6%; font-size:10pt; font-family:Times New Roman">Information required by Item 1119 of Regulation AB has been omitted from this report on Form <FONT STYLE="white-space:nowrap">10-K</FONT> in
+reliance on the Instruction to Item 1119. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; margin-left:6%; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;1122 of Regulation AB. Compliance with Applicable Servicing Criteria. </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:6%; font-size:10pt; font-family:Times New Roman">Each of SC and Wilmington Trust, National Association (each, a &#147;Servicing Participant&#148;) have been identified by the issuing entity as
+parties participating in the servicing function with respect to the pool assets held by the issuing entity.&nbsp;Each of the Servicing Participants has completed a report on an assessment of compliance with the servicing criteria applicable to it
+(each, a &#147;Report on Assessment&#148;), which Reports on Assessment are attached as exhibits to this Form <FONT STYLE="white-space:nowrap">10-K.&nbsp;In</FONT> addition, each of the Servicing Participants has provided an attestation report
+(each, an &#147;Attestation Report&#148;) by one or more registered public accounting firms, which reports are also attached as exhibits to this Form <FONT STYLE="white-space:nowrap">10-K.</FONT> </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:6%; font-size:10pt; font-family:Times New Roman">None of the Reports on Assessment or the related Attestation Reports has identified any material instances of noncompliance with the servicing
+criteria described in the related Report on Assessment as being applicable to such Servicing Participant. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; margin-left:6%; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;1123 of Regulation
+AB. Servicer Compliance Statements. </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:6%; font-size:10pt; font-family:Times New Roman">SC has been identified by the issuing entity as the servicer with respect to the asset pool held
+by the issuing entity.&nbsp;SC has completed a statement of compliance with applicable servicing criteria signed by an authorized officer.&nbsp;The Compliance Statement is attached as an exhibit to this Form
+<FONT STYLE="white-space:nowrap">10-K.</FONT> </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">4 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>PART IV </B></P>
+<P STYLE="margin-top:10pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;15. Exhibits and Financial Statement Schedules. </B></P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="7%" VALIGN="top" ALIGN="left">(a)(1)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">Not Applicable. </P></TD></TR></TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="7%" VALIGN="top" ALIGN="left">(a)(2)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">Not Applicable. </P></TD></TR></TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="7%" VALIGN="top" ALIGN="left">(a)(3)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">See Item 15(b) below. </P></TD></TR></TABLE>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="7%" VALIGN="top" ALIGN="left">(b)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">Exhibits. </P></TD></TR></TABLE>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:7%; font-size:10pt; font-family:Times New Roman">The exhibits listed below are either included or incorporated by reference as indicated: </P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><DIV ALIGN="right">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="93%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="7%"></TD>
+<TD WIDTH="90%"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-bottom:1.00pt solid #000000; display:table-cell; font-size:8pt; font-family:Times New Roman; " ALIGN="center">Exhibit&nbsp;No.</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-bottom:1.00pt solid #000000; display:table-cell; font-size:8pt; font-family:Times New Roman; " ALIGN="center">Description</P></TD></TR>
+
+
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>&nbsp;&nbsp;1.1</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1383094/000119312518329152/d654892dex11.htm">Underwriting Agreement, dated as of November&nbsp;
+15, 2018, among Santander Drive Auto Receivables LLC (&#147;Santander Drive&#148;), Santander Consumer USA Inc. (&#147;SC&#148;) and Citigroup Global Markets Inc., as representative of the several underwriters (incorporated by reference to Exhibit 1.1 of
+ Form <FONT STYLE="white-space:nowrap">8-K</FONT> filed by the Issuer (Commission File <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">No.&nbsp;333-215494-08)</FONT></FONT> with the Securities and Exchange Commission on
+November&nbsp;16, 2018) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>&nbsp;&nbsp;3.1</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1383094/000119312515308284/d66820dex31.htm">Amended and Restated Limited Liability Company Agreement of Santander Drive dated as of March&nbsp;7, 2007&nbsp;
+(incorporated by reference to Exhibit 3.1 of <FONT STYLE="white-space:nowrap">Form&nbsp;SF-3</FONT> filed by Santander Drive (Commission File <FONT STYLE="white-space:nowrap">No.&nbsp;
+333-215494)</FONT> with the Securities and Exchange Commission on January&nbsp;10, 2017) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>&nbsp;&nbsp;3.2</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1383094/000119312517189436/d366174dex32.htm">First Amendment to Amended and Restated Limited Liability Company Agreement, dated as of February&nbsp;
+28, 2017, by SC, as sole equity member (incorporated by reference to Exhibit 3.2 of <FONT STYLE="white-space:nowrap">Form&nbsp;SF-3/A</FONT> filed by Santander Drive (Commission File <FONT STYLE="white-space:nowrap">No.&nbsp;
+333-215494)</FONT> with the Securities and Exchange Commission on May&nbsp;31, 2017) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>&nbsp;&nbsp;4.1</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1383094/000119312518331372/d654892dex41.htm">Indenture, dated as of November&nbsp;
+20, 2018, between Drive Auto Receivables Trust <FONT STYLE="white-space:nowrap">2018-5,</FONT> as issuer (the &#147;Issuer&#148;), and Wilmington Trust, National Association, as indenture trustee (the &#147;Indenture Trustee&#148;) (incorporated by reference
+ to Exhibit 4.1 of Form <FONT STYLE="white-space:nowrap">8-K</FONT> filed by the Issuer (Commission File <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">No.&nbsp;333-215494-08)</FONT></FONT> with the Securities and Exchange
+Commission on November&nbsp;20, 2018) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.1</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1383094/000119312518331372/d654892dex101.htm">Purchase Agreement, dated as of November&nbsp;20, 2018, between SC and Santander Drive (incorporated by reference to Exhibit 10.1 of Form <FONT
+STYLE="white-space:nowrap">8-K</FONT> filed by the Issuer (Commission File <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">No.&nbsp;333-215494-08)</FONT></FONT> with the Securities and Exchange Commission on November&nbsp;
+20, 2018) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.2</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1383094/000119312518331372/d654892dex102.htm">Sale and Servicing Agreement, dated as of November&nbsp;
+20, 2018, among the Issuer, Santander Drive, SC and the Indenture Trustee (incorporated by reference to Exhibit 10.2 of Form <FONT STYLE="white-space:nowrap">8-K</FONT> filed by the Issuer (Commission File <FONT STYLE="white-space:nowrap"><FONT
+STYLE="white-space:nowrap">No.&nbsp;333-215494-08)</FONT></FONT> with the Securities and Exchange Commission on November&nbsp;20, 2018)</A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.3</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1383094/000119312518331372/d654892dex103.htm">Administration Agreement, dated as of November&nbsp;
+20, 2018, among the Issuer, SC, as administrator, and the Indenture Trustee (incorporated by reference to Exhibit 10.3 of Form <FONT STYLE="white-space:nowrap">8-K</FONT> filed by the Issuer (Commission File <FONT STYLE="white-space:nowrap"><FONT
+STYLE="white-space:nowrap">No.&nbsp;333-215494-08)</FONT></FONT> with the Securities and Exchange Commission on November&nbsp;20, 2018) </A></TD></TR></TABLE></DIV>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">5 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+<DIV ALIGN="right">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="93%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="7%"></TD>
+<TD WIDTH="90%"></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.4</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1383094/000119312518331372/d654892dex104.htm">Amended and Restated Trust Agreement, dated as of November&nbsp;
+20, 2018, between Santander Drive and Wells Fargo Delaware Trust Company, N.A, not in its individual capacity but solely as owner trustee for the Issuer (incorporated by reference to Exhibit 10.4 of Form <FONT STYLE="white-space:nowrap">8-K</FONT> filed
+ by the Issuer (Commission File <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">No.&nbsp;333-215494-08)</FONT></FONT> with the Securities and Exchange Commission on November&nbsp;20, 2018) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.5</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1383094/000119312518331372/d654892dex105.htm">Asset Representations Review Agreement, dated as of November&nbsp;
+20, 2018, among the Issuer, SC, as sponsor and servicer, and Clayton Fixed Income Services LLC, as asset representations reviewer (incorporated by reference to Exhibit 10.5 of Form <FONT STYLE="white-space:nowrap">8-K</FONT> filed by the Issuer (Commission
+ File <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">No.&nbsp;333-215494-08)</FONT></FONT> with the Securities and Exchange Commission on November&nbsp;20, 2018) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>31.1</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="d929417dex311.htm">Certification (Santander Drive) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>33.1</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="d929417dex331.htm">Management&#146;s Assessment of Compliance with SEC Regulation AB Servicing Criteria (SC) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>33.2</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="d929417dex332.htm">Assessment of Compliance with the Applicable Servicing Criteria (Indenture Trustee) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>34.1</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="d929417dex341.htm">Report of Independent Registered Public Accounting Firm (PricewaterhouseCoopers LLP with respect to SC) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>34.2</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="d929417dex342.htm">Report of Independent Registered Public Accounting Firm (PricewaterhouseCoopers LLP with respect to the Indenture Trustee) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>35.1</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="d929417dex351.htm">Servicer Compliance Statement (SC) </A></TD></TR>
+</TABLE></DIV> <P STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(c)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">Not Applicable. </P></TD></TR></TABLE>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item 16. Form <FONT STYLE="white-space:nowrap">10-K</FONT> Summary</B>. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">None </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Supplemental information to be Furnished With Reports
+Filed Pursuant to Section&nbsp;15(d) of the Act by Registrants Which Have Not Registered Securities Pursuant to Section&nbsp;12 of the Act. </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">No annual
+report, proxy statement, form of proxy or other proxy soliciting material has been sent to certificateholders, and the registrant does not presently contemplate sending any such materials subsequent to the filing of this report. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">6 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>SIGNATURES </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Pursuant to the requirements of Section&nbsp;13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to
+be signed on its behalf by the undersigned, thereunto duly authorized. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Date:&nbsp;March&nbsp;29, 2019 </P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><DIV ALIGN="right">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+<TD WIDTH="12%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="87%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" COLSPAN="3">SANTANDER DRIVE AUTO RECEIVABLES LLC, as depositor</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">By:</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">/s/ Corey Henry</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Name:</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">Corey Henry</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Title:</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">President and Chief Executive Officer</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(senior officer in charge of securitization of the depositor)</TD></TR>
+</TABLE></DIV>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">7 </P>
+
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>

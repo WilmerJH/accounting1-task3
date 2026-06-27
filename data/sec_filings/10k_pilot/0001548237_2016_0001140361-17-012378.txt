@@ -1,0 +1,941 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>form10k.htm
+<DESCRIPTION>FIXED INCOME TRUST FOR PRUDENTIAL FINANCIAL, INC. NOTES, SERIES 2012-1 10-K 12-31-2016
+<TEXT>
+<html>
+<head>
+<title></title>
+<!--Licensed to: Summit Financial Printing, LLC
+    Document created using EDGARfilings PROfile 4.2.1.0
+    Copyright 1995 - 2017 Summit Financial Printing, LLC.  All rights reserved.-->
+</head>
+<body style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'" bgcolor="#ffffff" text="#000000">
+<div>
+<hr style="BORDER-TOP: black 4px solid; HEIGHT: 10px; BORDER-RIGHT: medium none; BORDER-BOTTOM: black 1px solid; COLOR: #ffffff; TEXT-ALIGN: center; MARGIN-LEFT: auto; BORDER-LEFT: medium none; BACKGROUND-COLOR: #ffffff; MARGIN-RIGHT: auto" align="center">
+</div>
+
+<div style="FONT-SIZE: 14pt; FONT-FAMILY: 'Times New Roman'; FONT-WEIGHT: bold; TEXT-ALIGN: center">UNITED STATES</div>
+
+<div style="FONT-SIZE: 14pt; FONT-FAMILY: 'Times New Roman'; FONT-WEIGHT: bold; TEXT-ALIGN: center">SECURITIES AND EXCHANGE COMMISSION</div>
+
+<div style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; FONT-WEIGHT: bold; TEXT-ALIGN: center">WASHINGTON, D.C. 20549</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; FONT-WEIGHT: bold; TEXT-ALIGN: center">&#160;</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; FONT-WEIGHT: bold; TEXT-ALIGN: center">
+<hr style="BORDER-TOP: medium none; HEIGHT: 2px; BORDER-RIGHT: medium none; BORDER-BOTTOM: medium none; COLOR: #000000; TEXT-ALIGN: center; MARGIN-LEFT: auto; BORDER-LEFT: medium none; WIDTH: 5%; BACKGROUND-COLOR: #000000; MARGIN-RIGHT: auto" align="center" noshade="noshade">
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; FONT-WEIGHT: bold; TEXT-ALIGN: center">&#160;</div>
+
+<div style="FONT-SIZE: 18pt; FONT-FAMILY: 'Times New Roman'; FONT-WEIGHT: bold; TEXT-ALIGN: center">FORM 10&#8209;K</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; FONT-WEIGHT: bold; TEXT-ALIGN: center">FOR ANNUAL AND TRANSITION REPORTS</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; FONT-WEIGHT: bold; TEXT-ALIGN: center">PURSUANT TO SECTIONS 13 OR 15(d) OF THE</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; FONT-WEIGHT: bold; TEXT-ALIGN: center">SECURITIES EXCHANGE ACT OF 1934</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; FONT-WEIGHT: bold; TEXT-ALIGN: center">&#160;</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">(Mark One)</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">&#160;</div>
+
+<div style="TEXT-ALIGN: left">
+<table id="z4e876d4fe9d14df8ad501487d66bbcca" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 36pt"></td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Wingdings 2', serif; VERTICAL-ALIGN: top; WIDTH: 36pt; align: right">S</td>
+<td style="VERTICAL-ALIGN: top; TEXT-ALIGN: left; WIDTH: auto">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'">ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left; TEXT-INDENT: 36pt">&#160;</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left; TEXT-INDENT: 36pt">For the fiscal year ended December 31, 2016</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left; TEXT-INDENT: 36pt">&#160;</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: center">or</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: center">&#160;</div>
+
+<div style="TEXT-ALIGN: left">
+<table id="z471791213b1a4478bec249b311f22242" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 36pt"></td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Wingdings 2', serif; VERTICAL-ALIGN: top; WIDTH: 36pt; align: right">&#163;</td>
+<td style="VERTICAL-ALIGN: top; TEXT-ALIGN: left; WIDTH: auto">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'">TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left; TEXT-INDENT: 36pt">&#160;</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left; TEXT-INDENT: 36pt">For the transition period from ________ to ________</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left; TEXT-INDENT: 36pt">&#160;</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: center">Commission File Number of issuing entity:&#160; <font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; BACKGROUND-COLOR: #ffffff">001-35579</font></div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: center">&#160;</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: center">Central Index Key number of issuing entity: 0001548237</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: center">&#160;</div>
+
+<div style="FONT-SIZE: 24pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: center">Fixed Income Trust for Prudential Financial, Inc. Notes, Series 2012-1</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: center">
+<table id="zd390f7b444e54a05bfc238bb66df3fb2" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; WIDTH: 50%" cellspacing="0" cellpadding="0" align="center" border="0">
+<tr>
+<td style="BORDER-BOTTOM: #000000 2px solid; WIDTH: 50%">
+<div>&#160;</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: center">(Exact name of issuing entity as specified in its charter)</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: center">&#160;</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: center">Commission File Number of depositor and sponsor: 001-35323</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: center">&#160;</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: center">Central Index Key number of depositor and sponsor: 0001509307</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: center">&#160;</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: center">Fixed Income Client Solutions LLC</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: center">
+<table id="z5777040332154d2f93dfef72a7cecde3" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; WIDTH: 50%" cellspacing="0" cellpadding="0" align="center" border="0">
+<tr>
+<td style="BORDER-BOTTOM: #000000 2px solid; WIDTH: 50%">
+<div>&#160;</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: center">(Exact name of depositor and sponsor as specified in its charter)</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: center">&#160;</div>
+
+<div>
+<table id="z8031f4e6f2a242099713dd39068cdb02" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; BORDER-COLLAPSE: collapse; WIDTH: 100%" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td style="VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid; WIDTH: 49%">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: center">Delaware</div>
+</td>
+<td style="VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid; WIDTH: 2%">&#160;</td>
+<td style="VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid; WIDTH: 49%">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: center">27-4404514</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-TOP: #000000 2px solid; VERTICAL-ALIGN: top; WIDTH: 49%">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: center">(State or other jurisdiction of incorporation or organization)</div>
+</td>
+<td style="BORDER-TOP: #000000 2px solid; VERTICAL-ALIGN: top; WIDTH: 2%">&#160;</td>
+<td style="BORDER-TOP: #000000 2px solid; VERTICAL-ALIGN: top; WIDTH: 49%">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: center">(I.R.S. Employer Identification No.)</div>
+</td>
+</tr>
+
+<tr>
+<td style="VERTICAL-ALIGN: bottom; WIDTH: 49%">&#160;</td>
+<td style="VERTICAL-ALIGN: bottom; WIDTH: 2%">&#160;</td>
+<td style="VERTICAL-ALIGN: bottom; WIDTH: 49%">&#160;</td>
+</tr>
+
+<tr>
+<td style="VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid; WIDTH: 49%">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: center">Fixed Income Client Solutions LLC</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: center">214 N. Tryon Street, Suite 2636</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: center">Charlotte, North Carolina</div>
+</td>
+<td style="VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid; WIDTH: 2%">&#160;</td>
+<td style="VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid; WIDTH: 49%">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: center">28202</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-TOP: #000000 2px solid; VERTICAL-ALIGN: bottom; WIDTH: 49%">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: center">(Address of principal executive offices)</div>
+</td>
+<td style="BORDER-TOP: #000000 2px solid; VERTICAL-ALIGN: bottom; WIDTH: 2%">&#160;</td>
+<td style="BORDER-TOP: #000000 2px solid; VERTICAL-ALIGN: bottom; WIDTH: 49%">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: center">(Zip Code)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">&#160;</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">Registrant&#8217;s telephone number, including area code: (877) 421-7858</div>
+
+<div>&#160;</div>
+
+<div>
+<hr style="BORDER-TOP: black 1px solid; HEIGHT: 10px; BORDER-RIGHT: medium none; BORDER-BOTTOM: black 4px solid; COLOR: #ffffff; TEXT-ALIGN: center; MARGIN-LEFT: auto; BORDER-LEFT: medium none; BACKGROUND-COLOR: #ffffff; MARGIN-RIGHT: auto" align="center">
+</div>
+
+<div id="DSPFPageBreakArea" style="MARGIN-BOTTOM: 10pt; CLEAR: both; MARGIN-TOP: 10pt">
+<div id="DSPFPageBreak" style="PAGE-BREAK-AFTER: always">
+<hr style="BORDER-LEFT-WIDTH: 0px; HEIGHT: 2px; BORDER-RIGHT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; COLOR: #000000; CLEAR: both; MARGIN: 4px 0px; BORDER-TOP-WIDTH: 0px; WIDTH: 100%; BACKGROUND-COLOR: #000000" noshade="noshade">
+</div>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: center">Securities registered pursuant to Section 12(b) of the Act:</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: center">&#160;</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: center">
+<table id="z111e9355ee7547da9e50391d91cda87a" style="FONT-SIZE: 10pt; BORDER-TOP: medium none; FONT-FAMILY: 'Times New Roman'; BORDER-RIGHT: medium none; BORDER-COLLAPSE: collapse; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; WIDTH: 100%" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td style="BORDER-TOP: medium none; BORDER-RIGHT: medium none; VERTICAL-ALIGN: top; BORDER-BOTTOM: medium none; TEXT-ALIGN: center; BORDER-LEFT: medium none; WIDTH: 49%">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'"><u>Title of Each Class</u></div>
+</td>
+<td style="BORDER-TOP: medium none; BORDER-RIGHT: medium none; VERTICAL-ALIGN: top; BORDER-BOTTOM: medium none; TEXT-ALIGN: center; BORDER-LEFT: medium none; WIDTH: 2%">&#160;</td>
+<td style="BORDER-TOP: medium none; BORDER-RIGHT: medium none; VERTICAL-ALIGN: top; BORDER-BOTTOM: medium none; TEXT-ALIGN: center; BORDER-LEFT: medium none; WIDTH: 49%">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'"><u>Name of Each Exchange on Which Registered</u></div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-TOP: medium none; BORDER-RIGHT: medium none; VERTICAL-ALIGN: top; BORDER-BOTTOM: medium none; TEXT-ALIGN: center; BORDER-LEFT: medium none; WIDTH: 49%">&#160;</td>
+<td style="BORDER-TOP: medium none; BORDER-RIGHT: medium none; VERTICAL-ALIGN: top; BORDER-BOTTOM: medium none; TEXT-ALIGN: center; BORDER-LEFT: medium none; WIDTH: 2%">&#160;</td>
+<td style="BORDER-TOP: medium none; BORDER-RIGHT: medium none; VERTICAL-ALIGN: top; BORDER-BOTTOM: medium none; TEXT-ALIGN: center; BORDER-LEFT: medium none; WIDTH: 49%">&#160;</td>
+</tr>
+
+<tr>
+<td style="BORDER-TOP: medium none; BORDER-RIGHT: medium none; VERTICAL-ALIGN: top; BORDER-BOTTOM: medium none; TEXT-ALIGN: center; BORDER-LEFT: medium none; WIDTH: 49%">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'">Class A-2037 Callable Step Up Certificates</div>
+</td>
+<td style="BORDER-TOP: medium none; BORDER-RIGHT: medium none; VERTICAL-ALIGN: top; BORDER-BOTTOM: medium none; TEXT-ALIGN: center; BORDER-LEFT: medium none; WIDTH: 2%">&#160;</td>
+<td style="BORDER-TOP: medium none; BORDER-RIGHT: medium none; VERTICAL-ALIGN: top; BORDER-BOTTOM: medium none; TEXT-ALIGN: center; BORDER-LEFT: medium none; WIDTH: 49%">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'">New York Stock Exchange LLC</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div>&#160;</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: center">Securities registered pursuant to Section 12(g) of the Act:</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: center">&#160;</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: center">None.</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act.</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">Yes &#9744; No &#9746;</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">&#160;</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act.</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">Yes &#9744; No &#9746;</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">&#160;</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">Indicate by check mark whether the registrant: (1) Has filed all reports required to be filed by section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">Yes&#160;&#9746;&#160;No &#9744;</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">&#160;</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T (&#167; 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files).</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">Yes&#160;&#9746; No &#9744;</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">&#160;</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S&#8209;K is not contained herein, and will not be contained, to the best of registrant&#8217;s knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form 10&#8209;K or any amendment to this Form 10&#8209;K.</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">Not applicable.</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">&#160;</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">Indicate by check mark whether the registrant is large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See the definition of &#8220;large accelerated filer,&#8221; &#8220;accelerated filer&#8221; and &#8220;smaller reporting company&#8221; in Rule 12b&#8209;2 of the Exchange Act.</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">
+<table id="z2c31642baac244c8b305c45237f45d10" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; WIDTH: 100%" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td style="WIDTH: 25%">
+<div>Large accelerated filer&#160;&#9744;</div>
+</td>
+<td style="WIDTH: 25%">
+<div>Accelerated filer&#160;&#9744;</div>
+</td>
+<td style="WIDTH: 25%">
+<div>Non- accelerated filer&#160;&#160;&#9746;</div>
+</td>
+<td style="WIDTH: 25%">
+<div>Smaller reporting company &#9744;</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">&#160;</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act).</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">Yes&#160;&#9744; No &#9746;</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">&#160;</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">State the aggregate market value of the voting and non-voting common equity held by non-affiliates computed by reference to the price at which the common equity was last sold, or the average bid and asked price of such common equity, as of the last business day of the registrant&#8217;s most recently completed second fiscal quarter:</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">&#160;</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">The registrant has no voting stock or class of common stock that is held by non-affiliates.</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; FONT-WEIGHT: bold; TEXT-ALIGN: center">&#160;</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; FONT-WEIGHT: bold; TEXT-ALIGN: center">DOCUMENTS INCORPORATED BY REFERENCE</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">&#160;</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">None.</div>
+
+<div id="DSPFPageBreakArea" style="MARGIN-BOTTOM: 10pt; CLEAR: both; MARGIN-TOP: 10pt">
+<div id="DSPFPageBreak" style="PAGE-BREAK-AFTER: always">
+<hr style="BORDER-LEFT-WIDTH: 0px; HEIGHT: 2px; BORDER-RIGHT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; COLOR: #000000; CLEAR: both; MARGIN: 4px 0px; BORDER-TOP-WIDTH: 0px; WIDTH: 100%; BACKGROUND-COLOR: #000000" noshade="noshade">
+</div>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; FONT-WEIGHT: bold; TEXT-ALIGN: center">Introductory Note</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; FONT-WEIGHT: bold; TEXT-ALIGN: center">&#160;</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">Fixed Income Client Solutions LLC (the &#8220;Depositor&#8221;) is the Depositor in respect of the Fixed Income Trust for Prudential Financial, Inc. Notes, Series 2012-1 (the &#8220;Trust&#8221;), a Delaware statutory trust formed pursuant to the Trust Agreement, dated as of June 11, 2012, between the Depositor and The Bank of New York Mellon, as Trustee (the &#8220;Trustee&#8221;), as supplemented by the Trust Agreement Supplement, Series 2012-1 (the &#8220;Series Supplement&#8221;), dated as of June 11, 2012, in respect of the Trust.&#160; The Trust&#8217;s assets consist solely of notes issued by Prudential Financial, Inc.&#160; The Certificates do not represent obligations of or interests in the Depositor or the Trustee.</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">&#160;</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">Pursuant to staff administrative positions established in Corporate Asset Backed Corporation (available August 9, 1995), the Trust is not required to respond to various items of Form 10-K.&#160; Such items are designated herein as &#8220;Not Applicable.&#8221;&#160; Distribution reports detailing receipts and distributions by the Trust are filed after each distribution date on Form 10-D in lieu of reports on Form 10-Q.</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">&#160;</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">Prudential Financial, Inc., the issuer of the underlying securities, is subject to the information reporting requirements of the Securities Exchange Act of 1934 (the &#8220;Exchange Act&#8221;).&#160; For information on Prudential Financial, Inc., please see its periodic and current reports filed with the Securities and Exchange Commission (the &#8220;Commission&#8221;) under its Exchange Act file number, 333-132469.&#160; The Commission maintains a site on the World Wide Web at &#8220;http://www.sec.gov&#8221; at which users can view and download copies of reports, proxy and information statements and other information filed electronically through the Electronic Data Gathering, Analysis and Retrieval system, or &#8220;EDGAR.&#8221;&#160; Periodic and current reports and other information required to be filed pursuant to the Exchange Act by Prudential Financial, Inc. may be accessed on this site.&#160; You can request copies of these documents, upon payment of a duplicating fee, by writing to the SEC.&#160; Neither Fixed Income Client Solutions LLC nor the Trustee has participated in the preparation of such reporting documents, or made any due diligence investigation with respect to the information provided therein.&#160; Neither Fixed Income Client Solutions LLC nor the Trustee has verified the accuracy or completeness of such documents or reports.&#160; There can be no assurance that events affecting the issuer of the underlying securities or the underlying securities themselves have not occurred or have not yet been publicly disclosed which would affect the accuracy or completeness of the publicly available documents described above.</div>
+
+<div id="DSPFPageBreakArea" style="MARGIN-BOTTOM: 10pt; CLEAR: both; MARGIN-TOP: 10pt">
+<div id="DSPFPageBreak" style="PAGE-BREAK-AFTER: always">
+<hr style="BORDER-LEFT-WIDTH: 0px; HEIGHT: 2px; BORDER-RIGHT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; COLOR: #000000; CLEAR: both; MARGIN: 4px 0px; BORDER-TOP-WIDTH: 0px; WIDTH: 100%; BACKGROUND-COLOR: #000000" noshade="noshade">
+</div>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; FONT-WEIGHT: bold; TEXT-ALIGN: center">PART I</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; FONT-WEIGHT: bold; TEXT-ALIGN: left">The following Items have been omitted in accordance with General Instruction J to Form 10-K:</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">Item 1. Business.</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">Item 1A. Risk Factors.</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">Item 2. Properties.</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">Item 3. Legal Proceedings.</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'"><u>Item 1B. Unresolved Staff Comments</u></font>.</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">Not Applicable.</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'"><u>Item 4. Mine Safety Disclosures</u></font>.</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">Not Applicable.</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; FONT-WEIGHT: bold; TEXT-ALIGN: center">PART II</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; FONT-WEIGHT: bold; TEXT-ALIGN: left">The following Items have been omitted in accordance with General Instruction J to Form 10-K:</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">Item 5. Market for Registrant&#8217;s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities.</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">Item 6. Selected Financial Data.</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">Item 7. Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations.</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">Item 7A. Quantitative and Qualitative Disclosures About Market Risk.</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">Item 8. Financial Statements and Supplementary Data.</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure.</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">Item 9A.&#160; Controls and Procedures.</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'"><u>Item 9B. Other Information</u></font>.</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">None.</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">&#160;</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; FONT-WEIGHT: bold; TEXT-ALIGN: center">PART III</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; FONT-WEIGHT: bold; TEXT-ALIGN: left">The following Items have been omitted in accordance with General Instruction J to Form 10-K:</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">Item 10. Directors, Executive Officers and Corporate Governance.</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">Item 11. Executive Compensation.</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters.</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">Item 13. Certain Relationships and Related Transactions, and Director Independence.</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">Item 14. Principal Accounting Fees and Services.</div>
+
+<div id="DSPFPageBreakArea" style="MARGIN-BOTTOM: 10pt; CLEAR: both; MARGIN-TOP: 10pt">
+<div id="DSPFPageBreak" style="PAGE-BREAK-AFTER: always">
+<hr style="BORDER-LEFT-WIDTH: 0px; HEIGHT: 2px; BORDER-RIGHT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; COLOR: #000000; CLEAR: both; MARGIN: 4px 0px; BORDER-TOP-WIDTH: 0px; WIDTH: 100%; BACKGROUND-COLOR: #000000" noshade="noshade">
+</div>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; FONT-WEIGHT: bold; TEXT-ALIGN: center">SUBSTITUTE INFORMATION PROVIDED IN ACCORDANCE WITH GENERAL INSTRUCTION J(2) TO FORM 10-K.</div>
+
+<div><br>
+</div>
+
+<div>
+<table id="z592c613d894444d882682b0a4a8488c3" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; BORDER-COLLAPSE: collapse; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="VERTICAL-ALIGN: top; WIDTH: 49.92%">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; FONT-WEIGHT: bold; TEXT-ALIGN: center">Item 1112(b) of Regulation AB.</div>
+</td>
+<td style="VERTICAL-ALIGN: top; WIDTH: 50.08%">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; FONT-WEIGHT: bold; TEXT-ALIGN: left">Significant Obligors of Pool Assets (Financial Information).</div>
+</td>
+</tr>
+
+<tr>
+<td style="VERTICAL-ALIGN: top; WIDTH: 100%" colspan="2">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">The primary asset of the issuing entity is the underlying securities, $25,250,000 of 6.625% Medium-Term Notes, Series D due December 1, 2037 issued by Prudential Financial, Inc.&#160; The issuer of the underlying securities, therefore, may be considered a significant obligor.&#160; The issuer of the underlying securities is subject to the information reporting requirements of the Securities Exchange Act of 1934 (the &#8220;Exchange Act&#8221;).&#160; For information on the issuer of the underlying securities please see its periodic and current reports filed with the Securities and Exchange Commission (the &#8220;Commission&#8221;) under its Exchange Act file number, 333-132469.</div>
+</td>
+</tr>
+
+<tr>
+<td style="VERTICAL-ALIGN: top; WIDTH: 100%" colspan="2">&#160;</td>
+</tr>
+
+<tr>
+<td style="VERTICAL-ALIGN: top; WIDTH: 49.92%">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; FONT-WEIGHT: bold; TEXT-ALIGN: center">Item 1114(b)(2) of Regulation AB.</div>
+</td>
+<td style="VERTICAL-ALIGN: top; WIDTH: 50.08%">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; FONT-WEIGHT: bold; TEXT-ALIGN: left">Credit Enhancement and Other Support, Except for Certain Derivatives</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; FONT-WEIGHT: bold; TEXT-ALIGN: left">Instruments (Information Regarding Significant Enhancement</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; FONT-WEIGHT: bold; TEXT-ALIGN: left">Providers Financial Information).</div>
+</td>
+</tr>
+
+<tr>
+<td style="VERTICAL-ALIGN: top; WIDTH: 100%" colspan="2">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">Based on the standards set forth in Item 1114(b)(2) of Regulation AB, no information is required in response to this Item.</div>
+</td>
+</tr>
+
+<tr>
+<td style="VERTICAL-ALIGN: top; WIDTH: 100%" colspan="2">&#160;</td>
+</tr>
+
+<tr>
+<td style="VERTICAL-ALIGN: top; WIDTH: 49.92%">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; FONT-WEIGHT: bold; TEXT-ALIGN: center">Item 1115(b) of Regulation AB.</div>
+</td>
+<td style="VERTICAL-ALIGN: top; WIDTH: 50.08%">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; FONT-WEIGHT: bold; TEXT-ALIGN: left">Certain Derivatives Instruments (Financial Information).</div>
+</td>
+</tr>
+
+<tr>
+<td style="VERTICAL-ALIGN: top; WIDTH: 100%" colspan="2">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">Based on the standards set forth in Item 1115(b) of Regulation AB, no information is required in response to this Item.</div>
+</td>
+</tr>
+
+<tr>
+<td style="VERTICAL-ALIGN: top; WIDTH: 100%" colspan="2">&#160;</td>
+</tr>
+
+<tr>
+<td style="VERTICAL-ALIGN: top; WIDTH: 49.92%">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; FONT-WEIGHT: bold; TEXT-ALIGN: center">Item 1117 of Regulation AB.</div>
+</td>
+<td style="VERTICAL-ALIGN: top; WIDTH: 50.08%">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; FONT-WEIGHT: bold; TEXT-ALIGN: left">Legal Proceedings.</div>
+</td>
+</tr>
+
+<tr>
+<td style="VERTICAL-ALIGN: top; WIDTH: 100%" colspan="2">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">There are no legal proceedings pending, or any proceedings known to be contemplated, by governmental authorities against the depositor, the Trustee or the issuing entity, or any property thereof, that is material to the holders of the Certificates.</div>
+</td>
+</tr>
+
+<tr>
+<td style="VERTICAL-ALIGN: top; WIDTH: 100%" colspan="2">&#160;</td>
+</tr>
+
+<tr>
+<td style="VERTICAL-ALIGN: top; WIDTH: 49.92%">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; FONT-WEIGHT: bold; TEXT-ALIGN: center">Item 1119 of Regulation AB.</div>
+</td>
+<td style="VERTICAL-ALIGN: top; WIDTH: 50.08%">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; FONT-WEIGHT: bold; TEXT-ALIGN: left">Affiliations and Certain Relationships and Related Transactions.</div>
+</td>
+</tr>
+
+<tr>
+<td style="VERTICAL-ALIGN: top; WIDTH: 100%" colspan="2">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">Based on the standards set forth in Item 1119 of Regulation AB, no information is required in response to this Item.</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div>&#160;</div>
+
+<div id="DSPFPageBreakArea" style="MARGIN-BOTTOM: 10pt; CLEAR: both; MARGIN-TOP: 10pt">
+<div id="DSPFPageBreak" style="PAGE-BREAK-AFTER: always">
+<hr style="BORDER-LEFT-WIDTH: 0px; HEIGHT: 2px; BORDER-RIGHT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; COLOR: #000000; CLEAR: both; MARGIN: 4px 0px; BORDER-TOP-WIDTH: 0px; WIDTH: 100%; BACKGROUND-COLOR: #000000" noshade="noshade">
+</div>
+</div>
+
+<div>
+<table id="z847b7dc620884f8f81fe39d33bfea00f" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; BORDER-COLLAPSE: collapse; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="VERTICAL-ALIGN: top; WIDTH: 49.92%">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; FONT-WEIGHT: bold; TEXT-ALIGN: center">Item 1122 of Regulation AB.</div>
+</td>
+<td style="VERTICAL-ALIGN: top; WIDTH: 50.08%">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; FONT-WEIGHT: bold; TEXT-ALIGN: left">Compliance with Applicable Servicing Criteria</div>
+</td>
+</tr>
+
+<tr>
+<td style="VERTICAL-ALIGN: top; WIDTH: 100%" colspan="2">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">The Bank of New York Mellon has been identified by the registrant as a party participating in the servicing function with respect to the pool assets held by Fixed Income Trust for Prudential Financial, Inc. Notes, Series 2012-1.&#160; The Bank of New York Mellon has completed a report on an assessment of compliance with the servicing criteria applicable (the &#8220;Report on Assessment&#8221;) as of February 28, 2017 and for a period beginning January 1, 2016 through and including December 31, 2016, which Report on Assessment is attached as an exhibit to this Form 10-K.&#160; In addition, the Bank of New York Mellon has provided an attestation report (the &#8220;Attestation Report&#8221;) by a registered independent public accounting firm regarding its related Report on Assessment.&#160; The Attestation Report is attached as an exhibit to this Form 10-K.&#160; Neither the Report on Assessment or the related Attestation Report has identified any material instances of noncompliance with the servicing criteria described in the Report on Assessment as being applicable to The Bank of New York Mellon.</div>
+</td>
+</tr>
+
+<tr>
+<td style="VERTICAL-ALIGN: top; WIDTH: 100%" colspan="2">&#160;</td>
+</tr>
+
+<tr>
+<td style="VERTICAL-ALIGN: top; WIDTH: 49.92%">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; FONT-WEIGHT: bold; TEXT-ALIGN: center">Item 1123 of Regulation AB.</div>
+</td>
+<td style="VERTICAL-ALIGN: top; WIDTH: 50.08%">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; FONT-WEIGHT: bold; TEXT-ALIGN: left">Servicer Compliance Statement.</div>
+</td>
+</tr>
+
+<tr>
+<td style="VERTICAL-ALIGN: top; WIDTH: 100%" colspan="2">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">The Bank of New York Mellon has provided a statement of compliance (the &#8220;Compliance Statement&#8221;) for the period from and including January 1, 2016 through and including December 31, 2016, which has been signed by an authorized officer of The Bank of New York Mellon.&#160; The Compliance Statement of The Bank of New York Mellon is attached as an exhibit to this Form 10-K.</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div>&#160;</div>
+
+<div id="DSPFPageBreakArea" style="MARGIN-BOTTOM: 10pt; CLEAR: both; MARGIN-TOP: 10pt">
+<div id="DSPFPageBreak" style="PAGE-BREAK-AFTER: always">
+<hr style="BORDER-LEFT-WIDTH: 0px; HEIGHT: 2px; BORDER-RIGHT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; COLOR: #000000; CLEAR: both; MARGIN: 4px 0px; BORDER-TOP-WIDTH: 0px; WIDTH: 100%; BACKGROUND-COLOR: #000000" noshade="noshade">
+</div>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; FONT-WEIGHT: bold; TEXT-ALIGN: center">PART IV</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; FONT-WEIGHT: bold; TEXT-ALIGN: center">&#160;</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'"><u>Item 15. Exhibits, Financial Statement Schedules</u></font>.</div>
+
+<div><br>
+</div>
+
+<div style="TEXT-ALIGN: left">
+<table id="z0991b33e0d724859af3708ff0d310c24" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 36pt"></td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; VERTICAL-ALIGN: top; WIDTH: 36pt; align: right">(a)</td>
+<td style="VERTICAL-ALIGN: top; TEXT-ALIGN: left; WIDTH: auto">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'">The following documents have been filed as part of this report.</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div><br>
+</div>
+
+<div style="TEXT-ALIGN: left">
+<table id="zf1bb074774c942f3b9b4bee1fc548984" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 72pt"></td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; VERTICAL-ALIGN: top; WIDTH: 36pt; align: right">1.</td>
+<td style="VERTICAL-ALIGN: top; TEXT-ALIGN: left; WIDTH: auto">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'">None.</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div><br>
+</div>
+
+<div style="TEXT-ALIGN: left">
+<table id="za7c415eb0c9248cd99e32754a7bc99e8" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 72pt"></td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; VERTICAL-ALIGN: top; WIDTH: 36pt; align: right">2.</td>
+<td style="VERTICAL-ALIGN: top; TEXT-ALIGN: left; WIDTH: auto">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'">None.</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div><br>
+</div>
+
+<div style="TEXT-ALIGN: left">
+<table id="zf43b160091fc47cf8e797780387650c2" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 72pt"></td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; VERTICAL-ALIGN: top; WIDTH: 36pt; align: right">3.</td>
+<td style="VERTICAL-ALIGN: top; TEXT-ALIGN: left; WIDTH: auto">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'">Exhibits:</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left; MARGIN-LEFT: 108pt">31.1 &#8211; Certification by Senior Officer in Charge of Securitization of the Depositor pursuant to 15 U.S.C. Section 7241, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left; MARGIN-LEFT: 108pt">33.1 &#8211; Report on Assessment of Compliance with Servicing Criteria for The Bank of New York Mellon for the period from and including January 1, 2016 through and including December 31, 2016.</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left; MARGIN-LEFT: 108pt">34.1 &#8211; Attestation Report of KPMG LLP on Assessment of Compliance with Servicing Criteria relating to The Bank of New York Mellon.</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left; MARGIN-LEFT: 108pt">35.1 &#8211; Servicer Compliance Statement of The Bank of New York Mellon for the period from and including January 1, 2016 through and including December 31, 2016.</div>
+
+<div><br>
+</div>
+
+<div style="TEXT-ALIGN: left">
+<table id="z1e68c9d0c149453dbc08db317258c9e5" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 36pt"></td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; VERTICAL-ALIGN: top; WIDTH: 36pt; align: right">(b)</td>
+<td style="VERTICAL-ALIGN: top; TEXT-ALIGN: left; WIDTH: auto">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'">See Item 15(a) above.</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="TEXT-ALIGN: left">&#160;</div>
+
+<div style="TEXT-ALIGN: center">
+<table id="zf077033073f44e408cf62e19d7f01428" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 36pt"></td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; VERTICAL-ALIGN: top; WIDTH: 36pt; align: right">(c)</td>
+<td style="VERTICAL-ALIGN: top; TEXT-ALIGN: center; WIDTH: auto">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">Not Applicable.</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="TEXT-ALIGN: left">&#160;</div>
+
+<div id="DSPFPageBreakArea" style="MARGIN-BOTTOM: 10pt; CLEAR: both; MARGIN-TOP: 10pt">
+<div id="DSPFPageBreak" style="PAGE-BREAK-AFTER: always">
+<hr style="BORDER-LEFT-WIDTH: 0px; HEIGHT: 2px; BORDER-RIGHT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; COLOR: #000000; CLEAR: both; MARGIN: 4px 0px; BORDER-TOP-WIDTH: 0px; WIDTH: 100%; BACKGROUND-COLOR: #000000" noshade="noshade">
+</div>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: center">SIGNATURE</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left; TEXT-INDENT: 36pt">Pursuant to the requirements of Section 13 or 15(d) the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.</div>
+
+<div><br>
+</div>
+
+<div>
+<table id="zb4e930c051ab4f5dabb7ac61351928f6" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; BORDER-COLLAPSE: collapse; WIDTH: 100%" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td style="VERTICAL-ALIGN: top; WIDTH: 50%">&#160;</td>
+<td style="VERTICAL-ALIGN: top" colspan="3">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; FONT-WEIGHT: bold">Fixed Income Client Solutions LLC</font>,</div>
+</td>
+</tr>
+
+<tr>
+<td style="VERTICAL-ALIGN: top; WIDTH: 50%">&#160;</td>
+<td style="VERTICAL-ALIGN: top" colspan="3">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">as Depositor for Fixed Income Trust for Prudential Financial, Inc. Notes, Series 2012-1</div>
+</td>
+</tr>
+
+<tr>
+<td style="VERTICAL-ALIGN: top; WIDTH: 50%">&#160;</td>
+<td style="VERTICAL-ALIGN: top" colspan="2">&#160;</td>
+<td style="VERTICAL-ALIGN: top; WIDTH: 15%">&#160;</td>
+</tr>
+
+<tr>
+<td style="VERTICAL-ALIGN: top; WIDTH: 50%">&#160;</td>
+<td style="VERTICAL-ALIGN: top; WIDTH: 3%">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">By:</div>
+</td>
+<td style="VERTICAL-ALIGN: top; BORDER-BOTTOM: black 2px solid; WIDTH: 32%">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">/s/ James Whang</div>
+</td>
+<td style="VERTICAL-ALIGN: top; WIDTH: 15%">&#160;</td>
+</tr>
+
+<tr>
+<td style="VERTICAL-ALIGN: top; WIDTH: 50%">&#160;</td>
+<td style="VERTICAL-ALIGN: top; WIDTH: 3%">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">Name:</div>
+</td>
+<td style="VERTICAL-ALIGN: top" colspan="2">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left; MARGIN-LEFT: 9pt">James Whang</div>
+</td>
+</tr>
+
+<tr>
+<td style="VERTICAL-ALIGN: top; WIDTH: 50%">&#160;</td>
+<td style="VERTICAL-ALIGN: top; WIDTH: 3%">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">Title:</div>
+</td>
+<td style="VERTICAL-ALIGN: top" colspan="2">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left; MARGIN-LEFT: 9pt">Treasurer</div>
+</td>
+</tr>
+
+<tr>
+<td style="VERTICAL-ALIGN: top; WIDTH: 50%">&#160;</td>
+<td style="VERTICAL-ALIGN: top" colspan="2">&#160;</td>
+<td style="VERTICAL-ALIGN: top; WIDTH: 15%">&#160;</td>
+</tr>
+
+<tr>
+<td style="VERTICAL-ALIGN: top; WIDTH: 50%">&#160;</td>
+<td style="VERTICAL-ALIGN: top" colspan="3">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">(senior officer in charge of securitization of the depositor)</div>
+</td>
+</tr>
+
+<tr>
+<td style="VERTICAL-ALIGN: top; WIDTH: 50%">&#160;</td>
+<td style="VERTICAL-ALIGN: top" colspan="3">&#160;</td>
+</tr>
+
+<tr>
+<td style="VERTICAL-ALIGN: top; WIDTH: 50%">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">Dated:&#160; March 15, 2017</div>
+</td>
+<td style="VERTICAL-ALIGN: top" colspan="3">&#160;</td>
+</tr>
+</table>
+</div>
+
+<div>&#160;</div>
+
+<div id="DSPFPageBreakArea" style="MARGIN-BOTTOM: 10pt; CLEAR: both; MARGIN-TOP: 10pt">
+<div id="DSPFPageBreak" style="PAGE-BREAK-AFTER: always">
+<hr style="BORDER-LEFT-WIDTH: 0px; HEIGHT: 2px; BORDER-RIGHT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; COLOR: #000000; CLEAR: both; MARGIN: 4px 0px; BORDER-TOP-WIDTH: 0px; WIDTH: 100%; BACKGROUND-COLOR: #000000" noshade="noshade">
+</div>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; FONT-WEIGHT: bold; TEXT-ALIGN: center">EXHIBIT INDEX</div>
+
+<div><br>
+</div>
+
+<div>
+<table id="zeded99a747674528937fb94edc86da1d" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; BORDER-COLLAPSE: collapse; WIDTH: 100%" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td style="BORDER-TOP: #000000 2px solid; BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid; WIDTH: 12%">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: center">Exhibit </div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: center">Number in </div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: center">this </div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: center">Form 10&#8209;K</div>
+</td>
+<td style="BORDER-TOP: #000000 2px solid; BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid; WIDTH: 88%">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: center">Description of Exhibits</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-TOP: #000000 2px solid; BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid; WIDTH: 12%; BACKGROUND-COLOR: #cceeff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: center"><a href="ex31_1.htm">31.1</a></div>
+</td>
+<td style="BORDER-TOP: #000000 2px solid; BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid; WIDTH: 88%; BACKGROUND-COLOR: #cceeff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">Certification by Senior Officer in Charge of Securitization of the Depositor pursuant to 15 U.S.C. Section 7241, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-TOP: #000000 2px solid; BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid; WIDTH: 12%; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: center"><a href="ex33_1.htm">33.1</a></div>
+</td>
+<td style="BORDER-TOP: #000000 2px solid; BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid; WIDTH: 88%; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">Report on Assessment of Compliance with Servicing Criteria for The Bank of New York Mellon for the period from and including January 1, 2016 through and including December 31, 2016.</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-TOP: #000000 2px solid; BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid; WIDTH: 12%; BACKGROUND-COLOR: #cceeff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: center"><a href="ex34_1.htm">34.1</a></div>
+</td>
+<td style="BORDER-TOP: #000000 2px solid; BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid; WIDTH: 88%; BACKGROUND-COLOR: #cceeff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">Attestation Report of KPMG LLP on Assessment of Compliance with Servicing Criteria relating to The Bank of New York Mellon.</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-TOP: #000000 2px solid; BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid; WIDTH: 12%; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: center"><a href="ex35_1.htm">35.1</a></div>
+</td>
+<td style="BORDER-TOP: #000000 2px solid; BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid; WIDTH: 88%; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">Servicer Compliance Statement of The Bank of New York Mellon for the period from and including January 1, 2016 through and including December 31, 2016.</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div>&#160;</div>
+
+<div>&#160;</div>
+
+<div>
+<hr style="BORDER-TOP: medium none; HEIGHT: 2px; BORDER-RIGHT: medium none; BORDER-BOTTOM: medium none; COLOR: #000000; TEXT-ALIGN: center; MARGIN-LEFT: auto; BORDER-LEFT: medium none; BACKGROUND-COLOR: #000000; MARGIN-RIGHT: auto" align="center" noshade="noshade">
+</div>
+</body>
+</html>
+
+</TEXT>
+</DOCUMENT>

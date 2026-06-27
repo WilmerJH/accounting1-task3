@@ -1,0 +1,1961 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>d891594d10k.htm
+<DESCRIPTION>FORM 10-K
+<TEXT>
+<HTML><HEAD>
+<TITLE>Form 10-K</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P> <P STYLE="margin-top:4pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>UNITED STATES </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>SECURITIES AND EXCHANGE COMMISSION </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Washington, D.C. 20549 </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>FORM 10-K
+</B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:12pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><B></B><FONT STYLE="FONT-FAMILY:WINGDINGS">&#120;</FONT><B></B><B></B></TD>
+<TD ALIGN="left" VALIGN="top"><B>ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 </B></TD></TR></TABLE>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>For the fiscal year ended December&nbsp;31, 2014 </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>or </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:12pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><B></B><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT><B></B><B></B></TD>
+<TD ALIGN="left" VALIGN="top"><B>TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 </B></TD></TR></TABLE>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>For the transition period from
+<U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U> to
+<U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U> </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>333-179292-02 </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(Commission File Number of issuing entity) </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:24pt; font-family:Times New Roman" ALIGN="center"><B>Sequoia
+Mortgage Trust 2012-3 </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(Exact name of issuing entity as specified in its charter) </B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>333-179292 </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(Commission
+File Number of depositor) </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:24pt; font-family:Times New Roman" ALIGN="center"><B>Sequoia Residential Funding, Inc. </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(Exact name of depositor as specified in its charter) </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:24pt; font-family:Times New Roman" ALIGN="center"><B>RWT Holdings,
+Inc. </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(Exact name of sponsor as specified in its charter) </B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>New York </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(State or other jurisdiction of incorporation or organization of the issuing entity) </B></P>
+<P STYLE="margin-top:0pt;margin-bottom:0pt;page-break-before:always"></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>38-3875746 </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>38-3875747 </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(I.R.S.
+Employer Identification No.) </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="50%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="48%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>c/o Citibank, N.A.</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>388 Greenwich Street, 14<SUP STYLE="font-size:85%; vertical-align:top">th</SUP> Floor</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>New York, New York</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center"><B>10013</B></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top" ALIGN="center"><B>(Address of principal executive offices of the issuing entity)</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>(Zip Code)</B></TD></TR>
+</TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(212) 816-5693 </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Telephone number, including area code) </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Securities registered pursuant to Section&nbsp;12(b) of the Act: </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>None </B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Securities
+registered pursuant to section 12(g) of the Act: </B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>None </B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act.&nbsp;&nbsp;&nbsp;&nbsp;<FONT
+STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT>&nbsp;&nbsp;Yes&nbsp;&nbsp;&nbsp;&nbsp;<FONT STYLE="FONT-FAMILY:WINGDINGS">&#120;</FONT>&nbsp;&nbsp;No </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Indicate by check mark if the registrant is not required to file reports pursuant to Section&nbsp;13 or Section&nbsp;15(d) of the Act.&nbsp;&nbsp;&nbsp;&nbsp;<FONT
+STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT>&nbsp;&nbsp;Yes&nbsp;&nbsp;&nbsp;&nbsp;<FONT STYLE="FONT-FAMILY:WINGDINGS">&#120;</FONT>&nbsp;&nbsp;No </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Indicate by check mark whether the registrant (1)&nbsp;has filed all reports required to be filed by Section&nbsp;13 or 15(d) of the Securities Exchange Act
+of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2)&nbsp;has been subject to such filing requirements for the past 90 days.&nbsp;&nbsp;&nbsp;&nbsp;<FONT
+STYLE="FONT-FAMILY:WINGDINGS">&#120;</FONT>&nbsp;&nbsp;Yes&nbsp;&nbsp;&nbsp;&nbsp;<FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT>&nbsp;&nbsp;No </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required
+to be submitted and posted pursuant to Rule 405 of Regulation S-T (&#167; 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files). </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Not Applicable </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Indicate by check mark if
+disclosure of delinquent filers pursuant to Item&nbsp;405 of Regulation S-K (&#167; 229.405 of this chapter) is not contained herein, and will not be contained, to the best of registrant&#146;s knowledge, in definitive proxy or information
+statements incorporated by reference in Part III of this Form 10-K or any amendment to this Form 10-K. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Not Applicable </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See
+the definitions of &#147;large accelerated filer,&#148; &#147;accelerated filer&#148; and &#147;smaller reporting company&#148; in Rule 12b-2 of the Exchange Act. </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="16%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="60%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="20%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="1%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom">Large&nbsp;accelerated&nbsp;filer</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">Accelerated&nbsp;filer</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom">Non-accelerated filer</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#120;</FONT>&nbsp;&nbsp;(Do not check if a smaller reporting company)</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">Smaller&nbsp;reporting&nbsp;company</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></TD></TR>
+</TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the
+Act).&nbsp;&nbsp;&nbsp;&nbsp;<FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT>&nbsp;&nbsp;Yes&nbsp;&nbsp;&nbsp;&nbsp;<FONT STYLE="FONT-FAMILY:WINGDINGS">&#120;</FONT>&nbsp;&nbsp;No </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">State the aggregate market value of the voting and non-voting common equity held by non-affiliates computed by reference to the price at which the common
+equity was last sold, or the average bid and asked price of such common equity, as of the last business day of the registrant&#146;s most recently completed second fiscal quarter. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Not Applicable </P> <P STYLE="margin-top:0pt;margin-bottom:0pt;page-break-before:always"></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Indicate by check mark whether the registrant has filed all documents and reports required to be filed by Section&nbsp;12, 13 or 15(d) of the Securities
+Exchange Act of 1934 subsequent to the distribution of securities under a plan confirmed by a court. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Not Applicable </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Indicate the number of shares outstanding of each of the registrant&#146;s classes of common stock, as of the latest practicable date. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Not Applicable </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>DOCUMENTS
+INCORPORATED BY REFERENCE </B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">List hereunder the following documents if incorporated by reference and the Part of the Form 10-K (e.g., Part I, Part II,
+etc.) into which the document is incorporated: (1)&nbsp;Any annual report to security holders; (2)&nbsp;Any proxy or information statement; and (3)&nbsp;Any prospectus filed pursuant to Rule 424(b) or (c)&nbsp;under the Securities Act of 1933. The
+listed documents should be clearly described for identification purposes (e.g., annual report to security holders for fiscal year ended December&nbsp;24, 1980). </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Not applicable </P> <P STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P> <P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>PART I </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;1. Business. </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Omitted. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;1A. Risk Factors. </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Omitted. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;1B. Unresolved Staff Comments. </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">None. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;2. Properties. </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Omitted. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;3. Legal Proceedings. </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Omitted. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;4. Mine Safety Disclosures. </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Omitted. </P>
+<P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>PART II </B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;5. Market for
+Registrant&#146;s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities. </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Omitted. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;6. Selected Financial Data. </B> </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Omitted. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;7. Management&#146;s Discussion and Analysis of Financial Condition and Results of Operations. </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Omitted. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;7A. Quantitative and Qualitative
+Disclosures About Market Risk. </B> </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Omitted. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;8. Financial Statements and Supplementary Data. </B> </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Omitted. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;9. Changes in and Disagreements With
+Accountants on Accounting and Financial Disclosure. </B> </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Omitted. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;9A. Controls and Procedures. </B> </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Omitted. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;9B. Other Information. </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">None. </P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>PART III </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;10. Directors, Executive Officers and Corporate Governance. </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Omitted. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;11. Executive Compensation. </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Omitted. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;12. Security Ownership of Certain
+Beneficial Owners and Management and Related Stockholder Matters. </B> </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Omitted. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;13. Certain Relationships and Related Transactions, and Director Independence. </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Omitted. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;14. Principal Accounting Fees and
+Services. </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Omitted. </P> <P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>ADDITIONAL
+DISCLOSURE ITEMS REQUIRED BY GENERAL INSTRUCTION J(2) </B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;1112(b) of Regulation AB, Significant Obligor Financial Information. </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">No single obligor represents 10% or more of the pool assets held by the issuing entity. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;1114(b)(2) of Regulation AB, Significant Enhancement Provider Financial Information. </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">No entity or group of affiliated entities provides any external credit enhancement or other support for the certificates within this transaction as described
+under Item&nbsp;1114(a) of Regulation AB. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;1115(b) of Regulation AB, Certain Derivatives Instruments (Financial Information). </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">No entity or group of affiliated entities provides any derivative instruments or other support for the certificates within this transaction as described under
+Item&nbsp;1115 of Regulation AB. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;1117 of Regulation AB, Legal Proceedings. </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">On or about December&nbsp;23, 2009, the Federal Home Loan Bank of Seattle (the &#147;FHLB-Seattle&#148;) filed a complaint in the Superior Court for the State
+of Washington (case number 09-2-46348-4 SEA) against the depositor, Redwood Trust, Inc. (&#147;Redwood Trust&#148;), Morgan Stanley&nbsp;&amp; Co., and Morgan Stanley Capital I, Inc. (collectively, the &#147;FHLB-Seattle Defendants&#148;) alleging
+that the FHLB-Seattle Defendants made false or misleading statements in offering materials for a mortgage pass-through certificate (the &#147;Seattle Certificate&#148;) issued in the Sequoia Mortgage Trust 2005-4 securitization transaction (the
+&#147;2005-4 RMBS&#148;) and purchased by the FHLB-Seattle. Specifically, the complaint alleges that the alleged misstatements concern the (1)&nbsp;loan-to-value ratio of mortgage loans and the appraisals of the properties that secured loans
+supporting the 2005-4 RMBS, (2)&nbsp;occupancy status of the properties, (3)&nbsp;standards used to underwrite the loans, and (4)&nbsp;ratings assigned to the Seattle Certificate. The FHLB-Seattle alleges claims under the Securities Act of
+Washington (Section 21.20.005, et seq.) and seeks to rescind the purchase of the Seattle Certificate and to collect interest on the original purchase price at the statutory interest rate of 8%&nbsp;per annum from the date of original purchase (net
+of interest received) as well as attorneys&#146; fees and costs. The Seattle Certificate was issued with an original principal amount of approximately $133 million, and, as of December&nbsp;31, 2014, the FHLB-Seattle has received approximately
+$115.8 million of principal and $11.1 million of interest payments in respect of the Seattle Certificate. As of December&nbsp;31, 2014, the Seattle Certificate had a remaining outstanding principal amount of approximately $17.5 million. The claims
+were subsequently dismissed for lack of personal jurisdiction as to the depositor and Redwood Trust. The depositor and Redwood Trust agreed to indemnify the underwriters of the 2005-4 RMBS for certain losses and expenses they might incur as a result
+of claims made against them relating to this RMBS, including, without limitation, certain legal expenses. The FHLB-Seattle&#146;s claims against the underwriters of this RMBS were not dismissed and remain pending. Regardless of the outcome of this
+litigation, the depositor and Redwood Trust could incur a loss as a result of these indemnities. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">On or about July&nbsp;15, 2010, The Charles Schwab
+Corporation (&#147;Schwab&#148;) filed a complaint in the Superior Court for the State of California in San Francisco (case number CGC-10-501610) against the depositor and 26 other defendants (collectively, the &#147;Schwab Defendants&#148;)
+alleging that the Schwab Defendants made false or misleading statements in offering materials for various residential mortgage-backed securities sold or issued by the Schwab Defendants. Schwab alleged only a claim for negligent misrepresentation
+under California state law against the depositor and sought unspecified damages and attorneys&#146; fees and costs from the depositor. Schwab claims that the depositor made false or misleading statements in offering materials for a mortgage
+pass-through certificate (the &#147;Schwab Certificate&#148;) issued in the 2005-4 RMBS and purchased by Schwab. Specifically, the complaint alleges that the </P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+misstatements for the 2005-4 RMBS concern the (1)&nbsp;loan-to-value ratio of mortgage loans and the appraisals of the properties that secured loans supporting the 2005-4 RMBS, (2)&nbsp;occupancy
+status of the properties, (3)&nbsp;standards used to underwrite the loans, and (4)&nbsp;ratings assigned to the Schwab Certificate. On November&nbsp;14, 2014, Schwab voluntarily dismissed with prejudice its negligent misrepresentation claim, which
+resulted in the dismissal with prejudice of the depositor from the action. The Schwab Certificate was issued with an original principal amount of approximately $14.8 million, and, as of December&nbsp;31, 2014, Schwab has received approximately $12.9
+million of principal and $1.3 million of interest payments in respect of the Schwab Certificate. As of December&nbsp;31, 2014, the Schwab Certificate had a remaining outstanding principal amount of approximately $1.9 million. The depositor and
+Redwood Trust agreed to indemnify the underwriters of the 2005-4 RMBS, which underwriters were also named and remain as defendants in the action, for certain losses and expenses they might incur as a result of claims made against them relating to
+this RMBS, including, without limitation, certain legal expenses. Regardless of the outcome of this litigation, the depositor and Redwood Trust could incur a loss as a result of these indemnities. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The business of the sponsor, the depositor, the seller and their affiliates has included, and continues to include, activities relating to the acquisition and
+securitization of residential mortgage loans. In addition, the business of the sponsor has, in the past, included activities relating to the acquisition and securitization of debt obligations and other assets through the issuance of collateralized
+debt obligations (commonly referred to as CDO transactions). Because of their involvement in the securitization and CDO businesses, the sponsor, the depositor, the seller and their affiliates could become the subject of litigation relating to these
+businesses, including additional litigation of the type described above, and could also become the subject of governmental investigations, enforcement actions, or lawsuits and governmental authorities could allege that these entities violated
+applicable law or regulation in the conduct of their business. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">In fact, the sponsor and its affiliates have received, and responded to, information
+requests and subpoenas from two governmental authorities (one by the SEC relating to the sponsor&#146;s CDO business and one by the National Credit Union Administration relating to a residential mortgage securitization conducted by the sponsor and
+the depositor). It is possible that the sponsor, the depositor, the seller or their affiliates might not be successful in defending or responding to any litigation, governmental investigation or related action and any losses incurred as a result of
+the resolution of any such action or investigation could have a material adverse effect on the sponsor, the depositor, the seller or their affiliates. In any case, regardless of the merits of any allegation or legal action that may be brought
+against the sponsor, the depositor, the seller or their affiliates, or of their success in defending against such allegations or legal actions, the costs of defending against any such allegation or legal action may be significant or material and
+could have a material adverse effect on the sponsor, the depositor, the seller or their affiliates. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The depositor has been notified by Citibank, N.A.
+(&#147;Citibank&#148;) and Wells Fargo Bank, N.A. (&#147;Wells Fargo&#148;), respectively, of material pending legal proceedings to which Citibank and Wells Fargo are, respectively, subject in connection with their role as trustee on certain RMBS
+transactions. This Sequoia transaction is not a party to nor subject to the pending legal proceedings. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The disclosure that the depositor received from
+each of Citibank and Wells Fargo, respectively, is included here: </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Citibank, N.A. </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">In the ordinary course of business, Citibank is involved in a number of legal proceedings, including in connection with its role as trustee of certain RMBS
+transactions. One such proceeding was a civil action filed against Citibank in the Supreme Court of the State of New York on June 18, 2014 by a group of investors in 48 private-label RMBS trusts for which Citibank serves or did serve as trustee,
+asserting claims for alleged violations of the Trust Indenture Act of 1939, breach of contract, breach of fiduciary duty and negligence based on Citibank&#146;s alleged failure to perform its duties as trustee for the 48 RMBS trusts. On November 24,
+2014, plaintiffs sought leave to withdraw this action. On the same day, a smaller subset of similar plaintiff investors in 27 private-label RMBS trusts for which Citibank serves or did serve as trustee, filed a new civil action against Citibank in
+the Southern District of New York asserting similar claims as the prior action filed in state court. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">There can be no assurances as to the outcome of
+litigation or the possible impact of litigation on the trustee or the RMBS trusts. However, Citibank denies liability and intends to vigorously defend against the litigation. Furthermore, neither the above-disclosed litigation nor any other pending
+legal proceeding involving Citibank will materially affect Citibank&#146;s ability to perform its duties under the Pooling &amp; Servicing Agreement for the RMBS trusts. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Wells Fargo Bank, N.A. </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">On June 18, 2014, a group of
+institutional investors filed a civil complaint in the Supreme Court of the State of New York, New York County, against Wells Fargo Bank, N.A., in its capacity as trustee under 276 residential mortgage backed securities (&#147;RMBS&#148;) trusts,
+which was later amended on July 18, 2014, to increase the number of trusts to 284 RMBS trusts. On November 24, 2014, the plaintiffs filed a motion to voluntarily dismiss the state court action without prejudice. That same day, a group of
+institutional investors filed a civil complaint in the United States District Court for the Southern District of New York against Wells Fargo Bank, N.A., alleging claims against the bank in its capacity as trustee for 274 residential mortgage backed
+securities (&#147;RMBS&#148;) trusts (the &#147;Complaint&#148;). In December 2014, the plaintiffs&#146; motion to voluntarily dismiss their original state court action was granted. As with the prior state court action, the Complaint is one of six
+similar complaints filed contemporaneously against RMBS trustees (Deutsche Bank, Citibank, HSBC, Bank of New York Mellon and US Bank) by a group of institutional investor plaintiffs. The Complaint against Wells Fargo Bank, N.A. alleges that the
+trustee caused losses to investors and asserts causes of action based upon, among other things, the trustee&#146;s alleged failure to (i) enforce repurchase obligations of mortgage loan sellers for purported breaches of representations and
+warranties, (ii) notify investors of alleged events of default purportedly caused by breaches by mortgage loan servicers, and (iii) abide by appropriate standards of care following alleged events of default. Relief sought includes money damages in
+an unspecified amount, reimbursement of expenses, and equitable relief. Other cases alleging similar causes of action have been filed against Wells Fargo Bank, N.A. and other trustees by RMBS investors in these and other transactions. There can be
+no assurances as to the outcome of the litigation, or the possible impact of the litigation on the trustee or the RMBS trusts. However, Wells Fargo Bank, N.A. denies liability and believes that it has performed its obligations under the RMBS trusts
+in good faith, that its actions were not the cause of any losses to investors, and that it has meritorious defenses, and it intends to contest the plaintiffs&#146; claims vigorously. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;1119 of Regulation AB, Affiliations and Certain Relationships and Related Transactions. </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The seller and servicing administrator, the sponsor and the depositor are each either directly or indirectly wholly-owned subsidiaries of Redwood Trust, Inc.
+There is not currently, and there was not during the past two years, any material business relationship, agreement, arrangement, transaction or understanding that is or was entered into outside the ordinary course of business or is or was on terms
+other than would be obtained in an arm&#146;s length transaction with an unrelated third party, between (a)&nbsp;any of the seller, the sponsor, the depositor and the issuing entity on the one hand and (b)&nbsp;any of the trustee, any servicer, the
+custodian, the master servicer, the securities administrator or either originator of the mortgage loans on the other hand. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;1122 of
+Regulation AB, Compliance with Applicable Servicing Criteria. </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The reports on assessment of compliance with the servicing criteria for asset-backed
+securities and the related attestation reports on such assessments of compliance are attached hereto under Item&nbsp;15. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The registrant has prepared the
+Table below in connection with this transaction. The Table shows, in one compiled format, which entity participating in a servicing function for this transaction was assigned responsibility for each criterion in Item&nbsp;1122(d). In the Table
+below, certain criteria are not applicable, given the structure of the offering, and accordingly no entity is assigned responsibility for such criteria. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Also, Christiana Trust, a division of Wilmington Savings Fund Society FSB (&#147;Christiana&#148;), the trustee, does not participate in any servicing
+function for the transaction that is the subject of this 10-K filing. Therefore, there is no reference to Christiana in the chart below; nor does this 10-K filing include any assessment or auditor report from Christiana. Finally, any discrepancies
+between the chart below and the assessment of compliance exhibit provided by any party listed in the chart is explained by the fact that the chart is specific to the transaction that is the subject of this 10-K filing, whereas each party&#146;s
+respective assessment of compliance is issued on a platform basis and includes coverage of other additional transactions that are not the subject of this 10-K filing. </P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>SEQUOIA RESIDENTIAL FUNDING, INC. </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>2012-3 </B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Regulation AB
+1122(d) </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="12%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="24%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="5%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="9%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="11%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="10%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="5%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="9%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="7%"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE="border-bottom:1.00pt solid #000000; width:50.45pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>Regulation AB<BR>Reference</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE="border-bottom:1.00pt solid #000000; width:54.70pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>Servicing&nbsp;Criteria</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE="border-bottom:1.00pt solid #000000; width:28.40pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>Wells<BR>Fargo<BR>Bank<BR>N.A.,&nbsp;as<BR>Master<BR>Servicer</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE="border-bottom:1.00pt solid #000000; width:51.80pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>Citibank,&nbsp;N.A.,<BR>as Securities<BR>Administrator<BR>and
+Paying<BR>Agent</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE="border-bottom:1.00pt solid #000000; width:61.30pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>PHH&nbsp;Mortgage<BR>Corp.,&nbsp;as&nbsp;Servicer</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE="border-bottom:1.00pt solid #000000; width:49.05pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>First Republic<BR>Bank, as<BR>Servicer</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE="border-bottom:1.00pt solid #000000; width:28.40pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>Cenlar,<BR>FSB, as<BR>Servicer</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center">
+<P STYLE="border-bottom:1.00pt solid #000000; width:53.75pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>Redwood<BR>Residential<BR>Acquisition<BR>Corporation,&nbsp;as<BR>Servicing<BR>Administrator</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>Wells&nbsp;Fargo<BR>Bank N.A.,<BR>as</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1.00pt solid #000000; width:41.50pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>Custodian</B></P></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" COLSPAN="17"><B>General Servicing Considerations</B></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">1122(d)(1)(i)</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Policies and procedures are instituted to monitor any performance or other triggers and events of default in accordance with the transaction agreements.</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">1122(d)(1)(ii)</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">If any material servicing activities are outsourced to third parties, policies and procedures are instituted to monitor the third party&#146;s performance and compliance with such servicing activities.</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">1122(d)(1)(iii)</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Any requirements in the transaction agreements to maintain a back-up servicer for the pool assets are maintained.</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">N/A</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">N/A</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">N/A</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">N/A</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">N/A</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">N/A</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">N/A</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">1122(d)(1)(iv)</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">A fidelity bond and errors and omissions policy is in effect on the party participating in the servicing function throughout the reporting period in the amount of coverage required by and otherwise in accordance with the terms of
+the transaction agreements.</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8" COLSPAN="13"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" COLSPAN="13"><B>Cash Collection and Administration</B></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">1122(d)(2)(i)</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Payments on pool assets are deposited into the appropriate bank collection accounts and related bank clearing accounts no more than two business days following receipt, or such other number of days specified in the transaction
+agreements.</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD></TR></TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="12%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="24%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="5%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="9%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="11%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="10%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="5%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="9%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="7%"></TD></TR>
+
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD></TR>
+
+
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">1122(d)(2)(ii)</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Disbursements made via wire transfer on behalf of an obligor or to an investor are made only by authorized personnel.</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">1122(d)(2)(iii)</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Advances of funds or guarantees regarding collections, cash flows or distributions, and any interest or other fees charged for such advances, are made, reviewed and approved as specified in the transaction agreements.</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">1122(d)(2)(iv)</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">The related accounts for the transaction, such as cash reserve accounts or accounts established as a form of over collateralization, are separately maintained (e.g., with respect to commingling of cash) as set forth in the
+transaction agreements.</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">1122(d)(2)(v)</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Each collection account is maintained at a federally insured depository institution as set forth in the transaction agreements. For purposes of this criterion, &#147;federally insured depository institution&#148; with respect to a
+foreign financial institution means a foreign financial institution that meets the requirements of Rule 13k-1(b)(1) of the Securities Exchange Act.</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD></TR></TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="12%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="24%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="5%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="9%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="11%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="10%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="5%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="9%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="7%"></TD></TR>
+
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">1122(d)(2)(vi)</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Unissued checks are safeguarded so as to prevent unauthorized access.</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">1122(d)(2)(vii)</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Reconciliations are prepared on a monthly basis for all asset-backed securities related bank accounts, including collection accounts and related bank clearing accounts. These reconciliations are (A) mathematically accurate; (B)
+prepared within 30 calendar days after the bank statement cutoff date, or such other number of days specified in the transaction agreements; (C) reviewed and approved by someone other than the person who prepared the reconciliation; and (D) contain
+explanations for reconciling items. These reconciling items are resolved within 90 calendar days of their original identification, or such other number of days specified in the transaction agreements.</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD></TR></TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="12%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="24%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="5%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="9%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="11%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="10%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="5%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="9%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="7%"></TD></TR>
+
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" COLSPAN="17"><B>Investor Remittances and Reporting</B></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">1122(d)(3)(i)</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Reports to investors, including those to be filed with the Commission, are maintained in accordance with the transaction agreements and
+applicable Commission requirements. Specifically, such reports (A) are prepared in accordance with timeframes and other terms set forth in the transaction agreements; (B) provide information calculated in accordance with the terms specified in the
+transaction agreements; (C) are filed with the Commission as required by its rules and regulations; and</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman">(D) agree with investors&#146; or the
+trustee&#146;s records as to the total unpaid principal balance and number of pool assets serviced by the Servicer.</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" NOWRAP ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">X</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">(Except NOT</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">1122(d)(3)</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">(i)(C))</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" NOWRAP ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">X</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">(Except&nbsp;NOT</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">1122(d)(3)</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">(i)(C))</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">1122(d)(3)(ii)</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Amounts due to investors are allocated and remitted in accordance with timeframes, distribution priority and other terms set forth in the transaction agreements.</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">1122(d)(3)(iii)</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Disbursements made to an investor are posted within two business days to the Servicer&#146;s investor records, or such other number of days specified in the transaction agreements.</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">1122(d)(3)(iv)</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Amounts remitted to investors per the investor reports agree with cancelled checks, or other form of payment, or custodial bank statements.</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD></TR></TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="12%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="24%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="5%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="9%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="11%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="10%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="5%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="9%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="7%"></TD></TR>
+
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD></TR>
+
+
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8" COLSPAN="17"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" COLSPAN="17"><B>Pool Asset Administration</B></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">1122(d)(4)(i)</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Collateral or security on pool assets is maintained as required by the transaction agreements or related pool asset documents.</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">1122(d)(4)(ii)</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Pool assets&nbsp;and related documents are safeguarded as required by the transaction agreements.</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">1122(d)(4)(iii)</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Any additions, removals or substitutions to the asset pool are made, reviewed &amp; approved in accordance with any conditions or requirements in the transaction agreements.</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">N/A</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">N/A</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">1122(d)(4)(iv)</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Payments on pool assets, including any payoffs, made in accordance with the related pool asset documents are posted to the Servicer&#146;s obligor records maintained no more than two business days after receipt, or such other number
+of days specified in the transaction agreements, and allocated to principal, interest or other items (e.g., escrow) in accordance with the related pool asset documents.</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">N/A</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">N/A</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">1122(d)(4)(v)</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">The Servicer&#146;s records regarding the pool assets agree with the Servicer&#146;s records with respect to an obligor&#146;s unpaid principal balance.</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">N/A</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">N/A</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD></TR></TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="12%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="24%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="5%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="9%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="11%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="10%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="5%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="9%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="7%"></TD></TR>
+
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD></TR>
+
+
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">1122(d)(4)(vi)</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Changes with respect to the terms or status of an obligor&#146;s pool assets (e.g., loan modifications or re-agings) are made, reviewed and approved by authorized personnel in accordance with the transaction agreements and related
+pool asset documents.</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">1122(d)(4)(vii)</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Loss mitigation or recovery actions (e.g., forbearance plans, modifications and deeds in lieu of foreclosure, foreclosures and repossessions, as applicable) are initiated, conducted and concluded in accordance with the timeframes or
+other requirements established by the transaction agreements.</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">N/A</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">N/A</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">1122(d)(4)(viii)</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Records documenting collection efforts are maintained during the period a pool asset is delinquent in accordance with the transaction agreements. Such records are maintained on at least a monthly basis, or such other period
+specified in the transaction agreements, and describe the entity&#146;s activities in monitoring delinquent pool assets including, for example, phone calls, letters and payment rescheduling plans in cases where delinquency is deemed temporary (e.g.,
+illness or unemployment).</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">N/A</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">N/A</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD></TR></TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="12%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="24%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="5%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="9%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="11%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="10%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="5%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="9%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="7%"></TD></TR>
+
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD></TR>
+
+
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">1122(d)(4)(ix)</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Adjustments to interest rates or rates of return for pool assets with variable rates are computed based on the related pool asset documents.</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">N/A</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">N/A</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">1122(d)(4)(x)</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Regarding any funds held in trust for an obligor (such as escrow accounts): (A) such funds are analyzed, in accordance with the obligor&#146;s pool asset documents, on at least an annual basis, or such other period specified in the
+transaction agreements; (B) interest on such funds is paid, or credited, to obligors in accordance with applicable pool asset documents and state laws; and (C) such funds are returned to the obligor within 30 calendar days of full repayment of the
+related pool assets, or such other number of days specified in the transaction agreements.</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">N/A</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">N/A</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">1122(d)(4)(xi)</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Payments made on behalf of an obligor (such as tax or insurance payments) are made on or before the related penalty or expiration dates, as indicated on the appropriate bills or notices for such payments, provided that such support
+has been received by the servicer at least 30 calendar days prior to these dates, or such other number of days specified in the transaction agreements.</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">N/A</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">N/A</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD></TR></TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="12%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="24%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="5%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="9%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="11%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="10%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="5%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="9%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="7%"></TD></TR>
+
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD></TR>
+
+
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">1122(d)(4)(xii)</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Any late payment penalties in connection with any payment to be made on behalf of an obligor are paid from the Servicer&#146;s funds and not charged to the obligor, unless the late payment was due to the obligor&#146;s error or
+omission.</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">N/A</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">N/A</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">1122(d)(4)(xiii)</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Disbursements made on behalf of an obligor are posted within two business days to the obligor&#146;s records maintained by the servicer, or such other number of days specified in the transaction agreements.</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">N/A</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">N/A</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">1122(d)(4)(xiv)</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Delinquencies, charge-offs and uncollectible accounts are recognized and recorded in accordance with the transaction agreements.</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">X</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">1122(d)(4)(xv)</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Any external enhancement or other support, identified in Item 1114(a)(1) through (3) or Item 1115 of Regulation AB, is maintained as set forth in the transaction agreements.</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">N/A</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">N/A</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">N/A</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">N/A</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">N/A</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">N/A</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">N/A</TD></TR>
+</TABLE> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;1123 of Regulation AB, Servicer Compliance Statement. </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The servicer compliance statements are attached hereto under Item&nbsp;15. </P>
+<P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>PART IV </B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;15. Exhibits,
+Financial Statement Schedules. </B></P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(a)</TD>
+<TD ALIGN="left" VALIGN="top">List the following documents filed as a part of the report: </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(1)</TD>
+<TD ALIGN="left" VALIGN="top">Not Applicable </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(2)</TD>
+<TD ALIGN="left" VALIGN="top">Not Applicable </TD></TR></TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(3)</TD>
+<TD ALIGN="left" VALIGN="top">Exhibits listed below are included as indicated below: </TD></TR></TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="7%"></TD>
+<TD WIDTH="92%"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE="border-bottom:1.00pt solid #000000; width:28.45pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>Exhibit<BR>Number</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE="border-bottom:1.00pt solid #000000; width:39.50pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>Description</B></P></TD></TR>
+
+
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>&nbsp;&nbsp;(4)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">Amended and Restated Pooling and Servicing Agreement, dated as of January&nbsp;1, 2014, by and among Sequoia Residential Funding, Inc., as depositor, Wells Fargo Bank, N.A., as master servicer, Citibank, N.A., as securities
+administrator and Christiana Trust, A Division of Wilmington Savings Fund Society, FSB, as trustee (incorporated by reference to Form <FONT STYLE="white-space:nowrap">8-K</FONT> filed on January&nbsp;6, 2014, Exhibit 20.2)</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>(31)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">Rule 13a-14(d)/15d-14(d) Certification</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>(33)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">Reports on assessment of compliance with servicing criteria for asset-backed issuers</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">33.1 Cenlar, FSB, as Servicer</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">33.2 First Republic Bank, as Servicer</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">33.3 PHH Mortgage Corporation, as Servicer</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">33.4 Redwood Residential Acquisition Corporation, as Servicing Administrator</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">33.5 Wells Fargo Bank, N.A., as Custodian</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">33.6 Wells Fargo Bank, N.A., as Master Servicer</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">33.7 Citibank, N.A., as Securities Administrator and Paying Agent</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>(34)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">Attestation reports on assessment of compliance with servicing criteria for asset-backed securities</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">34.1 Cenlar, FSB, as Servicer</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">34.2 First Republic Bank, as Servicer</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">34.3 PHH Mortgage Corporation, as Servicer</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">34.4 Redwood Residential Acquisition Corporation, as Servicing Administrator</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">34.5 Wells Fargo Bank, N.A., as Custodian</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">34.6 Wells Fargo Bank, N.A., as Master Servicer</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">34.7 Citibank, N.A., as Securities Administrator and Paying Agent</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>(35)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">Servicer Compliance Statement</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">35.1 Cenlar, FSB, as Servicer</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">35.2 First Republic Bank, as Servicer</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">35.3 PHH Mortgage Corporation, as Servicer</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">35.4 Redwood Residential Acquisition Corporation, as Servicing Administrator</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">35.5 Wells Fargo Bank, N.A., as Master Servicer</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">35.6 Citibank, N.A., as Securities Administrator and Paying Agent</TD></TR>
+</TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(b)</TD>
+<TD ALIGN="left" VALIGN="top">See subparagraph (a)(3) above. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(c)</TD>
+<TD ALIGN="left" VALIGN="top">Omitted. </TD></TR></TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>SIGNATURES </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Pursuant to the requirements of Section&nbsp;13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its
+behalf by the undersigned thereunto duly authorized. </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+<TD WIDTH="100%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Sequoia Residential Funding, Inc.</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">(Depositor)</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">/s/ Brett D. Nicholas</P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Chairman of the Board, President and Chief Executive Officer</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">(senior officer in charge of securitization of the depositor)</TD></TR>
+</TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Date: March 30, 2015 </P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">EXHIBIT INDEX </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="7%"></TD>
+<TD WIDTH="92%"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE="border-bottom:1.00pt solid #000000; width:28.45pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>Exhibit<BR>Number</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE="border-bottom:1.00pt solid #000000; width:39.50pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>Description</B></P></TD></TR>
+
+
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>&nbsp;&nbsp;(4)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">Amended and Restated Pooling and Servicing Agreement, dated as of January&nbsp;1, 2014, by and among Sequoia Residential Funding, Inc., as depositor, Wells Fargo Bank, N.A., as master servicer, Citibank, N.A., as securities
+administrator and Christiana Trust, A Division of Wilmington Savings Fund Society, FSB, as trustee (incorporated by reference to Form 8-K filed on January&nbsp;6, 2014, Exhibit 20.2)</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>(31)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">Rule 13a-14(d)/15d-14(d) Certification</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>(33)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">Reports on assessment of compliance with servicing criteria for asset-backed issuers</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">33.1 Cenlar, FSB, as Servicer</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">33.2 First Republic Bank, as Servicer</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">33.3 PHH Mortgage Corporation, as Servicer</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">33.4 Redwood Residential Acquisition Corporation, as Servicing Administrator</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">33.5 Wells Fargo Bank, N.A., as Custodian</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">33.6 Wells Fargo Bank, N.A., as Master Servicer</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">33.7 Citibank, N.A., as Securities Administrator and Paying Agent</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>(34)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">Attestation reports on assessment of compliance with servicing criteria for asset-backed securities</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">34.1 Cenlar, FSB, as Servicer</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">34.2 First Republic Bank, as Servicer</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">34.3 PHH Mortgage Corporation, as Servicer</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">34.4 Redwood Residential Acquisition Corporation, as Servicing Administrator</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">34.5 Wells Fargo Bank, N.A., as Custodian</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">34.6 Wells Fargo Bank, N.A., as Master Servicer</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">34.7 Citibank, N.A., as Securities Administrator and Paying Agent</TD></TR></TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="3%"></TD>
+<TD WIDTH="96%"></TD></TR>
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-bottom:1pt; margin-top:0pt; font-size:10pt; font-family:Times New Roman">(35)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top"> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman">Servicer Compliance Statement</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">35.1 Cenlar, FSB, as Servicer</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">35.2 First Republic Bank, as Servicer</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">35.3 PHH Mortgage Corporation, as Servicer</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">35.4 Redwood Residential Acquisition Corporation, as Servicing Administrator</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">35.5 Wells Fargo Bank, N.A., as Master Servicer</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">35.6 Citibank, N.A., as Securities Administrator and Paying Agent</TD></TR>
+</TABLE>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>

@@ -1,0 +1,391 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>c43799_10k.txt
+<TEXT>
+
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+                               UNITED STATES
+                      SECURITIES AND EXCHANGE COMMISSION
+                           WASHINGTON, D.C. 20549
+                           ______________________
+
+                                 FORM 10-K
+
+(Mark One)
+[X]        ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+           SECURITIES EXCHANGE ACT OF 1934
+              For the fiscal year ended June 15, 2006
+
+                                     OR
+
+[ ]        TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+           SECURITIES EXCHANGE ACT OF 1934
+              For the transition period from ______ to _______
+
+                  Commission file number 333-123441-103
+                HARTFORD LIFE GLOBAL FUNDING TRUST 2006-006
+         (BY HARTFORD LIFE INSURANCE COMPANY AS SPONSOR AND DEPOSITOR)
+             (Exact name of registrant as specified in its charter)
+
+                 DELAWARE                           NONE
+     (State or other jurisdiction of          (I.R.S. Employer
+      incorporation or organization)        Identification Number)
+
+               HARTFORD LIFE GLOBAL FUNDING TRUST 2006-006
+             200 HOPMEADOW STREET, SIMSBURY, CONNECTICUT 06089
+                  (Address of principal executive offices)
+
+                               (860) 547-5000
+             (Registrant's telephone number, including area code)
+
+Securities registered pursuant to Section 12(b) of the Act:  NONE
+
+Securities registered pursuant to Section 12(g) of the Act:  NONE
+
+Indicate by check mark if the registrant is a well-known seasoned issuer,
+as defined in Rule 405 of the Securities Act.  Yes [ ]   No [X]
+
+Indicate by check mark if the registrant is not required to file reports
+pursuant to Section 13 or Section 15(d) of the Act.  Yes [X]   No [ ]
+
+Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days.  Yes [ ]   No [X]
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405
+of Regulation S-K is not contained herein, and will not be contained, to the
+best of registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to
+this Form 10-K.  Yes [X]   No [ ]
+
+Indicate by check mark whether the registrant is a large accelerated filer, an
+accelerated filer, or a non-accelerated filer.  See definition of "accelerated
+filer and large accelerated filer" in Rule 12b-2 of the Exchange Act.
+
+
+<PAGE>
+
+(Check one):
+
+Large accelerated filer [ ] Accelerated filer [ ] Non-accelerated filer [X]
+
+Indicate by check mark whether the registrant is a shell company (as defined in
+Rule 12b-2 of the Exchange Act).  Yes [ ]   No [X]
+
+State the aggregate market value of the voting and non-voting common equity
+held by non-affiliates computed by reference to the price at which the common
+equity was last sold, or the average bid and asked price of such common equity,
+as of the last business day of the registrant's most recently completed second
+fiscal quarter.  NONE.
+
+                  (APPLICABLE ONLY TO CORPORATE REGISTRANTS)
+
+Indicate the number of shares outstanding of each of the registrant's classes
+of common stock, as of the latest practicable date.  NOT APPLICABLE.
+
+                      DOCUMENTS INCORPORATED BY REFERENCE
+None.
+
+    INFORMATION PROVIDED PURSUANT TO GENERAL INSTRUCTION J(2) TO FORM 10-K
+
+Information required under Item 1112(b) "Significant Obligor Financial
+Information" and Item 1119 of Regulation AB "Affiliations and Certain
+Relationships and Related Transactions".
+
+Hartford Life Insurance Company ("HLIC"), the depositor under the program, is
+the sole obligor under the funding agreement securing the notes issued by the
+Trust identified on the cover of this Form 10-K (the "Funding Agreement") and,
+as such, the originator of the Funding Agreement.  For information relating to
+HLIC, please see HLIC's (Commission file number 001-32293) periodic reports,
+including annual reports on Form 10-K, quarterly reports on Form 10-Q and
+current reports on Form 8-K, and other information on file with the Securities
+and Exchange Commission (the "SEC").  You can read and copy these reports and
+other information at the public reference facilities maintained by the SEC at
+100 F Street, NE, Washington, D.C. 20549.  You may obtain copies of this
+material for a fee by writing to the SEC's Public Reference Section of the SEC
+at 100 F Street, NE, Washington, D.C. 20549.  You may obtain information about
+the operation of the Public Reference Room by calling the SEC at
+1-800-SEC-0330.  You can also access some of this information electronically by
+means of the SEC's website on the Internet at http://www.sec.gov, which
+contains reports and other information that HLIC has filed electronically with
+the SEC.
+
+Information required under Item 1114(b)(2) "Credit Enhancement and Other
+Support, Except for Certain Derivatives Instruments" and Item 1115(b) of
+Regulation AB "Significant Enhancement Provider Financial Information".
+
+None.
+
+Information required under Item 1117 of Regulation AB "Legal Proceedings".
+
+None.
+
+Information required under Item 1122 of Regulation AB "Compliance With
+Applicable Servicing Criteria" and Item 1123 of Regulation AB "Servicer
+Compliance Statement".
+
+See Exhibits 33.1, 34.1 and 35.1 to this Form 10-K.
+
+
+                                       2
+<PAGE>
+
+                                   PART II
+
+ITEM 9B.       OTHER INFORMATION.
+
+None.
+
+                                   PART IV
+
+ITEM 15.       EXHIBITS AND FINANCIAL STATEMENT SCHEDULES.
+
+Exhibit 1.1    Standard Distribution Agreement Terms (incorporated by reference
+               to Exhibit 1.1 to Hartford Life Insurance Company's Registration
+               Statement on Form S-3, as amended, (SEC Registration File No.
+               333-123441)).
+
+Exhibit 1.2    Distribution Agreement relating to the notes issued by the trust
+               identified on the cover page of this Exchange Act report
+               (included in Section C to Exhibit 4.5 hereto).
+
+Exhibit 3.1    Schedule identifying the differences between the certificate of
+               trust for the trust identified on the cover page of this
+               Exchange Act report and Exhibit 3.1 to Hartford Life Global
+               Funding Trust 2006-001's Report on Form 8-K filed on July 26,
+               2006 (incorporated by reference to Exhibit 99.1 to Hartford
+               Life Global Funding Trust 2006-001's Report on Form 8-K filed on
+               July 26, 2006).
+
+Exhibit 3.2    Standard Trust Agreement Terms (incorporated by reference to
+               Exhibit 4.7 to Hartford Life Insurance Company's Registration
+               Statement on Form S-3, as amended, (SEC Registration No.
+               333-123441)).
+
+Exhibit 3.3    Trust Agreement relating to the trust identified on the cover
+               page of this Exchange Act report (included in Section A to
+               Exhibit 4.5 hereto).
+
+Exhibit 4.1    Standard Indenture Terms (incorporated by reference to Exhibit
+               4.1 to Hartford Life Insurance Company's Registration Statement
+               on Form S-3, as amended, (SEC Registration File No.
+               333-123441)).
+
+Exhibit 4.2    Indenture relating to the notes issued by the trust identified
+               on the cover page of this Exchange Act report (included in
+               Section B to Exhibit 4.5 hereto).
+
+Exhibit 4.3    Schedule identifying the differences between the note issued by
+               the trust identified on the cover page of this Exchange Act
+               report and Exhibit 4.2 to Hartford Life Global Funding Trust
+               2006-001's Report on Form 8-K filed on July 26, 2006
+               (incorporated by reference to Exhibit 99.2 to Hartford Life
+               Global Funding Trust 2006-001's Report on Form 8-K filed on
+               July 26, 2006).
+
+Exhibit 4.4    Schedule identifying the differences between the funding
+               agreement issued by Hartford Life Insurance Company to the trust
+               identified on the cover page of this Exchange Act report and
+               Exhibit 4.3 to Hartford Life Global Funding Trust 2006-001's
+               Report on Form 8-K filed on July 26, 2006 (incorporated by
+               reference to Exhibit 99.3 to Hartford Life Global Funding Trust
+               2006-001's Report on Form 8-K filed on July 26, 2006).
+
+
+                                       3
+<PAGE>
+
+
+Exhibit 4.5    Schedule identifying the differences between the omnibus
+               instrument relating to the notes issued by the trust identified
+               on the cover page of this Exchange Act report and Exhibit 4.4 to
+               Hartford Life Global Funding Trust 2006-001's Report on Form 8-K
+               filed on July 26, 2006 (incorporated by reference to Exhibit
+               99.4 to Hartford Life Global Funding Trust 2006-001's Report on
+               Form 8-K filed on July 26, 2006).
+
+Exhibit 10.1   Administrative Services Agreement (incorporated by reference to
+               Exhibit 4.9 to Hartford Life Insurance Company's Registration
+               Statement on Form S-3, as amended, (SEC Registration File No.
+               333-130089)).
+
+Exhibit 10.2   Expense and Indemnity Agreement between Hartford Life Insurance
+               Company and Wilmington Trust Company (incorporated by reference
+               to Exhibit 10.1 to Hartford Life Insurance Company's
+               Registration Statement on Form S-3, as amended, (SEC
+               Registration File No. 333-130089)).
+
+Exhibit 10.3   Expense and Indemnity Agreement between Hartford Life Insurance
+               Company and JPMorgan Chase Bank, N.A. (incorporated by reference
+               to Exhibit 10.2 to Hartford Life Insurance Company's
+               Registration Statement on Form S-3, as amended, (SEC
+               Registration No. 333-130089)).
+
+Exhibit 10.4   Expense and Indemnity Agreement between Hartford Life Insurance
+               Company and Amacar Pacific Corporation (incorporated by
+               reference to Exhibit 10.3 to Hartford Life Insurance Company's
+               Registration Statement on Form S-3, as amended, (SEC
+               Registration No. 333-130089)).
+
+Exhibit 31.1   Section 302 Certification.
+
+Exhibit 33.1   Report on assessment of compliance with servicing criteria.
+
+Exhibit 34.1   Attestation Report on assessment of compliance with servicing
+               criteria.
+
+Exhibit 35.1   Servicer compliance statement.
+
+
+-------------------------------------------------------------------------------
+
+                                 SIGNATURES
+
+     Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed
+on its behalf by the undersigned, thereunto duly authorized.
+
+                             Hartford Life Global Funding Trust 2006-006
+                             (by Hartford Life Insurance Company as depositor)
+
+
+DATE:   August 29, 2006      By:      /s/ Kenneth A. McCullum
+                             Name:    Kenneth A. McCullum
+                             Title:   Senior Vice President
+
+
+
+
+                                       4
+<PAGE>
+
+
+
+
+SUPPLEMENTAL INFORMATION TO BE FURNISHED WITH REPORTS FILED PURSUANT TO SECTION
+15(d) OF THE ACT BY REGISTRANTS WHICH HAVE NOT REGISTERED SECURITIES PURSUANT
+                           TO SECTION 12 OF THE ACT
+
+   No annual report or proxy materials have been sent to security holders and
+no such report or proxy materials are to be furnished to security holders
+subsequent to the filing of this Form 10-K.
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+
+
+                                  EXHIBIT INDEX
+
+
+EXHIBIT        DESCRIPTION
+
+-------------------------------------------------------------------------------
+Exhibit 1.1    Standard Distribution Agreement Terms (incorporated by reference
+               to Exhibit 1.1 to Hartford Life Insurance Company's Registration
+               Statement on Form S-3, as amended, (SEC Registration File No.
+               333-123441)).
+
+Exhibit 1.2    Distribution Agreement relating to the notes issued by the trust
+               identified on the cover page of this Exchange Act report
+               (included in Section C to Exhibit 4.5 hereto).
+
+Exhibit 3.1    Schedule identifying the differences between the certificate of
+               trust for the trust identified on the cover page of this
+               Exchange Act report and Exhibit 3.1 to Hartford Life Global
+               Funding Trust 2006-001's Report on Form 8-K filed on July 26,
+               2006 (incorporated by reference to Exhibit 99.1 to Hartford
+               Life Global Funding Trust 2006-001's Report on Form 8-K filed on
+               July 26, 2006).
+
+Exhibit 3.2    Standard Trust Agreement Terms (incorporated by reference to
+               Exhibit 4.7 to Hartford Life Insurance Company's Registration
+               Statement on Form S-3, as amended, (SEC Registration No.
+               333-123441)).
+
+Exhibit 3.3    Trust Agreement relating to the trust identified on the cover
+               page of this Exchange Act report (included in Section A to
+               Exhibit 4.5 hereto).
+
+Exhibit 4.1    Standard Indenture Terms (incorporated by reference to Exhibit
+               4.1 to Hartford Life Insurance Company's Registration Statement
+               on Form S-3, as amended, (SEC Registration File No.
+               333-123441)).
+
+Exhibit 4.2    Indenture relating to the notes issued by the trust identified
+               on the cover page of this Exchange Act report (included in
+               Section B to Exhibit 4.5 hereto).
+
+Exhibit 4.3    Schedule identifying the differences between the note issued by
+               the trust identified on the cover page of this Exchange Act
+               report and Exhibit 4.2 to Hartford Life Global Funding Trust
+               2006-001's Report on Form 8-K filed on July 26, 2006
+               (incorporated by reference to Exhibit 99.2 to Hartford Life
+               Global Funding Trust 2006-001's Report on Form 8-K filed on
+               July 26, 2006).
+
+
+                                       5
+<PAGE>
+
+Exhibit 4.4    Schedule identifying the differences between the funding
+               agreement issued by Hartford Life Insurance Company to the trust
+               identified on the cover page of this Exchange Act report and
+               Exhibit 4.3 to Hartford Life Global Funding Trust 2006-001's
+               Report on Form 8-K filed on July 26, 2006 (incorporated by
+               reference to Exhibit 99.3 to Hartford Life Global Funding Trust
+               2006-001's Report on Form 8-K filed on July 26, 2006).
+
+Exhibit 4.5    Schedule identifying the differences between the omnibus
+               instrument relating to the notes issued by the trust identified
+               on the cover page of this Exchange Act report and Exhibit 4.4 to
+               Hartford Life Global Funding Trust 2006-001's Report on Form 8-K
+               filed on July 26, 2006 (incorporated by reference to Exhibit
+               99.4 to Hartford Life Global Funding Trust 2006-001's Report on
+               Form 8-K filed on July 26, 2006).
+
+Exhibit 10.1   Administrative Services Agreement (incorporated by reference to
+               Exhibit 4.9 to Hartford Life Insurance Company's Registration
+               Statement on Form S-3, as amended, (SEC Registration File No.
+               333-130089)).
+
+Exhibit 10.2   Expense and Indemnity Agreement between Hartford Life Insurance
+               Company and Wilmington Trust Company (incorporated by reference
+               to Exhibit 10.1 to Hartford Life Insurance Company's
+               Registration Statement on Form S-3, as amended, (SEC
+               Registration File No. 333-130089)).
+
+Exhibit 10.3   Expense and Indemnity Agreement between Hartford Life Insurance
+               Company and JPMorgan Chase Bank, N.A. (incorporated by reference
+               to Exhibit 10.2 to Hartford Life Insurance Company's
+               Registration Statement on Form S-3, as amended, (SEC
+               Registration No. 333-130089)).
+
+Exhibit 10.4   Expense and Indemnity Agreement between Hartford Life Insurance
+               Company and Amacar Pacific Corporation (incorporated by
+               reference to Exhibit 10.3 to Hartford Life Insurance Company's
+               Registration Statement on Form S-3, as amended, (SEC
+               Registration No. 333-130089)).
+
+Exhibit 31.1   Section 302 Certification.
+
+Exhibit 33.1   Report on assessment of compliance with servicing criteria.
+
+Exhibit 34.1   Attestation Report on assessment of compliance with servicing
+               criteria.
+
+Exhibit 35.1   Servicer compliance statement.
+
+--------------------------------------------------------------------------------
+
+
+
+                                       6
+</TEXT>
+</DOCUMENT>

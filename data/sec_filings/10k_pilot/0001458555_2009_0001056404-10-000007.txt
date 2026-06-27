@@ -1,0 +1,608 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>baf09r03_10k-2009.txt
+<DESCRIPTION>FORM 10-K
+<TEXT>
+
+                                UNITED STATES
+                     SECURITIES AND EXCHANGE COMMISSION
+                            WASHINGTON, D.C. 20549
+
+                                  FORM 10-K
+
+
+  (Mark one)
+
+  /X/ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+      EXCHANGE ACT OF 1934
+      For the fiscal year ended December 31, 2009
+
+      OR
+
+
+  / / TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+      EXCHANGE ACT OF 1934
+      For the transition period from ____________ to ____________
+
+
+
+      Commission file number: 333-148403-04
+
+      Banc of America Funding 2009-R3 Trust
+      (exact name of issuing entity as specified in its charter)
+
+      Banc of America Mortgage 2006-B Trust
+      (exact name of significant obligor as specified in its charter)
+
+      Banc of America Funding Corporation
+      (exact name of the depositor as specified in its charter)
+
+      Banc of America Mortgage Securities, Inc.
+      (exact name of depositor with respect to the significant obligor)
+
+      Banc of America Securities LLC
+      (exact name of the sponsor as specified in its charter)
+
+      Bank of America, National Association
+      (exact name of the sponsor with respect to the significant obligor as
+      specified in its charter)
+
+
+
+  New York                                38-3798521
+  (State or other jurisdiction of         38-6878298
+  incorporation or organization)          (I.R.S. Employer
+                                          Identification No.)
+
+
+   c/o Wells Fargo Bank, N.A.
+   9062 Old Annapolis Road
+   Columbia, MD                                 21045
+  (Address of principal executive               (Zip Code)
+  offices)
+
+
+ Telephone number, including area code: (410) 884-2000
+
+
+
+
+  Securities registered pursuant to Section 12(b) of the Act:
+
+    NONE.
+
+
+
+  Securities registered pursuant to Section 12(g) of the Act:
+
+    NONE.
+
+
+
+  Indicate by check mark if the registrant is a well-known seasoned issuer, as
+  defined in Rule 405 of the Securities Act.
+
+    Yes ___     No  X
+
+
+
+  Indicate by check mark if the registrant is not required to file reports
+  pursuant to Section 13 or Section 15(d) of the Act.
+
+    Yes ___     No  X
+
+
+
+  Note - Checking the box above will not relieve any registrant required to
+  file reports pursuant to Section 13 or 15(d) of the Exchange Act from their
+  obligations under those Sections.
+
+
+  Indicate by check mark whether the registrant (1) has filed all reports
+  required to be filed by Section 13 or 15(d) of the Securities Exchange Act
+  of 1934 during the preceding 12 months (or for such shorter period that the
+  registrant was required to file such reports), and (2) has been subject to
+  such filing requirements for the past 90 days.
+
+    Yes  X      No ___
+
+
+
+  Indicate by check mark whether the registrant has submitted electronically
+  and posted on its corporate Website, if any, every Interactive Data File
+  required to be submitted and posted pursuant to Rule 405 of Regulation S-T
+  (Section 229.405 of this chapter) during the preceding 12 months (or for
+  such shorter period that the registrant was required to submit and post such
+  files).
+
+    Not applicable.
+
+
+
+  Indicate by check mark if disclosure of delinquent filers pursuant to Item
+  405 of Regulation S-K (Section 229.405 of this chapter) is not contained
+  herein, and will not be contained, to the best of registrant's knowledge, in
+  definitive proxy or information statements incorporated by reference in Part
+  III of this Form 10-K or any amendment to this Form 10-K.
+
+    Not applicable.
+
+
+
+  Indicate by check mark whether the registrant is a large accelerated filer,
+  an accelerated filer, a non-accelerated filer, or a smaller reporting
+  company.  See the definitions of "large accelerated filer", "accelerated
+  filer" and "smaller reporting company" in Rule 12b-2 of the Exchange Act.
+
+   Large accelerated filer ___
+   Accelerated filer ___
+   Non-accelerated filer X (Do not check if a smaller reporting company)
+   Smaller reporting company ___
+
+
+
+  Indicate by check mark whether the registrant is a shell company (as defined
+  in Rule 12b-2 of the Act).
+
+    Yes ___     No  X
+
+
+
+  State the aggregate market value of the voting and non-voting common equity
+  held by non-affiliates computed by reference to the price at which the
+  common equity was last sold, or the average bid and asked price of such
+  common equity, as of the last business day of the registrant's most recently
+  completed second fiscal quarter.
+
+    Not applicable.
+
+
+
+  Indicate by check mark whether the registrant has filed all documents and
+  reports required to be filed by Section 12, 13 or 15(d) of the Securities
+  Exchange Act of 1934 subsequent to the distribution of securities under a
+  plan confirmed by a court.
+
+    Not applicable.
+
+
+
+  Indicate the number of shares outstanding of each of the registrant's
+  classes of common stock, as of the latest practicable date.
+
+    Not applicable.
+
+
+
+  DOCUMENTS INCORPORATED BY REFERENCE
+
+  List hereunder the following documents if incorporated by reference and the
+  Part of the Form 10-K (e.g., Part I, Part II, etc.) into which the document
+  is incorporated: (1)Any annual report to security holders; (2) Any proxy or
+  information statement; and (3)Any prospectus filed pursuant to Rule 424(b)
+  or (c) under the Securities Act of 1933. The listed documents should be
+  clearly described for identification purposes (e.g., annual report to
+  security holders for fiscal year ended December 24, 1980).
+
+    Not applicable.
+
+
+
+
+
+                                     PART I
+
+  Item 1.      Business.
+
+               Omitted.
+
+
+  Item 1A.     Risk Factors.
+
+               Omitted.
+
+
+  Item 1B.     Unresolved Staff Comments.
+
+               Not applicable. None of the Registrant or any significant
+               obligor is an accelerated filer, large accelerated filer or
+               well-known seasoned issuer.
+
+
+  Item 2.      Properties.
+
+               Omitted.
+
+
+  Item 3.      Legal Proceedings.
+
+               Omitted.
+
+
+  Item 4.      Submission of Matters to a Vote of Security Holders.
+
+               Omitted.
+
+
+
+
+                                     PART II
+
+  Item 5.      Market for Registrant's Common Equity, Related Stockholder
+               Matters and Issuer Purchases of Equity Securities.
+
+               Omitted.
+
+
+  Item 6.      Selected Financial Data.
+
+               Omitted.
+
+
+  Item 7.      Management's Discussion and Analysis of Financial Condition and
+               Results of Operations.
+
+               Omitted.
+
+
+  Item 7A.     Quantitative and Qualitative Disclosures About Market Risk.
+
+               Omitted.
+
+
+  Item 8.      Financial Statements and Supplementary Data.
+
+               Omitted.
+
+
+  Item 9.      Changes in and Disagreements With Accountants on Accounting and
+               Financial Disclosure.
+
+               Omitted.
+
+
+  Item 9A.     Controls and Procedures.
+
+               Omitted.
+
+
+  Item 9A(T).  Controls and Procedures.
+
+               Omitted.
+
+
+  Item 9B.     Other Information.
+
+               None.
+
+
+
+
+                                    PART III
+
+  Item 10.     Directors, Executive Officers and Corporate Governance.
+
+               Omitted.
+
+
+  Item 11.     Executive Compensation.
+
+               Omitted.
+
+
+  Item 12.     Security Ownership of Certain Beneficial Owners and Management
+               and Related Stockholder Matters.
+
+               Omitted.
+
+
+  Item 13.     Certain Relationships and Related Transactions, and Director
+               Independence.
+
+               Omitted.
+
+
+  Item 14.     Principal Accounting Fees and Services.
+
+               Omitted.
+
+
+
+
+  ADDITIONAL DISCLOSURE ITEMS FOR REGULATION AB
+
+
+Item 1112(b) of Regulation AB, Significant Obligor Financial Information.
+
+The Banc of America Mortgage 2006-B Trust constitutes a significant obligor
+within the meaning of Item 1101(k)(2) of Regulation AB.  The information
+required by General Instruction J. of Form 10-K for the significant obligor is
+provided in this Form 10-K for the Issuing Entity and the related compliance
+documents are attached hereto under Part IV, Item 15.
+
+
+
+Item 1114(b)(2) of Regulation AB, Significant Enhancement  Provider Financial
+Information.
+
+No entity or group of affiliated entities provides any external credit
+enhancement or other support for the certificates within this transaction (or
+the certificates issued by the significant obligor that comprise the pool
+assets) as described under Item 1114(a) of Regulation AB.
+
+
+
+Item 1115(b) of Regulation AB, Certain Derivatives Instruments (Financial
+Information).
+
+No entity or group of affiliated entities provides any derivative instruments or
+other support for the certificates within this transaction (or the certificates
+issued by the significant obligor that comprise the pool assets) as described
+under Item 1115 of Regulation AB.
+
+
+
+Item 1117 of Regulation AB, Legal Proceedings.
+
+The registrant knows of no material pending legal proceedings involving the
+significant obligor, the issuing entity, and all parties related to such issuing
+entity, other than routine litigation incidental to the duties of those
+respective parties.
+
+
+
+Item 1119 of Regulation AB, Affiliations and Certain Relationships and Related
+Transactions.
+
+There are no changes to the information provided in the prospectus filed
+pursuant to Rule 424 of the Securities Act of 1933, as amended, under the same
+Central Index Key (CIK) as this annual report on Form 10-K.
+
+
+
+Item 1122 of Regulation AB, Compliance with Applicable Servicing Criteria.
+
+The reports on assessment of compliance with the servicing criteria for
+asset-backed securities and the related attestation reports on such assessments
+of compliance are attached hereto under Item 15.
+
+Bank of America, National Association ("Bank of America"), as servicer with
+respect to the Banc of America Mortgage 2006-B Trust, assessed its compliance
+with the applicable servicing criteria set forth in Item 1122(d) of the
+Securities and Exchange Commission's Regulation AB for the period January 1,
+2009 to November 13, 2009 (the "Platform Conversion Date") and from the period
+November 14, 2009 to December 31, 2009 and has identified the following material
+instances of noncompliance:
+
+With respect to the period January 1, 2009 to November 13, 2009:
+
+1. For criterion 1122(d)(4)(vi), Bank of America notes that due to the high
+   volume of modifications resulting from the economic climate of the last two
+   years in some instances loan modifications were not made, reviewed, and/or
+   approved in accordance with provisions of the transaction agreements.
+
+2. For criterion 1122(d)(4)(vii), Bank of America notes that due in large part
+   to the various regulatory moratoria on foreclosure activities during the last
+   two years, certain loss mitigation or recovery actions were not initiated,
+   conducted or concluded in accordance with the required timeframes established
+   under the transaction agreements.
+
+With respect to the period November 14, 2009 to December 31, 2009:
+
+For criterion 1122(d)(4)(vii), Bank of America notes that due in large part to
+the various regulatory moratoria on foreclosure activities during the last two
+years, certain loss mitigation or recovery actions were not initiated, conducted
+or concluded in accordance with the required timeframes established under the
+transaction agreements.
+
+Bank of America has outlined the following platform level remediation plans:
+
+For Item 1122(d)(4)(vi), Bank of America notes that due to the high volume of
+modifications resulting from the economic climate of the last two years, in some
+instances loan modification actions were not made, reviewed, and/or approved in
+accordance with the provisions of the transaction agreements.  Bank of America
+is implementing enhanced audit procedures, additional reporting to management
+and increased personnel to ensure that modification actions are made, reviewed,
+and/or approved timely.
+
+For Item 1122 (d)(4)(vii), Bank of America notes that due in large part to the
+various regulatory moratoria on foreclosure activities during the last two
+years, certain foreclosure actions were not initiated, conducted or concluded in
+accordance with the required timeframes established under the transaction
+agreements. Bank of America is implementing a more objective review criterion,
+including additional management reporting and audit procedures for delinquent
+loans to ensure foreclosures are initiated, conducted and concluded within
+objectively defined guidelines.
+
+
+
+Item 1123 of Regulation AB, Servicer Compliance Statements.
+
+The servicer compliance statements disclose the following failure of one of the
+servicers to fulfill its obligations under the applicable agreement in all
+material respects:
+
+Bank of America, National Association ("Bank of America") noted that certain
+modification actions were not made, reviewed and/or approved in accordance with
+the provisions of the pooling and servicing agreement, dated October 30, 2006,
+among Banc of America Mortgage Securities, Inc., Bank of America and Wells
+Fargo Bank, N.A.  Bank of America is implementing enhanced audit procedures,
+additional reporting to management and increased personnel to ensure that
+modification actions are made, reviewed and/or approved timely.
+
+The servicer compliance statements are attached hereto under Item 15.
+
+
+
+                               Part IV
+
+  Item 15. Exhibits, Financial Statement Schedules.
+
+  (a) Exhibits.
+
+  (4.1) Trust Agreement, dated March 30, 2009, by and between Banc of America
+  Funding Corporation and Wells Fargo Bank, N.A. (including exhibits),
+  incorporated by reference from Exhibit 4.1 of the issuing entity's current
+  report on Form 8-K filed March 30, 2009.
+
+  (4.2) Mortgage Certificate Purchase Agreement, dated March 30, 2009, by and
+  between Banc of America Funding Corporation and Banc of America Securities
+  LLC, incorporated by reference from Exhibit 4.2 of the issuing entity's
+  current report on Form 8-K filed on March 30, 2009.
+
+  (4.3) Pooling and Servicing Agreement, dated October 30, 2006, by and
+  among Banc of America Mortgage Securities, Inc., Bank of America, National
+  Association and Wells Fargo Bank, N.A., with respect to the Banc of
+  America Mortgage Trust 2006-B significant obligor (incorporated by
+  reference from Exhibit 4.1 of the Banc of America Mortgage 2006-B
+  Trust significant obligor's current report on Form 8-K filed on November
+  14, 2006).
+
+  (31) Rule 13a-14(d)/15d-14(d) Certification.
+
+  (33) Reports on assessment of compliance with servicing criteria for
+  asset-backed securities.
+
+
+    <TABLE>
+    <S>      <C>
+
+    33.1 Bank of America, National Association as Servicer for Banc of America Mortgage
+    2006-B Trust
+    33.2 Wells Fargo Bank, N.A. as Trustee
+    33.3 Wells Fargo Bank, N.A. as Custodian for Banc of America Mortgage 2006-B Trust
+    33.4 Wells Fargo Bank, N.A. as Trustee for Banc of America Mortgage 2006-B Trust
+
+    </TABLE>
+
+
+  (34) Attestation reports on assessment of compliance with servicing criteria
+  for asset-backed securities.
+
+
+    <TABLE>
+    <S>      <C>
+
+    34.1 Bank of America, National Association as Servicer for Banc of America Mortgage
+    2006-B Trust
+    34.2 Wells Fargo Bank, N.A. as Trustee
+    34.3 Wells Fargo Bank, N.A. as Custodian for Banc of America Mortgage 2006-B Trust
+    34.4 Wells Fargo Bank, N.A. as Trustee for Banc of America Mortgage 2006-B Trust
+
+    </TABLE>
+
+
+   (35) Servicer compliance statements.
+
+
+    <TABLE>
+    <S>      <C>
+
+    35.1 Bank of America, National Association as Servicer for Banc of America Mortgage
+    2006-B Trust
+    35.2 Wells Fargo Bank, N.A. as Trustee
+    35.3 Wells Fargo Bank, N.A. as Trustee for Banc of America Mortgage 2006-B Trust
+
+    </TABLE>
+
+
+   (b) Not applicable.
+
+   (c) Omitted.
+
+
+
+                          SIGNATURES
+
+
+  Pursuant to the requirements of Section 13 or 15(d) of the Securities
+  Exchange Act of 1934, the registrant has duly caused this report to be
+  signed on its behalf by the undersigned, thereunto duly authorized.
+
+
+   Banc of America Funding Corporation
+   (Depositor)
+
+
+   /s/ Scott Evans
+   Scott Evans, Senior Vice President
+   (senior officer in charge of securitization of the depositor)
+
+
+    Date:   March 26, 2010
+
+
+
+  Exhibit Index
+
+  Exhibit No.
+
+
+   (4.1) Trust Agreement, dated March 30, 2009, by and between Banc of America
+   Funding Corporation and Wells Fargo Bank, N.A. (including exhibits),
+   incorporated by reference from Exhibit 4.1 of the issuing entity's current
+   report on Form 8-K filed March 30, 2009.
+
+   (4.2) Mortgage Certificate Purchase Agreement, dated March 30, 2009, by and
+   between Banc of America Funding Corporation and Banc of America Securities
+   LLC, incorporated by reference from Exhibit 4.2 of the issuing entity's
+   current report on Form 8-K filed on March 30, 2009.
+
+   (4.3) Pooling and Servicing Agreement, dated October 30, 2006, by and
+   among Banc of America Mortgage Securities, Inc., Bank of America, National
+   Association and Wells Fargo Bank, N.A., with respect to the Banc of
+   America Mortgage 2006-B Trust significant obligor (incorporated by
+   reference from Exhibit 4.1 of the Banc of America Mortgage 2006-B
+   Trust significant obligor's current report on Form 8-K filed on November
+   14, 2006).
+
+   (31) Rule 13a-14(d)/15d-14(d) Certification.
+
+   (33) Reports on assessment of compliance with servicing criteria for
+   asset-backed securities.
+
+
+    <TABLE>
+
+    <S>      <C>
+    33.1 Bank of America, National Association as Servicer for Banc of America Mortgage
+    2006-B Trust
+    33.2 Wells Fargo Bank, N.A. as Trustee
+    33.3 Wells Fargo Bank, N.A. as Custodian for Banc of America Mortgage 2006-B Trust
+    33.4 Wells Fargo Bank, N.A. as Trustee for Banc of America Mortgage 2006-B Trust
+
+    </TABLE>
+
+   (34) Attestation reports on assessment of compliance with servicing
+   criteria for asset-backed securities.
+
+
+    <TABLE>
+
+    <S>      <C>
+    34.1 Bank of America, National Association as Servicer for Banc of America Mortgage
+    2006-B Trust
+    34.2 Wells Fargo Bank, N.A. as Trustee
+    34.3 Wells Fargo Bank, N.A. as Custodian for Banc of America Mortgage 2006-B Trust
+    34.4 Wells Fargo Bank, N.A. as Trustee for Banc of America Mortgage 2006-B Trust
+
+    </TABLE>
+
+   (35) Servicer compliance statements.
+
+
+    <TABLE>
+
+    <S>      <C>
+    35.1 Bank of America, National Association as Servicer for Banc of America Mortgage
+    2006-B Trust
+    35.2 Wells Fargo Bank, N.A. as Trustee
+    35.3 Wells Fargo Bank, N.A. as Trustee for Banc of America Mortgage 2006-B Trust
+
+    </TABLE>
+
+
+
+</TEXT>
+</DOCUMENT>

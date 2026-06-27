@@ -1,0 +1,1934 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>d295341d10k.htm
+<DESCRIPTION>FORM 10-K
+<TEXT>
+<HTML><HEAD>
+<TITLE>Form 10-K</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+
+ <P STYLE="line-height:0px;margin-top:0px;margin-bottom:0px;border-bottom:0.5pt solid #000000">&nbsp;</P>
+<P STYLE="line-height:3px;margin-top:0px;margin-bottom:2px;border-bottom:0.5pt solid #000000">&nbsp;</P> <P STYLE="margin-top:4px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="5"><B>UNITED STATES </B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="5"><B>SECURITIES AND EXCHANGE COMMISSION </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT
+STYLE="font-family:Times New Roman" SIZE="3"><B>Washington, D.C. 20549 </B></FONT></P> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P><center>
+<P STYLE="line-height:6px;margin-top:0px;margin-bottom:2px;border-bottom:1pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:6px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="5"><B>FORM 10-K
+</B></FONT></P> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="3"><B></B><FONT STYLE="FONT-FAMILY:WINGDINGS">&#120;</FONT><B></B><B></B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="3"><B>ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d)&nbsp;OF THE SECURITIES EXCHANGE ACT OF 1934 </B></FONT></TD></TR></TABLE>
+ <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="3"><B>For fiscal year ended <U>December&nbsp;31, 2011</U> </B></FONT></P>
+ <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="3"><B></B><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT><B></B><B></B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="3"><B>TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d)&nbsp;OF THE EXCHANGE ACT OF 1934 </B></FONT></TD></TR></TABLE>
+<P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="3"><B>For the transition period
+from&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<U></U>to&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<U></U> </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px" ALIGN="center"><FONT
+STYLE="font-family:Times New Roman" SIZE="3"><B>Commission file number <U>000-23550</U> </B></FONT></P> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P><center>
+<P STYLE="line-height:6px;margin-top:0px;margin-bottom:2px;border-bottom:1pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:6px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="6"><B>FENTURA
+FINANCIAL, INC.</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>(Exact name of registrant as specified in its charter) </B></FONT></P>
+<P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="50%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="48%"></TD></TR>
+
+
+<TR>
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Michigan</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>38-2806518</B></FONT></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>(State or other jurisdiction of<BR>incorporation or organization)</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>(IRS Employer<BR>Identification No.)</B></FONT></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>175 North Leroy, Fenton, Michigan</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>48430-0725</B></FONT></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>(Address of Principal Executive Offices)</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>(Zip Code)</B></FONT></TD></TR>
+</TABLE> <P STYLE="margin-top:6px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Registrant&#146;s telephone number, including area code (810)&nbsp;629-2263 </B></FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Securities registered under Section&nbsp;12(b)&nbsp;of the Exchange Act: None </B></FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Securities registered under Section&nbsp;12(g)&nbsp;of the Exchange Act: Common Stock </B></FONT></P>
+<P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P><center> <P STYLE="line-height:6px;margin-top:0px;margin-bottom:2px;border-bottom:1pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:6px;margin-bottom:0px"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities
+Act.&nbsp;&nbsp;&nbsp;&nbsp;Yes&nbsp;&nbsp;<FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT>&nbsp;&nbsp;&nbsp;&nbsp;No&nbsp;&nbsp;<FONT STYLE="FONT-FAMILY:WINGDINGS">&#120;</FONT> </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">Indicate by check mark if the registrant is not required to file reports pursuant to Section&nbsp;13 or Section&nbsp;15(d)&nbsp;of the Act.&nbsp;&nbsp;&nbsp;&nbsp;Yes&nbsp;&nbsp;<FONT
+STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT>&nbsp;&nbsp;&nbsp;&nbsp;No&nbsp;&nbsp;<FONT STYLE="FONT-FAMILY:WINGDINGS">&#120;</FONT> </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Indicate
+by check mark whether the registrant (1)&nbsp;filed all reports required to be filed by Section&nbsp;13 or 15(d)&nbsp;of the Exchange Act during the preceding 12 months (or for such shorter period that the registrant was required to file such
+reports)&nbsp;and (2)&nbsp;has been subject to such filing requirements for the past 90 days.&nbsp;&nbsp;&nbsp;&nbsp;
+<FONT STYLE="FONT-FAMILY:WINGDINGS">&#120;</FONT>&nbsp;&nbsp;Yes&nbsp;&nbsp;&nbsp;&nbsp;<FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT>&nbsp;&nbsp;No </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">Indicate by check mark whether the registrant has submitted electronically and posted on its corporate web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule
+405 of Regulation S-T during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such
+files.)&nbsp;&nbsp;&nbsp;&nbsp;<FONT STYLE="FONT-FAMILY:WINGDINGS">&#120;</FONT>&nbsp;&nbsp;Yes&nbsp;&nbsp;&nbsp;&nbsp;<FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT>&nbsp;&nbsp;No </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">Indicate by check mark if disclosure of delinquent filers in response to Item&nbsp;405 of Regulation S-K is not contained herein, and will not be contained, to the best of registrant&#146;s knowledge, in
+definitive proxy or information statements incorporated by reference in Part III of this Form 10-K or any amendment to this Form 10-K.&nbsp;&nbsp;&nbsp;&nbsp;<FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT> </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer or a smaller reporting company.
+See definitions of &#147;large accelerated filer&#148;, &#147;accelerated filer&#148; and &#147;smaller reporting company&#148; in Rule 12b-2 of the Exchange Act. </FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="16%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="60%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="20%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="1%"></TD></TR>
+
+
+<TR>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">Large&nbsp;accelerated&nbsp;filer</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">Accelerated&nbsp;filer</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">Non-accelerated filer</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">Smaller&nbsp;reporting&nbsp;company</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#120;</FONT></FONT></TD></TR>
+</TABLE> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange
+Act).&nbsp;&nbsp;&nbsp;&nbsp;Yes&nbsp;&nbsp;<FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT>&nbsp;&nbsp;&nbsp;&nbsp;No&nbsp;&nbsp;<FONT STYLE="FONT-FAMILY:WINGDINGS">&#120;</FONT> </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">State the aggregate market value of the voting and nonvoting common equity held by nonaffiliates of the registrant computed by reference to the price at which the common equity was sold, or the average
+bid and asked prices of such common equity, as of the last business day of the registrant&#146;s most recently completed second quarter. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">Aggregate Market Value as of June&nbsp;30, 2011: $3,077,257 </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">State the number of shares
+outstanding of each of issuer&#146;s classes of common equity, as of the latest practicable date. 2,388,225 shares of Common Stock as of March&nbsp;1, 2012. </FONT></P> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P><center>
+<P STYLE="line-height:6px;margin-top:0px;margin-bottom:2px;border-bottom:1pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:6px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>DOCUMENTS
+INCORPORATED BY REFERENCE </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Portions of the Fentura Financial, Inc. Proxy Statement for its annual meeting of shareholders to be held
+April&nbsp;25, 2012 and its Rule 14a-3 annual report are incorporated by reference into Parts II and III. </FONT></P> <P STYLE="font-size:8px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<P STYLE="line-height:0px;margin-top:0px;margin-bottom:0px;border-bottom:0.5pt solid #000000">&nbsp;</P> <P STYLE="line-height:3px;margin-top:0px;margin-bottom:2px;border-bottom:0.5pt solid #000000">&nbsp;</P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><A NAME="toc"></A>Fentura Financial, Inc. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">2011 Annual Report on Form 10-K </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">Table of Contents </FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="11%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="84%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B></B>Page<B></B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD></TR>
+
+
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2"><A HREF="#toc295341_a">PART I</A></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Item 1.</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2"><A HREF="#toc295341_1">Business</A></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">1</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Item 1A</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2"><A HREF="#toc295341_2">Risk Factors</A></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">9</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Item 1B</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2"><A HREF="#toc295341_3">Unresolved Staff Comments</A></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">9</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Item 2.</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2"><A HREF="#toc295341_4">Properties</A></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">10</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Item 3.</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2"><A HREF="#toc295341_5">Legal Proceedings</A></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">10</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Item 4.</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2"><A HREF="#toc295341_6">Reserved</A></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">10</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Additional&nbsp;Item</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2"><A HREF="#toc295341_7">Executive Officers of Registrant</A></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">10</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="4"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2"><A HREF="#toc295341_b">PART II</A></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Item 5.</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2"><A HREF="#toc295341_8">Market for Registrant&#146;s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities
+</A></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">11</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Item 6.</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2"><A HREF="#toc295341_9">Selected Financial Data</A></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">11</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Item 7.</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2"><A HREF="#toc295341_10">Management&#146;s Discussion and Analysis of Financial Condition and Results of
+Operations</A></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">11</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Item 7A.</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2"><A HREF="#toc295341_11">Quantitative and Qualitative Disclosures about Market Risk</A></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">11</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Item 8.</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2"><A HREF="#toc295341_12">Financial Statements and Supplementary Data</A></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">12</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Item 9.</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2"><A HREF="#toc295341_13">Changes in and Disagreements with Accountants on Accounting and Financial
+Disclosure</A></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">12</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Item 9A</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2"><A HREF="#toc295341_14">Controls and Procedures</A></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">12</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Item 9B.</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2"><A HREF="#toc295341_15">Other Information</A></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">13</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="4"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2"><A HREF="#toc295341_c">PART III </A></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Item 10.</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2"><A HREF="#toc295341_16">Directors, Executive Officers and Corporate Governance</A></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">13</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Item 11.</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2"><A HREF="#toc295341_17">Executive Compensation</A></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">13</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Item 12.</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2"><A HREF="#toc295341_18">Security Ownership of Certain Beneficial Owners and Management and Related Stockholder
+Matters</A></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">13</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Item 13.</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2"><A HREF="#toc295341_19">Certain Relationships and Related Transactions, and Director Independence</A></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">14</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Item 14.</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2"><A HREF="#toc295341_20">Principal Accountant Fees and Services</A></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">14</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="4"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2"><A HREF="#toc295341_d">PART IV </A></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Item 15.</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2"><A HREF="#toc295341_21">Exhibits and Financial Statement Schedules </A></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">14</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="4"></TD></TR>
+<TR>
+<TD VALIGN="top" COLSPAN="3"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2"><A HREF="#toc295341_22">SIGNATURES</A></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">16</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD></TR>
+<TR>
+<TD VALIGN="top" COLSPAN="3"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2"><A HREF="#toc295341_23">EXHIBIT INDEX</A></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">17</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD></TR>
+</TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><A NAME="toc295341_a"></A>PART I </B></FONT></P>
+<P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="9%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><A NAME="toc295341_1"></A>ITEM&nbsp;1.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><U>DESCRIPTION OF BUSINESS</U> </B></FONT></TD></TR></TABLE> <P STYLE="margin-top:6px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><U>The
+Company </U></B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Fentura Financial, Inc. (the &#147;Corporation&#148; or &#147;Fentura&#148;)&nbsp;is a bank holding company
+headquartered in Fenton, Michigan that owns one subsidiary bank (see &#147;The Bank&#148; below) and Fentura Holdings, LLC. a separate entity formed in 2011 to hold assets assumed upon the sale of a former bank subsidiary. All information in this
+Item&nbsp;1 is as of December&nbsp;31, 2011. The Corporation&#146;s subsidiary bank operates 8 community banking offices offering a full range of banking services principally to individuals, small businesses, and government entities throughout
+mid-Michigan. At the close of business on December&nbsp;31, 2011, the Corporation had assets of $299 million, deposits of $266 million, and shareholders&#146; equity of $15 million. Trust assets under management totaled $88 million. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Fentura was incorporated in 1987 to serve as the holding company of its sole subsidiary bank, The State Bank (&#147;TSB&#148; or the
+&#147;Bank&#148;). TSB traces its origins to its predecessor, The Commercial Savings Bank of Fenton, which was incorporated in 1898. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">The Corporation&#146;s principal executive offices are located at 175 North Leroy, Fenton, Michigan 48430-0725, and its telephone number is (810)&nbsp;750-8725. </FONT></P>
+<P STYLE="margin-top:18px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><U>The Bank </U></B></FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">TSB&#146;s original predecessor was incorporated as a state banking corporation under the laws of Michigan on September&nbsp;16, 1898
+under the name &#147;The Commercial Savings Bank of Fenton.&#148; In 1931, it changed its name to State Savings Bank of Fenton, and in 1988 became The State Bank. For over 100 years, TSB has been engaged in the general banking business in the
+Fenton, Michigan area. TSB is headquartered in Fenton and considers its primary service area to be portions of Genesee, Oakland, and Livingston counties in Michigan. As of December&nbsp;31, 2011, TSB operated three offices and an operations center
+in the City of Fenton, Michigan, one office in the City of Linden, Michigan, one office in the Village of Holly, Michigan, two offices in the Township of Grand Blanc, Michigan. Its main office is located in downtown Fenton. In Brighton, Michigan a
+single branch office operates doing business as Livingston Community Bank. Livingston Community Bank operates as a semi-autonomous banking division of The State Bank. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">The Bank is a community-oriented provider of financial services engaged in the business of general commercial banking. The Bank&#146;s activities include investing in state and federal securities,
+accepting demand deposits, savings and other time deposits, extending retail, commercial, consumer and real estate loans to individuals and businesses, providing safe deposit boxes, transmitting funds and providing other services generally
+associated with full service commercial banking. Lending is focused on individuals and small businesses in the local markets served by the Bank. In addition, TSB operates a trust department offering a full range of fiduciary services. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">The bank is a state bank, chartered under the Michigan Banking Code. It is not a member of the Board of Governors of the Federal Reserve
+System (the &#147;Federal Reserve Board&#148;), but the deposits are insured by the Federal Deposit Insurance Corporation (the &#147;FDIC&#148;). See &#147;Supervision and Regulation&#148; below. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">As of December&nbsp;31, 2011, TSB employed 96 full time personnel, including 33 officers, and an additional 33 part time employees. The
+Bank considers its employee relations to be excellent. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><U>Competition </U></B></FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">The financial services industry is highly competitive. The Bank competes with other commercial banks, many of which are subsidiaries of
+bank holding companies, for loans, deposits, trust accounts, and </FONT></P>
+ <p STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">1 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">
+other business on the basis of interest rates, fees, convenience and quality of service. The Bank also competes with a variety of other financial services organizations including savings and loan
+associations, finance companies, mortgage banking companies, brokerage firms, credit unions and other financial organizations. Many of the Bank&#146;s competitors have substantially greater resources than the Bank. </FONT></P>
+<P STYLE="margin-top:18px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><U>Supervision and Regulation </U></B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2"><I>The following is a summary of certain statutes and regulations affecting the Corporation and the Bank. This summary is qualified in its entirety by such statutes and regulations. A change in applicable
+laws or regulations may have a material effect on the Corporation, the Bank and the business of the Corporation and the Bank. </I></FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>General
+</B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Financial institutions and their holding companies are extensively regulated under federal and state law. Consequently,
+the growth and earnings performance of the Corporation and the Bank can be affected not only by management decisions and general economic conditions, but also by the statutes administered by, and the regulations and policies of, various governmental
+regulatory authorities. Those authorities include, but are not limited to, the Federal Reserve Board, the FDIC, the Commissioner of the Michigan Office of Financial and Insurance Regulation (&#147;Commissioner&#148;), the Internal Revenue Service,
+and state taxing authorities. The effect of such statutes, regulations and policies can be significant, and cannot be predicted with a high degree of certainty. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">Federal and state laws and regulations generally applicable to financial institutions and their holding companies regulate, among other things, the scope of business, investments, reserves against
+deposits, capital levels relative to operations, lending activities and practices, the nature and amount of collateral for loans, the establishment of branches, mergers, consolidations and dividends. The system of supervision and regulation
+applicable to the Corporation and the Banks establishes a comprehensive framework for their respective operations and is intended primarily for the protection of the FDIC&#146;s deposit insurance funds, the depositors of the Bank, and the public,
+rather than shareholders of the Bank or the Corporation. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Federal law and regulations establish supervisory standards
+applicable to the lending activities of the Bank, including internal controls, credit underwriting, loan documentation and loan-to-value ratios for loans secured by real property. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT
+STYLE="font-family:Times New Roman" SIZE="2"><I>Recent Legislation </I></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">The Dodd-Frank Wall Street Reform and Consumer
+Protection Act (the &#147;Dodd-Frank Act&#148;) became law on July&nbsp;21, 2010. The Dodd-Frank Act constitutes one of the most significant efforts in recent history to comprehensively overhaul the financial services industry and will affect large
+and small financial institutions alike. While some of the provisions of the Dodd-Frank Act took effect immediately, many of the provisions have delayed effective dates and their implementation will require the issuance of numerous new regulations.
+</FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">The Dodd-Frank Act deals with a wide range of regulatory issues including, but not limited to: mandating new capital
+requirements that would require certain bank holding companies to be subject to the same capital requirements as their depository institutions; eliminating (with certain exceptions) trust preferred securities; codifying the Federal Reserve&#146;s
+Source of Strength doctrine; creating a Bureau of Consumer Financial Protection (the &#147;BCFP&#148;) which will have the power to exercise broad regulatory, supervisory and enforcement authority concerning both existing and new consumer financial
+protection laws; permanently increasing federal deposit insurance protection to $250,000 per depositor; extending the unlimited coverage for qualifying non-interest bearing transactional accounts until December&nbsp;31, 2012; increasing the ratio of
+reserves to deposits minimum to 1.35 percent; assessing premiums for deposit insurance coverage on average consolidated total assets less average tangible equity, rather than on a deposit base; authorizing the assessment of examination fees;
+establishing new standards and </FONT></P>
+ <p STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">2 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">
+restrictions on the origination of mortgages; permitting financial institutions to pay interest on business checking accounts; limiting interchange fees payable on debit card transactions; and
+implementing requirements on boards, corporate governance and executive compensation for public companies. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">In July 2011, the BCFP took over
+many of the consumer financial functions that had been assigned to the federal banking agencies and other designated agencies. The BCFP has broad rule making authority. There is considerable uncertainty as to how the BCFP actually will exercise its
+regulators, supervisors, examination and enforcement authority. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">The complete impact of the Dodd-Frank Act is unknown since many of the
+substantive requirements will be contained in the many rules and regulations to be implemented. However, the Dodd-Frank Act has had and will have significant and immediate effects on banks and bank holding companies in many areas. It is expected
+that the Dodd-Frank Act will increase the cost of doing business in the banking industry. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">In June 2010, the Federal Reserve issued final
+guidance to ensure that incentive compensation arrangements at financial institutions take into account risk and are consistent with safe and sound practices. The guidance does not set forth any formulas or pay caps, but sets forth certain
+principles which companies would be required to follow with respect to certain employees and groups of employees that may expose the institution to material amounts of risk. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT
+STYLE="font-family:Times New Roman" SIZE="2"><B>The Corporation </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><I>General</I></B>. The Corporation, as the sole
+shareholder of the Bank, is a bank holding company and is registered with, and subject to regulation by, the Federal Reserve Board under the Bank Holding Company Act, as amended (the &#147;BHCA&#148;). Under the BHCA, the Corporation is subject to
+periodic examination by the Federal Reserve Board, and is required to file with the Federal Reserve Board periodic reports of its operations and such additional information as the Federal Reserve Board may require. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">In accordance with Federal Reserve Board policy, the Corporation is expected to act as a source of financial strength to the Bank and to
+commit resources to support the Bank in circumstances where the Corporation might not do so absent such policy. In addition, if the Commissioner deems a bank&#146;s capital to be impaired, the Commissioner may require the bank to restore its capital
+by a special assessment upon the Corporation as the Bank&#146;s sole shareholder. If the Corporation were to fail to pay any such assessment, the directors of the bank would be required, under Michigan law, to sell the shares of the Bank&#146;s
+stock owned by the Corporation to the highest bidder at either a public or private auction and use the proceeds of the sale to restore the Bank&#146;s capital. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">The Corporation&#146;s common stock is registered under the Securities and Exchange Act of 1934, as amended (the &#147;Exchange Act&#148;). It is therefore subject to the information, proxy solicitation,
+insider trading and other restrictions and requirements of the SEC under the Exchange Act. On July&nbsp;30, 2002, President Bush signed into law the Sarbanes-Oxley Act of 2002 (&#147;Sarbanes-Oxley Act&#148;). The Sarbanes-Oxley Act provided for
+numerous changes to the reporting, accounting, corporate governance and business practices of companies as well as financial and other professionals who have involvement with the U.S. public markets. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><I>Investments and Activities</I></B>. Under the BHCA, a bank holding company must obtain Federal Reserve Board approval before:
+(i)&nbsp;acquiring, directly or indirectly, ownership or control of any voting shares of another bank or bank holding company if, after such acquisition, it would own or control more than 5% of such shares (unless it already owns or controls the
+majority of such shares); (ii)&nbsp;acquiring all or substantially all of the assets of another bank or bank holding company; or (iii)&nbsp;merging or consolidating with another bank holding company. The Federal Reserve Board may allow a bank
+holding company to acquire banks located in any state of the United States without regard to geographic restrictions or reciprocity requirements imposed by state law, but subject to certain conditions, including limitations on the aggregate amount
+of deposits that may be held by the acquiring holding company and all of its insured depository institution affiliates. </FONT></P>
+ <p STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">3 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+
+ <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">The merger or consolidation of an existing bank subsidiary of the Corporation with another
+bank, or the acquisition by such a subsidiary of assets of another bank, or the assumption of liability by such a subsidiary to pay any deposits in another bank, will require the prior written approval of the responsible Federal depository
+institution regulatory agency under the Bank Merger Act. In addition, in certain such cases, an application to, and the prior approval of, the Federal Reserve Board under the BHCA and/or the Commissioner under the Michigan Banking Code, may be
+required. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">With certain limited exceptions, the BHCA prohibits any bank holding company from engaging, either directly or
+indirectly through a subsidiary, in any activity other than managing or controlling banks unless the proposed non-banking activity is one that the Federal Reserve Board has determined to be so closely related to banking or managing or controlling
+banks as to be a proper incident thereto. Under current Federal Reserve Board regulations, such permissible non-banking activities include such things as mortgage banking, equipment leasing, securities brokerage, and consumer and commercial finance
+company operations. Well-capitalized and well-managed bank holding companies may engage in certain types of non-banking activities without prior notice to, or approval of, the Federal Reserve Board, provided that written notice of the new activity
+is given to the Federal Reserve Board within 10 business days after the activity is commenced. If a bank holding company wishes to engage in a non-banking activity by acquiring a going concern, prior notice and/or prior approval will be required,
+depending upon the activities in which the company to be acquired is engaged, the size of the company to be acquired and the financial and managerial condition of the acquiring bank holding company. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">A bank holding company whose subsidiary depository institutions all are well-capitalized and well-managed and who have Community
+Reinvestment Act ratings of at least &#147;satisfactory&#148; may elect to become a financial holding company. A financial holding company is permitted to engage in a broader range of activities than are permitted to bank holding companies.
+</FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Those expanded activities include any activity which the Federal Reserve Board (in certain instances in consultation with the
+Department of the Treasury) determines, by order or regulation, to be financial in nature or incidental to such financial activity, or to be complementary to a financial activity and not to pose a substantial risk to the safety or soundness of
+depository institutions or the financial system generally. Such expanded activities include, among others: insuring, guaranteeing, or indemnifying against loss, harm, damage, illness, disability or death, or issuing annuities, and acting as
+principal, agent, or broker for such purposes; providing financial, investment, or economic advisory services, including advising a mutual fund; and underwriting, dealing in, or making a market in securities. The Corporation has not elected to be
+treated as a financial holding company. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">The BHCA generally does not place territorial restrictions on the domestic activities
+of non-bank subsidiaries of bank or financial holding companies. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Federal legislation also prohibits the acquisition of
+control of a bank holding company, such as the Corporation, by a person or a group of persons acting in concert, without prior notice to the Federal Reserve Board. Control is defined in certain cases as the acquisition of 10% of the outstanding
+shares of a bank holding company. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><I>Capital Requirements</I></B>. The Federal Reserve Board uses capital adequacy
+guidelines in its examination and regulation of bank holding companies. If capital falls below minimum guidelines, a bank holding company may, among other things, be denied approval to acquire or establish additional banks or non-bank businesses.
+These capital guidelines are comparable to those established by the regulatory authorities for the Banks discussed below. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><I>Regulatory Agreements</I></B>.<B><I> </I></B>Effective November 2010, the Corporation received a notice from the Federal Reserve
+which defined restrictions being placed upon the Holding Company. The restrictions include the declaration or payment of any dividends, the receipt of dividends from the Bank, the repayment of any principal or interest on subordinated debentures or
+Trust Preferred Securities, restrictions on debt, any changes in Executive or Senior Management or change in the role of Senior Management. In addition, the notice requires for the Corporation to &#147;maintain sufficient capital&#148; levels.
+</FONT></P>
+ <p STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">4 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+
+ <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><I>Dividends</I></B>. The Corporation is a corporation separate and distinct from the
+Bank. Most of the Corporation&#146;s revenues are received by it in the form of dividends paid by the Bank. Thus, the Corporation&#146;s ability to pay dividends to its shareholders is indirectly limited by statutory restrictions on the Bank&#146;s
+ability to pay dividends described below. Further, in a policy statement, the Federal Reserve Board has expressed its view that a bank holding company experiencing earnings weaknesses should not pay cash dividends exceeding its net income or which
+can only be funded in ways that weaken the bank holding company&#146;s financial health, such as by borrowing. Additionally, the Federal Reserve Board possesses enforcement powers over bank holding companies and their non-bank subsidiaries to
+prevent or remedy actions that represent unsafe or unsound practices or violations of applicable statutes and regulations. Among these powers is the ability to proscribe the payment of dividends by banks and bank holding companies. Similar
+enforcement powers over the Bank is possessed by the FDIC. The &#147;prompt corrective action&#148; provisions of federal law and regulation authorizes the Federal Reserve Board to restrict the payment of dividends by the Corporation for an insured
+bank which fails to meet specified capital levels. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">In addition to the restrictions on dividends imposed by the Federal
+Reserve Board, the Michigan Business Corporation Act provides that dividends may be legally declared or paid only if after the distribution a corporation, such as the Corporation, can pay its debts as they come due in the usual course of business
+and its total assets equal or exceed the sum of its liabilities plus the amount that would be needed to satisfy the preferential rights upon dissolution of any holders of preferred stock whose preferential rights are superior to those receiving the
+distribution. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Effective November 2010, The Federal Reserve notified the Corporation of restrictions being placed upon the
+Corporation. Among other restrictions, restrictions include the declaration or payment of any dividends, or the receipt of dividends from the subsidiary Bank. (See <I>Regulatory Agreements</I> on page 7.) </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Regulatory Developments</B>.<B> </B>The Emergency Economic Stabilization Act of 2008 (&#147;EESA&#148;) was enacted on October&nbsp;3,
+2008. Pursuant to EESA, the U.S. Department of Treasury (the &#147;Treasury&#148;) created the Troubled Asset Relief Program&#146;s (&#147;TARP&#148;) Capital Purchase Program (&#147;CPP&#148;) under which the Treasury was authorized to invest in
+non-voting, senior preferred stock of U.S. banks and savings associations or their holding companies. The Corporation and the Bank did not participate in the TARP CPP. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT
+STYLE="font-family:Times New Roman" SIZE="2"><B>The Bank </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><I>General</I></B>. The Bank is a Michigan banking
+corporation, and deposit accounts are insured by the deposit insurance fund&nbsp;of the FDIC. As a FDIC-insured Michigan chartered bank, the Bank is subject to the examination, supervision, reporting and enforcement requirements of the Commissioner,
+as the chartering authority for Michigan banks, and the FDIC, as administrator of the deposit insurance fund. These agencies and the federal and state laws applicable to the Bank and its operations, extensively regulate various aspects of the
+banking business including, among other things, permissible types and amounts of loans, investments and other activities, capital adequacy, branching, interest rates on loans and on deposits, the maintenance of non-interest bearing reserves on
+deposit accounts, and the safety and soundness of banking practices. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><I>Deposit Insurance</I></B>. As an FDIC-insured
+institution, the Bank is required to pay deposit insurance premium assessments to the deposit insurance fund pursuant to a risk-based assessment system. Effective in 2010 the Dodd-Frank Act permanently raised the basic limit on federal deposit
+insurance coverage from $100,000 to $250,000 per depositor retroactive to January&nbsp;1, 2009. In addition, in November 2010, pursuant to the Dodd-Frank Act, the FDIC issued a final rule to provide temporary unlimited deposit insurance coverage for
+non-interest bearing accounts from December&nbsp;31, 2010 through December&nbsp;31, 2012. </FONT></P>
+ <p STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">5 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Under the FDIC&#146;s risk-based assessment regulations there are four risk categories, and each insured
+institution is assigned to a risk category based on capital levels and supervisory ratings. Well-capitalized institutions with CAMELS composite ratings of 1 or 2 are placed in Risk Category I while other institutions are placed in Risk Categories
+II, III or IV depending on their capital levels and CAMELS composite ratings. The assessment rates may be changed by the FDIC as necessary to maintain the deposit insurance fund at the reserve ratio designated by the FDIC. A bank&#146;s initial
+assessment rate is based upon the risk category to which it is assigned. Adjustments may be made to a bank&#146;s initial assessment rate based upon certain factors including levels of long-term unsecured debt, levels of secured liabilities above a
+threshold amount, and, for certain institutions, brokered deposit levels. Effective through March&nbsp;31, 2011, initial assessment rates ranged from 12 to 45 basis points of assessable deposits. As required by the Dodd-Frank Act, in February 2011,
+the FDIC adopted a final rule that redefined its deposit insurance premium assessment base to be an insured depository institution&#146;s average consolidated total assets minus average tangible equity capital, rather than deposits. In addition, the
+FDIC has revised its deposit insurance rate schedules as a consequence of the changes to the assessment base. The proposed rate schedule and other revisions became effective on April&nbsp;1, 2011. Initial base assessment rates now range between 5
+and 35 basis points of the new assessment base. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Due to a decrease in the reserve ratio of the deposit insurance fund, in
+October 2008, the FDIC established a restoration plan to restore the reserve ratio to at least 1.15%. However, the Dodd-Frank Act raised the minimum reserve ratio to 1.35% and removed the 1.5% maximum fund ratio, instead leaving it to the discretion
+of the FDIC. The Dodd-Frank Act also requires that the reserve ratio reach 1.35% by September&nbsp;30, 2020. Effective January&nbsp;1, 2011, the FDIC set the long term reserve ratio at 2%. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">In May 2009, the FDIC imposed a special assessment of five basis points on each FDIC-insured depository institution&#146;s assets, minus
+its Tier 1 capital as of June&nbsp;30, 2009. The special assessment was collected on September&nbsp;30, 2009, and the Banks&#146; paid an additional assessment of $267,000. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">On November&nbsp;12, 2009, the FDIC adopted a final rule that required insured institutions to prepay on December&nbsp;31, 2009, estimated quarterly risk-based assessments for the fourth quarter of 2009
+and for all of 2010, 2011, and 2012. For purposes of calculating the prepayment amount, the institution&#146;s third quarter 2009 assessment base was increased quarterly at a five percent annual growth rate through the end of 2012. On
+September&nbsp;29, 2009, the FDIC also increased annual assessment rates uniformly by three basis points beginning in 2011. On December&nbsp;31, 2009, the Banks prepaid estimated assessments of $ 303,000. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">In November 2008, the FDIC adopted final regulations implementing the Temporary Liquidity Guarantee Program (&#147;TLGP&#148;) pursuant
+to which depository institutions could elect to participate. Pursuant to the TLGP, for a surcharge the FDIC provides full FDIC deposit insurance coverage for non-interest bearing deposit transaction accounts regardless of dollar amount for an
+additional fee assessment by the FDIC (the &#147;Transaction Account Guarantee&#148;). These accounts are mainly payment-processing accounts, such as business payroll accounts. The Bank did not opt out of the Transaction Account Guarantee portion of
+the TLGP. The Transaction Account Guarantee was to expire on December&nbsp;31, 2009, but was extended until December&nbsp;31, 2010 for those participating institutions that did not opt out of the extended period. The Bank elected not to continue its
+participation in the Transaction Account Guarantee program during the extended period. The Dodd-Frank Act provides unlimited federal deposit insurance until January&nbsp;1, 2013 for non-interest bearing demand transaction accounts at all insured
+depository institutions. There is no additional surcharge related to this coverage. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><I>FICO
+Assessments</I></B>.<B><I></I></B> The Bank is subject to assessments to cover the payments on outstanding obligations of the Financing Corporation (&#147;FICO&#148;). FICO was created to finance the recapitalization of the Federal Savings and Loan
+Insurance Corporation, during the thrift crisis in the 1980s. From now until the maturity of the outstanding FICO obligations in 2019, insured institutions will share the cost of the interest on the FICO bonds on a <I>pro rata</I> basis. </FONT></P>
+
+ <p STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">6 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+
+ <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><I>Commissioner Assessments</I></B>. Michigan banks are required to pay supervisory fees
+to the Commissioner to fund the operations of the Commissioner. The amount of supervisory fees paid by a bank is based upon the bank&#146;s total assets, as reported to the Commissioner. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><I>Capital Requirements</I></B>. The FDIC has established the following minimum capital standards for state-chartered, FDIC insured
+non-member banks, such as the Bank: a leverage requirement consisting of a minimum ratio of Tier 1 capital to total average assets of 3% for the most highly-rated banks with minimum requirements of 4% to 5% for all others, and a risk-based capital
+requirement consisting of a minimum ratio of total capital to total risk-weighted assets of 8%, at least one-half of which must be Tier 1 capital. Tier 1 capital consists principally of shareholders&#146; equity. These capital requirements are
+minimum requirements. Higher capital levels will be required if warranted by the particular circumstances or risk profiles of individual institutions. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">The Dodd-Frank Act requires the FDIC to establish minimum leverage and risk-based capital requirements to apply to insured depository institutions. The Dodd-Frank Act additionally requires capital
+requirements to be countercyclical so that the required amount of capital increases in times of economic expansion and decreases in times of economic contraction, consistent with safety and soundness </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><I>Prompt Corrective Regulatory Action</I></B>. Federal law provides the federal banking regulators with broad power to take prompt
+corrective action to resolve the problems of undercapitalized institutions. The extent of the regulators&#146; powers depends on whether the institution in question is &#147;well capitalized,&#148; &#147;adequately capitalized,&#148;
+&#147;undercapitalized,&#148; &#147;significantly undercapitalized,&#148; or &#147;critically undercapitalized.&#148; Federal regulations define these capital categories as follows: </FONT></P>
+<P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="84%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="54%"></TD>
+<TD VALIGN="bottom" WIDTH="5%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="5%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="5%"></TD>
+<TD></TD></TR>
+<TR>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="1">Total</FONT><br><FONT STYLE="font-family:Times New Roman" SIZE="1">Risk-Based</FONT><br><FONT
+STYLE="font-family:Times New Roman" SIZE="1">Capital Ratio</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="1">Tier 1</FONT><br><FONT STYLE="font-family:Times New Roman" SIZE="1">Risk-Based</FONT><br><FONT
+STYLE="font-family:Times New Roman" SIZE="1">Capital Ratio</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center" STYLE="border-bottom:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="1">Leverage Ratio</FONT></TD></TR>
+
+
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="4"></TD>
+<TD HEIGHT="8" COLSPAN="4"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Well capitalized</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD NOWRAP VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">10%&nbsp;or&nbsp;above</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">6%&nbsp;or&nbsp;above</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">5%&nbsp;or&nbsp;above</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Adequately capitalized</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD NOWRAP VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">8% or above</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">4% or above</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">4% or above</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Undercapitalized</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD NOWRAP VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">Less than 8%</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">Less&nbsp;than&nbsp;4%</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">Less&nbsp;than&nbsp;4%</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Significantly undercapitalized</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD NOWRAP VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">Less than 6%</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">Less than 3%</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">Less than 3%</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="4"></TD>
+<TD HEIGHT="8" COLSPAN="4"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Critically undercapitalized</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#151;&nbsp;&nbsp;</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#151;&nbsp;&nbsp;</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">A&nbsp;ratio&nbsp;of&nbsp;tangible</FONT><BR> <P STYLE="margin-bottom:1px; margin-top:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">equity to total<BR>assets of 2%
+or<BR>less</FONT></P></TD></TR>
+</TABLE> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">As of December&nbsp;31, 2011, the Bank&#146;s ratios exceeded minimum requirements for the well
+capitalized category. However due to regulatory agreements, the Bank cannot be considered &#147;well&#148; capitalized and is classified as &#147;adequately&#148; capitalized. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">In general, a depository institution may be reclassified to a lower category than is indicated by its capital levels if the appropriate federal depository institution regulatory agency determines the
+institution to be otherwise in an unsafe or unsound condition or to be engaged in an unsafe or unsound practice. This could include a failure by the institution, following receipt of a less-than-satisfactory rating on its most recent examination
+report, to correct the deficiency. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">In addition, FDIC insured institutions may be liable for any loss incurred by, or
+reasonably expected to be incurred by the FDIC in connection with the default of commonly controlled FDIC insured depository institutions or any assistance provided by the FDIC to commonly controlled FDIC insured depository institutions in danger of
+default. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px; margin-left:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><I>Regulatory Agreements </I></B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">In December 2009, the Bank was presented with a Consent Order from the FDIC and the Commissioner (the &#147;Consent Order&#148;). This Consent Order was effective January&nbsp;8, 2010. The Consent Order
+set forth commitments to be made by the Bank to, among other items, address and strengthen the </FONT></P>
+ <p STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">7 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">
+Bank&#146;s practices relating to oversight of the Bank by the management and board of directors of the Bank; maintain sufficient capital at the Bank; improve asset quality through the review of
+the Bank&#146;s position on problem loans; improve the Bank&#146;s liquidity position; review the adequacy of the Bank&#146;s allowance for loan and lease losses; and adopt and implement a profit plan and budget. The Consent Order requires the Bank
+to maintain a Tier 1 capital to average asset ratio of a minimum of 8.0% and a total capital to risk-weighed asset ratio of 12.0%. At December&nbsp;31, 2011, the Bank had a Tier 1 capital to average assets ratio of 8.1% and a total capital to
+risk-weighed asset ratio of 12.3%. This is compared to December&nbsp;31, 2010, when the Bank had a Tier 1 capital to average asset ratio of 6.5% and a total capital to risk-weighted asset ratio of 10.0%. The Bank&#146;s board of directors and
+management reviewed the Consent Order and after discussions, the directors signed the Consent Order agreeing to comply with all of its requirements. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2"><B><I>Dividends</I></B>. Under Michigan law, the Bank is restricted as to the maximum amount of dividends it may pay on its common stock. The Bank may not pay dividends except out of net income after
+deducting its losses and bad debts. A Michigan state bank may not declare or pay a dividend unless the bank will have surplus amounting to at least 20% of its capital after the payment of the dividend. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Federal law generally prohibits a depository institution from making any capital distribution (including payment of a dividend)&nbsp;or
+paying any management fee to its holding company if the depository institution would thereafter be undercapitalized. The FDIC may prevent an insured bank from paying dividends if the bank is in default of payment of any assessment due to the FDIC.
+In addition, the FDIC may prohibit the payment of dividends by an insured bank, if such payment is determined, by reason of the financial condition of the bank, to be an unsafe and unsound banking practice. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Pursuant to the Consent Order, the Bank may not declare or pay any cash dividend without the prior written consent of the FDIC and the
+Commissioner. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><I>Insider Transactions</I></B>. The Bank is subject to certain restrictions imposed by the Federal Reserve
+Act on any extensions of credit to the Corporation or its subsidiary, on investments in the stock or other securities of the Corporation or its subsidiary and the acceptance of the stock or other securities of the Corporation or its subsidiary as
+collateral for loans. Certain limitations and reporting requirements are also placed on extensions of credit by the Bank to its directors and officers, to directors and officers of the Corporation and its subsidiary, to principal shareholders of the
+Corporation, and to &#147;related interests&#148; of such directors, officers and principal shareholders. In addition, federal law and regulations may affect the terms upon which any person becoming a director or officer of the Corporation or one of
+its subsidiaries or a principal shareholder of the Corporation may obtain credit from the bank with which the Bank maintains a correspondent relationship. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2"><B><I>Safety and Soundness Standards</I></B>. The FDIC has adopted guidelines to promote the safety and soundness of federally insured depository institutions. These guidelines establish standards for
+internal controls, information systems, internal audit systems, loan documentation, credit underwriting, interest rate exposure, asset growth, compensation, fees and benefits, asset quality and earnings. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><I>Investments and Other Activities</I></B>. Under federal law and FDIC regulations, FDIC-insured state banks are prohibited, subject
+to certain exceptions, from making or retaining equity investments of a type, or in an amount, that are not permissible for a national bank. Federal law, as implemented by FDIC regulations, also prohibits FDIC insured state banks and their
+subsidiaries, subject to certain exceptions, from engaging as principal in any activity that is not permitted for a national bank or its subsidiary, respectively, unless the bank meets, and continues to meet, its minimum regulatory capital
+requirements and the FDIC determines the activity would not pose a significant risk to the deposit insurance fund. Impermissible investments and activities must be divested or discontinued within certain time frames set forth by the FDIC in
+accordance with federal law. These restrictions are not currently expected to have a material impact on the operations of the Bank. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">Federal law also authorizes insured state banks to engage in financial activities, through subsidiaries, similar to the activities permitted for financial holding companies. If a state bank wants to
+</FONT></P>
+ <p STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">8 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">
+establish a subsidiary engaged in financial activities, it must meet certain criteria, including that it and all of its affiliated insured depository institutions are well-capitalized and have a
+Community Reinvestment Act rating of at least &#147;satisfactory&#148; and that it is well-managed. There are capital deduction and financial statement requirements and financial and operational safeguards that apply to subsidiaries engaged in
+financial activities. Such a subsidiary is considered to be an affiliate of the bank and there are limitations on certain transactions between a bank and a subsidiary engaged in financial activities of the same type that apply to transactions with a
+bank&#146;s holding company and its subsidiaries. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><I>Consumer Protection Laws</I></B>. The Bank&#146;s business includes
+making a variety of types of loans to individuals. In making these loans, the Bank is subject to State usury and regulatory laws and to various federal statutes, including the privacy of consumer financial information provisions of the
+Gramm-Leach-Bliley Act and regulations promulgated there under, the Equal Credit Opportunity Act, the Fair Credit Reporting Act, the Truth in Lending Act, the Real Estate Settlement Procedures Act, and the Home Mortgage Disclosure Act, and the
+regulations promulgated there under, which prohibit discrimination, specify disclosures to be made to borrowers regarding credit and settlement costs, and regulate the mortgage loan servicing activities of the Bank, including the maintenance and
+operation of escrow accounts and the transfer of mortgage loan servicing. In receiving deposits, the Bank is subject to extensive regulation under State and federal law and regulations, including the Truth in Savings Act, the Expedited Funds
+Availability Act, the Bank Secrecy Act, the Electronic Funds Transfer Act, and the Federal Deposit Insurance Act. Violation of these laws could result in the imposition of significant damages and fines upon the Bank and its directors and officers.
+</FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><I>Branching Authority</I></B>.<B><I></I></B> Michigan banks, such as the Bank, have the authority under Michigan law to
+establish branches in any state, including Michigan, the District of Columbia, a territory or protectorate of the United States or a foreign country, subject to receipt of all required regulatory approvals. The Riegle-Neal Interstate Banking and
+Branching Efficiency Act of 1994 allows the FDIC and other federal bank regulators to approve applications for mergers of banks across state lines without regard to whether such activity is contrary to state law. After establishing branches in a
+state through an interstate merger, a bank can establish and acquire additional branches at any location in the state where any bank involved in the merger could have established or acquired branches under applicable federal or state law. Financial
+institutions utilized mergers for interstate branching purposes since some states prohibited de novo branching or had reciprocity requirements. However, the Dodd-Frank Act removed such restrictions on interstate branching. As a result of the
+Dodd-Frank Act, interstate branching authority has been expanded and a state or national bank may open a de novo branch in another state if the law of the state where the branch is to be located would permit a state bank chartered by that state to
+open the branch. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Reserve Requirement</B>.<B></B> Under a regulation promulgated by the Federal Reserve, depository institutions, including
+the Banks, are required to maintain cash reserves against a stated percentage of their transaction accounts. Effective October&nbsp;9, 2008, the Federal Reserve Banks are now authorized to pay interest on such reserves. The current reserve
+requirements are as follows: </FONT></P> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="1%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">for transaction accounts totaling $11.5 million or less, a reserve of 0%; and </FONT></P></TD></TR></TABLE>
+<P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="1%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">for transaction accounts in excess of $11.5 million up to and including $71.0 million, a reserve of 3%; and </FONT></P></TD></TR></TABLE>
+<P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="1%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">for transaction accounts totaling in excess of $71.0 million, a reserve requirement of $1.785 million plus 10% of that portion of the total transaction
+accounts greater than $71.0 million. </FONT></P></TD></TR></TABLE> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">The dollar amounts and percentages reported here are all subject to adjustment by the
+Federal Reserve. </FONT></P> <P STYLE="font-size:18px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="9%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><A NAME="toc295341_2"></A>ITEM&nbsp;1A.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Risk Factors. </B></FONT></TD></TR></TABLE> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">This item
+is not applicable to smaller reporting companies. </FONT></P> <P STYLE="font-size:18px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="9%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><A NAME="toc295341_3"></A>ITEM&nbsp;1B.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Unresolved Staff Comments. </B></FONT></TD></TR></TABLE>
+<P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Not applicable. </FONT></P>
+ <p STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">9 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="9%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><A NAME="toc295341_4"></A>ITEM&nbsp;2.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><U>PROPERTIES</U> </B></FONT></TD></TR></TABLE> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">The
+Corporation&#146;s executive offices are located at 175 North Leroy Street, Fenton, Michigan, which is also the main office of The State Bank. The State Bank also has the following community offices (all of which are in Michigan): </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Operating as The State Bank: </FONT></P> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">Branch - 15095 Silver Parkway, Fenton <I>(owned)</I> </FONT></P></TD></TR></TABLE> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">Branch - 18005 Silver Parkway, Fenton <I>(leased)</I> </FONT></P></TD></TR></TABLE>
+<P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">Support Center - 101 North Leroy Street, Fenton <I>(owned)</I> </FONT></P></TD></TR></TABLE>
+<P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">Branch - 107 Main Street, Linden <I>(owned)</I> </FONT></P></TD></TR></TABLE> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">Branch - 4043 Grange Hall Road, Holly <I>(owned)</I> </FONT></P></TD></TR></TABLE> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">Branch - 7606 S Saginaw, Grand Blanc <I>(owned)</I> </FONT></P></TD></TR></TABLE> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">Branch - 1401 E. Hill Road, Grand Blanc <I>(owned)</I> </FONT></P></TD></TR></TABLE> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">Operating as Livingston Community Bank </FONT></P> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">Branch - 134 N. First St, Brighton <I>(owned)</I> </FONT></P></TD></TR></TABLE> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">The Corporation owns the headquarters of its Bank and many of the other bank offices (as noted above). The balance of the bank offices are leased from third parties. All properties have maintenance
+contracts and are maintained in good condition. </FONT></P> <P STYLE="font-size:18px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="9%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><A NAME="toc295341_5"></A>ITEM&nbsp;3.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><U>LEGAL PROCEEDINGS</U> </B></FONT></TD></TR></TABLE>
+<P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">From time to time, the Corporation and its subsidiaries are parties to various legal proceedings incident to their business. At
+December&nbsp;31, 2011, there were no legal proceedings which management anticipates would have a material adverse effect on the Corporation. </FONT></P> <P STYLE="font-size:18px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="9%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><A NAME="toc295341_6"></A>ITEM&nbsp;4.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><U>RESERVED</U> </B></FONT></TD></TR></TABLE> <P STYLE="margin-top:6px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><U><A NAME="toc295341_7">
+</A>ADDITIONAL ITEM - EXECUTIVE OFFICERS OF REGISTRANT </U></B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">The following information concerning executive officers of the
+Corporation has been omitted from the Registrant&#146;s proxy statement pursuant to Instruction 3 to Regulation S-K, Item&nbsp;401(b). </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">Officers of the Corporation are appointed annually by the Board of Directors of the Corporation and serve at the pleasure of the Board of Directors. Certain of the officers named below are appointed
+annually by the Board of Directors of one or the other of the Banks and serve at the pleasure of the Board of the Bank that appointed them. The Bank officers are included in the listing of executive officers of the Corporation because of the nature
+of the office they hold. Information concerning these executive officers is given below: </FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:4%; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2"><I>Donald L. Grill
+</I>(age 64)&nbsp;serves as President and Chief Executive Officer of the Corporation and Chief Executive Officer of The State Bank since 1996. From 1983 to 1996, Mr.&nbsp;Grill was employed by First of America Bank Corporation and served as
+President and Chief Executive Officer of First of America Bank - Frankenmuth. </FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:4%; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2"><I>Ronald L. Justice</I> (age
+47)&nbsp;is the COO and President of The State Bank, Senior Vice President of the Corporation and Principal Financial Officer. Prior to holding these positions, he served as the CEO and President of West Michigan Community Bank, CEO and President of
+Davison State Bank, Secretary of the Corporation and CFO of the Corporation and its subsidiary Banks. Prior to that, Mr.&nbsp;Justice held other positions with The State Bank. </FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px; margin-left:4%; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2"><I>Dennis E. Leyder </I>(age 58)&nbsp;was appointed Senior Vice President of the Corporation on December&nbsp;1, 2004 and
+served as President and Chief Operating Officer of The State Bank from December 2006 to January 2009. In his current capacity as </FONT></P>
+ <p STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">10 </FONT></P>
+
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+
+ <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">
+Senior Vice President at The State Bank, he is responsible for all compliance, trust and investment management. Mr.&nbsp;Leyder has over 27 years of banking experience, all in Genesee County.
+</FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:4%; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2"><I>Holly J Pingatore </I>(age 54)&nbsp;is a Senior Vice President of the Corporation and a Senior Vice
+President of The State Bank. Prior to joining The State Bank in 1999, Ms.&nbsp;Pingatore served in various capacities at a large Michigan based regional bank. </FONT></P> <P STYLE="margin-top:24px;margin-bottom:0px" ALIGN="center"><FONT
+STYLE="font-family:Times New Roman" SIZE="2"><B><A NAME="toc295341_b"></A>PART II </B></FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="9%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><A NAME="toc295341_8"></A>ITEM&nbsp;5.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><U>MARKET FOR REGISTRANT&#146;S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES</U> </B></FONT></TD></TR></TABLE>
+<P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">The market, dividend, and holders of record information required by this item appears under the caption &#147;Fentura Financial, Inc.
+Common Stock&#148; and Table 15 on page 73 under the title &#147;MANAGEMENT&#146;S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS&#148;, of the Corporation&#146;s 2011 Rule 14a-3 annual report, and is incorporated herein by
+reference. Please refer to the caption &#147;Dividends&#148; under &#147;Item 1. Description of Business&#148; of this Form 10-K for a discussion of regulations which affect our ability to pay dividends. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">The following table summarizes the repurchase activity of the Corporation&#146;s common stock during the quarter ended December&nbsp;31,
+2011: </FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="92%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="54%"></TD>
+<TD VALIGN="bottom" WIDTH="10%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="10%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="10%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="10%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1">Total<BR>Number&nbsp;of<BR>Share<BR>Purchased</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1">Average<BR>Price&nbsp;Paid<BR>per Share</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1">Total&nbsp;Number&nbsp;of<BR>Purchased as<BR>Publicly&nbsp;Announced<BR>Plans or Programs</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1">Maximum&nbsp;Number&nbsp;of<BR>Shares that May Yet<BR>be Purchased Under<BR>the Program</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD></TR>
+
+
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="4"></TD>
+<TD HEIGHT="8" COLSPAN="4"></TD>
+<TD HEIGHT="8" COLSPAN="4"></TD>
+<TD HEIGHT="8" COLSPAN="4"></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">October&nbsp;1-October&nbsp;31</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">0</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">0.00</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">0</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">0</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">November&nbsp;1-November&nbsp;30</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">0</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">0.00</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">0</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">0</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">December&nbsp;1-December&nbsp;31</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">0</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">0.00</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">0</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">0</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Total</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">0</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">0.00</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">0</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">0</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD></TR>
+</TABLE> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">The Company does not currently have a repurchase program in place. </FONT></P>
+<P STYLE="font-size:18px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="9%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><A NAME="toc295341_9"></A>ITEM&nbsp;6.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><U>SELECTED FINANCIAL DATA</U> </B></FONT></TD></TR></TABLE> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">The information required by this item appears under the title &#147;MANAGEMENT&#146;S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS - SELECTED FINANCIAL DATA&#148;, appearing in
+Table 1 on page 50 of the Corporation&#146;s 2011 Rule 14a-3 annual report, and is incorporated herein by reference. </FONT></P> <P STYLE="font-size:18px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="9%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><A NAME="toc295341_10"></A>ITEM&nbsp;7.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><U>MANAGEMENT&#146;S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS</U> </B></FONT></TD></TR></TABLE>
+<P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">The information required by this item appears under the title &#147;MANAGEMENT&#146;S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+RESULTS OF OPERATIONS&#148;, appearing on pages 51 through 66 of the Corporation&#146;s 2011 Rule 14a-3 annual report, and is incorporated herein by reference. </FONT></P> <P STYLE="font-size:18px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="9%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><A NAME="toc295341_11"></A>ITEM&nbsp;7A.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><U>QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK</U> </B></FONT></TD></TR></TABLE> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">The information required by this item appears under the headings &#147;Liquidity and Interest Rate Risk Management&#148; on pages 66 through 67, &#147;Quantitative and Qualitative Disclosure About Market
+Risk&#148; on page 70 and &#147;Interest Rate Sensitivity Management&#148; on pages 71 through 72 under the title </FONT></P>
+ <p STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">11 </FONT></P>
+
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">
+&#147;MANAGEMENT&#146;S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS&#148;, appearing on pages 51 through 66 of the Corporation&#146;s 2011 Rule 14a-3 annual report,
+and is incorporated herein by reference. </FONT></P> <P STYLE="font-size:18px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="9%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><A NAME="toc295341_12"></A>ITEM&nbsp;8.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><U>FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA</U> </B></FONT></TD></TR></TABLE> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">The consolidated financial statements of the Company including the notes thereto and Reports of Rehmann Robson, P.C. and Crowe Horwath, LLP, Independent Registered Public Accounting Firms, appear on pages
+1 through 50 of the Financial Statements portion of the Corporation&#146;s 2011 Rule 14a-3 annual report, and are incorporated herein by reference. The supplementary data is not required for smaller reporting companies. </FONT></P>
+<P STYLE="font-size:18px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="9%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><A NAME="toc295341_13"></A>ITEM&nbsp;9.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><U>CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE</U> </B></FONT></TD></TR></TABLE>
+<P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">On February&nbsp;4, 2011, Fentura Financial, Inc. (&#147;Fentura&#148;) dismissed its independent registered public accounting firm, Crowe
+Horwath LLP (&#147;Crowe Horwath&#148;) to be effective upon Fentura filing its 2010 Form 10-K. Crowe Horwath&#146;s report on Fentura&#146;s consolidated financial statements as of and for the years ended December&nbsp;31, 2010 and 2009 contained
+no adverse opinion or a disclaimer of opinion, and were not qualified as to uncertainty, audit scope or accounting principles, except that Crowe Horwath&#146;s opinion on the 2009 consolidated financial statements included an explanatory paragraph
+describing substantial doubt about Fentura&#146;s ability to continue as a going concern. The decision to change accountants was approved by the Audit Committee of the Board of Directors. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">During each of the years in the two year period ended December&nbsp;31, 2010, and the subsequent interim period to the date hereof, there
+were (i)&nbsp;no disagreements between Fentura and Crowe Horwath on any matters of accounting principles or practices, financial statement disclosure, or auditing scope or procedure, which disagreements, if not resolved to the satisfaction of Crowe
+Horwath, would have caused Crowe Horwath to make reference to the subject matter of the disagreements in connection with its reports. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">On February&nbsp;4, 2011, Fentura notified Rehmann Robson, P.C. (&#147;Rehmann&#148;) of the registrant&#146;s intent to formally engage Rehmann as its new independent registered public accounting firm to
+be effective upon Fentura filing its 2010 Form 10-K. During the last two fiscal years and the subsequent interim period to the date hereof, Fentura did not consult with Rehmann regarding (1)&nbsp;the application of accounting principles to any
+transaction, either completed or proposed; (2)&nbsp;the type of audit opinion that might be rendered on Fentura&#146;s consolidated financial statements; or (3)&nbsp;any matter that was the subject of a disagreement (as defined in
+Item&nbsp;304(a)(1)(v) of Regulation S-K). </FONT></P> <P STYLE="font-size:18px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="9%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><A NAME="toc295341_14"></A>ITEM&nbsp;9A</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><U>CONTROLS AND PROCEDURES</U> </B></FONT></TD></TR></TABLE>
+<P STYLE="margin-top:6px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><U>Evaluation of Disclosure Controls and Procedures. </U></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">The Corporation&#146;s Chief Executive Officer and Principal Financial Officer, after evaluating the effectiveness of the Corporation&#146;s disclosure controls and procedures (as defined in Exchange Act
+Rules 13a-15(e)&nbsp;and 15(d)-15(e))&nbsp;as of the end of the period covered by this Form 10-K Annual Report, have concluded that the Corporation&#146;s disclosure controls and procedures were adequate and effective to ensure that material
+information relating to the Corporation would be made known to them by others within the Corporation, particularly during the period in which this Form 10-K Annual Report was being prepared. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT
+STYLE="font-family:Times New Roman" SIZE="2"><U>Internal Control over Financial Reporting. </U></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2"><U>Management&#146;s Annual
+Report on Internal Control over Financial Reporting.</U> </FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">The management of Fentura Financial Inc. is responsible for establishing and
+maintaining adequate internal control over financial reporting. Fentura Financial Inc.&#146;s internal control over financial reporting is </FONT></P>
+ <p STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">12 </FONT></P>
+
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">
+a process designed under the supervision of the Corporation&#146;s Chief Executive Officer and Principal Financial Officer to provide reasonable assurance regarding the reliability of financial
+reporting and the preparation of the Corporation&#146;s consolidated financial statements for external reporting purposes in accordance with United States generally accepted accounting principles. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Fentura Financial Inc.&#146;s management assessed the effectiveness of the Corporation&#146;s internal control over financial reporting as of
+December&nbsp;31, 2011 based on criteria set forth by the Committee of Sponsoring Organizations of the Treadway Commission (COSO) in &#147;Internal Control-Integrated Framework.&#148; Based on that assessment, management determined that, as of
+December&nbsp;31, 2011, the Corporation&#146;s internal control over financial reporting is effective, based on those criteria. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">There was no
+change in the Corporation&#146;s internal control over financial reporting that occurred during the Corporation&#146;s quarter ended December&nbsp;31, 2011, that materially affected, or is reasonably likely to affect, the Corporation&#146;s internal
+control over financial reporting. </FONT></P> <P STYLE="font-size:18px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="9%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><A NAME="toc295341_15"></A>ITEM&nbsp;9B</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><U>OTHER INFORMATION</U> </B></FONT></TD></TR></TABLE>
+<P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">None </FONT></P> <P STYLE="margin-top:24px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><A NAME="toc295341_c">
+</A>PART III </B></FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="9%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><A NAME="toc295341_16"></A>ITEM&nbsp;10.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><U>DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE</U> </B></FONT></TD></TR></TABLE> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">The Corporation&#146;s executive officers are identified under &#147;Additional Item&#148; in Part I of this Report on Form 10-K. The other information required by this item appears under the captions
+&#147;Proposal 1-2011 Election of Directors,&#148; &#147;The Corporation&#146;s Board of Directors,&#148; &#147;Code of Ethics,&#148; &#147;Committees of the Corporation Board,&#148; and &#147;Compliance with Section&nbsp;16 Reporting&#148; on pages
+3-10 and 19, respectively, of the Corporation&#146;s 2012 Notice of Annual Shareholders Meeting and Proxy Statement, and is incorporated herein by reference. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">The Board of Directors of the Corporation has determined that Ronald K. Rybar, a director and member of the Audit Committee, qualifies as an &#147;Audit Committee financial expert&#148; as defined in
+rules adopted by the Securities and Exchange Commission pursuant to the Sarbanes-Oxley Act of 2002 and is independent pursuant to NASDAQ listing standards. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">The Board of Directors of the Corporation has adopted a Code of Ethics, which details principles and responsibilities governing ethical conduct for all Corporation directors and executive officers. The
+Code of Ethics is filed as an Exhibit to this Annual Report on Form 10-K. </FONT></P> <P STYLE="font-size:18px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="9%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><A NAME="toc295341_17"></A>ITEM&nbsp;11.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><U>EXECUTIVE COMPENSATION</U> </B></FONT></TD></TR></TABLE> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">The information required by this item appears under the captions &#147;Director Compensation,&#148; &#147;Executive Compensation Discussion,&#148; &#147;Payments for Termination following a Change in
+Control&#148; and &#147;Compensation/ESOP Committee,&#148; on pages 9 and 11 through 17 of the Corporation&#146;s 2012 Notice of Annual Shareholders Meeting and Proxy Statement, and is incorporated herein by reference. </FONT></P>
+<P STYLE="font-size:18px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="9%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><A NAME="toc295341_18"></A>ITEM&nbsp;12.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><U>SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS</U> </B></FONT></TD></TR></TABLE>
+<P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">The information required by this item appears under the caption &#147;Stock Ownership of Directors, Executive Officers and Certain Major
+Shareholders&#148; on page 5 of the Corporation&#146;s 2012 Notice of Annual Shareholders Meeting and Proxy Statement, and is incorporated herein by reference. </FONT></P>
+ <p STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">13 </FONT></P>
+
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+
+ <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Securities Authorized for Issuance Under Equity Compensation Plans</B>.<B></B> The
+Corporation had the following equity compensation plans at December&nbsp;31, 2011: </FONT></P> <P STYLE="margin-top:24px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>EQUITY COMPENSATION PLAN INFORMATION
+</B></FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="84%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="48%"></TD>
+<TD VALIGN="bottom" WIDTH="12%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="12%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="12%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="1">Number&nbsp;of&nbsp;securities&nbsp;to</FONT><br><FONT STYLE="font-family:Times New Roman" SIZE="1">be&nbsp;
+issued&nbsp;upon&nbsp;exercise</FONT><br><FONT STYLE="font-family:Times New Roman" SIZE="1">of outstanding options</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="1">Weighted-average</FONT><br><FONT STYLE="font-family:Times New Roman" SIZE="1">exercise price of</FONT><br><FONT
+STYLE="font-family:Times New Roman" SIZE="1">outstanding&nbsp;options</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="1">Number&nbsp;of&nbsp;securities</FONT><br><FONT STYLE="font-family:Times New Roman" SIZE="1">remaining&nbsp;
+available&nbsp;for</FONT><br><FONT STYLE="font-family:Times New Roman" SIZE="1">future issuance under</FONT><br><FONT STYLE="font-family:Times New Roman" SIZE="1">equity compensation</FONT><br><FONT STYLE="font-family:Times New Roman" SIZE="1">plans
+(excluding</FONT><br><FONT STYLE="font-family:Times New Roman" SIZE="1">securities reflected</FONT><br><FONT STYLE="font-family:Times New Roman" SIZE="1">in column (1))</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD></TR>
+<TR>
+<TD VALIGN="bottom" NOWRAP> <P STYLE="border-bottom:1px solid #000000;width:45pt"><FONT STYLE="font-family:Times New Roman" SIZE="1">Plan Category</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="1">(1)</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="1">(2)</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="1">(3)</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD></TR>
+
+
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="4"></TD>
+<TD HEIGHT="8" COLSPAN="4"></TD>
+<TD HEIGHT="8" COLSPAN="4"></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Equity compensation plans approved by security holders</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">13,786</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">29.60</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">120,400</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD></TR>
+<TR STYLE="font-size:1px">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE="border-top:1px solid #000000">&nbsp;</P></TD>
+<TD VALIGN="bottom"> <P STYLE="border-top:1px solid #000000">&nbsp;</P></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE="border-top:1px solid #000000">&nbsp;</P></TD>
+<TD VALIGN="bottom"> <P STYLE="border-top:1px solid #000000">&nbsp;</P></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE="border-top:1px solid #000000">&nbsp;</P></TD>
+<TD VALIGN="bottom"> <P STYLE="border-top:1px solid #000000">&nbsp;</P></TD>
+<TD>&nbsp;</TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="4"></TD>
+<TD HEIGHT="8" COLSPAN="4"></TD>
+<TD HEIGHT="8" COLSPAN="4"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Equity compensation plans not approved by security holders</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">0</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">0</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">0</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD></TR>
+<TR STYLE="font-size:1px">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE="border-top:1px solid #000000">&nbsp;</P></TD>
+<TD VALIGN="bottom"> <P STYLE="border-top:1px solid #000000">&nbsp;</P></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE="border-top:1px solid #000000">&nbsp;</P></TD>
+<TD VALIGN="bottom"> <P STYLE="border-top:1px solid #000000">&nbsp;</P></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE="border-top:1px solid #000000">&nbsp;</P></TD>
+<TD VALIGN="bottom"> <P STYLE="border-top:1px solid #000000">&nbsp;</P></TD>
+<TD>&nbsp;</TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="4"></TD>
+<TD HEIGHT="8" COLSPAN="4"></TD>
+<TD HEIGHT="8" COLSPAN="4"></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Total</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">13,786</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">29.60</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2">120,400</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;</FONT></TD></TR>
+<TR STYLE="font-size:1px">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE="border-top:1px solid #000000">&nbsp;</P></TD>
+<TD VALIGN="bottom"> <P STYLE="border-top:1px solid #000000">&nbsp;</P></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE="border-top:1px solid #000000">&nbsp;</P></TD>
+<TD VALIGN="bottom"> <P STYLE="border-top:1px solid #000000">&nbsp;</P></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE="border-top:1px solid #000000">&nbsp;</P></TD>
+<TD VALIGN="bottom"> <P STYLE="border-top:1px solid #000000">&nbsp;</P></TD>
+<TD>&nbsp;</TD></TR>
+</TABLE> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">These equity compensation plans are more fully described in Note 12 to the Consolidated Financial
+Statements. </FONT></P> <P STYLE="font-size:18px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="9%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><A NAME="toc295341_19"></A>ITEM&nbsp;13.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><U>CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE</U> </B></FONT></TD></TR></TABLE>
+<P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">The information required by this item appears under the captions &#147;Independence of Directors and Attendance at Meetings&#148; and
+&#147;Other Information - Transactions with Certain Interested Parties&#148; on pages 7 and 20 respectively, of the Corporation&#146;s 2012 Notice of Annual Shareholders Meeting and Proxy Statement, and is incorporated herein by reference.
+</FONT></P> <P STYLE="font-size:18px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="9%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><A NAME="toc295341_20"></A>ITEM&nbsp;14.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><U>PRINCIPAL ACCOUNTANT FEES AND SERVICES</U> </B></FONT></TD></TR></TABLE> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">The information required by this item appears under the caption &#147;Relationship with Independent Public Accountants&#148; on page 18 of the Corporation&#146;s 2012 Notice of Annual Shareholders Meeting
+and Proxy Statement and is incorporated herein by reference. </FONT></P> <P STYLE="margin-top:24px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><A NAME="toc295341_d"></A>PART IV </B></FONT></P>
+<P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="9%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><A NAME="toc295341_21"></A>ITEM&nbsp;15.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><U>EXHIBITS AND FINANCIAL STATEMENT SCHEDULES</U> </B></FONT></TD></TR></TABLE> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="4%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="3%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="91%"></TD></TR>
+
+
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">(a)</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">1.</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">Financial Statements:</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">The following consolidated financial statements of the Corporation and Reports of Rehmann Robson, P.C. and Crowe Horwath LLP, Independent Registered Public Accounting Firms, are
+incorporated by reference under Item&nbsp;8 &#147;Financial Statements and Supplementary Data&#148; of this document:</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:2.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Consolidated Balance Sheets</FONT></P> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<P STYLE="margin-top:0px;margin-bottom:0px; margin-left:2.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Consolidated Statements of Operations</FONT></P> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<P STYLE="margin-top:0px;margin-bottom:0px; margin-left:2.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Consolidated Statements of Comprehensive Loss</FONT></P> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<P STYLE="margin-top:0px;margin-bottom:0px; margin-left:2.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Consolidated Statements of Changes in Stockholders&#146; Equity</FONT></P>
+<P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:2.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Consolidated Statements of Cash Flows</FONT></P>
+<P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:2.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Notes to the Consolidated Financial statements</FONT></P>
+<P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:2.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Report of Rehmann Robson, P.C., Independent Registered Public
+Accounting Firm</FONT></P> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P> <P STYLE="margin-top:0px;margin-bottom:1px; margin-left:2.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">Report of Crowe Horwath LLP,
+Independent Registered Public Accounting Firm</FONT></P></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">2.</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">Financial Statement Schedules</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">All schedules are omitted - see Item&nbsp;15(c)&nbsp;below.</FONT></TD></TR>
+</TABLE>
+ <p STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">14 </FONT></P>
+
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="4%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="3%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="91%"></TD></TR>
+
+
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">3.</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">Exhibits:</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">The exhibits listed on the &#147;Exhibit Index&#148; following the signature page of this report are filed herewith and are incorporated herein by reference.</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="4"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">(b)</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="3"><FONT STYLE="font-family:Times New Roman" SIZE="2">Exhibits:</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="4"></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="3"><FONT STYLE="font-family:Times New Roman" SIZE="2">The &#147;Exhibit Index&#148; follows the signature page of this report and is incorporated herein by reference.</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="4"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2">(c)</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="3"><FONT STYLE="font-family:Times New Roman" SIZE="2">Financial Statement Schedules:</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="4"></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="3"><FONT STYLE="font-family:Times New Roman" SIZE="2">All financial statement schedules normally required by Article 9 of Regulation S-X are omitted since they are either not applicable or the required information is
+shown in the consolidated financial statements or notes thereto.</FONT></TD></TR>
+</TABLE>
+ <p STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">15 </FONT></P>
+
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><A NAME="toc295341_22"></A>Signatures </B></FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Pursuant to the requirements of Section&nbsp;13 or 15(d)&nbsp;of the Securities Exchange Act of 1934, the Registrant caused this report
+to be signed on its behalf by the undersigned, thereunto duly authorized, dated March&nbsp;16, 2012. </FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P><DIV ALIGN="right">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE">
+
+
+<TR>
+<TD WIDTH="5%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="94%"></TD></TR>
+
+
+<TR>
+<TD VALIGN="top" COLSPAN="3"><FONT STYLE="font-family:Times New Roman" SIZE="2"><U>Fentura Financial, Inc.</U></FONT></TD></TR>
+<TR>
+<TD VALIGN="top" COLSPAN="3"><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Registrant)</FONT></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">By</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0px;margin-bottom:1px;border-bottom:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="2">/s/ Donald L. Grill</FONT></P></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Donald L. Grill</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">On behalf of the registrant</FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:1px"><FONT STYLE="font-family:Times New Roman" SIZE="2">and as President&nbsp;&amp;&nbsp;CEO</FONT></P></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">(Principal Executive Officer)</FONT></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">By</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0px;margin-bottom:1px;border-bottom:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="2">/s/ Ronald L. Justice</FONT></P></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Ronald L. Justice</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Principal Financial Officer</FONT></TD></TR>
+</TABLE></DIV> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the
+following persons on behalf of the registrant and in the capacities and on the dates indicated. Each director of the Registrant, whose signature appears below, hereby appoints Thomas P. McKenney and Donald L. Grill, and each of them severally, as
+his or her attorney-in-fact, to sign his or her name and on his or her behalf, as a director of the Registrant, and to file with the Commission any and all amendments to this report on Form 10-K. </FONT></P>
+<P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="34%"></TD>
+<TD VALIGN="bottom" WIDTH="4%"></TD>
+<TD WIDTH="30%"></TD>
+<TD VALIGN="bottom" WIDTH="3%"></TD>
+<TD WIDTH="29%"></TD></TR>
+<TR>
+<TD VALIGN="bottom" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B></B>Signature<B></B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B></B>Capacity<B></B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B></B>Date<B></B></FONT></TD></TR>
+
+
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-top:0px;margin-bottom:1px;border-bottom:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="2">/s/ Thomas P. McKenney</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top" ROWSPAN="2"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Chairman of the Board</FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">Director</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">March&nbsp;16, 2012</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Thomas P. McKenney</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-top:0px;margin-bottom:1px;border-bottom:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="2">/s/ Donald L. Grill</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Director</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">March 16, 2012</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Donald L. Grill</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-top:0px;margin-bottom:1px;border-bottom:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="2">/s/ Ronald K. Rybar</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Director</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">March 16, 2012</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Ronald K. Rybar</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-top:0px;margin-bottom:1px;border-bottom:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="2">/s/ Randy D. Hicks</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Director</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">March 16, 2012</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Randy D. Hicks</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-top:0px;margin-bottom:1px;border-bottom:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="2">/s/ Brian P. Petty</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Director</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">March 16, 2012</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Brian P. Petty</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-top:0px;margin-bottom:1px;border-bottom:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="2">/s/ JoAnne Shaw</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Director</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">March 16, 2012</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">JoAnne Shaw</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-top:0px;margin-bottom:1px;border-bottom:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="2">/s/ William H. Dery</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Director</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">March 16, 2012</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">William H. Dery</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-top:0px;margin-bottom:1px;border-bottom:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="2">/s/ Frederick P. Dillingham</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Director</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">March 16, 2012</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Frederick P. Dillingham</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"></TD></TR>
+</TABLE>
+ <p STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">16 </FONT></P>
+
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><A NAME="toc295341_23"></A>FENTURA FINANCIAL, INC. </B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>2011 Annual Report on Form 10-K </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT
+STYLE="font-family:Times New Roman" SIZE="2"><B>EXHIBIT INDEX </B></FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE" ALIGN="center">
+
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="5%"></TD>
+<TD WIDTH="93%"></TD></TR>
+<TR>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Exhibit</B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:1px;border-bottom:1px solid #000000;width:25pt" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>No.</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE="border-bottom:1px solid #000000;width:25pt" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Exhibit</B></FONT></P></TD></TR>
+
+
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;3(i)</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Articles of Incorporation of Fentura Financial, Inc. (Incorporated by reference from Form 10-K for the year ended December 31, 2010).</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;3(ii)</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Bylaws of Fentura Financial, Inc. (Incorporated by reference to Form 10-SB Registration Number 0-23550).</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;4.1</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Amended and Restated Automatic Dividend Reinvestment Plan (Incorporated by reference to Registration Statement on Form S-3 - Registration No. 333-75194).</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">10.1</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Supplemental Executive Retirement Agreement with Donald Grill dated March 16, 2007 (Incorporated by reference from Current Report filed on Form 8-K on March 22,
+2007).</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">10.2</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Supplemental Executive Retirement Agreement with Daniel Wollschlager dated October 24, 2008 (Incorporated by reference from Current Report filed on Form 8-K on October 29,
+2008).</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">10.3</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Non-Employee Director Stock Option Plan (Incorporated by reference to Form 10-K SB filed on March 17, 1996).</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">10.4</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Form of Non Employee Stock Option Plan Agreement (Incorporated by reference to Form 10-Q SB filed on May 2, 1996)</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">10.5</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Retainer Stock Option Plan for Directors (Incorporated by reference to Form 10-K SB filed on March 17, 1996).</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">10.6</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Employee Stock Option Plan (Incorporated by reference to Form 10-K SB filed on March 17, 1996).</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">10.7</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Form of Employee Stock Option Plan Agreement (Incorporated by reference to Form 10-K SB filed on March 17, 1996).</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">10.8</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Stock Purchase Plan between The State Bank and Donald E. Johnson, Jr., Mary Alice J. Heaton, and Linda J. LeMieux dated November 17, 1996 (Incorporated by reference to Exhibit 10.19
+to the Form 10-K SB filed March 20, 1997).</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">10.9</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Stock Purchase Plan (Incorporated by reference to Exhibit 99.1 Form S-8 filed on August 10, 2004).</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">10.10</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Severance Compensation Agreement between Donald L. Grill. (Incorporated by reference from Current Report on Form 8-K filed on July 24, 2008).</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">10.11</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Severance Compensation Agreement between Ronald L. Justice. (Incorporated by reference from Current Report on Form 8-K filed on July 24, 2008).</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">10.12</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Severance Compensation Agreement between Dennis E. Leyder. (Incorporated by reference from Current Report on Form 8-K filed on July 24, 2008).</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">10.13</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Severance Compensation Agreement between Douglas J. Kelley. (Incorporated by reference from Current Report on Form 8-K filed on July 24,
+2008).</FONT></TD></TR></TABLE>
+ <p STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">17 </FONT></P>
+
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE" ALIGN="center">
+
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="4%"></TD>
+<TD WIDTH="92%"></TD></TR>
+
+<TR>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Exhibit</B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:1px;border-bottom:1px solid #000000;width:25pt" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>No.</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE="border-bottom:1px solid #000000;width:25pt" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Exhibit</B></FONT></P></TD></TR>
+
+
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">10.14</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Severance Compensation Agreement between Holly J. Pingatore. (Incorporated by reference from Current Report on Form 8-K filed on July&nbsp;24, 2008).</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">10.15</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Nonqualified Deferred Compensation Plan. (Incorporated by reference from Exhibit 10.11 to the Current report on Form 8-K filed October&nbsp;29, 2008).</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">10.16</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Fentura Bancorp, Inc. Employee Deferred Compensation and Stock Ownership Plan. (Incorporated by reference to Exhibit 10.13 to the Form 10-K filed March 28, 2005).</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">10.17</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">2006 Executive Stock Bonus Plan (Filed as Exhibit 10.1 Form 8-K filed on December 4, 2006).</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">10.18</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Written agreement with the Federal Reserve Bank of Chicago date November 4, 2010, (Incorporated by reference from current report on Form 8-K filed on November 12,
+2010).</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">13</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Rule 14a-3 Annual Report to Security Holders (This report, except for those portions which are expressly incorporated by reference in this filing, is furnished for the information
+of the Securities and Exchange Commission and is not deemed filed as a part of this Report).</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">14</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Code of Ethics for Directors and Executive Officers (Filed herewith).</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">21.1</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Subsidiaries of the Registrant (Filed herewith).</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">23.1</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Consent of Rehmann Robson, P.C. Independent Registered Public Accounting Firm (Filed herewith).</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">23.2</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Consent of Crowe Horwath LLP, Independent Registered Public Accounting Firm (Filed herewith).</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">24</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Powers of Attorney. Contained on the signature page of this report.</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">31.1</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Certificate of President and Chief Executive Officer of Fentura Financial, Inc. pursuant to 15 U.S.C. Section 7241, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of
+2002.</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">31.2</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Certificate of Chief Financial Officer of Fentura Financial, Inc. pursuant to 15 U.S.C. Section 7241, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of
+2002.</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">32.1</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Certificate of Chief Executive Office and Chief Financial Officer of Fentura Financial, Inc. pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the
+Sarbanes-Oxley Act of 2002.</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">99.1</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Stipulation and Consent-The State Bank (Incorporated by reference from Exhibit 99.2 of Current Report on Form 8-K filed on February 1, 2010).</FONT></TD></TR>
+</TABLE>
+ <p STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">18 </FONT></P>
+
+
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>

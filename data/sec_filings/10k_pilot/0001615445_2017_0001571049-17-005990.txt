@@ -1,0 +1,819 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>t1701805x3_10k.htm
+<DESCRIPTION>FORM 10-K
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="margin: 0"></P>
+
+<!-- Field: Rule-Page --><DIV ALIGN="LEFT" STYLE="margin-top: 12pt; margin-bottom: 3pt"><DIV STYLE="font-size: 1pt; border-top: Black 2pt solid; border-bottom: Black 1pt solid; width: 100%">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="margin: 0"></P>
+
+<P STYLE="font: 18pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>UNITED STATES</B></P>
+
+<P STYLE="font: 18pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>SECURITIES AND EXCHANGE COMMISSION</B></P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>Washington, D.C. 20549</B></P>
+
+<P STYLE="font: 6pt Times New Roman, Times, Serif; margin: 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 6pt Times New Roman, Times, Serif; margin: 0; text-indent: 0.5in"></P>
+
+<!-- Field: Rule-Page --><DIV ALIGN="CENTER" STYLE="margin-top: 3pt; margin-bottom: 3pt"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid; width: 20%">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 6pt Times New Roman, Times, Serif; margin: 0; text-indent: 0.5in"></P>
+
+<P STYLE="font: 6pt Times New Roman, Times, Serif; margin: 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 18pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>FORM 10-K</B></P>
+
+<P STYLE="font: 6pt Times New Roman, Times, Serif; margin: 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 6pt Times New Roman, Times, Serif; margin: 0; text-indent: 0.5in"></P>
+
+<!-- Field: Rule-Page --><DIV ALIGN="CENTER" STYLE="margin-top: 3pt; margin-bottom: 3pt"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid; width: 20%">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 6pt Times New Roman, Times, Serif; margin: 0; text-indent: 0.5in"></P>
+
+<P STYLE="font: 6pt Times New Roman, Times, Serif; margin: 0; text-indent: 0.5in">&nbsp;&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>ANNUAL REPORT</B></P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>PURSUANT TO SECTION 13 OR 15(d)</B></P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>OF THE SECURITIES EXCHANGE ACT OF 1934</B></P>
+
+<P STYLE="font: 6pt Times New Roman, Times, Serif; margin: 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">(Mark One)</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in"><FONT STYLE="font-family: Wingdings">x</FONT></TD><TD>ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934</TD></TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-indent: -0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-align: center; text-indent: -0.5in">For the fiscal
+year ended March 31, 2017</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-align: center; text-indent: -0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-align: center; text-indent: -0.5in">OR</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-align: center; text-indent: -0.5in">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in"><FONT STYLE="font-family: Wingdings">&uml;</FONT></TD><TD>TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934</TD></TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-indent: -0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-align: center; text-indent: -0.5in">For the transition
+period from <U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U> to <U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U></P>
+
+<P STYLE="font: 6pt Times New Roman, Times, Serif; margin: 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 6pt Times New Roman, Times, Serif; margin: 0; text-indent: 0.5in"></P>
+
+<!-- Field: Rule-Page --><DIV ALIGN="CENTER" STYLE="margin-top: 3pt; margin-bottom: 3pt"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid; width: 20%">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0"></P>
+
+
+
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>&nbsp;</B></P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>333-183223-08</B><BR>
+<FONT STYLE="font-size: 8pt"><B>(Commission File Number of issuing entity)</B></FONT></P>
+
+<P STYLE="font: 16.5pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>Honda Auto Receivables 2014-3 Owner Trust</B></P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-size: 8pt"><B>(Exact name
+of issuing entity specified in its charter) </B></FONT><BR>
+<B>Central Index Key Number of issuing entity: 0001615445</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>&nbsp;</B></P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>333-183223</B><BR>
+<FONT STYLE="font-size: 8pt"><B>(Commission File Number of depositor)</B></FONT></P>
+
+<P STYLE="font: 16.5pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>American Honda Receivables LLC</B></P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-size: 8pt"><B>(Exact name
+of depositor as specified in its charter)</B></FONT><BR>
+<B>Central Index Key Number of depositor: 0000890975</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>&nbsp;</B></P>
+
+<P STYLE="font: 16.5pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>American Honda Finance Corporation</B></P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-size: 8pt"><B>(Exact name
+of sponsor as specified in its charter)</B></FONT><BR>
+<B>Central Index Key Number of sponsor: 0000864270</B></P>
+
+<P STYLE="font: 7.5pt Times New Roman, Times, Serif; margin: 0; text-indent: 0.5in">&nbsp;&nbsp;</P>
+
+<table cellspacing="0" cellpadding="0" style="width: 100%; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 50%; font-size: 12pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>Delaware</B></FONT></TD>
+    <TD STYLE="width: 50%; font-size: 12pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>47-6367170</B></FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="font-size: 12pt; text-align: center"><FONT STYLE="font-size: 8pt"><B>(State or other jurisdiction of organization</B></FONT><BR>
+<FONT STYLE="font-size: 8pt"><B>of the issuing entity)</B></FONT></TD>
+    <TD STYLE="font-size: 12pt; text-align: center"><FONT STYLE="font-size: 8pt"><B>(I.R.S. Employer Identification No.)</B></FONT></TD></TR>
+</TABLE>
+<P STYLE="font: 7.5pt Times New Roman, Times, Serif; margin: 0; text-indent: 0.5in">&nbsp;</P>
+
+<table cellspacing="0" cellpadding="0" style="width: 100%; border-collapse: collapse">
+<TR>
+    <TD STYLE="vertical-align: top; width: 50%">
+        <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>c/o American Honda Receivables LLC</B></P>
+        <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>20800 Madrona Avenue</B></P>
+        <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>Torrance, CA</B></P></TD>
+    <TD STYLE="vertical-align: bottom; width: 50%; font-size: 12pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>90503</B></FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="font-size: 12pt; text-align: center"><FONT STYLE="font-size: 8pt"><B>(Address of principal executive offices of the issuing entity)</B></FONT></TD>
+    <TD STYLE="font-size: 12pt; text-align: center"><FONT STYLE="font-size: 8pt"><B>(Zip Code)</B></FONT></TD></TR>
+</TABLE>
+<P STYLE="font: 7.5pt Times New Roman, Times, Serif; margin: 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>(310) 972-2511</B></P>
+
+<P STYLE="font: 8pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>(Telephone number, including area code)</B></P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0"></P>
+
+<!-- Field: Rule-Page --><DIV ALIGN="CENTER" STYLE="margin-top: 3pt; margin-bottom: 3pt"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid; width: 20%">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">Securities registered pursuant to Section 12(b)
+of the Act: None</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">Securities registered pursuant to Section 12(g)
+of the Act: None</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">Indicate by check mark if the registrant is a well-known seasoned
+issuer, as defined in Rule 405 of the Securities Act. Yes <FONT STYLE="font-family: Wingdings">&uml;</FONT> No <FONT STYLE="font-family: Wingdings">x</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">Indicate by check mark if the registrant is not required to file
+reports pursuant to Section 13 or Section 15(d) of the Act. Yes <FONT STYLE="font-family: Wingdings">&uml;</FONT> No <FONT STYLE="font-family: Wingdings">x</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">Indicate by check mark whether the registrant (1) has filed all
+reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for
+such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements
+for the past 90 days. Yes <FONT STYLE="font-family: Wingdings">x</FONT> No <FONT STYLE="font-family: Wingdings">&uml;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">Indicate by check mark whether the registrant has submitted electronically
+and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule
+405 of Regulation S-T during the preceding 12 months (or for such shorter period that the registrant was required to submit and
+post such files). Yes <FONT STYLE="font-family: Wingdings">&uml;</FONT> No <FONT STYLE="font-family: Wingdings">&uml;</FONT></P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">Indicate by check mark if disclosure of delinquent filers pursuant
+to Item 405 of Regulation S-K is not contained herein, and will not be contained, to the best of registrant&rsquo;s knowledge,
+in definitive proxy or information statements incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K. <FONT STYLE="font-family: Wingdings">x</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">Indicate by check mark whether the registrant is a large accelerated
+filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging growth company. See the definitions
+of &ldquo;large accelerated filer,&rdquo; &ldquo;accelerated filer,&rdquo; &ldquo;smaller reporting company,&rdquo; and &ldquo;emerging
+growth company&rdquo; in Rule 12b-2 of the Exchange Act. (Check one):</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 0.5in"></P>
+
+<table cellspacing="0" cellpadding="0" style="width: 92%; border-collapse: collapse; font-size: 12pt; margin-left: 0.5in">
+<TR STYLE="vertical-align: top; font-size: 10pt">
+    <TD STYLE="width: 50%; font-size: 10pt"><FONT STYLE="font-size: 10pt">Large Accelerated Filer <FONT STYLE="font-family: Wingdings">&uml;</FONT></FONT></TD>
+    <TD STYLE="width: 50%; font-size: 10pt"><FONT STYLE="font-size: 10pt">Accelerated Filer <FONT STYLE="font-family: Wingdings">&uml;</FONT></FONT></TD></TR>
+<TR STYLE="vertical-align: top; font-size: 10pt">
+    <TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top; font-size: 10pt">
+    <TD STYLE="font-size: 10pt"><FONT STYLE="font-size: 10pt">Non-Accelerated Filer <FONT STYLE="font-family: Wingdings">x</FONT></FONT></TD>
+    <TD STYLE="font-size: 10pt"><FONT STYLE="font-size: 10pt">Smaller Reporting Company <FONT STYLE="font-family: Wingdings">&uml;</FONT></FONT></TD></TR>
+<TR STYLE="vertical-align: top; font-size: 10pt">
+    <TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top; font-size: 10pt">
+    <TD STYLE="font-size: 10pt"><FONT STYLE="font-size: 10pt">Emerging Growth Company <FONT STYLE="font-family: Wingdings">&uml;</FONT></FONT></TD>
+    <TD STYLE="font-size: 10pt">&nbsp;</TD></TR>
+</TABLE>
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 0.5in"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 0.5in">&nbsp;&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">If an emerging growth company, indicate by check mark if the registrant
+has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided
+pursuant to Section 13(a) of the Exchange Act. <FONT STYLE="font-family: Wingdings">&uml;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">Indicate by check mark whether the registrant is a shell company
+(as defined in Rule 12b-2 of the Exchange Act). Yes <FONT STYLE="font-family: Wingdings">&uml;</FONT> No <FONT STYLE="font-family: Wingdings">x</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">Registrant has no voting or non-voting class of common equity outstanding
+and held by nonaffiliates as of the date of this report, or as of the last business day of the registrant&rsquo;s most recently
+completed second fiscal quarter.</P>
+
+
+
+<P STYLE="margin: 0"></P>
+
+<!-- Field: Rule-Page --><DIV ALIGN="LEFT" STYLE="margin-top: 12pt; margin-bottom: 3pt"><DIV STYLE="font-size: 1pt; border-top: Black 2pt solid; border-bottom: Black 1pt solid; width: 100%">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="margin: 0"></P>
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="margin: 0"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>PART I</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>The following items have been omitted in accordance with General
+Instruction J to Form 10-K:</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.75in; text-indent: -0.5in"><B>&nbsp;</B></P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.5in"><B>(a)</B></TD><TD><B>Item 1, Business</B></TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.5in"><B>(b)</B></TD><TD><B>Item 1A, Risk Factors</B></TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.5in"><B>(c)</B></TD><TD><B>Item 2, Properties</B></TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.5in"><B>(d)</B></TD><TD><B>Item 3, Legal Proceedings</B></TD></TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>&nbsp;</B></P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0%"></TD><TD STYLE="width: 1in; text-align: left"><B>Item 1B.</B></TD><TD STYLE="text-align: justify"><B>Unresolved Staff Comments.</B></TD>
+</TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">Not applicable</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>&nbsp;</B></P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0%"></TD><TD STYLE="width: 1in; text-align: left"><B>Item 4.</B></TD><TD STYLE="text-align: justify"><B>Mine Safety Disclosures.</B></TD>
+</TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">Not applicable</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>Substitute information provided in accordance with General Instruction
+J to Form 10-K:</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>Item 1112(b) of Regulation AB.&nbsp;&nbsp;&nbsp;Significant Obligors of Pool Assets
+(<I>Financial Information</I>).</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">No single obligor represents more than 10% of the pool assets held
+by Honda Auto Receivables 2014-3 Owner Trust (the &ldquo;Trust&rdquo;).</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><B>Item 1114(b)(2) of Regulation AB.&nbsp;&nbsp;&nbsp;Credit
+Enhancement and Other Support, Except for Certain Derivatives Instruments (<I>Information Regarding Significant Enhancement Providers</I>).</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">No entity or group of affiliated entities provides any external
+credit enhancement or other support with respect to either payment on the pool assets held by the Trust or payments on the notes
+(the &ldquo;Notes&rdquo;) or certificates (the &ldquo;Certificates&rdquo;) issued by the Trust.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>Item 1115(b) of Regulation AB.&nbsp;&nbsp;&nbsp;Certain Derivatives Instruments
+(<I>Financial Information</I>).</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">No entity or group of affiliated entities provides any derivative
+instruments that are used to alter the payment characteristics of the cashflows from the Trust.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>Item 1117 of Regulation AB.&nbsp;&nbsp;&nbsp;Legal Proceedings.</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">No legal proceedings are pending, and no proceedings are known to
+be contemplated by governmental authorities, against any of the following companies: American Honda Finance Corporation (the &ldquo;Sponsor&rdquo;),
+American Honda Receivables LLC (the &ldquo;Depositor&rdquo;), Deutsche Bank Trust Company Delaware (the &ldquo;Owner Trustee&rdquo;)
+or the Trust, or of which any property of the foregoing is the subject, that are or would be material to holders of the Notes or
+the Certificates.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">The Bank of New York Mellon (the &ldquo;Indenture Trustee&rdquo;)
+has provided the additional information contained in the following paragraph for purposes of compliance with Regulation AB.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&ldquo;In the ordinary course of business, The Bank of New York
+Mellon is named as a defendant in or made a party to pending and potential legal actions. In connection with its role as trustee
+of certain residential mortgage-backed securitization (&ldquo;RMBS&rdquo;) transactions, The Bank of New York Mellon has been named
+as a defendant in a number of legal actions brought by RMBS investors. These lawsuits allege that the trustee had expansive duties
+under the governing agreements, including the duty to investigate and pursue breach of representation and warranty claims against
+other parties to the RMBS transactions. While it is inherently difficult to predict the eventual outcomes of pending actions, The
+Bank of New York Mellon denies liability and intends to defend the litigations vigorously.&rdquo;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;<B>&nbsp;</B></P>
+
+
+<!-- Field: Page; Sequence: 2; Options: NewSection; Value: 2 -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%; font-size: 10pt"><TR STYLE="vertical-align: top; text-align: left"><TD STYLE="width: 33%">&nbsp;</TD><TD STYLE="width: 34%; text-align: center">- <!-- Field: Sequence; Type: Arabic; Name: PageNo -->2<!-- Field: /Sequence --> -</TD><TD STYLE="width: 33%; text-align: right">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>PART II</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>The following items have been omitted in accordance with General
+Instruction J to Form 10-K:</B></P>
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>&nbsp;</B></P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.5in"><B>(a)</B></TD><TD><B>Item 5, Market for Registrant&rsquo;s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities</B></TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.5in"><B>(b)</B></TD><TD><B>Item 6, Selected Financial Data</B></TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.5in"><B>(c)</B></TD><TD><B>Item 7, Management&rsquo;s Discussion and Analysis of Financial Condition and Results of Operations</B></TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.5in"><B>(d)</B></TD><TD><B>Item 7A, Quantitative and Qualitative Disclosures About Market Risk</B></TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.5in"><B>(e)</B></TD><TD><B>Item 8, Financial Statements and Supplementary Data</B></TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.5in"><B>(f)</B></TD><TD><B>Item 9, Changes in and Disagreements With Accountants on Accounting and Financial Disclosure</B></TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.5in"><B>(g)</B></TD><TD><B>Item 9A, Controls and Procedures</B></TD></TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>&nbsp;</B></P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 1in; text-align: left; text-indent: 0in"><B>Item 9B.</B></TD><TD STYLE="text-align: justify"><B>Other Information.</B></TD>
+</TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">Not applicable.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>PART III</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>The following items have been omitted in accordance with General
+Instruction J to Form 10-K:</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.75in; text-indent: -0.5in"><B>&nbsp;</B></P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.5in"><B>(a)</B></TD><TD><B>Item 10, Directors, Executive Officers and Corporate Governance</B></TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.5in"><B>(b)</B></TD><TD><B>Item 11, Executive Compensation</B></TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.5in"><B>(c)</B></TD><TD><B>Item 12, Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters</B></TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.5in"><B>(d)</B></TD><TD><B>Item 13, Certain Relationships and Related Transactions, and Director Independence</B></TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.5in"><B>(e)</B></TD><TD><B>Item 14, Principal Accountant Fees and Services</B></TD></TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>Substitute information provided in accordance with General Instruction
+J to Form 10-K:</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>Item 1119 of Regulation AB.&nbsp;&nbsp;&nbsp;Affiliations and Certain Relationships
+and Related Transactions.</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">The information required by Item 1119 of Regulation AB has been
+omitted from this report on Form 10-K in reliance on the Instruction to Item 1119.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>Item 1122 of Regulation AB.&nbsp;&nbsp;&nbsp;Compliance with Applicable Servicing
+Criteria.</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">The Sponsor (in its role as servicer) and the Indenture Trustee
+(together, the &ldquo;Servicing Parties&rdquo;) have each been identified by the registrant as a party participating in the servicing
+function with respect to the asset pool held by the Trust. Each of the Servicing Parties has completed a report on an assessment
+of compliance with the servicing criteria applicable to it (each, a &ldquo;Servicing Report&rdquo;), which Servicing Reports are
+attached as exhibits to this Form 10-K. In addition, each of the Servicing Parties has provided an attestation report (each, an
+&ldquo;Attestation Report&rdquo;) by one or more registered public accounting firms, which Attestation Reports are also attached
+as exhibits to this Form 10-K. Neither of the Servicing Reports prepared by the Sponsor or the Indenture Trustee, or the Attestation
+Reports provided by the Sponsor or the Indenture Trustee, has identified any material instance of noncompliance with the servicing
+criteria applicable to the respective Servicing Party.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>Item 1123 of Regulation AB.&nbsp;&nbsp;&nbsp;Servicer Compliance Statement.</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">The Sponsor (in its role as servicer) has been identified by the
+registrant as a servicer with respect to the asset pool held by the Trust. The Sponsor has completed a statement of compliance
+with applicable servicing criteria (a &ldquo;Compliance Statement&rdquo;), signed by an authorized officer of the Sponsor. The
+Compliance Statement is attached as an exhibit to this Form 10-K.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+
+<!-- Field: Page; Sequence: 3; Value: 2 -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%; font-size: 10pt"><TR STYLE="vertical-align: top; text-align: left"><TD STYLE="width: 33%">&nbsp;</TD><TD STYLE="width: 34%; text-align: center">- <!-- Field: Sequence; Type: Arabic; Name: PageNo -->3<!-- Field: /Sequence --> -</TD><TD STYLE="width: 33%; text-align: right">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>PART IV</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>&nbsp;</B></P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 1in; text-align: left"><B>Item 15.</B></TD><TD STYLE="text-align: justify"><B>Exhibits and Financial Statement Schedules.</B></TD>
+</TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">(a)(1)</TD><TD>Not applicable.</TD></TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-indent: -0.5in">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">(a)(2)</TD><TD>Not applicable.</TD></TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-indent: -0.5in">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">(a)(3)</TD><TD>The exhibits filed in response to Item 601 of Regulation S-K are listed in Item 15(b) below.</TD></TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-indent: -0.5in">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">(b)</TD><TD>Exhibits required by Item 601 of Regulation S-K.</TD></TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">The exhibits listed below are either included or incorporated by
+reference as indicated:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">Exhibit 3.1 &ndash; Certificate of Formation of the Depositor, filed
+with the secretary of state of Delaware on March 16, 2011, incorporated by reference to Amendment No. 1 to Registration Statement
+on Form S-3 (Reg. No. 333-173202), filed with the SEC by the Depositor on April 25, 2011.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">Exhibit 3.2 &ndash; Limited Liability Company Agreement of the Depositor,
+in effect since March 28, 2011, incorporated by reference to Amendment No. 1 to Registration Statement on Form S-3 (Reg. No. 333-173202),
+filed with the SEC by the Depositor on April 25, 2011.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">Exhibit 4.1 &ndash; Indenture, dated August 20, 2014, between Honda
+Auto Receivables 2014-3 Owner Trust and The Bank of New York Mellon, as indenture trustee, incorporated by reference to Exhibit
+4.1 on Form 8-K dated August 20, 2014, and filed by the registrant on August 20, 2014.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">Exhibit 4.2 &ndash; Amended and Restated Trust Agreement, dated
+August 20, 2014, between American Honda Receivables LLC and Deutsche Bank Trust Company Delaware, as owner trustee, incorporated
+by reference to Exhibit 4.2 on Form 8-K dated August 20, 2014, and filed by the registrant on August 20, 2014.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">Exhibit 31.1 &ndash; Certification of senior officer in charge of
+the servicing function of the servicer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">Exhibit 33.1 &ndash; Report on Assessment of Compliance with Servicing
+Criteria for Asset-Backed Securities of American Honda Finance Corporation.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">Exhibit 33.2 &ndash; Report on Assessment of Compliance with Servicing
+Criteria for Asset-Backed Securities of The Bank of New York Mellon.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">Exhibit 34.1 &ndash; Attestation Report on Compliance with Servicing
+Criteria for Asset-Backed Securities of KPMG LLP, on behalf of American Honda Finance Corporation.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">Exhibit 34.2 &ndash; Attestation Report on Assessment of Compliance
+with Servicing Criteria for Asset-Backed Securities of KPMG LLP, on behalf of The Bank of New York Mellon.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">Exhibit 35.1 &ndash; Servicing Compliance Statement of American
+Honda Finance Corporation.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">Exhibit 99.1 &ndash; Sale and Servicing Agreement, dated August
+20, 2014, among Honda Auto Receivables 2014-3 Owner Trust, American Honda Receivables LLC and American Honda Finance Corporation,
+incorporated by reference to Exhibit 99.1 on Form 8-K dated August 20, 2014, and filed by the registrant on August 20, 2014.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">Exhibit 99.2 &ndash; Receivables Purchase Agreement, dated August
+20, 2014, between American Honda Finance Corporation and American Honda Receivables LLC, incorporated by reference to Exhibit 99.2
+on Form 8-K dated August 20, 2014, and filed by the registrant on August 20, 2014.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">Exhibit 99.3 &ndash; Administration Agreement, dated August 20,
+2014, among Honda Auto Receivables 2014-3 Owner Trust, American Honda Finance Corporation, American Honda Receivables LLC and The
+Bank of New York Mellon, as indenture trustee, incorporated by reference to Exhibit 99.3 on Form 8-K dated August 20, 2014, and
+filed by the registrant on August 20, 2014.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+
+<!-- Field: Page; Sequence: 4; Value: 2 -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%; font-size: 10pt"><TR STYLE="vertical-align: top; text-align: left"><TD STYLE="width: 33%">&nbsp;</TD><TD STYLE="width: 34%; text-align: center">- <!-- Field: Sequence; Type: Arabic; Name: PageNo -->4<!-- Field: /Sequence --> -</TD><TD STYLE="width: 33%; text-align: right">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">Exhibit 99.4 &ndash; Control Agreement, dated August 20, 2014, among
+American Honda Receivables LLC, Honda Auto Receivables 2014-3 Owner Trust, American Honda Finance Corporation, and The Bank of
+New York Mellon, as indenture trustee, as assignee-secured party, and as securities intermediary, incorporated by reference to
+Exhibit 99.4 on Form 8-K dated August 20, 2014, and filed by the registrant on August 20, 2014.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">(c)</TD><TD>Not applicable.</TD></TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+
+<!-- Field: Page; Sequence: 5; Value: 2 -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%; font-size: 10pt"><TR STYLE="vertical-align: top; text-align: left"><TD STYLE="width: 33%">&nbsp;</TD><TD STYLE="width: 34%; text-align: center">- <!-- Field: Sequence; Type: Arabic; Name: PageNo -->5<!-- Field: /Sequence --> -</TD><TD STYLE="width: 33%; text-align: right">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>SIGNATURES</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 24.5pt">Pursuant to the requirements of Section 13
+or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned
+hereunto duly authorized.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"></P>
+
+<table cellspacing="0" cellpadding="0" style="width: 100%; border-collapse: collapse; font-size: 10pt">
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="2"><FONT STYLE="font-size: 10pt"><B>Honda Auto Receivables 2014-3 Owner Trust</B></FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="2">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="2"><FONT STYLE="font-size: 10pt"><B>By: American Honda Finance Corporation, as Servicer</B></FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="2">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 50%">&nbsp;</TD>
+    <TD STYLE="width: 4%"><FONT STYLE="font-size: 10pt">By:</FONT></TD>
+    <TD STYLE="width: 46%; border-bottom: Black 1pt solid; text-decoration: none"><FONT STYLE="font-size: 10pt">/s/ Paul C. Honda</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="2">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="padding-left: 0.125in"><FONT STYLE="font-size: 10pt">Paul C. Honda</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="2">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD><FONT STYLE="font-size: 10pt">Date: June 16, 2017</FONT></TD>
+    <TD COLSPAN="2" STYLE="padding-left: 0.125in"><FONT STYLE="font-size: 10pt">Vice President and Assistant Secretary (senior officer in charge of the servicing function)</FONT></TD></TR>
+</TABLE>
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+
+<!-- Field: Page; Sequence: 6; Value: 2 -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%; font-size: 10pt"><TR STYLE="vertical-align: top; text-align: left"><TD STYLE="width: 33%">&nbsp;</TD><TD STYLE="width: 34%; text-align: center">- <!-- Field: Sequence; Type: Arabic; Name: PageNo -->6<!-- Field: /Sequence --> -</TD><TD STYLE="width: 33%; text-align: right">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>SUPPLEMENTAL INFORMATION TO BE FURNISHED
+WITH REPORTS FILED PURSUANT TO SECTION 15(d) OF THE ACT BY REGISTRANTS WHICH HAVE NOT REGISTERED SECURITIES PURSUANT TO SECTION
+12 OF THE ACT.</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-right: 0; margin-bottom: 0; text-align: left">No annual report to security holders, proxy
+statement, form of proxy or other proxy soliciting material has been sent to security holders or is anticipated to be furnished
+to security holders subsequent to the filing of this annual report on Form 10-K.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+
+<!-- Field: Page; Sequence: 7; Value: 2 -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%; font-size: 10pt"><TR STYLE="vertical-align: top; text-align: left"><TD STYLE="width: 33%">&nbsp;</TD><TD STYLE="width: 34%; text-align: center">- <!-- Field: Sequence; Type: Arabic; Name: PageNo -->7<!-- Field: /Sequence --> -</TD><TD STYLE="width: 33%; text-align: right">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>EXHIBIT INDEX</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>&nbsp;</B></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 15%; text-decoration: underline"><FONT STYLE="font-size: 10pt"><B><U>Exhibit</U></B></FONT></TD>
+    <TD STYLE="width: 85%; text-decoration: underline"><FONT STYLE="font-size: 10pt"><B><U>Description</U></B></FONT></TD></TR>
+</TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">Exhibit 3.1 &ndash; Certificate of Formation of the Depositor, filed
+with the secretary of state of Delaware on March 16, 2011, incorporated by reference to Amendment No. 1 to Registration Statement
+on Form S-3 (Reg. No. 333-173202), filed with the SEC by the Depositor on April 25, 2011.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">Exhibit 3.2 &ndash; Limited Liability Company Agreement of the Depositor,
+in effect since March 28, 2011, incorporated by reference to Amendment No. 1 to Registration Statement on Form S-3 (Reg. No. 333-173202),
+filed with the SEC by the Depositor on April 25, 2011.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">Exhibit 4.1 &ndash; Indenture, dated August 20, 2014, between Honda
+Auto Receivables 2014-3 Owner Trust and The Bank of New York Mellon, as indenture trustee, incorporated by reference to Exhibit
+4.1 on Form 8-K dated August 20, 2014, and filed by the registrant on August 20, 2014.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">Exhibit 4.2 &ndash; Amended and Restated Trust Agreement, dated
+August 20, 2014, between American Honda Receivables LLC and Deutsche Bank Trust Company Delaware, as owner trustee, incorporated
+by reference to Exhibit 4.2 on Form 8-K dated August 20, 2014, and filed by the registrant on August 20, 2014.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">Exhibit 31.1 &ndash; Certification of senior officer in charge of
+the servicing function of the servicer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">Exhibit 33.1 &ndash; Report on Assessment of Compliance with Servicing
+Criteria for Asset-Backed Securities of American Honda Finance Corporation.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">Exhibit 33.2 &ndash; Report on Assessment of Compliance with Servicing
+Criteria for Asset-Backed Securities of The Bank of New York Mellon.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">Exhibit 34.1 &ndash; Attestation Report on Compliance with Servicing
+Criteria for Asset-Backed Securities of KPMG LLP, on behalf of American Honda Finance Corporation.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">Exhibit 34.2 &ndash; Attestation Report on Assessment of Compliance
+with Servicing Criteria for Asset-Backed Securities of KPMG LLP, on behalf of The Bank of New York Mellon.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">Exhibit 35.1 &ndash; Servicing Compliance Statement of American
+Honda Finance Corporation.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">Exhibit 99.1 &ndash; Sale and Servicing Agreement, dated August
+20, 2014, among Honda Auto Receivables 2014-3 Owner Trust, American Honda Receivables LLC and American Honda Finance Corporation,
+incorporated by reference to Exhibit 99.1 on Form 8-K dated August 20, 2014, and filed by the registrant on August 20, 2014.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">Exhibit 99.2 &ndash; Receivables Purchase Agreement, dated August
+20, 2014, between American Honda Finance Corporation and American Honda Receivables LLC, incorporated by reference to Exhibit 99.2
+on Form 8-K dated August 20, 2014, and filed by the registrant on August 20, 2014.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">Exhibit 99.3 &ndash; Administration Agreement, dated August 20,
+2014, among Honda Auto Receivables 2014-3 Owner Trust, American Honda Finance Corporation, American Honda Receivables LLC and The
+Bank of New York Mellon, as indenture trustee, incorporated by reference to Exhibit 99.3 on Form 8-K dated August 20, 2014, and
+filed by the registrant on August 20, 2014.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">Exhibit 99.4 &ndash; Control Agreement, dated August 20, 2014, among
+American Honda Receivables LLC, Honda Auto Receivables 2014-3 Owner Trust, American Honda Finance Corporation, and The Bank of
+New York Mellon, as indenture trustee, as assignee-secured party, and as securities intermediary, incorporated by reference to
+Exhibit 99.4 on Form 8-K dated August 20, 2014, and filed by the registrant on August 20, 2014.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"></P>
+
+<!-- Field: Page; Sequence: 8; Options: Last -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%; font-size: 10pt"><TR STYLE="vertical-align: top; text-align: left"><TD STYLE="width: 33%">&nbsp;</TD><TD STYLE="width: 34%; text-align: center">- <!-- Field: Sequence; Type: Arabic; Name: PageNo -->8<!-- Field: /Sequence --> -</TD><TD STYLE="width: 33%; text-align: right">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"></P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>

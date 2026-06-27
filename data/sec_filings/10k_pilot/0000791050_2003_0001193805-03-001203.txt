@@ -1,0 +1,3209 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>w300842_10k-photoworks.txt
+<DESCRIPTION>FORM 10-K
+<TEXT>
+
+                                    FORM 10-K
+
+                UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+           |X| ANNUAL REPORT PURSUANT TO SECTION 13 OR 15 (d) OF THE
+                        SECURITIES EXCHANGE ACT OF 1934
+
+                  For the fiscal year ended SEPTEMBER 27, 2003
+
+          |_| TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+                        SECURITIES EXCHANGE ACT OF 1934
+
+                 For the transition period from ______ to ______
+
+                           Commission file No. 0-15338
+
+                                PHOTOWORKS, INC.
+                                ----------------
+             (Exact name of registrant as specified in its charter)
+
+<TABLE>
+<S>                                                                <C>
+                          Washington                                           91-0964899
+                          ----------                                           ----------
+(State or other jurisdiction of incorporation or organization)     (IRS Employer Identification No.)
+
+            1260 16th Avenue West, Seattle, WA                                    98119
+            ----------------------------------                                    -----
+         (Address of principal executive offices)                              (Zip Code)
+</TABLE>
+
+   Registrant's telephone number, including area code:        (206) 281-1390
+                                                              --------------
+
+Securities registered pursuant to Section 12(b) of the Act:        None
+                                                                   ----
+
+Securities registered pursuant to Section 12(g) of the Act: Common Stock, par
+value $.01 per share and related preferred share purchase rights.
+
+      Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to the
+filing requirements for the past 90 days. Yes: |X| No: |_|
+
+      Indicate by check mark if disclosure of delinquent filers pursuant to Item
+405 of Regulation S-K is not contained herein, and will not be contained, to the
+best of registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K. |_|
+
+      Indicate by check mark whether the registrant is an accelerated filed (as
+defined in Rule 12b-2 of the Exchange Act). Yes: |_| No: |X|
+
+      As of March 29, 2003 the aggregate market value of the Registrant's Common
+Stock held by non-affiliates of the Registrant was $2,462,971 based on the last
+sale price of the Registrant's Common Stock as reported by the Over the Counter
+Bulletin Board Market.
+
+      As of December 5, 2003, there were issued and outstanding 16,682,285
+shares of Common Stock, par value $.01 per share.
+
+                      Documents incorporated by reference:
+
+      Portions of the registrant's definitive Proxy Statement to be delivered to
+shareholders in connection with the Annual Meeting of Shareholders, to be held
+on February 3, 2004, are incorporated by reference into Part III.
+
+                                        1
+                            Exhibit Index at Page 46
+
+<PAGE>
+
+                                     PART I
+
+ITEM 1 - BUSINESS
+
+Description of Business
+
+      PHOTOWORKS, INC: ("PhotoWorks" or the "Company") is a leading photo
+services company, dedicated to providing our customers with innovative ways to
+enjoy and use their photos through online and mail-order channels. PhotoWorks
+offers processing and printing services to both traditional and digital camera
+users, primarily in the United States, providing customers with the ability to
+store and organize photos online, share them with friends and family, and order
+prints, reprints, photo albums, and photo related products.
+
+      PhotoWorks draws upon a unique dual heritage as a top-rated photofinisher
+with over twenty-five years of experience along with a tradition of innovation
+and leadership in digital and online photo services. We provide digital camera
+owners with easy ways to get professional quality digital prints in addition to
+providing online image storage and management services. PhotoWorks can also
+process any brand of 35mm film, Advanced Photo Systems (24mm) film or 35mm
+single-use cameras, and offers prints, slides, digital images and online
+archiving, all from the same roll of 35mm film.
+
+      PhotoWorks was incorporated in Washington State in June 1976. The
+executive offices are located at 1260 Sixteenth Avenue West, Seattle, Washington
+98119, and the telephone number is (206) 281-1390. References to PhotoWorks and
+the Company in this Report include PhotoWorks, Inc., and its wholly-owned
+subsidiaries.
+
+Forward-Looking Information
+
+      This report contains forward-looking statements including, without
+limitation, statements identified by an asterisk (*). These statements relate to
+future events, product or service offerings or the future financial performance
+of the Company. In some cases, you can identify forward-looking statements by
+terminology such as "may," "will," "should," "expects," "plans," "anticipates,"
+"believes," "estimates," "predicts," "potential," or "continue" or the negative
+of such terms and other comparable terminology. These statements only reflect
+expectations and estimates of the Company's management. Actual events or results
+may differ materially from those expressed or implied by such forward-looking
+statements. Relevant risks and uncertainties include, among others, those
+discussed in Item 1 of Part 1 under the heading "Risk Factors" and elsewhere in
+this report and those described from time to time in the Company's other filings
+with the Securities and Exchange Commission, press releases and other
+communications. All forward-looking statements contained in this report reflect
+PhotoWorks' expectations at the time of this report only, and the Company
+disclaims any responsibility to revise or update any such forward-looking
+statement except as may be required by law.
+
+Industry Overview
+
+      The dominant method of distributing photofinishing services and products
+is through retail stores, including discount and mass merchants, drugstores,
+supermarkets and camera/specialty stores. The majority of prints are processed
+through wholesale photofinishing laboratories or processed in-store using
+on-site equipment.
+
+      Digital cameras are becoming more mainstream as quality increases and
+price decreases. In 2003, sales of digital cameras surpassed sales of
+traditional cameras. We believe that we can serve consumers using digital
+cameras by offering professional quality digital prints and innovative products
+through convenient online services.* Digital cameras and the Internet are
+creating new opportunities for people to use and share their photos.
+
+
+                                       2
+<PAGE>
+
+Operating Strategy
+
+      The principal elements of our operating strategy are the introduction of
+innovative, convenient and easy to use digital services and products and a
+commitment to service and customer satisfaction. We will continue to emphasize
+excellent service, professional quality, value, and convenience rather than try
+to be a low-price or rapid turnaround provider.
+
+      Digital Services and Products. We believe that PhotoWorks can distinguish
+itself from its online and traditional photofinishing competitors through
+value-added digital services and product differentiation. We believe that our
+complementary value-added services and products promote customer loyalty and
+increase customer demand.* We also believe that our online archive of customer
+images is a viable and economic opportunity to monetize a customer's "personal
+equity" by providing image storage and management services for digital and film
+based camera users and through photo output, in the form of digital prints,
+reprints and gifts. Our commitment to ease of use and expanded service and
+product offerings, is intended to support this strategy.*
+
+      Over the years, we have been a leader in providing digital-imaging
+technologies. Some products incorporating these technologies include (i)
+PhotoDVD(TM) and PhotoVHS, an animated show of personal photos on DVD or VHS;
+(ii) Pictures On Disk(TM) on CD, a CD containing digital images from a roll of
+film or digital camera; and, (iii) our online image management system which
+gives customers a simple and convenient way to buy prints and view, share, and
+organize their photos online. We plan to introduce new digital services and
+products in 2004 to inspire people to share their photographic memories.*
+
+Marketing Strategy
+
+      Our strategy for generating revenues is to leverage the strength of our
+services and products for both film-based and digital camera users. In recent
+years, we have seen a significant decline in our sales of traditional
+photofinishing services and products and we believe that the traditional
+photofinishing market will decline further as the digital camera market
+continues to expand.*
+
+      We offer services and products, primarily in the United States, to digital
+camera users and believe we can compete effectively in this market by providing
+digital camera owners with professional quality photo output in the form of
+prints, reprints and other photo related items.* Net revenues generated by sales
+outside the United States accounted for less than 1% of our total net revenues
+in fiscal years 2003, 2002 and 2001.
+
+      We believe that our future success is dependent on our ability to
+transition our services and products to meet the needs of digital camera users
+by delivering innovative digital services and products and complete customer
+satisfaction. We will continue to introduce or enhance digital related service
+and product offerings to support this strategy.*
+
+      Commitment to Customer Satisfaction. We seek to develop and provide
+high-quality and reliable services and products to enhance brand recognition for
+"PhotoWorks" and maintain customer loyalty and we believe that a significant
+portion of our business comes from repeat customers.* As part of our dedication
+to customer service, PhotoWorks offers a 100% satisfaction guarantee. See
+"Business--Customer Service and Support."
+
+      New Customers. In recent years, we have seen a decline in the
+effectiveness of our customer acquisition programs and we are evaluating and
+testing various marketing programs that would generate new customers cost
+effectively.* Our primary methods to acquire new customers have been low priced
+or free introductory offers. We promote our products and services online and
+through our Web site (www.photoworks.com) and we have a customer referral
+program for online and mail order customers which encourages existing customers
+to suggest family and friends that may be interested in our services and
+products. "See "Risk Factors."
+
+
+                                       3
+<PAGE>
+
+Services and Products
+
+      PhotoWorks offers a variety of value-added, innovative and high-quality
+services through which it seeks to differentiate itself from its competitors.*
+Although mail-order photofinishing is generally longer than many alternative
+sources for photofinishing services, the PhotoWorks(R) online service improves
+turnaround time by offering immediate viewing and sharing of images online with
+prints to follow in the mail. Turnaround time for traditional mail-in processing
+services remains a competitive disadvantage for us. However, we believe that our
+turnaround time for online digital printing services is highly competitive
+within the marketplace.
+
+      PhotoWorks has an established tradition of service and product innovation
+for both traditional and digital camera users. The following table illustrates
+recent service and product introductions:
+
+<TABLE>
+<CAPTION>
+      Service or Product                                          Year of Introduction
+      ------------------                                          --------------------
+<S>                                                                         <C>
+      Print Wizard for Microsoft Windows(R)XP users ............            2003
+      Pick Your Prints .........................................            2003
+      Next Day Prints ..........................................            2003
+      Mail in service for memory cards and CD's ................            2002
+      PhotoVHS .................................................            2002
+      Year in Photos(TM)CD .....................................            2002
+      PhotoWorks(R)Designer & Custom Greeting Cards Online .....            2001
+      PhotoDVD(TM) .............................................            2001
+      Browser Uploader .........................................            2001
+      Pocket Photo Books .......................................            2000
+      Photo Gifts Online .......................................            2000
+</TABLE>
+
+      In 2003, we added several innovative and convenient services; (i) "Next
+Day Prints" provides same day shipping for digital prints ordered online if
+customers request overnight shipping; (ii) Print Wizard for Microsoft Windows XP
+users allows customers to order professional quality digital prints directly
+from their computer through a convenient online order form; and (iii) "Pick Your
+Prints" allows film customers that select this option to view high-resolution
+photos online and choose only the photos they want printed from their online
+account.
+
+      In 2002, we introduced the Year in Photos(TM) CD, an affordable and
+convenient way for customers to save an entire year of their personal photos on
+one CD. We introduced PhotoVHS, a multi-media, movie-like presentation, complete
+with a theme, background music, and other professional-quality effects. We also
+launched a service to make it even easier for digital camera owners to purchase
+professional-quality prints and Pictures On Disk(TM) CDs by allowing them to
+mail their memory cards and CDs of their digital images to PhotoWorks for
+developing.
+
+      In 2001, we introduced several innovative digital and traditional products
+and services. PhotoWorks PhotoDVD(TM) allowed customers to view their photos in
+a multi-media, movie-like presentation, complete with a theme, background music,
+credits and other professional-quality effects. Browser Uploader enabled
+customers to easily upload digital images from digital cameras, scanners and
+computers to their PhotoWorks online archive and "The Works" provided customers
+an easy way to order the most popular PhotoWorks film processing package which
+contains two sets of prints, a Pictures On Disk(TM) CD, high resolution
+scanning, an index print and negatives in a money-saving bundle. We also
+extended our line of digital photo greeting cards by adding Designer Photo Cards
+and Custom Photo Cards.
+
+Research and Development
+
+      Through internal and external research and development efforts, we have
+developed innovative digital media and photofinishing services and products. We
+seek to identify customer needs and shifts in consumer preferences in order to
+design and refine our services and products. In fiscal years 2003, 2002, and
+2001, we incurred research and development expenses of $2,442,000, $1,891,000
+and $3,966,000, respectively, primarily in connection with development and
+enhancement of our online digital services and products. See Item 7 of Part
+II--"Management's Discussion and Analysis of Financial Condition and Results of
+Operations."
+
+
+                                       4
+<PAGE>
+
+Customer Service and Support
+
+      The direct-to-consumer photofinishing business involves contacts with a
+large number of customers. For customer convenience, we provide toll-free
+telephone access at 1-800-746-8696. We believe that customer satisfaction is
+critical to our ongoing success. PhotoWorks has a 100% satisfaction-guarantee
+policy under which we will provide a full refund if a customer's complaint
+cannot otherwise be resolved. As of November 30, 2003, we had a customer service
+staff of 19. These personnel have direct access to our database and are trained
+to promote certain of our services and products, as well as to answer questions
+regarding order status, basic photography and photofinishing, and use of
+PhotoWorks(R) digital and online services.
+
+      PhotoWorks maintains a Web site on the Internet (www.photoworks.com).
+While online, customers may use the PhotoWorks(R) service to privately view,
+upload, store, share, manage, post or email their photos to friends and family
+and order prints and photo gifts. Customers may also obtain the status of their
+orders, access answers to frequently asked questions, order products and
+services, and send email messages to customer service.
+
+Management Information Systems and Technology
+
+      We have implemented technology to support customer order processing, image
+archiving, and Internet accessibility. These services and systems use a
+combination of proprietary technologies and commercially available, licensed
+technologies. Internal development is focused on creating and enhancing the
+specialized, proprietary software that is unique to the business. We use a set
+of applications for:
+
+      o     Accepting and validating customer orders
+      o     Archiving images
+      o     Internet image viewing, ordering prints and other products
+      o     Managing shipment of products to customers based on various ordering
+            criteria
+
+      Systems have been designed based on industry standard architectures and
+have been designed to reduce downtime in the event of outages or catastrophic
+occurrences. The systems provide a 24-hour-a-day, seven-day-a-week availability.
+We use load balancing systems and redundant servers to provide for fault
+tolerance.
+
+      The market in which PhotoWorks competes is characterized by rapidly
+changing technology, evolving industry standards, frequent new service and
+product announcements and enhancements, and changing customer demands.
+Accordingly, future success will depend on our ability to:
+
+      o     Adapt to rapidly changing technologies
+      o     Adapt services to evolving industry standards
+      o     Continually improve the performance, scalability, features, and
+            reliability of service in response to competitive service and
+            product offerings and evolving demands of the marketplace
+
+      Failure to adapt to such changes would have a material adverse effect on
+our business, results of operations, and financial condition. In addition, new
+Internet, storage, networking, telecommunications technologies, or other
+technological changes could require substantial expenditures by us to modify or
+adapt our services or infrastructure.
+
+      PhotoWorks has taken a number of precautions against certain events that
+could disrupt the operation of our management information systems, including
+events associated with continuing software and hardware upgrades. However, we
+could still experience systems failures or interruptions, which could have a
+material adverse effect on our business, financial condition and operating
+results.* See "Risk Factors".
+
+
+                                       5
+<PAGE>
+
+Operations
+
+      We operate a single laboratory in Seattle, Washington, which is designed
+to produce consistent, high-quality photofinishing. Our photo processing system
+is designed for 24-hour in-house processing of most digital and photofinishing
+orders. Images are printed on photographic paper using state-of-the-art
+equipment. Customers are notified via email when their order is shipped and when
+the images are available to view online. Although much of the photofinishing and
+order handling process has been automated, trained personnel operate machinery
+and regularly monitor product quality with the assistance of computerized
+control and measurement systems. Other vendors fulfill most photo gift or photo
+related merchandise orders.
+
+      PhotoWorks can process and print digital images from digital memory cards,
+CD's or from digital images uploaded to our website. We have the ability to
+process any brand of 35mm color film, 24mm format Advanced Photo System film,
+and all 35mm reloadable or single-use cameras.
+
+      We believe we have sufficient production capacity with existing facilities
+and equipment but could expand our processing facility if necessary to support
+increased production levels.
+
+Competition
+
+      PhotoWorks faces competition in the consumer digital and photofinishing
+market from other online and direct marketers. We also face competition in other
+distribution channels from companies that provide digital and photofinishing
+services on a wholesale basis to independent retail outlets, and from mass
+merchant retail outlets (such as Wal-Mart and Costco), many of which provide
+photofinishing services within hours. The largest of the wholesale
+photofinishers are Qualex Inc. and Fuji TruColor, Inc. Management believes that
+the largest mail order photofinisher is District Photo Inc. (dba York, Clark
+Labs, Mystic Color Lab and Snapfish). We also face competition in the online
+digital market with competitors such as Ofoto (a Kodak Company) and Shutterfly.
+Many of our competitors have substantially greater financial, technical, and
+other resources than PhotoWorks.
+
+      Management believes its success in the digital and photofinishing industry
+will be based on its ability to generate brand awareness through excellent
+service, innovative products, excellent quality and excellent value. PhotoWorks
+has sought to differentiate its services by offering a number of value-added
+services and products and by emphasizing quality and convenience. We also offer
+competitive prices for our digital and film based print services. Other
+competitors can and do provide similar services and products.* There are no
+significant proprietary or other barriers to entry into the digital or consumer
+photofinishing industry.
+
+      The digital photography industry is characterized by rapidly evolving
+technology and consumer demand for services and products. The introduction of
+photographic services and products involving new technologies could render
+existing services and products obsolete.* Our future success will depend on our
+ability to adapt to new technologies and develop new or modify existing services
+and products to satisfy evolving consumer needs.* For example, the
+commercialization of digital imaging technologies is having an adverse impact on
+the photofinishing industry and has among other factors, accounted for our
+recent declines in revenues. The continued development of these or other new
+technologies or any failure by us to anticipate or successfully respond to such
+developments could have a material adverse effect on our business, financial
+condition and operating results.* See "Risk Factors."
+
+Suppliers
+
+      PhotoWorks obtains its conventional 35mm film from a few large
+manufacturers of photographic film, primarily Ferrania USA, and its photographic
+paper and chemicals from a single supplier, Eastman Kodak Company. Currently,
+substantially all of our purchases from foreign suppliers are paid for in U.S.
+dollars. Our mail-order services and products are handled largely through the
+U.S. Postal Service and other common carriers. See "Risk Factors."
+
+
+                                       6
+<PAGE>
+
+Proprietary Technology
+
+      We currently market our services and products under registered and
+common-law trademarks and service marks, including PhotoWorks(R), Seattle
+FilmWorks(R), PhotoMail(R), Pictures On Disk(TM), and Pictures On Disk(TM) on
+CD. See "Risk Factors."
+
+      We consider a large portion of our PhotoWorks(R) software, process for
+production of Pictures On Disk(TM) and certain other processes to be
+proprietary. We make limited patent filings, in part to avoid disclosure of our
+competitive strengths. However, we do attempt to protect our proprietary rights
+to software through a combination of copyright, trademark and trade secret laws,
+employee and third-party nondisclosure agreements, restricting access to certain
+portions of our premises, and contractual restrictions on use and disclosure in
+our end-user licenses. The legal and practical enforceability and extent of
+liability for violations of license agreements are unclear. *
+
+      This Report contains trademarks other than those of PhotoWorks.
+
+Governmental Regulation
+
+      PhotoWorks' operations, including transmission of digital images over the
+Internet, are subject to regulation by the U.S. Postal Service, the Federal
+Trade Commission, and various state, local, and private consumer protection and
+other regulatory authorities. In general, these regulations govern the manner in
+which orders may be solicited, the form and content of advertisements, privacy
+issues, information which must be provided to prospective customers, the time
+within which orders must be filled, obligations to customers if orders are not
+shipped within a specified period of time and the time within which refunds must
+be paid if the ordered merchandise is unavailable or returned. The federal
+government has not adopted many laws and regulations to specifically regulate
+online commerce and communications. However, Congress has enacted legislation
+addressing such issues as the transmission of certain materials to children,
+intellectual property protection, taxation, and the transmission of sexually
+explicit material. In addition, some states have enacted legislation which makes
+the transmission of certain kinds of information, such as obscene content and
+information which facilitates the commission of criminal acts, a crime.
+
+      Legislation enacted by Congress and the state legislatures could result in
+additional regulation or prohibition of the transmission of certain types of
+content over the Internet or in the imposition of taxes or fees on transactions
+conducted over the Internet.* This could result in significant potential
+liability to PhotoWorks, as well as additional costs and technological
+challenges in complying with mandatory requirements.* See "Risk Factors."
+
+Environmental Compliance
+
+      Our photofinishing operations involve the use of several chemicals which
+are subject to federal, state and local governmental regulations relating to the
+storage, use, handling and disposal of such chemicals. We actively monitor our
+compliance with applicable regulations and work with regulatory authorities to
+ensure compliance. To the best of our knowledge, we have never received a
+significant citation or fine for failure to comply with applicable environmental
+requirements. However, changes in environmental regulations or in the kinds of
+chemicals used by us could impose the need for additional capital equipment or
+other requirements.* See "Risk Factors."
+
+Employees
+
+      As of November 30, 2003 PhotoWorks had 208 employees, of whom
+approximately 133 were engaged in production operations, 29 in administration,
+11 in marketing and business development, 19 in customer service and 16 in
+research and development. None of our employees are covered by a collective
+bargaining agreement, and we believe relations with our employees are good.
+
+
+                                       7
+<PAGE>
+
+Executive Officers of the Registrant
+
+The executive officers of PhotoWorks as of December 9, 2003 were:
+
+Name                     Age      Position
+--------------------------------------------------------------------------------
+Philippe Sanchez         39       President/Chief Executive Officer
+Michael F. Lass          49       Vice President Operations/Business Development
+Loran Cashmore Bond      46       Vice President Administration/Treasurer/Chief
+                                  Accounting Officer/Corporate Secretary
+
+      Philippe Sanchez has been the President and Chief Operating Officer since
+October 2003. From 2001 to 2003, Mr. Sanchez was senior Vice President of
+Marketing at Getty Images, a leading imagery company, where he managed worldwide
+strategic brand initiatives. From 1995 to 2001, Mr. Sanchez worked for Nike,
+Inc. serving in various general management, product marketing and merchandising
+roles in Europe, Asia and the Americas. From 1993 to 1995, Mr. Sanchez served as
+a licensing manager for Disney's Consumer Products Europe and Middle East out of
+the company's European headquarters in Paris.
+
+      Michael F. Lass has been a Vice President since September 1988 and is
+currently serving as Vice President of Operations and Business Development. Mr.
+Lass joined PhotoWorks in 1984 as Manager of Operations. From 1982 to 1984, Mr.
+Lass was Vice President and General Manager of Breezin' Sportswear, a
+manufacturer and marketer of sportswear, and, from 1980 to 1982, General Manager
+and a director of Mountain Safety Research, Inc., a manufacturer of outdoor
+recreational products.
+
+      Loran Cashmore Bond has been the Vice President of Administration since
+October 2001. She has been the company's Chief Accounting Officer and Treasurer
+since August 1999. Ms. Cashmore Bond also serves as Corporate Secretary. Ms.
+Cashmore Bond joined PhotoWorks in January 1986 as Accounting Manager, and, from
+1989 to 1994 was the Controller. In 1994, Ms. Cashmore Bond became an officer of
+the Company and Corporate Controller.
+
+                                  RISK FACTORS
+
+      In addition to the other information in this report, the following risk
+factors should be carefully considered in evaluating us and our business. The
+risks and uncertainties described below are not the only ones we face.
+Additional risks and uncertainties not presently known to us or that we
+currently deem immaterial also may impair our business operations. If any of the
+following risks occur, our business, financial condition, operating results and
+cash flows could be harmed.
+
+We may require additional funding
+
+      At the end of our 2003 fiscal year, we had cash and cash equivalents of
+$4,756,000. We believe that, under our current operational plans, cash balances,
+and projected future cash flow from operations, we will have sufficient funds
+for our operations through at least the next twelve months.* Although we have
+reduced our operating expenses, we had significant operating losses in fiscal
+years 2002 and 2003. If we are not able to generate sufficient cash from
+operations, we may not be able to maintain our business as currently conducted.
+In such event, we may need to further reduce our expenditures or seek additional
+capital to continue operations.
+
+Declines in photofinishing industry could adversely affect our revenues
+
+      We have experienced significant declines in revenues during fiscal years
+2003, 2002 and 2001. We believe that this is primarily attributable to declines
+in the mail order photofinishing market and the photofinishing industry in
+general. This may be in part due to the availability of low priced film
+processing options from mass merchants such as Wal-Mart and Costco. In addition,
+we believe the market shift away from traditional 35mm film and towards digital
+cameras will continue due to the declining prices for and increased availability
+and consumer acceptance of digital cameras. We may not be successful in
+sustaining profitable film-based photofinishing customers.
+
+
+                                       8
+<PAGE>
+
+We may be unsuccessful in increasing revenues from digital services, which would
+adversely affect our results of operations.
+
+      We are developing additional products and services designed to establish
+us as the choice for digital camera users for printing, archiving, sharing,
+viewing and managing personal digital images. We believe that this may
+contribute to increases in our digital photofinishing revenues and sales of
+other image-related services. However, a number of other companies are
+attempting to establish this position. Competitors in this area include Ofoto (a
+Kodak Company), Snapfish, Shutterfly and other traditional providers of
+photofinishing services. We may not be successful against this competition. The
+digital print market has not been fully established. Even if we establish a
+strong position among consumers for digital services, we may not be able to
+generate significant revenues from this market.
+
+We may be adversely affected by actions of competitors
+
+      The market for consumer photofinishing and digital imaging services is
+highly competitive. Many of our competitors have substantially greater
+financial, technical and other resources than we have. We face competition in
+consumer photofinishing and digital imaging services from other direct
+marketers, online companies, and competitors in other distribution channels,
+including much larger companies. Many of these companies provide photofinishing
+services on a wholesale basis to independent retail outlets and, in some cases,
+through multiple retail outlets owned by the photofinisher or online service
+providers. Many of these competitors also provide photofinishing services within
+hours. There are no significant proprietary or other barriers to entry into the
+traditional photofinishing or digital imaging industry. Many of our competitors
+offer similar photofinishing and digital imaging services and products at lower
+prices and with a more rapid turnaround time than we offer. Our ability to
+compete effectively depends on our ability to differentiate our services by
+offering innovative and value-added services and products. Although we believe
+we are a leader in developing and marketing innovative photo-related services
+and products for traditional and digital camera users, competitors can and do
+provide similar services and products. There can be no assurance we will
+continue to compete effectively through development of innovative services and
+products or that we will respond appropriately to industry trends or to
+activities of competitors.
+
+We may be adversely affected by the outcome of litigation
+
+      Fuji Photo Film Co., Ltd - We were a defendant in a claim filed by Fuji
+Photo Film Co., Ltd., with the International Trade Commission. Fuji alleged that
+a number of companies, including the Company's OptiColor subsidiary, violated
+patents held by Fuji on single-use cameras by bringing recycled single-use
+cameras into the United States for resale. The ITC Commissioners issued a final
+order in June 1999 prohibiting PhotoWorks and our subsidiaries from importing
+and selling imported recycled single-use cameras. We appealed the ITC
+Commissioners' order to the Federal Circuit Court of Appeals and that Court
+issued a decision in November 2001, upholding the order against us.
+
+      In July 2001, the ITC commenced enforcement and advisory opinion
+proceedings against us and several other respondents, based on a complaint filed
+by Fuji with the ITC. This complaint alleged that we infringed certain claims of
+six of Fuji's patents on single use cameras, through the importation and sale of
+certain newly manufactured reloadable cameras. The complaint requested that the
+ITC determine that, through these imports and sales, we violated the ITC's
+previous order. It also requested that the ITC bring an action in an appropriate
+U.S. District Court to seek an injunction and civil penalties for each day in
+which an importation or sale violating the order occurred in an amount up to the
+maximum provided by the governing statute. In May 2002, an Administrative Law
+Judge of the International Trade Commission issued an initial determination that
+our reloadable camera infringed three patents owned by Fuji Photo Film Co.,
+Ltd., for single-use cameras and recommended that the Commission assess a
+penalty of $1,600,000 against us for such infringement.
+
+
+                                       9
+<PAGE>
+
+      The Commission upheld the infringement determination and, in May 2003,
+upheld the $1,600,000 penalty assessment. In September 2003, we negotiated a
+settlement agreement with the ITC to reduce the penalty by $600,000 to a total
+of $1,000,000. The settlement also included a payment schedule of $250,000 in
+each of the next four years beginning in July 2004. We have accrued a penalty
+amount of $875,000 ($1,000,000 penalty net of imputed interest of $125,000) in
+our fiscal 2003 financial statements for this matter.
+
+      There is a risk that Fuji could bring a civil action against us for
+damages for patent infringement by reason of sales of cameras that have been
+found in the ITC proceedings to infringe Fuji patents. If such a suit was filed
+against us, it could have a significantly harmful impact on our financial
+condition, results of operations and liquidity. We are unable to determine the
+probability or likelihood of such an action.
+
+We may not be able to retain existing customers or acquire new customers at a
+reasonable cost
+
+      Future revenues and profitability depends in large part on our ability to
+retain our current customers and our ability to acquire new digital customers at
+a reasonable cost. Historically, we used, and we continue to use,
+direct-marketing programs offering low-priced or free introductory offers as our
+primary customer acquisition technique. Over the past few years, the cost for
+these programs has increased and we have seen a decline in customer response
+rates. Our current marketing focuses on customer reactivation and retention and
+opportunities to acquire new customers at a reasonable cost. Our customer
+acquisition and retention efforts may not be effective. If we do not find a way
+to successfully acquire new digital customers, retain our current customers, or
+market successfully against competitors, our business, financial condition and
+operating results could be harmed.
+
+We may not be able to keep up with rapid technological change in the
+photofinishing industry
+
+      The photography industry is currently characterized by rapidly evolving
+technology and consumer demand for services and products. The introduction of
+digital services and products that use new technologies could render existing
+services and products obsolete. Our future success will depend on our ability to
+adapt to new technologies and develop new or modify existing services, products
+and marketing techniques to satisfy changing consumer needs and attract new
+customers. The expanded use of digital cameras has had a negative impact on
+companies such as PhotoWorks that have primarily processed traditional
+film-based images and slides. The development of these or other new
+technologies, or failure by us to anticipate or successfully respond to such
+developments, could harm our business, financial condition and operating
+results.
+
+We may be adversely affected by national events
+
+      We rely on the United States Postal Service and other common carriers to
+receive and deliver orders. Terrorist attacks and anthrax contamination have
+disrupted our deliveries. Additional terrorist attacks or certain alternatives
+to safeguard the mail through mail purification devices could cause serious harm
+to our business, financial condition and operating results.
+
+A sale or liquidation of the Company may not generate sufficient proceeds for
+any distribution to the common shareholders
+
+      We have approximately $3,100,000 of long-term liabilities, including
+$2,500,000 of subordinated debentures. The debentures are convertible into
+Series B Preferred Stock that has a preference on sale or liquidation of the
+Company of $5,000,000. In addition, the holders of the Series A Preferred Stock
+have a preference on the sale or liquidation of the Company in the amount of
+$15,000,000 plus an amount equal to either, (i) the amount, if any, of accrued
+and unpaid dividends up to the time of such payment, or (ii) if no dividends
+have been declared by the Board of Directors, an amount equal to the amount of
+dividends which would have accrued up to the time of such payment at an annual
+dividend rate equal to 6% of the Series A issue price. If the Company were to be
+sold for an amount less than the aggregate liquidation preferences on the Series
+A and Series B Preferred Stock, it is unlikely that any proceeds would be
+available for distribution to the common shareholders.
+
+
+                                       10
+<PAGE>
+
+Any acquisitions we make could disrupt our business and harm our financial
+condition
+
+      We may attempt to acquire other businesses that are compatible with our
+business, but we have no current understanding, agreement or arrangement to make
+any acquisitions. Future acquisitions could result in unforeseen operating
+difficulties and expenditures and may absorb significant management attention
+that would otherwise be available for ongoing development of our business. Since
+we will not be able to accurately predict these difficulties and expenditures,
+it is possible that these costs may outweigh the value we realize from a future
+acquisition. Future acquisitions could result in issuances of equity securities
+that would reduce our shareholders' ownership interest, the incurrence of debt,
+contingent liabilities or amortization of expenses related to goodwill or other
+intangible assets and the incurrence of large, immediate write-offs.
+
+We experience fluctuations in quarterly results
+
+      Our quarterly operating results will fluctuate for many reasons,
+including:
+
+            - seasonality of consumer photographic activity,
+            - the mix of products we sell,
+            - promotional activities we conduct,
+            - price increases by our suppliers,
+            - our introduction of new products,
+            - our research and development activities,
+            - our competitors' actions,
+            - fluctuations in the direct-to-consumer market,
+            - changes in usage of digital services and online commerce,
+            - changes in the photofinishing industry and,
+            - general economic influences and conditions.
+
+      Demand for our photo-related services and products is seasonal, with the
+highest volume of photofinishing activity generally occurring during the summer
+months. As a result, our operating results for any period do not necessarily
+indicate the results that can be expected for any future period. Our operating
+results in a future period may be below the expectations of public market
+analysts and investors which may cause the price of our common stock to decline.
+
+We could be required to collect taxes on the products we sell
+
+      In accordance with current industry practice, we do not currently collect
+sales taxes or other taxes with respect to shipments of goods into states other
+than Washington. One or more states may seek to impose sales or tax collection
+or other obligations on out-of-jurisdiction companies which engage in electronic
+commerce as we do. In addition, states may aggressively attempt to establish
+that our Company has presence (nexus) in their state which could subject our
+mail order business to sales or other tax collection obligations. A successful
+assertion by one or more states that we should collect sales or other taxes on
+the sale of merchandise could result in substantial tax liabilities for past
+sales, decrease our ability to compete with traditional retailers and otherwise
+harm our business.
+
+      In November 2001, Congress extended for two years, the Internet Tax
+Freedom Act, which placed a moratorium on state and local taxes on Internet
+access and on discriminatory taxes on electronic commerce. H.R. Bill 49 seeks to
+make the Internet Tax Freedom Act permanent and is currently in the Senate. If
+the Senate chooses not to pass this legislation, U.S. state and local
+governments would be free to impose new taxes on electronically purchased goods.
+The imposition of taxes on goods sold over the Internet by U.S. state and local
+governments would create administrative burdens for us and could reduce one
+competitive advantage that the purchase of goods over the Internet now
+possesses.
+
+
+                                       11
+<PAGE>
+
+We rely on key vendors, suppliers and foreign sourcing
+
+      We obtain our conventional 35mm film primarily from Ferrania USA, and our
+photographic paper and chemicals from a single supplier, Eastman Kodak. In
+addition, we acquire photofinishing equipment to maintain and increase
+production capacity from various vendors. As there are relatively few suppliers
+of film, photographic paper and chemicals, and photofinishing equipment, the
+elimination of any one supplier or failure of a supplier to deliver specified
+goods could cause a material disruption in our operations and could harm our
+business, financial condition and operating results.
+
+      We have no significant long-term purchase contracts or agreements to
+ensure continued supply, pricing or access to film, paper or chemicals. While we
+believe that alternate sources of film, paper, chemicals and equipment are
+available, it is possible that we will not be able to continue to meet our
+requirements for supplies and equipment, or purchase supplies and equipment in
+sufficient quantities or on terms as favorable to us as those currently
+available. Also, changing to an alternate supplier may cause delays, reduced
+quality or other problems. Our operations may be harmed by political instability
+causing disruption of trade with foreign countries in which our contractors and
+suppliers may be located. Existing or potential duties, tariffs or quotas may
+limit the quantity of certain types of goods that may be imported into the
+United States. Sales of our services and products on a direct-to-consumer
+mail-order basis largely depend on the U.S. Postal Service and other common
+carriers for receipt of orders and delivery of processed film or other products.
+Any significant changes in the operations of or prices charged by the U.S.
+Postal Service or other common carriers or extended interruptions in postal
+deliveries could harm our business, financial condition and operating results.
+
+Our production capabilities, management information systems and technology may
+not be viable
+
+      We depend on our management information systems and technology systems to
+communicate with customers, process orders, provide rapid response to customer
+inquiries, manage inventory, and purchase, sell and ship products efficiently.
+We periodically replace and upgrade certain portions of our systems software and
+hardware. We take a number of precautions against certain events that could
+disrupt our management information systems, including events associated with
+continuing software and hardware upgrades. Any damages or failures to our
+computer equipment, technology systems and the information stored in our data
+center could harm our business, financial condition, and operating results.
+
+      We continually face risks regarding the availability and cost of labor,
+the potential need for additional capital equipment, plant and equipment
+obsolescence, quality control, excess or insufficient capacity and disruption in
+our operations. Our inability to adapt our systems to new technology or service
+our customers with our existing technology could result in a disruption in our
+online or photofinishing services and could harm our business, financial
+condition and operating results.
+
+Governmental regulation could harm our business
+
+      Our operations, including our transmission of digital images over the
+Internet, are subject to regulation by the U.S. Postal Service, the Federal
+Trade Commission and various state, local, and private consumer protection and
+other regulatory authorities. In general, these regulations govern privacy, the
+manner in which orders may be solicited, the form and content of advertisements,
+information which must be provided to prospective customers, the time within
+which orders must be filled, obligations to customers if orders are not shipped
+within a specified period of time, and the time within which refunds must be
+paid if the ordered merchandise is unavailable or returned. The federal
+government has not adopted many laws and regulations to specifically regulate
+online commerce and communications. However, Congress has enacted legislation
+addressing such issues as the transmission of certain materials to children,
+intellectual property protection, taxation, and the transmission of sexually
+explicit material. In addition, some states have enacted legislation which made
+the transmission of certain kinds of information, such as obscene content and
+information which facilitates the commission of criminal acts, a crime.
+
+
+                                       12
+<PAGE>
+
+      Other legislation currently before Congress and the state legislatures
+could result in additional regulation or prohibition of the transmission of
+certain types of content over the Internet. This legislation could result in
+significant potential liability to us for content transmitted over our Web site,
+as well as additional costs and technological challenges in complying with
+mandatory requirements. We do not assume responsibility to edit the content of
+our customers' photographs, slides, digital images or personal home pages unless
+responding to a specific complaint. Legislation which imposes potential
+liability for content made available over the Internet through our Web site
+could require us to implement additional measures to reduce our exposure to such
+liability, which may require us to incur significant costs or discontinue
+certain service or product offerings. Although we carry general liability
+insurance, such insurance may not cover potential claims of this type or may not
+be adequate to compensate us for the amount of these liabilities. Any costs not
+covered by insurance incurred as a result of such liability or asserted
+liability could harm our business, financial condition and operating results.
+
+Environmental regulations could harm our business
+
+      Our photofinishing operations involve the use of several chemicals which
+are subject to federal, state and local governmental regulations relating to
+their storage, use, handling and disposal. We actively monitor our compliance
+with applicable regulations and work with regulatory authorities to ensure
+compliance. Changes in environmental regulations or in the kinds of chemicals
+used by us may impose the need for additional capital equipment or other
+requirements. Any failure by us to control the use or adequately restrict the
+discharge of hazardous substances under present or future regulations could
+subject us to substantial liability or cause suspension of our operations. Such
+liability or suspension of operations could harm our business, financial
+condition and operating results.
+
+ITEM 2 - PROPERTIES
+
+      The Company's headquarters are located in Seattle, Washington. This 60,000
+square foot building which houses our photofinishing and mail order operations,
+is occupied under a lease which expires in September 2010.
+
+      We also have a lease agreement for 51,000 square feet of office and
+production space adjoining our headquarters. This lease expires in September
+2005, with an option to extend for an additional five years. In September 2001,
+we vacated a portion of the office space and relocated employees to the
+headquarters location. We are evaluating any available opportunities regarding
+the vacated office space of the building.
+
+      We had various leases for our retail store locations. In fiscal 2003, we
+negotiated termination agreements for several retail leases. We currently have
+three leases for unoccupied space with terms that expire no later than March
+2004. All costs related to the retail lease costs were accrued in fiscal year
+2003 and were not material to our results of operations.
+
+ITEM 3 - LEGAL PROCEEDINGS
+
+      Fuji Photo Film Co., Ltd - We were a defendant in a claim filed by Fuji
+Photo Film Co., Ltd., with the International Trade Commission. Fuji alleged that
+a number of companies, including the Company's OptiColor subsidiary, violated
+patents held by Fuji on single-use cameras by bringing recycled single-use
+cameras into the United States for resale. The ITC Commissioners issued a final
+order in June 1999 prohibiting PhotoWorks and its subsidiaries from importing
+and selling imported recycled single-use cameras. We appealed the ITC
+Commissioners' order to the Federal Circuit Court of Appeals and that Court
+issued a decision in November 2001, upholding the order against us.
+
+      In July 2001, the ITC commenced enforcement and advisory opinion
+proceedings against us and several other respondents, based on a complaint filed
+by Fuji with the ITC. This complaint alleged that we infringed certain claims of
+
+
+                                       13
+<PAGE>
+
+six of Fuji's patents on single use cameras, through the importation and sale of
+certain newly manufactured reloadable cameras. The complaint requested that the
+ITC determine that, through these imports and sales, we violated the ITC's
+previous order. It also requested that the ITC bring an action in an appropriate
+U.S. District Court to seek an injunction and civil penalties for each day in
+which an importation or sale violating the order occurred in an amount up to the
+maximum provided by the governing statute. In May 2002, an Administrative Law
+Judge of the International Trade Commission issued an initial determination that
+our reloadable camera infringed three patents owned by Fuji Photo Film Co.,
+Ltd., for single-use cameras and recommended that the Commission assess a
+penalty of $1,600,000 million against us for such infringement.
+
+      The Commission upheld the infringement determination and, in May 2003,
+upheld the $1,600,000 penalty assessment. In September 2003, we negotiated a
+settlement agreement with the ITC to reduce the penalty by $600,000 to a total
+of $1,000,000. The settlement also included a payment schedule of $250,000 in
+each of the next four years beginning in July 2004. We have accrued a penalty
+amount of $875,000 ($1,000,000 penalty net of imputed interest of $125,000) in
+our fiscal 2003 financial statements for this matter.
+
+      There is a risk that Fuji could bring a civil action against us for
+damages for patent infringement by reason of sales of cameras that have been
+found in the ITC proceedings to infringe Fuji patents. If such a suit was filed
+against us, it could have a significantly harmful impact on our financial
+condition, results of operations and liquidity. We are unable to determine the
+probability or likelihood of such an action.
+
+      We are also involved in various routine legal proceedings in the ordinary
+course of our business.
+
+ITEM 4 - SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+      No matters were submitted to a vote of shareholders during the fourth
+quarter of fiscal 2003.
+
+                                     PART II
+
+ITEM 5 - MARKET PRICES AND DIVIDENDS ON COMMON STOCK
+
+      Our common stock is traded on the Over the Counter Bulletin Board (OTCBB)
+under the symbol "FOTO." The following table sets forth, for the periods
+indicated, the high and low sale prices of our Common Stock as reported on the
+OTCBB.
+
+                                                              High           Low
+                                                              ----           ---
+
+      Fiscal Year Ended September 27, 2003
+           First Quarter ...........................          $.20          $.07
+           Second Quarter ..........................           .26           .10
+           Third Quarter ...........................           .36           .16
+           Fourth Quarter ..........................           .42           .22
+
+      Fiscal Year Ended September 28, 2002
+           First Quarter ...........................          $.20          $.05
+           Second Quarter ..........................           .54           .12
+           Third Quarter ...........................           .34           .18
+           Fourth Quarter ..........................           .21           .15
+
+      On December 5, 2003, the last sale price reported for the Company's common
+stock was $.59 per share and as of that date, the common stock was held by an
+estimated 4,800 shareholders with approximately 467 holders of record.
+
+
+                                       14
+<PAGE>
+
+      The Company has never declared or paid cash dividends on its common stock
+and does not anticipate paying any dividends in the foreseeable future. The
+Company is restricted under the covenants of a bank agreement from declaring any
+dividends on shares of its capital stock without the bank's prior consent. The
+Company currently intends to retain its earnings, if any, for developing its
+business.
+
+ITEM 6 - SELECTED FINANCIAL DATA
+
+      The selected financial data set forth below with respect to the Company's
+consolidated statements of operations for the years ended September 27, 2003,
+September 28, 2002 and September 29, 2001 and the Company's consolidated balance
+sheets at September 27, 2003 and September 28, 2002 are derived from the audited
+consolidated financial statements included elsewhere in this report and should
+be read in conjunction with those consolidated financial statements and their
+related footnotes. The selected statements of operations data for the years
+ended September 30, 2000 and September 25, 1999 and selected balance sheet data
+at September 29, 2001, September 30, 2000 and September 25, 1999 are derived
+from audited consolidated financial statements, which are not included in this
+report.
+
+                                PHOTOWORKS, INC.
+                             SELECTED FINANCIAL DATA
+                 (in thousands, except per share and share data)
+
+<TABLE>
+<CAPTION>
+                                                                             Fiscal Years
+                                           -------------------------------------------------------------------------------
+                                                2003             2002             2001             2000             1999
+==========================================================================================================================
+<S>                                        <C>              <C>              <C>              <C>              <C>
+Consolidated Statements of Operations Data:
+
+Net revenues                               $     29,416     $     42,093     $     56,690     $     82,061     $     89,613
+
+Gross profit                                      7,287           10,474          12,496           21,858           32,645
+
+Operating expenses                               11,334           12,351          24,584           57,323           48,940
+
+Net income (loss)                                (4,075)           3,581(*)      (12,122)         (34,794)         (10,127)
+
+Net income (loss) attributable to
+    common shareholders                    $     (4,075)    $      3,581    $    (12,122)    $    (37,817)    $    (10,127)
+                                           ============     ============    ============     ============     ============
+
+Diluted earnings (loss) per share          $       (.24)    $        .21    $       (.73)    $      (2.12)    $       (.62)
+                                           ============     ============    ============     ============     ============
+Diluted earnings (loss) per share
+    attributable to common shareholders    $       (.24)    $        .21    $       (.73)    $      (2.31)    $       (.62)
+                                           ============     ============    ============     ============     ============
+
+Weighted average shares and
+   equivalents outstanding - diluted         16,657,000       17,043,000      16,563,000       16,389,000       16,299,000
+                                           ============     ============    ============     ============     ============
+
+Consolidated Balance Sheet Data:
+
+Total assets                               $      7,662     $     11,822    $     12,381     $     24,662     $     41,100
+
+Long-term obligations                             3,142            2,500           2,594            1,523              521
+
+Shareholders' equity                       $        564     $      4,638    $      1,045     $     13,004     $     32,321
+</TABLE>
+
+See notes to consolidated financial statements.
+
+(*)   During fiscal 2002, the Company realized $5,673,000 of income tax
+      benefits.
+
+
+                                       15
+<PAGE>
+
+ITEM 7 - MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL
+CONDITION AND RESULTS OF OPERATIONS
+
+Forward-Looking Information
+
+      This report contains forward-looking statements including, without
+limitation, statements identified by an asterisk (*). These statements relate to
+future events, product or service offerings or the future financial performance
+of PhotoWorks. In some cases, you can identify forward-looking statements by
+terminology such as "may," "will," "should," "expects," "plans," "anticipates,"
+"believes," "estimates," "predicts," "potential," or "continue" or the negative
+of such terms and other comparable terminology. These statements only reflect
+expectations and estimates of PhotoWorks' management. Actual events or results
+may differ materially from those expressed or implied by such forward-looking
+statements. Relevant risks and uncertainties include, among others, those
+discussed in Item 1 of Part 1 under the heading "Risk Factors" and elsewhere in
+this report and those described from time to time in PhotoWorks' other filings
+with the Securities and Exchange Commission, press releases and other
+communications. All forward-looking statements contained in this report reflect
+expectations at the time of this report only, and PhotoWorks disclaims any
+responsibility to revise or update any such forward-looking statement except as
+may be required by law.
+
+Controls and Procedures
+
+      As of September 27, 2003, as part of our annual audit, we carried out an
+evaluation, under the supervision and with the participation of the Company's
+management, including our Chief Executive Officer and Chief Accounting Officer,
+of the effectiveness of the design and operation of our disclosure controls and
+procedures pursuant to Exchange Act Rule 13a-14 and 15d-14. Based upon that
+evaluation, the Chief Executive Officer and the Chief Accounting Officer
+concluded that our disclosure controls and procedures are effective to timely
+alert them to any material information relating to the Company (including its
+consolidated subsidiaries) that must be included in our periodic SEC filings.
+There have been no significant changes in the Company's internal controls or in
+other factors that could significantly affect internal controls subsequent to
+their evaluation.
+
+      We intend to review and evaluate the design and effectiveness of our
+disclosure controls and procedures on an ongoing basis and to improve our
+controls and procedures over time and to correct any deficiencies that we may
+discover in the future. Our goal is to ensure that our senior management has
+timely access to all material financial and non-financial information concerning
+our business. While we believe the present design of our disclosure controls and
+procedures is effective to achieve our goal, future events affecting our
+business may cause us to modify our disclosure controls and procedures.
+
+Overview
+
+      PhotoWorks, Inc. ("PhotoWorks" or the "Company") is a leading photo
+services company dedicated to providing our customers with innovative and
+inspiring ways to enjoy and share their photographic memories. PhotoWorks is
+committed to helping digital photographers capture, manage, store, and share
+their images and enjoy professional-quality prints. We offer an array of
+complementary services and products, primarily under the PhotoWorks(R) brand
+name.
+
+      To promote our services and products, we rely primarily on direct
+marketing and online email programs. We believe our complementary value-added
+services and products promote customer loyalty and increase customer demand.* We
+strive to increase both average order size and order frequency by informing our
+existing customer base of our integrated array of services and products. * We
+also believe that our online archive of customer images is a viable and economic
+opportunity to monetize a customer's "personal equity" by providing image
+storage and management services for digital and film based camera users and
+through photo output, in the form of digital prints, reprints and gifts.* Our
+commitment to expanding our digital service and product offerings, is intended
+to support this strategy.* We use email and other direct-marketing media to
+communicate with our existing and inactive customers.
+
+
+                                       16
+<PAGE>
+
+      Our net loss for fiscal 2003 was $4,075,000, compared to net income of
+$3,581,000 in fiscal 2002 and a net loss of $12,122,000 for fiscal 2001. Our net
+loss for fiscal 2003 was primarily due to a decrease in net revenues, which
+reduced our ability to cover our overhead costs, and a penalty amount of
+$875,000 (see Item 3 - Legal Proceedings) assessed by the ITC in fiscal 2003.
+Net income for fiscal 2002 was primarily due to income tax benefits of
+$5,673,000 as a result of the "Job Creation and Worker Assistance Act enacted by
+Congress in March 2002 which provided for an economic stimulus package of
+temporary business tax incentives. We benefited from a business tax incentive
+contained in the bill, which allowed businesses to extend the net operating loss
+carry-back period to five years (previously two years) for net operating losses
+arising in taxable years ending in 2001 and 2002 (See Note F of Notes to
+Consolidated Financial Statements). In fiscal 2002, we also had lower net
+revenues as compared to fiscal 2001, which was partially offset by lower
+operating expenses. Operating results will fluctuate in the future due to a
+number of factors including lower sales, the level and nature of marketing
+activities, price increases or decreases by suppliers, introductions of new
+products, research and development requirements, legal issues, actions by
+competitors, economic conditions, and conditions in the online and
+direct-to-consumer market and the digital imaging and photofinishing industry in
+general.*
+
+      Cost of goods and services consist of labor, postage, supplies, and fixed
+costs of production related to our services and products. Marketing expenses
+include costs associated with customer acquisition and retention, building brand
+awareness, and testing of new marketing programs. Research and development
+expenses consist primarily of costs incurred in developing computerized online
+image management concepts, developing online photo archiving and photo sharing
+services, other digital related services, and creating equipment necessary to
+provide customers with new computer-related photographic services and products.
+General and administrative expenses consist of costs related to management
+information systems, computer operations, human resource functions, finance,
+legal, accounting, investor relations, and general corporate activities.
+
+Critical Accounting Policies
+
+      Management's Discussion and Analysis of Financial Condition and Results of
+Operations discusses our consolidated financial statements, which have been
+prepared in accordance with accounting principles generally accepted in the
+United States. The preparation of the financial statements requires us to make
+estimates and judgments that affect the reported amounts of assets, liabilities,
+net revenues, and expenses. Our estimates and judgments are based upon our
+historical experience, knowledge of economic and market factors, and various
+other factors that we believe to be relevant given the circumstances.
+Significant policies, methodologies, estimates, and the factors used therein,
+are reviewed on at least a quarterly basis with PhotoWorks' Audit Committee.
+Actual results may differ from these estimates.
+
+      The following is a discussion of the estimates included in our financial
+statements that encompass matters of uncertainty, whereby different estimates
+could have reasonably been made or changes in such estimates could have a
+material impact on the financial statements of PhotoWorks.
+
+      Allowance for Doubtful Accounts
+
+      The allowance for doubtful accounts is based on our historical percentage
+for bad debts as a percentage of sales with consideration given to the aging of
+the receivables. Additionally, we review customers with large past due balances
+on at least a monthly basis. Based on our assessment of the financial condition
+of such customers, past payment history, and other circumstances, we record a
+specific allowance for those accounts that we determine may be uncollectible. We
+are unable to predict changes in the financial condition of our customers, or
+general economic conditions. Accordingly, if circumstances related to either of
+these change, our estimate of an appropriate allowance for doubtful accounts
+could be materially affected and we may be required to record additional
+allowances.
+
+
+                                       17
+<PAGE>
+
+      Reserve for Obsolete Inventory
+
+      We regularly assess the valuation of our inventory and write down those
+inventories that are obsolete, or in excess of forecasted usage, to their
+estimated realizable value. A reserve for obsolescence is recorded against
+inventory for any film or paper inventories that are nearing their expiration
+dates. Additional reserves are recorded for slow-moving or discounted stock to
+the extent it is estimated the materials may go unused based on historical
+inventory turnover, planned changes in marketing promotions or other anticipated
+changes in product mix over the next year, seasonality, or other factors.
+Estimates of future usage are based on estimates of future sales and product
+mix. If actual sales or product mix differs from our estimates, we may need to
+record additional reserves for obsolete inventory.
+
+      Deferred Revenues
+
+      Our deferred revenues relate primarily to a Frequent Customer Program.
+Under this program, after processing a certain number of rolls of film within a
+stated period of time, a customer receives free processing on their next roll of
+film. For each roll of film for which the processing is paid under this program,
+we defer a portion of the revenue received and recognize the revenue upon
+processing of the free roll, so that revenue from customers in this program is
+recognized ratably over all film rolls processed. As of September 27, 2003, we
+had $300,000 of deferred revenues remaining under this program. We believe it is
+unlikely that all customers in this program will process the requisite number of
+rolls that entitle them to the free processing. However, because we had a
+limited amount of historical data on which to estimate a percentage of customers
+that would not achieve this benefit, we had been deferring the maximum amount of
+revenue. During the third quarter of fiscal 2003, we believed we had obtained
+adequate information on certain customer segments to begin reducing the
+percentage of revenue deferred for these groups. As this program nears its
+expiration, we will likely continue to reduce this percentage within a
+reasonable range and reduce our deferral of revenues under this program
+accordingly. In any event, the net deferred revenues of $300,000 under this
+program will be recognized as revenue by January 31, 2004, the expiration date
+of the program.
+
+      Deferred Tax Assets
+
+      We have net deferred tax assets totaling $12,094,000, comprised primarily
+of net operating loss carryforwards. Due to our recent history of operating
+losses, the uncertainty of future profits, and limitations on the utilization of
+net operating loss carryforwards under IRC Section 382, we have recorded a
+valuation allowance of $12,094,000 against our net deferred tax assets.
+
+      Contingencies
+
+      We are subject to various legal proceedings and claims (see Part I, Item 3
+- Legal Proceedings and Note K of Notes to Consolidated Financial Statements),
+the outcomes of which are subject to significant uncertainty. SFAS 5, Accounting
+for Contingencies, requires that estimated amounts relating to a contingency
+should be recorded if it is probable that a liability or gain has been incurred
+and the amount can be reasonably estimated. Disclosure of a loss contingency is
+required if there is at least a reasonable possibility that a loss may have been
+incurred. We evaluate, among other factors, the degree of probability of the
+outcome and the ability to make a reasonable estimate of the amounts.
+
+
+                                       18
+<PAGE>
+
+Results of Operations
+
+      The following table presents information from our consolidated statements
+of operations, expressed as a percentage of net revenues for the periods
+indicated.
+
+                                                Fiscal Years Ended
+                                     -------------------------------------------
+                                     September 27,  September 28,  September 29,
+                                         2003           2002           2001
+================================================================================
+Net revenues                            100.0%         100.0%         100.0%
+Cost of goods and services               75.2           75.1           77.9
+                                        -----          -----          -----
+GROSS PROFIT                             24.8           24.9           22.1
+
+Operating expenses:
+   Marketing                              9.1           10.9           19.5
+   Research and development               8.3            4.5            7.0
+   General and administrative            18.2           14.0           13.4
+   Legal settlements                      3.0             --            1.9
+   Accrued lease obligations               --             --            1.6
+                                        -----          -----          -----
+     Total operating expenses            38.6           29.4           43.4
+                                        -----          -----          -----
+
+LOSS FROM OPERATIONS                    (13.8)          (4.5)         (21.3)
+
+Total other expense                       (.4)           (.5)           (.1)
+                                        -----          -----          -----
+
+LOSS BEFORE INCOME TAXES                (14.2)          (5.0)         (21.4)
+Income tax benefits                        .3           13.5             --
+                                        -----          -----          -----
+
+NET INCOME (LOSS)                       (13.9)%          8.5%         (21.4)%
+                                        =====          =====          =====
+
+      Net revenues decreased 30.1% to $29,416,000 in fiscal 2003 compared to
+$42,093,000 in fiscal 2002. Net revenues decreased 25.7% to $42,093,000 in
+fiscal 2002 from $56,690,000 in fiscal 2001. The decreases in net revenues for
+fiscal years 2003 and 2002 were primarily due to declines in film-based
+processing volumes which we attribute to increased competition, primarily mass
+merchants. In addition, we believe that travel and leisure activities were
+adversely affected by events surrounding the war in Iraq and the terrorist
+attacks in September 2001, thereby contributing to a reduction in overall film
+processing volumes. Net revenues from digital-based processing increased in
+fiscal 2003 to approximately $2,631,000 compared to approximately $1,267,000 in
+fiscal year 2002 and $842,000 in fiscal 2001.
+
+      We have experienced declines in the effectiveness of our customer
+acquisition programs and have focused our marketing on programs designed to
+retain or reactivate customers. Our marketing expenditures in fiscal years 2003
+and 2002 have declined significantly as compared to fiscal 2001. Net revenues
+from traditional film processing are expected to decline further in fiscal year
+2004 as we continue to transition our business to meet the demands of the
+digital camera market.*
+
+      In fiscal 2002, net revenues included approximately $4,759,000 from
+ancillary business, primarily our reloadable camera and retail sales. These
+ancillary businesses were phased out during fiscal years 2002 and 2003.
+
+      Gross profit as a percentage of net revenues for fiscal 2003 was
+relatively unchanged at 24.8%, compared to 24.9% for fiscal 2002. Gross profit
+in fiscal 2001 was 22.1%. The increases in gross profit percentage in fiscal
+2003 and 2002 was primarily due to an overall increase in net revenue per roll
+and increased selling prices for digital services in the second half of fiscal
+2003. In addition, we have realized lower labor and materials costs from
+efficiencies in digital printing, plus lower customer service and other indirect
+overhead costs due to cost savings initiatives. Gross profit fluctuates due to
+the seasonal nature of revenues and revenue per order, combined with fixed
+operating costs associated with equipment, facilities and fixed overhead costs
+related to our products and services. *
+
+
+                                       19
+<PAGE>
+
+      Total operating expenses for fiscal 2003 were $11,334,000 or 38.6% of net
+revenues, compared to $12,351,000 or 29.4% of net revenues for fiscal 2002, and
+$24,584,000 or 43.4% of net revenues for fiscal 2001. The increase in operating
+costs as a percentage of net revenues for fiscal 2003 was primarily due to
+increased costs for research and development, offset by lower marketing and
+general and administrative expenses. In addition, fiscal 2003 operating expenses
+included $875,000 for costs related to the settlement of a penalty assessment
+with the International Trade Commission (see Part I, Item 3 - Legal
+Proceedings). The decrease in operating costs in fiscal 2002 compared to fiscal
+2001 was primarily due to a significant reduction in marketing expenses and
+lower costs for research and development. In addition, fiscal 2001 operating
+expenses included $1,094,000 for costs related to the settlement of a class
+action lawsuit and $908,000 for estimated costs related to unused facility costs
+and store closure reserve. Future periods may reflect increased or decreased
+operating expenses due to the timing and magnitude of marketing activities as
+well as expenditures related to development of our digital services and
+products.*
+
+      Marketing expenses in fiscal 2003 decreased to $2,662,000 or 9.1% of net
+revenues, compared to $4,567,000 or 10.9% of net revenues in fiscal 2002, and
+$11,033,000 or 19.5% of net revenues in fiscal 2001. The decreases in marketing
+expenses in fiscal 2003 and fiscal 2002 were primarily due to a shift in our
+marketing strategy to target our customer base through retention and
+reactivation marketing programs compared to expenditures focused on customer
+acquisition. We continue to test and evaluate marketing programs related to
+effective customer acquisition. We do not anticipate a significant increase in
+the level of marketing expenditures in fiscal 2004. *
+
+      Research and development expenses in fiscal 2003 were $2,442,000 compared
+to $1,891,000 in fiscal 2002. Research and development expenses in fiscal 2002
+were $1,891,000 compared to $3,966,000 for fiscal 2001. The increase in research
+and development expenditures in fiscal 2003 was primarily due to increased
+investments in new digital related services and products. The decrease in
+research and development expenses in fiscal 2002 compared to fiscal 2001 was
+primarily due to reductions in staff and related overhead costs. We expect
+continued investments in research and development in fiscal 2004. *
+
+      General and administrative expenses decreased to $5,355,000 compared to
+$5,893,000 in fiscal 2002. General and administrative expenses decreased to
+$5,893,000 in fiscal 2002 compared to $7,583,000 in fiscal 2001. General and
+administrative costs decreased in fiscal years 2003 and 2002 primarily due to
+reductions in staff and related overhead costs, which were partially offset by
+increased legal fees.
+
+      Other operating expenses for fiscal 2003 included costs related to the
+settlement of a penalty assessment with the ITC of $875,000 and fiscal 2001
+included costs of $1,094,000 related to the settlement of a class action lawsuit
+(see Note K of Notes to Consolidated Financial Statements). In addition, fiscal
+2001 operating expenses included $908,000 for estimated costs related to unused
+facility costs and a store closure reserve.
+
+      Total other expense in fiscal 2003 was $120,000, compared to $215,000 in
+fiscal 2002. Other expense in fiscal 2002 was $215,000, compared to $34,000 in
+fiscal 2001. Other expense in fiscal 2003 and 2002 consists primarily of
+interest expense. Other expense for fiscal 2001 consists primarily of interest
+expense and losses on disposals of assets, offset by a negotiated vendor
+discount of approximately $675,000 from a fiscal 2000 expenditure.
+
+      In fiscal 2003, we recorded net tax benefits of $92,000 related to an AMT
+adjustment. Fiscal 2002 included tax benefits of $5,673,000 as a result of a
+business tax incentive contained in the "Job Creation and Worker Assistance Act"
+a bill, which allowed a business to extend the net operating loss carryback
+period to five years (from two years) for net operating losses arising in
+taxable years ending in 2001 and 2002. In July 2002, we received a tax refund of
+$3,865,000 for our 2001 tax loss and in fiscal year 2003 we received tax
+refunds of $1,915,000 related to our 2002 tax loss.
+
+
+                                       20
+<PAGE>
+
+Liquidity and Capital Resources
+
+      Net cash generated from operating activities in fiscal 2003 was $3,930,000
+compared to $1,445,000 in fiscal 2002 and net cash used of $4,596,000 in fiscal
+2001. In fiscal 2003, we generated cash from operating activities primarily due
+to tax refunds we received of $1,915,000 and the utilization of certain
+prepayments for expenditures made in fiscal 2002 of $3,455,000, primarily for
+prepayment of postage and other shipping costs and maintenance contracts. In
+fiscal 2002, we generated cash from operations due to a decrease in operating
+costs as compared to fiscal 2001, combined with the tax benefits discussed
+above. In fiscal 2001, we incurred a net loss of $12,122,000 that was partially
+offset by non-cash charges related to depreciation and various other operating
+expense accruals.
+
+      Net cash used in investing activities was $256,000 in fiscal 2003 compared
+to $583,000 in fiscal 2002. Net cash used in investing activities was $583,000
+in fiscal 2002 compared to net cash generated from investing activities of
+$842,000 in fiscal 2001. In fiscal 2003 and 2002, we purchased additional
+equipment to support our digital strategy. The increase in net cash generated
+from investing activities for fiscal 2001 was primarily due to sales of
+securities available-for-sale.
+
+      Net cash used in financing activities was $93,000 compared to net cash
+used of $2,548,000 in fiscal 2002 and net cash from financing activities of
+$4,620,000 in fiscal 2001. Fiscal 2003 included payments for lease obligations
+and in fiscal 2002, we paid off our bank loan of $2,350,000. In fiscal 2001, net
+cash from financing activities included proceeds from a bank loan and issuance
+of Subordinated Convertible Debentures.
+
+      The ratio of current assets to current liabilities was 1.46 to 1 at the
+end of fiscal 2003 compared to 1.80 to 1 at the end of fiscal 2002 and .67 to 1
+at the end of fiscal 2001. The decrease in fiscal 2003 compared to fiscal 2002
+is primarily due to a decrease in income tax receivable and prepaid expenses as
+discussed above, partially offset by increased cash and cash equivalents and a
+decrease in accounts payable. The increase in fiscal 2002 compared to fiscal
+2001 is primarily due to an increase in income tax receivable and prepaid
+expenses, partially offset by decreases in inventory, accounts payable, and bank
+loan payable.
+
+      Net capital expenditures during fiscal 2003 totaled $270,000 compared to
+$668,000 in fiscal 2002 and $187,000 in fiscal 2001. The expenditures related
+primarily to the purchase of additional digital processing equipment. We have
+plans for capital expenditures as needed, although at this time we have no
+binding commitments.*
+
+      As of December 12, 2003, our principal source of liquidity included
+approximately $4,094,000 of cash and cash equivalents. We currently anticipate
+that existing cash and cash equivalents and projected future cash flows from
+operations will be sufficient to fund our operations, including any capital
+expenditures, and to service our indebtedness through at least the next twelve
+months. * However, if we do not generate sufficient cash from operations to
+satisfy our ongoing expenses, we may be required to seek external sources of
+financing or refinance our obligations. Possible sources of financing include
+the sale of equity securities or bank borrowings. There can be no assurance that
+we will be able to obtain adequate financing in the future. See Item 1 of Part
+I-"Risk Factors."
+
+      As of September 27, 2003, our principal commitments consisted of
+obligations outstanding under operating leases, our settlement with the ITC, and
+our convertible debentures, detailed as follows (in thousands):
+
+<TABLE>
+<CAPTION>
+                          Fiscal    Fiscal    Fiscal    Fiscal    Fiscal   Future
+                           2004      2005      2006      2007      2008     Years
+                          --------------------------------------------------------
+<S>                       <C>       <C>       <C>       <C>       <C>       <C>
+      Lease               $1,345    $1,070    $  429    $  413    $  410    $  820
+      ITC                    250       250       250       250        --        --
+      Convertible debt        --        --     2,500        --        --        --
+                          --------------------------------------------------------
+                          $1,595    $1,320    $3,179    $  663    $  410    $  820
+                          ========================================================
+</TABLE>
+
+
+                                       21
+<PAGE>
+
+Inflation
+
+      The results of our operations have not been significantly affected by
+inflation during any of the last three fiscal years.
+
+ITEM 7A - QUANTITATIVE AND QUALITATIVE DISCLOSURE ABOUT MARKET RISK
+
+      Not material.
+
+ITEM 8 - FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+      See pages 23 through 39.
+
+
+                                       22
+<PAGE>
+
+                Report of Ernst & Young LLP, Independent Auditors
+
+Shareholders and Board of Directors
+PhotoWorks, Inc.
+
+      We have audited the accompanying consolidated balance sheets of
+PhotoWorks, Inc. (the Company) as of September 27, 2003, and September 28, 2002,
+and the related consolidated statements of operations, shareholders' equity, and
+cash flows for each of the three years in the period ended September 27, 2003.
+Our audits also included the financial statement schedule listed in the Index at
+Item 15(a). These financial statements and schedule are the responsibility of
+the Company's management. Our responsibility is to express an opinion on these
+financial statements and schedule based on our audits.
+
+      We conducted our audits in accordance with auditing standards generally
+accepted in the United States. Those standards require that we plan and perform
+the audit to obtain reasonable assurance about whether the consolidated
+financial statements are free of material misstatement. An audit includes
+examining, on a test basis, evidence supporting the amounts and disclosures in
+the financial statements. An audit also includes assessing the accounting
+principles used and significant estimates made by management, as well as
+evaluating the overall financial statement presentation. We believe that our
+audits provide a reasonable basis for our opinion.
+
+      In our opinion, the consolidated financial statements referred to above
+present fairly, in all material respects, the consolidated financial position of
+PhotoWorks, Inc. at September 27, 2003 and September 28, 2002, and the results
+of its operations and its cash flows for each of the three years in the period
+ended September 27, 2003, in conformity with accounting principles generally
+accepted in the United States. Also, in our opinion, the related financial
+statement schedule, when considered in relation to the basic financial
+statements taken as a whole, presents fairly in all material respects the
+information set forth therein.
+
+
+                                                 /s/ ERNST & YOUNG LLP
+
+Seattle, Washington
+November 7, 2003
+
+
+                                       23
+<PAGE>
+
+                                PHOTOWORKS, INC.
+                           CONSOLIDATED BALANCE SHEETS
+                 (in thousands, except per share and share data)
+
+<TABLE>
+<CAPTION>
+                                     ASSETS
+
+                                                                                September 27,    September 28,
+                                                                                    2003             2002
+                                                                                -------------    -------------
+<S>                                                                               <C>              <C>
+CURRENT ASSETS
+    Cash and cash equivalents                                                     $  4,756         $  1,175
+    Accounts receivable, net of allowance for doubtful accounts
+       of $56 and $28 in 2003 and 2002, respectively                                    28              548
+    Inventories                                                                        652              934
+    Prepaid expenses                                                                   354            3,978
+    Income taxes receivable                                                             --            1,808
+                                                                                  --------         --------
+       TOTAL CURRENT ASSETS                                                          5,790            8,443
+
+Furniture, fixtures, and equipment,
+    at cost, less accumulated depreciation (Note D)                                  1,821            3,346
+Lease deposits                                                                          51               33
+                                                                                  --------         --------
+
+TOTAL ASSETS                                                                      $  7,662         $ 11,822
+                                                                                  ========         ========
+
+                      LIABILITIES AND SHAREHOLDERS' EQUITY
+CURRENT LIABILITIES
+    Accounts payable                                                              $  1,376         $  2,024
+    Accrued compensation                                                             1,260            1,392
+    ITC penalty, current portion (Note K)                                              239               --
+    Accrued taxes                                                                      150              150
+    Income taxes payable                                                                14               --
+    Current portion of capital lease obligation                                          2               94
+    Other accrued expenses                                                             438              495
+    Deferred revenues                                                                  477              529
+                                                                                  --------         --------
+      TOTAL CURRENT LIABILITIES                                                      3,956            4,684
+
+Subordinated convertible debentures (Note E)                                         2,500            2,500
+ITC penalty, non-current portion                                                       636               --
+Capital lease obligations, net of current portion (Note C)                               6               --
+                                                                                  --------         --------
+
+TOTAL LIABILITIES                                                                    7,098            7,184
+
+SHAREHOLDERS' EQUITY (Notes G and I)
+    Preferred Stock, $.01 par value; authorized 2,000,000 shares;
+      15,000 shares Series A Convertible Preferred Stock authorized,
+        issued and outstanding in 2003 and 2002, with a liquidation preference
+        of $15,000,000, plus any unpaid dividends of 6% per year
+      36,830 shares Series B Convertible Preferred Stock authorized,
+        none issued or outstanding in 2003 and 2002                                     --               --
+    Common Stock, $.01 par value, authorized 101,250,000 shares, issued and
+      outstanding 16,660,285 and 16,655,285 in 2003 and 2002, respectively             167              167
+    Additional paid-in capital                                                      15,803           15,802
+    Retained deficit                                                               (15,406)         (11,331)
+                                                                                  --------         --------
+      TOTAL SHAREHOLDERS' EQUITY                                                       564            4,638
+                                                                                  --------         --------
+
+TOTAL LIABILITIES AND SHAREHOLDERS' EQUITY                                        $  7,662         $ 11,822
+                                                                                  ========         ========
+</TABLE>
+
+See notes to consolidated financial statements.
+
+
+                                       24
+<PAGE>
+
+                                PHOTOWORKS, INC.
+                      CONSOLIDATED STATEMENTS OF OPERATIONS
+                 (in thousands, except per share and share data)
+
+<TABLE>
+<CAPTION>
+                                                              Fiscal Years Ended
+                                             ------------------------------------------------------
+                                             September 27,        September 28,       September 29,
+                                                  2003                 2002                2001
+===================================================================================================
+<S>                                          <C>                  <C>                  <C>
+Net revenues                                 $     29,416         $     42,093         $     56,690
+Cost of goods and services                         22,129               31,619               44,194
+                                             ------------         ------------         ------------
+
+GROSS PROFIT                                        7,287               10,474               12,496
+
+Operating expenses:
+   Marketing                                        2,662                4,567               11,033
+   Research and development                         2,442                1,891                3,966
+   General and administrative                       5,355                5,893                7,583
+   Legal settlements (Note K)                         875                   --                1,094
+   Accrued lease obligations (Note C)                  --                   --                  908
+                                             ------------         ------------         ------------
+       Total operating expenses                    11,334               12,351               24,584
+                                             ------------         ------------         ------------
+
+LOSS FROM OPERATIONS                               (4,047)              (1,877)             (12,088)
+
+Other income (expense):
+   Interest expense                                  (173)                (286)                (539)
+   Interest income                                     42                   43                   89
+   Other income (expense), net                         11                   28                  416
+                                             ------------         ------------         ------------
+     Total other expense                             (120)                (215)                 (34)
+                                             ------------         ------------         ------------
+
+LOSS BEFORE INCOME TAXES                           (4,167)              (2,092)             (12,122)
+
+Income tax benefits (Note F)                           92                5,673                   --
+                                             ------------         ------------         ------------
+
+NET INCOME (LOSS)                            $     (4,075)        $      3,581         $    (12,122)
+                                             ============         ============         ============
+
+Diluted earnings (loss) per share            $       (.24)        $        .21         $       (.73)
+                                             ============         ============         ============
+Basic earnings (loss) per share              $       (.24)        $        .22         $       (.73)
+                                             ============         ============         ============
+
+Weighted average shares diluted                16,657,000           17,043,000           16,563,000
+                                             ============         ============         ============
+Weighted average shares basic                  16,657,000           16,655,000           16,563,000
+                                             ============         ============         ============
+</TABLE>
+
+See notes to consolidated financial statements.
+
+
+                                       25
+<PAGE>
+
+                                PHOTOWORKS, INC.
+                 CONSOLIDATED STATEMENTS OF SHAREHOLDERS' EQUITY
+                        (in thousands, except share data)
+
+<TABLE>
+<CAPTION>
+                                      Preferred Stock          Common Stock
+                                      ---------------          ------------
+                                     Shares        Par      Shares           Par          Paid-In        Retained
+                                   Outstanding    Value   Outstanding       Value         Capital         Deficit          Total
+===================================================================================================================================
+<S>                                     <C>       <C>     <C>            <C>            <C>             <C>             <C>
+BALANCE AS OF SEPTEMBER 30, 2000        15,000    $  --   16,505,659     $       165    $    15,629     $    (2,790)    $    13,004
+
+   Warrants issued                          --       --           --              --             83              --              83
+   Purchase of Storycatcher.com             --       --       86,500               1             59              --              60
+   Employee stock purchase plan             --       --       63,812               1             19              --              20
+   Net loss                                 --       --           --              --             --         (12,122)        (12,122)
+                                   -----------    -----  -----------     -----------    -----------     -----------     -----------
+
+BALANCE AS OF SEPTEMBER 29, 2001        15,000       --   16,655,971             167         15,790         (14,912)          1,045
+
+   Warrants issued                          --       --           --              --             12              --              12
+   Employee stock purchase plan             --       --         (686)             --             --              --              --
+   Net income                               --                    --              --             --           3,581           3,581
+                                   -----------    -----  -----------     -----------    -----------     -----------     -----------
+
+BALANCE AS OF SEPTEMBER 28, 2002        15,000       --   16,655,285             167         15,802         (11,331)          4,638
+
+   Stock options exercised                  --       --        5,000              --              1              --               1
+   Net loss                                 --                    --              --             --          (4,075)         (4,075)
+                                   -----------    -----  -----------     -----------    -----------     -----------     -----------
+
+BALANCE AS OF SEPTEMBER 27, 2003        15,000    $  --   16,660,285     $       167    $    15,803     $   (15,406)    $       564
+                                   ===========    =====  ===========     ===========    ===========     ===========     ===========
+</TABLE>
+
+See notes to consolidated financial statements.
+
+
+                                       26
+<PAGE>
+
+                                PHOTOWORKS, INC.
+                      CONSOLIDATED STATEMENTS OF CASH FLOWS
+                                 (in thousands)
+
+<TABLE>
+<CAPTION>
+                                                                                 Fiscal Years Ended
+                                                                     -------------------------------------------
+                                                                     September 27,  September 28,  September 29,
+                                                                         2003            2002          2001
+================================================================================================================
+<S>                                                                    <C>            <C>            <C>
+OPERATING ACTIVITIES:
+Net income (loss)                                                      $ (4,075)      $  3,581       $(12,122)
+ Charges to income not affecting cash:
+    Depreciation                                                          1,802          3,711          5,361
+    Legal settlements                                                       875             --            705
+    Deferred revenues                                                       (52)           430              5
+    (Gain) loss on disposal of furniture, fixtures, and equipment           (13)            55            277
+    Accrued lease obligations                                                --             --            908
+ Net change in receivables, inventories, payables and other               3,571         (4,524)          (700)
+ Income taxes receivable/payable                                          1,822         (1,808)           970
+                                                                       --------       --------       --------
+NET CASH PROVIDED BY (USED IN)
+  OPERATING ACTIVITIES                                                    3,930          1,445         (4,596)
+
+INVESTING ACTIVITIES:
+ Purchase of furniture, fixtures, and equipment                            (270)          (668)          (187)
+ Proceeds from sales of furniture, fixtures, and equipment                   14             85              7
+ Sales of securities available-for-sale                                      --             --          1,022
+                                                                       --------       --------       --------
+NET CASH PROVIDED BY (USED IN)
+  INVESTING ACTIVITIES                                                     (256)          (583)           842
+
+FINANCING ACTIVITIES:
+ Payment on capital lease obligations                                       (94)          (198)          (250)
+ Proceeds from issuance of Common Stock                                       1             --             20
+ Repayment of bank note payable                                              --         (2,350)            --
+ Proceeds from bank note payable                                             --             --          2,350
+ Proceeds from Subordinated Convertible Debentures                           --             --          2,500
+                                                                       --------       --------       --------
+NET CASH PROVIDED BY (USED IN)
+  FINANCING ACTIVITIES                                                      (93)        (2,548)         4,620
+                                                                       --------       --------       --------
+
+INCREASE (DECREASE) IN CASH AND
+ CASH EQUIVALENTS                                                         3,581         (1,686)           866
+
+Cash and cash equivalents at beginning of year                            1,175          2,861          1,995
+                                                                       --------       --------       --------
+
+CASH AND CASH EQUIVALENTS
+ AT END OF YEAR                                                        $  4,756       $  1,175       $  2,861
+                                                                       ========       ========       ========
+
+Supplemental cash flow information:
+ Cash paid for interest                                                $    175       $    261       $    356
+ Cash received from income tax refund                                  $  1,915       $  3,865       $     --
+
+Supplemental non-cash financing and investing activity:
+  Capital lease obligation incurred                                    $      8       $     --       $     --
+  Stock warrants issued for bank financing                             $     --       $     12       $     83
+  Purchase of StoryCatcher.com                                         $     --       $     --       $     98
+</TABLE>
+
+See notes to consolidated financial statements
+
+
+                                       27
+<PAGE>
+
+                                PHOTOWORKS, INC.
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+NOTE A -- OPERATIONS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+PHOTOWORKS, INC: ("PhotoWorks" or the "Company") is a leading photo services
+company, dedicated to providing its customers with innovative and inspiring ways
+to enjoy and share their photographic memories, primarily through online and
+mail-order channels. The PhotoWorks service provides film and image processing
+and online image storage and management services to both traditional and digital
+camera users, primarily in the United States, which allow customers to store and
+organize photos online, share them with friends and family, and order reprints,
+photo albums, and photo related products. The Company also offers an array of
+complementary products and services, primarily under the brand name
+PhotoWorks(R).
+
+PRINCIPLES OF CONSOLIDATION: The consolidated financial statements include
+PhotoWorks, Inc. and its subsidiaries, all of which are wholly-owned.
+Significant inter-company accounts and transactions have been eliminated in
+consolidation.
+
+SEGMENT REPORTING: The Company currently operates in one business segment.
+
+CASH AND CASH EQUIVALENTS: Cash and cash equivalents include cash on hand,
+credit card receivables, and highly liquid short-term investments with a
+maturity date of three months or less on date of purchase.
+
+OTHER FINANCIAL INSTRUMENTS: The carrying values of financial instruments such
+as trade receivables and payables, approximate their fair values, based on the
+short-term maturities of these instruments. The ITC penalty settlement and
+capital lease obligations were entered into shortly before the end of the fiscal
+period and there have been no significant changes in interest rates or credit
+risk of the Company since; therefore the carrying values of those financial
+instruments also approximate their fair values.
+
+ACCOUNTS RECEIVABLE: Accounts receivable primarily includes amounts due from
+wholesale customers from the sale of single-use camera shells. An allowance for
+doubtful accounts is established based on the Company's historical loss
+percentage for bad debts as a percentage of sales with consideration given the
+aging of the receivables.
+
+INVENTORIES: Inventories are stated at the lower of cost (using the first-in,
+first-out method) or market. Inventories consist primarily of film, and
+photofinishing supplies. An inventory reserve is established based on the
+valuation of the Company's inventory, and those inventories which are obsolete
+or in excess of forecasted usage or their estimated net realizable value.
+
+DEPRECIATION: Furniture, fixtures, and equipment are depreciated using the
+straight-line method based on the estimated useful asset lives, ranging from two
+to five years. Expenditures for major remodeling and improvements of leasehold
+properties are capitalized as leasehold improvements. Leasehold improvements are
+depreciated over the shorter of the life of the lease or the life of the asset.
+
+INCOME TAXES: The benefit or provision for federal income taxes is generally
+computed based on pretax income. However, the benefit or provision may differ
+from income taxes currently payable or receivable, because certain items of
+income and expense are recognized in different periods for financial reporting
+purposes than they are for federal income tax purposes. As more fully described
+in Note F, the net operating losses for both book and tax purposes exceed
+amounts available for operating loss carrybacks. Due to the uncertainty of the
+recoverability of these deferred assets, a valuation allowance has been
+recorded. Amounts available through operating loss carrybacks are recorded as
+income taxes receivable.
+
+
+                                       28
+<PAGE>
+
+                                PHOTOWORKS, INC.
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+NOTE A -- OPERATIONS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Continued)
+
+STOCK-BASED COMPENSATION: The Company has adopted the disclosure-only provisions
+of Statement of Financial Accounting Standards (SFAS) No. 123, "Accounting for
+Stock-Based Compensation," and SFAS No. 148, "Accounting for Stock-Based
+Compensation - Transition Disclosures," and applies Accounting Principles Board
+Opinion No. 25 (APB 25) and related Interpretations in accounting for its stock
+option plans. Accordingly, the Company's stock-based compensation expense is
+recognized based on the intrinsic value of the option on the date of grant.
+
+Under Statement No. 123, if the Company had elected to recognize the
+compensation cost based upon the fair value of the options granted at grant
+date, net income (loss) would have been changed as follows:
+
+<TABLE>
+<CAPTION>
+                                                              September 27,     September 28,     September 29,
+                                                                   2003              2002              2001
+                                                              -------------------------------------------------
+                                                                    (in thousands, except per share data)
+<S>                                                            <C>               <C>               <C>
+Net income (loss) as reported                                  $   (4,075)       $    3,581        $  (12,122)
+Add:  Stock-based compensation expense
+    included in net income, net of related tax benefits                --                --                --
+Deduct:  Stock based compensation as determined
+    under FAS 123, net of related tax effects                        (446)             (544)             (620)
+                                                               ----------        ----------        ----------
+Pro forma net income (loss)                                    $   (4,521)       $    3,037        $  (12,742)
+                                                               ==========        ==========        ==========
+
+Basic earnings (loss) per share as reported                    $     (.24)       $      .22        $     (.73)
+Diluted earnings (loss) per share as reported                  $     (.24)       $      .21        $     (.73)
+Pro forma basic earnings (loss) per share                      $     (.27)       $      .18        $     (.77)
+Pro forma diluted earnings (loss) per share                    $     (.27)       $      .18        $     (.77)
+</TABLE>
+
+Pro forma information regarding net income (loss) and diluted earnings (loss)
+per share has been determined as if the Company had accounted for its employee
+stock options under the fair value method of SFAS No. 123. The fair value for
+the options was estimated at the date of grant using a Black-Scholes option
+pricing model with the following weighted-average assumptions on the option
+grant date:
+
+<TABLE>
+<CAPTION>
+                                       Fiscal 2003        Fiscal 2002       Fiscal 2001
+==========================================================================================
+<S>                                     <C>               <C>               <C>
+        Risk free interest rate           2.23%             2.68%             3.81%
+        Expected volatility             180.85%           134.95%           314.64%
+        Expected option life              3.33 years        3.00 years        2.70 years
+        Dividend yield                    0.00%             0.00%             0.00%
+</TABLE>
+
+The pro forma effects on net income (loss) for fiscal years 2003, 2002, and 2001
+are not indicative of pro forma effects in future years because additional
+grants in future years are anticipated.
+
+REVENUE RECOGNITION: The Company recognizes revenue when products are shipped or
+services are delivered. The Company provides its customers with a 100%
+satisfaction guarantee. The majority of the Company's products and services will
+not be returned but customers can request a refund if not satisfied. During
+fiscal year 2003 refunds were less than 1% of net revenues. An allowance is
+recorded for expected future returns.
+
+
+                                       29
+<PAGE>
+
+                                PHOTOWORKS, INC.
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+NOTE A -- OPERATIONS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Continued)
+
+DEFERRED REVENUES: Deferred revenues relate primarily to a Frequent Customer
+Program. Under this program, after processing a certain number of rolls of film
+within a stated period of time, a customer receives free processing on their
+next roll of film. For each roll of film for which the processing is paid under
+this program, the Company defers a portion of the revenue received and
+recognizes the revenue upon processing of the free roll, so that revenue from
+customers in this program is recognized ratably over all film rolls processed.
+
+EARNINGS (LOSS) PER SHARE: - The Company calculates earnings per share based on
+the weighted average number of shares and dilutive Common Stock equivalents
+outstanding during the period. Net loss per share is based on the weighted
+average number of common shares outstanding during the period. See Note H.
+
+SHIPPING AND HANDLING COSTS: These costs are included in the cost of goods and
+services.
+
+ADVERTISING COSTS: Advertising costs are recorded as expenses when incurred.
+Direct mail promotional costs of printed promotional materials are recorded as
+expenses during the period in which they are mailed or otherwise disseminated to
+customers.
+
+USE OF ESTIMATES: The preparation of financial statements in conformity with
+accounting principles generally accepted in the United States requires
+management to make estimates and assumptions that affect the amounts reported in
+the consolidated financial statements and accompanying notes. Actual results
+could differ from those estimates.
+
+RECLASSIFICATIONS: Certain prior year amounts have been reclassified to conform
+to the current year's presentation.
+
+NOTE B - LIQUIDITY
+
+The Company has experienced significant revenue declines and has incurred
+operating losses in recent years. Cash flows from operations were positive in
+fiscal 2003 and 2002 primarily due to income tax refunds of $5,780,000 related
+to the carryback of taxable losses. Management has taken various actions,
+including workforce reductions, store closures, and reduced marketing and
+administrative expenditures to more closely align its cost structure with its
+reduced revenue levels and to improve its cash flows.
+
+Management believes that under current operational plans, its current cash
+balances and projected future cash flows from operations will be sufficient to
+fund operations through at least the next twelve months. Further, management has
+both the ability and intent to undertake additional actions to reduce expenses
+to ensure cash balances are sufficient to meet its obligations as they fall due.
+However, the Company's inability to successfully generate sufficient cash flow
+from operations would have a material adverse impact on the Company's financial
+position and liquidity and may require the Company to seek additional sources of
+funding to enable it continue operations for at least the next twelve months.
+
+
+                                       30
+<PAGE>
+
+                                PHOTOWORKS, INC.
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+NOTE C--PROPERTY AND LEASES
+
+The Company has two separate leases related to its main operating facilities,
+totaling approximately 110,000 square feet. One of these leases, with lease
+costs of approximately $473,000 per year, expires in September 2005, with an
+option to extend through September 2010. The other lease, with lease costs of
+approximately $410,000 per year, expires in September 2010.
+
+The Company leases the majority of the equipment needed to archive and retrieve
+customers' digital images under three-year operating leases. These leases
+commenced on the in-service date of the particular equipment and generally
+expire during fiscal 2005. Total payments under these equipment leases are
+approximately $394,000 annually.
+
+At September 27, 2003, future minimum payments under capital leases and
+non-cancelable operating leases are as follows:
+
+                                                          Capital      Operating
+                                                           Lease         Leases
+================================================================================
+                                                              (in thousands)
+
+Fiscal 2004                                               $     3         1,342
+Fiscal 2005                                                     3         1,067
+Fiscal 2006                                                     3           426
+Fiscal 2007                                                     3           410
+Fiscal 2008                                                    --           410
+Thereafter                                                     --           820
+                                                          -------       -------
+                                                               12       $ 4,475
+                                                                        =======
+Amounts representing interest                                  (4)
+                                                          -------
+Present value of net minimum lease payments               $     8
+                                                          =======
+
+Rental expense relating to facilities operating leases for fiscal years 2003,
+2002, and 2001, was $1,067,000, $1,303,000 and $1,910,000, respectively. Rental
+expense relating to equipment operating leases for fiscal years 2003, 2002, and
+2001 was $424,000, $778,000, and $1,132,000, respectively. Interest expense
+relating to the capital lease was $2,000, $13,000, $28,000, for fiscal years
+2003, 2002 and 2001, respectively.
+
+During the fourth quarter of fiscal 2001, the Company consolidated its
+operations and moved out of two buildings under lease. Leasehold improvements
+for these buildings, with a net book value of $403,000 were written down and
+remaining lease obligations, net of estimated future sublease revenue, were
+accrued, totaling $275,000. Also, the Company accrued $230,000 in fiscal 2001
+for estimated costs related to planned retail store closures. These costs were
+paid during fiscal 2002.
+
+
+                                       31
+<PAGE>
+
+                                PHOTOWORKS, INC.
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+NOTE D -- FURNITURE, FIXTURES, AND EQUIPMENT
+
+Furniture, fixtures, and equipment, at cost, consist of the following:
+
+<TABLE>
+<CAPTION>
+                                                     September 27,   September 28,
+                                                          2003            2002
+==================================================================================
+                                                             (in thousands)
+<S>                                                     <C>            <C>
+Furniture, fixtures, and equipment                      $ 22,301       $ 21,347
+Equipment under capital lease                                  8          1,028
+Leasehold improvements                                     4,318          4,313
+                                                        --------       --------
+                                                          26,627         26,688
+Less accumulated depreciation and amortization           (24,806)       (23,342)
+                                                        --------       --------
+
+                                                        $  1,821       $  3,346
+                                                        ========       ========
+</TABLE>
+
+The Company had been leasing the majority of its archive equipment under a
+5-year capital lease, which expired in March 2003. Upon expiration of the lease,
+the Company exercised its $20 option to buy the equipment. Therefore, those
+assets are no longer categorized as equipment under capital lease.
+
+NOTE E -- CONVERTIBLE DEBENTURES
+
+In April 2001, the Company issued $2,500,000 of convertible debentures carrying
+a 7% interest rate and convertible, at the discretion of the holders, into
+Series B Preferred Stock at a conversion price of $75.00 per share, one year
+after closing. Each share of Series B Preferred Stock is convertible, at the
+option of the holder, at any time into 100 shares of Common Stock (Series B
+conversion to common stock results in $.75 per common share). If not previously
+converted, the debentures are required to be repaid five years from closing. In
+2002, the Company filed a registration statement with the SEC for common shares
+attributable to Series A and Series B preferred shares.
+
+NOTE F-- INCOME TAXES
+
+The benefit (provision) for income taxes is as follows (in thousands):
+
+                                                   2003        2002        2001
+================================================================================
+
+Benefit (provision) for income taxes:
+         Current                                  $   92      $5,673      $    0
+         Deferred                                      0           0           0
+                                                  ------      ------      ------
+                                                  $   92      $5,673      $    0
+                                                  ======      ======      ======
+
+In March 2002, Congress enacted changes in the tax law that allowed the Company
+to carryback tax losses that resulted in tax refunds of $1,915,000 and
+$3,865,000 in 2003 and 2002, respectively.
+
+A reconciliation of the federal statutory tax rates to the effective tax rates
+is as follows:
+
+                                                   2003        2002       2001
+================================================================================
+
+Statutory tax rate                                 34.0%       34.0%      34.0%
+Non-deductible ITC penalty                         (7.2)         --         --
+Other, net                                         (0.1)        3.0        0.9
+Valuation allowance on deferred tax assets        (24.5)      234.2      (34.9)
+                                                 ------      ------     ------
+                                                    2.2%      271.2%       0.0%
+                                                 ======      ======     ======
+
+
+                                       32
+<PAGE>
+
+                                PHOTOWORKS, INC.
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+NOTE F -- INCOME TAXES (Continued)
+
+The Company has net deferred tax assets totaling $12,094,000, comprised
+primarily of net operating loss carryforwards. Due to the recent history of
+operating losses, the uncertainty of future profits, and limitations on the
+utilization of net operating loss carryforwards under IRC Section 382, a
+valuation allowance of $12,094,000 has been recorded against our net deferred
+tax assets.
+
+Principal items comprising cumulative deferred income taxes are as follows:
+
+                                                        2003             2002
+===============================================================================
+                                                           (in thousands)
+Deferred tax assets:
+   Net operating loss carryforward                    $ 10,182         $ 10,622
+   Depreciation and amortization                         1,109            1,155
+   Accrued expenses                                        306              213
+   Tax credit carryforwards                                364              482
+   Deferred revenues                                       162              180
+   Other                                                    85               67
+                                                      --------         --------
+Total deferred tax assets                               12,208           12,719
+                                                      ========         ========
+
+Deferred tax liabilities:
+   Prepaid expenses                                       (108)          (1,339)
+   Other liabilities                                        (6)              (4)
+                                                      --------         --------
+Total deferred tax liabilities                            (114)          (1,343)
+                                                      --------         --------
+
+Valuation Allowance                                    (12,094)         (11,376)
+                                                      --------         --------
+
+Net deferred tax asset                                $      0         $      0
+                                                      ========         ========
+
+The net operating loss carry forward begins expiring in 2020. Tax credit carry
+forwards of $115,000 relate to minimum tax credits and have no expiration date.
+The remaining carry forwards are related to research and development credits and
+charitable contributions. These credits and the net operating loss carryforwards
+expire as follows:
+
+                                                   NOL            Tax Credit
+                                              Carryforward       Carryforwards
+===============================================================================
+                                                       (in thousands)
+
+      Fiscal 2020                                $29,095           $   117
+      Fiscal 2021                                     --                82
+      Fiscal 2022                                    851                50
+                                                 -------           -------
+                                                 $29,946           $   249
+                                                 =======           =======
+
+
+                                       33
+<PAGE>
+
+                                PHOTOWORKS, INC.
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+NOTE G-- SHAREHOLDERS' EQUITY
+
+Convertible Preferred Stock
+
+The shares of Series A preferred stock have a conversion price of $4.75 and
+include warrants to purchase common stock at an exercise price of $6.00 per
+share. The shares of Series A preferred stock are convertible into a total of
+3,157,895 shares of common stock and the warrants are exercisable to purchase a
+total of 789,474 shares of common stock which are reserved for issuance. The
+shares are convertible at the holder's option at any time and may be redeemed by
+the Company for $4.75 per share any time. Under the anti-dilution provisions of
+the Series A rights agreement, upon conversion by Subordinated Convertible
+Debenture holders to Series B Preferred Stock, the conversion price of Common
+stock will be reduced to $4.25 per share and the exercise price for warrants
+will be reduced to $5.37 per share.
+
+The holders of the Series A Preferred Stock have a preference on the sale or
+liquidation of the Company. The aggregate amount of the liquidation preference
+is $15,000,000. The holders of Series A preferred stock also have preferential
+rights to receive dividends at the rate of 6% but only when, and if, declared by
+the Company's Board of Directors. The holders are entitled to the number of
+votes equal to the number of shares of common stock into which the preferred
+stock could be converted.
+
+Warrants
+
+In addition to the warrants issued to the Series A preferred shareholders, the
+Company issued warrants in conjunction with its bank note payable as follows:
+
+Issue date                Warrants issued     Exercise price   Expiration Date
+--------------------------------------------------------------------------------
+December 20, 2000              72,727             $1.00        December 20, 2010
+July 23, 2001                  50,000             $ .66        July 23, 2011
+October 11, 2001              150,000             $ .20        October 11, 2011
+
+The Company amortized the fair value of the warrants as interest expense over
+the applicable loan periods.
+
+Common Shares Reserved
+
+At September 27, 2003, shares of common stock reserved for future issuance were
+as follows:
+
+      Outstanding stock options                                  2,993,622
+      Stock options available for grant                            688,218
+      Warrants to purchase common stock                            272,727
+      Common stock under Series A conversion                     3,157,895
+      Warrants issued to Series A shareholders                     789,474
+                                                                 ---------
+                                                                 7,901,936
+                                                                 =========
+
+Dividends
+
+The Company has never declared or paid cash dividends on its common stock and
+does not anticipate paying any dividends in the foreseeable future. The Company
+is restricted under covenants of a bank agreement from declaring any dividends
+on shares of its capital stock without the bank's prior consent. In addition,
+the Company may not pay any dividends on shares of Common Stock, unless prior to
+such payment, it has paid in full all cumulative dividends which would have
+accrued on the Series A Preferred shares, from date of issuance until the date
+of such payment, whether or not such dividends have been declared by the Board
+of Directors. The Company currently intends to retain earnings, if any, for
+developing its business.
+
+
+                                       34
+<PAGE>
+
+                                PHOTOWORKS, INC.
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+NOTE H - EARNINGS (LOSS) PER COMMON SHARE
+
+The following table sets forth the computation of earnings (loss) per common
+share:
+
+<TABLE>
+<CAPTION>
+                                                             2003             2002            2001
+======================================================================================================
+<S>                                                     <C>               <C>             <C>
+    Numerator for earnings (loss) per common share:
+     Net income (loss)                                  $  (4,075,000)    $  3,581,000    $(12,122,000)
+                                                        =============     ============    ============
+
+    Denominator for basic earnings (loss) per share:
+         Weighted-average number
+           of common shares                                16,657,000       16,655,000      16,563,000
+
+    Effect of dilutive securities:
+       Stock options                                               --          388,000              --
+     Warrants                                                      --               --              --
+                                                        -------------     ------------    ------------
+
+   Denominator for diluted earnings (loss)
+        per common share                                   16,657,000       17,043,000      16,563,000
+                                                        =============     ============    ============
+
+Basic earnings (loss) per share                         $        (.24)    $        .22    $       (.73)
+                                                        =============     ============    ============
+Diluted earnings (loss) per share                       $        (.24)    $        .21    $       (.73)
+                                                        =============     ============    ============
+</TABLE>
+
+At September 27, 2003, and September 29, 2001, there were 7,213,718, 5,782,258
+stock options, warrants and common stock upon conversion of Series A preferred
+shares, respectively, that were excluded from the computation of diluted loss
+per share as their effect was antidilutive. If the Company had reported net
+income, the calculation of these per share amounts would have included the
+dilutive effect of these common stock equivalents using the treasury stock
+method.
+
+Excluded from the computation of diluted earnings per common share for the year
+ended September 28, 2002 are options to acquire 1,443,176 shares of common stock
+with a weighted average exercise price of $3.73, common shares of 3,157,895
+related to convertible preferred stock with an exercise price of $4.75, 789,474
+common stock warrants with an exercise price of $6.00, 72,727 common stock
+warrants with an exercise price of $1.00, and 50,000 common stock warrants with
+an exercise price of $.66 and 150,000 common stock warrants with an exercise
+price of $.20.
+
+
+                                       35
+<PAGE>
+
+                                PHOTOWORKS, INC.
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+NOTE I -- STOCK-BASED COMPENSATION
+
+Pursuant to Stock Option Plans adopted in 1982 and 1987, options may be granted
+to purchase up to 6,904,688 shares of Common Stock at prices equal to the fair
+market value of the shares at the time the options are granted.
+
+On October 20, 1999 the Board of Directors adopted the PhotoWorks, Inc. 1999
+Employee Stock Option Plan. Employees, consultants, independent contractors,
+advisors and agents are eligible to participate in this plan. Officers and
+directors are not eligible to participate. Pursuant to this plan, options may be
+granted to purchase up to 800,000 shares of Common Stock at prices equal to the
+fair market value of the shares at the time the options are granted.
+
+In February 2000, shareholders approved the 1999 Stock Incentive Compensation
+Plan. Officers, directors, employees, consultants, independent contractors,
+advisors and agents are eligible to participate in this plan. Pursuant to this
+plan, options may be granted to purchase up to 800,000 shares of Common Stock at
+prices equal to the fair market value of the shares at the time the options are
+granted. In February 2001, shareholders approved an amendment to increase the
+number of shares reserved for issuance to 1,300,000 and in February 2003,
+shareholders approved an amendment to increase the number of shares reserved for
+issuance to 1,800,000 shares.
+
+Shares of Common Stock reserved for issuance under stock option plans totaled
+3,681,840 at September 27, 2003, of which 688,218 shares were available for
+options to be granted in the future. Options generally vest over three to four
+years and become exercisable commencing one year after the date of grant and
+expiring five years after the date of grant.
+
+The following schedule summarizes stock option activity for fiscal years 2001,
+2002, and 2003.
+
+<TABLE>
+<CAPTION>
+                                                     Number             Price Per      Weighted Average
+                                                    of Shares             Share         Exercise Price
+=======================================================================================================
+<S>                                                <C>                <C>                   <C>
+    Balance at September 30, 2000                   2,026,682         $1.00 - $13.06        $5.14
+        Granted during 2001                         1,370,950         $ .16 - $ 2.38        $ .78
+        Expired/Canceled during 2001               (1,685,470)        $ .66 - $12.00        $3.67
+        Exercised during 2001                               -         $ .00 - $  .00        $ .00
+                                                   ----------
+
+    Balance at September 29, 2001                   1,712,162         $ .16 - $13.06        $4.37
+        Granted during 2002                         1,468,500         $ .12 - $  .26        $ .12
+        Expired/Canceled during 2002                 (445,349)        $ .12 - $13.06        $4.75
+        Exercised during 2002                               -         $ .00 - $  .00        $ .00
+                                                   ----------
+
+    Balance at September 28, 2002                   2,735,313         $ .12 - $12.00        $2.03
+        Granted during 2003                           518,900         $ .09 - $  .30        $ .14
+        Expired/Canceled during 2003                 (255,591)        $ .09 - $10.00        $3.03
+        Exercised during 2003                          (5,000)        $ .12 - $  .12        $ .12
+                                                   ----------
+
+    Balance at September 27, 2003                   2,993,622         $ .09 - $12.00        $1.62
+</TABLE>
+
+Options considered fully vested as of September 27, 2003, September 28, 2002,
+and September 29, 2001, were 1,734,675, 970,749, and 912,767, respectively, at
+weighted average exercise prices of $2.51, $4.55, and $4.88, respectively. The
+following schedule summarizes the weighted-average remaining contractual life
+and weighted-average exercise price of options outstanding and options
+exercisable as of September 27, 2003.
+
+
+                                       36
+<PAGE>
+
+                                PHOTOWORKS, INC.
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+NOTE I -- STOCK-BASED COMPENSATION (Continued)
+
+<TABLE>
+<CAPTION>
+                                        Options Outstanding                       Options Exercisable
+                          ---------------------------------------------       ---------------------------
+                                             Remaining        Wtd. Avg.                         Wtd. Avg.
+Range of                    Options         Contractual       Exercise          Options         Exercise
+Exercise Prices           Outstanding       Life (Years)        Price         Exercisable         Price
+---------------           -----------       ------------        -----         -----------         -----
+<S>                       <C>                   <C>           <C>               <C>              <C>
+$  0.00 - $ 0.20          1,773,851             3.4           $   .13           685,959          $   .13
+$  0.21 - $  .50             10,400             4.2           $   .24             1,667          $   .24
+$  0.51 - $ 1.00            305,950             2.4           $   .70           207,706          $   .72
+$  1.01 - $ 2.00                  -             0.0           $   .00                 0          $   .00
+$  2.01 - $ 3.00             55,750             1.8           $  2.75            55,646          $  2.75
+$  3.01 - $ 4.00            449,421             0.9           $  3.30           419,921          $  3.30
+$  4.01 - $ 6.00            239,850             1.5           $  4.81           205,928          $  4.79
+$  6.01 - $ 8.00             58,400             1.4           $  6.90            57,848          $  6.91
+$  8.01 - $10.00                  -             0.0           $   .00                 0          $   .00
+$10.01 - $12.00             100,000             1.8           $ 12.00           100,000          $ 12.00
+                          ---------                                           ---------
+                          2,993,622             2.7           $  1.62         1,734,675          $  2.51
+</TABLE>
+
+The per share weighted average fair value of stock options granted during fiscal
+years 2003, 2002, and 2001 was $.12, $.10, and $.77 respectively.
+
+Subsequent to year-end, pursuant to an employment agreement with Mr. Philippe
+Sanchez, the Company's new President and CEO, the Company granted a stock option
+for 250,000 shares with an exercise price of $.01 and a stock option for 750,000
+shares at the fair market value on the date of grant.
+
+Employee Stock Purchase Plan
+
+The Company had an Employee Stock Purchase Plan under which substantially all
+employees had the option to purchase shares of the Company's Common Stock at
+six-month intervals at 85% of its fair market value on the first or last day of
+the six-month offering period, whichever is lower. Employees could elect to
+contribute up to 10% of their gross compensation during the purchase period. The
+Plan was discontinued effective October 1, 2001. During fiscal 2001, shares
+totaling 63,812 were issued under the Plan at an average price of $.31.
+
+NOTE J -- 401(K) RETIREMENT PLAN
+
+The Company maintains a 401(k) Plan for substantially all employees. For fiscal
+years, 2003, 2002 and 2001, the Company's contributions were based on matching a
+percentage of up to 4% of voluntary employee contributions, plus a discretionary
+profit sharing contribution determined by the Board of Directors. Beginning in
+fiscal year 2004, the Company will allocate matching or profit sharing
+contributions on a discretionary basis determined at the end of the fiscal year.
+No profit sharing contributions were made for fiscal 2003, 2002 or 2001. The
+Company's contributions totaled $259,000, $287,000, and $401,000 for fiscal
+years 2003, 2002 and 2001, respectively.
+
+
+                                       37
+<PAGE>
+
+                                PHOTOWORKS, INC.
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+NOTE K -- CONTINGENCIES
+
+Fuji Photo Film Co., Ltd - The Company was a defendant in a claim filed by Fuji
+Photo Film Co., Ltd. with the International Trade Commission. Fuji alleged that
+a number of companies, including the Company's OptiColor subsidiary, violated
+patents held by Fuji on single-use cameras by bringing recycled single-use
+cameras into the United States for resale. The ITC Commissioners issued a final
+order in June 1999 prohibiting PhotoWorks and its subsidiaries from importing
+and selling imported recycled single-use cameras. The Company appealed the ITC
+Commissioners' order to the Federal Circuit Court of Appeals and that Court
+issued a decision in November 2001, upholding the order against the Company.
+
+In July 2001, the ITC commenced enforcement and advisory opinion proceedings
+against the Company and several other respondents, based on a complaint filed by
+Fuji with the ITC. This complaint alleged that PhotoWorks infringed certain
+claims of six of Fuji's patents on single use cameras, through the importation
+and sale of certain newly manufactured reloadable cameras. The complaint
+requested that the ITC determine that, through these imports and sales, the
+Company violated the ITC's previous order. It also requested that the ITC bring
+an action in an appropriate U.S. District Court to seek an injunction and civil
+penalties for each day in which an importation or sale violating the order
+occurred in an amount up to the maximum provided by the governing statute. In
+May 2002, an Administrative Law Judge of the International Trade Commission
+issued an initial determination that the Company's reloadable camera infringed
+three patents owned by Fuji Photo Film Co., Ltd., for single-use cameras and
+recommended that the Commission assess a penalty of $1.6 million against the
+Company for such infringement.
+
+The Commission upheld the infringement determination and, in May 2003, upheld
+the penalty assessment of $1,600,000.
+
+In September 2003, the Company negotiated a settlement agreement with the ITC,
+whereby the Company gives up its appeal rights, to reduce the penalty by
+$600,000 to a total of $1,000,000. The settlement also included a payment
+schedule of $250,000 in each of the next four years beginning in July 2004. The
+Company accrued a penalty amount of $875,000 ($1,000,000 million penalty net of
+imputed interest of $125,000 at an estimated borrowing rate of 6%) in the fiscal
+2003 financial statements for this matter.
+
+There is a risk that Fuji could bring a civil action against the Company for
+damages for patent infringement by reason of sales of cameras that have been
+found in the ITC proceedings to infringe Fuji patents. If such a suit was filed
+against the Company, it could have a significantly harmful impact on its
+financial condition, results of operations and liquidity. The Company is unable
+to determine the probability or likelihood of such an action.
+
+Sharon Drinkard, et al vs. PhotoWorks, Inc. - A complaint was filed in March
+2000, alleging that the Company had engaged in unfair and deceptive practices by
+allegedly misrepresenting that film received from the Company, must be processed
+only by the Company and that replacement film is "free". Without admitting
+wrongdoing or liability, and for the sole purpose of compromising disputed
+claims and avoiding costs and risks of further litigation, PhotoWorks and the
+plaintiffs, who represented the Class, agreed to a settlement which was approved
+by the Court in July 2001. In fiscal 2001, the Company accrued a total of
+$675,000 related to the future distribution of 900,000 rolls of film pursuant to
+the terms of the final settlement. As of September 28, 2002, the Company had
+distributed approximately $675,000 of film fully discharging its liability under
+the settlement terms.
+
+
+                                       38
+<PAGE>
+
+                                PHOTOWORKS, INC.
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+NOTE K -- CONTINGENCIES (Continued)
+
+The Company and one if its service providers are in discussions relating to fees
+billed in connection with services provided. The negotiations are in an early
+stage and at this time, the Company cannot reasonably estimate the likelihood of
+realizing a reduction in amounts incurred. These amounts were accrued in the
+periods in which they were incurred. If the Company were successful in
+negotiating a reduction of the amounts, which could be significant, it would
+recognize reduced expenses in a future period.
+
+The Company is also involved in various routine legal proceedings in the
+ordinary course of its business.
+
+NOTE L -- SELECTED QUARTERLY FINANCIAL DATA (Unaudited)
+
+The Company's fiscal year consists of four 13-week quarters. The following table
+sets forth summary financial data for the Company by quarter for fiscal years
+2003 and 2002 (in thousands, except per share data).
+
+<TABLE>
+<CAPTION>
+                                                                      Quarters
+                                           ----------------------------------------------------------------
+                                             First            Second            Third             Fourth
+-----------------------------------------------------------------------------------------------------------
+<S>                                        <C>               <C>               <C>               <C>
+Fiscal 2003
+-----------
+Net revenues                               $ 8,353           $ 6,500           $ 6,987           $ 7,576
+Gross profit                                 1,875             1,023             2,048             2,341
+ITC penalty                                     --                --            (1,600)              725
+Pretax income (loss)                        (1,050)           (1,555)           (2,180)              618
+Tax benefit (provision)                         --               107               (25)               10
+Net income (loss)                           (1,050)           (1,448)           (2,205)              628
+Basic earnings (loss) per share               (.06)             (.09)             (.13)              .04
+Diluted earnings (loss) per share             (.06)             (.09)             (.13)              .04
+
+<CAPTION>
+                                             First            Second            Third             Fourth
+-----------------------------------------------------------------------------------------------------------
+                                                                      Quarters
+                                           ----------------------------------------------------------------
+<S>                                        <C>               <C>               <C>               <C>
+Fiscal 2002
+-----------
+Net revenues                               $11,063           $ 9,269           $10,514           $11,247
+Gross profit                                 2,573             1,834             2,857             3,210
+Pretax loss                                   (167)             (917)             (925)              (83)
+Tax benefit                                     --             3,758               484             1,431
+Net income (loss)                             (167)            2,841              (441)            1,348
+Basic earnings (loss) per share               (.01)              .17              (.03)              .08
+Diluted earnings (loss) per share             (.01)              .17              (.03)              .08
+</TABLE>
+
+The significant tax benefits recognized in the second, third and fourth quarters
+of fiscal 2002 result from benefits of loss carrybacks under the "Job Creation
+and Workers Assistance Act" and the utilization of net operating loss
+carryforwards to the extent they are no longer restricted under IRC Section 382.
+
+The sum of quarterly loss per share may not necessarily equal the loss per share
+reported for the entire year since the weighted average shares outstanding used
+in the loss per share computation changes throughout the year.
+
+
+                                       39
+<PAGE>
+
+ITEM 9 - CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+FINANCIAL DISCLOSURE
+
+      None.
+
+ITEM 9A - CONTROLS AND PROCEDURES
+
+      See Item 7 of Part II--"Management's Discussion and Analysis of Financial
+Condition and Results of Operations."
+
+                                    PART III
+
+ITEMS 10, 11, 12, 13 AND 14
+
+      The information called for by Part III (Items 10, 11,12,13 and 14) is
+included in the Company's Proxy Statement relating to the Company's annual
+meeting of shareholders to be held on February 3, 2004, and is incorporated
+herein by reference. Such Proxy Statement will be filed within 120 days of the
+Company's last fiscal year-end, September 27, 2003. Information with respect to
+the Company's executive officers appears under "Executive Officers of the
+Company" in Item 1 of Part I above.
+
+      We have adopted the PhotoWorks Finance Code of Professional Conduct (the
+code of ethics for senior financial officers), a code of ethics that applies to
+our Chief Executive Officer, Chief Accounting Officer and Controller. The
+finance code of ethics is filed as an exhibit to the Form 10-K for September 27,
+2003.
+
+                                     PART IV
+
+ITEM 15 -- EXHIBITS, FINANCIAL STATEMENT SCHEDULES, AND REPORTS ON FORM 8-K
+
+a. Index to Consolidated Financial Statements and Consolidated Financial
+Statement Schedules
+
+<TABLE>
+<CAPTION>
+(1)    Consolidated Financial Statements                                                              Page
+<S>                                                                                                    <C>
+       Report of Ernst & Young LLP, Independent Auditors                                               23
+
+       Consolidated Balance Sheets as of September 27, 2003 and September 28, 2002                     24
+
+       Consolidated Statements of Operations for the years ended September 27, 2003,
+       September 28, 2002, and September 29, 2001                                                      25
+
+       Consolidated Statements of Shareholders' Equity for the years ended
+       September 27, 2003, September 28, 2002, and September 29, 2001                                  26
+
+       Consolidated Statements of Cash Flows for the years ended September 27, 2003,
+       September 28, 2002, and September 29, 2001                                                      27
+
+       Notes to Consolidated Financial Statements                                                     28-39
+</TABLE>
+
+
+                                       40
+<PAGE>
+
+      Supplemental Consolidated Financial Statement Schedule. The following
+additional information should be read in conjunction with the Consolidated
+Financial Statements of the Company included in Part II, Item 8.
+
+(2)   Schedule Page
+
+      II - Valuation and Qualifying Accounts 44
+
+      All other schedules have been omitted because the required information is
+included in the consolidated financial statements or the notes thereto, or is
+not applicable or required.
+
+b. Reports on Form 8-K
+
+      Form 8-K dated September 26, 2003 - Item 5 - Other Events related to
+reduction and settlement of the International Trade Commission penalty.
+
+c. Exhibits
+
+Exhibit
+Number            Exhibit Description
+------            -------------------
+
+3.1               Bylaws of the Company, as amended and restated on November 13,
+                  1996. (Incorporated by reference to Exhibit 3.2 filed with the
+                  Company's Annual Report on Form 10-K for the year ended
+                  September 28, 1996.)
+
+3.2               Articles of Amendment to Articles of Incorporation of
+                  PhotoWorks, Inc. dated February 9, 2000. (Incorporated by
+                  reference to Exhibit 3.1 filed with the Company's Form 8-K
+                  filed February 16, 2000.)
+
+3.3               Articles of Amendment to Articles of Incorporation of
+                  PhotoWorks, Inc. dated April 24, 2001. (Incorporated by
+                  reference to Exhibit 3.1 filed with the Company's 8-K filed
+                  April 27, 2001.)
+
+3.4               Articles of Correction to Articles of Incorporation of
+                  PhotoWorks, Inc dated April 25, 2001. (Incorporated by
+                  reference to Exhibit 3.2 filed with the Company's 8-K filed
+                  April 27, 2001.)
+
+3.5               Form of Certificate of Designation Preferences and Rights of
+                  Series RP Preferred Stock (Incorporated by reference to
+                  Exhibit 3.4 to the Company's Annual Report on Form 10-K for
+                  the year ended September 25, 1999).
+
+4.1               Rights Agreement dated December 16, 1999 between the
+                  Registrant and Chase Mellon Shareholder Services L.L.C., as
+                  Rights Agent (Incorporated by reference to Exhibit 4.1 to the
+                  current report on Form 8-K filed with the Commission on
+                  December 17, 1999.)
+
+10.1              Lease Agreement dated September 10, 1985 between Gilbert
+                  Scherer and Marlyn Friedlander, Lessors, and the Company with
+                  respect to certain office and plant facilities in Seattle,
+                  Washington. (Incorporated by reference to the exhibit with a
+                  corresponding number filed with the Company's registration
+                  statement on Form S-1 (file no. 33-4388)
+
+10.2              First Amendment to Facility Lease Agreement dated April 29,
+                  1989, with Gilbert Scherer and Marlyn Friedlander, Lessors.
+                  (Incorporated by reference to Exhibit 10.48 filed with the
+                  Company's Annual Report on Form 10-K for the year ended
+                  September 30, 1989.)
+
+10.3              Second Amendment to Facility Lease Agreement dated November 2,
+                  1998, with Gilbert Scherer and Marlyn Friedlander, Lessors.
+                  (Incorporated by reference to Exhibit 10.3 filed with the
+                  Company's Annual Report on Form 10-K for the year ended
+                  September 26, 1998.)
+
+
+                                       41
+<PAGE>
+
+10.4              Consent to Sublease dated September 30, 1996, between Gilbert
+                  Scherer and Marlyn Friedlander and Seattle FilmWorks, Inc.
+                  (Incorporated by reference to Exhibit 10.3 filed with the
+                  Company's Annual Report on Form 10-K for the year ended
+                  September 28, 1996.)
+
+10.5              Incentive Stock Option Plan, as amended and restated as of
+                  April 1, 1996. (Incorporated by reference to Exhibit 10.1
+                  filed with the Company's Quarterly Report on Form 10-Q for the
+                  quarter ended June 29, 1996.)
+
+10.6              Form of Incentive Stock Option Agreement. (Incorporated by
+                  reference to Exhibit 10.2 filed with the Company's
+                  Registration Statement on Form S-8, file no. 33-24107.)
+
+10.7              1987 Stock Option Plan, as amended and restated as of April 1,
+                  1996. (Incorporated by reference to Exhibit 10.2 filed with
+                  the Company's Quarterly Report on Form 10-Q for the quarter
+                  ended June 29, 1996.)
+
+10.8              Form of Stock Option Agreement. (Incorporated by reference to
+                  Exhibit 10.4 filed with the Company's Registration Statement
+                  on Form S-8, file no. 33-24107.)
+
+10.9              1993 Employee Stock Purchase Plan as amended and restated as
+                  of May 31, 1995. (Incorporated by reference to Exhibit 10.58
+                  filed with the Company's Annual Report on Form 10-K for the
+                  year ended September 30, 1995.)
+
+10.10             1999 Employee Stock Option Plan dated October 20, 1999.
+                  (Incorporated by reference to Exhibit 10.10 filed with the
+                  Company's Annual Report on Form 10-K for the year ended
+                  September 25, 1999.)
+
+10.11             PhotoWorks, Inc. 1999 Stock Incentive Compensation Plan
+                  (Incorporated by reference to Form S-8 Filing dated May 24,
+                  2000, File # 333-37698.)
+
+10.12             PhotoWorks, Inc. 1999 Stock Incentive Compensation Plan as
+                  amended and PhotoWorks, Inc. Individual Nonqualified Option
+                  Agreements. (Incorporated by reference to the Form S-8 filing
+                  dated May 16, 2001, File #333-61048.)
+
+10.13             PhotoWorks, Inc. 1999 Stock Incentive Compensation Plan as
+                  amended. (Incorporated by reference to the Form S-8 filing
+                  dated April 4, 2003, File #333-104308.)
+
+10.14             Loan and Security Agreement, Form of Warrant with Comerica
+                  Bank. (Incorporated by reference to Exhibit 10.2 filed with
+                  the Company's Quarterly Report on Form 10-Q for the quarter
+                  ended December 30, 2000.)
+
+10.15             First Amendment to Loan and Security Agreement, Form of
+                  Warrant with Comerica Bank (formerly Imperial Bank) dated July
+                  23, 2001. (Incorporated by reference to Exhibit 10.18 filed
+                  with the Company's Annual Report on Form 10-K for the year
+                  ended September 29. 2001.)
+
+10.16             Second Amendment to Loan and Security Agreement, Form of
+                  Warrant with Comerica Bank dated October 11, 2001.
+                  (Incorporated by reference to Exhibit 10.19 filed with the
+                  Company's Annual Report on Form 10-K for the year ended
+                  September 29, 2001.)
+
+10.17             Third Amendment to Loan & Security Agreement dated January 3,
+                  2002 with Comerica Bank, Inc. (Incorporated by reference to
+                  Exhibit 10.1 filed with the Company's Quarterly Report on Form
+                  10-Q for the quarter ended December 29, 2001.)
+
+10.18             Fourth Amendment to Loan and Security Agreement with Comerica
+                  Bank, Inc. (Incorporated by reference to Exhibit 10.1 filed
+                  with the Company Quarterly Report on Form 10-Q for the quarter
+                  ended June 29, 2002.)
+
+
+                                       42
+<PAGE>
+
+10.19             Lease agreement dated March 4, 1997 between Smith Cove
+                  Partnership and the Company. (Incorporated by reference to
+                  Exhibit 10.3 filed with the Company's Quarterly Report on Form
+                  10-Q for the quarter ended March 29, 1997.)
+
+10.20             Second amendment to lease agreement dated June 14, 2000
+                  between Smith Cove Partnership and the Company. (Incorporated
+                  by reference to Exhibit 10.23 filed with Company's Annual
+                  Report on Form 10-K for the year ended September 30, 2000.)
+
+10.21*            Eastman Kodak Supply Agreement effective November 1, 2000.
+                  (Incorporated by reference to Exhibit 10.1 filed with the
+                  Company's Quarterly Report on Form 10-Q for the quarter ended
+                  December 30, 2000.)
+
+10.22             Change in Control Agreement with Michael F. Lass and Loran
+                  Cashmore Bond dated April 25, 2001. (Incorporated by reference
+                  to Exhibit 10.33 filed with the Company's Annual Report on
+                  Form 10-K for the year ended September 29, 2001.)
+
+10.23             Employment and Severance and Release with Gary. R.
+                  Christophersen dated June 13, 2003. (Incorporated by reference
+                  to Exhibit 10.1 filed with the Company's Quarterly Report on
+                  Form 10-Q for the quarter ended June 28, 2003.)
+
+10.24**           Employment and Separation Agreement and Release with Mickey
+                  Lass dated September 23, 2003.
+
+10.25**           Employment and Separation Agreement and Release with Loran
+                  Cashmore Bond dated September 23, 2003.
+
+10.26**           Employment Agreement with Philippe Sanchez dated October 3,
+                  2003.
+
+21**              PhotoWorks, Inc. Subsidiaries
+
+23**              Consent of Ernst & Young LLP, Independent Auditors
+
+31.1**            Certification of Chief Executive Officer pursuant to Rule
+                  13a-14 of the Securities Exchange Act of 1934 as adopted
+                  pursuant to Section 302 of the Sarbannes-Oxley Act of 2002
+
+31.2**            Certification of Chief Accounting Officer pursuant to Rule
+                  13a-14 of the Securities Exchange Act of 1934 as adopted
+                  pursuant to Section 302 of the Sarbannes-Oxley Act of 2002
+
+32**              Certification of Principal Executive Officers pursuant to 18
+                  U.S.C. Section 1350, as adopted pursuant to Section 906 of the
+                  Sarbannes-Oxley Act of 2002 Sarbanes-Oxley Act of 2002
+
+99**              Code of Ethics for Senior Financial Officers
+
+*     Exhibit for which confidential treatment has been granted.
+**    Filed herewith.
+
+
+                                       43
+<PAGE>
+
+                                PHOTOWORKS, INC.
+
+                                   SCHEDULE II
+
+                        VALUATION AND QUALIFYING ACCOUNTS
+                                 (in thousands)
+
+<TABLE>
+<CAPTION>
+                                                                    Additions
+                                                      --------------------------------
+
+                                         Balance at   Charged (Credited)    Charged to                         Balance
+                                         Beginning       to Costs and          Other                           at End
+Description                               of Year          Expenses          Accounts        Deductions       of Period
+-----------------------------------------------------------------------------------------------------------------------
+<S>                                         <C>              <C>               <C>              <C>              <C>
+FOR THE YEAR ENDED
+SEPTEMBER 29, 2001
+
+Allowance for doubtful accounts             $ 79             $  0              $  0             $ 34             $ 45
+
+FOR THE YEAR ENDED
+SEPTEMBER 28, 2002
+
+Allowance for doubtful accounts             $ 45             $(12)             $  0             $  5             $ 28
+
+FOR THE YEAR ENDED
+SEPTEMBER 27, 2003
+
+Allowance for doubtful accounts             $ 28             $ 32              $  0             $  4             $ 56
+</TABLE>
+
+
+                                       44
+<PAGE>
+
+                                   SIGNATURES
+
+Pursuant to the requirements of Section 13 or 15 (d) of the Securities Exchange
+Act of 1934, the Registrant has duly caused this report to be signed on its
+behalf by the undersigned, thereunto duly authorized.
+
+                                                    PHOTOWORKS, INC.
+                                                      (REGISTRANT)
+
+
+DATED: December 22, 2003                        By: /s/ Philippe Sanchez
+                                                    --------------------
+                                                    Philippe Sanchez
+                                          President and Chief Executive Officer
+                                              (Principal Executive Officer)
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report
+has been signed below by the following persons on behalf of the Registrant and
+in the capacities and on the dates indicated.
+
+<TABLE>
+<CAPTION>
+NAME                                        TITLE                              DATE
+<S>                                         <C>                                <C>
+By: /s/ Philippe Sanchez                    President and                      December 22, 2003
+    -----------------------------           Chief Executive Officer
+    Philippe Sanchez                        Director
+                                            (Principal Executive Officer)
+
+
+By: /s/ Gary R. Christophersen              Chairman and Director              December 22, 2003
+    -----------------------------
+    Gary R. Christophersen
+
+
+By: /s/ Ross K. Chapin                      Director                           December 22, 2003
+    -----------------------------
+    Ross K. Chapin
+
+
+By: /s/ Paul B. Goodrich                    Director                           December 22, 2003
+    -----------------------------
+    Paul B. Goodrich
+
+
+By: /s/ Matthew A. Kursh                    Director                           December 22, 2003
+    -----------------------------
+    Matthew A. Kursh
+
+
+By: /s/ Douglas A. Swerland                 Director                           December 22, 2003
+    -----------------------------
+    Douglas A. Swerland
+
+
+By: /s/ Douglas M. Rowan                    Director                           December 22, 2003
+    -----------------------------
+    Douglas M. Rowan
+
+
+By: /s/ Loran Cashmore Bond                 Chief Accounting Officer           December 22, 2003
+    -----------------------------
+    Loran Cashmore Bond
+</TABLE>
+
+
+                                       45
+<PAGE>
+
+                                  EXHIBIT INDEX
+
+                           Annual Report on Form 10-K
+                      For The Year Ended September 27, 2003
+
+Exhibit
+Number            Exhibit Description
+------            -------------------
+
+3.1               Bylaws of the Company, as amended and restated on November 13,
+                  1996. (Incorporated by reference to Exhibit 3.2 filed with the
+                  Company's Annual Report on Form 10-K for the year ended
+                  September 28, 1996.)
+
+3.2               Articles of Amendment to Articles of Incorporation of
+                  PhotoWorks, Inc. dated February 9, 2000. (Incorporated by
+                  reference to Exhibit 3.1 filed with the Company's Form 8-K
+                  filed February 16, 2000.)
+
+3.3               Articles of Amendment to Articles of Incorporation of
+                  PhotoWorks, Inc. dated April 24, 2001. (Incorporated by
+                  reference to Exhibit 3.1 filed with the Company's 8-K filed
+                  April 27, 2001.)
+
+3.4               Articles of Correction to Articles of Incorporation of
+                  PhotoWorks, Inc dated April 25, 2001. (Incorporated by
+                  reference to Exhibit 3.2 filed with the Company's 8-K filed
+                  April 27, 2001.)
+
+3.5               Form of Certificate of Designation Preferences and Rights of
+                  Series RP Preferred Stock (Incorporated by reference to
+                  Exhibit 3.4 to the Company's Annual Report on Form 10-K for
+                  the year ended September 25, 1999).
+
+4.1               Rights Agreement dated December 16, 1999 between the
+                  Registrant and Chase Mellon Shareholder Services L.L.C., as
+                  Rights Agent (Incorporated by reference to Exhibit 4.1 to the
+                  current report on Form 8-K filed with the Commission on
+                  December 17, 1999.)
+
+10.1              Lease Agreement dated September 10, 1985 between Gilbert
+                  Scherer and Marlyn Friedlander, Lessors, and the Company with
+                  respect to certain office and plant facilities in Seattle,
+                  Washington. (Incorporated by reference to the exhibit with a
+                  corresponding number filed with the Company's registration
+                  statement on Form S-1 (file no. 33-4388)
+
+10.2              First Amendment to Facility Lease Agreement dated April 29,
+                  1989, with Gilbert Scherer and Marlyn Friedlander, Lessors.
+                  (Incorporated by reference to Exhibit 10.48 filed with the
+                  Company's Annual Report on Form 10-K for the year ended
+                  September 30, 1989.)
+
+10.3              Second Amendment to Facility Lease Agreement dated November 2,
+                  1998, with Gilbert Scherer and Marlyn Friedlander, Lessors.
+                  (Incorporated by reference to Exhibit 10.3 filed with the
+                  Company's Annual Report on Form 10-K for the year ended
+                  September 26, 1998.)
+
+10.4              Consent to Sublease dated September 30, 1996, between Gilbert
+                  Scherer and Marlyn Friedlander and Seattle FilmWorks, Inc.
+                  (Incorporated by reference to Exhibit 10.3 filed with the
+                  Company's Annual Report on Form 10-K for the year ended
+                  September 28, 1996.)
+
+10.5              Incentive Stock Option Plan, as amended and restated as of
+                  April 1, 1996. (Incorporated by reference to Exhibit 10.1
+                  filed with the Company's Quarterly Report on Form 10-Q for the
+                  quarter ended June 29, 1996.)
+
+10.6              Form of Incentive Stock Option Agreement. (Incorporated by
+                  reference to Exhibit 10.2 filed with the Company's
+                  Registration Statement on Form S-8, file no. 33-24107.)
+
+
+                                       46
+<PAGE>
+
+10.7              1987 Stock Option Plan, as amended and restated as of April 1,
+                  1996. (Incorporated by reference to Exhibit 10.2 filed with
+                  the Company's Quarterly Report on Form 10-Q for the quarter
+                  ended June 29, 1996.)
+
+10.8              Form of Stock Option Agreement. (Incorporated by reference to
+                  Exhibit 10.4 filed with the Company's Registration Statement
+                  on Form S-8, file no. 33-24107.)
+
+10.9              1993 Employee Stock Purchase Plan as amended and restated as
+                  of May 31, 1995. (Incorporated by reference to Exhibit 10.58
+                  filed with the Company's Annual Report on Form 10-K for the
+                  year ended September 30, 1995.)
+
+10.10             1999 Employee Stock Option Plan dated October 20, 1999.
+                  (Incorporated by reference to Exhibit 10.10 filed with the
+                  Company's Annual Report on Form 10-K for the year ended
+                  September 25, 1999.)
+
+10.11             PhotoWorks, Inc. 1999 Stock Incentive Compensation Plan
+                  (Incorporated by reference to Form S-8 Filing dated May 24,
+                  2000, File # 333-37698.)
+
+10.12             PhotoWorks, Inc. 1999 Stock Incentive Compensation Plan as
+                  amended and PhotoWorks, Inc. Individual Nonqualified Option
+                  Agreements. (Incorporated by reference to the Form S-8 filing
+                  dated May 16, 2001, File #333-61048.)
+
+10.13             PhotoWorks, Inc. 1999 Stock Incentive Compensation Plan as
+                  amended. (Incorporated by reference to the Form S-8 filing
+                  dated April 4, 2003, File #333-104308.)
+
+10.14             Loan and Security Agreement, Form of Warrant with Comerica
+                  Bank. (Incorporated by reference to Exhibit 10.2 filed with
+                  the Company's Quarterly Report on Form 10-Q for the quarter
+                  ended December 30, 2000.)
+
+10.15             First Amendment to Loan and Security Agreement, Form of
+                  Warrant with Comerica Bank (formerly Imperial Bank) dated July
+                  23, 2001. (Incorporated by reference to Exhibit 10.18 filed
+                  with the Company's Annual Report on Form 10-K for the year
+                  ended September 29. 2001.)
+
+10.16             Second Amendment to Loan and Security Agreement, Form of
+                  Warrant with Comerica Bank dated October 11, 2001.
+                  (Incorporated by reference to Exhibit 10.19 filed with the
+                  Company's Annual Report on Form 10-K for the year ended
+                  September 29, 2001.)
+
+10.17             Third Amendment to Loan & Security Agreement dated January 3,
+                  2002 with Comerica Bank, Inc. (Incorporated by reference to
+                  Exhibit 10.1 filed with the Company's Quarterly Report on Form
+                  10-Q for the quarter ended December 29, 2001.)
+
+10.18             Fourth Amendment to Loan and Security Agreement with Comerica
+                  Bank, Inc. (Incorporated by reference to Exhibit 10.1 filed
+                  with the Company Quarterly Report on Form 10-Q for the quarter
+                  ended June 29, 2002.)
+
+10.19             Lease agreement dated March 4, 1997 between Smith Cove
+                  Partnership and the Company. (Incorporated by reference to
+                  Exhibit 10.3 filed with the Company's Quarterly Report on Form
+                  10-Q for the quarter ended March 29, 1997.)
+
+10.20             Second amendment to lease agreement dated June 14, 2000
+                  between Smith Cove Partnership and the Company. (Incorporated
+                  by reference to Exhibit 10.23 filed with Company's Annual
+                  Report on Form 10-K for the year ended September 30, 2000.)
+
+10.21*            Eastman Kodak Supply Agreement effective November 1, 2000.
+                  (Incorporated by reference to Exhibit 10.1 filed with the
+                  Company's Quarterly Report on Form 10-Q for the quarter ended
+                  December 30, 2000.)
+
+
+                                       47
+<PAGE>
+
+10.22             Change in Control Agreement with Michael F. Lass and Loran
+                  Cashmore Bond dated April 25, 2001. (Incorporated by reference
+                  to Exhibit 10.33 filed with the Company's Annual Report on
+                  Form 10-K for the year ended September 29, 2001.)
+
+10.23             Employment and Severance and Release with Gary. R.
+                  Christophersen dated June 13, 2003. (Incorporated by reference
+                  to Exhibit 10.1 filed with the Company's Quarterly Report on
+                  Form 10-Q for the quarter ended June 28, 2003.)
+
+10.24**           Employment and Separation Agreement and Release with Mickey
+                  Lass dated September 23, 2003.
+
+10.25**           Employment and Separation Agreement and Release with Loran
+                  Cashmore Bond dated September 23, 2003.
+
+10.26**           Employment Agreement with Philippe Sanchez dated October 3,
+                  2003.
+
+21**              PhotoWorks, Inc. Subsidiaries
+
+23**              Consent of Ernst & Young LLP, Independent Auditors
+
+31.1**            Certification of Chief Executive Officer pursuant to Rule
+                  13a-14 of the Securities Exchange Act of 1934 as adopted
+                  pursuant to Section 302 of the Sarbannes-Oxley Act of 2002
+
+31.2**            Certification of Chief Accounting Officer pursuant to Rule
+                  13a-14 of the Securities Exchange Act of 1934 as adopted
+                  pursuant to Section 302 of the Sarbannes-Oxley Act of 2002
+
+32**              Certification of Principal Executive Officers pursuant to 18
+                  U.S.C. Section 1350, as adopted pursuant to Section 906 of the
+                  Sarbannes-Oxley Act of 2002 Sarbanes-Oxley Act of 2002
+
+99**              Code of Ethics for Senior Financial Officers
+
+*     Exhibit for which confidential treatment has been granted.
+**    Filed herewith.
+
+
+                                       48
+
+</TEXT>
+</DOCUMENT>

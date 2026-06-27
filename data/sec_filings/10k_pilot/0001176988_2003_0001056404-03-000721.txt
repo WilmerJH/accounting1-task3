@@ -1,0 +1,527 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>bst02006.txt
+<TEXT>
+
+                                    UNITED STATES
+                         SECURITIES AND EXCHANGE COMMISSION
+                               WASHINGTON, D.C. 20549
+
+
+
+                                      FORM 10-K
+
+
+  (Mark one)
+
+  /X/ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+      EXCHANGE ACT OF 1934
+      For the fiscal year ended December 31, 2002
+
+      OR
+
+
+
+  / / TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+      EXCHANGE ACT OF 1934
+
+
+      Commission File Number:  333-68542-07
+
+
+        Bear Stearns ARM Trust
+        Mortgage Pass-Through Certificates
+        Series 2002-6 Trust
+
+       (Exact name of registrant as specified in its charter)
+
+
+
+   New York                                       52-2365549
+                                                  52-2365550
+  (State or other jurisdiction of                 (I.R.S. Employer
+  incorporation or organization)                  Identification No.)
+
+   c/o Wells Fargo Bank Minnesota, N.A.
+   9062 Old Annapolis Road
+   Columbia, MD                                21045
+  (Address of principal executive offices)     (Zip Code)
+
+
+  Registrant's telephone number, including area code: (410) 884-2000
+
+
+  Securities registered pursuant to Section 12(b) of the Act:
+
+       NONE.
+
+
+
+  Securities registered pursuant to Section 12(g) of the Act:
+
+       NONE.
+
+
+
+  Indicate by check mark whether the registrant (1) has filed all reports
+  required to be filed by Section 13 or 15(d) of the Securities Exchange
+  Act of 1934 during the preceding 12 months (or for such shorter period
+  that the registrant was required to file such reports), and (2) has been
+  subject to such filing requirements for the past 90 days.
+
+      Yes  X       No ___
+
+
+
+
+
+
+
+  Indicate by check mark if disclosure of delinquent filers pursuant to
+  Item 405 of Regulation S-K ( 229.405 of this chapter) is not contained
+  herein, and will not be contained, to the best of registrant's knowledge,
+  in definitive proxy or information statements incorporated by reference
+  in Part III of this Form 10-K or any amendment to this Form 10-K.
+
+         Not applicable.
+
+
+
+
+
+
+  State the aggregate market value of the voting and non-voting common
+  equity held by non-affiliates of the registrant. The aggregate market
+  value shall be computed by reference to the price at which the common
+  equity was sold, or the average bid and asked prices of such common
+  equity, as of a specified date within 60 days prior to the date of
+  filing. (See definition of affiliate in Rule 405, 17 CFR 230.405.)
+
+         Not applicable.
+
+
+
+
+
+
+
+
+  Indicate the number of shares outstanding of each of the registrant's
+  classes of common stock, as of the latest practicable date.
+
+         Not applicable.
+
+
+
+  List hereunder the following documents if incorporated by reference and
+  the Part of the Form 10-K (e.g. Part I, Part II, etc..) into which the
+  document is incorporated: (1)Any annual report to security holders; (2)
+  Any proxy or information statement; and (3)Any prospectus filed pursuant
+  to Rule 424(b) or (c) under the Securities Act of 1933. The listed
+  documents should be clearly described for identification purposes (e.g.
+  annual report to security holders for fiscal year ended December 24, 1980).
+
+         Not applicable.
+
+
+
+
+
+
+
+
+
+
+                                 PART I
+
+  Item 1.  Business.
+
+            Omitted.
+
+  Item 2.  Properties.
+
+            See Item 14(a), Exhibits 99.1, 99.2, and 99.3, for information
+            provided in lieu of information required by Item 102 of
+            Regulation S-K.
+
+
+
+  Item 3.  Legal Proceedings.
+
+            The registrant knows of no material pending legal proceedings
+            involving the trusts created under the Pooling and Servicing
+            Agreement (the Trusts), the Trustee, the Servicer or the
+            registrant with respect to the Trusts other than routine
+            litigation incidental to the duties of the respective parties.
+
+
+
+
+
+  Item 4.  Submission of Matters to a Vote of Security Holders.
+
+
+            None.
+
+                               PART II
+
+
+  Item 5.  Market for registrant's Common Equity and Related Stockholder
+           Matters.
+
+
+            No established public trading market for the Certificates exists.
+
+            Records provided to the Trust by the DTC and the Trustee
+            indicate that as of December 31, 2002, the number of holders of
+            record for each class of Certificate were as follows:
+
+
+             Class A-1                         1
+             Class A-2                        13
+             Class A-3                         1
+             Class B-1                         1
+             Class B-2                         1
+             Class B-3                         1
+             Class B-4                         1
+             Class B-5                         1
+             Class B-6                         1
+             Class R-1                         1
+             Class R-2                         1
+             Class X                           1
+
+             Total:                           24
+
+
+  Item 6.  Selected Financial Data.
+
+            Omitted.
+
+
+  Item 7.  Management's Discussion and Analysis of Financial Condition
+           and Results of Operation.
+
+            Omitted.
+
+
+  Item 7A. Quantitative and Qualitative Disclosures about Market Risk.
+
+            Not applicable.
+
+  Item 8.  Financial Statements and Supplementary Data.
+
+            See Item 14(a), Exhibits 99.1, 99.2, 99.3, for information
+            provided in lieu of information required by Item 302 of
+            Regulation S-K.
+
+
+
+
+  Item 9.  Changes in and Disagreements with Accountants on Accounting and
+           Financial Disclosure.
+
+            None.
+
+
+                               PART III
+
+
+  Item 10. Directors and Executive Officers of the Registrant.
+
+            Not applicable.
+
+
+  Item 11. Executive Compensation.
+
+            Not applicable.
+
+
+  Item 12. Security Ownership of Certain Beneficial Owners and Management.
+
+            Not applicable.
+
+
+  Item 13. Certain Relationships and Related Transactions.
+
+            Not applicable.
+
+
+  Item 14. Controls and Procedures.
+
+            Not applicable.
+
+                               PART IV
+
+
+  Item 15. Exhibits, Financial Statement Schedules, and Reports on Form 8-K.
+
+   (a) Exhibits
+
+    (99.1) Annual Independent Accountants' Servicing Reports concerning
+           servicing activities for the year ended December 31, 2002.
+
+       <TABLE>
+
+       <s>        <c>
+       a) HSBC Bank, USA, as Servicer <F1>
+       </TABLE>
+
+    (99.2) Report of Management as to Compliance with Minimum Servicing
+           Standards for the year ended December 31, 2002.
+
+       <TABLE>
+
+       <s>        <c>
+       a) HSBC Bank, USA, as Servicer <F1>
+       </TABLE>
+
+    (99.3) Annual Statements of Compliance under the Pooling and Servicing
+           Agreements for the year ended December 31, 2002.
+
+       <TABLE>
+
+       <s>         <c>
+       a) HSBC Bank, USA, as Servicer <F1>
+       </TABLE>
+
+
+    (99.4) Aggregate Statement of Principal and Interest Distributions to
+           Certificate Holders.
+
+
+   (b)  On November 06, 2002, December 09, 2002, and January 09, 2003
+        reports on Form 8-K were filed by the Company in order to provide
+        the statements for the monthly distributions to holders of the
+        Certificates. No other reports on Form 8-K have been filed during
+        the last quarter of the period covered by this report.
+
+
+   (c) Not applicable.
+
+
+   (d) Omitted.
+
+
+
+
+  <F1> Filed herewith.
+
+
+
+
+                               SIGNATURES
+
+
+  Pursuant to the requirements of Section 13 or 15(d) of the Securities
+  Exchange Act of 1934, the registrant has duly caused this report to be
+  signed on its behalf by the undersigned, thereunto duly authorized:
+
+
+
+    Bear Stearns ARM Trust
+    Mortgage Pass-Through Certificates
+    Series 2002-6 Trust
+    (Registrant)
+
+
+
+  Signed:  Structured Asset Mortgage Investments Inc. as Seller
+
+
+  By:   Jeffrey Mayer, President
+
+  By: /s/  Jeffrey Mayer
+
+  Dated: April 14, 2003
+
+
+
+
+Sarbanes-Oxley Certification
+
+I, Jeffrey Mayer, certify that:
+
+
+1.   I have reviewed this annual report on Form 10-K, and all reports on Form
+     8-K containing distribution or servicing reports filed in respect of
+     periods included in the year covered by this annual report, of Bear
+     Stearns ARM Trust Mortgage Pass-Through Certificates Series 2002-6 Trust;
+
+2.   Based on my knowledge, the information in these reports, taken as a whole,
+     does not contain any untrue statement of a material fact or omit to state a
+     material fact necessary to make the statements made, in light of the
+     circumstances under which such statements were made, not misleading as of
+     the last day of the period covered by this annual report;
+
+3.   Based on my knowledge, the distribution or servicing information required
+     to be provided to the trustee by the servicer under the pooling and
+     servicing, or similar, agreement, for inclusion in these reports is
+     included in these reports;
+
+4.   Based on my knowledge and upon the annual compliance statement
+     included in the report and required to be delivered to the
+     trustee in accordance with the terms of the pooling and
+     servicing, or similar, agreement, and except as disclosed
+     in the reports, the servicer has fulfilled its obligations
+     under the servicing agreement; and
+
+5.   The reports disclose all significant deficiencies relating to the
+     servicer's compliance with the minimum servicing standards based upon the
+     report provided by an independent public accountant, after conducting a
+     review in compliance with the Uniform Single Attestation Program for
+     Mortgage Bankers or similar procedure, as set forth in the pooling and
+     servicing, or similar, agreement, that is included in these reports.
+
+     In giving the certifications above, I have reasonably relied on
+     information provided to me by the following unaffiliated parties: HSBC
+     Bank, USA, as Servicer and Wells Fargo Bank Minnesota, N.A as Trustee.
+
+
+      Date: April 14, 203
+
+
+      Jeffrey Mayer
+      Signature
+
+
+      President
+      Title
+
+
+
+
+  SUPPLEMENTAL INFORMATION TO BE FURNISHED WITH REPORTS FILED PURSUANT TO
+  SECTION 15(d) OF THE ACT BY REGISTRANTS WHICH HAVE NOT REGISTERED
+  SECURITIES PURSUANT TO SECTION 12 OF THE ACT.
+
+
+
+  (a)(i) No annual report is provided to the Certificateholders other than
+  with respect to aggregate principal and interest distributions.
+
+
+  (a)(ii) No proxy statement, form of proxy or other proxy soliciting
+  material has been sent to any Certificateholder with respect to any
+  annual or other meeting of Certificateholders.
+
+
+
+Ex-99.1 (a)
+KPMG (logo)
+
+12 Fountain Plaza, Suite 601
+Buffalo, NY 14202
+
+Independent Accountants' Report
+
+The Board of Directors
+HSBC Mortgage Corporation (USA):
+
+We have examined management's assertion, included in the accompanying
+Management Assertion, that HSBC Mortgage Corporation (USA) complied in all
+material respects with the minimum servicing standards set forth in the Mortgage
+Bankers Association of America's Uniform Single Attestation Program for Mortgage
+Bankers (USAP) as of and for the year ended December 31, 2002.  Management is
+responsible for HSBC Mortgage Corporation (USA)'s compliance with those minimum
+servicing standards.  Our responsibility is to express an opinion on
+management's assertion about the Company's compliance based on our examination.
+
+Our examination was conducted in accordance with attestation standards
+established by the American Institute of Certified Public Accountants and,
+accordingly, included examining, on a test basis, evidence about HSBC Mortgage
+Corporation (USA)'s compliance with the minimum servicing standards specified
+above our examination provides a reasonable basis for our opinion.  Our
+examination does not provide a legal determination on HSBC Mortgage Corporation
+(USA)'s compliance with the minimum servicing standards.
+
+In our opinion, management's assertion that HSBC Mortgage Corporation (USA)
+complied with the aforementioned minimum servicing standards as of and for the
+year ended December 31, 2002 is fairly stated, in all material respects.
+
+/s/ KPMG LLP
+
+February 5, 2003
+Buffalo, New York
+
+
+KPMG LLP. KPMG LLP, a U.S. limited liability partnership is a member of KPMG
+International, a Swiss association.
+
+
+
+
+Ex-99.2 (a)
+HSBC (logo)
+
+Management Assertion
+
+As of and for the year ended December 31, 2002, HSBC Mortgage Corporation (USA)
+complied in all material respects with the minimum servicing standards set forth
+in the Mortgage Bankers Association of America's Uniform Single Attestation
+Program for Mortgage Bankers.  As of and for this same period, HSBC Mortgage
+Corporation (USA) had in effect fidelity bond and errors and omissions policies
+in the amount of $588,675,000 and $40,000,000, respectively.
+
+/s/ David J. Hunter
+David J. Hunter
+President
+
+/s/ Daniel B. Duggan
+Daniel B. Duggan
+SVP, Risk Management
+
+/s/ Gary P. Zimmerman
+Gary P. Zimmerman
+SVP, Mortgage Servicing
+
+
+HSBC Mortgage Corporation (USA)
+2929 Walden Avenue, Depew, NY 14043
+
+
+
+
+Ex-99.3 (a)
+
+Annual Statement as to Compliance
+
+We have reviewed the activities and performance of HSBC Mortgage Corporation
+(USA) under the Servicing Agreement for the year ended December 31, 2002.  To
+the best of my knowledge, based upon such review, the HSBC Mortgage Corporation
+(USA) has fulfilled its duties, responsibilities and obligations under the
+Servicing Agreement.
+
+/s/ Gary P. Zimmerman
+Gary P. Zimmerman
+Senior Vice President
+Mortgage Servicing
+
+
+
+
+Ex-99.4
+   Schedule of Year-To-Date Principal and Interest Distributions to
+   Certificateholders
+
+
+   <TABLE>
+
+   Class                            Interest          Principal               Losses            Ending Balance
+   <s>                      <c>                   <c>                 <c>                <c>
+   A-1                         4,725,245.39       115,119,299.92                0.00             82,366,500.08
+   A-2                         7,402,630.83       160,304,221.79                0.00            114,695,778.23
+   A-3                           295,219.15            60,870.61                0.00              8,642,829.39
+   B-1                           210,869.85            43,478.82                0.00              6,173,421.19
+   B-2                           151,827.38            31,304.97                0.00              4,444,895.03
+   B-3                            75,913.70            15,652.49                0.00              2,222,447.52
+   B-4                            42,174.66             8,695.90                0.00              1,234,704.10
+   B-5                            33,739.04             6,956.58                0.00                987,743.42
+   B-6                            33,739.92             6,957.10                0.00                987,769.06
+   R-1                                 0.24                50.00                0.00                      0.00
+   R-2                                 0.24                50.00                0.00                      0.00
+   X                             590,807.23                 0.00                0.00                      0.00
+   </TABLE>
+
+</TEXT>
+</DOCUMENT>

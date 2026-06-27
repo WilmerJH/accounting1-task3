@@ -1,0 +1,444 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>b323675_10k.txt
+<DESCRIPTION>FORM 10-K
+<TEXT>
+<PAGE>
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+                       -----------------------------------
+                                    FORM 10-K
+
+                        FOR ANNUAL AND TRANSITION REPORTS
+                     PURSUANT TO SECTION 13 OR 15(d) OF THE
+                         SECURITIES EXCHANGE ACT OF 1934
+
+
+(Mark One)
+
+  X               ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+-----             SECURITIES EXCHANGE ACT OF 1934.
+
+For the Fiscal Year Ended: December 31, 2002
+
+                                       OR
+
+                  TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d)
+-----             OF THE SECURITIES EXCHANGE ACT OF 1934.
+
+For the transition period from       to
+                               -----    ----
+
+                        Commission file number 333-84400
+
+                  Chase Credit Card Owner Trust 2001-3 (issuer)
+           Chase Manhattan Bank USA, National Association (depositor)
+             (Exact name of registrant as specified in its charter)
+
+<TABLE>
+<S>                                                           <C>
+
+USA                                                           22-238028
+(State or Other Jurisdiction of                               (IRS Employer Identification Number)
+Incorporation or Organization)
+
+White Clay Center, Building 2000, Newark, DE                  19711
+(Address of principal executive offices)                      (Zip Code)
+
+Registrant's telephone number, including area code:           (302) 575-5000
+</TABLE>
+
+
+<PAGE>
+
+
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of Each Class                 Name of Each Exchange of Which Registered
+       NONE                                           N/A
+
+Securities registered pursuant to Section 12(g) of the Act:
+
+      NONE
+                                (Title of Class)
+
+         Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such reports), and (2) has been
+subject to such filing requirements for the last 90 days:
+YES    X                            NO
+    -------                            -------
+
+         Indicate by check mark if disclosure of delinquent filers pursuant to
+Item 405 of Regulation S-K is not contained herein, and will not be contained,
+to the best of registrant's knowledge, in definitive proxy or information
+statements incorporated by reference in Part III of this Form 10-K or any
+amendment to this Form 10-K or any amendment to this Form 10-K.    X
+                                                                -------
+
+         State the aggregate market value of the voting and non-voting common
+equity held by non-affiliates of the registrants. The aggregate value shall be
+computed by reference to the price at which the common equity was sold, or the
+average bid and asked prices of such common equity, as of a specified date
+within 60 days prior to the date of filing.
+
+         The registrant has no voting or non-voting common equity outstanding as
+         of the date of this report. The registrant is a trust that has issued
+         certificates of beneficial interest in the trust assets.
+
+                      DOCUMENTS INCORPORATED BY REFERENCE.
+
+         List hereunder the following documents if incorporated by reference and
+the Part of the Form 10-K (e.g., Part I, Part II, etc.) into which the document
+is incorporated: (1) any annual report to security holders; (2) any proxy or
+information statement; and (3) any prospectus filed pursuant to Rule 424(b) or
+(c) under the Securities Act of 1933. The listed documents should be clearly
+described for identification purposes.
+
+         None.
+
+Introductory Note
+
+         Chase Credit Card Owner Trust 2001-3 (the "Trust") was formed pursuant
+to a Trust Agreement (the "Agreement") between Chase Manhattan Bank USA,
+National Association (the "Bank"), as depositor, and an unrelated trustee (the
+"Trustee"). The Trust is the issuer of three classes of publicly offered asset
+backed notes (the "Notes"). The Trust files reports pursuant to Section 13 and
+15(d) of the Securities Exchange Act of 1934, as amended (the "Exchange Act"),
+in the manner described in letters dated January 16, 1991 and March 14, 1991,
+submitted to the Office of the Chief Counsel with respect to Chase Credit Card
+Master Trust (f/k/a "Chemical Master Credit Card Trust I"). Accordingly,
+responses to certain Items have been omitted from or modified in this Annual
+Report on Form 10-K.
+
+
+<PAGE>
+
+Part I
+
+Item 1.           Business
+
+         Omitted.
+
+Item 2.           Properties
+
+         The Trust is the holder of the Series 2001-3 Asset Backed Certificate
+issued by Chase Credit Card Master Trust, which was transferred to it by the
+Bank, and certain deposit accounts.
+
+         The aggregate Investor Default Amount for the year ended December 31,
+2002 was $50,236,798.00. There were no Investor Charge-offs for the same period.
+As of December 31, 2000, Accounts designated for the Master Trust having an
+aggregate balance of $460,023,864.00, or 1.40% of all Receivables, were
+delinquent 30 - 59 days; Accounts having an aggregate balance of
+$349,794,290.00, or 1.07% of all Receivables, were delinquent 60 - 89 days; and
+Accounts having an aggregate balance of $662,677,561.00, or 2.02% of all
+Receivables, were delinquent 90 days or more.
+
+
+Item 3.           Legal Proceedings
+
+         The registrant knows of no material pending legal proceedings with
+respect to the Trust, the Trustee or the Bank.
+
+Item 4.           Submission of Matters to a Vote of Security Holders
+
+         No matter was submitted to a vote of Securityholders during the fiscal
+year covered by this report.
+
+
+
+<PAGE>
+
+Part II
+
+Item 5.           Market for Registrant's Common Equity and Related Stockholders
+                  Matters
+
+         The registrant has no voting stock or class of common stock outstanding
+as of the date of this report. The beneficial interest in the Trust is
+represented by the Series Certificate registered in name of the issuer. To the
+knowledge of the registrant, the Notes are traded in the over-the-counter market
+to a limited extent.
+
+         As of December 31, 2002, all of the Notes were registered in the name
+of CEDE and Co. The registrant understands that CEDE and Co. is the nominee for
+the Depository Trust Company ("DTC"). The registrant further understands that
+DTC has no knowledge of the actual beneficial owners of the Notes held of record
+by CEDE & Co., and that DTC knows only the identity of the participants to whose
+accounts such Notes are credited, who may or may not be the beneficial owners of
+the Notes.
+
+         The records provided to the Trust by DTC indicate that as of December
+31, 2002, the number of holders of record for each class of Notes issued by the
+Trust was as follows:
+
+       Class                                         No. of Holders
+     ---------                                       ------------------
+         A                                           12
+         B                                           8
+         C                                           6
+
+Item 6.           Selected Financial Data
+
+         Omitted.
+
+Item 7.           Management's Discussion and Analysis of Financial Condition
+                  and Results of Operations
+
+         Omitted.
+
+Item 7A.          Quantitative and Qualitative Disclosures About Market Risk
+
+         Not applicable.
+
+Item 8.           Financial Statements and Supplementary Data
+
+         Omitted.
+
+Item 9.           Changes in and Disagreements with Accountants on Accounting
+                  and Financial Disclosure
+
+         None.
+
+<PAGE>
+
+
+
+Part III
+
+Item 10.          Directors and Executive Officers of the Registrant
+
+         Omitted.
+
+Item 11.          Executive Compensation
+
+         Omitted.
+
+Item 12.          Security Ownership of Certain Beneficial Owners and Management
+
+         The records of DTC indicate that as of December 31, 2002, there were
+the following holders of record with more than 5% of each class of the
+Certificates and Notes:
+
+<TABLE>
+<CAPTION>
+Chase Credit Card Owner Trust     Name & Address of Participant                Original Certificate    % Class
+Series 2001-3                                                                     Principal Balance
+<S>                               <C>                                          <C>                     <C>
+
+Class A                           The Bank of New York                                 $157,100,000     20.95%
+                                  One Wall Street
+                                  New York, NY  10286
+
+                                  Boston Safe Deposit and Trust Company                 $65,750,000      8.77%
+                                  525 William Penn Place, Suite 3148
+                                  Pittsburgh, PA  15259
+
+                                  Citibank, N.A.                                        $70,300,000      9.37%
+                                  3800 Citibank Center B3-15
+                                  Tampa, FL  33610
+
+                                  Deutsche Bank Trust Company Americas                  $40,000,000      5.33%
+                                  648 Grassmere Park Road
+                                  Nashville, TN  37211
+
+                                  JPMorgan Chase Bank                                  $123,000,000     16.40%
+                                  Proxy/Class Actions/Bankruptcy
+                                  14201 Dallas Pkwy
+                                  Dallas, TX  75254
+
+                                  State Street Bank and Trust Company                  $136,900,000     18.25%
+                                  1776 Heritage Dr.
+                                  Global Corporate Action Unit JAB 5NW
+                                  No. Quincy, MA 02171
+
+                                  UBS AG                                                $79,700,000     10.63%
+                                  677 Washington Blvd
+                                  Stamford, CT  06901
+
+Class B                           The Bank of New York                                  $23,900,000     38.24%
+                                  One Wall Street
+                                  New York, NY  10286
+
+                                  Barclays Global Investors N.A/                        $12,500,000     20.00%
+                                  Investors Bank & Trust
+                                  980 9th Street, 6th Floor
+                                  Sacramento, CA  95814
+</TABLE>
+
+<PAGE>
+<TABLE>
+<CAPTION>
+<S>                               <C>                                          <C>                     <C>
+
+
+                                  Boston Safe Deposit and Trust Company                  $9,550,000     15.28%
+                                  525 William Penn Place, Suite 3148
+                                  Pittsburgh, PA  15259
+
+                                  Citibank, N.A.                                         $4,350,000      6.96%
+                                  3800 Citibank Center B3-15
+                                  Tampa, FL  33610
+
+                                  JPMorgan Chase Bank                                    $8,950,000     14.32%
+                                  Proxy/Class Actions/Bankruptcy
+                                  14201 Dallas Pkwy
+                                  Dallas, TX  75254
+
+Class C                           The Bank of New York                                   $5,000,000      6.22%
+                                  One Wall Street
+                                  New York, NY  10286
+
+                                  Bank One Trust Company, N.A.                           $8,357,000     10.40%
+                                  340 South Cleveland Ave.
+                                  Building 350
+                                  Columbus, OH  43240
+
+                                  Citibank, N.A.                                        $23,000,000     28.62%
+                                  3800 Citibank Center B3-15
+                                  Tampa, FL  33610
+
+                                  JPMorgan Chase Bank                                   $27,000,000     33.60%
+                                  Proxy/Class Actions/Bankruptcy
+                                  14201 Dallas Pkwy
+                                  Dallas, TX  75254
+
+                                  State Street Bank and Trust Company                    $7,000,000      8.71%
+                                  1776 Heritage Dr.
+                                  Global Corporate Action Unit JAB 5NW
+                                  No. Quincy, MA 02171
+
+                                  Wells Fargo Bank Minnesota, N.A.                      $10,000,000     12.44%
+                                  c/o ADP Proxy Services
+                                  51 Mercedes Way
+                                  Edgewood, NY 11717
+
+</TABLE>
+
+
+Item 13.          Certain Relationships and Related Transactions
+
+         None.
+
+<PAGE>
+
+Part IV
+
+Item 14.          Exhibits, Financial Statement Schedules, and Reports of Form
+                  8-K
+
+                  (a) Exhibits.
+
+                           The following documents are filed as part of this
+Annual Report on Form 10-K.
+<TABLE>
+<CAPTION>
+
+                  Exhibit Number:            Description:
+                  ---------------------      ------------------------
+                  <S>                        <C>
+
+                  99.1                       Annual Servicer's Certificate pursuant to Section 3.05 of the Agreement.
+
+                  99.2                       Management Report on Internal Controls.
+
+                  99.3                       Annual Independent Accountants Report pursuant to Section 3.06 of the Agreement.
+
+                  99.4                       Certification pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+
+
+                  (b) Reports on Form 8-K.
+
+                           The following reports were filed on Form 8-K during
+the last quarter of 2002:
+
+                  Date                      Items Reported             Financial Statements
+                  ------------              ---------------------               -----------------------------
+                  10/01/2002                5, 7                       Monthly report to Noteholders
+                                                                       dated 9/16/2002
+
+                  10/22/2002                5, 7                       Monthly report to Noteholders
+                                                                       dated 10/15/2002
+
+                  11/15/2002                5, 7                       Monthly report to Noteholders
+                                                                       dated 11/15/2002
+
+                  12/17/2002                5, 7                       Monthly report to Noteholders
+                                                                       dated 12/16/2002
+</TABLE>
+
+
+
+<PAGE>
+
+
+
+                                   SIGNATURES
+
+
+
+         Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on
+its behalf by the undersigned, thereunto duly authorized.
+
+
+Dated: March 28, 2003
+
+
+                            Chase Credit Card Owner Trust 2001-3
+
+                            by: Chase Manhattan Bank USA, National Association,
+                            as Servicer
+
+
+                            By:  /s/ Patricia M. Garvey
+                            -----------------------------------
+                            Name:    Patricia M. Garvey
+                            Title:   Vice President
+
+
+
+<PAGE>
+
+
+
+SUPPLEMENTAL INFORMATION TO BE FURNISHED WITH REPORTS FILED PURSUANT TO SECTION
+15(d) OF THE ACT BY REGISTRANTS WHICH HAVE NOT REGISTERED SECURITIES PURSUANT TO
+SECTION 12 OF THE ACT.
+
+
+No annual report, proxy statement, form of proxy or other proxy soliciting
+material has been sent to Noteholders during the period covered by this Annual
+Report on Form 10-K and the registrant does not intend to furnish such materials
+to Noteholders subsequent to the filing of this report.
+
+
+
+<PAGE>
+
+
+
+                                INDEX TO EXHIBITS
+
+Exhibit Number:          Description:
+---------------------    ------------------------
+
+99.1                     Annual Servicer's Certificate pursuant to Section 3.05
+                         of the Agreement.
+
+99.2                     Management Report on Internal Controls.
+
+99.3                     Annual Independent Accountants Report pursuant to
+                         Section 3.06 of the Agreement.
+
+99.4                     Certification pursuant to Section 302 of the
+                         Sarbanes-Oxley Act of 2002.
+
+
+
+</TEXT>
+</DOCUMENT>

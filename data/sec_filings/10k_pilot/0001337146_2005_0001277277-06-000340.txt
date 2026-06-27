@@ -1,0 +1,182 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>form10k_wmalt20057.txt
+<TEXT>
+
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+                                    Form 10-K
+
+[X]  Annual report pursuant to Section 13 or 15(d) of the Securities Exchange
+     Act of 1934 for the fiscal year ended December 31, 2005
+
+[    ] Transition report pursuant to Section 13 or 15(d) of the Securities
+     Exchange Act of 1934
+
+     for the transition period from       to
+
+
+
+              Commission File Number 333-103345-75
+
+                   WASHINGTON MUTUAL MORTGAGE SECURITIES CORP.
+             (Exact name of Registrant as specified in its charter)
+
+             Delaware                            94-2528990
+ (State or other jurisdiction of    (I.R.S. Employer Identification No.)
+          incorporation
+
+                           1201 THIRD AVENUE, WMT 1706
+                            SEATTLE, WASHINGTON 98101
+                                 (206) 377-8555
+       (Address, including zip code, and telephone number, including area
+               code, of registrant's principal executive offices)
+
+
+              Washington Mutual Mortgage Pass-Through Certificates,
+                               WMALT Series 2005-7
+
+     ---------------------------------------------------------------------
+            (Title of each class of securities covered by this Form)
+
+     Indicate by checkmark if the registrant is a well-known seasoned issuer, as
+defined in Rule 405 of the Securities Act: Yes [ ] No [X]
+
+     Indicate by  checkmark  if the  registrant  not  required  to file  reports
+pursuant to to Section 13 or Section 15(d) of the Act: Yes [ ] No [X]
+
+
+Securities registered pursuant to Section 12(b) of the Act: None
+Securities registered pursuant to Section 12(g) of the Act: None
+
+     Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days. Yes [X] No [ ] (as such reporting
+obligations are modified as set forth in J.P. Morgan Mortgage Pass-Through
+Corporation, SEC No-Action Letter, March 31, 1989, in reliance upon which the
+registrant is filing this modified report).
+
+     Indicate by check mark if disclosure of delinquent filers pursuant to Item
+405 of Regulation S-K is not contained herein, and will not be contained, to the
+best of registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K. [ ] Not applicable.
+
+         Indicate by checkmark whether the registrant is a large accelerated
+filer, or a non-accelerated filer. See definition of "accelerated filer and
+large accelerated filer" in Rule 12b-2 of the Exchange Act. (Check one):
+
+Large Accelerated Filer [  ]
+Accelerated Filer [  ]
+Non-accelerated Filer [X]
+
+         Indicate by checkmark whether the registrant is a shell company (as
+defined in Rule 12B-2 of the Act). [ ]
+Yes   [X] No
+
+
+     State the aggregate market value of the voting and non-voting common equity
+held by non-affiliates of the registrant: None.
+
+     Indicate the number of shares outstanding of each of the registrant's
+classes of common stock, as of the latest practicable date: Not applicable.
+
+                       DOCUMENTS INCORPORATED BY REFERENCE
+
+The registrant's Reports on Form 8-K concerning the registrant's Washington
+Mutual Mortgage Pass-Through Certificates, WMALT Series 2005-7 issued pursuant
+to the Pooling and Servicing Agreement dated as of August 1, 2005(the "Pooling
+Agreement") and registered pursuant to a registration statement on Form S-3
+(File No. 333-103345) (such mortgage pass-through certificates, the
+"Certificates"), are incorporated by reference as set forth in Part IV, Item 15.
+Capitalized terms used herein but not otherwise defined shall have the meanings
+assigned to them in the Pooling Agreement.
+
+
+
+
+                                     Part IV
+
+Item 15. Exhibits and Financial Statement Schedules
+
+(a) Documents filed as part of this report.
+
+     1. Not applicable.
+
+     2. Not applicable.
+
+     3. Not applicable.
+
+(b) Exhibits required by Item 601
+
+
+
+
+Exhibit No.  Description
+
+31           Rule 13a-14(d) Certification
+
+99.1         Officer's Certificate regarding
+             Annual Statement of Compliance of
+             Washington Mutual Bank, dated March 1, 2006
+
+99.2         Report of Independent Registered Public Accounting Firm
+             on Management's Assertion Concerning Compliance with Washington
+             Mutual Bank's Minimum Servicing Standards as of and for the
+             year ended December 31, 2005 (incorporated by reference
+             to the designated exhibit included in the registrant's
+             Current Report on Form 8-K, filed on March 30, 2006,
+             (SEC File No. 333-103345))
+
+
+
+     The registrant filed Current Reports on Form 8-K that described
+distributions made to Certificateholders on the Distribution Date occurring in
+the month preceding the month in which such Current Report on Form 8-K was filed
+and also provided certain information regarding delinquent Mortgage Loans and
+credit enhancements as of such Distribution Date. Such Current Reports on Form
+8-K are incorporated by reference herein, as follows:
+
+
+Washington Mutual Mortgage Pass-Through
+Certificates, WMALT Series 2005-7
+
+
+EVENT REPORTED
+Monthly Distribution Report sent to
+holders of the Certificates for           Date Distribution Report
+payments made in:                         Filed on Form 8-K:
+-----------------                         ------------------
+
+09/26/2005                                09/28/2005
+10/25/2005                                10/27/2005
+11/25/2005                                11/29/2005
+12/27/2005                                12/29/2005
+
+
+
+
+<PAGE>
+
+
+
+                                   SIGNATURES
+
+     Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on
+its behalf by the undersigned, thereunto duly authorized.
+
+Dated:  March 30, 2006      WASHINGTON MUTUAL MORTGAGE SECURITIES CORP.
+
+
+                            By: /s/ Thomas G. Lehmann
+                                -------------------------------------
+                               Thomas G. Lehmann,
+                                    President
+</TEXT>
+</DOCUMENT>

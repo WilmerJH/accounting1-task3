@@ -1,0 +1,4414 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>w72977e10vk.htm
+<DESCRIPTION>FORM 10-K
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>e10vk</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+<DIV align="Center" style="font-size: 10pt; margin-top: 6pt"><B>UNITED STATES<BR>
+SECURITIES AND EXCHANGE COMMISSION<BR>
+Washington, D.C. 20549</B>
+</DIV>
+
+<DIV align="Center" style="font-size: 10pt; margin-top: 6pt"><B>FORM 10-K</B>
+
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 12pt"><u><B>&nbsp;X&nbsp;</B></u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <B>ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934</B>
+</DIV>
+
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 1pt">For the fiscal year ended <U>December&nbsp;31, 2008</U>
+</DIV>
+
+<DIV align="Center" style="font-size: 10pt; margin-top: 6pt"><B>OR</B>
+
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 12pt"><u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 1pt">For the transition period from <U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U> to <U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U>
+
+</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 10pt"><B>Commission File Number: 1-14659</B>
+</DIV>
+
+<DIV align="center" style="font-size: 24pt; margin-top: 0pt"><B>WILMINGTON TRUST CORPORATION</B>
+</DIV>
+
+<DIV align="center" style="font-size: 8pt">(Exact name of registrant as specified in its charter)</DIV>
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="48%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="48%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="center" valign="top"><B>DELAWARE</B>
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><B>51-0328154</B></TD>
+</TR>
+<TR valign="bottom">
+
+<TD align="center" valign="top"><font style="font-size: 8pt">(State
+or other jurisdiction of incorporation or organization)</font>
+</TD>
+    <TD>&nbsp;</TD>
+
+<TD align="center" valign="top"><font style="font-size: 8pt">(Internal
+Revenue Service Employer Identification Number)</font></TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD align="center" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+
+<TD align="center" valign="top"><B><font style="font-size: 8pt">1100
+North Market Street, <BR>Wilmington, Delaware</font></B>
+</TD>
+    <TD>&nbsp;</TD>
+
+<TD align="center" valign="bottom"><B><font style="font-size: 8pt">19890</font></B></TD>
+</TR>
+<TR valign="bottom">
+
+<TD align="center" valign="top"><font style="font-size: 8pt">(Address
+of principal executive offices)</font>
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><font style="font-size: 8pt">(Zip
+Code)</font></TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt"><B>(302)
+651-1000<BR>(Registrant&#146;s
+telephone number, including area code)</B></DIV>
+
+
+<DIV align="center">
+<DIV style="font-size: 3pt; margin-top: 16pt; width: 26%; border-top: 1px solid #000000">&nbsp;</DIV></DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 0pt"><B>Securities registered pursuant to Section&nbsp;12(b) of the Act:</B>
+</DIV>
+
+<DIV align="center">
+<TABLE style="font-size: 8pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="55%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="45%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top" align="center"><DIV style="margin-left:0px; text-indent:-0px">Title of Each Class
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top" nowrap>Name of Each Exchange on Which Registered</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD valign="top" style="border-top: 1px solid #000000"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top" align="center"><DIV style="margin-left:0px; text-indent:-0px"><B>Common Stock, $1.00 Par Value</B>
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><B>New York Stock Exchange</B></TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Securities registered pursuant to Section 12(g) of the Act:</B> None.
+
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 6pt">Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule&nbsp;405 of
+the Securities Act. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yes <U>X</u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; No <U>&nbsp;&nbsp;&nbsp;</u>
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 6pt">Indicate by check mark if the registrant is not required to file reports pursuant to Section&nbsp;13 or
+15(d) of the Act. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yes <U>&nbsp;&nbsp;&nbsp;</u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; No <U>X</u>
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 6pt">Indicate by check mark whether the registrant (1)&nbsp;has filed all reports required to be filed by
+Section&nbsp;13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12&nbsp;months (or for
+such shorter period that the registrant was required to file such report(s)), and (2)&nbsp;has been
+subject to such filing requirements for the past 90&nbsp;days. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yes <U>X</u> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No <U>&nbsp;&nbsp;&nbsp;</u>
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 6pt">Indicate by check mark if disclosure of delinquent filers pursuant to Item&nbsp;405 of Regulation&nbsp;S-K
+(&#167;229.405 of this chapter) is not contained herein, and will not be contained, to the best of
+registrant&#146;s knowledge, in definitive proxy or information statements incorporated by reference in
+Part&nbsp;III of this Form 10-K or any amendment to this Form 10-K.
+&#95;&#95;
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer,
+a non-accelerated filer, or a smaller reporting company.
+See the definitions of &#147;large
+accelerated filer,&#148; &#147;accelerated filer&#148; and &#147;smaller reporting company&#148; in Rule 12b-2 of the Exchange Act. (Check one):</DIV>
+
+
+
+<DIV align="center">
+<TABLE cellspacing="0" border="0" cellpadding="0" width="100%" style="font-size: 10pt">
+<TR style="font-size: 6pt">
+    <TD width="10%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="10%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="10%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="10%">&nbsp;</TD>
+</TR>
+<TR valign="top">
+    <TD nowrap align="center" valign="top">Large accelerated filer <U>X</u>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" valign="top">Accelerated filer <U>&nbsp;&nbsp;&nbsp;</u>&nbsp;</TD>
+    <TD align="center">&nbsp;</TD>
+    <TD nowrap align="center">Non-accelerated filer <U>&nbsp;&nbsp;&nbsp;</u><BR>
+(Do not check if a smaller reporting company)</TD>
+    <TD align="center">&nbsp;</TD>
+    <TD nowrap align="center" valign="top">Smaller reporting company <U>&nbsp;&nbsp;&nbsp;</u>&nbsp;</TD>
+</TR>
+</TABLE>
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 6pt">Indicate by check mark whether the registrant is a shell company (as defined in Rule&nbsp;12b-2 of the
+Act). &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yes <U>&nbsp;&nbsp;&nbsp;</u> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No <U>X</u>
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 6pt">Aggregate market value of the voting and non-voting common equity held by non-affiliates* computed
+by reference to the price at which the common equity was last sold, or the average bid and asked
+price of such common equity, as of June&nbsp;30, 2008, the last business day of the registrant&#146;s most
+recently completed second fiscal quarter:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$58,143,941
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 6pt">Number of shares outstanding of each of the registrant&#146;s classes of common stock at January&nbsp;31,
+2009:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;69,112,585
+</DIV>
+
+<DIV align="justify" style="font-size: 8pt; margin-top: 6pt"><B>DOCUMENTS INCORPORATED BY REFERENCE:</B>
+</DIV>
+
+
+<DIV align="justify" style="font-size: 8pt; margin-top: 1pt"><B>Portions of the Proxy Statement for our Annual Shareholders Meeting (Proxy Statement) to be held
+April&nbsp;22, 2009, are incorporated by reference in Part&nbsp;III, and portions of our Annual Report to
+Shareholders for 2008 (Annual Report) are incorporated by reference
+in Parts I, II, and IV.</B>
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 6pt"><I>*For purposes of this calculation, Wilmington Trust&#146;s subsidiaries and its directors and executive
+officers are deemed to be affiliates.</I>
+</DIV>
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio --><!-- /Folio -->
+</DIV>
+
+
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+<DIV style="width: 94%; margin-left: 3%"><!-- BEGIN PAGE WIDTH -->
+</DIV><!-- END PAGE WIDTH -->
+<DIV style="width: 87%; margin-left: 6%"><!-- BEGIN PAGE WIDTH -->
+<DIV align="left">
+<!-- TOC -->
+</DIV>
+
+<DIV align="left">
+<A name="tocpage"></A>
+</DIV>
+
+<DIV style="margin-top: 18pt; font-size: 1pt">&nbsp;</DIV>
+
+<DIV align="center" style="margin-left: 0%; margin-right: 0%; font-size: 10pt; font-family: Arial, Helvetica; color: #000000; background: #FFFFFF">
+
+    <B><FONT style="font-family: 'Times New Roman', Times">TABLE OF
+    CONTENTS</FONT></B>
+</DIV>
+
+<DIV style="margin-top: 12pt; font-size: 1pt">&nbsp;</DIV>
+
+<TABLE border="0" width="100%" align="center" cellpadding="0" cellspacing="0" style="font-size: 10pt; font-family: 'Times New Roman', Times; color: #000000; background: #FFFFFF">
+<!-- Table Width Row BEGIN -->
+<TR style="font-size: 1pt" valign="bottom">
+    <TD width="12%">&nbsp;</TD> <!-- colindex=01 type=maindata -->
+    <TD width="2%">&nbsp;</TD>  <!-- colindex=02 type=gutter -->
+    <TD width="82%">&nbsp;</TD> <!-- colindex=02 type=maindata -->
+    <TD width="3%">&nbsp;</TD>  <!-- colindex=03 type=gutter -->
+    <TD width="2%">&nbsp;</TD>  <!-- colindex=03 type=quadleft -->
+    <TD width="1%">&nbsp;</TD>  <!-- colindex=03 type=maindata -->
+    <TD width="2%">&nbsp;</TD>  <!-- colindex=03 type=quadright -->
+</TR>
+<!-- Table Width Row END -->
+<TR style="font-size: 8pt" valign="bottom" align="center">
+<TD nowrap align="center" valign="bottom">
+&nbsp;
+</TD>
+<TD>
+&nbsp;
+</TD>
+<TD nowrap align="center" valign="bottom">
+&nbsp;
+</TD>
+<TD>
+&nbsp;
+</TD>
+<TD colspan="3" nowrap align="center" valign="bottom">
+    <FONT style="font-size: 10pt">Pages
+    </FONT>
+</TD>
+</TR>
+<TR style="line-height: 3pt; font-size: 1pt">
+<TD>&nbsp;
+</TD>
+</TR>
+<TR valign="bottom">
+<TD colspan="7" valign="top">
+<DIV style="text-indent: -10pt; margin-left: 10pt">
+    <A HREF="#101"><B>PART I</B></A>
+</DIV>
+</TD>
+</TR>
+<TR valign="bottom">
+<TD nowrap align="left" valign="top">
+<DIV style="text-indent: -10pt; margin-left: 10pt">
+    <A HREF="#102">Item&#160;1</A>
+</DIV>
+</TD>
+<TD>
+&nbsp;
+</TD>
+<TD nowrap align="left" valign="bottom">
+    <A HREF="#102">Business</A>
+</TD>
+<TD>
+&nbsp;
+</TD>
+<TD>&nbsp;
+</TD>
+<TD nowrap align="right" valign="bottom">
+    1
+</TD>
+<TD>&nbsp;
+</TD>
+</TR>
+<TR valign="bottom">
+<TD nowrap align="left" valign="top">
+<DIV style="text-indent: -10pt; margin-left: 10pt">
+    <A HREF="#124">Item 1A</A>
+</DIV>
+</TD>
+<TD>
+&nbsp;
+</TD>
+<TD nowrap align="left" valign="bottom">
+    <A HREF="#124">Risk Factors</A>
+</TD>
+<TD>
+&nbsp;
+</TD>
+<TD>&nbsp;
+</TD>
+<TD nowrap align="right" valign="bottom">4</TD>
+<TD>&nbsp;
+</TD>
+</TR>
+<TR valign="bottom">
+<TD nowrap align="left" valign="top">
+<DIV style="text-indent: -10pt; margin-left: 10pt">
+    <A HREF="#103">Item 1B</A>
+</DIV>
+</TD>
+<TD>
+&nbsp;
+</TD>
+<TD align="left" valign="bottom">
+    <A HREF="#103">Unresolved Staff Comments</A>
+</TD>
+<TD>
+&nbsp;
+</TD>
+<TD>&nbsp;
+</TD>
+<TD nowrap align="right" valign="bottom">7</TD>
+<TD>&nbsp;
+</TD>
+</TR>
+<TR valign="bottom">
+<TD nowrap align="left" valign="top">
+<DIV style="text-indent: -10pt; margin-left: 10pt">
+    <A HREF="#104">Item 2</A>
+</DIV>
+</TD>
+<TD>
+&nbsp;
+</TD>
+<TD nowrap align="left" valign="bottom">
+    <A HREF="#104">Properties</A>
+</TD>
+<TD>
+&nbsp;
+</TD>
+<TD>&nbsp;
+</TD>
+<TD nowrap align="right" valign="bottom">8</TD>
+<TD>&nbsp;
+</TD>
+</TR>
+<TR valign="bottom">
+<TD nowrap align="left" valign="top">
+<DIV style="text-indent: -10pt; margin-left: 10pt">
+    <A HREF="#105">Item 3</A>
+</DIV>
+</TD>
+<TD>
+&nbsp;
+</TD>
+<TD nowrap align="left" valign="bottom">
+    <A HREF="#105">Legal Proceedings</A>
+</TD>
+<TD>
+&nbsp;
+</TD>
+<TD>&nbsp;
+</TD>
+<TD nowrap align="right" valign="bottom">8</TD>
+<TD>&nbsp;
+</TD>
+</TR>
+<TR valign="bottom">
+<TD nowrap align="left" valign="top">
+<DIV style="text-indent: -10pt; margin-left: 10pt">
+    <A HREF="#106">Item 4</A>
+</DIV>
+</TD>
+<TD>
+&nbsp;
+</TD>
+<TD align="left" valign="bottom">
+    <A HREF="#106">Submission of Matters to a Vote of Security
+    Holders</A>
+</TD>
+<TD>
+&nbsp;
+</TD>
+<TD>&nbsp;
+</TD>
+<TD nowrap align="right" valign="bottom">8</TD>
+<TD>&nbsp;
+</TD>
+</TR>
+<TR valign="bottom" style="line-height: 9pt">
+<TD colspan="7">
+&nbsp;
+</TD>
+</TR>
+<TR valign="bottom">
+<TD colspan="7" valign="top">
+<DIV style="text-indent: -10pt; margin-left: 10pt">
+    <A HREF="#107"><B>PART II</B></A>
+</DIV>
+</TD>
+</TR>
+<TR valign="bottom">
+<TD nowrap align="left" valign="top">
+<DIV style="text-indent: -10pt; margin-left: 10pt">
+    <A HREF="#108">Item 5</A>
+</DIV>
+</TD>
+<TD>
+&nbsp;
+</TD>
+<TD align="left" valign="bottom">
+    <A HREF="#108">Market for Registrant&#146;s Common Stock,
+    Related Stockholder Matters and Issuer Purchases of Equity
+    Securities</A>
+</TD>
+<TD>
+&nbsp;
+</TD>
+<TD>&nbsp;
+</TD>
+<TD nowrap align="right" valign="bottom">9</TD>
+<TD>&nbsp;
+</TD>
+</TR>
+<TR valign="bottom">
+<TD nowrap align="left" valign="top">
+<DIV style="text-indent: -10pt; margin-left: 10pt">
+    <A HREF="#109">Item 6</A>
+</DIV>
+</TD>
+<TD>
+&nbsp;
+</TD>
+<TD align="left" valign="bottom">
+    <A HREF="#109">Selected Financial Data</A>
+</TD>
+<TD>
+&nbsp;
+</TD>
+<TD>&nbsp;
+</TD>
+<TD nowrap align="right" valign="bottom">10</TD>
+<TD>&nbsp;
+</TD>
+</TR>
+<TR valign="bottom">
+<TD nowrap align="left" valign="top">
+<DIV style="text-indent: -10pt; margin-left: 10pt">
+    <A HREF="#110">Item 7</A>
+</DIV>
+</TD>
+<TD>
+&nbsp;
+</TD>
+<TD align="left" valign="bottom">
+    <A HREF="#110">Management&#146;s Discussion and Analysis of
+    Financial Condition and Results of Operations</A>
+</TD>
+<TD>
+&nbsp;
+</TD>
+<TD>&nbsp;
+</TD>
+<TD nowrap align="right" valign="bottom">10</TD>
+<TD>&nbsp;
+</TD>
+</TR>
+<TR valign="bottom">
+<TD nowrap align="left" valign="top">
+<DIV style="text-indent: -10pt; margin-left: 10pt">
+    <A HREF="#111">Item 7A</A>
+</DIV>
+</TD>
+<TD>
+&nbsp;
+</TD>
+<TD align="left" valign="bottom">
+    <A HREF="#111">Qualitative and Quantitative Disclosure About
+    Market Risk</A>
+</TD>
+<TD>
+&nbsp;
+</TD>
+<TD>&nbsp;
+</TD>
+<TD nowrap align="right" valign="bottom">10</TD>
+<TD>&nbsp;
+</TD>
+</TR>
+<TR valign="bottom">
+<TD nowrap align="left" valign="top">
+<DIV style="text-indent: -10pt; margin-left: 10pt">
+    <A HREF="#112">Item 8</A>
+</DIV>
+</TD>
+<TD>
+&nbsp;
+</TD>
+<TD align="left" valign="bottom">
+    <A HREF="#112">Financial Statements and Supplemental Data</A>
+</TD>
+<TD>
+&nbsp;
+</TD>
+<TD>&nbsp;
+</TD>
+<TD nowrap align="right" valign="bottom">10</TD>
+<TD>&nbsp;
+</TD>
+</TR>
+<TR valign="bottom">
+<TD nowrap align="left" valign="top">
+<DIV style="text-indent: -10pt; margin-left: 10pt">
+    <A HREF="#113">Item 9</A>
+</DIV>
+</TD>
+<TD>
+&nbsp;
+</TD>
+<TD align="left" valign="bottom">
+    <A HREF="#113">Changes in and Disagreements with Accountants on
+    Accounting and Financial Disclosure</A>
+</TD>
+<TD>
+&nbsp;
+</TD>
+<TD>&nbsp;
+</TD>
+<TD nowrap align="right" valign="bottom">11</TD>
+<TD>&nbsp;
+</TD>
+</TR>
+<TR valign="bottom">
+<TD nowrap align="left" valign="top">
+<DIV style="text-indent: -10pt; margin-left: 10pt">
+    <A HREF="#114">Item 9A</A>
+</DIV>
+</TD>
+<TD>
+&nbsp;
+</TD>
+<TD align="left" valign="bottom">
+    <A HREF="#114">Controls and Procedures</A>
+</TD>
+<TD>
+&nbsp;
+</TD>
+<TD>&nbsp;
+</TD>
+<TD nowrap align="right" valign="bottom">11</TD>
+<TD>&nbsp;
+</TD>
+</TR>
+<TR valign="bottom">
+<TD nowrap align="left" valign="top">
+<DIV style="text-indent: -10pt; margin-left: 10pt">
+    <A HREF="#115">Item 9B</A>
+</DIV>
+</TD>
+<TD>
+&nbsp;
+</TD>
+<TD nowrap align="left" valign="bottom">
+    <A HREF="#115">Other Information</A>
+</TD>
+<TD>
+&nbsp;
+</TD>
+<TD>&nbsp;
+</TD>
+<TD nowrap align="right" valign="bottom">11</TD>
+<TD>&nbsp;
+</TD>
+</TR>
+<TR valign="bottom" style="line-height: 9pt">
+<TD colspan="7">
+&nbsp;
+</TD>
+</TR>
+<TR valign="bottom">
+<TD colspan="7" valign="top">
+<DIV style="text-indent: -10pt; margin-left: 10pt">
+    <A HREF="#116"><B>PART III</B></A>
+</DIV>
+</TD>
+</TR>
+<TR valign="bottom">
+<TD nowrap align="left" valign="top">
+<DIV style="text-indent: -10pt; margin-left: 10pt">
+    <A HREF="#117">Item 10</A>
+</DIV>
+</TD>
+<TD>
+&nbsp;
+</TD>
+<TD align="left" valign="bottom">
+    <A HREF="#117">Directors, Executive Officers, and Corporate
+    Governance</A>
+</TD>
+<TD>
+&nbsp;
+</TD>
+<TD>&nbsp;
+</TD>
+<TD nowrap align="right" valign="bottom">12</TD>
+<TD>&nbsp;
+</TD>
+</TR>
+<TR valign="bottom">
+<TD nowrap align="left" valign="top">
+<DIV style="text-indent: -10pt; margin-left: 10pt">
+    <A HREF="#118">Item 11</A>
+</DIV>
+</TD>
+<TD>
+&nbsp;
+</TD>
+<TD nowrap align="left" valign="bottom">
+    <A HREF="#118">Executive Compensation</A>
+</TD>
+<TD>
+&nbsp;
+</TD>
+<TD>&nbsp;
+</TD>
+<TD nowrap align="right" valign="bottom">12</TD>
+<TD>&nbsp;
+</TD>
+</TR>
+<TR valign="bottom">
+<TD nowrap align="left" valign="top">
+<DIV style="text-indent: -10pt; margin-left: 10pt">
+    <A HREF="#119">Item 12</A>
+</DIV>
+</TD>
+<TD>
+&nbsp;
+</TD>
+<TD align="left" valign="bottom">
+    <A HREF="#119">Security Ownership of Certain Beneficial Owners
+    and Management and Related Stockholder Matters</A>
+</TD>
+<TD>
+&nbsp;
+</TD>
+<TD>&nbsp;
+</TD>
+<TD nowrap align="right" valign="bottom">12</TD>
+<TD>&nbsp;
+</TD>
+</TR>
+<TR valign="bottom">
+<TD nowrap align="left" valign="top">
+<DIV style="text-indent: -10pt; margin-left: 10pt">
+    <A HREF="#120">Item 13</A>
+</DIV>
+</TD>
+<TD>
+&nbsp;
+</TD>
+<TD align="left" valign="bottom">
+    <A HREF="#120">Certain Relationships and Related Transactions,
+    and Director Independence</A>
+</TD>
+<TD>
+&nbsp;
+</TD>
+<TD>&nbsp;
+</TD>
+<TD nowrap align="right" valign="bottom">12</TD>
+<TD>&nbsp;
+</TD>
+</TR>
+<TR valign="bottom">
+<TD nowrap align="left" valign="top">
+<DIV style="text-indent: -10pt; margin-left: 10pt">
+    <A HREF="#121">Item 14</A>
+</DIV>
+</TD>
+<TD>
+&nbsp;
+</TD>
+<TD align="left" valign="bottom">
+    <A HREF="#121">Principal Accountant Fees and Services</A>
+</TD>
+<TD>
+&nbsp;
+</TD>
+<TD>&nbsp;
+</TD>
+<TD nowrap align="right" valign="bottom">12</TD>
+<TD>&nbsp;
+</TD>
+</TR>
+<TR valign="bottom" style="line-height: 9pt">
+<TD colspan="7">
+&nbsp;
+</TD>
+</TR>
+<TR valign="bottom">
+<TD colspan="7" valign="top">
+<DIV style="text-indent: -10pt; margin-left: 10pt">
+    <A HREF="#122"><B>PART IV</B></A>
+</DIV>
+</TD>
+</TR>
+<TR valign="bottom">
+<TD nowrap align="left" valign="top">
+<DIV style="text-indent: -10pt; margin-left: 10pt">
+    <A HREF="#123">Item 15</A>
+</DIV>
+</TD>
+<TD>
+&nbsp;
+</TD>
+<TD align="left" valign="bottom">
+    <A HREF="#123">Exhibits and Financial Statement Schedules</A>
+</TD>
+<TD>
+&nbsp;
+</TD>
+<TD>&nbsp;
+</TD>
+<TD nowrap align="right" valign="bottom">15</TD>
+<TD>&nbsp;
+</TD>
+</TR>
+</TABLE>
+
+<DIV align="left" style="margin-left: 0%; margin-right: 0%; text-indent: 0%; font-size: 10pt; font-family: 'Times New Roman', Times; color: #000000; background: #FFFFFF">
+
+</DIV>
+
+<DIV align="left">
+<!-- /TOC -->
+</DIV>
+
+<P align="left" style="font-size: 10pt; font-family: 'Times New Roman', Times; color: #000000; background: #FFFFFF">
+
+</DIV><!-- END PAGE WIDTH -->
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<DIV align="left">
+<A name="101"></A>
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 12pt"><B>PART I</B>
+</DIV>
+
+<DIV align="left">
+<A name="102"></A>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>ITEM 1. BUSINESS</B>
+
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>DESCRIPTION OF BUSINESS</B>
+
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">Wilmington Trust Corporation is (we are) a Delaware corporation and financial holding company
+under the Bank Holding Company Act. We provide a full range of banking and other financial
+services through our banking and other subsidiaries.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">Our principal subsidiary is Wilmington Trust Company (WTC), a Delaware-chartered bank and trust
+company founded in 1903. We also own one other depository institution: Wilmington Trust FSB
+(WTFSB), a federally-chartered savings bank. Until November&nbsp;2008, we owned a third depository
+institution: Wilmington Trust of Pennsylvania (WTPA), a Pennsylvania-chartered bank and trust
+company. On November&nbsp;1, 2008, we merged WTPA into WTFSB.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">WTFSB owns Wilmington Trust Retirement and Institutional Services Company (WTRISC), a
+Delaware-chartered trust company. WTRISC owns Wilmington Trust Fiduciary Services Company (WTFSC),
+a New Jersey-chartered nondepository bank.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">Organizationally, we have four business segments: Regional Banking, Corporate Client Services
+(CCS), Wealth Advisory Services (WAS), and Affiliate Money Managers.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">More information about our business is in the report&#146;s Management Discussion and Analysis of
+Financial Condition and Results of Operations (MD&#038;A) and in Notes 1 and 23 of the Notes to
+Consolidated Financial Statements, and is incorporated by reference herein.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 12pt"><B>STAFF MEMBERS</B>
+</DIV>
+
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">At year-end 2008, we had 2,946 full-time-equivalent staff members. We provide a variety of benefit
+programs for these staff members, which may include pension, incentive compensation, thrift
+savings, stock purchase, and group life, health, and accident plans. We consider our relationships
+with these staff members to be good, and we believe our ability to attract and retain high-quality
+staff members substantiates this.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 12pt"><B>STATISTICAL INFORMATION</B>
+</DIV>
+
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">The following information, as required by SEC Industry Guide 3, is contained in the MD&#038;A and
+the Notes to Consolidated Financial Statements, and is incorporated from the following pages of
+the Annual Report by reference herein.
+</DIV>
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="50%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="35%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="left"><B>Statistical information</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left"><B>Section</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center"><B>Page</B></TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR style="font-size: 1px">
+    <TD colspan="0" align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD colspan="0" align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD colspan="0" align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Interest changes due to volume and rate</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">MD&#038;A interest rate risk discussion</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="bottom">55</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Maturity distribution of investment securities</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">Note 6</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="bottom">91</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Period-end loan balances by loan category</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">MD&#038;A Regional Banking discussion</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="bottom">15</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Loan loss reserve allocation for the last five years</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">MD&#038;A credit risk discussion</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="bottom">48</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Loan maturities and interest rate sensitivity in the commercial and real estate/construction loan portfolios</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">MD&#038;A Regional Banking discussion</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="bottom">19</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Risk elements in the loan portfolio</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">MD&#038;A credit risk discussion</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="bottom">45</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Analysis of the loan loss provision and reserve and charge-offs</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">MD&#038;A credit risk discussion</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="bottom">47</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Maturity of
+time deposits <FONT style="font-family: symbol">&#179;</FONT> $100,000</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">Note 11</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="bottom">102</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Summary of short-term borrowings</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">Note 12</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="bottom">103</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Funding sources by deposit type</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">MD&#038;A liquidity discussion</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="bottom">39</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Returns on average assets and average equity, dividend payout ratio, and average equity to average assets</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">MD&#038;A capital resources discussion</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" valign="bottom">35-36</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Average balance sheets and analysis of net interest earnings for the last five years</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="bottom">68</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 12pt"><B>SUPERVISION AND REGULATION</B>
+</DIV>
+
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">As a publicly traded company that issues stock, we are subject to the rules and regulations of the
+U.S. Securities and Exchange Commission (SEC). Our stock is traded on the New York Stock Exchange,
+and we are subject to that exchange&#146;s rules and regulations. Our Board of Directors has implemented
+a system of strong corporate governance practices. More information about this is available on our
+Web site at www.wilmingtontrust.com.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">We are a bank holding company, a thrift holding company, and a financial holding company under the
+Bank Holding Company Act. We and WTC are regulated by the Delaware Department of Banking (DOB)&nbsp;and
+the Federal Reserve Board. WTFSB
+</DIV>
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">is regulated by the Office of Thrift Supervision (OTS). WTC and WTFSB (collectively, the banks) are
+subject to the rules and regulations of the Federal Deposit Insurance Corporation (FDIC). WTRISC is
+regulated by the DOB and the OTS. WTFSC is regulated by the New Jersey Department of Banking and
+Insurance and the OTS. In addition, some of our subsidiaries are regulated by other federal and
+state authorities as well as by regulatory authorities of other countries in which we conduct
+business.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">The FDIC insures deposits in the banks up to applicable limits. WTC and WTFSB are required to pay
+premiums for FDIC insurance coverage.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt"><b>Participation
+in government programs.</b> In addition to the Capital Purchase Program
+described in Note 16 of the Notes to Consolidated Financial Statements, we currently are
+participating in the following U.S. government programs:
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><DIV style="text-align: justify"><b>New deposit insurance
+limits.</b> FDIC deposit insurance coverage was increased on October&nbsp;3,
+2008, from $100,000
+to $250,000 per depositor for all deposits (individual retirement account deposits continue to
+be insured separately up to $250,000). This increase is temporary and, unless extended by
+Congress, it will expire on December&nbsp;31, 2009.</div></td>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><DIV style="text-align: justify"><b>FDIC Transaction Account
+Guarantee Program.</b> Under this program, which is part of the
+FDIC&#146;s Temporary Liquidity Guarantee Program (TLGP), all noninterest-bearing deposit
+transaction accounts, as well as certain types of transaction accounts with interest rates of
+0.5% or less, will be fully guaranteed by the FDIC for the entire amount in the account
+through December&nbsp;31, 2009. This is in addition to and separate from the coverage available
+under the FDIC&#146;s general deposit insurance coverage.</div></td>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><DIV style="text-align: justify"><b>FDIC Debt Guarantee
+Program.</b> This program, also part of the FDIC&#146;s TLGP, guarantees
+timely principal and interest payments on senior unsecured debt issued between October&nbsp;14,
+2008, and June&nbsp;30, 2009. We are participating in this program but, as of December&nbsp;31, 2008,
+had no debt issues that qualified for these guarantees.</div></td>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><DIV style="text-align: justify"><b>Temporary Guarantee
+Program for Money Market Funds.</b> Our three money market mutual
+funds &#151; the Wilmington Prime Money Market Fund, the Wilmington U. S. Government Money Market
+Fund, and the Wilmington Tax-Exempt Money Market Fund &#151; are participating in the U.S.
+Department of the Treasury&#146;s Temporary Money Market Guarantee Program. This program, which
+currently is scheduled to expire on April&nbsp;30, 2009, provides insurance protection to
+shareholders of record in these funds as of September&nbsp;19, 2008. The guarantee could be
+triggered if any of the participating funds&#146; share prices were to fall below $1.00. None of
+our participating funds has ever fallen below that level. Combined, these three funds had
+approximately $7.1&nbsp;billion in assets under management at December&nbsp;31, 2008.</div></td>
+</TR>
+
+</TABLE>
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt"><b>Safety
+and soundness.</b> The Federal Reserve Board requires us to operate in a safe and sound
+manner. If the Federal Reserve Board determines there is a serious risk to the financial safety and
+soundness of a subsidiary bank, it can require us to terminate the activity presenting the risk or
+terminate our control of the subsidiary.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">Federal regulations establish dollar amount limits and collateral requirements for assets the banks
+purchase from non-bank affiliates. For these purposes, we and most of the companies we control are
+considered affiliates of the banks. In addition, the Federal Reserve Act and the Federal Reserve
+Board impose dollar amount, credit quality, and other limitations on loans the banks make to
+directors, officers, principal shareholders, and their related interests.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt"><b>Capital requirements and dividend limitations. </B>To assess the capital adequacy of bank
+holding companies and their bank subsidiaries, the Federal Reserve Board and other federal banking
+agencies have adopted risk-weighted capital standards. As of December&nbsp;31, 2008, we and the banks
+were well capitalized, with capital levels that exceeded the minimum
+thresholds. More
+information about this is in Note 16 of the Notes to Consolidated Financial Statements.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">Dividends paid by the banks to us, and by us to shareholders, are subject to Federal Reserve Board,
+OTS, Delaware, and other legal and regulatory restrictions. More information about this is also in
+Note 16.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt"><b>Bank Holding Company Act (BHCA).</b> The BHCA requires us to have prior approval from the
+Federal Reserve Board before we may acquire control of a bank or before any company may acquire
+control of us. The BHCA also requires us to have the Federal Reserve Board&#146;s prior approval before
+we acquire ownership or control of more than 5% of the outstanding shares of any class of a bank&#146;s
+or bank holding company&#146;s voting securities; acquire substantially all of a bank&#146;s assets; or merge
+or consolidate with a bank holding company. Likewise, any bank holding or other company seeking to
+obtain control of us would need prior approval from the Federal Reserve Board and, because we are
+also a thrift holding company, prior approval from the OTS.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">As a financial holding company, we may engage in activities permitted by the BHCA without obtaining
+prior Federal Reserve Board approval. In addition, we may engage in activities not otherwise
+permitted for bank holding companies, generally without the Federal Reserve Board&#146;s prior approval.
+These activities include those that the Federal Reserve Board has determined are beneficial in
+nature, incidental to financial activities, or complementary to a financial activity. The BHCA does
+not place territorial restrictions on the activities of nonbank subsidiaries of financial holding
+companies.
+</DIV>
+
+<DIV align="right" style="font-size: 10pt; margin-top: 12pt">Page 2
+</DIV>
+
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt"><b>Bank Secrecy Act, USA PATRIOT Act, and Office of Foreign Assets Control regulations (collectively,
+the BSA laws).</b> The
+BSA laws require us to establish policies, procedures, and controls to detect, prevent, and report
+money laundering and terrorist financing activities. If we fail to comply with these laws,
+significant criminal and civil penalties can be imposed on us, and our charter, license, and/or
+deposit insurance can be revoked. We have adopted appropriate policies, procedures, and controls to
+comply with the BSA laws, and we will revise them as needed.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt"><b>Privacy and information security.</b> Federal and state laws and regulations require us to
+respect the privacy of our clients and to protect the security and confidentiality of their
+nonpublic personal information. These laws and regulations limit our disclosure of nonpublic client
+information to nonaffiliated third parties; require us to inform clients of our privacy and
+information-sharing policies; and require us to notify clients and regulators if an unauthorized
+disclosure occurs and there is concern the disclosed information may be misused. We have information
+security programs to safeguard the confidentiality and security of client information, and to
+ensure its proper disposal.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt"><b>Interstate Banking Act.</b> As an institution headquartered in Delaware, we are subject to the
+provisions of the Interstate Banking Act embraced by Delaware. Under this Act, Delaware permits
+mergers between Delaware banks and out-of-state banks, and allows the merged institution to open
+new offices in Delaware. Delaware does not permit out-of-state banks to establish new branches in
+Delaware or acquire Delaware branches of other institutions without first merging with them.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt"><b>Community Reinvestment Act (CRA).</b> The CRA requires banks to help serve the credit needs of
+the communities it serves. This includes extending credit and providing other services to low- and
+moderate-income individuals and families. To be rated at least satisfactory under the CRA, we are
+required to meet or exceed federal definitions of well-managed and well-capitalized financial
+institutions. If we fail to meet these requirements, we may incur penalties, which could include
+denials of applications to add branches, relocate, add subsidiaries and affiliates, and merge with
+or purchase other financial institutions. We also could be required to cease engaging in financial
+holding company activity or divest ownership of one or both of the banks.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt"><b>Fair
+Housing Act.</b> This Act and the CRA prohibit us from discriminating against or
+withholding services from individuals who live in economically depressed areas.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt"><b>Residential mortgage usury laws.</b> Since Delaware and Maryland have not overridden federal
+legislation that preempted state usury laws on residential first mortgage loans, there currently is
+no limit on interest rates the banks can charge on residential first mortgage loans. In today&#146;s
+interest rate environment, these usury laws do not materially affect the banks&#146; lending programs.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt"><b>Consumer protection laws.</b> Our banking activities are subject to a variety of federal
+and state consumer protection laws, including:
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><DIV style="text-align: justify">The Truth-in-Lending Act, which mandates disclosures for certain consumer loans;</div></TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><DIV style="text-align: justify">The Truth-in-Savings Act, which mandates deposit-related disclosures;</div></TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><DIV style="text-align: justify">The Equal Credit Opportunity Act, which prohibits discrimination; and</div></TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><DIV style="text-align: justify">The Fair Credit Reporting Act, which, if we deny a client&#146;s application for credit, requires
+us to tell the client which credit bureau we used to evaluate the application, and which
+imposes rules for information sharing and pre-screened offers of credit.</div></td>
+</TR>
+
+</TABLE>
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">Wilmington Brokerage Services Company (WBSC), our broker-dealer subsidiary, is registered as a
+broker-dealer with and is subject to regulation by the SEC and the securities administrators of the
+states in which it is registered. In addition, WBSC is a member of the Financial Industry
+Regulatory Authority (FINRA), and subject to FINRA regulations. WBSC is also a member of the
+Securities Investor Protection Corporation, which, in the event of a broker-dealer&#146;s liquidation,
+provides some financial protections for securities holders. Several of our subsidiaries, including
+WBSC, also are registered as investment advisors with the SEC and in some states.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">For additional requirements to which we are subject, read the &#147;Compensation Discussion and
+Analysis&#148; section of our Proxy Statement.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 12pt"><B>ADDITIONAL INFORMATION</B>
+</DIV>
+
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">We provide corporate news and other information about our company on our Web site at
+www.wilmingtontrust.com. Our annual reports on Form 10-K, quarterly reports on Form 10-Q, current
+reports on Form 8-K, and all amendments to these reports are available in the Investor Relations
+section of our Web site, under &#147;SEC filings.&#148; We post these reports to our Web site as quickly as
+possible after we file them electronically with or furnish them to the SEC.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">Our Corporate Governance Guidelines, Code of Conduct and Ethics, and the charters of our Audit,
+Compensation, and Nominating and Corporate Governance Committees are available in the About Us
+section of our Web site. This section also contains any amendments to or waivers from the Code of
+Conduct and Ethics that apply to any of our directors or executive officers.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">Printed copies of these materials are available free of charge to any shareholder who requests
+them by contacting Investor Relations at (302)&nbsp;651-8527 or IR@wilmingtontrust.com.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 12pt">Page 3
+</DIV>
+
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+<DIV align="left">
+<A name="124"></A>
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 12pt"><B>ITEM 1A. RISK FACTORS</B>
+</DIV>
+
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">The normal course of business exposes us to a variety of operational, reputational, legal, and
+regulatory risks, which we summarize below. All of these risks could affect our financial
+performance and condition adversely.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt"><B>Lending
+money is inherently risky</B>. This risk is associated primarily with our two
+subsidiary depository institutions (the banks): Wilmington Trust Company (WTC)&nbsp;and Wilmington Trust
+FSB (WTFSB). When we make a loan through the banks, we make subjective judgments about the
+borrower&#146;s ability to repay it. No matter how financially sound a client or lending decision may
+seem, a borrower&#146;s ability to repay can be affected adversely by economic changes and other
+external factors. If borrowers do not repay their loans, our levels of nonperforming assets, loan
+losses, and the provision for loan losses could increase.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">Adverse economic conditions, especially in the mid-Atlantic region, can increase the degree of
+repayment risk inherent in our loan portfolio. We do most of our lending in the mid-Atlantic
+region. Economic conditions in this region could affect the ability of borrowers to repay their
+loans. Adverse conditions also could reduce the value of assets, such as property or securities,
+that borrowers use as collateral. A reduction in the value of collateral could affect our ability
+to collect repayment of a loan if the borrower defaults.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">Some of the loans we make carry a higher degree of repayment risk than others. The commercial real
+estate/construction and commercial mortgage loans we make may carry a higher degree of repayment
+risk than other types of loans. The commercial real estate business is subject to downturns,
+overbuilding, and economic conditions. Adverse conditions in the real estate market, or in the
+economy in general, can affect the repayment ability of these borrowers more severely than other
+types of borrowers.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">Commercial mortgage loans for multi-family residential properties may be riskier than those for
+one-to-four family residences. Multi-family property loans are typically larger than loans for
+one-to-four family residential properties. In addition, the repayment of loans for multi-family
+properties typically depends on successful property operation and management. At December&nbsp;31, 2008,
+our commercial mortgage portfolio totaled $1,870.2&nbsp;million, or 19% of total loans outstanding.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">Commercial real estate/construction loans, which we make for residential and commercial properties
+and for unimproved land, may carry a higher degree of repayment risk than other types of loans,
+especially when the associated projects are not generating income. Repayment of these types of
+loans often depends on the ultimate success of the project, not on the borrower&#146;s or guarantor&#146;s
+ability to repay. In addition, consistent with industry practice, we sometimes fund the interest
+payments on a commercial construction loan by including the interest as part of the total loan.
+This increases the total amount of the borrower&#146;s loan. At December&nbsp;31, 2008, our commercial real
+estate/construction portfolio totaled $1,923.8&nbsp;million, or 20% of total loans outstanding.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">Consumer loans may carry a higher degree of repayment risk than residential mortgage loans,
+particularly when the consumer loan is unsecured. Repayment of a consumer loan typically depends on
+the borrower&#146;s financial stability, and it is more likely to be affected adversely by job loss,
+illness, or personal bankruptcy. In addition, federal and state bankruptcy, insolvency, and other
+laws may limit the amount we can recover when a consumer client defaults. At December&nbsp;31, 2008, our
+consumer loan portfolio totaled $1,732.9&nbsp;million, or 18% of total loans outstanding.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">Market interest rates can affect loan profitability and increase repayment risk. The interest rates
+on almost all of our commercial loans, and on many of our consumer and residential mortgage loans,
+are adjustable (floating). Floating rate loans generally carry lower initial interest rates than
+fixed rate loans, which may make them less profitable than fixed rate loans during the initial
+interest rate period. When the floating rate rises, it may be more difficult for some borrowers to
+repay their loans, and loan delinquencies may increase. For 2008, we recorded a provision for loan
+losses of $115.5&nbsp;million.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt"><B>Changes in market interest rates, and the pace at which they occur, can affect net interest
+income adversely</B>. Market interest rates present more risk to us than inflation. As a financial
+institution, nearly all of our assets and liabilities are monetary in nature. Their values are more
+likely to be eroded by changes in market interest rates than by the effects of inflation on
+currency valuations.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">Rate changes, which can affect the yields we earn on loans and investments and the rates we pay on
+deposits and other borrowings, can affect our net interest margin and net interest income
+positively or negatively, and ultimately affect our financial performance.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt"><B>Securities in our investment portfolio are subject to credit risk, market risk, illiquidity,
+and accounting risk</B>. The fair market value of instruments in our investment securities
+portfolio may fall below the amount at which we purchased them, and we may be required to record
+these valuation declines as securities losses. These conditions could result from factors beyond
+our control, including credit rating agency downgrades, issuer defaults, lack of market demand or
+trading activity, and instability in
+</DIV>
+
+<DIV align="right" style="font-size: 10pt; margin-top: 12pt">Page 4
+</DIV>
+
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">the credit markets. In addition, issuers of these securities may prepay or revoke instruments prior
+to their scheduled maturity. These conditions could affect our cash flows, earnings, and regulatory
+capital ratios negatively.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">Any change in current accounting principles or interpretations of those principles could affect
+our assessment of the fair value of our securities and our determination of whether they are
+other-than-temporarily impaired. Such a determination would require us to record a non-cash charge
+in an amount equal to the decrease in the value of the securities. In 2008, we recorded total
+securities losses of $130.7&nbsp;million.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt"><B>Volatility
+in financial markets can affect our noninterest income adversely</B>. Some of our
+Wealth Advisory Services (WAS)&nbsp;and Corporate Client Services (CCS)&nbsp;fees, and all of the affiliate
+money manager fees, are based on financial market valuations of assets we manage or hold in custody
+for clients. Changes in these valuations can affect noninterest income positively or negatively,
+and ultimately affect our financial results.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt"><B>Circumstances in the mid-Atlantic region, throughout the United States, and around the world
+could reduce demand for our services and negatively affect our
+ability to conduct business</B>.
+These circumstances include inflation, recession, unemployment, changes in market interest rates,
+money supply, the competitive environment, economic uncertainty, military actions, and other
+factors beyond our control.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">Changes in business and economic conditions in general, or specifically in the principal markets in
+which we do business, could affect our financial results adversely. Our results could be affected
+adversely by a weakening of or sustained weakness in business or economic conditions that may
+affect our clients and counterparties directly or indirectly. These conditions could lead to:
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><DIV style="text-align: justify">A decrease in the demand for loans and other products and services we offer.</div></td>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR>
+
+
+
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><DIV style="text-align: justify">A decrease in client savings, in general, and in demand for the savings and investment products we offer, in particular.</div></td>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><DIV style="text-align: justify">An increase in the number of clients and counterparties who become delinquent, file for
+protection under bankruptcy laws, or default on their loans and other obligations to us. An
+increase in the number of delinquencies, bankruptcies, or defaults could result in a higher
+level of nonperforming assets, net charge-offs, and provisions for loan losses.</div></td>
+</TR>
+
+</TABLE>
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">Our Regional Banking business is particularly vulnerable to adverse changes in economic conditions
+in the mid-Atlantic region, where this business is concentrated.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt"><B>Competition can increase the rates we pay to attract deposits, reduce the interest rates we can
+charge on loans, reduce the fees we charge for services, and affect our ability to retain existing
+clients or attract new clients</B>. We compete for loans, deposits, assets to manage or hold in
+custody, and opportunities to provide trustee, administrative, and other services.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">We compete for loans primarily with savings banks, savings and loan associations, commercial banks,
+mortgage banking companies, insurance companies, and other institutional lenders in the
+mid-Atlantic region. For deposits, we compete primarily with savings banks, savings and loan
+associations, and commercial banks in the mid-Atlantic region. We also compete for deposits with
+dealers in government securities, deposit brokers, and credit card, direct, and internet-based
+financial institutions outside of the mid-Atlantic region.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">We compete for other types of business with regional and money center banks, trust companies,
+investment advisors, mutual fund companies, family office service providers, insurance companies,
+accounting firms, law firms, and other service providers.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">Some of our competitors are larger, have greater financial resources, have higher lending limits,
+and provide services that we do not, such as investment banking. In some cases, mergers,
+acquisitions, and other types of consolidation within the financial services industry have
+heightened competition by reducing the number of competitors. In other cases, consolidation that
+created very large institutions has reduced the number of independent, conflict-free competitors
+and made it easier for us to compete.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">Our business could be affected negatively if we fail to develop and market new and innovative
+products and services, or fail to adopt or deploy new technologies. Our ability to compete for
+business depends in part on our ability to develop ways to differentiate our products and services
+and to improve efficiency. Competitive pressures plus rapid technological change in our industry
+require us to invest in new products and services, and to bring them to market in a timely fashion
+and at a competitive price, on an ongoing basis.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">Developing and introducing new products can be risky. We may not achieve timeframe, price, or
+profitability targets. Changes in the regulatory environment, competition, and market demand could
+affect our ability to launch new products successfully. There could be unanticipated effects on
+our system of internal controls. These factors could affect our financial performance negatively.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 12pt">Page 5
+</DIV>
+
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt"><B>Changes in accounting rules may affect our reported earnings and operating income
+adversely</B>. Generally accepted accounting principles (GAAP)&nbsp;and accompanying accounting
+pronouncements, implementation guidelines, and interpretations for many aspects of our business are
+highly complex and may involve subjective judgments. Changes in these rules or their
+interpretations could affect our earnings significantly.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt"><B>Changes in the value of goodwill or intangible assets on our balance sheet could affect
+earnings adversely</B>. If, under GAAP, we determine that any of our goodwill or amortizable
+intangible assets are impaired, we may be required to record an expense that could reduce net income
+and stockholders&#146; equity.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">We review our amortizable intangible assets for impairment when events or changes in circumstances
+indicate that the carrying value of those assets may not be recoverable. We are required to test
+for impairment at least annually. In 2008, we wrote down the value of our investment in affiliate
+money manager Roxbury Capital Management by $66.9&nbsp;million.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt"><B>Making acquisitions can be risky</B>. Our attention may be diverted from other business
+matters; we could lose key clients or staff members; we may have difficulty integrating systems and
+operations; the acquired business may not meet our profitability expectations; we may assume
+unanticipated liabilities; we may be unable to anticipate fully the risks associated with entering
+new market segments or geographical areas; and we may incur unanticipated expenses. These factors
+could affect our financial performance negatively.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">We typically allocate a portion of an acquisition&#146;s purchase price to goodwill. If the value of the
+acquired entity or business unit deteriorates, we may be required to record a goodwill impairment
+that could reduce net income and stockholders&#146; equity.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt"><B>We run the risk of having insufficient liquidity, or funding</B>. A lack of funding, or access
+to it, could impede our ability to make loans, fund other asset growth, accommodate deposit
+withdrawals and other liability maturities, meet contractual obligations, and fund new business
+transactions at a reasonable cost, in a timely manner, and without adverse consequences.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">Core deposits (deposits from clients) are our primary source of funding. Our core deposits come
+primarily from Delaware, where our consumer banking activities are concentrated. Because we make
+commercial loans throughout the mid-Atlantic region, we rely on other funding sources to augment
+core deposits.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">A significant decrease in our core deposits, an inability to obtain alternative funding to our core
+deposits, or a substantial, unexpected, or prolonged change in the level or cost of funding could
+have a negative effect on our business and financial condition. At December&nbsp;31, 2008, our
+loan-to-core-deposits ratio was 1.57%.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">For more information about this, read the &#147;Liquidity and funding&#148; section of the MD&#038;A in our Annual
+Report.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt"><B>Our access to funding, and our ability to serve some clients, could be affected adversely by
+unfavorable rating actions taken by credit rating agencies</B>. Wilmington Trust Corporation and
+Wilmington Trust Company are rated by Standard &#038; Poor&#146;s, Moody&#146;s Investors Service, and Fitch
+Ratings. Standard &#038; Poor&#146;s downgraded our credit ratings in January&nbsp;2009. Moody&#146;s and Fitch
+downgraded our credit ratings in February&nbsp;2009. Unfavorable rating actions by these agencies could
+increase our cost of funds, reduce or limit our access to certain types of funding, or place us in
+violation of certain covenants in client and other contracts in which we are a party.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt"><B>Disruption in the capital and credit markets has created illiquidity and uncertainty</B>. The
+capital and credit markets have experienced severe volatility and disruption since the second half
+of 2007. In some cases, these conditions have produced down
+ward pressures on security prices and credit availability for issuers regardless of the underlying
+financial strength of the issuers. A continuation or worsening of these conditions could have a
+materially adverse effect on our business, financial condition, and results of operations.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt"><B>The failure of other financial institutions could affect us adversely</B>. We have exposure to
+many different industries and counterparties, and routinely execute transactions with other
+financial services providers, including brokers and dealers, commercial banks, investment banks,
+insurers, mutual and hedge funds, and other institutional clients. Many of these transactions
+expose us to credit risk in the event of a default by our counterparty or client. In addition, our
+credit risk may be exacerbated when collateral we hold cannot be relied upon or is liquidated at
+prices not sufficient to recover the full amount of our exposure.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">Defaults by, or even questions or rumors about, one or more financial services institutions, or
+the financial services industry in general, have created market-wide liquidity problems and
+could lead to losses or defaults by other institutions or us. Any such losses could materially
+and adversely affect our results of operations.
+</DIV>
+
+<DIV align="right" style="font-size: 10pt; margin-top: 12pt">Page 6
+</DIV>
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt"><B>There can be no assurance that recent U.S. government intervention will help stabilize the U.S.
+financial system</B>. The
+Emergency Economic Stabilization Act of 2008 (EESA)&nbsp;was enacted on October&nbsp;3, 2008, in response to
+the financial crises affecting the banking system and financial markets and the questionable
+ability of certain investment banks and other financial institutions to continue as going concerns.
+Programs authorized by the EESA permit the U.S. Department of the Treasury to purchase mortgages,
+mortgage-backed securities, and certain other financial instruments from financial institutions for
+the purpose of stabilizing and providing liquidity to the U.S. financial markets. The failure of
+these programs to help stabilize the financial markets and a continuation or worsening of current
+financial market conditions could materially and adversely affect our business, financial
+condition, results of operations, access to credit, or the trading price of our securities.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt"><B>We and our subsidiaries are subject to a variety of legal and regulatory restrictions</B>.
+Failure to comply adequately with these requirements could subject us to financial, regulatory, or
+other sanctions, which could have negative effects on our financial performance and ability to
+conduct business. These include restrictions imposed by the BHCA, the Federal Deposit Insurance
+Act, the Federal Reserve Act, the Home Owners&#146; Loan Act, and a variety of federal and state
+consumer protection laws.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt"><B>We and our subsidiaries are subject to various legal proceedings that arise from time to time
+in the ordinary course of business</B>. Some of these proceedings may seek relief or damages in
+amounts that may be substantial. Typically these proceedings are complex, and many years may pass
+before they are resolved.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt"><B>Negative public opinion could damage our reputation</B>. Negative public opinion can result
+from the actual or perceived manner in which we conduct business, manage actual or potential
+conflicts of interest and ethical issues, and protect confidential client information. It can have
+an adverse effect on our ability to attract and retain clients, expose us to litigation and
+regulatory actions, and ultimately affect our financial performance negatively.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt"><B>Our ability to pay dividends on our common stock depends primarily on the financial results of
+our wholly owned subsidiaries</B>. As a bank holding company, we conduct almost all of our business
+through WTC, WTFSB, and our other subsidiaries. Payments to us by these subsidiaries are the
+primary sources of the capital we use to pay dividends. The ability of our subsidiaries to make
+these payments to us is limited by their need to maintain sufficient capital and by other general
+regulatory restrictions on the dividends they pay us. If they do not satisfy these requirements, we
+may be unable to pay dividends on our common stock.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">In addition, our participation in the United States Department of the Treasury&#146;s Capital Purchase
+Program places some restrictions on our ability to pay or increase dividends on our preferred or
+common stock. For more information about these and other regulatory restrictions on common stock
+dividend payments, read Note 16, &#147;Capital,&#148; in the Annual Report.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt"><B>In the future, we may issue debt and equity securities that could reduce the value of our
+common stock</B>. We may attempt to increase our capital resources by issuing additional common
+stock, preferred stock, or secured or unsecured debt. Some of these issues, were they to occur,
+could substantially dilute the value of our common stock. Because our decision to incur debt and
+issue securities in future offerings may be influenced by market conditions and other factors beyond
+our control, we cannot predict or estimate the amount, timing, or nature of our future offerings or
+debt financings. In addition, market conditions could require us to accept less favorable terms for
+the issuance of our securities in the future. More information about these potential activities is
+in the prospectus supplement and amended shelf registration filed with the SEC on January&nbsp;12, 2009.
+These documents are available on www.wilmingtontrust.com in the Investor Relations section under
+SEC filings.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt"><B>Our certificate of incorporation may discourage unsolicited acquisition proposals</B>. Our
+certificate of incorporation, our bylaws, and Delaware law include certain anti-takeover
+provisions. These protections could discourage potential acquisition proposals, or delay or prevent
+a change in control of our company. Under these provisions, we have a classified Board of
+Directors; we require shareholders to inform us in advance and meet certain other conditions if
+they nominate directors; and we have the ability to issue up to 1&nbsp;million shares of preferred stock
+and the balance of our 150&nbsp;million shares of common stock in the event of an unsolicited
+acquisition proposal.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt"><B>Other risks could affect our earnings and damage our reputation</B>. These include human
+error, systems failures, breach of fiduciary duty, fraud, and inadequate controls and
+procedures.
+</DIV>
+<DIV align="left">
+<A name="103"></A>
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 12pt"><B>ITEM
+1B. UNRESOLVED STAFF COMMENTS</B>
+</DIV>
+
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">We have no outstanding unresolved comments from SEC staff.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 12pt">Page 7
+</DIV>
+
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+<DIV align="left">
+<A name="104"></A>
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 12pt"><B>ITEM 2. PROPERTIES</B>
+</DIV>
+
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">Our largest properties are in downtown Wilmington, Delaware: the Wilmington Trust Center (1100
+North Market Street) and the Wilmington Trust Plaza (301 West Eleventh Street). Our main office is
+in the Wilmington Trust Center, which is owned by Rodney Square Investors, L.P., one of our
+subsidiaries. At the end of 2008, the outstanding mortgage on this building was $33,274,118. There
+is no mortgage on the Wilmington Trust Plaza, an operations facility owned by a subsidiary.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">At December&nbsp;31, 2008, our branch office (as defined by banking regulators) and other
+office locations were as follows:
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">Arizona: One office in Phoenix.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">California: One office each in Los Angeles, Costa Mesa, and Beverly Hills (Grant Tani Barash &#038;
+Altman).
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">Connecticut: One office each in Guilford and Stamford.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">Delaware: 48 branch offices
+throughout the state (24 in New Castle County, including one each at the Wilmington Trust Center
+and Wilmington Trust Plaza; 8 in Kent County; and 16 in Sussex County), plus 1 retirement
+services administrative office
+in Wilmington.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">Florida: One branch office in North Palm Beach and one office each in Palm Beach,
+Stuart, and Vero Beach.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">Georgia: One office in Atlanta.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">Maryland: One branch office in Baltimore and one
+office in Bel Air.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">Massachusetts: One office in
+Boston.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">Minnesota: One office in Bloomington.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">Nevada: One branch office in Las Vegas.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">New Jersey: One office each in Jersey City, Mt. Laurel,
+and Princeton.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">New York: Two offices in New York City.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">Pennsylvania: One branch office each in Bethlehem, Doylestown, Philadelphia,
+Villanova, and West Chester.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">South Carolina: One office in Charleston.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">Vermont: One
+office in Burlington.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">Europe: One office each in the Channel Islands (Jersey), England (London), Ireland
+(Dublin), Germany (Frankfurt), Luxembourg, and The Netherlands (Amsterdam).
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">Caribbean: One
+office in Grand Cayman, Cayman Islands.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">We own 29 of these offices. We lease space for the others. We believe these offices are suitable
+and adequate for our needs, and that we could accommodate further growth by utilizing existing
+capacity or by acquiring or renting additional space. More information about our lease obligations
+is in the discussion of contractual obligations, which is on page 60 in our Annual Report, and in
+Note 13, &#147;Commitments and contingencies,&#148; which begins on
+page 104 of our Annual Report.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">Three of our reporting segments &#151; Regional Banking, CCS, and WAS &#151; operate principally at
+Wilmington Trust Center. CCS and WAS also lease a substantial portion of a facility across the
+street from Wilmington Trust Center.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">Regional Banking operates our branch offices, except for the one in Florida, which WAS operates.
+Regional Banking and WAS operate our offices in Maryland, New Jersey, and Pennsylvania. WAS
+operates our offices in California, Connecticut, Florida, Georgia, and Massachusetts. WAS and CCS
+operate our offices in New York. CCS operates our offices in Arizona, Minnesota, Nevada, South
+Carolina, Vermont, Europe, and the Caribbean.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">Our fourth reporting segment &#151; Affiliate Money Managers &#151; comprises our investments in Cramer
+Rosenthal McGlynn (CRM)&nbsp;and Roxbury Capital Management (RCM). CRM leases office space in White
+Plains and New York, New York. RCM leases office space in Santa Monica, California.
+</DIV>
+
+
+<DIV align="left">
+<A name="105"></A>
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 12pt"><B>ITEM 3. LEGAL PROCEEDINGS</B>
+</DIV>
+
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">This
+information is in the risk discussion in the Annual Report on page 58, and is incorporated by
+reference herein.
+</DIV>
+
+
+<DIV align="left">
+<A name="106"></A>
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 12pt"><B>ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS</B>
+</DIV>
+
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">No matter was submitted during the fourth quarter of 2008.
+</DIV>
+
+<DIV align="right" style="font-size: 10pt; margin-top: 12pt">Page 8
+</DIV>
+
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+<DIV align="left">
+<A name="107"></A>
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt"><B>PART II</B>
+</DIV>
+
+
+
+<DIV align="left">
+<A name="108"></A>
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt"><B>ITEM 5. MARKET FOR REGISTRANT&#146;S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES</B>
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">Information about our common stock, as well as the frequency and amount of dividends paid during
+the last two years, is in the section on stockholder information in
+the Annual Report on page 132
+and is incorporated by reference herein. Information about equity securities we sold during 2008
+that were not registered under the Securities Act of 1933 is contained in Note 16 to our
+Consolidated Financial Statements on page 111 of the Annual Report and is incorporated by reference
+herein.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 12pt"><B>SECURITIES AUTHORIZED FOR ISSUANCE UNDER EQUITY COMPENSATION PLANS</B>
+</DIV>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="64%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2">(c)</td>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2">Number of securities</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2">(a)</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2">(b)</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2">remaining available</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2">Number of securities to</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2">Weighted average</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2">for future issuance</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2">be issued upon exercise</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2">exercise price of</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2">under equity compensation</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2">of outstanding options,</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2">outstanding options,</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2">plans (excluding securities</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>Plan Category</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2">warrants, and rights</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2">warrants, and rights</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2">reflected in column a)</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR style="font-size: 1px">
+    <TD colspan="13" align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Equity compensation
+plans approved by
+security holders</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">7,072,458</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">34.86</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">929,173</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Equity compensation
+plans not approved
+by security holders</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:30px; text-indent:-15px">Total</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">7,072,458</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">34.86</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">929,173</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD colspan="13" align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 12pt"><B>SHARE REPURCHASE ACTIVITY DURING THE FOURTH QUARTER OF 2008</B>
+</DIV>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="52%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2">Total number of</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2">Maximum number</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2">shares purchased as part</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2">of shares that</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2">Total number of</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2">Average price</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2">of publicly announced</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2">may yet be purchased</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="left">Period</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2">shares
+repurchased<SUP style="font-size: 85%; vertical-align: text-top">1</SUP></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2">paid per share</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2">plans or programs</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2">under the
+plan<SUP style="font-size: 85%; vertical-align: text-top">2</SUP></TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR style="font-size: 1px">
+    <TD colspan="17" align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">October</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">13,129,108</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">November</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">13,073,470</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">December</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">3,549</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">16.38</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">13,077,361</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Total</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">3,549</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">16.38</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">13,077,361</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD colspan="17" align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+
+<TD width="1%" nowrap align="left"><i><SUP style="font-size: 85%; vertical-align: text-top">1</SUP></i></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><DIV style="text-align: justify"><i>Includes 3,549 shares
+tendered for cancellation of restricted stock returned to treasury.</i></div></TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+
+<TD width="1%" nowrap align="left"><i><SUP style="font-size: 85%; vertical-align: text-top">2</SUP></i></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><DIV style="text-align: justify"><i>In April&nbsp;2002, our
+Board of Directors authorized the repurchase of up to 8&nbsp;million
+shares of our stock.</i></div></TD>
+</TR>
+
+</TABLE>
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">The Federal Reserve Board&#146;s policy is that a bank holding company should not pay dividends unless its prospective
+earnings retention rate is consistent with its capital needs, asset quality, and overall financial condition. We
+believe our payment of dividends during 2008 was consistent with the Federal Reserve Board&#146;s policy. We reduced
+the quarterly dividend on our common stock to $0.1725 on January&nbsp;29, 2009.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 12pt">Page 9
+</DIV>
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<DIV align="left">
+<A name="109"></A>
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 12pt"><B>ITEM 6. SELECTED FINANCIAL DATA</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>BALANCE SHEET</B>
+
+</DIV>
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="40%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="left"><B>At year end (in millions)</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2"><B>2008</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2"><B>2007</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2"><B>2006</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2"><B>2005</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2"><B>2004</B></TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR style="font-size: 1px">
+    <TD colspan="21" align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Assets</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">12,318.9</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">11,485.7</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">11,157.0</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">10,245.4</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">9,519.1</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Long-term debt</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">468.8</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">267.8</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">388.5</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">400.4</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">408.6</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 12pt"><B>INCOME STATEMENT</B>
+</DIV>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="40%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="left"><B>For the years (in millions)</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2"><B>2008</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2"><B>2007</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2"><B>2006</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2"><B>2005</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2"><B>2004</B></TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR style="font-size: 1px">
+    <TD colspan="21" align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Interest income</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">611.4</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">722.2</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">674.8</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">516.6</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">386.5</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Net interest income</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">357.7</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">368.9</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">363.1</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">328.9</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">294.4</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Provision for loan losses</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">115.5</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">28.2</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">21.3</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">11.8</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">15.6</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Net (loss)/income</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left">&nbsp;</TD>
+    <TD align="right">(23.6</TD>
+    <TD nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">182.0</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">143.8</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">167.0</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">136.9</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 12pt"><B>PER COMMON SHARE DATA</B>
+</DIV>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="40%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="left"><B>For the year (in dollars)</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2"><B>2008</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2"><B>2007</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2"><B>2006</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2"><B>2005</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2"><B>2004</B></TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR style="font-size: 1px">
+    <TD colspan="21" align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Net (loss)/income &#151; basic</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left">$</TD>
+    <TD align="right">(0.36</TD>
+    <TD nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">2.68</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">2.10</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">2.47</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">2.05</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Net (loss)/income &#151; diluted</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left">&nbsp;</TD>
+    <TD align="right">(0.36</TD>
+    <TD nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">2.64</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">2.06</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">2.43</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">2.02</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Cash dividends declared</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">1.37</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">1.32</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">1.245</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">1.185</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">1.125</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+<DIV align="left">
+<A name="110"></A>
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt"><B>ITEM
+7. MANAGEMENT&#146;S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS</B>
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">Information
+required by this Item is in the Annual Report on pages 8-61, and is incorporated by
+reference herein.
+</DIV>
+<DIV align="left">
+<A name="111"></A>
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt"><B>ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK</B>
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">Information required by this Item is in the risk discussion in the Annual Report on pages
+53-56, and is incorporated by reference herein.
+</DIV>
+<DIV align="left">
+<A name="112"></A>
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 12pt"><B>ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA</B>
+</DIV>
+
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">Information required by this Item is on the pages of the Annual Report indicated below, and is
+incorporated by reference herein.
+</DIV>
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="88%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="left">Statement</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" colspan="2">Page</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR style="font-size: 1px">
+    <TD colspan="0" align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+
+<TD><DIV style="margin-left:15px; text-indent:-15px">Consolidated
+Statements of Condition as of December&nbsp;31, 2008, and 2007</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">73</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+
+<TD><DIV style="margin-left:15px; text-indent:-15px">Consolidated
+Statements of Income for the years ended December&nbsp;31, 2008,
+2007, and 2006</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">74-75</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Consolidated Statements of Changes in Stockholders&#146; Equity for the years ended
+December&nbsp;31, 2008, 2007, and 2006</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">76-77</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Consolidated
+Statements of Cash Flows for the years ended December&nbsp;31, 2008,
+2007, and 2006</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">78-79</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+
+<TD><DIV style="margin-left:15px; text-indent:-15px">Notes
+to Consolidated Financial Statements</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">80-129</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+
+<TD><DIV style="margin-left:15px; text-indent:-15px">Reports
+of Independent Registered Public Accounting Firm</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">131-132</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+
+<TD><DIV style="margin-left:15px; text-indent:-15px">Unaudited
+Selected Quarterly Financial Data</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">72</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+</DIV>
+
+<DIV align="right" style="font-size: 10pt; margin-top: 12pt">Page 10
+</DIV>
+
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<DIV align="left">
+<A name="113"></A>
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 12pt"><B>ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+FINANCIAL DISCLOSURE</B>
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">There were no changes in accountants or disagreements with KPMG LLP, our independent registered
+public accounting firm, on accounting and financial disclosure.
+</DIV>
+<DIV align="left">
+<A name="114"></A>
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 12pt"><B>ITEM 9A. CONTROLS AND PROCEDURES</B>
+</DIV>
+
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">Information
+required by this Item is in the Controls and Procedures section on
+page&nbsp;59 of the
+Annual Report, and in Management&#146;s Discussion of Financial
+Responsibility on page&nbsp;130 of the Annual
+Report, and is incorporated by reference herein.
+</DIV>
+<DIV align="left">
+<A name="115"></A>
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 12pt"><B>ITEM 9B. OTHER INFORMATION</B>
+</DIV>
+
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">At its meeting on February&nbsp;25, 2009, the Compensation Committee (Committee) of our Board of
+Directors established the annual performance factors for bonus awards for 2009 that are payable in
+2010 for the named executive officers in our Proxy Statement.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">For Ted T. Cecala, those performance factors include our earnings per share, return on assets, and
+return on equity for 2009 compared to peer institutions, and how our net income for 2009 compares
+to our 2009 business plan.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">For Robert V. A. Harra Jr., those performance factors include increasing deposits, expanding our
+presence in Maryland and New Jersey, and improving the profitability of the Regional Banking
+business.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">For David R. Gibson, those performance factors include continued management of our interest rate
+risk, monitoring of our funding strategies, and assisting in our acquisition efforts and
+integrations of acquired businesses.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">For William J. Farrell II, those performance factors include increasing sales for the CCS business
+internationally, increasing sales of our investment management services, and completing the
+integration of our retirement services activities with those provided by Wilmington Trust
+Retirement and Institutional Services Company (the former AST Capital Trust Company, which we
+acquired in April&nbsp;2008).
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">For Robert M. Balentine, those performance factors include aligning the staff and resources of
+Wilmington Trust Investment Management (WTIM)&nbsp;with the WAS and CCS business lines, internalizing
+asset management provided by outside investment firms where appropriate, increasing sales of WTIM&#146;s
+mutual fund products, and expanding the scope of our brokerage activities in the mid-Atlantic
+region.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">The
+Committee also approved an amendment to our Supplemental Executive Retirement Plan (SERP).
+Under that amendment, the compensation covered by the SERP is a participant&#146;s compensation for the
+highest paid five of the final 10&nbsp;years of his or her employment.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">The Committee also awarded the following bonuses in the form of restricted stock to its named
+executive officers: $200,000 each to Messrs.&nbsp;Cecala, Harra, and Farrell; $195,000 to Mr.&nbsp;Gibson;
+and $187,500 to Mr.&nbsp;Balentine. This restricted stock vests in three equal installments over the
+three-year period beginning February&nbsp;26, 2009, but not before
+the U.S.&nbsp;Treasury no longer holds any debt
+or equity security we issued under the Capital Purchase Program. Since these bonuses are in the form of restricted
+stock, they are subject to forfeiture prior to vesting.
+</DIV>
+
+
+<P align="left" style="font-size: 10pt"><!-- Folio -->Page 11<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+<DIV align="left">
+<A name="116"></A>
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 12pt"><B>PART III</B>
+</DIV>
+
+<DIV align="left">
+<A name="117"></A>
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 12pt"><B>ITEM 10. DIRECTORS, EXECUTIVE OFFICERS, AND CORPORATE GOVERNANCE</B>
+</DIV>
+
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">Information
+required by this Item is on pages&nbsp;11-12, 32, 5, 6 and 9 of our Proxy Statement, and is incorporated by
+reference herein.
+</DIV>
+<DIV align="left">
+<A name="118"></A>
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 12pt"><B>ITEM 11. EXECUTIVE COMPENSATION</B>
+</DIV>
+
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">Information
+required by this Item is on pages&nbsp;14-32 of our Proxy Statement, and is incorporated by
+reference herein.
+</DIV>
+<DIV align="left">
+<A name="119"></A>
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 12pt"><B>ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED
+STOCKHOLDER MATTERS</B>
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">Information
+required by this Item is in Item&nbsp;5 and on pages&nbsp;13-14 of our Proxy Statement, and is
+incorporated by reference herein.
+</DIV>
+<DIV align="left">
+<A name="120"></A>
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 12pt"><B>ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR
+INDEPENDENCE</B>
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">Information
+required by this Item is on pages&nbsp;22 and 3-4 of our Proxy Statement, and is incorporated by
+reference herein.
+</DIV>
+<DIV align="left">
+<A name="121"></A>
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 12pt"><B>ITEM
+14. PRINCIPAL ACCOUNTANT FEES AND SERVICES</B>
+</DIV>
+
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">Information
+required by this Item is on page&nbsp;10 of our Proxy Statement, and is incorporated by
+reference herein.
+</DIV>
+
+<P align="right" style="font-size: 10pt"><!-- Folio -->Page 12<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+<DIV align="left">
+<A name="122"></A>
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 12pt"><B>PART IV</B>
+</DIV>
+
+<DIV align="left">
+<A name="123"></A>
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 12pt"><B>ITEM 15. EXHIBITS AND FINANCIAL STATEMENT SCHEDULES</B>
+</DIV>
+
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">The financial statements required by this Item are incorporated by reference from Item&nbsp;8. No
+additional financial statement schedules are required to be filed as part of this report.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">The exhibits listed below have been or are being filed as part of this report. Any exhibit is
+available to any shareholder:
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><DIV style="text-align: justify">Free of charge on our Web site at www.wilmingtontrust.com or through the SEC&#146;s Web site at www.sec.gov.</div></TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><DIV style="text-align: justify">By sending a written request, plus $0.20 per page for duplicating costs, to Investor
+Relations at our headquarters address or to IR@wilmingtontrust.com.</div></TD>
+</TR>
+
+</TABLE>
+</DIV>
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="15%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="81%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="left"><b>Exhibit</b></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="left" style="border-bottom: 1px solid #000000"><b>Number</b></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left" style="border-bottom: 1px solid #000000"><b>Exhibit</b></TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">3.1
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Amended and Restated Certificate of
+Incorporation of the Corporation (Commission File Number 1-14659) <SUP style="font-size: 85%; vertical-align: text-top">1</SUP></TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">3.2
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Amended and Restated Bylaws of the Corporation (Commission File Number 1-14659) <SUP style="font-size: 85%; vertical-align: text-top">2</SUP></TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">3.3
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Form of Amended Certificate of Designations of Series&nbsp;A Junior Participating Preferred Stock dated December&nbsp;16, 2004
+(Commission File Number 1-14659) <SUP style="font-size: 85%; vertical-align: text-top">3</SUP></TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">3.4
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Certificate of Designations for Series&nbsp;A Preferred Stock dated December&nbsp;12, 2008 (Commission File Number <BR>
+
+1-14659) <SUP style="font-size: 85%; vertical-align: text-top">4</SUP></TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">4.1
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Amended and Restated Rights Agreement dated as of December&nbsp;16, 2004 between Wilmington Trust Corporation and Wells
+Fargo Bank, N.A. (Commission File Number 1-14659) <SUP style="font-size: 85%; vertical-align: text-top">5</SUP></TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">4.2
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Indenture Relating to Subordinated Debt Securities dated as of May&nbsp;4, 1998 between Wilmington Trust Corporation and
+Norwest Bank Minnesota, National Association (Commission File Number 1-14659) <SUP style="font-size: 85%; vertical-align: text-top">6</SUP></TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">4.3
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Officers&#146; Certificate dated April&nbsp;1, 2003 establishing the terms of the 4.875% Subordinated Note due 2013 <SUP style="font-size: 85%; vertical-align: text-top">7</SUP></TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">4.4
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Subordinated Note of Wilmington Trust Corporation dated April&nbsp;4, 2003 (Commission File Number 1-14659) <SUP style="font-size: 85%; vertical-align: text-top">8</SUP></TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">4.5
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Officers&#146; Certificate pursuant to the Indenture, dated April&nbsp;1, 2008, establishing the terms of the 8.50% Subordinated
+Note due 2018 <SUP style="font-size: 85%; vertical-align: text-top">9</SUP></TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">4.6
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Form of 8.50% Subordinated Note due 2018 (Commission File Number 1-14659) <SUP style="font-size: 85%; vertical-align: text-top">10</SUP></TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">4.7
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Form of Certificate for Series&nbsp;A Preferred Stock (Commission File Number 1-14659) <SUP style="font-size: 85%; vertical-align: text-top">11</SUP></TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">4.8
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Warrant to Purchase Shares of Common Stock (Commission File Number 1-14659) <SUP style="font-size: 85%; vertical-align: text-top">12</SUP></TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">10.1
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Amended and Restated Supplemental Executive Retirement Plan <SUP style="font-size: 85%; vertical-align: text-top">7</SUP></TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">10.2
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Severance Agreement dated as of February&nbsp;29, 1996 between Wilmington Trust Company and Ted T. Cecala (Commission File
+Number 1-14659)  <SUP style="font-size: 85%; vertical-align: text-top">13</SUP></TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">10.3
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Severance Agreement dated as of February&nbsp;29, 1996 between Wilmington Trust Company and William J. Farrell II
+(Commission File Number 1-14659)  <SUP style="font-size: 85%; vertical-align: text-top">14</SUP></TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">10.4
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Severance Agreement dated as of February&nbsp;29, 1996 between Wilmington Trust Company and David R. Gibson (Commission
+File Number 1-14659)  <SUP style="font-size: 85%; vertical-align: text-top">15</SUP></TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">10.5
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Severance Agreement dated as of February&nbsp;29, 1996 between Wilmington Trust Company and Robert V.A. Harra Jr.
+(Commission File Number 1-14659)  <SUP style="font-size: 85%; vertical-align: text-top">16</SUP></TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">10.6
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Severance Agreement dated as of February&nbsp;22, 2006 between Wilmington Trust Company and Michael A. DiGregorio
+(Commission File Number 1-14659) <SUP style="font-size: 85%; vertical-align: text-top">17</SUP></TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">10.7
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Severance Agreement dated as of February&nbsp;13, 2007 between Wilmington Trust Company and Kevyn N. Rakowski (Commission
+File Number 1-14659)  <SUP style="font-size: 85%; vertical-align: text-top">18</SUP></TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">10.8
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Severance Agreement dated as of February&nbsp;22, 2006 between Wilmington Trust Investment Management, LLC and Robert M.
+Balentine  <SUP style="font-size: 85%; vertical-align: text-top">19</SUP></TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<P align="left" style="font-size: 10pt"><!-- Folio -->Page 13<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="15%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="81%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="left"><b>Exhibit</b></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="left" style="border-bottom: 1px solid #000000"><b>Number</b></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left" style="border-bottom: 1px solid #000000"><b>Exhibit</b></TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">10.9
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Severance Agreement dated as of December&nbsp;19, 2000 between Wilmington Trust of Pennsylvania and
+Mark A. Graham <SUP style="font-size: 85%; vertical-align: text-top">20</SUP></TD>
+</TR>
+<TR style="font-size: 10pt">
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">10.10
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Amendment No.&nbsp;1 to Severance Agreement dated as of December&nbsp;19, 2000 between Wilmington Trust
+Company and Ted T. Cecala (Commission File Number 1-14659)<SUP style="font-size: 85%; vertical-align: text-top">21</SUP></TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">10.11
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Amendment No.&nbsp;1 to Severance Agreement dated as of December&nbsp;19, 2000 between Wilmington Trust
+Company and William J. Farrell II (Commission File Number 1-14659)<SUP style="font-size: 85%; vertical-align: text-top">22</SUP></TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">10.12
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Amendment No.&nbsp;1 to Severance Agreement dated as of December&nbsp;19, 2000 between Wilmington Trust
+Company and David R. Gibson (Commission File Number 1-14659)<SUP style="font-size: 85%; vertical-align: text-top">23</SUP></TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">10.13
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Amendment No.&nbsp;1 to Severance Agreement dated as of December&nbsp;19, 2000 between Wilmington Trust
+Company and Robert V. A. Harra Jr. (Commission File Number 1-14659)<SUP style="font-size: 85%; vertical-align: text-top">24</SUP></TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">10.14
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">2008 Employee Stock Purchase Plan<SUP style="font-size: 85%; vertical-align: text-top">25</SUP></TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">10.15
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">1999 Long-Term Incentive Plan (Commission File Number 1-14659)<SUP style="font-size: 85%; vertical-align: text-top">26</SUP></TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">10.16
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Amended and Restated 2002 Long-Term Incentive Plan of Wilmington Trust Corporation (Commission
+File Number 1-14659)<SUP style="font-size: 85%; vertical-align: text-top">27</SUP></TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">10.17
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">2001 Non-Employee Directors&#146; Stock Option Plan (Commission File Number 1-14659)<SUP style="font-size: 85%; vertical-align: text-top">28</SUP></TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">10.18
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">2004 Executive Incentive Plan (Commission File Number 1-14659)<SUP style="font-size: 85%; vertical-align: text-top">29</SUP></TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">10.19
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Amended and Restated 2005 Long-Term Incentive Plan<SUP style="font-size: 85%; vertical-align: text-top">30</SUP></TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">10.20
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Amended and Restated Limited Liability Company Agreement of Cramer Rosenthal McGlynn, LLC dated
+as of January&nbsp;1, 2001 (Commission File Number 1-14659)<SUP style="font-size: 85%; vertical-align: text-top">31</SUP></TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">10.21
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Amendment to the Amended and Restated Limited Liability Company Agreement of Cramer Rosenthal
+McGlynn, LLC dated as of June&nbsp;28, 2002 (Commission File Number 1-14659)<SUP style="font-size: 85%; vertical-align: text-top">32</SUP></TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">10.22
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Second Amended and Restated Limited Liability Company Agreement of Roxbury Capital Management,
+LLC dated as of August&nbsp;1, 2003 (Commission File Number 1-14659)<SUP style="font-size: 85%; vertical-align: text-top">33</SUP></TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">10.23
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Limited Liability Company Interest Purchase Agreement dated as of April&nbsp;2, 2004 among Grant Tani
+Barash &#038; Altman, Inc., Warren Grant, Jane Tani, Corey Barash, Howard Altman and GTBA Holdings,
+Inc. (Commission File Number 1-14659)<SUP style="font-size: 85%; vertical-align: text-top">34</SUP></TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">10.24
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Amended and Restated Limited Liability Company Agreement of Grant Tani Barash &#038; Altman, LLC
+dated as of October&nbsp;1, 2004 among Grant, Tani, Barash &#038; Altman, Inc., GTBA Holdings, Inc.,
+Warren Grant, Jane Tani, Corey Barash, Howard Altman (Commission File Number
+1-14659)<SUP style="font-size: 85%; vertical-align: text-top">35</SUP></TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">10.25
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Stock Purchase Agreement dated as of January&nbsp;30, 2008 among Michael Karfunkel and Leah
+Karfunkel, as Trustees for the 2005 Michael Karfunkel Grantor Retained Annuity Trust, George
+Karfunkel, Renee Karfunkel, Leah Karfunkel, Michael Karfunkel, AST Capital Trust Company of
+Delaware, and Wilmington Trust FSB (Commission File Number 1-14659) <SUP style="font-size: 85%; vertical-align: text-top">36</SUP></TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">10.26
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Form of Stock Option Agreement<SUP style="font-size: 85%; vertical-align: text-top">37</SUP></TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">10.27
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Form of Restricted Stock Agreement (Commission File Number 1-14659)<SUP style="font-size: 85%; vertical-align: text-top">38</SUP></TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">10.28
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Form of Restricted Stock Unit Agreement (Commission File Number 1-14659)<SUP style="font-size: 85%; vertical-align: text-top">39</SUP></TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">10.29
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Letter Agreement including the Securities Purchase Agreement &#151; Standard Terms incorporated
+therein, dated December&nbsp;12, 2008, between Wilmington Trust Corporation and the United States
+Department of the Treasury (Commission File Number 1-14659)<SUP style="font-size: 85%; vertical-align: text-top">40</SUP></TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">10.30
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Form of Waiver (Commission File Number 1-14659)<SUP style="font-size: 85%; vertical-align: text-top">41</SUP></TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">10.31
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Amendments to Benefit Plans dated December&nbsp;12, 2008 (Commission File Number 1-14659)<SUP style="font-size: 85%; vertical-align: text-top">42</SUP></TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">13
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Annual Report to Shareholders<SUP style="font-size: 85%; vertical-align: text-top">7</SUP></TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">21
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Subsidiaries of Wilmington Trust Corporation<SUP style="font-size: 85%; vertical-align: text-top">7</SUP></TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">23
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Consent of KPMG LLP<SUP style="font-size: 85%; vertical-align: text-top">7</SUP></TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">31(i) and (ii)
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Rule&nbsp;13a-14(a)/15d-14(a) Certifications<SUP style="font-size: 85%; vertical-align: text-top">7</SUP></TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">32
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Section&nbsp;1350 Certifications<SUP style="font-size: 85%; vertical-align: text-top">7</SUP></TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+<P align="right" style="font-size: 10pt"><!-- Folio -->Page 14<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+
+
+<DIV align="left">
+<DIV style="font-size: 3pt; margin-top: 16pt; width: 18%; border-top: 1px solid #000000">&nbsp;</DIV>
+</DIV>
+
+
+
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+<TR>
+    <TD width="3%"></TD>
+    <TD width="1%"></TD>
+    <TD width="96"></TD>
+</TR>
+
+<TR valign="top">
+    <TD nowrap align="left">  1  </TD>
+    <TD>&nbsp;</TD>
+    <TD><DIV style="text-align: justify"> Incorporated by reference
+to Exhibit 3(a) to the Report on Form  S-8  of Wilmington Trust
+Corporation filed on October&nbsp;31, 1991. </div></TD>
+</TR>
+
+<TR style="font-size: 3pt"><TD>&nbsp;</TD></TR>
+
+<TR valign="top">
+    <TD nowrap align="left">  2  </TD>
+    <TD>&nbsp;</TD>
+    <TD><DIV style="text-align: justify"> Incorporated by reference to Exhibit&nbsp;3.2 to the Current Report on Form 8-K of
+Wilmington Trust Corporation filed on January&nbsp;21, 2009. </div></TD>
+</TR>
+
+<TR style="font-size: 3pt"><TD>&nbsp;</TD></TR>
+
+<TR valign="top">
+    <TD nowrap align="left">  3  </TD>
+    <TD>&nbsp;</TD>
+    <TD><DIV style="text-align: justify"> Incorporated by reference to Exhibit&nbsp;A to Exhibit&nbsp;1 to the Form 8-A/A of Wilmington
+Trust Corporation filed on December&nbsp;16, 2004. </div></TD>
+</TR>
+
+<TR style="font-size: 3pt"><TD>&nbsp;</TD></TR>
+
+<TR valign="top">
+    <TD nowrap align="left">  4  </TD>
+    <TD>&nbsp;</TD>
+    <TD><DIV style="text-align: justify"> Incorporated by reference to Exhibit&nbsp;3.1 to the Form 8-K of Wilmington Trust
+Corporation filed on December&nbsp;16, 2008. </div></TD>
+</TR>
+
+<TR style="font-size: 3pt"><TD>&nbsp;</TD></TR>
+
+<TR valign="top">
+    <TD nowrap align="left"> 5 </TD>
+    <TD>&nbsp;</TD>
+    <TD><DIV style="text-align: justify"> Incorporated by reference to Exhibit&nbsp;1 to the Form 8-A/A of Wilmington Trust
+Corporation filed on December&nbsp;16, 2004. </div></TD>
+</TR>
+
+<TR style="font-size: 3pt"><TD>&nbsp;</TD></TR>
+
+<TR valign="top">
+    <TD nowrap align="left"> 6 </TD>
+    <TD>&nbsp;</TD>
+    <TD><DIV style="text-align: justify"> Incorporated by reference to Exhibit&nbsp;4.2 to the Registration Statement on Form S-3 of
+Wilmington
+Trust Corporation
+filed on November&nbsp;29, 2007. </div></TD>
+</TR>
+
+<TR style="font-size: 3pt"><TD>&nbsp;</TD></TR>
+
+<TR valign="top">
+    <TD nowrap align="left">  7  </TD>
+    <TD>&nbsp;</TD>
+    <TD><DIV style="text-align: justify"> Filed herewith. </div></TD>
+</TR>
+
+<TR style="font-size: 3pt"><TD>&nbsp;</TD></TR>
+
+<TR valign="top">
+    <TD nowrap align="left">  8  </TD>
+    <TD>&nbsp;</TD>
+    <TD><DIV style="text-align: justify"> Incorporated by reference to Exhibit&nbsp;10.37 to the Annual Report on Form 10-K of
+Wilmington Trust Corporation
+filed on March&nbsp;15, 2005. </div></TD>
+</TR>
+
+<TR style="font-size: 3pt"><TD>&nbsp;</TD></TR>
+
+<TR valign="top">
+    <TD nowrap align="left"> 9 </TD>
+    <TD>&nbsp;</TD>
+    <TD><DIV style="text-align: justify"> Incorporated by reference to Exhibit&nbsp;4.3 to the Form 8-K of
+Wilmington Trust Corporation filed on April&nbsp;1, 2008. </div></TD>
+</TR>
+
+<TR style="font-size: 3pt"><TD>&nbsp;</TD></TR>
+
+<TR valign="top">
+    <TD nowrap align="left"> 10 </TD>
+    <TD>&nbsp;</TD>
+    <TD><DIV style="text-align: justify"> Incorporated by
+reference to Exhibit&nbsp;4.2 to the Form 8-K of Wilmington Trust Corporation filed
+on April&nbsp;1, 2008. </div></TD>
+</TR>
+
+<TR style="font-size: 3pt"><TD>&nbsp;</TD></TR>
+
+<TR valign="top">
+    <TD nowrap align="left"> 11 </TD>
+    <TD>&nbsp;</TD>
+    <TD><DIV style="text-align: justify"> Incorporated by reference to Exhibit&nbsp;4.1 to the Form 8-K of Wilmington Trust Corporation filed
+on December&nbsp;16, 2008. </div></TD>
+</TR>
+
+<TR style="font-size: 3pt"><TD>&nbsp;</TD></TR>
+
+<TR valign="top">
+    <TD nowrap align="left"> 12  </TD>
+    <TD>&nbsp;</TD>
+    <TD><DIV style="text-align: justify"> Incorporated by reference to Exhibit&nbsp;4.2 to the Form 8-K of Wilmington Trust
+Corporation filed on December&nbsp;16, 2008. </div></TD>
+</TR>
+
+<TR style="font-size: 3pt"><TD>&nbsp;</TD></TR>
+
+<TR valign="top">
+    <TD nowrap align="left">  13  </TD>
+    <TD>&nbsp;</TD>
+    <TD><DIV style="text-align: justify"> Incorporated by reference to Exhibit 10(i) to the Annual Report on Form 10-K of
+Wilmington Trust Corporation
+filed on March&nbsp;30, 1996. </div></TD>
+</TR>
+
+<TR style="font-size: 3pt"><TD>&nbsp;</TD></TR>
+
+<TR valign="top">
+    <TD nowrap align="left">  14  </TD>
+    <TD>&nbsp;</TD>
+    <TD><DIV style="text-align: justify"> Incorporated by reference
+to Exhibit&nbsp;10(l) to the Annual Report on Form 10-K of
+Wilmington Trust Corporation
+filed on March&nbsp;30, 1996. </div></TD>
+</TR>
+
+<TR style="font-size: 3pt"><TD>&nbsp;</TD></TR>
+
+<TR valign="top">
+    <TD nowrap align="left">  15  </TD>
+    <TD>&nbsp;</TD>
+    <TD><DIV style="text-align: justify"> Incorporated by reference
+to Exhibit 10(m) to the Annual Report on Form 10-K of Wilmington Trust Corporation
+filed on
+March&nbsp;30, 1996. </div></TD>
+</TR>
+
+<TR style="font-size: 3pt"><TD>&nbsp;</TD></TR>
+
+<TR valign="top">
+    <TD nowrap align="left"> 16 </TD>
+    <TD>&nbsp;</TD>
+    <TD><DIV style="text-align: justify"> Incorporated by reference to Exhibit 10(n) to the Annual Report
+on Form 10-K of Wilmington Trust Corporation
+filed on March&nbsp;30, 1996. </div></TD>
+</TR>
+
+<TR style="font-size: 3pt"><TD>&nbsp;</TD></TR>
+
+<TR valign="top">
+    <TD nowrap align="left"> 17 </TD>
+    <TD>&nbsp;</TD>
+    <TD><DIV style="text-align: justify"> Incorporated by reference to Exhibit&nbsp;10.7 to the Annual Report on
+Form&nbsp;10-K of Wilmington Trust Corporation
+filed on March&nbsp;1, 2007. </div></TD>
+</TR>
+
+<TR style="font-size: 3pt"><TD>&nbsp;</TD></TR>
+
+<TR valign="top">
+    <TD nowrap align="left">  18  </TD>
+    <TD>&nbsp;</TD>
+    <TD><DIV style="text-align: justify"> Incorporated
+by reference to Exhibit&nbsp;10.8 to the Annual Report on Form 10-K of Wilmington Trust
+Corporation
+filed on March&nbsp;1, 2007. </div></TD>
+</TR>
+
+<TR style="font-size: 3pt"><TD>&nbsp;</TD></TR>
+
+<TR valign="top">
+    <TD nowrap align="left"> 19 </TD>
+    <TD>&nbsp;</TD>
+    <TD><DIV style="text-align: justify"> Incorporated by reference to Exhibit&nbsp;10.8 to the Annual Report on Form 10-K of
+Wilmington Trust Corporation
+filed on February&nbsp;29, 2008. </div></TD>
+</TR>
+
+<TR style="font-size: 3pt"><TD>&nbsp;</TD></TR>
+
+<TR valign="top">
+    <TD nowrap align="left">  20  </TD>
+    <TD>&nbsp;</TD>
+    <TD><DIV style="text-align: justify"> Incorporated by reference to Exhibit&nbsp;10.9 to the Annual Report on Form 10-K of
+Wilmington Trust Corporation
+filed on February&nbsp;29, 2008. </div></TD>
+</TR>
+
+<TR style="font-size: 3pt"><TD>&nbsp;</TD></TR>
+
+<TR valign="top">
+    <TD nowrap align="left">  21  </TD>
+    <TD>&nbsp;</TD>
+    <TD><DIV style="text-align: justify"> Incorporated by reference to Exhibit&nbsp;10.18 to the Annual Report on Form 10-K of
+Wilmington Trust Corporation
+filed on April&nbsp;2, 2001. </div></TD>
+</TR>
+
+<TR style="font-size: 3pt"><TD>&nbsp;</TD></TR>
+
+<TR valign="top">
+    <TD nowrap align="left">  22  </TD>
+    <TD>&nbsp;</TD>
+    <TD><DIV style="text-align: justify"> Incorporated by reference to Exhibit&nbsp;10.21 to the Annual Report on Form 10-K of
+Wilmington Trust Corporation
+filed on April&nbsp;2, 2001. </div></TD>
+</TR>
+
+<TR style="font-size: 3pt"><TD>&nbsp;</TD></TR>
+
+<TR valign="top">
+    <TD nowrap align="left">  23  </TD>
+    <TD>&nbsp;</TD>
+    <TD><DIV style="text-align: justify"> Incorporated by reference to Exhibit&nbsp;10.22 to the Annual Report on Form 10-K of
+Wilmington Trust Corporation
+filed on April&nbsp;2, 2001. </div></TD>
+</TR>
+
+<TR style="font-size: 3pt"><TD>&nbsp;</TD></TR>
+
+<TR valign="top">
+    <TD nowrap align="left">  24  </TD>
+    <TD>&nbsp;</TD>
+    <TD><DIV style="text-align: justify"> Incorporated by reference to Exhibit&nbsp;10.23 to the Annual Report on Form 10-K of
+Wilmington Trust Corporation
+filed on April&nbsp;2, 2001. </div></TD>
+</TR>
+
+<TR style="font-size: 3pt"><TD>&nbsp;</TD></TR>
+
+<TR valign="top">
+    <TD nowrap align="left">  25  </TD>
+    <TD>&nbsp;</TD>
+    <TD><DIV style="text-align: justify"> Incorporated by reference to Exhibit  C to  the Proxy Statement of
+Wilmington Trust Corporation
+filed on February&nbsp;29, 2008. </div></TD>
+</TR>
+
+<TR style="font-size: 3pt"><TD>&nbsp;</TD></TR>
+
+<TR valign="top">
+    <TD nowrap align="left">  26  </TD>
+    <TD>&nbsp;</TD>
+    <TD><DIV style="text-align: justify"> Incorporated by
+reference to Exhibit&nbsp;A to the Proxy Statement of Wilmington Trust Corporation
+filed on
+March&nbsp;31, 1999. </div></TD>
+</TR>
+
+<TR style="font-size: 3pt"><TD>&nbsp;</TD></TR>
+
+<TR valign="top">
+    <TD nowrap align="left">  27  </TD>
+    <TD>&nbsp;</TD>
+    <TD><DIV style="text-align: justify"> Incorporated by reference
+to Exhibit&nbsp;10.64 to the Quarterly Report on Form 10-Q of
+Wilmington Trust Corporation
+filed on November&nbsp;9, 2004. </div></TD>
+</TR>
+
+<TR style="font-size: 3pt"><TD>&nbsp;</TD></TR>
+
+<TR valign="top">
+    <TD nowrap align="left">  28  </TD>
+    <TD>&nbsp;</TD>
+    <TD><DIV style="text-align: justify"> Incorporated by reference to Exhibit&nbsp;4.9 to the Annual Report on Form 10-K of
+Wilmington Trust Corporation
+filed on April&nbsp;2, 2001. </div></TD>
+</TR>
+
+<TR style="font-size: 3pt"><TD>&nbsp;</TD></TR>
+
+<TR valign="top">
+    <TD nowrap align="left">  29  </TD>
+    <TD>&nbsp;</TD>
+    <TD><DIV style="text-align: justify"> Incorporated by reference
+to Exhibit&nbsp;10.61 to the Quarterly Report on Form&nbsp;10-Q of
+Wilmington Trust Corporation
+filed on August&nbsp;9, 2004. </div></TD>
+</TR>
+
+<TR style="font-size: 3pt"><TD>&nbsp;</TD></TR>
+
+<TR valign="top">
+    <TD nowrap align="left">  30  </TD>
+    <TD>&nbsp;</TD>
+    <TD><DIV style="text-align: justify"> Incorporated by reference to Exhibit&nbsp;10.21 to the Annual Report on Form 10-K of
+Wilmington Trust Corporation
+filed on February&nbsp;29, 2008. </div></TD>
+</TR>
+
+<TR style="font-size: 3pt"><TD>&nbsp;</TD></TR>
+
+<TR valign="top">
+    <TD nowrap align="left">  31  </TD>
+    <TD>&nbsp;</TD>
+    <TD><DIV style="text-align: justify"> Incorporated by reference to Exhibit&nbsp;10.44 to the Quarterly Report on Form 10-Q/A of
+Wilmington Trust Corporation
+filed on March&nbsp;25, 2003. </div></TD>
+</TR>
+
+<TR style="font-size: 3pt"><TD>&nbsp;</TD></TR>
+
+<TR valign="top">
+    <TD nowrap align="left">  32  </TD>
+    <TD>&nbsp;</TD>
+    <TD><DIV style="text-align: justify"> Incorporated by reference to Exhibit&nbsp;10.46 to the Quarterly Report on Form 10-Q of
+Wilmington Trust Corporation
+filed on August&nbsp;14, 2002. </div></TD>
+</TR>
+
+<TR style="font-size: 3pt"><TD>&nbsp;</TD></TR>
+
+<TR valign="top">
+    <TD nowrap align="left">  33  </TD>
+    <TD>&nbsp;</TD>
+    <TD><DIV style="text-align: justify"> Incorporated by reference to Exhibit&nbsp;10.53 to the Annual Report on Form 10-K of
+Wilmington Trust Corporation
+filed on March&nbsp;15, 2004. </div></TD>
+</TR>
+
+<TR style="font-size: 3pt"><TD>&nbsp;</TD></TR>
+
+<TR valign="top">
+    <TD nowrap align="left">  34  </TD>
+    <TD>&nbsp;</TD>
+    <TD><DIV style="text-align: justify"> Incorporated by reference
+to Exhibit&nbsp;10.59 to the Quarterly Report on Form&nbsp;10-Q of
+Wilmington Trust Corporation
+filed on May&nbsp;10, 2004. </div></TD>
+</TR>
+
+<TR style="font-size: 3pt"><TD>&nbsp;</TD></TR>
+
+<TR valign="top">
+    <TD nowrap align="left">  35  </TD>
+    <TD>&nbsp;</TD>
+    <TD><DIV style="text-align: justify"> Incorporated by reference to Exhibit&nbsp;10.63 to the Quarterly Report on Form 10-Q of
+Wilmington Trust Corporation
+filed on November&nbsp;9, 2004.</div></TD>
+</TR>
+
+<TR style="font-size: 3pt"><TD>&nbsp;</TD></TR>
+
+<TR valign="top">
+    <TD nowrap align="left">  36  </TD>
+    <TD>&nbsp;</TD>
+    <TD><DIV style="text-align: justify"> Incorporated by reference to Exhibit&nbsp;10.28 to the Annual Report on Form 10-K of
+Wilmington Trust Corporation
+filed on February&nbsp;29, 2008. </div></TD>
+</TR>
+
+<TR style="font-size: 3pt"><TD>&nbsp;</TD></TR>
+
+<TR valign="top">
+    <TD nowrap align="left">  37  </TD>
+    <TD>&nbsp;</TD>
+    <TD><DIV style="text-align: justify"> Incorporated by reference
+to Exhibit&nbsp;10.65 to the Quarterly Report on Form&nbsp;10-Q of
+Wilmiington Trust Corporation
+filed on November&nbsp;9, 2004. </div></TD>
+</TR>
+
+<TR style="font-size: 3pt"><TD>&nbsp;</TD></TR>
+
+<TR valign="top">
+    <TD nowrap align="left">  38  </TD>
+    <TD>&nbsp;</TD>
+    <TD><DIV style="text-align: justify"> Incorporated by reference to Exhibit&nbsp;10.66 to the Quarterly Report on Form 10-Q of
+Wilmington Trust Corporation
+filed on November&nbsp;9, 2004. </div></TD>
+</TR>
+
+<TR style="font-size: 3pt"><TD>&nbsp;</TD></TR>
+
+<TR valign="top">
+    <TD nowrap align="left">  39  </TD>
+    <TD>&nbsp;</TD>
+    <TD><DIV style="text-align: justify"> Incorporated by reference to Exhibit&nbsp;10.67 to the Quarterly Report on Form
+10-Q of Wilmington Trust Corporation
+filed on November&nbsp;9, 2004. </div></TD>
+</TR>
+
+<TR style="font-size: 3pt"><TD>&nbsp;</TD></TR>
+
+<TR valign="top">
+    <TD nowrap align="left"> 40 </TD>
+    <TD>&nbsp;</TD>
+    <TD><DIV style="text-align: justify"> Incorporated by reference to Exhibit&nbsp;10.1 to the Form 8-K of Wilmington Trust
+Corporation
+filed on December&nbsp;16, 2008. </div></TD>
+</TR>
+
+<TR style="font-size: 3pt"><TD>&nbsp;</TD></TR>
+
+<TR valign="top">
+    <TD nowrap align="left">  41  </TD>
+    <TD>&nbsp;</TD>
+    <TD><DIV style="text-align: justify"> Incorporated by reference to Exhibit&nbsp;10.2 to the Form 8-K of Wilmington Trust
+Corporation
+filed on December&nbsp;16, 2008. </div></TD>
+</TR>
+
+<TR style="font-size: 3pt"><TD>&nbsp;</TD></TR>
+
+<TR valign="top">
+    <TD nowrap align="left">  42  </TD>
+    <TD>&nbsp;</TD>
+    <TD><DIV style="text-align: justify"> Incorporated by reference to Exhibit&nbsp;10.3 to the Form 8-K of Wilmington Trust
+Corporation
+filed on December&nbsp;16, 2008. </div></TD>
+</TR>
+
+</TABLE>
+
+
+
+
+<P align="left" style="font-size: 10pt"><!-- Folio -->Page 15<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt"><b>SIGNATURES</b>
+</DIV>
+
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">Pursuant to the requirements of Sections&nbsp;13 or 15(d) of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto
+duly authorized.
+</DIV>
+
+<TABLE width="100%" border="0" cellspacing="0" cellpadding="0" style="font-size: 10pt">
+<TR>
+    <TD width="48%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="35%">&nbsp;</TD>
+    <TD width="15%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt">
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR>
+    <TD valign="top" align="left" colspan="4">WILMINGTON TRUST CORPORATION<BR>
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">February 26, 2009&nbsp;</TD>
+    <TD valign="top"></TD>
+
+<TD colspan="2" style="border-bottom: 1px solid #000000" align="left">By:&nbsp;&nbsp;/s/ Ted T. Cecala
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left" nowrap>TED T. CECALA, Director, Chairman of the&nbsp;Board&nbsp;&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left">and Chief Executive Officer&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+</TABLE>
+
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">Pursuant to the Securities Exchange Act of 1934, this report has been signed by the following
+persons on behalf of the registrant in the capacities and on the dates indicated.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt">February&nbsp;26, 2009
+</DIV>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="48%">&nbsp;</TD>
+    <TD width="4%">&nbsp;</TD>
+    <TD width="48%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">/s/ Ted T. Cecala
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">/s/ Gailen Krug</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD valign="top" style="border-top: 1px solid #000000"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">TED T. CECALA, Director, Chairman of the Board
+and Chief Executive Officer
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">GAILEN KRUG, Director</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">/s/ Robert V. A. Harra Jr.</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD valign="top" style="border-top: 1px solid #000000"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">ROBERT V.A. HARRA JR., Director, President, and
+Chief Operating Officer
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">REX L. MEARS, Director</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">/s/ David R. Gibson
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">/s/ Stacey J. Mobley</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD valign="top" style="border-top: 1px solid #000000"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">DAVID R. GIBSON, Executive Vice President and
+Chief Financial Officer
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">STACEY J. MOBLEY, Director</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">/s/ Kevyn N. Rakowski
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">/s/ Michele M. Rollins</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD valign="top" style="border-top: 1px solid #000000"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">KEVYN N. RAKOWSKI, Senior Vice President and
+Controller
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">MICHELE M. ROLLINS, Director</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">/s/ Carolyn S. Burger
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">/s/ David P. Roselle</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD valign="top" style="border-top: 1px solid #000000"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+
+<TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">CAROLYN
+S. BURGER, Director
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">DAVID P. ROSELLE, Director</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+
+<TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">/s/ Thomas L. du Pont
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">/s/ Oliver R. Sockwell</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD valign="top" style="border-top: 1px solid #000000"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">THOMAS L. DU PONT, Director
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">OLIVER R. SOCKWELL, Director</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">/s/ R. Keith Elliott
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD valign="top" style="border-top: 1px solid #000000"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">R. KEITH ELLIOTT, Director
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">ROBERT W. TUNNELL JR., Director</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">/s/ Donald E. Foley
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">/s/ Susan D. Whiting</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD valign="top" style="border-top: 1px solid #000000"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">DONALD E. FOLEY, Director
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">SUSAN D. WHITING, Director</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<P align="right" style="font-size: 10pt"><!-- Folio -->Page 16<!-- /Folio -->
+</DIV>
+
+
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>

@@ -1,0 +1,1219 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>d400645d10k.htm
+<DESCRIPTION>10-K
+<TEXT>
+<HTML><HEAD>
+<TITLE>10-K</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P> <P STYLE="margin-top:4pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>UNITED STATES </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>SECURITIES AND EXCHANGE COMMISSION </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Washington, D.C. 20549 </B></P> <P STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:10pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>FORM <FONT
+STYLE="white-space:nowrap">10-K</FONT> </B></P> <P STYLE="margin-top:10pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>(Mark One) </B></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:12pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><B></B>&#9746;<B></B><B></B></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman; " ALIGN="left"><B>ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+</B></P></TD></TR></TABLE> <P STYLE="margin-top:10pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>For the fiscal year ended December&nbsp;31, 2022 </B></P>
+<P STYLE="margin-top:10pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>or </B></P> <P STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:12pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><B></B>&#9744;<B></B><B></B></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman; " ALIGN="left"><B>TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+</B></P></TD></TR></TABLE> <P STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>For the transition period from
+<U>&nbsp;&nbsp;&nbsp;&nbsp;</U><U>&nbsp;&nbsp;&nbsp;&nbsp;</U><U>&nbsp;&nbsp;&nbsp;&nbsp;</U><U>&nbsp;&nbsp;&nbsp;&nbsp;</U> to
+<U>&nbsp;&nbsp;&nbsp;&nbsp;</U><U>&nbsp;&nbsp;&nbsp;&nbsp;</U><U>&nbsp;&nbsp;&nbsp;&nbsp;</U><U>&nbsp;&nbsp;&nbsp;&nbsp;</U> </B></P> <P STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:10pt; margin-bottom:0pt; font-size:22pt; font-family:Times New Roman" ALIGN="center"><B>DISCOVER CARD
+EXECUTION NOTE TRUST </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(Exact name of issuing entity in respect of the notes as specified in its charter) </B></P>
+<P STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:10pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Commission File Numbers of issuing entity in respect of the notes: </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B><FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-141703-02,</FONT></FONT>
+<FONT STYLE="white-space:nowrap">333-167413,</FONT> <FONT STYLE="white-space:nowrap">333-191359,</FONT> <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-205455-01,</FONT></FONT> <FONT STYLE="white-space:nowrap"><FONT
+STYLE="white-space:nowrap">333-228025-02,</FONT></FONT> <FONT STYLE="white-space:nowrap">333-260957</FONT> </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Central Index Key Number
+of issuing entity in respect of the notes: 0001407200 </B></P> <P STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:10pt; margin-bottom:0pt; font-size:22pt; font-family:Times New Roman" ALIGN="center"><B>DISCOVER CARD
+MASTER TRUST I </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(Exact name of issuing entity in respect of the Series <FONT STYLE="white-space:nowrap">2007-CC</FONT> Collateral
+Certificate as specified in its charter) </B></P> <P STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:10pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Commission
+File Numbers of issuing entity in respect of the Series <FONT STYLE="white-space:nowrap">2007-CC</FONT> Collateral Certificate: </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B><FONT
+STYLE="white-space:nowrap">000-23108,</FONT> <FONT STYLE="white-space:nowrap">333-141703,</FONT> <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-167413-02,</FONT></FONT> <FONT STYLE="white-space:nowrap"><FONT
+STYLE="white-space:nowrap">333-191359-02,</FONT></FONT> <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-205455-02,</FONT></FONT> <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-228025-01,</FONT></FONT> <FONT
+STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-260957-02</FONT></FONT> </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Central Index Key Number of issuing entity
+in respect of the Series <FONT STYLE="white-space:nowrap">2007-CC</FONT> Collateral Certificate: 0000894329 </B></P> <P STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:10pt; margin-bottom:0pt; font-size:22pt; font-family:Times New Roman" ALIGN="center"><B>DISCOVER BANK
+</B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(Exact name of sponsor as specified in its charter) </B></P>
+<P STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:10pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Commission File Numbers of sponsor: </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B><FONT STYLE="white-space:nowrap">033-54804,</FONT>
+<FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-141703-01,</FONT></FONT> <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-167413-01,</FONT></FONT> <FONT STYLE="white-space:nowrap"><FONT
+STYLE="white-space:nowrap">333-191359-01</FONT></FONT> </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Central Index Key Number of sponsor: 0000894327 </B></P>
+<P STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:10pt; margin-bottom:0pt; font-size:22pt; font-family:Times New Roman" ALIGN="center"><B>DISCOVER FUNDING LLC </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(Exact name of depositor as specified in its charter) </B></P> <P STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:10pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Commission
+File Number of depositor: </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B><FONT STYLE="white-space:nowrap">333-205455,</FONT> <FONT STYLE="white-space:nowrap">333-228025,</FONT> <FONT
+STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-260957-01</FONT></FONT> </B></P> <P STYLE="margin-top:10pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Central Index Key Number of depositor:
+0001645731 </B></P> <P STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+
+<TD WIDTH="50%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="48%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" ALIGN="center"><B>Delaware</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B><FONT STYLE="white-space:nowrap">51-0020270</FONT></B></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top" ALIGN="center"><B>(State of organization)</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>(I.R.S. Employer Identification No. of the sponsor)</B></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B><FONT STYLE="white-space:nowrap">47-4047337</FONT></B></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>(I.R.S. Employer Identification No. of the depositor)</B></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>800 Prides Crossing,</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Suite 100</B></P> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Newark,
+Delaware</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center"><B>19713</B></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top" ALIGN="center"><B>(Address of principal executive offices)</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>(Zip Code)</B></TD></TR>
+</TABLE> <P STYLE="margin-top:10pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Depositor&#146;s telephone number, including area code:
+<FONT STYLE="white-space:nowrap">(302)&nbsp;323-7315</FONT> </B></P> <P STYLE="margin-top:10pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Securities registered pursuant to Section&nbsp;12(b) of the Act: None
+</B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Securities registered pursuant to Section&nbsp;12(g) of the Act: None </B></P>
+<P STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:10pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities
+Act.&nbsp;&nbsp;&nbsp;&nbsp;Yes&nbsp;&nbsp;&#9744;&nbsp;&nbsp;&nbsp;&nbsp;No&nbsp;&nbsp;&#9746; </P> <P STYLE="margin-top:10pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Indicate by check mark if the registrant is not required
+to file reports pursuant to Section&nbsp;13 or Section&nbsp;15(d) of the Act.&nbsp;&nbsp;&nbsp;&nbsp;Yes&nbsp;&nbsp;&#9744;&nbsp;&nbsp;&nbsp;&nbsp;No&nbsp;&nbsp;&#9746; </P>
+<P STYLE="margin-top:10pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Indicate by check mark whether the registrant (1)&nbsp;has filed all reports required to be filed by Section&nbsp;13 or 15(d) of the Securities Exchange Act
+of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2)&nbsp;has been subject to such filing requirements for the past 90
+days.&nbsp;&nbsp;&nbsp;&nbsp;Yes&nbsp;&nbsp;&#9746;&nbsp;&nbsp;&nbsp;&nbsp;No&nbsp;&nbsp;&#9744; </P> <P STYLE="margin-top:10pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Indicate by check mark whether the registrant has
+submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation <FONT STYLE="white-space:nowrap">S-T</FONT> (&#167; 232.405 of this chapter) during the preceding 12 months (or for such shorter period
+that the registrant was required to submit such files).&nbsp;&nbsp;&nbsp;&nbsp;Yes&nbsp;&nbsp;&#9746;&nbsp;&nbsp;&nbsp;&nbsp;No&nbsp;&nbsp;&#9744; </P>
+<P STYLE="margin-top:10pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a <FONT STYLE="white-space:nowrap">non-accelerated</FONT>
+filer, a smaller reporting company, or an emerging growth company. See the definitions of &#147;large accelerated filer,&#148; &#147;accelerated filer,&#148; &#147;smaller reporting company,&#148; and &#147;emerging growth company&#148; in Rule <FONT
+STYLE="white-space:nowrap">12b-2</FONT> of the Exchange Act. </P> <P STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+
+<TD WIDTH="17%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="57%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="21%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="2%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom">Large&nbsp;accelerated&nbsp;filer</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&#9744;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">Accelerated&nbsp;filer</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&#9744;</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom">Non-accelerated filer</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&#9746;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">Smaller&nbsp;reporting&nbsp;company</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&#9744;</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">Emerging&nbsp;growth&nbsp;company</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&#9744;</TD></TR>
+</TABLE> <P STYLE="margin-top:10pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period
+for complying with any new or revised financial accounting standards provided pursuant to Section&nbsp;13(a) of the Exchange Act.&nbsp;&nbsp;&#9744; </P>
+<P STYLE="margin-top:10pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Indicate by check mark whether the registrant has filed a report on and attestation to its management&#146;s assessment of the effectiveness of its internal
+control over financial reporting under Section&nbsp;404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or issued its audit report.&nbsp;&nbsp;&#9744; </P>
+<P STYLE="margin-top:10pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Indicate by check mark whether the registrant is a shell company (as defined in Rule <FONT STYLE="white-space:nowrap">12b-2</FONT> of the
+Act).&nbsp;&nbsp;&nbsp;&nbsp;Yes&nbsp;&nbsp;&#9744;&nbsp;&nbsp;&nbsp;&nbsp;No&nbsp;&nbsp;&#9746; </P> <P STYLE="margin-top:10pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">State the aggregate market value of the voting and <FONT
+STYLE="white-space:nowrap">non-voting</FONT> common equity held by <FONT STYLE="white-space:nowrap">non-affiliates</FONT> computed by reference to the price at which the common equity was last sold, or the average bid and asked price of such common
+equity, as of the last business day of the registrant&#146;s most recently completed second fiscal quarter. </P> <P STYLE="margin-top:10pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Registrant has no voting or <FONT
+STYLE="white-space:nowrap">non-voting</FONT> common equity outstanding held by <FONT STYLE="white-space:nowrap">non-affiliates.</FONT> </B></P> <P STYLE="margin-top:10pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Documents
+incorporated by reference: <B>None.</B> </P> <P STYLE="font-size:8pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>PART I </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>The following Items have been omitted in accordance with General Instruction J to Form <FONT STYLE="white-space:nowrap">10-K:</FONT> </B></P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+
+<TD WIDTH="7%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="92%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Item&nbsp;1.</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Business.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Item&nbsp;1A.</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Risk Factors.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Item 2.</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Properties.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Item 3.</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Legal Proceedings.</TD></TR>
+</TABLE> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;1B. Unresolved Staff Comments. </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Not applicable. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;4. Mine Safety
+Disclosures. </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Not applicable. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Substitute information provided in accordance with General Instruction J to Form <FONT STYLE="white-space:nowrap">10-K:</FONT> </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;1112(b) of Regulation AB. Significant Obligors of Pool Assets (Financial Information). </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">The primary asset of Discover Card Execution Note Trust (the &#147;<U>Note Issuance Trust</U>&#148;) is the Discover Card Master Trust I,
+Series <FONT STYLE="white-space:nowrap">2007-CC</FONT> collateral certificate, which represents an undivided interest in Discover Card Master Trust I (the &#147;<U>Master Trust</U>&#148;), whose assets include Discover Card receivables existing as
+of specified dates in designated accounts, which receivables have been transferred to the Master Trust by Discover Bank and Discover Funding LLC, as applicable. The investor interest in receivables for the collateral certificate reflects the
+aggregate nominal liquidation amount of notes issued by the Note Issuance Trust. The Master Trust, therefore, may be considered a significant obligor in relation to the Note Issuance Trust. Pursuant to Instruction 3.b. to Item&nbsp;1112(b) of
+Regulation AB, the information required by Instruction J to Form <FONT STYLE="white-space:nowrap">10-K</FONT> in respect of the Master Trust has been disclosed in this report on Form <FONT STYLE="white-space:nowrap">10-K</FONT> in lieu of the
+information otherwise contemplated by Item&nbsp;1112(b). </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">The pool assets held by the Master Trust do not include any significant
+obligors. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;1114(b)(2) of Regulation AB. Credit Enhancement and Other Support, Except for Certain Derivatives Instruments (Information
+Regarding Significant Enhancement Providers) (Financial Information). </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Not applicable. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;1115(b) of Regulation AB. Certain Derivatives Instruments (Financial Information). </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Not applicable. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;1117 of Regulation
+AB. Legal Proceedings. </B></P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><U>Discover Bank </U></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">In the normal course of business, from time to time, Discover Bank and/or one or more of its affiliates have been named as a defendant in
+various legal actions, including arbitrations, class actions, and other litigation, arising in connection with our activities. Certain of the actual or threatened legal actions include claims for substantial compensatory and/or punitive damages or
+claims for indeterminate amounts of damages. Discover Bank contests liability and/or the amount of damages as appropriate in each pending matter. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Discover Bank and its affiliates are also involved, from time to time, in other reviews, investigations and proceedings (both formal and
+informal) by governmental regulatory and enforcement agencies regarding its business, including, among other matters, accounting, tax and operational matters, some of which may result in adverse judgments, settlements, fines, penalties, injunctions,
+decreases in regulatory ratings or other relief, which could materially impact Discover Bank&#146;s financial results, increase its cost of operations, require a change in business activities and product offerings or limit its ability to execute its
+business strategies and engage in certain business activities. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">2 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">In July 2015, Discover Bank, The Student Loan Corporation (&#147;SLC&#148;) and Discover
+Products Inc. (&#147;DPI&#148;) agreed to a consent order with the Consumer Financial Protection Bureau (&#147;CFPB&#148;) with respect to certain private student loan servicing practices (the &#147;2015 Order&#148;). The 2015 Order expired in July
+2020. In December 2020, Discover Bank, SLC and DPI agreed to a consent order (the &#147;2020 Order&#148;) with the CFPB resolving the agency&#146;s investigation into Discover Bank&#146;s compliance with the 2015 Order. In connection with the 2020
+order, Discover is required to implement a redress and compliance plan and must pay at least $10&nbsp;million in consumer redress to consumers who may have been harmed and paid a $25&nbsp;million civil money penalty to the CFPB. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><U>U.S. Bank Trust Company, National Association (Successor to U.S. Bank National Association) </U></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">U.S. Bank Trust Company, National Association, a national banking association (&#147;U.S. Bank Trust Co.&#148;), will act as the indenture
+trustee for the note issuance trust, also acts as trustee for the master trust and as registrar and paying agent under the Pooling and Servicing Agreement and the series supplement for Series <FONT STYLE="white-space:nowrap">2007-CC</FONT> and the
+other series of master trust certificates, if any. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">U.S. Bank National Association (&#147;U.S. Bank N.A.&#148;) made a strategic decision
+to reposition its corporate trust business by transferring substantially all of its corporate trust business to its affiliate, U.S. Bank Trust Co., a <FONT STYLE="white-space:nowrap">non-depository</FONT> trust company (U.S. Bank N.A. and U.S. Bank
+Trust Co. are collectively referred to herein as &#147;U.S. Bank.&#148;). Upon U.S. Bank Trust Co.&#146;s succession to the business of U.S. Bank N.A., it became a wholly owned subsidiary of U.S. Bank N.A. The Indenture Trustee will maintain the
+accounts of the issuing entity in the name of the Indenture Trustee at U.S. Bank N.A. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">U.S. Bancorp, with total assets exceeding
+$675&nbsp;billion as of December&nbsp;31, 2022, is the parent company of U.S. Bank N.A., the fifth largest commercial bank in the United States. As of December&nbsp;31, 2022, U.S. Bancorp operated over 2,200 branch offices in 26 states. A network of
+specialized U.S. Bancorp offices across the nation provides a comprehensive line of banking, brokerage, insurance, investment, mortgage, trust and payment services products to consumers, businesses, and institutions. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">U.S. Bank has one of the largest corporate trust businesses in the country with office locations in 48 domestic and 2 international cities.
+The Pooling and Servicing Agreement and the indenture will be administered from U.S. Bank&#146;s corporate trust office located at 190 South LaSalle Street, 7th Floor, Chicago, IL 60603.&nbsp;&nbsp;&nbsp;&nbsp; </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">U.S. Bank has provided corporate trust services since 1924. As of December&nbsp;31, 2022, U.S. Bank was acting as trustee with respect to over
+124,000 issuances of securities with an aggregate outstanding principal balance of over $5.6 trillion. This portfolio includes corporate and municipal bonds, mortgage-backed and asset-backed securities and collateralized debt obligations. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">As trustee, paying agent, and registrar with respect to the master trust, U.S. Bank Trust Co. will make each certificateholders&#146; monthly
+statement available to the certificateholders and noteholders via the master trust trustee&#146;s internet website at https://pivot.usbank.com. Noteholders with questions may direct them to the master trust trustee&#146;s bondholder services group
+at (800) <FONT STYLE="white-space:nowrap">934-6802.</FONT> </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">As of December&nbsp;31, 2022, U.S. Bank (and its affiliate U.S. Bank Trust
+National Association) was acting as indenture trustee, registrar and paying agent on 42 issuances of credit card receivables-backed securities with an outstanding aggregate principal balance of approximately $27,809,200,000. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">U.S. Bank N.A. and other large financial institutions have been sued in their capacity as trustee or successor trustee for certain residential
+mortgage-backed securities (&#147;RMBS&#148;) trusts. The complaints, primarily filed by investors or investor groups against U.S. Bank N.A. and similar institutions, allege the trustees caused losses to investors as a result of alleged failures by
+the sponsors, mortgage loan sellers and servicers to comply with the governing agreements for these RMBS trusts. Plaintiffs generally assert causes of action based upon the </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">3 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+trustees&#146; purported failures to enforce repurchase obligations of mortgage loan sellers for alleged breaches of representations and warranties, notify securityholders of purported events of
+default allegedly caused by breaches of servicing standards by mortgage loan servicers and abide by a heightened standard of care following alleged events of default. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">U.S. Bank N.A. denies liability and believes that it has performed its obligations under the RMBS trusts in good faith, that its actions were
+not the cause of losses to investors, that it has meritorious defenses, and it has contested and intends to continue contesting the plaintiffs&#146; claims vigorously. However, U.S. Bank N.A. cannot assure you as to the outcome of any of the
+litigation, or the possible impact of these litigations on the trustee or the RMBS trusts. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">On March&nbsp;9, 2018, a law firm purporting
+to represent fifteen Delaware statutory trusts (the &#147;DSTs&#148;) that issued securities backed by student loans (the &#147;Student Loans&#148;) filed a lawsuit in the Delaware Court of Chancery against U.S. Bank N.A. in its capacities as
+indenture trustee and successor special servicer, and three other institutions in their respective transaction capacities, with respect to the DSTs and the Student Loans. This lawsuit is captioned <I>The National Collegiate Student Loan Master Trust
+I, et al. v. U.S. Bank National Association, et al.</I>, C.A. No. <FONT STYLE="white-space:nowrap">2018-0167-JRS</FONT> (Del. Ch.) (the &#147;NCMSLT Action&#148;). The complaint, as amended on June&nbsp;15, 2018, alleged that the DSTs have been
+harmed as a result of purported misconduct or omissions by the defendants concerning administration of the trusts and special servicing of the Student Loans. Since the filing of the NCMSLT Action, certain Student Loan borrowers have made assertions
+against U.S. Bank N.A. concerning special servicing that appear to be based on certain allegations made on behalf of the DSTs in the NCMSLT Action. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">U.S. Bank N.A. has filed a motion seeking dismissal of the operative complaint in its entirety with prejudice pursuant to Chancery Court Rules
+12(b)(1) and 12(b)(6) or, in the alternative, a stay of the case while other prior filed disputes involving the DSTs and the Student Loans are litigated. On November&nbsp;7, 2018, the Court ruled that the case should be stayed in its entirety
+pending resolution of the first-filed cases. On January&nbsp;21, 2020, the Court entered an order consolidating for pretrial purposes the NCMSLT Action and three other lawsuits pending in the Delaware Court of Chancery concerning the DSTs and the
+Student Loans, which remains pending. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">U.S. Bank N.A. denies liability in the NCMSLT Action and believes it has performed its obligations
+as indenture trustee and special servicer in good faith and in compliance in all material respects with the terms of the agreements governing the DSTs and that it has meritorious defenses. It has contested and intends to continue contesting the
+plaintiffs&#146; claims vigorously. </P> <P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>PART II </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>The following Items have been omitted in accordance with General Instruction J to Form <FONT STYLE="white-space:nowrap">10-K:</FONT> </B></P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+
+<TD WIDTH="7%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="92%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Item&nbsp;5.</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Market for Registrant&#146;s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Item 6.</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Selected Financial Data.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Item 7.</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Management&#146;s Discussion and Analysis of Financial Condition and Results of Operations.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Item&nbsp;7A.</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Quantitative and Qualitative Disclosures About Market Risk.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Item 8.</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Financial Statements and Supplementary Data.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Item 9.</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Changes in and Disagreements with Accountants on Accounting and Financial Disclosure.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Item 9A.</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Controls and Procedures.</TD></TR>
+</TABLE> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;9B. Other Information. </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">None. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">4 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>PART III </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>The following Items have been omitted in accordance with General Instruction J to Form <FONT STYLE="white-space:nowrap">10-K:</FONT> </B></P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+
+<TD WIDTH="6%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="93%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Item 10.</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Directors, Executive Officers and Corporate Governance.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Item&nbsp;11.</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Executive Compensation.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Item 12.</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Item 13.</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Certain Relationships and Related Transactions, and Director Independence.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Item 14.</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Principal Accountant Fees and Services.</TD></TR>
+</TABLE> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Substitute information provided in accordance with General Instruction J to Form
+<FONT STYLE="white-space:nowrap">10-K:</FONT> </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;1119 of Regulation AB. Affiliations and Certain Relationships and Related Transactions.
+</B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Discover Bank, which acts as the sponsor of its securitizations, is a wholly owned subsidiary of Discover Financial Services. Discover
+Funding LLC, which is a wholly owned subsidiary of Discover Bank, acts as depositor and beneficiary for the Note Issuance Trust and as holder of the residual transferor interest of the Master Trust. Discover Financial Services acquired Discover Bank
+in January 1985. Discover Bank and the trustee for the Master Trust formed the Master Trust in October 1993. Discover Bank originates the credit card receivables generated under certain designated Discover card accounts and transfers such credit
+card receivables to Discover Funding LLC for further transfer to the Master Trust. Discover Bank and the owner trustee formed the Note Issuance Trust on July&nbsp;2, 2007. Discover Bank transferred an undivided interest in the receivables and other
+assets of the Master Trust, represented by the collateral certificate, to the Note Issuance Trust to support the issuance of notes on July&nbsp;26, 2007. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Discover Bank acts as master servicer for the Master Trust and is currently the only servicer under the Pooling and Servicing Agreement with
+respect to the receivables. During the reporting period, Discover Bank outsourced certain servicing functions to its affiliate, DPI. While DPI has contracted with third-party service providers for certain services, Discover Bank is ultimately
+responsible for the overall servicing function. Discover Bank also acts as calculation agent for the Note Issuance Trust, which is part of the servicing function. </P> <P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="10%" VALIGN="top" ALIGN="left"><B>Item&nbsp;1122</B></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left"><B>of Regulation AB. Compliance with Applicable Servicing Criteria. </B></P></TD></TR></TABLE>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Each of Discover Bank, DPI, U.S. Bank National Association and U.S. Bank Trust Company, National Association (each, a &#147;<U>Servicing
+Participant</U>&#148;) has been identified as a party participating in the servicing function during the reporting period with respect to the pool assets held by each of the Master Trust and the Note Issuance Trust. Each of Discover Bank, DPI, U.S.
+Bank National Association and U.S. Bank Trust Company, National Association has completed a report on an assessment of compliance with the servicing criteria applicable to such Servicing Participant (each, a &#147;<U>Report on Assessment</U>&#148;)
+during the year ended December&nbsp;31, 2022, which Reports on Assessment are attached as exhibits to this Form <FONT STYLE="white-space:nowrap">10-K.</FONT> In addition, each of Discover Bank, DPI, U.S. Bank National Association and U.S. Bank Trust
+Company, National Association has provided an attestation report (each, an &#147;<U>Attestation Report</U>&#148;) by a registered independent public accounting firm regarding its related Report on Assessment. Each Attestation Report is attached as
+an exhibit to this Form <FONT STYLE="white-space:nowrap">10-K.</FONT> None of the Reports on Assessment or the related Attestation Reports has identified any material instances of noncompliance with the servicing criteria applicable to such
+Servicing Participant described in the related Report on Assessment. </P> <P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="10%" VALIGN="top" ALIGN="left"><B>Item&nbsp;1123</B></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left"><B>of Regulation AB. Servicer Compliance Statement. </B></P></TD></TR></TABLE>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Each of Discover Bank and DPI has been identified as a servicer during the reporting period with respect to the pool assets held by each of the
+Master Trust and the Note Issuance Trust. Each of Discover Bank and DPI has provided a statement of compliance (each, a &#147;<U>Compliance Statement</U>&#148;) with respect to the servicing activities conducted during the Note Issuance Trust&#146;s
+year ended December&nbsp;31, 2022, signed by an authorized officer, and each such Compliance Statement is attached as an exhibit to this Form <FONT STYLE="white-space:nowrap">10-K.</FONT> </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">5 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>PART IV </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;15. Exhibits, Financial Statement Schedules. </B></P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(a)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">List of documents filed as part of this Report </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(1)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">Not applicable. </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(2)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">Not applicable. </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(3)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">The exhibits filed in response to Item 601 of Regulation <FONT STYLE="white-space:nowrap">S-K</FONT> are listed
+below and either included or incorporated by reference as indicated: </P></TD></TR></TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+
+<TD></TD>
+
+<TD VALIGN="bottom" WIDTH="5%"></TD>
+<TD WIDTH="91%"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="bottom" ALIGN="center"><B>EXHIBIT</B></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center"><B>DESCRIPTION</B></TD></TR>
+
+
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>&nbsp;&nbsp;3.1</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1645731/000119312515241312/d947999dex31.htm">Limited Liability Company Agreement of Discover Funding LLC, dated as of May 18, 2015 (incorporated by reference to Exhibit 3.1 to Discover Funding
+LLC&#146;s Form <FONT STYLE="white-space:nowrap">SF-3</FONT> filed on December 9, 2015). </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>&nbsp;&nbsp;4.1</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/894327/000119312515412724/d102201dex41.htm">Receivables Sale and Contribution Agreement, between Discover Bank and Discover Funding LLC, dated as of December 22, 2015 (incorporated by reference
+ to Exhibit 4.1 to the Note Issuance Trust&#146;s Current Report on Form <FONT STYLE="white-space:nowrap">8-K</FONT> filed on December 23, 2015). </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>&nbsp;&nbsp;4.2</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/894327/000119312515412724/d102201dex42.htm">Third Amended and Restated Pooling and Servicing Agreement, among Discover Bank as Master Servicer and Servicer, Discover Funding LLC, as Depositor
+ and U.S. Bank National Association, as Trustee, dated as of December 22, 2015 (incorporated by reference to Exhibit 4.2 to the Note Issuance Trust&#146;s Current Report on Form <FONT STYLE="white-space:nowrap">8-K</FONT> filed on December 23,
+2015).</A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>4.3.1</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/894327/000119312515412724/d102201dex43.htm">Amended and Restated Series Supplement for Series 2007-CC, between Discover Bank, as Master Servicer and Servicer, Discover Funding LLC, as Depositor
+ and U.S. Bank National Association, as Trustee, dated as of December 22, 2015, including the form of collateral certificate (incorporated by reference to Exhibit 4.3 to the Note Issuance Trust&#146;s Current Report on Form <FONT
+STYLE="white-space:nowrap">8-K</FONT> filed on December 23, 2015). </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>4.3.2</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/894327/000095013707010711/c17126exv4w4.htm">Collateral Certificate Transfer Agreement, between Discover Bank, as Depositor, and Discover Card Execution Note Trust, dated as of July 26, 2007
+(incorporated by reference to Exhibit 4.4 to the Note Issuance Trust&#146;s Current Report on Form <FONT STYLE="white-space:nowrap">8-K</FONT> filed on July 27, 2007 (No. 033-54804, 000-23108 and 333-141703-02)). </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>4.3.3</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/894329/000119312523021644/d241989dex991.htm">Series Termination Date Extension Agreement, between Discover Bank, as Master Servicer and as Servicer, Discover Funding LLC, as Transferor, and
+ U.S. Bank Trust Company, National Association (as successor to U.S. Bank National Association), as Trustee, dated as of January 31, 2023 (incorporated by reference to Exhibit 99.1 to the Note Issuance Trust&#146;s Current Report on Form 8-K filed
+on February 1, 2023). </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>&nbsp;&nbsp;4.4</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/894327/000119312515412724/d102201dex44.htm">Amended and Restated Indenture, between Discover Card Execution Note Trust, as Issuer, and U.S. Bank National Association, as Indenture Trustee,
+ dated as of December 22, 2015 (incorporated by reference to Exhibit 4.4 to the Note Issuance Trust&#146;s Current Report on Form <FONT STYLE="white-space:nowrap">8-K</FONT> filed on December 23, 2015). </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>&nbsp;&nbsp;4.5</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/894327/000119312515412724/d102201dex45.htm">Second Amended and Restated Indenture Supplement for the DiscoverSeries Notes, between Discover Card Execution Note Trust, as Issuer, and U.S.
+ Bank National Association, as Indenture Trustee, dated as of December 22, 2015 (incorporated by reference to Exhibit 4.5 to the Note Issuance Trust&#146;s Current Report on Form <FONT STYLE="white-space:nowrap">8-K</FONT> filed on December 23,
+2015).</A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>&nbsp;&nbsp;4.6</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/894327/000119312515412724/d102201dex46.htm">Amended and Restated Trust Agreement, between Wilmington Trust Company, as Owner Trustee, and Discover Funding LLC, as Beneficiary, dated as of
+December 22, 2015 (incorporated by reference to Exhibit 4.6 to the Note Issuance Trust&#146;s Current Report on Form <FONT STYLE="white-space:nowrap">8-K</FONT> filed on December 23, 2015). </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>4.7.1</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/894327/000119312508187659/dex41.htm">Class A(2008-C) Terms Document between Discover Card Execution Note Trust, as Issuer, and U.S. Bank National Association, as Indenture Trustee, dated
+ as of August 28, 2008 (incorporated by reference to Exhibit 4.1 to the Note Issuance Trust&#146;s Current Report on Form <FONT STYLE="white-space:nowrap">8-K</FONT> filed on August 29, 2008 (No. 033-54804, 000-23108 and 333-141703-02)).
+</A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>4.7.2</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/894327/000119312509144429/dex41.htm">Omnibus Amendment to Indenture Supplement and Terms Documents, between Discover Card Execution Note Trust, as Issuer, and U.S. Bank National Association,
+ as Indenture Trustee, dated as of July 2, 2009 (incorporated by reference to Exhibit 4.1 to the Note Issuance Trust&#146;s Current Report on Form 8-K filed on July 6, 2009 (No. 033-54804, 000-23108 and 333-141703-02)). </A></TD></TR>
+</TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">6 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+
+<TD></TD>
+
+<TD VALIGN="bottom" WIDTH="4%"></TD>
+<TD WIDTH="93%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>4.7.3</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/894327/000119312509144429/dex42.htm">Class&nbsp;
+D(2009-1) Terms Document, between Discover Card Execution Note Trust, as Issuer, and U.S. Bank National Association, as Indenture Trustee, dated as of July 2, 2009 (incorporated by reference to Exhibit 4.2 to the Note Issuance Trust&#146;s Current Report
+ on Form <FONT STYLE="white-space:nowrap">8-K</FONT> filed on July 6, 2009 (No. 033-54804, 000-23108 and 333-141703-02)). </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>4.7.4</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/894327/000119312510005582/dex41.htm">Omnibus Amendment to Terms Documents, between Discover Card Execution Note Trust, as Issuer, and U.S. Bank National Association, as Indenture Trustee,
+ dated as of January 13, 2010 (incorporated by reference to Exhibit 4.1 to the Note Issuance Trust&#146;s Current Report on Form 8-K filed on January 13, 2010 (No. 033-54804, 000-23108 and 333-141703-02)).</A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>4.7.5</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/894327/000119312510133061/dex46.htm">Third Omnibus Amendment to Terms Documents, between Discover Card Execution Note Trust, as Issuer, and U.S. Bank National Association, as Indenture Trustee,
+dated as of June 4, 2010 (incorporated by reference to Exhibit 4.6 to the Note Issuance Trust&#146;s Current Report on Form 8-K filed on June 4, 2010 (No. 033-54804, 000-23108 and
+<FONT STYLE="white-space:nowrap">333-141703-02)).</FONT></A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>4.7.6</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/894327/000119312510267415/dex41.htm">Class<U></U>&nbsp;
+A(2010-D) Terms Document, between Discover Card Execution Note Trust, as Issuer, and U.S. Bank National Association, as Indenture Trustee, dated as of November 23, 2010 (incorporated by reference to Exhibit 4.1 to the Note Issuance Trust&#146;s Current
+ Report on Form 8-K filed on November 23, 2010 (No. 033-54804, 000-23108 and 333-141703-02)).</A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>4.7.7</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/894327/000119312511019867/dex41.htm">Class&nbsp;
+A(2011-A) Terms Document, between Discover Card Execution Note Trust, as Issuer, and U.S. Bank National Association, as Indenture Trustee, dated as of January 28, 2011 (incorporated by reference to Exhibit 4.1 to the Note Issuance Trust&#146;s Current Report
+ on Form <FONT STYLE="white-space:nowrap">8-K</FONT> filed on February 1, 2011 (No. 033-54804, 000-23108 and 333-141703-02)). </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>4.7.8</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/894327/000119312513353427/d591451dex41.htm">Third Amendment to Class&nbsp;
+A(2008-C) Terms Document, between Discover Card Execution Note Trust, as Issuer, and U.S. Bank National Association, as Indenture Trustee, dated as of August 30, 2013 (incorporated by reference to Exhibit 4.1 to the Note Issuance Trust&#146;s Current Report
+on Form 8-K filed on August 30, 2013 (No. 033-54804, 000-23108 and 333-141703-02)). </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>4.7.9</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/894327/000119312515230035/d944765dex41.htm">Class&nbsp;
+A(2015-A) Terms Document, between Discover Card Execution Note Trust, as Issuer, and U.S. Bank National Association, as Indenture Trustee, dated as of June 19, 2015 (incorporated by reference to Exhibit 4.1 to the Note Issuance Trust&#146;s Current Report
+ on Form 8-K filed on June 22, 2015 (No. 033-54804, 000-23108 and 333-141703-02)). </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>4.7.10</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/894327/000119312516475919/d144407dex41.htm">Omnibus Amendment to Specified Terms Documents, between Discover Card Execution Note Trust, as Issuer, and U.S. Bank National Association, as Indenture
+ Trustee, dated as of February 24, 2016 (incorporated by reference to Exhibit 4.1 to the Note Issuance Trust&#146;s Current Report on Form 8-K filed on February 24, 2016). </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>4.7.11</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/894327/000119312516747763/d247556dex41.htm">Omnibus Amendment to Specified Terms Documents, between Discover Card Execution Note Trust, as Issuer, and U.S. Bank National Association, as Indenture
+ Trustee, dated as of October 26, 2016 (incorporated by reference to Exhibit 4.1 to the Note Issuance Trust&#146;s Current Report on Form 8-K filed on October 26, 2016). </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>4.7.12</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/894327/000119312517136993/d379473dex43.htm">Class&nbsp;
+A(2017-4) Terms Document, between Discover Card Execution Note Trust, as Issuer, and U.S. Bank National Association, as Indenture Trustee, dated as of April 25, 2017 (incorporated by reference to Exhibit 4.3 to the Note Issuance Trust&#146;s Current Report
+ on Form <FONT STYLE="white-space:nowrap">8-K</FONT> filed on April 25, 2017). </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>4.7.13</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/894327/000119312517221982/d417822dex41.htm">Class&nbsp;
+A(2017-5) Terms Document, between Discover Card Execution Note Trust, as Issuer, and U.S. Bank National Association, as Indenture Trustee, dated as of June 30, 2017 (incorporated by reference to Exhibit 4.1 to the Note Issuance Trust&#146;s Current Report
+ on Form <FONT STYLE="white-space:nowrap">8-K</FONT> filed on July 5, 2017). </A></TD></TR>
+</TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">7 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+
+<TD></TD>
+
+<TD VALIGN="bottom" WIDTH="4%"></TD>
+<TD WIDTH="93%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>4.7.14</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/894327/000119312517296078/d464380dex41.htm">Omnibus Amendment to Specified Terms Documents, between Discover Card Execution Note Trust, as Issuer, and U.S. Bank National Association, as Indenture
+ Trustee, dated as of September 27, 2017 (incorporated by reference to Exhibit 4.1 to the Note Issuance Trust&#146;s Current Report on Form 8-K filed on September 27, 2017). </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>4.7.15</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/894327/000119312518298328/d614228dex43.htm">Class&nbsp;
+A(2018-6) Terms Document, between Discover Card Execution Note Trust, as Issuer, and U.S. Bank National Association, as Indenture Trustee, dated as of October 11, 2018 (incorporated by reference to Exhibit 4.3 to the Note Issuance Trust&#146;s Current Report
+ on Form 8-K filed on October 12, 2018). </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>4.7.16</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/894327/000119312519186103/d762950dex41.htm">Class&nbsp;
+A(2019-A) Terms Document, between Discover Card Execution Note Trust, as Issuer, and U.S. Bank National Association, as Indenture Trustee, dated as of June 25, 2019 (incorporated by reference to Exhibit 4.1 to the Note Issuance Trust&#146;s Current Report
+ on Form 8-K filed on June 28, 2019). </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>4.7.17</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/894327/000119312519232589/d749083dex42.htm">Amendment No.<U></U>&nbsp;1 to Master Indenture and Amendment No.<U></U>&nbsp;
+1 to Second Amendment and Restated Indenture Supplement, between Discover Card Execution Note Trust, as Issuer, and U.S. Bank National Association, as Indenture Trustee, dated as of August 27, 2019 (incorporated by reference to Exhibit 4.2 to the Note Issuance
+ Trust&#146;s Current Report on Form 8-K filed on August 28, 2019) (No. 033-54804, 000-23108, 333-141703-02 and 333-205455). </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>4.7.18</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/894327/000119312519232589/d749083dex42.htm">Omnibus Amendment to Specified Terms Documents, between Discover Card Execution Note Trust, as Issuer, and U.S. Bank National Association, as Indenture
+ Trustee, dated as of August 27, 2019 (incorporated by reference to Exhibit 4.2 to the Note Issuance Trust&#146;s Current Report on Form 8-K filed on August 28, 2019) (No. 033-54804, 000-23108, 333-141703-02 and 333-205455). </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>4.7.19</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/894327/000119312521285484/d219037dex41.htm">Class&nbsp;
+A(2021-1) Terms Document, between Discover Card Execution Note Trust, as Issuer, and U.S. Bank National Association, as Indenture Trustee, dated as of September 27, 2021 (incorporated by reference to Exhibit 4.1 to the Note Issuance Trust&#146;s Current
+ Report on Form 8-K filed on September 28, 2021). </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>4.7.20</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/894327/000119312521285484/d219037dex42.htm">Class&nbsp;
+A(2021-2) Terms Document, between Discover Card Execution Note Trust, as Issuer, and U.S. Bank National Association, as Indenture Trustee, dated as of September 27, 2021 (incorporated by reference to Exhibit 4.2 to the Note Issuance Trust&#146;s Current
+ Report on Form 8-K filed on September 28, 2021). </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>4.7.21</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/894327/000119312522048699/d302597dex41.htm">Class<U></U>&nbsp;
+A(2022-1) Terms Document, between Discover Card Execution Note Trust, as Issuer, and U.S. Bank National Association, as Indenture Trustee, dated as of February 22, 2022 (incorporated by reference to Exhibit 4.1 to the Note Issuance Trust&#146;s Current
+ Report on Form 8-K filed on February 22, 2022). </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>4.7.22</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/894327/000119312522161140/d355528dex41.htm">Class&nbsp;
+A(2022-2) Terms Document, between Discover Card Execution Note Trust, as Issuer, and U.S. Bank National Association, as Indenture Trustee, dated as of May 26, 2022 (incorporated by reference to Exhibit 4.1 to the Note Issuance Trust&#146;s Current Report
+ on Form <FONT STYLE="white-space:nowrap">8-K</FONT> filed on May 26, 2022). </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>4.7.23</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/894327/000119312522217438/d368837dex41.htm">Class<U></U>&nbsp;
+A(2022-3) Terms Document, between Discover Card Execution Note Trust, as Issuer, and U.S. Bank Trust Company, National Association (as successor to U.S. Bank National Association), as Indenture Trustee, dated as of August 9, 2022 (incorporated by reference
+ to Exhibit 4.1 to the Note Issuance Trust&#146;s Current Report on Form <FONT STYLE="white-space:nowrap">8-K</FONT> filed on August 10, 2022).</A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>4.7.24</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/894329/000119312522294364/d370580dex41.htm">Class<U></U>&nbsp;
+A(2022-4) Terms Document, between Discover Card Execution Note Trust, as Issuer, and U.S. Bank Trust Company, National Association (as successor to U.S. Bank National Association), as Indenture Trustee, dated as of November 28, 2022 (incorporated by reference
+ to Exhibit 4.1 to the Note Issuance Trust&#146;s Current Report on Form <FONT STYLE="white-space:nowrap">8-K</FONT> filed on November 29, 2022).</A></TD></TR>
+</TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">8 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+
+<TD></TD>
+
+<TD VALIGN="bottom" WIDTH="4%"></TD>
+<TD WIDTH="93%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>4.7.25</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/894327/000119312520315648/d83848dex42.htm">Class<U></U>&nbsp;
+B(2020-3) Terms Document, between Discover Card Execution Note Trust, as Issuer, and U.S. Bank National Association, as Indenture Trustee, dated as of December<U></U>&nbsp;
+9, 2020 (incorporated by reference to Exhibit 4.2 to the Note Issuance Trust&#146;s Current Report on Form 8-K filed on December<U></U>&nbsp;11, 2020).</A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>4.7.26</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/894327/000119312520315648/d83848dex43.htm">Class<U></U>&nbsp;
+B(2020-4) Terms Document, between Discover Card Execution Note Trust, as Issuer, and U.S. Bank National Association, as Indenture Trustee, dated as of December<U></U>&nbsp;
+9, 2020 (incorporated by reference to Exhibit 4.3 to the Note Issuance Trust&#146;s Current Report on Form 8-K filed on December<U></U>&nbsp;11, 2020).</A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>4.7.27</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/894327/000119312520315648/d83848dex45.htm">Class<U></U>&nbsp;
+C(2020-4) Terms Document, between Discover Card Execution Note Trust, as Issuer, and U.S. Bank National Association, as Indenture Trustee, dated as of December<U></U>&nbsp;
+9, 2020 (incorporated by reference to Exhibit 4.5 to the Note Issuance Trust&#146;s Current Report on Form 8-K filed on December<U></U>&nbsp;11, 2020).</A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>4.7.28</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/894327/000119312520315648/d83848dex46.htm">Class<U></U>&nbsp;
+C(2020-5) Terms Document, between Discover Card Execution Note Trust, as Issuer, and U.S. Bank National Association, as Indenture Trustee, dated as of December<U></U>&nbsp;
+9, 2020 (incorporated by reference to Exhibit 4.6 to the Note Issuance Trust&#146;s Current Report on Form 8-K filed on December<U></U>&nbsp;11, 2020).</A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>4.7.29</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/894329/000119312523021644/d241989dex41.htm">Class<U></U>&nbsp;
+B(2023-1) Terms Document, between Discover Card Execution Note Trust, as Issuer, and U.S. Bank Trust Company, National Association (as successor to U.S. Bank National Association), as Indenture Trustee, dated as of January 31, 2023 (incorporated by reference
+ to Exhibit 4.1 to the Note Issuance Trust&#146;s Current Report on Form <FONT STYLE="white-space:nowrap">8-K</FONT> filed on February 1, 2023).</A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>4.7.30</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/894329/000119312523021644/d241989dex42.htm">Class<U></U>&nbsp;
+C(2023-1) Terms Document, between Discover Card Execution Note Trust, as Issuer, and U.S. Bank Trust Company, National Association (as successor to U.S. Bank National Association), as Indenture Trustee, dated as of January 31, 2023 (incorporated by reference
+ to Exhibit 4.2 to the Note Issuance Trust&#146;s Current Report on Form <FONT STYLE="white-space:nowrap">8-K</FONT> filed on February 1, 2023).</A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>4.8.1</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/894327/000119312517136993/d379473dex44.htm">Class<U></U>&nbsp;
+A(2017-4) Risk Retention Agreement, among Discover Card Execution Note Trust, as Issuer, Discover Bank and Discover Funding LLC, dated as of April 25, 2017 (incorporated by reference to Exhibit 4.4 to the Note Issuance Trust&#146;s Current Report on Form
+ 8-K filed on April 25, 2017).</A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>4.8.2</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/894327/000119312517221982/d417822dex42.htm">Class<U></U>&nbsp;
+A(2017-5) Risk Retention Agreement, among Discover Card Execution Note Trust, as Issuer, Discover Bank and Discover Funding LLC, dated as of June 30, 2017 (incorporated by reference to Exhibit 4.2 to the Note Issuance Trust&#146;s Current Report on Form
+ 8-K filed on July 5, 2017).</A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>4.8.3</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/894327/000119312518298328/d614228dex44.htm">Class<U></U>&nbsp;
+A(2018-6) Risk Retention Agreement, among Discover Card Execution Note Trust, as Issuer, Discover Bank and Discover Funding LLC, dated as of October 11, 2018 (incorporated by reference to Exhibit 4.4 to the Note Issuance Trust&#146;s Current Report on Form
+ 8-K filed on October 12, 2018).</A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>4.8.4</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/894327/000119312521285484/d219037dex43.htm">Class A(2021-1) Risk Retention Agreement, among Discover Card Execution Note Trust, as Issuer, Discover Bank and Discover Funding LLC, dated as
+of September 27, 2021 (incorporated by reference to Exhibit 4.3 to the Note Issuance Trust&#146;s Current Report on Form 8-K filed on September 28, 2021). </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>4.8.5</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/894327/000119312521285484/d219037dex44.htm">Class<U></U>&nbsp;
+A(2021-2) Risk Retention Agreement, among Discover Card Execution Note Trust, as Issuer, Discover Bank and Discover Funding LLC, dated as of September 27, 2021 (incorporated by reference to Exhibit 4.4 to the Note Issuance Trust&#146;s Current Report on
+Form <FONT STYLE="white-space:nowrap">8-K</FONT> filed on September 28, 2021).</A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>4.8.6</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/894327/000119312522048699/d302597dex42.htm">Class<U></U>&nbsp;
+A(2022-1) Risk Retention Agreement, among Discover Card Execution Note Trust, as Issuer, Discover Bank and Discover Funding LLC, dated as of February 22, 2022 (incorporated by reference to Exhibit 4.2 to the Note Issuance Trust&#146;s Current Report on
+ Form <FONT STYLE="white-space:nowrap">8-K</FONT> filed on February 22, 2022).</A></TD></TR>
+</TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">9 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+
+<TD></TD>
+
+<TD VALIGN="bottom" WIDTH="4%"></TD>
+<TD WIDTH="94%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>4.8.7</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/894327/000119312522161140/d355528dex42.htm">Class<U></U>&nbsp;
+A(2022-2) Risk Retention Agreement, among Discover Card Execution Note Trust, as Issuer, Discover Bank and Discover Funding LLC, dated as of May 26, 2022 (incorporated by reference to Exhibit 4.2 to the Note Issuance Trust&#146;s Current Report on Form
+ 8-K filed on May 26, 2022).</A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>4.8.8</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/894327/000119312522217438/d368837dex42.htm">Class<U></U>&nbsp;
+A(2022-3) Risk Retention Agreement, among Discover Card Execution Note Trust, as Issuer, Discover Bank and Discover Funding LLC, dated as of August 9, 2022 (incorporated by reference to Exhibit 4.2 to the Note Issuance Trust&#146;s Current Report on Form
+ 8-K filed on August 10, 2022).</A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>4.8.9</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/894329/000119312522294364/d370580dex42.htm">Class&nbsp;
+A(2022-4) Risk Retention Agreement, among Discover Card Execution Note Trust, as Issuer, Discover Bank and Discover Funding LLC, dated as of November&nbsp;
+28, 2022 (incorporated by reference to Exhibit 4.2 to the Note Issuance Trust&#146;s Current Report on Form 8-K filed on November 29, 2022). </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.1</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/894327/000119312518090189/d546171dex991.htm">Second Amended and Restated Master Services Agreement, between Discover Financial Services, Discover Bank and other affiliated entities party
+ thereto, dated as of March 15, 2018 (incorporated by reference to Exhibit 99.1 to the Note Issuance Trust&#146;s Current Report on Form 8-K filed on March 21, 2018).</A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.2</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/894327/000119312519290982/d819828dex991.htm">Fourth Amended and Restated Services Addendum, between Discover Products Inc. and Discover Bank, dated as of November 1, 2019 (incorporated by
+reference to Exhibit 99.1 to the Note Issuance Trust&#146;s Current Report on Form <FONT STYLE="white-space:nowrap">8-K</FONT> filed on November 13, 2019).</A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.3</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/894327/000095013707010711/c17126exv10w1.htm">Collateral Account Control Agreement, between Discover Card Execution Note Trust, as Grantor, U.S. Bank National Association, as Secured Party,
+ and U.S. Bank National Association, as Securities Intermediary, dated as of July 26, 2007 (incorporated by reference to Exhibit 10.1 to the Note Issuance Trust&#146;s Current Report on Form <FONT STYLE="white-space:nowrap">8-K</FONT> filed on July
+27, 2007 (No. 033-54804, 000- 23108 and 333-141703-02)). </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.4</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/894327/000119312522187289/d566327dex992.htm">Amendment No.<U></U>&nbsp;
+1 to Collateral Account Control Agreement, between Discover Card Execution Note Trust, as Grantor, U.S. Bank Trust Company, National Association (as successor U.S. Bank National Association), as Secured Party, and U.S. Bank National Association, as Securities
+ Intermediary, dated as of July 1, 2022 (incorporated by reference to Exhibit 99.2 to the Note Issuance Trust&#146;s Current Report on Form <FONT STYLE="white-space:nowrap">8-K</FONT> filed on July 1, 2022).</A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.5</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/894327/000119312516427734/d115854dex101.htm">Asset Representations Review Agreement among Discover Bank, Discover Card Execution Note Trust and FTI Consulting, Inc., dated as of January 7,
+ 2016 (incorporated by reference to Exhibit 10.1 to the Note Issuance Trust&#146;s Current Report on Form 8-K filed on January 12, 2016). </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.6</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/894327/000119312522187289/d566327dex991.htm">Account Control Agreement among, Discover Funding LLC, U.S. Bank Trust Company, National Association, as Indenture Trustee, and U.S. Bank National
+ Association, as Securities Intermediary, dated as of July 1, 2022 (incorporated by reference to Exhibit 99.1 to the Note Issuance Trust&#146;s Current Report on Form 8-K filed on July 1, 2022).</A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.7</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/894327/000119312522187289/d566327dex993.htm">Series 2007-CC Investor Certificate, by Discover Bank and authenticated by U.S. Bank Trust Company, National Association, as Trustee, dated as
+of July 1, 2022 (incorporated by reference to Exhibit 99.3 to the Note Issuance Trust&#146;s Current Report on Form 8-K filed on July 1, 2022).</A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>31.1</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="d400645dex311.htm">Rule 13a&#150;14(a)/15d&#150;14(a) Certification (Section 302 Certification) from Discover Funding LLC and Discover Bank. </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>33.1</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="d400645dex331.htm">Report on Assessment of Compliance with Servicing Criteria concerning servicing activities of Discover Bank for the year ended December 31, 2022. </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>33.2</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="d400645dex332.htm">Report on Assessment of Compliance with Servicing Criteria concerning servicing activities of Discover Products Inc. for the year ended December 31, 2022. </A></TD></TR>
+</TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">10 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+
+<TD></TD>
+
+<TD VALIGN="bottom" WIDTH="3%"></TD>
+<TD WIDTH="94%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>33.3</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="d400645dex333.htm">Report on Assessment of Compliance with Servicing Criteria concerning servicing activities of U.S. Bank National Association and U.S. Bank Trust Company, National Association (as successor to U.S. Bank National
+ Association) for the year ended December&nbsp;31, 2022. </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>34.1</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="d400645dex341.htm">Independent Registered Public Accounting Firm Attestation Report concerning servicing activities of Discover Bank for the year ended December&nbsp;31, 2022. </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>34.2</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="d400645dex342.htm">Independent Registered Public Accounting Firm Attestation Report concerning servicing activities of Discover Products Inc. for the year ended December&nbsp;31, 2022. </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>34.3</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="d400645dex343.htm">Independent Registered Public Accounting Firm Attestation Report concerning servicing activities of U.S. Bank National Association and U.S. Bank Trust Company, National Association (as successor to U.S. Bank
+ National Association) for the year ended December&nbsp;31, 2022. </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>35.1</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="d400645dex351.htm">Servicer Compliance Statement of Discover Bank for the year ended December&nbsp;31, 2022. </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>35.2</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="d400645dex352.htm">Servicer Compliance Statement of Discover Products Inc. for the year ended December&nbsp;31, 2022. </A></TD></TR>
+</TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(b)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">See Item 15(a)(3) above for a list of exhibits filed in response to Item 601 of Regulation <FONT
+STYLE="white-space:nowrap">S-K.</FONT> </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(c)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">Not applicable. </P></TD></TR></TABLE> <P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="10%" VALIGN="top" ALIGN="left"><B>Item&nbsp;16.</B></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left"><B>Form 10&#150;K Summary. </B></P></TD></TR></TABLE>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Not applicable. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">11 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>SIGNATURES </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Pursuant to the requirements of Section&nbsp;13 of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be
+signed on its behalf by the undersigned, thereunto duly authorized. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Date: March&nbsp;24, 2023 </P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><DIV ALIGN="right">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+
+<TD WIDTH="12%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="87%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" COLSPAN="3">Discover Funding LLC</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" COLSPAN="3">(as Depositor for Discover Card Master Trust I and Discover Card Execution Note Trust and as registrant under Commission File Numbers <FONT STYLE="white-space:nowrap">333-205455,</FONT>
+<FONT STYLE="white-space:nowrap">333-228025</FONT> and <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-260957-01)</FONT></FONT></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">By:</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">/s/ Patricia S. Hall</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Name:</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">Patricia S. Hall</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Title:</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">Vice President, Chief Financial Officer and Treasurer</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(senior officer in charge of securitization)</TD></TR>
+</TABLE></DIV>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">12 </P>
+
+</DIV></Center>
+
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>

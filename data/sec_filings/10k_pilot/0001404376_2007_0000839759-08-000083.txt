@@ -1,0 +1,954 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>algf2007710k.htm
+<DESCRIPTION>ALGF 2007-7 10-K
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE> </TITLE>
+</HEAD>
+<BODY bgcolor="#ffffff" style='font-family:"Times New Roman"'>
+
+
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;border-top:solid 2.25pt;padding-top:1;'>&nbsp;</p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;border-top:solid 2.25pt;padding-top:1;'><B><font SIZE=2>UNITED STATES</font></B></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;border-top:solid 2.25pt;padding-top:1;'><B><font SIZE=2>SECURITIES AND EXCHANGE COMMISSION</font></B></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;border-top:solid 2.25pt;padding-top:1;'><B><font SIZE=2>WASHINGTON, D.C. 20549</font></B></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:2.75in;text-align:center;border-bottom:solid 0.5pt;padding-bottom:1;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:6pt; margin-top:6pt;text-align:center;'><B><font SIZE=3>FORM 10-K</font></B></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="576" style=' border-collapse:collapse'>
+    <tr>
+        <td width="68" nowrap valign=top style='padding:6.0pt 0in 6.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><b><font size=2>[ X ]</font></b></p> </td>
+        <td width="508" nowrap valign=top style='padding:6.0pt 0in 6.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><b><font size=2>Annual Report Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934</font></b></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:6pt; margin-top:6pt;text-align:center;'><b><font size=2>For the fiscal year ended December 31, 2007</font></b></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="585" style=' border-collapse:collapse'>
+    <tr>
+        <td width="13" nowrap valign=top style='padding:0in 0in 6.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><b><font size=2>[  </font></b></p> </td>
+        <td width="45" nowrap valign=top style='padding:0in 0in 6.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><b><font size=2>]</font></b></p> </td>
+        <td width="526" nowrap valign=top style='padding:0in 0in 6.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><b><font size=2>Transition Report Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934</font></b></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:6pt; margin-top:0pt;text-align:center;'><b><font size=2>For the Transition period from                   to</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><b><font size=2>Commission File Number 001-32192</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:2.75in;text-align:center;border-bottom:solid 0.5pt;padding-bottom:1;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:6pt; margin-top:6pt;text-align:center;'><B><font SIZE=3>ALLSTATE LIFE GLOBAL FUNDING TRUST 2007-7 </font></B><font size=2>(the &#147;Trust&#148;)</font></p>
+
+<p style=' margin-bottom:6pt; margin-top:6pt;text-align:center;'><font size=2>(EXACT NAME OF REGISTRANT AS SPECIFIED IN ITS CHARTER)</font></p>
+
+<p style=' margin-bottom:6pt; margin-top:6pt;text-align:center;'><B><font SIZE=3>ALLSTATE LIFE GLOBAL FUNDING </font></B><font size=2>(the &#147;Depositor&#148;)</font></p>
+
+<p style=' margin-bottom:6pt; margin-top:6pt;text-align:center;'><font size=2> (EXACT NAME OF DEPOSITOR AS SPECIFIED IN ITS CHARTER)</font></p>
+
+<p style=' margin-bottom:6pt; margin-top:6pt;text-align:center;'><B><font SIZE=3>ALLSTATE LIFE INSURANCE COMPANY </font></B><font size=2>(the &#147;Sponsor&#148;)</font></p>
+
+<p style=' margin-bottom:6pt; margin-top:6pt;text-align:center;'><font size=2>(EXACT NAME OF SPONSOR AS SPECIFIED IN ITS CHARTER)</font></p>
+
+
+<div align=center>
+
+<table border="0" cellspacing=0 cellpadding=0 width="639" style=' margin-left:77.4pt;border-collapse:collapse'>
+    <tr>
+        <td width="321" valign=top style='padding:0in 5.75pt 0in 5.75pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:center;margin-top:0pt;margin-bottom:0pt'><b><font size=2>Delaware</font></b></p> </td>
+        <td width="318" valign=top style='padding:0in 5.75pt 0in 5.75pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:center;margin-top:0pt;margin-bottom:0pt'><b><font size=2>Not Applicable</font></b></p> </td> </tr>
+    <tr>
+        <td width="321" valign=top style='padding:0in 5.75pt 0in 5.75pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:center;margin-top:0pt;margin-bottom:0pt'><font size=2>(State or Other Jurisdiction of</font></p> </td>
+        <td width="318" valign=top style='padding:0in 5.75pt 0in 5.75pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:center;margin-top:0pt;margin-bottom:0pt'><font size=2>(I.R.S. Employer Identification No.)</font></p> </td> </tr>
+    <tr>
+        <td width="321" valign=top style='padding:0in 5.75pt 0in 5.75pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:center;margin-top:0pt;margin-bottom:0pt'><font size=2>Incorporation or Organization)</font></p> </td>
+        <td width="318" valign=top style='padding:0in 5.75pt 0in 5.75pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:center;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td> </tr>
+    <tr>
+        <td width="321" valign=top style='padding:0in 5.75pt 0in 5.75pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:center;margin-top:0pt;margin-bottom:0pt'><b><font size=2>c/o AMACAR Pacific Corp.</font></b></p> </td>
+        <td width="318" valign=top style='padding:0in 5.75pt 0in 5.75pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:center;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td> </tr>
+    <tr>
+        <td width="321" valign=top style='padding:0in 5.75pt 0in 5.75pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:center;margin-top:0pt;margin-bottom:0pt'><b><font size=2>6525 Morrison Boulevard, Suite 318</font></b></p> </td>
+        <td width="318" valign=top style='padding:0in 5.75pt 0in 5.75pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:center;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td> </tr>
+    <tr>
+        <td width="321" valign=top style='padding:0in 5.75pt 0in 5.75pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:center;margin-top:0pt;margin-bottom:0pt'><b><font size=2>Charlotte, North Carolina</font></b></p> </td>
+        <td width="318" valign=top style='padding:0in 5.75pt 0in 5.75pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:center;margin-top:0pt;margin-bottom:0pt'><b><font size=2>28211</font></b></p> </td> </tr>
+    <tr>
+        <td width="321" valign=top style='padding:0in 5.75pt 0in 5.75pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:center;margin-top:0pt;margin-bottom:0pt'><font size=2>(Address of Principal Executive Office)</font></p> </td>
+        <td width="318" valign=top style='padding:0in 5.75pt 0in 5.75pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:center;margin-top:0pt;margin-bottom:0pt'><font size=2>(Zip Code)</font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:justify;'><font size=1>&nbsp;</font></p>
+
+<p style=' margin-bottom:6pt; margin-top:6pt;text-align:center;'><b><font size=2>Registrant&#146;s telephone number, including area code: (704) 365-0569</font></b></p>
+
+<p style=' margin-bottom:12pt; margin-top:12pt;text-align:center;'><b><font size=2>Securities Registered Pursuant to Section 12(b) of the Act:</font></b></p>
+
+
+<div align=center>
+
+<table border="0" cellspacing=0 cellpadding=0 width="639" style=' margin-left:95.4pt;border-collapse:collapse'>
+    <tr>
+        <td width="336" valign=top style='padding:0in 5.75pt 0in 5.75pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:center;margin-top:0pt;margin-bottom:0pt'><u><b><font size=1>Title of Each Class</font></b></u><u></u></p> </td>
+        <td width="303" valign=top style='padding:0in 5.75pt 0in 5.75pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:center;margin-top:0pt;margin-bottom:0pt'><u><b><font size=1>Name of Each Exchange on Which Registered</font></b></u><u></u></p> </td> </tr>
+    <tr>
+        <td width="336" valign=top style='padding:0in 5.75pt 0in 5.75pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:center;margin-top:0pt;margin-bottom:0pt'><b><font size=2>None</font></b></p> </td>
+        <td width="303" valign=top style='padding:0in 5.75pt 0in 5.75pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:center;margin-top:0pt;margin-bottom:0pt'><b><font size=2>None</font></b></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:justify;'><font size=1>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><b><font size=2>Securities Registered Pursuant to Section 12(g) of the Act:</font></b></p>
+
+<p style=' margin-bottom:12pt; margin-top:0pt;text-align:center;'><b><font size=2>Floating Rate Secured Medium Term Notes due 2010 of the Trust </font></b><font size=2>(the &#147;Notes&#148;)</font></p>
+
+<p style=' margin-bottom:12pt; margin-top:12pt; text-indent:0.93in;text-align:justify;'><font size=2>Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act.  Yes [   ] No [ X ]</font></p>
+
+<p style=' margin-bottom:12pt; margin-top:12pt; text-indent:0.5in;text-align:justify;'><font size=2>Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes [   ] No [ X ]</font></p>
+
+<p style=' margin-bottom:12pt; margin-top:12pt; text-indent:0.5in;text-align:justify;'><font size=2>Indicate by check mark whether the Registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the Registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes [ X ] No [   ]</font></p>
+<!-- EEDocs PBStart-->
+<p style='page-break-before:always'></p><PAGE>
+<!-- EEDocs PBEnd-->
+
+<p style=' margin-bottom:12pt; margin-top:12pt; text-indent:0.5in;text-align:justify;'><font size=2>Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K is not contained herein, and will not be contained, to the best of Registrant&#146;s knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form 10-K or any amendment to this Form 10-K. [ X ]</font></p>
+
+<p style=' margin-bottom:12pt; margin-top:12pt; text-indent:0.5in;text-align:justify;'><font size=2>Indicate by checkmark whether the registrant is a large accelerated filer, an accelerated filer, or a non-accelerated filer. See definition of &#147;accelerated filer and large accelerated filer&#148; in Rule 12b-2 of the Exchange Act. (Check One):</font></p>
+
+<p style=' margin-bottom:12pt; margin-top:12pt; text-indent:0.5in;text-align:left;'><font size=2>Large accelerated filer  [   ]</font><font size=1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font><font size=2>Accelerated filer  [   ]</font><font size=2>Non-accelerated filer  [ X ]</font></p>
+
+<p style=' margin-bottom:12pt; margin-top:12pt; text-indent:0.5in;text-align:justify;'><font size=2>Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act.)  Yes [   ]  No [ X ]</font></p>
+
+<p style=' margin-bottom:12pt; margin-top:12pt; text-indent:0.5in;text-align:justify;'><font size=2>State the aggregate market value of the voting and non-voting common equity held by non-affiliates of the registrant. The aggregate market value shall be computed by reference to the price at which the common equity was sold, or the average bid and asked prices of such common equity, as of the last business day of the registrant&#146;s most recently completed second fiscal quarter.</font></p>
+
+<p style=' margin-bottom:6pt; margin-top:12pt; text-indent:0.5in;text-align:justify;'><font size=2>Not applicable.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:justify;border-bottom:solid 2.25pt;padding-bottom:1;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:6pt; margin-top:0pt;text-align:center;'><b><font size=2>Documents Incorporated by Reference:</font></b></p>
+
+<p style=' margin-bottom:6pt; margin-top:0pt; text-indent:0.5in;text-align:justify;'><font size=2>Note that in Parts I and III of this Annual Report on Form 10-K, we incorporate by reference certain information from the Annual Report on Form 10-K of the Sponsor (Commission file number 0-31248) for the year ended December 31, 2007 filed on March 17, 2008.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:justify;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><B><font SIZE=2>PART I</font></B></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><b><font size=2>The following items have been omitted in accordance with General Instruction J(1) to Form 10-K:</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="143" style=' border-collapse:collapse'>
+    <tr>
+        <td width="72" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Item 1.</font></p> </td>
+        <td width="71" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Business.</font></p> </td> </tr></table>
+</div>
+
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="160" style=' border-collapse:collapse'>
+    <tr>
+        <td width="69" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Item 1A.</font></p> </td>
+        <td width="91" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Risk Factors.</font></p> </td> </tr></table>
+</div>
+
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="147" style=' border-collapse:collapse'>
+    <tr>
+        <td width="69" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Item 2.</font></p> </td>
+        <td width="78" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Properties.</font></p> </td> </tr></table>
+</div>
+
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="193" style=' border-collapse:collapse'>
+    <tr>
+        <td width="70" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Item 3.</font></p> </td>
+        <td width="123" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Legal Proceedings.</font></p> </td> </tr></table>
+</div>
+
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="374" style=' border-collapse:collapse'>
+    <tr>
+        <td width="70" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Item 4.</font></p> </td>
+        <td width="305" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Submission of Matters to a Vote of Security Holders.</font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:0.5in;text-align:justify;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="255" style=' border-collapse:collapse'>
+    <tr>
+        <td width="3" nowrap valign=top style='padding:0in 0in 12.0pt 0in; '>
+            <p  style='text-indent:0in'><font size=1>&nbsp;</font></p> </td>
+        <td width="69" nowrap valign=top style='padding:0in 0in 12.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><b><font size=2>Item 1B.</font></b></p> </td>
+        <td width="183" nowrap valign=top style='padding:0in 0in 12.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><b><font size=2>Unresolved Staff Comments.</font></b></p> </td> </tr></table>
+</div>
+
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="148" style=' border-collapse:collapse'>
+    <tr>
+        <td width="48" nowrap valign=top style='padding:0in 0in 12.0pt 0in; '>
+            <p  style='text-indent:0in'><font size=1>&nbsp;</font></p> </td>
+        <td width="100" nowrap valign=top style='padding:0in 0in 12.0pt 0in; '>
+            <p  style='margin-bottom:0in; text-indent:0in'><font size=2>Not applicable.</font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:12pt; margin-top:0pt; margin-left:0.02in;text-align:justify;'><b><font size=2>The following substitute information is included in accordance with General Instruction J(2) to Form 10-K:</font></b></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="438" style=' border-collapse:collapse'>
+    <tr>
+        <td width="3" nowrap valign=top style='padding:0in 0in 12.0pt 0in; '>
+            <p  style='text-indent:0in'><font size=1>&nbsp;</font></p> </td>
+        <td width="216" nowrap valign=top style='padding:0in 0in 12.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><b><font size=2>Item 1112(b) of Regulation AB:</font></b></p> </td>
+        <td width="220" nowrap valign=top style='padding:0in 0in 12.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><b><font size=2>Significant Obligors of Pool Assets.</font></b></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; text-indent:0.43in;text-align:left;'><font size=2>Pursuant to Item 1100(c) of Regulation AB, the financial information required by Item 1112(b) of Regulation AB for the Sponsor as a &#147;significant obligor&#148; of pool assets is incorporated by reference to the discussion under the heading &#147;Financial Statements and Supplementary Data&#148; in Item 8 of the Annual Report on Form 10-K of the Sponsor (Commission file number 0-31248) for the year ended December 31, 2007, filed on March 17, 2008.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="585" style=' border-collapse:collapse'>
+    <tr>
+        <td width="3" nowrap valign=top style='padding:0in 0in 12.0pt 0in; '>
+            <p  style='text-indent:0in'><font size=1>&nbsp;</font></p> </td>
+        <td width="219" nowrap valign=top style='padding:0in 0in 12.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><b><font size=2>Item 1114(b)(2) of Regulation AB:</font></b></p> </td>
+        <td width="364" nowrap valign=top style='padding:0in 0in 12.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><b><font size=2>Credit Enhancement and Other Support, Except for Certain</font></b></p> </td> </tr></table>
+</div>
+
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="381" style=' border-collapse:collapse'>
+    <tr>
+        <td width="221" nowrap valign=top style='padding:0in 0in 12.0pt 0in; '>
+            <p  style='text-indent:0in'><font size=1>&nbsp;</font></p> </td>
+        <td width="160" nowrap valign=top style='padding:0in 0in 12.0pt 0in; '>
+            <p  style='margin-bottom:0in; text-indent:0in'><b><font size=2>Derivatives Instruments.</font></b></p> </td> </tr></table>
+</div>
+
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="148" style=' border-collapse:collapse'>
+    <tr>
+        <td width="48" nowrap valign=top style='padding:0in 0in 12.0pt 0in; '>
+            <p  style='text-indent:0in'><font size=1>&nbsp;</font></p> </td>
+        <td width="100" nowrap valign=top style='padding:0in 0in 12.0pt 0in; '>
+            <p  style='margin-bottom:0in; text-indent:0in'><font size=2>Not applicable.</font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:justify;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=2>2</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+<!-- EEDocs PBStart-->
+<p style='page-break-before:always'></p><PAGE>
+<!-- EEDocs PBEnd-->
+
+<p style=' margin-bottom:12pt; margin-top:0pt; margin-left:0.02in;text-align:justify;'><b><font size=2>Item 1115(b) of Regulation AB:</font></b><font size=1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font><b><font size=2>Certain Derivatives Instruments (Financial </font></b><b><font size=2>Information).</font></b></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="148" style=' border-collapse:collapse'>
+    <tr>
+        <td width="48" nowrap valign=top style='padding:0in 0in 12.0pt 0in; '>
+            <p  style='text-indent:0in'><font size=1>&nbsp;</font></p> </td>
+        <td width="100" nowrap valign=top style='padding:0in 0in 12.0pt 0in; '>
+            <p  style='margin-bottom:0in; text-indent:0in'><font size=2>Not applicable.</font></p> </td> </tr></table>
+</div>
+
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="348" style=' border-collapse:collapse'>
+    <tr>
+        <td width="3" nowrap valign=top style='padding:0in 0in 12.0pt 0in; '>
+            <p  style='text-indent:0in'><font size=1>&nbsp;</font></p> </td>
+        <td width="219" nowrap valign=top style='padding:0in 0in 12.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><b><font size=2>Item 1117 of Regulation AB:</font></b></p> </td>
+        <td width="127" nowrap valign=top style='padding:0in 0in 12.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><b><font size=2>Legal Proceedings.</font></b></p> </td> </tr></table>
+</div>
+
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="464" style=' border-collapse:collapse'>
+    <tr>
+        <td width="48" nowrap valign=top style='padding:0in 0in 12.0pt 0in; '>
+            <p  style='text-indent:0in'><font size=1>&nbsp;</font></p> </td>
+        <td width="416" nowrap valign=top style='padding:0in 0in 12.0pt 0in; '>
+            <p  style='margin-bottom:0in; text-indent:0in'><font size=2>There are no legal proceedings pending against the Trust or the Depositor.</font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:12pt; margin-top:0pt; text-indent:0.48in;text-align:left;'><font size=2>The information required by Item 1117 of Regulation AB for the Sponsor is incorporated by reference to the discussion under the heading &#147;Legal Proceedings&#148; in Item 3 and under the headings &#147;Regulation&#148; and &#147;Legal and regulatory proceedings and inquiries&#148; in Note 11 of Item 8 of the Annual Report on Form 10-K of the Sponsor for the year ended December 31, 2007, filed on March 17, 2008.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:0.02in;text-align:justify;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:12pt; margin-top:0pt;text-align:center;'><B><font SIZE=2>PART II</font></B></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:justify;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><b><font size=2>The following items have been omitted in accordance with General Instruction J(1) to Form 10-K:</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>Item 5.</font><font size=1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font><font size=2>Market for Registrant&#146;s Common Equity, Related Stockholder Matters and Issuer Purchases of </font><font size=2>Equity Securities. </font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="219" style=' border-collapse:collapse'>
+    <tr>
+        <td width="69" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Item 6.</font></p> </td>
+        <td width="150" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Selected Financial Data.</font></p> </td> </tr></table>
+</div>
+
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="567" style=' border-collapse:collapse'>
+    <tr>
+        <td width="69" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Item 7.</font></p> </td>
+        <td width="498" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Management&#146;s Discussion and Analysis of Financial Condition and Results of Operation.</font></p> </td> </tr></table>
+</div>
+
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="415" style=' border-collapse:collapse'>
+    <tr>
+        <td width="69" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=2>Item 7A.</font></p> </td>
+        <td width="346" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=2>Quantitative and Qualitative Disclosures About Market Risk.</font></p> </td> </tr></table>
+</div>
+
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="339" style=' border-collapse:collapse'>
+    <tr>
+        <td width="69" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=2>Item 8.</font></p> </td>
+        <td width="270" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=2>Financial Statements and Supplementary Data.</font></p> </td> </tr></table>
+</div>
+
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="576" style=' border-collapse:collapse'>
+    <tr>
+        <td width="69" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=2>Item 9.</font></p> </td>
+        <td width="507" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=2>Changes in and Disagreements With Accountants on Accounting and Financial Disclosure.</font></p> </td> </tr></table>
+</div>
+
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="225" style=' border-collapse:collapse'>
+    <tr>
+        <td width="70" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=2>Item 9A.</font></p> </td>
+        <td width="155" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=2>Controls and Procedures.</font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:justify;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="199" style=' border-collapse:collapse'>
+    <tr>
+        <td width="69" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=2>Item 9B.</font></p> </td>
+        <td width="130" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=2>Other Information.</font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:justify;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="102" style=' border-collapse:collapse'>
+    <tr>
+        <td width="50" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="52" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=2>None.</font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:justify;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:12pt; margin-top:0pt;text-align:center;'><B><font SIZE=2>PART III</font></B></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:justify;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><b><font size=2>The following items have been omitted in accordance with General Instruction J(1) to Form 10-K:</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="364" style=' border-collapse:collapse'>
+    <tr>
+        <td width="72" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Item 10.</font></p> </td>
+        <td width="292" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Directors and Executive Officers of the Registrant.</font></p> </td> </tr></table>
+</div>
+
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="228" style=' border-collapse:collapse'>
+    <tr>
+        <td width="70" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Item 11.</font></p> </td>
+        <td width="158" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Executive Compensation.</font></p> </td> </tr></table>
+</div>
+
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="634" style=' border-collapse:collapse'>
+    <tr>
+        <td width="69" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Item 12.</font></p> </td>
+        <td width="565" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters.</font></p> </td> </tr></table>
+</div>
+
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="347" style=' border-collapse:collapse'>
+    <tr>
+        <td width="69" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=2>Item 13.</font></p> </td>
+        <td width="278" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=2>Certain Relationships and Related Transactions.</font></p> </td> </tr></table>
+</div>
+
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="306" style=' border-collapse:collapse'>
+    <tr>
+        <td width="69" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=2>Item 14.</font></p> </td>
+        <td width="237" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=2>Principal Accounting Fees and Services.</font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:justify;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:justify;'><b><font size=2>The following substitute information is included in accordance with General Instruction J(2) to Form 10-K:</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:justify;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:justify;'><b><font size=2>Item 1119 of Regulation AB. Affiliations and Certain Relationships and Related Transactions.</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:justify;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:12pt; margin-top:0pt; text-indent:1in;text-align:justify;'><font size=2>The following describes the relationships among the Depositor, the Trust, the Sponsor and Allstate Insurance Company:</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style=' border-collapse:collapse'>
+    <tr>
+        <td width="48" valign=top style='padding:0in 0in 12.0pt 0in'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:12.0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="24" valign=top style='padding:0in 0in 12.0pt 0in'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=4><b>&#149;</b></font></p> </td>
+        <td  valign=top style='padding:0in 0in 12.0pt 0in'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=2>pursuant to an amended and restated name licensing agreement, Allstate Insurance Company has granted the Depositor, and pursuant to a separate name licensing agreement Allstate Insurance </font></p> </td> </tr></table>
+</div>
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:0.75in; text-indent:-0.25in;text-align:justify;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=2>3</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+<!-- EEDocs PBStart-->
+<p style='page-break-before:always'></p><PAGE>
+<!-- EEDocs PBEnd-->
+
+<p style=' margin-bottom:12pt; margin-top:0pt; margin-left:0.75in;text-align:justify;'><font size=2>Company has granted the Trust, a non-exclusive license to use the name &#147;Allstate&#148; and other licensed marks as provided therein;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style=' border-collapse:collapse'>
+    <tr>
+        <td width="48" valign=top style='padding:0in 0in 12.0pt 0in'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:12.0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="24" valign=top style='padding:0in 0in 12.0pt 0in'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=4><b>&#149;</b></font></p> </td>
+        <td  valign=top style='padding:0in 0in 12.0pt 0in'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=2>the Sponsor and the Depositor entered into an amended and restated support and expenses agreement, pursuant to which the Sponsor agreed, among other things, to pay certain costs and expenses relating to the offering, sale and issuance of each funding note and certain costs, expenses and taxes incurred by the Depositor, and to indemnify the Depositor with respect to certain matters;</font></p> </td> </tr></table>
+</div>
+
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style=' border-collapse:collapse'>
+    <tr>
+        <td width="48" valign=top style='padding:0in 0in 12.0pt 0in'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:12.0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="24" valign=top style='padding:0in 0in 12.0pt 0in'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=4><b>&#149;</b></font></p> </td>
+        <td  valign=top style='padding:0in 0in 12.0pt 0in'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=2>in connection with the issuance of the Notes, pursuant to a separate support and expenses agreement, the Sponsor agreed, among other things, to pay certain costs and expenses relating to the offering, sale and issuance of the Notes and certain costs, expenses and taxes incurred by the Trust, and to indemnify the Trust with respect to certain matters; and</font></p> </td> </tr></table>
+</div>
+
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style=' border-collapse:collapse'>
+    <tr>
+        <td width="48" valign=top style='padding:0in 0in 12.0pt 0in'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:12.0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="24" valign=top style='padding:0in 0in 12.0pt 0in'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=4><b>&#149;</b></font></p> </td>
+        <td  valign=top style='padding:0in 0in 12.0pt 0in'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=2>the Sponsor, the Depositor and the Trust entered into the documents contemplated by the medium term note program in connection with the issue and sale of the Notes.</font></p> </td> </tr></table>
+</div>
+
+
+<p style=' margin-bottom:12pt; margin-top:0pt; text-indent:0.5in;text-align:justify;'><font size=2>Except as set forth above, none of The Allstate Corporation, Allstate Insurance Company, the Sponsor or any of their respective officers, directors, subsidiaries or affiliates owns or will own any beneficial interest in the Depositor or the Trust nor has any of these persons or entities entered or will enter into any agreement with the Depositor or the Trust.</font></p>
+
+<p style=' margin-bottom:12pt; margin-top:0pt; text-indent:0.5in;text-align:justify;'><font size=2>The Trust is not affiliated with the Sponsor.</font></p>
+
+<p style=' margin-bottom:12pt; margin-top:0pt; text-indent:0.5in;text-align:justify;'><font size=2>Neither The Allstate Corporation, Allstate Insurance Company, the Sponsor nor any of their respective officers, directors, subsidiaries or affiliates owns, or will own, any beneficial interest in the Depositor or the Trust.</font></p>
+
+<p style=' margin-bottom:12pt; margin-top:0pt; text-indent:0.5in;text-align:justify;'><font size=2>Neither The Allstate Corporation, the Sponsor nor any of their respective officers, directors, subsidiaries or affiliates is affiliated with the Delaware trustee, the trust beneficial owner or the administrator of the Trust or the Depositor, any indenture trustee or any funding note indenture trustee. Neither The Allstate Corporation, Allstate Insurance Company, the Sponsor nor any of their respective officers, directors, subsidiaries or affiliates is affiliated with any beneficial owner of AMACAR Pacific Corp. </font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:justify;'><b><font size=2>Item 1122 of Regulation AB. Compliance with Applicable Servicing Criteria.</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:justify;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; text-indent:0.5in;text-align:justify;'><font size=2>The Bank of New York Trust Company, N.A., as trustee (the &#147;Servicing Participant&#148;), has been identified by the Registrant as a party participating in the servicing function during the reporting period with respect to the pool assets held by the Trust. The Servicing Participant has completed a report on an assessment of compliance with the servicing criteria (the &#147;Report on Assessment&#148;) during the Trust&#146;s fiscal year ending December 31, 2007, which Report on Assessment is attached as Exhibit 33 to this Annual Report Form 10-K. In addition, the Servicing Participant has provided an attestation report (the &#147;Attestation Report&#148;) by a registered independent public accounting firm regarding its Report on Assessment. The Attestation Report is attached as Exhibit 34 to this Annual Report Form 10-K. Neither the Report on Assessment nor the Attestation Report has
+identified any material instances of noncompliance with the servicing criteria described in the Report on Assessment by the Servicing Participant. </font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:justify;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:justify;'><b><font size=2>Item 1123 of Regulation AB. Servicer Compliance Statement.</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:justify;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; text-indent:0.5in;text-align:justify;'><font size=2>The Bank of New York Trust Company, N.A., as trustee (the &#147;Servicer&#148;), has been identified by the registrant as a servicer during the reporting period with respect to the pool assets held by the Trust. The Servicer has provided a compliance statement (the &#147;Servicer Compliance Statement&#148;), signed by an authorized officer, which is attached as Exhibit 35 to this Annual Report Form 10-K. </font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:justify;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=2>4</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+<!-- EEDocs PBStart-->
+<p style='page-break-before:always'></p><PAGE>
+<!-- EEDocs PBEnd-->
+
+<p style=' margin-bottom:12pt; margin-top:0pt;text-align:center;'><B><font SIZE=2>PART IV</font></B></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="476" style=' border-collapse:collapse'>
+    <tr>
+        <td width="74" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><b><font size=2>Item 15.</font></b></p> </td>
+        <td width="402" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><b><font size=2>Exhibits, Financial Statement Schedules and Reports on Form 8-K.</font></b></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:justify;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="423" style=' border-collapse:collapse'>
+    <tr>
+        <td width="96" nowrap valign=top style='padding:0in 0in 12.0pt 0in; '>
+            <p  style='text-indent:0in'><font size=1>&nbsp;</font></p> </td>
+        <td width="48" nowrap valign=top style='padding:0in 0in 12.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=2>(a)</font></p> </td>
+        <td width="279" nowrap valign=top style='padding:0in 0in 12.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=2>List of Documents Filed as a Part of This Report</font></p> </td> </tr></table>
+</div>
+
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="296" style=' border-collapse:collapse'>
+    <tr>
+        <td width="144" nowrap valign=top style='padding:0in 0in 12.0pt 0in; '>
+            <p  style='text-indent:0in'><font size=1>&nbsp;</font></p> </td>
+        <td width="48" nowrap valign=top style='padding:0in 0in 12.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=2>(1)</font></p> </td>
+        <td width="104" nowrap valign=top style='padding:0in 0in 12.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=2>Not Applicable.</font></p> </td> </tr></table>
+</div>
+
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="296" style=' border-collapse:collapse'>
+    <tr>
+        <td width="144" nowrap valign=top style='padding:0in 0in 12.0pt 0in; '>
+            <p  style='text-indent:0in'><font size=1>&nbsp;</font></p> </td>
+        <td width="48" nowrap valign=top style='padding:0in 0in 12.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=2>(2)</font></p> </td>
+        <td width="104" nowrap valign=top style='padding:0in 0in 12.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=2>Not Applicable.</font></p> </td> </tr></table>
+</div>
+
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="330" style=' border-collapse:collapse'>
+    <tr>
+        <td width="144" nowrap valign=top style='padding:0in 0in 12.0pt 0in; '>
+            <p  style='text-indent:0in'><font size=1>&nbsp;</font></p> </td>
+        <td width="48" nowrap valign=top style='padding:0in 0in 12.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=2>(3)</font></p> </td>
+        <td width="138" nowrap valign=top style='padding:0in 0in 12.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=2>See Item 15(b) below.</font></p> </td> </tr></table>
+</div>
+
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="638" style=' margin-left:0pt;border-collapse:collapse'>
+    <tr >
+        <td  width="4">
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></td>
+        <td width="96" nowrap valign=top style='padding:0in 0in 12.0pt 0in; '>
+            <p  style='text-indent:0in'><font size=1>&nbsp;</font></p> </td>
+        <td  nowrap colspan="2" valign=top style='padding:0in 0in 12.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=2>(b)</font></p> </td>
+        <td width="285" nowrap valign=top style='padding:0in 0in 12.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=2>Exhibits Required by Item 601 of Regulation S-K</font></p> </td>
+        <td  width="205">
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></td> </tr>
+    <tr style='height:34.65pt'>
+        <td  nowrap colspan="3" valign=bottom style='padding: 0in 5.75pt 0in .05in;height:34.65pt'>
+            <div style='border-bottom:solid black .5pt;padding:0in 0in 1.0pt 0in'>
+<p  align=left style='text-align:left;  padding:0in'><b><font  size=2>Exhibit Number</font></b></p>  </div>  </td>
+        <td  nowrap colspan="3" valign=bottom style='  padding:0in 5.75pt 0in 5.75pt;height:34.65pt'>
+            <div style='border-bottom:solid black .5pt;padding:0in 0in 1.0pt 0in'>
+<p  align=left style='text-align:left;  padding:0in'><b><font  size=2>Description of Document</font></b></p>  </div>  </td> </tr>
+    <tr>
+        <td  nowrap colspan="3" valign=top style='padding:0in 5.75pt 0in .05in; '>
+            <p ><font size=2>31</font></p>
+<p ><font size=1>&nbsp;</font></p> </td>
+        <td  nowrap colspan="3" valign=top style='padding:0in 5.75pt 0in 5.75pt; '>
+            <p ><font size=2>Certification dated March 25, 2008 pursuant to Rules 13a-14(d) and 15d-14(d) under the Securities Exchange Act of 1934, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002, with respect to the Registrant&#146;s Annual Report on Form 10-K for the year ended December 31, 2007.</font></p> </td> </tr>
+    <tr>
+        <td  nowrap colspan="3" valign=top style='padding:0in 5.75pt 0in .05in; '>
+            <p ><font size=2>33</font></p> </td>
+        <td  nowrap colspan="3" valign=top style='padding:0in 5.75pt 0in 5.75pt; '>
+            <p ><font size=2>Report on Assessment of Compliance with servicing criteria concerning servicing activities of The Bank of New York Trust Company, N.A., as trustee, for the year ended December 31, 2007.</font></p> </td> </tr>
+    <tr>
+        <td  nowrap colspan="3" valign=top style='padding:0in 5.75pt 0in .05in; '>
+            <p ><font size=2>34</font></p> </td>
+        <td  nowrap colspan="3" valign=top style='padding:0in 5.75pt 0in 5.75pt; '>
+            <p ><font size=2>Independent Accountant&#146;s Attestation Report concerning servicing activities of The Bank of New York Trust Company, N.A., as trustee, for the year ended December 31, 2007. </font></p> </td> </tr>
+    <tr>
+        <td  nowrap colspan="3" valign=top style=' border-bottom:solid black .5pt;padding:0in 5.75pt 0in .05in;'>
+            <p ><font size=2>35</font></p> </td>
+        <td  nowrap colspan="3" valign=top style=' border-bottom:solid black .5pt;padding:0in 5.75pt 0in 5.75pt;'>
+            <p ><font size=2>Servicer Compliance Statement of The Bank of New York Trust Company, N.A., as trustee, for the year ended December 31, 2007.</font></p> </td> </tr>
+    <tr>
+        <td width="4" ></td>
+
+        <td width="96" ></td>
+
+        <td width="8" ></td>
+
+        <td width="40" ></td>
+
+        <td width="285" ></td>
+
+        <td width="205" ></td> </tr> </table>
+            </div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:justify;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="244" style=' border-collapse:collapse'>
+    <tr>
+        <td width="96" nowrap valign=top style='padding:0in 0in 12.0pt 0in; '>
+            <p  style='text-indent:0in'><font size=1>&nbsp;</font></p> </td>
+        <td width="48" nowrap valign=top style='padding:0in 0in 12.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=2>(c)</font></p> </td>
+        <td width="100" nowrap valign=top style='padding:0in 0in 12.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=2>Not applicable.</font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:justify;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=2>5</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+<!-- EEDocs PBStart-->
+<p style='page-break-before:always'></p><PAGE>
+<!-- EEDocs PBEnd-->
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'>
+<b><font size=2> SIGNATURES</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:justify;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:12pt; margin-top:0pt;text-align:justify;'><font size=2>Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. </font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=center>
+
+<table border="0" cellspacing=0 cellpadding=0 width="625" style=' border-collapse:collapse'>
+    <tr>
+        <td width="221" valign=bottom >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0in;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="20" valign=bottom >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0in;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td colspan="3" valign=bottom >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0in;margin-bottom:0pt'><b><small>ALLSTATE</small> <small>LIFE</small> <small>GLOBAL</small> <small>FUNDING</small></b></p>
+<p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0in;margin-bottom:0pt'><font size=2>as depositor of</font></p>
+<p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><b><small>ALLSTATE</small> <small>LIFE</small> <small>GLOBAL</small> <small>FUNDING</small><font size=2> </font><small>TRUST</small><font size=2> 2007-7</font></b></p>
+<p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0in;margin-bottom:0pt'><font size=2>(Registrant)</font></p> </td> </tr>
+    <tr>
+        <td width="221" valign=bottom >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0in;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="20" valign=bottom >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0in;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="80" valign=bottom >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0in;margin-bottom:0pt'><font size=2>By:</font></p> </td>
+        <td  colspan="2" valign=bottom >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>AMACAR Pacific Corp., not in its individual capacity,</font></p>
+<p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>but solely as administrator*</font></p> </td> </tr>
+    <tr>
+        <td width="221" valign=bottom >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:1.0pt;margin-bottom:0pt'>  </p> </td>
+        <td width="20" valign=bottom >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:1.0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="80" valign=bottom >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:1.0pt;margin-bottom:0pt'><font size=2>By:&nbsp;</font></p> </td>
+        <td width="160" valign=bottom style='border-bottom: solid black .5pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0in;margin-bottom:0pt'><br> <font size=2>/s/ Douglas K. Johnson</font></p> </td>
+        <td width="145" valign=bottom >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:1.0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p>
+<p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:1.0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td> </tr>
+    <tr>
+        <td width="221" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0in;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="20" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0in;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="80" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0in;margin-bottom:0pt'><font size=2>Name:</font></p>
+<p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0in;margin-bottom:0pt'><font size=2>Title:</font></p> </td>
+        <td colspan="2" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0in;margin-bottom:0pt'><font size=2>Douglas K. Johnson</font></p>
+<p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0in;margin-bottom:0pt'><font size=2>President</font></p> </td> </tr>
+    <tr>
+        <td width="221" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0in;margin-bottom:0pt'><font size=2>Date: March 25, 2008</font></p> </td>
+        <td width="20" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0in;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="80" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0in;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td colspan="2" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0in;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:justify;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:justify;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:justify;'><font size=2>*Allstate Life Global Funding and Allstate Life Global Funding Trust 2007-7 are statutory trusts organized under the laws of the State of Delaware and have no officers. AMACAR Pacific Corp., as administrator, is the sole provider of administrative services to Allstate Life Global Funding and Allstate Life Global Funding Trust 2007-7.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:justify;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=2>6</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+<!-- EEDocs PBStart-->
+<p style='page-break-before:always'></p><PAGE>
+<!-- EEDocs PBEnd-->
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'>
+<B><font SIZE=2>EXHIBIT INDEX</font></B></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="638" style=' border-collapse:collapse'>
+    <tr style='height:34.65pt'>
+        <td width="108" valign=bottom style='padding:0in 5.75pt 0in .05in;  height:34.65pt'>
+            <div style='border-bottom:solid black .5pt;padding:0in 0in 1.0pt 0in'>
+<p  align=left style='text-align:left;  padding:0in'><b><font  size=2>Exhibit Number</font></b></p>  </div>  </td>
+        <td width="530" valign=bottom style='padding:0in 5.75pt 0in 5.75pt;  height:34.65pt'>
+            <div style='border-bottom:solid black .5pt;padding:0in 0in 1.0pt 0in'>
+<p  align=left style='text-align:left;  padding:0in'><b><font  size=2>Description of  Document</font></b></p>  </div>  </td> </tr>
+    <tr>
+        <td width="108" valign=top style='padding:0in 5.75pt 0in .05in'>
+            <p ><font size=2>31</font></p>
+<p ><font size=1>&nbsp;</font></p> </td>
+        <td width="530" valign=top style='padding:0in 5.75pt 0in 5.75pt'>
+            <p ><font size=2>Certification dated March 25, 2008 pursuant to Rules 13a-14(d) and 15d-14(d) under the Securities Exchange Act of 1934, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002, with respect to the Registrant&#146;s Annual Report on Form 10-K for the year ended December 31, 2007.</font></p> </td> </tr>
+    <tr>
+        <td width="108" valign=top style='padding:0in 5.75pt 0in .05in'>
+            <p ><font size=2>33</font></p> </td>
+        <td width="530" valign=top style='padding:0in 5.75pt 0in 5.75pt'>
+            <p ><font size=2>Report on Assessment of Compliance with servicing criteria concerning servicing activities of The Bank of New York Trust Company, N.A., as trustee, for the year ended December 31, 2007.</font></p> </td> </tr>
+    <tr>
+        <td width="108" valign=top style='padding:0in 5.75pt 0in .05in'>
+            <p ><font size=2>34</font></p> </td>
+        <td width="530" valign=top style='padding:0in 5.75pt 0in 5.75pt'>
+            <p ><font size=2>Independent Accountant&#146;s Attestation Report concerning servicing activities of The Bank of New York Trust Company, N.A., as trustee, the year ended December 31, 2007. </font></p> </td> </tr>
+    <tr>
+        <td width="108" valign=top style='padding:0in 5.75pt 0in .05in'>
+            <p ><font size=2>35</font></p> </td>
+        <td width="530" valign=top style='padding:0in 5.75pt 0in 5.75pt'>
+            <p ><font size=2>Servicer Compliance Statement of The Bank of New York Trust Company, N.A., as trustee, for the year ended December 31, 2007.</font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:justify;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=2>7</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+<!-- EEDocs PBStart-->
+<!-- EEDocs PBEnd-->
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>

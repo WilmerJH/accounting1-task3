@@ -1,0 +1,303 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>efc4-0598_5514529form10k.txt
+<TEXT>
+                                 UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+                                      ----
+
+                                   FORM 10-K
+
+                       FOR ANNUAL AND TRANSITION REPORTS
+                    PURSUANT TO SECTIONS 13 OR 15(d) OF THE
+                        SECURITIES EXCHANGE ACT OF 1934
+
+
+
+
+     (Mark One)
+
+        /X/  ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+             EXCHANGE ACT OF 1934
+
+        For  the fiscal year ended December 31, 2003
+
+                                       or
+
+        / /  TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURI-
+             TIES EXCHANGE ACT OF 1934
+
+        For the transition period from ________ to ________
+
+                     Commission File Number:         001-31302
+
+
+                            Lehman ABS Corporation,
+                                 on behalf of:
+ Corporate Backed Trust Certificates, Kinder Morgan Debenture-Backed
+                              Series 2002-6 Trust
+-------------------------------------------------------------------------------
+             (Exact name of registrant as specified in its charter)
+
+               Delaware                                  13-3447441
+------------------------------------------    -------------------------------
+(State or other jurisdiction                  (I.R.S. Employer Identification
+of incorporation or organization)              No.)
+
+  745 Seventh Avenue, New York, New York                  10019
+  --------------------------------------      -------------------------------
+ (Address of principal executive offices)               (Zip Code)
+
+     Registrant's telephone number, including area code: (212) 526-7000
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of Class                                   Name of Registered Exchange
+--------------                                   ---------------------------
+
+Corporate Backed Trust Certificates,           New York Stock Exchange ("NYSE")
+Kinder Morgan Debenture-Backed Series 2002-6
+
+
+Securities registered pursuant to Section 12(g) of the Act: None
+
+
+<PAGE>
+
+
+Indicate by check mark whether the registrant: (1) Has filed all reports
+required to be filed by section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to file
+requirements for the past 90 days.
+Yes /X/     No / /
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405
+of Regulation S-K is not contained herein, and will not be contained, to the
+best of registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to
+this Form 10-K.  /X/
+
+Indicate by check mark whether the registrant is an accelerated filer (as
+defined in Rule 12b-2 of the Act).
+Yes / /     No /X/
+
+State the aggregate market value of the voting and non-voting common equity
+held by non-affiliates computed by reference to the price at which the common
+equity was last sold, or the average bid and asked price of such common equity,
+as of the last business day of the registrant's most recently completed second
+fiscal quarter:
+
+     The registrant has no voting stock or class of common stock that is held
+by non-affiliates.
+
+
+                      DOCUMENTS INCORPORATED BY REFERENCE
+
+The distribution reports to security holders filed on Form 8-K during the
+fiscal year in lieu of reports on Form 10-Q which includes the reports filed on
+Form 8-K listed in Item 15(b) hereto.
+
+                               Introductory Note
+
+Lehman ABS Corporation (the "Depositor") is the Depositor in respect of the
+Corporate Backed Trust Certificates, Kinder Morgan Debenture-Backed Series
+2002-6 Trust (the "Trust"), a common law trust formed pursuant to the Standard
+Terms for Trust Agreements, dated as of January 16, 2001, between the Depositor
+and U.S. Bank Trust National Association, as trustee (the "Trustee"), as
+supplemented by a Series Supplement (the "Series Supplement") dated as of April
+16, 2002 in respect of the Trust. The Trust's assets consist solely of
+debentures issued by Kinder Morgan, Inc. The Certificates do not represent
+obligations of or interests in the Depositor or the Trustee.
+
+Kinder Morgan, Inc., the issuer of the underlying securities, is subject to the
+information reporting requirements of the Securities Exchange Act of 1934, as
+amended, (the "Exchange Act"). For information on the issuer of the underlying
+securities, please see its periodic and current reports filed with the
+Securities and Exchange Commission (the "Commission") under Kinder Morgan,
+Inc.'s Exchange Act file number, 001-06446. Periodic and current reports and
+other information required to be filed pursuant to the Exchange Act by Kinder
+Morgan, Inc. may be inspected and copied at the public reference facilities
+maintained by the Securities and Exchange Commission at 450 Fifth Street, N.W.,
+Washington, D.C. 20549. The Commission also maintains a site on the World Wide
+Web at "http://www.sec.gov" at which users can view and download copies of
+reports, proxy and information statements and other information filed
+electronically through the Electronic Data Gathering, Analysis and Retrieval
+system, or "EDGAR." Neither the Depositor nor the Trustee has participated in
+the preparation of such reporting documents, or made any due diligence
+investigation with respect to the information provided therein. Neither the
+Depositor nor the Trustee has verified the accuracy or completeness of such
+documents or reports. There can be no assurance that events affecting the
+issuer of the underlying securities or the underlying securities have not
+occurred or have not yet been publicly disclosed which would affect the
+accuracy or completeness of the publicly available documents described above.
+
+
+                                       2
+
+
+<PAGE>
+
+
+                                     PART I
+
+Item 1.  Business.
+          Not Applicable
+
+Item 2.  Properties.
+          Not Applicable
+
+Item 3.  Legal Proceedings.
+          None
+
+Item 4.  Submission of Matters To A Vote of Security Holders.
+          None
+
+                                    PART II
+
+Item 5.  Market for Registrant's Common Equity and Related Stockholder Matters.
+         The publicly offered Certificates representing investors' interest
+in the Trust are represented by one or more physical Certificates registered in
+the name of "Cede & Co.", the nominee of The Depository Trust Company. Those
+publicly offered Certificates are listed on the NYSE.
+
+Item 6.  Selected Financial Data.
+          Not Applicable
+
+Item 7.  Management's Discussion and Analysis of Financial Condition and
+         Results of Operations.
+         Not Applicable
+
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk.
+         Not Applicable
+
+Item 8.  Financial Statements and Supplementary Data.
+          Not Applicable
+
+Item 9. Changes In and Disagreements With Accountants on Accounting and
+        Financial Disclosure.
+         None
+
+Item 9A. Controls and Procedures.
+         Not Applicable
+
+                                    PART III
+
+Item 10. Directors and Executive Officers of the Registrant.
+         Not Applicable
+
+Item 11. Executive Compensation.
+         Not Applicable
+
+Item 12. Security Ownership of Certain Beneficial Owners and Management.
+         Not Applicable
+
+Item 13. Certain Relationships and Related Transactions.
+         None
+
+Item 14. Principal Accounting Fees and Services.
+         Not Applicable
+
+
+                                       3
+
+
+<PAGE>
+
+                                    PART IV
+
+Item 15. Exhibits, Financial Statements, Schedules and Reports on Form 8-K.
+
+     (a) The following documents have been filed as part of this report.
+
+          1.   Trustee's Distribution Statements documented on Form 8-K
+               regarding the distributions from the Trust to the
+               certificateholders for the period from January 1, 2003 through
+               and including December 31, 2003 have been filed with the
+               Securities and Exchange Commission and are hereby incorporated
+               by reference. Filing dates are listed in Item 15(b) below.
+
+          2.   None
+
+          3.   Exhibits:
+
+               99.1 - Certification by Senior Vice President of the Registrant
+               pursuant to 15 U.S.C. Section 7241, as adopted pursuant to
+               Section 302 of the Sarbanes-Oxley Act of 2002.
+
+               99.2 - Annual Compliance Report by Trustee pursuant to 15 U.S.C.
+               Section 7241, as adopted pursuant to Section 302 of the
+               Sarbanes-Oxley Act of 2002.
+
+     (b) The following reports on Form 8-K were filed during the period covered
+by this report:
+
+------------------------------------------------------------------------------
+              Trust Description               Distribution Date     Filed on
+------------------------------------------------------------------------------
+Corporate Backed Trust Certificates, Kinder      03/01/2003        04/25/2003
+Morgan Debenture-Backed Series 2002-6 Trust      09/01/2003        09/16/2003
+------------------------------------------------------------------------------
+
+     (c) See Item 15(a) above.
+
+     (d) Not Applicable.
+
+
+                                       4
+
+
+<PAGE>
+
+
+                                   SIGNATURE
+
+     Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized.
+
+                                  Lehman ABS Corporation, as Depositor for the
+                                  Trust (the "Registrant")
+
+
+
+Dated:  March 29, 2004            By:   /s/ PAUL MITROKOSTAS
+                                     -----------------------------------------
+                                        Name: Paul Mitrokostas
+                                        Title: Senior Vice President
+
+
+                                       5
+
+
+<PAGE>
+
+
+                                 EXHIBIT INDEX
+
+------------------------------------------------------------------------------
+ Reference                                                    Exhibit Number
+ Number per             Description of Exhibits              in this Form 10-K
+ Item 601 of
+Regulation SK
+------------------------------------------------------------------------------
+                 Certification by Senior Vice President of
+                 the Registrant pursuant to 15 U.S.C. Section
+    (99.1)       7241, as adopted pursuant to Section 302            99.1
+                 of the Sarbanes-Oxley Act of 2002.
+------------------------------------------------------------------------------
+                 Annual Compliance Report by Trustee pursuant
+    (99.2)       to 15 U.S.C. Section 7241, as adopted pursuant      99.2
+                 to Section 302 of the Sarbanes-Oxley Act of 2002.
+------------------------------------------------------------------------------
+
+
+
+
+
+                                       6
+
+</TEXT>
+</DOCUMENT>

@@ -1,0 +1,274 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>nc030110k.txt
+<DESCRIPTION>10-K
+<TEXT>
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C.  20549
+
+                                    FORM 10-K
+
+                   Annual Report Pursuant to Section 13 or 15(d)
+                      of the Securities Exchange Act of 1934
+
+                             For the fiscal year ended
+                                 December 31, 2003
+
+                        Commission file number: 333-72880-02
+
+               NEW CENTURY HOME EQUITY LOAN TRUST SERIES 2003-1
+             (Exact name of Registrant as specified in its Charter)
+
+                Delaware                                    33-0852169
+           (State or other jurisdiction                  (I.R.S. Employer
+           incorporation or organization)              Identification Number)
+
+           18400 VON KARMAN SUITE 1000
+           IRVINE, CALIFORNIA                            92612
+         (Address of principal executive offices)      (Zip Code)
+
+            Registrant's telephone number, including area code:
+                               (949) 863-7243
+
+          Securities registered pursuant to Section 12(b) of the Act:
+                                     none
+
+          Securities registered pursuant to Section 12(g) of the Act:
+                                     none.
+
+     Indicate by check mark whether the Registrant (1) has filed all reports
+     required to be filed by Section 13 or 15(d) of the Securities Exchange
+     Act of 1934 during the preceding 12 months (or for such shorter period
+     that the Registrant was required to file such reports), and (2) has been
+     subject to such filing requirements for the past 90 days.  Yes  X  No
+
+     Indicate by check mark if disclosure of delinquent filers pursuant to
+     Item 405 of Regulation S-K is not contained herein, and will not be
+     contained, to the best of the Registrant's knowledge, in definitive proxy
+     or information statements incorporated by reference in Part III of the
+     Form 10-K or any amendment to this Form 10-K.   [x]
+
+     State the aggregate market value of the voting and non-voting common
+     equity held by non-affiliates of the registrant as of December 31, 2003.
+     NOT APPLICABLE.
+
+     Indicate the number of shares outstanding of each of the registrant's
+     classes of common stock, as of December 31, 2003.
+     NOT APPLICABLE
+
+     DOCUMENTS INCORPORATED BY REFERENCE
+     None
+
+     PART I
+
+     ITEM 1.  Business.
+
+     Omitted.
+
+     ITEM 2.  Properties.
+
+     Omitted
+
+     ITEM 3.  Legal Proceedings.
+
+
+     None.
+
+
+     ITEM 4.  Submission of Matters to a Vote of Security Holders.
+
+     No matters were submitted to a vote of Certificateholders during the
+     fiscal year covered by this report.
+
+
+     PART II
+
+     ITEM 5.  Market for Registrant's Common Equity and Related Stockholder
+     Matters.
+
+     The Trust does not issue stock.
+
+     There is currently no established public trading market for Registrant's
+     Certificates.  Registrant believes the Certificates are traded primarily
+     in intra-dealer markets and non-centralized inter-dealer markets.
+
+     As of December 31, 2003 the number of registered holders of all class of
+     Certificates was 5.
+
+     ITEM 6.  Selected Financial Data.
+
+     Omitted.
+
+     ITEM 7.  Management's Discussion and Analysis of Financial Condition and
+     Results of Operations.
+
+     Omitted.
+
+     ITEM 7A.  Quantitative and Qualitative Disclosures About Market Risk.
+
+     Omitted.
+
+     ITEM 8.  Financial Statements and Supplementary Data.
+
+     Omitted.
+
+     ITEM 9.  Changes in and Disagreements with Accountants on Accounting and
+     Financial Disclosure.
+
+     None.
+
+     ITEM 9A.  Controls and Procedures
+
+     Not Applicable
+
+     PART III
+
+     ITEM 10.  Directors and Executive Officers of Registrant.
+
+     Not Applicable.
+
+     ITEM 11.  Executive Compensation.
+
+     Not Applicable.
+
+     ITEM 12.  Security Ownership of Certain Beneficial Owners and Management.
+
+     Security ownership of certain beneficial owners.  Under the Pooling
+     and Servicing Agreement governing the Trust, the holders of the
+     Certificates generally do not have the right to vote and are prohibited
+     from taking part in management of the Trust.  For purposes of this Item
+     and Item 13 only, however, the Certificateholders are treated as "voting
+     security" holders.
+
+     As of December 31, 2003, the following are the only persons known to the
+     Registrant to be the beneficial owners of more than 5% of any class of
+     voting securities:
+
+     CEDEFAST
+     CEDE & CO FAST
+     P.O. BOX 20
+     BOWLING GREEN STATION
+     NEW YORK, NEW YORK, 10274
+     SERIES 2003-1
+     CLASS A
+     $394,884,000
+     100.0%
+
+     CEDEFAST
+     CEDE & CO FAST
+     P.O. BOX 20
+     BOWLING GREEN STATION
+     NEW YORK, NEW YORK, 10274
+     SERIES 2003-1
+     CLASS M-1
+     $32,578,000
+     100.0%
+
+     CEDEFAST
+     CEDE & CO FAST
+     P.O. BOX 20
+     BOWLING GREEN STATION
+     NEW YORK, NEW YORK, 10274
+     SERIES 2003-1
+     CLASS M-2
+     $27,148,000
+     100.0%
+
+     CEDEFAST
+     CEDE & CO FAST
+     P.O. BOX 20
+     BOWLING GREEN STATION
+     NEW YORK, NEW YORK, 10274
+     SERIES 2003-1
+     CLASS M-3
+     $21,718,000
+     100.0%
+
+     CEDEFAST
+     CEDE & CO FAST
+     P.O. BOX 20
+     BOWLING GREEN STATION
+     NEW YORK, NEW YORK, 10274
+     SERIES 2003-1
+     CLASS M-4
+     $7,405,000
+     100.0%
+
+     ITEM 13.  Certain Relationships and Related Transactions.
+                       None
+
+     ITEM 14.  Principal Accountant Fees and Services
+               NOT APPLICABLE
+
+     PART IV
+
+    ITEM 15.  Exhibits, Financial Statement Schedules, and Reports on Form
+     8-K.
+
+     (a)  The following is a list of documents filed as part of this Annual
+          Report on Form 10-K:
+
+     EXHIBITS 31, 99.1 and 99.2
+
+    (b) The following reports on Form 8-K were filed during the last quarter
+        of the period covered by this report.
+
+     Monthly Remittance Statement to the Certificate holders dated as of
+     September 25,2003, and filed with the Securities and Exchange Commission on
+     Form 8-K on October 3, 2003.
+
+     Monthly Remittance Statement to the Certificate holders dated as of
+     October 27,2003, and filed with the Securities and Exchange Commission on
+     Form 8-K on October 29, 2003.
+
+     Monthly Remittance Statement to the Certificate holders dated as of
+     November 25,2003, and filed with the Securities and Exchange Commission on
+     Form 8-K on November 28, 2003.
+
+     Monthly Remittance Statement to the Certificate holders dated as of
+     December 26,2003, and filed with the Securities and Exchange Commission on
+     Form 8-K on January 6, 2004.
+
+    (c)  The exhibits required to be filed by Registrant pursuant to Item 601
+     of Regulation S-K are listed above and in the Exhibit Index that
+     immediately follows the signature page hereof.
+
+     (d)  Not Applicable.  The Trust does not have any subsidiaries or
+     affiliates.  Therefore, no financial statements are filed with respect to
+     subsidiaries or affiliates.
+
+
+                                     SIGNATURE
+
+          Pursuant to the requirements of Section 13 or 15(d) of the
+          Securities Exchange Act of 1934, the Registrant has duly caused
+          this report to be signed on its behalf by the undersigned,
+          thereunto duly authorized.
+
+
+                                  By: New Century Mortgage Securities, Inc.,
+                                  as Depositor on behalf of the Registrant
+
+
+                                      By: /s/:  Brad Morrice
+                                      Name:     Brad Morrice
+                                      Title:    Chief Executive Officer
+
+     Date:  March 25, 2004
+
+
+     EXHIBIT INDEX
+
+     Exhibit Document
+
+      31   Section 302 Certification
+
+      99.1 Servicer's Annual Statement of Compliance for Year End
+           December 31,2003.
+
+      99.2 Servicer's Annual Independent Accountant's Report for Year End
+           December 31,2003.
+
+</TEXT>
+</DOCUMENT>

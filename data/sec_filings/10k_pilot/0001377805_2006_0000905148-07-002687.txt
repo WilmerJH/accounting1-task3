@@ -1,0 +1,433 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>efc7-0872_6059308fm10.txt
+<TEXT>
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                              WASHINGTON, DC 20549
+                              --------------------
+
+                                    FORM 10-K
+
+                                  ANNUAL REPORT
+                        PURSUANT TO SECTIONS 13 OR 15(d)
+                     OF THE SECURITIES EXCHANGE ACT OF 1934
+
+(Mark One)
+
+[X]   ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+ACT OF 1934
+
+        For the fiscal year ended:   December 31, 2006
+                                     -----------------
+
+                                       or
+
+[_]   TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+EXCHANGE ACT OF 1934
+
+        For the transition period from               to
+                                       -------------    -------------
+
+             Commission file number of Issuing Entity: 333-131662-18
+                                                       -------------
+
+                    CHL Mortgage Pass-Through Trust 2006-18,
+               Mortgage Pass-Through Certificates, Series 2006-18
+               --------------------------------------------------
+           (Exact name of Issuing Entity as Specified in Its Charter)
+
+                 Commission file number of Depositor: 333-131662
+
+                                   CWMBS, Inc.
+                                   -----------
+              (Exact name of Depositor as Specified in Its Charter)
+
+                          Countrywide Home Loans, Inc.
+                          ----------------------------
+               (Exact name of Sponsor as Specified in Its Charter)
+
+           Delaware                                     95-4449516
+-----------------------------              ------------------------------------
+(State or Other Jurisdiction of           (I.R.S. Employer Identification No. of
+Incorporation or Organization of           the Depositor)
+the Depositor)
+
+c/o  Countrywide Home Loans Servicing LP
+     4500 Park Granada
+     Calabasas, California                              91302
+--------------------------------------     ------------------------------------
+(Address of Principal Executive Offices                 (Zip Code)
+of the Depositor)
+
+Registrant's telephone number, including area code:   (818) 225-3000
+                                                      --------------
+
+Securities registered pursuant to Section 12(b) of the Act:  None
+                                                             ----
+
+Securities registered pursuant to Section 12(g) of the Act:  None
+                                                             ----
+
+
+
+<PAGE>
+
+
+      Indicate by check mark if the registrant is a well-known seasoned issuer,
+as defined in Rule 405 of the Securities Act.                     [_] Yes [X] No
+
+      Indicate by check mark if the registrant is not required to file reports
+pursuant to Section 13 or Section 15(d) of the Act.               [_] Yes [X] No
+
+      Indicate by check mark whether the registrant: (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days.                         [X] Yes [_] No
+
+      Indicate by check mark if disclosure of delinquent filers pursuant to Item
+405 of Regulation S-K (ss.229.405 of this chapter) is not contained herein, and
+will not be contained, to the best of registrant's knowledge, in definitive
+proxy or information statements incorporated by reference in Part III of this
+Form 10-K or any amendment to this Form 10-K.                     [X]
+
+      Indicate by check mark whether the registrant is a large accelerated
+filer, an accelerated filer, or a non-accelerated filer. See definition of
+"accelerated filer and large accelerated filer" in Rule 12b-2 of the Exchange
+Act. (Check one):
+
+Large Accelerated Filer [_]   Accelerated Filer [_]   Non-Accelerated Filer [X]
+
+      Indicate by check mark whether the registrant is a shell company (as
+defined in Rule 12b-2 of the Exchange Act).                       [_] Yes [X] No
+
+      The Registrant has no voting or non-voting common equity held by
+non-affiliates.
+
+
+                                       2
+<PAGE>
+
+
+                       DOCUMENTS INCORPORATED BY REFERENCE
+
+                                      None.
+
+                                  *     *     *
+
+
+      This Annual Report on Form 10-K (the "Report") is filed with respect to
+the trust entitled CHL Mortgage Pass-Through Trust 2006-18 (the "Issuing
+Entity") formed pursuant to the pooling and servicing agreement dated as of
+October 1, 2006 (the "Pooling and Servicing Agreement") among CWMBS, Inc., as
+depositor (the "Company"), Countrywide Home Loans, Inc., as a seller (a
+"Seller"), Park Granada LLC, as a seller (a "Seller"), Park Sienna LLC, as a
+seller (a "Seller"), Park Monaco Inc., as a seller (a "Seller"), Countrywide
+Home Loans Servicing LP, as master servicer (the "Master Servicer"), and The
+Bank of New York, as trustee (the "Trustee"), for the issuance of Mortgage
+Pass-Through Certificates, Series 2006-18 (the "Certificates").
+
+
+                                       3
+<PAGE>
+
+
+                                     PART I
+
+
+Item 1.        Business.
+
+               Omitted as permitted by Instruction J to Form 10-K.
+
+Item 1A.       Risk Factors.
+
+               Omitted as permitted by Instruction J to Form 10-K.
+
+Item 1B.       Unresolved Staff Comments.
+
+               Not Applicable.
+
+Item 2.        Properties.
+
+               Omitted as permitted by Instruction J to Form 10-K.
+
+Item 3.        Legal Proceedings.
+
+               Omitted as permitted by Instruction J to Form 10-K.
+
+Item 4.        Submission of Matters to a Vote of Security Holders.
+
+               Omitted as permitted by Instruction J to Form 10-K.
+
+
+                                       4
+<PAGE>
+
+
+                                     PART II
+
+
+Item 5.        Market for Registrant's Common Equity, Related Stockholder
+               Matters and Issuer Purchases of Equity Securities.
+
+               Omitted as permitted by Instruction J to Form 10-K.
+
+Item 6.        Selected Financial Data.
+
+               Omitted as permitted by Instruction J to Form 10-K.
+
+Item 7.        Management's Discussion and Analysis of Financial Condition and
+               Results of Operations.
+
+               Omitted as permitted by Instruction J to Form 10-K.
+
+Item 7A        Quantitative and Qualitative Disclosures about Market Risk.
+
+               Omitted as permitted by Instruction J to Form 10-K.
+
+Item 8.        Financial Statements and Supplementary Data.
+
+               Omitted as permitted by Instruction J to Form 10-K.
+
+Item 9.        Changes in and Disagreements With Accountants on Accounting and
+               Financial Disclosure.
+
+               Omitted as permitted by Instruction J to Form 10-K.
+
+Item 9A.       Controls and Procedures.
+
+               Omitted as permitted by Instruction J to Form 10-K.
+
+Item 9B.       Other Information.
+
+               None.
+
+
+                                       5
+<PAGE>
+
+
+                                    PART III
+
+
+Item 10.       Directors, Executive Officers and Corporate Governance.
+
+               Omitted as permitted by Instruction J to Form 10-K.
+
+Item 11.       Executive Compensation.
+
+               Omitted as permitted by Instruction J to Form 10-K.
+
+Item 12.       Security Ownership of Certain Beneficial Owners and Management
+               and Related Stockholder Matters.
+
+               Omitted as permitted by Instruction J to Form 10-K.
+
+Item 13.       Certain Relationships and Related Transactions, and Director
+               Independence.
+
+               Omitted as permitted by Instruction J to Form 10-K.
+
+Item 14.       Principal Accountant Fees and Services.
+
+               Omitted as permitted by Instruction J to Form 10-K.
+
+
+                                       6
+<PAGE>
+
+
+                                     PART IV
+
+
+Item 15.       Exhibits and Financial Statement Schedules.
+
+               (a) (1) Not applicable.
+
+                   (2) Not applicable.
+
+                   (3) The required exhibits are as follows:
+
+                       o    Exhibit 3(i): Copy of Company's Certificate
+                            of Incorporation (Filed as Exhibit 3.1 to
+                            Registration Statement on Form S-3 (File No.
+                            33-63714))
+
+                       o    Exhibit 3(ii): Copy of Company's By-laws
+                            (Filed as Exhibit 3.2 to Registration
+                            Statement on Form S-3 (File No.
+                            33-63714))
+
+                       o    Exhibit 4: Pooling and Servicing Agreement
+                            (Filed as part of the Current Report on Form
+                            8-K filed on November 8, 2006 under the
+                            Commission file number of the Issuing
+                            Entity)
+
+                       o    Exhibit 31(ii):  Rule 15d-14(d) Certification
+
+                       o    Exhibit 33.1:  Report on Assessment of Compliance
+                            With Servicing Criteria for Asset-Backed Securities
+                            for Countrywide Financial Corporation
+
+                       o    Exhibit 33.2:  Report on Assessment of Compliance
+                            With Servicing Criteria for Asset-Backed Securities
+                            for the Trustee
+
+                       o    Exhibit 34.1:  Attestation Report on Assessment of
+                            Compliance With Servicing Criteria for Asset-Backed
+                            Securities of KPMG LLP on behalf of Countrywide
+                            Financial Corporation
+
+                       o    Exhibit 34.2:  Attestation Report on Assessment of
+                            Compliance With Servicing Criteria for Asset-Backed
+                            Securities of Ernst & Young LLP on behalf of the
+                            Trustee
+
+                       o    Exhibit 35:  Servicer Compliance Statement of the
+                            Master Servicer
+
+               (b) See subparagraph (a)(3) above.
+
+               (c) Not applicable.
+
+
+                                       7
+<PAGE>
+
+
+                             ADDITIONAL INFORMATION
+
+
+Item 1112(b) of Regulation AB.    Financial Information of Significant Obligors.
+
+               Not Applicable.
+
+
+Item 1114(b)(2) of Regulation AB. Financial Information of Significant
+                                  Enhancement Providers.
+
+               Not Applicable.
+
+
+Item 1115(b) of Regulation AB.    Financial Information of Certain Entities
+                                  Providing Derivative Instruments.
+
+               Not Applicable.
+
+
+Item 1117 of Regulation AB.       Legal Proceedings.
+
+               None.
+
+
+Item 1119 of Regulation AB.       Affiliations and Certain Relationships and
+                                  Related Transactions.
+
+               The information required by Item 1119 of Regulation AB was
+               previously filed with the U.S. Securities and Exchange
+               Commission in the prospectus supplement filed under Rule 424(b)
+               of the Securities Act of 1933, as amended, for CHL Mortgage
+               Pass-Through Trust 2006-18.
+
+Item 1122 of Regulation AB.       Compliance with Applicable Servicing Criteria.
+
+               See Exhibits 33.1, 33.2, 34.1 and 34.2 to this Form 10-K.
+
+
+Item 1123 of Regulation AB.       Servicer Compliance Statement.
+
+               See Exhibit 35 to this Form 10-K.
+
+
+                                       8
+<PAGE>
+
+
+                                   SIGNATURES
+
+      Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on
+its behalf by the undersigned, thereunto duly authorized.
+
+                      CHL MORTGAGE PASS-THROUGH TRUST 2006-18
+
+                      By:     Countrywide Home Loans Servicing LP,
+                              as Master Servicer
+
+                              By:    Countrywide GP, Inc.
+
+
+                                     By:    /s/ Steve Bailey
+                                            -----------------------------
+                                            Name:   Steve Bailey
+                                            Title:  Senior Managing Director,
+                                                    Loan Administration
+
+                                            Date:  March 26, 2007
+
+                                       9
+<PAGE>
+
+
+      SUPPLEMENTAL INFORMATION TO BE FURNISHED WITH REPORTS FILED PURSUANT TO
+SECTION 15(d) OF THE ACT BY REGISTRANTS WHICH HAVE NOT REGISTERED SECURITIES
+PURSUANT TO SECTION 12 OF THE ACT.
+
+      No annual report, proxy statement, form of proxy or other proxy soliciting
+material with respect to the Issuing Entity or the Depositor has been, or will
+be, sent to security holders.
+
+
+                                       10
+<PAGE>
+
+
+                                  EXHIBIT INDEX
+
+
+Exhibit        Document
+-------        --------
+
+
+3(i)           Company's Certificate of Incorporation (Filed as Exhibit 3.1 to
+               Registration Statement on Form S-3 (File No. 33-63714))*
+
+3(ii)          Company's By-laws (Filed as Exhibit 3.2 to Registration
+               Statement on Form S-3 (File No. 33-63714)*
+
+4              Pooling and Servicing Agreement (Filed as part of the Current
+               Report on Form 8-K filed on November 8, 2006 under the
+               Commission file number of the Issuing Entity)*
+
+31(ii)         Rule 15d-14(d) Certification
+
+33.1           Report on Assessment of Compliance With Servicing Criteria for
+               Asset-Backed Securities for Countrywide Financial Corporation
+
+33.2           Report on Assessment of Compliance With Servicing Criteria for
+               Asset-Backed Securities for the Trustee
+
+34.1           Attestation Report on Assessment of Compliance With Servicing
+               Criteria for Asset-Backed Securities of KPMG LLP on behalf of
+               Countrywide Financial Corporation
+
+34.2           Attestation Report on Assessment of Compliance With Servicing
+               Criteria for Asset-Backed Securities of Ernst & Young LLP on
+               behalf of the Trustee
+
+35             Servicer Compliance Statement of the Master Servicer
+
+
+
+--------------
+*       Incorporated herein by reference.
+
+
+                                       11
+
+</TEXT>
+</DOCUMENT>

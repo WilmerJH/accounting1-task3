@@ -1,0 +1,418 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>efc6-0847_5842862form10k.txt
+<TEXT>
+
+
+                                 UNITED STATES
+                      SECURITIES AND EXCHANGE COMMISSION
+                            Washington, D.C. 20549
+
+                                   FORM 10-K
+
+(Mark One)
+
+[X] ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+ACT OF 1934
+
+         For the fiscal year ended:   December 31, 2005
+                                      -----------------
+
+                                      or
+
+[_] TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+EXCHANGE ACT OF 1934
+
+         For the transition period from _____________ to _____________
+
+                     Commission file number: 333-123167-03
+                                             -------------
+
+                CWALT, Inc., Alternative Loan Trust 2005-21CB,
+             Mortgage Pass-Through Certificates, Series 2005-21CB
+             ----------------------------------------------------
+            (Exact name of Registrant as specified in its charter)
+
+
+          Delaware                                          87-0698307
+-------------------------------                    -----------------------------
+(State or other jurisdiction of                          (I.R.S. Employer
+incorporation or organization)                           Identification No.)
+
+c/o  Countrywide Home Loans Servicing LP
+     4500 Park Granada
+     Calabasas, California                                     91302
+----------------------------------------           -----------------------------
+(Address of principal executive offices)                     (Zip Code)
+
+Registrant's telephone number, including area code:   (818) 225-3000
+                                                      --------------
+
+Securities registered pursuant to Section 12(b) of the Act:  None
+                                                             ----
+
+Securities registered pursuant to Section 12(g) of the Act:  None
+                                                             ----
+
+
+<PAGE>
+
+
+     Indicate by check mark if the registrant is a well-known seasoned issuer,
+as defined in Rule 405 of the Securities Act. [_] Yes  [X] No
+
+     Indicate by check mark if the registrant is not required to file reports
+pursuant to Section 13 or Section 15(d) of the Act. [_] Yes [X] No
+
+     Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to
+such filing requirements for the past 90 days. [X] Yes [_] No
+
+     Indicate by check mark if disclosure of delinquent filers pursuant to
+Item 405 of Regulation S-K (ss.229.405 of this chapter) is not contained
+herein, and will not be contained, to the best of registrant's knowledge, in
+definitive proxy or information statements incorporated by reference in Part
+III of this Form 10-K or any amendment to this Form 10-K. [X]
+
+     Indicate by check mark whether the registrant is a large accelerated
+filer, an accelerated filer, or a non-accelerated filer. See definition of
+"accelerated filer and large accelerated filer" in Rule 12b-2 of the Exchange
+Act. (Check one):
+
+Large accelerated filer [_]   Accelerated filer [_]   Non-accelerated filer [X]
+
+      Indicate by check mark whether the registrant is a shell company (as
+defined in Rule 12b-2 of the Act). [_] Yes [X] No
+
+     State the aggregate market value of the voting and non-voting common
+equity held by non-affiliates computed by reference to the price at which the
+common equity was last sold, or the average bid and asked price of such common
+equity, as of the last business day of the registrant's most recently
+completed second fiscal quarter. Not applicable
+
+
+                                      2
+<PAGE>
+
+
+                      DOCUMENTS INCORPORATED BY REFERENCE
+
+                                     None.
+
+                                     * * *
+
+
+         This Annual Report on Form 10-K (the "Report") is filed with respect
+to the trust fund entitled Alternative Loan Trust 2005-21CB (the "Trust Fund")
+formed pursuant to the pooling and servicing agreement dated as of April 1,
+2005 (the "Pooling and Servicing Agreement") among CWALT, Inc., as depositor
+(the "Company"), Countrywide Home Loans, Inc., as a seller (a "Seller"), Park
+Granada LLC, as a seller (a "Seller"), Park Sienna LLC, as a seller (a
+"Seller"), Park Monaco Inc., as a seller (a "Seller"), Countrywide Home Loans
+Servicing LP, as master servicer (the "Master Servicer"), and The Bank of New
+York, as trustee (the "Trustee"), for the issuance of CWALT, Inc., Mortgage
+Pass-Through Certificates, Series 2005-21CB (the "Certificates"). Certain
+information otherwise required to be included in this Report by the
+Instructions to Form 10-K has been omitted in reliance on the relief granted
+by the Commission to other companies in similar circumstances, in particular,
+the relief granted in CWMBS, Inc. (February 3, 1994) (collectively, the
+"Relief Letters").
+
+
+                                      3
+<PAGE>
+
+
+                                    PART I
+
+
+Item 1.           Business.
+
+                  Not applicable.  See the Relief Letters.
+
+Item 1A.          Risk Factors.
+
+                  Not applicable.
+
+Item 1B.          Unresolved Staff Comments.
+
+                  None.
+
+Item 2.           Properties.
+
+                  Not applicable.  See the Relief Letters.
+
+Item 3.           Legal Proceedings.
+
+                  There were no material pending legal proceedings relating to
+                  the Trust Fund to which any of the Trust Fund, the Trustee,
+                  the Master Servicer or the Company was a party or of which
+                  any of their respective properties was the subject during
+                  the fiscal year covered by this Report other than ordinary
+                  routine litigation incidental to the duties of the Trust
+                  Fund, the Trustee, the Master Servicer or the Company, nor
+                  is the Company aware of any such proceedings contemplated by
+                  governmental authorities.
+
+Item 4.           Submission of Matters to a Vote of Security Holders.
+
+                  No matter was submitted to a vote of Certificateholders, and
+                  no Certificateholder consent was solicited during the fiscal
+                  year covered by this Report.
+
+
+                                      4
+<PAGE>
+
+
+                                    PART II
+
+
+Item 5.           Market for Registrant's Common Equity, Related Stockholder
+                  Matters and Issuer Purchases of Equity Securities.
+
+                  (a)   Item 201 of Regulation S-K:
+
+                        i.    Market Information. There is no established
+                              public trading market for the Certificates.
+
+                        ii.   Holders. As of December 31, 2005 there were less
+                              than 300 holders of record of the Certificates.
+
+                        iii.  Dividends. Not applicable. See the Relief
+                              Letters. (Information as to distributions to
+                              Certificateholders is provided in the
+                              Registrant's monthly filings on Form 8-K.)
+
+                        iv.   Securities Authorized for Issuance Under Equity
+                              Compensation Plans. Not applicable.
+
+                        Item 701 of Regulation S-K.  Not applicable.
+
+                  (b)   Rule 463 of the Securities Act of 1933. Not
+                        applicable.
+
+                  (c)   Item 703 of Regulation S-K. Not applicable as the
+                        Registrant has no class of equity securities
+                        registered pursuant to section 12 of the Securities
+                        Exchange Act of 1934.
+
+Item 6.           Selected Financial Data.
+
+                  Not applicable.  See the Relief Letters.
+
+Item 7.           Management's Discussion and Analysis of Financial Condition
+                  and Results of Operation.
+
+                  Not applicable.  See the Relief Letters.
+
+Item 7A           Quantitative and Qualitative Disclosures about Market Risk.
+
+                  Not applicable.
+
+Item 8.           Financial Statements and Supplementary Data.
+
+                  Not applicable.  See the Relief Letters.
+
+
+                                      5
+<PAGE>
+
+
+Item 9.           Changes in and Disagreements With Accountants on Accounting
+                  and Financial Disclosure.
+
+                  None.
+
+Item 9A.          Controls and Procedures.
+
+                  Not applicable.
+
+Item 9B.          Other Information.
+
+                  None.
+
+
+                                      6
+<PAGE>
+
+
+                                   PART III
+
+
+Item 10.          Directors and Executive Officers of the Registrant.
+
+                  Not applicable.  See the Relief Letters.
+
+Item 11.          Executive Compensation.
+
+                  Not applicable.  See the Relief Letters.
+
+Item 12.          Security Ownership of Certain Beneficial Owners, Management
+                  and Related Stockholder Matters.
+
+                  Information required by Item 201(d) of Regulation S-K: Not
+                  applicable.
+
+                  Information required by Item 403 of Regulation S-K:
+
+                  (a)   Not applicable. See the Relief Letters.
+
+                  (b)   Not applicable. See the Relief Letters.
+
+                  (c)   Not applicable. See the Relief Letters.
+
+Item 13.          Certain Relationships and Related Transactions.
+
+                  Not applicable.  See the Relief Letters.
+
+Item 14.          Principal Accounting Fees and Services.
+
+                  Not applicable.
+
+
+                                      7
+<PAGE>
+
+
+                                    PART IV
+
+
+Item 15.          Exhibits and Financial Statement Schedules.
+
+                  (a)   (1) Pursuant to the Pooling and Servicing Agreement,
+                        the Master Servicer is required (i) to deliver an
+                        annual statement as to compliance with the provisions
+                        of the Pooling and Servicing Agreement and certain
+                        other matters (the "Annual Statement of the Master
+                        Servicer") and (ii) to cause a firm of independent
+                        public accountants to deliver an annual report as to
+                        compliance with the servicing provisions of the
+                        Pooling and Servicing Agreement (the "Annual Report of
+                        the Firm of Accountants"). The Annual Statement of the
+                        Master Servicer is attached as Exhibit 99.1 to this
+                        Report. The Annual Report of the Firm of Accountants
+                        is attached as Exhibit 99.2 to this Report. See Relief
+                        Letters.
+
+                        (2)   Not applicable.
+
+                        (3)   The required exhibits are as follows:
+
+                              o     Exhibit 3(i): Copy of Company's
+                                    Certificate of Incorporation (Filed as an
+                                    Exhibit to Registration Statement on Form
+                                    S-3 (File No. 333-110343)).
+
+                              o     Exhibit 3(ii): Copy of Company's By-laws
+                                    (Filed as an Exhibit to Registration
+                                    Statement on Form S-3 (File No.
+                                    333-110343)).
+
+                              o     Exhibit 4: Pooling and Servicing Agreement
+                                    (Filed as part of the Registrant's Current
+                                    Report on Form 8-K filed on August 25,
+                                    2005).
+
+                              o     Exhibit 31: Rule 15d-14(a) Certification.
+
+                              o     Exhibit 99.1: Annual Statement of the
+                                    Master Servicer.
+
+                              o     Exhibit 99.2: Annual Report of the Firm of
+                                    Accountants.
+
+                  (b)   See subparagraph (a)(3) above.
+
+                  (c)   Not applicable. See the Relief Letters.
+
+
+                                      8
+<PAGE>
+
+
+                                  SIGNATURES
+
+         Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the Registrant has duly caused this Report to be signed
+on its behalf by the undersigned, thereunto duly authorized.
+
+                                    CWALT, INC.,
+                                    ALTERNATIVE LOAN TRUST 2005-21CB,
+                                    MORTGAGE PASS-THROUGH CERTIFICATES,
+                                    SERIES 2005-21CB
+
+                                    By: Countrywide Home Loans Servicing LP,
+                                        as Master Servicer*
+
+                                    By: Countrywide GP, Inc.
+
+
+                                    By: /s/ Craig Baingo
+                                        ----------------
+                                    Name:  Craig Baingo
+                                    Title: Executive Vice President
+
+                                    Date:  March 27, 2006
+
+
+---------
+*     This Report is being filed by the Master Servicer on behalf of the Trust
+      Fund. The Trust Fund does not have any officers or directors.
+
+
+                                      9
+<PAGE>
+
+
+         SUPPLEMENTAL INFORMATION TO BE FURNISHED WITH REPORTS FILED PURSUANT
+TO SECTION 15(d) OF THE ACT BY REGISTRANTS WHICH HAVE NOT REGISTERED
+SECURITIES PURSUANT TO SECTION 12 OF THE ACT.
+
+         No such annual report, proxy statement, form of proxy or other
+soliciting material has been, or will be, sent to Certificateholders. See the
+Relief Letters.
+
+
+                                      10
+<PAGE>
+
+
+                                 EXHIBIT INDEX
+
+
+
+Exhibit           Document
+
+
+3(i)              Company's Certificate of Incorporation (Filed as an Exhibit
+                  to Registration Statement on Form S-3 (File No.
+                  333-110343))*
+
+3(ii)             Company's By-laws (Filed as an Exhibit to Registration
+                  Statement on Form S-3 (File No. 333-110343)*
+
+4                 Pooling and Servicing Agreement (Filed as part of the
+                  Company's Current Report on Form 8-K filed on August 25,
+                  2005)*
+
+31                Rule 15d-14(a) Certification
+
+99.1              Annual Statement of the Master Servicer
+
+99.2              Annual Report of the Firm of Accountants
+
+
+
+
+---------
+*     Incorporated herein by reference.
+
+
+                                      11
+
+</TEXT>
+</DOCUMENT>

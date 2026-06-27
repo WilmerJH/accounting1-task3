@@ -1,0 +1,1126 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>d10k.txt
+<DESCRIPTION>COMMUNITYCORP
+<TEXT>
+<PAGE>
+
+================================================================================
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    Form 10-K
+
+(Mark One)
+
+[X]  Annual Report under Section 13 or 15(d) of the Securities Exchange Act of
+     1934
+
+                  For the fiscal year ended December 31, 2002
+
+                                       or
+
+[ ]  Transition Report under Section 13 or 15(d) of the Securities Exchange
+     Act of 1934
+
+          For the transition period from              to
+                                        -------------    -------------
+
+                          Commission file no. 33-76644
+
+                                  COMMUNITYCORP
+                         (Name of Issuer in Its Charter)
+
+        South Carolina                                        57-1019001
+ (State or Other Jurisdiction                              (I.R.S. Employer
+of Incorporation or Organization)                         Identification No.)
+
+        1100 N. Jefferies Blvd.
+      Walterboro, South Carolina                                 29488
+(Address of Principal Executive Offices)                       (Zip Code)
+
+                                 (843) 549-2265
+                 Issuer's Telephone Number, Including Area Code
+
+        Securities registered pursuant to Section 12(b) of the Act: None
+    Securities registered pursuant to Section 12(g) of the Act: Common Stock
+
+     Check whether the issuer (1) filed all reports required to be filed by
+Section 13 or 15(d) of the Exchange Act during the past 12 months (or for such
+shorter period that the registrant was required to file such reports), and (2)
+has been subject to such filing requirements for past 90 days.
+Yes [X] No [ ]
+
+     Check if there is no disclosure of delinquent filers in response to Item
+405 of Regulation S-K in this form, and no disclosure will be contained, to the
+best of registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K. [ ]
+
+     The aggregate market value of the voting stock held by non-affiliates of
+the registrant as of March 10, 2003 was $12,428,055. This calculation is based
+upon $45, the last trade price of the common stock of which the Company is
+aware. There is no active trading market for the common stock and trades are
+limited and sporadic.
+
+     There were 276,179 shares of the Company's common stock issued and
+outstanding as of the record date, March 10, 2003.
+
+   Transitional Small Business Disclosure Format. (Check one): Yes [ ] No [X]
+
+                       DOCUMENTS INCORPORATED BY REFERENCE
+
+      Company's 2002 Annual Report and Proxy Statement for the 2003 Annual
+                            Meeting of Shareholders.
+
+================================================================================
+
+<PAGE>
+
+                                  COMMUNITYCORP
+
+                                     PART I
+
+FORWARD-LOOKING STATEMENTS
+
+This Report contains statements which constitute forward-looking statements
+within the meaning of Section 27A of the Securities Act of 1933 and Section 21E
+of the Securities Exchange Act of 1934. These statements are based on many
+assumptions and estimates and are not guarantees of future performance. Our
+actual results may differ materially from those projected in any forward-looking
+statements, as they will depend on many factors about which we are unsure,
+including many factors which are beyond our control. The words "may," "would,"
+"could," "will," "expect," "anticipate," "believe," "intend," "plan," and
+"estimate," as well as similar expressions, are meant to identify such
+forward-looking statements. Potential risks and uncertainties include, but are
+not limited to:
+
+.    significant increases in competitive pressure in the banking and financial
+     services industries;
+
+.    changes in the interest rate environment which could reduce anticipated or
+     actual margins;
+
+.    changes in political conditions or the legislative or regulatory
+     environment;
+
+.    general economic conditions, either nationally or regionally and especially
+     in primary service area, becoming less favorable than expected resulting
+     in, among other things, a deterioration in credit quality;
+
+.    changes occurring in business conditions and inflation;
+
+.    changes in technology;
+
+.    changes in monetary and tax policies;
+
+.    changes in the securities markets; and
+
+.    other risks and uncertainties detailed from time to time in our filings
+     with the Securities and Exchange Commission.
+
+Item 1. Description of Business
+
+General
+
+Communitycorp was organized in 1995 to serve as a bank holding company for Bank
+of Walterboro. The bank commenced business on May 1, 1989 as a South Carolina
+state-chartered bank headquartered in Walterboro, South Carolina. The principal
+business activity of the Company is to provide banking services to domestic
+markets, principally in Colleton County and Northern Charleston County, South
+Carolina. The Company opened an additional branch in 1998 in Ravenel, South
+Carolina and opened a branch on Forest Hills Road in Walterboro in 2001.
+
+Our primary source of revenue is interest income and fees, which we earn by
+lending and investing our capital and the funds which are held on deposit.
+Because loans generally earn higher rates of interest than investments, the bank
+seeks to employ as many of its deposit funds as possible in the form of loans to
+individuals and businesses. To ensure sufficient liquidity, we also maintain a
+portion of the Bank's
+
+                                       1
+
+<PAGE>
+
+
+                                  COMMUNITYCORP
+
+General (continued)
+
+deposits in cash, government securities, deposits with other financial
+institutions, and overnight loans of excess reserves (known as "federal funds
+sold") to correspondent banks. The revenue which the bank earns (prior to
+deducting its overhead expenses) is essentially a function of the amount of the
+Bank's loans and deposits, as well as the profit margin ("interest spread") and
+fee income.
+
+Marketing Focus
+
+Our bank primarily serves the city of Walterboro and the surrounding area of
+Colleton County, South Carolina. The bank's extended market area also includes
+the north side of Charleston County, South Carolina where the Ravenel branch is
+located. The Bank strives to maintain its business in these market areas.
+
+Banking Services
+
+The bank strives to provide its customers with the breadth of products and
+services comparable to those offered by large regional banks, while maintaining
+the quick response and personal service of a locally owned and managed bank. We
+offer a full range of deposit services and originate commercial and personal
+loans.
+
+.    Deposit Services. The bank offers a full range of deposit services that are
+     typically available in most banks and savings and loan associations,
+     including checking accounts, NOW accounts, savings accounts, and other time
+     deposits of various types, ranging from daily money market accounts to
+     longer-term certificates of deposit. The transaction accounts and time
+     certificates are tailored to our principal market area at rates competitive
+     to those offered by other banks in the area. In addition, we offer certain
+     retirement account services, such as Individual Retirement Accounts (IRAs).
+     All deposit accounts are insured by the Federal Deposit Insurance
+     Corporation (the "FDIC") up to the maximum amount allowed by law. The bank
+     solicits these accounts from individuals, businesses, associations and
+     organizations, and governmental authorities.
+
+.    Loan Products. The bank offers a full range of commercial and personal
+     loans. Commercial loans include both secured and unsecured loans for
+     working capital (including loans secured by inventory and accounts
+     receivable), business expansion (including acquisition of real estate and
+     improvements), and purchase of equipment and machinery. Consumer loans
+     include equity lines of credit and secured and unsecured loans for
+     financing automobiles, home improvements, education, and personal
+     investments. The bank also makes real estate construction and acquisition
+     loans. The bank's lending activities are subject to a variety of lending
+     limits imposed by federal law. While differing limits apply in certain
+     circumstances based on the type of loan or the nature of the borrower
+     (including the borrower's relationship to us), in general we are subject to
+     a loans-to-one-borrower limit of an amount equal to 15% of the bank's
+     unimpaired capital and surplus. We may not make any loans to any director,
+     officer, employee, or 10% shareholder of the bank unless the loan is
+     approved by our board of directors and is made on terms not more favorable
+     to such a person than would be available to a person not affiliated with
+     us.
+
+.    Other Services. Other bank services include cash management services, safe
+     deposit boxes, travelers checks, direct deposit of payroll and social
+     security checks, and automatic drafts for various accounts. The bank is
+     associated with Honor and Plus networks of automated teller machines that
+     may be used by our customers throughout South Carolina and other regions.
+     The bank also offers VISA credit card services through a correspondent bank
+     as an agent for us.
+
+                                       2
+
+<PAGE>
+
+                                  COMMUNITYCORP
+
+Competition
+
+Banks generally compete with other financial institutions through the selection
+of banking products and services offered, the pricing of services, the level of
+service provided, the convenience and availability of services, and the degree
+of expertise and the personal manner in which services are offered. South
+Carolina law permits statewide branching by banks and savings institutions, and
+many financial institutions in the state have branch networks. Consequently,
+commercial banking in South Carolina is highly competitive. As of December 31,
+2002, there were approximately four commercial banks, two savings and loan
+institutions, and one credit union in the same area as Bank of Walterboro. Many
+large banking organizations currently operate in the Bank's market area, several
+of which are controlled by out-of-state ownership. In addition, competition
+between commercial banks and thrift institutions (savings institutions and
+credit unions) has been intensified significantly by the elimination of many
+previous distinctions between the various types of financial institutions and
+the expanded powers and increased activity of thrift institutions in areas of
+banking which previously had been the sole domain of commercial banks. Recent
+legislation, together with other regulatory changes by the primary regulators of
+the various financial institutions, has resulted in almost total elimination of
+practical distinctions between a commercial bank and a thrift institution.
+Consequently, competition among financial institutions of all types is largely
+unlimited with respect to legal authority to provide most financial services.
+
+SUPERVISION AND REGULATION
+
+Both the company and the bank are subject to extensive state and federal banking
+laws and regulations which impose specific requirements or restrictions on and
+provide for general regulatory oversight of virtually all aspects of operations.
+These laws and regulations are generally intended to protect depositors, not
+shareholders. The following summary is qualified by reference to the statutory
+and regulatory provisions discussed. Changes in applicable laws or regulations
+may have a material effect on our business and prospects. Beginning with the
+enactment of the Financial Institution Report Recovery and Enforcement Act in
+1989 and following with the FDIC Improvement Act in 1991, numerous additional
+regulatory requirements have been placed on the banking industry in the past
+several years, and additional changes have been proposed. Our operations may be
+affected by legislative changes and the policies of various regulatory
+authorities. We cannot predict the effect that fiscal or monetary policies,
+economic control, or new federal or state legislation may have on our business
+and earnings in the future.
+
+Gramm-Leach-Bliley Act
+
+On November 4, 1999, the U.S. Senate and House of Representatives each passed
+the Gramm-Leach-Bliley Act, previously known as the Financial Services
+Modernization Act of 1999. The Act was signed into law on November 12, 1999.
+Among other things, the Act repeals the restrictions on banks affiliating with
+securities firms contained in sections 20 and 32 of the Glass-Steagall Act. The
+Act also permits bank holding companies to engage in a statutorily provided list
+of financial activities, including insurance and securities underwriting and
+agency activities, merchant banking, and insurance company portfolio investment
+activities. The Act also authorizes activities that are "complementary" to
+financial activities.
+
+                                       3
+
+<PAGE>
+
+                                  COMMUNITYCORP
+
+SUPERVISION AND REGULATION (continued)
+
+The Act is intended to grant to community banks certain powers as a matter of
+right that larger institutions have accumulated on an ad hoc basis.
+Nevertheless, the Act may have the result of increasing the amount of
+competition that we face from larger institutions and other types of companies.
+In fact, it is not possible to predict the full effect that the Act will have on
+us. From time to time other changes are proposed to laws affecting the Banking
+industry, and these changes could have a material effect on our business and
+prospects. We cannot predict the nature or the extent of the effect on our
+business and earnings of fiscal or monetary policies, economic controls, or new
+federal or state legislation.
+
+Communitycorp
+
+Because it owns the outstanding capital stock of the bank, the company is a bank
+holding company under the federal Bank Holding Company Act of 1956 and the South
+Carolina Banking and Branching Efficiency Act.
+
+The Bank Holding Company Act. Under the Bank Holding Company Act, the company is
+subject to periodic examination by the Federal Reserve and required to file
+periodic reports of its operations and any additional information that the
+Federal Reserve may require. Our activities at the bank and holding company
+level are limited to:
+
+.    banking and managing or controlling banks;
+.    furnishing services to or performing services for its subsidiaries; and
+.    engaging in other activities that the Federal Reserve determines to be so
+     closely related to banking
+.    and managing or controlling banks as to be a proper incident thereto.
+
+Investments, Control, and Activities. With certain limited exceptions, the Bank
+Holding Company Act requires every bank holding company to obtain the prior
+approval of the Federal Reserve before:
+
+.    acquiring substantially all the assets of any bank;
+.    acquiring direct or indirect ownership or control of any voting shares of
+     any bank if after the acquisition it would own or control more than 5% of
+     the voting shares of such bank (unless it already owns or controls the
+     majority of such shares); or
+.    merging or consolidating with another bank holding company.
+
+In addition, and subject to certain exceptions, the Bank Holding Company Act and
+the Change in Bank Control Act, together with regulations thereunder, require
+Federal Reserve approval prior to any person or company acquiring "control" of a
+bank holding company. Control is conclusively presumed to exist if an individual
+or company acquires 25% or more of any class of voting securities of a bank
+holding company. Control is reputably presumed to exist if a person acquires 10%
+or more, but less than 25%, of any class of voting securities and either the
+company has registered securities under Section 12 of the Securities Exchange
+Act of 1934 or no other person owns a greater percentage of that class of voting
+securities immediately after the transaction. The company's common stock is
+registered under the Securities Exchange Act of 1934. The regulations provide a
+procedure for challenge of the rebutable control presumption.
+
+                                       4
+
+<PAGE>
+
+                                  COMMUNITYCORP
+
+SUPERVISION AND REGULATION (continued)
+
+Communitycorp (continued)
+
+Under the Bank Holding Company Act, a bank holding company is generally
+prohibited from engaging in, or acquiring direct or indirect control of more
+than 5% of the voting shares of any company engaged in nonbanking activities
+unless the Federal Reserve Board, by order or regulation, has found those
+activities to be so closely related to banking or managing or controlling banks
+as to be a proper incident thereto. Some of the activities that the Federal
+Reserve Board has determined by regulation to be proper incidents to the
+business of a bank holding company include:
+
+.    making or servicing loans and certain types of leases;
+.    engaging in certain insurance and discount brokerage activities;
+.    performing certain data processing services;
+.    acting in certain circumstances as a fiduciary or investment or financial
+     adviser;
+.    owning savings associations; and
+.    making investments in certain corporations or projects designed primarily
+     to promote community welfare.
+
+The Federal Reserve Board imposes certain capital requirements on the company
+under the Bank Holding Company Act, including a minimum leverage ratio and a
+minimum ratio of "qualifying" capital to risk-weighted assets. These
+requirements are described below under "Capital Regulations." Subject to its
+capital requirements and certain other restrictions, the company is able to
+borrow money to make a capital contribution to the bank, and these loans may be
+repaid from dividends paid from the bank to the company. Our ability to pay
+dividends is subject to regulatory restrictions as described below in "Bank of
+Walterboro - Dividends." The company is also able to raise capital for
+contribution to the bank by issuing securities without having to receive
+regulatory approval, subject to compliance with federal and state securities
+laws.
+
+Source of Strength; Cross-Guarantee. In accordance with Federal Reserve Board
+policy, the company is expected to act as a source of financial strength to the
+bank and to commit resources to support the bank in circumstances in which the
+company might not otherwise do so. Under the Bank Holding Company Act, the
+Federal Reserve Board may require a bank holding company to terminate any
+activity or relinquish control of a nonbank subsidiary, other than a nonbank
+subsidiary of a bank, upon the Federal Reserve Board's determination that such
+activity or control constitutes a serious risk to the financial soundness or
+stability of any subsidiary depository institution of the bank's holding
+company. Further, federal bank regulatory authorities have additional discretion
+to require a bank holding company to divest itself of any bank or nonbank
+subsidiary if the agency determines that divestiture may aid the depository
+institution's financial condition.
+
+South Carolina State Regulation. As a bank holding company registered under the
+South Carolina Banking and Branching Efficiency Act, we are subject to
+limitations on sale or merger and to regulation by the South Carolina Board of
+Financial Institutions. We must receive the Board's approval prior to engaging
+in the acquisition of banking or nonbanking institutions or assets, and we must
+file periodic reports with respect to our financial condition and operations,
+management, and intercompany relationships between the company and its
+subsidiaries.
+
+                                       5
+
+<PAGE>
+
+                                  COMMUNITYCORP
+
+SUPERVISION AND REGULATION (continued)
+
+Bank of Walterboro
+
+The bank operates as a South Carolina state bank and is subject to examination
+by the South Carolina Board of Financial Institutions. Deposits in the bank are
+insured by the FDIC up to a maximum amount, which is generally $100,000 per
+depositor subject to aggregation rules.
+
+The South Carolina Board of Financial Institutions and the FDIC regulate or
+monitor virtually all areas of the bank's operations, including:
+
+.    security devices and procedures;
+.    adequacy of capitalization and loss reserves;
+.    loans;
+.    investments;
+.    borrowings;
+.    deposits;
+.    mergers;
+.    issuances of securities;
+.    payment of dividends;
+.    interest rates payable on deposits;
+.    interest rates or fees chargeable on loans;
+.    establishment of branches;
+.    corporate reorganizations;
+.    maintenance of books and records; and
+.    adequacy of staff training to carry on safe lending and deposit gathering
+     practices.
+
+The South Carolina Board of Financial Institutions requires the bank to maintain
+specified capital ratios and imposes limitations on the bank's aggregate
+investment in real estate, bank premises, and furniture and fixtures. The FDIC
+requires the bank to prepare quarterly reports on the bank's financial condition
+and to conduct an annual audit of its financial affairs in compliance with its
+minimum standards and procedures.
+
+Under the FDIC Improvement Act, all insured institutions must undergo regular on
+site examinations by their appropriate banking agency. The cost of examinations
+of insured depository institutions and any affiliates may be assessed by the
+appropriate agency against each institution or affiliate as it deems necessary
+or appropriate. Insured institutions are required to submit annual reports to
+the FDIC, their federal regulatory agency, and their state supervisor when
+applicable. The FDIC Improvement Act directs the FDIC to develop a method for
+insured depository institutions to provide supplemental disclosure of the
+estimated fair market value of assets and liabilities, to the extent feasible
+and practicable, in any balance sheet, financial statement, report of condition
+or any other report of any insured depository institution. The FDIC Improvement
+Act also requires the federal banking regulatory agencies to prescribe, by
+regulation, standards for all insured depository institutions and depository
+institution holding companies relating, among other things, to the following:
+
+.    internal controls;
+.    information systems and audit systems;
+.    loan documentation;
+.    credit underwriting;
+.    interest rate risk exposure; and
+.    asset quality.
+
+                                       6
+
+<PAGE>
+
+                                  COMMUNITYCORP
+
+SUPERVISION AND REGULATION (continued)
+
+Bank of Walterboro (continued)
+
+Deposit Insurance. Because the Bank's deposits are insured by the Bank Insurance
+Fund (BIF), the Bank is subject to insurance assessments imposed by the FDIC.
+Since January 1, 1997, the assessments imposed on all FDIC deposits for deposit
+insurance have an effective rate ranging from 0 to 27 basis points per $100 of
+insured deposits, depending on the institution's capital position and other
+supervisory factors. However, because legislation enacted in 1996 requires that
+both SAIF-insured and BIF-insured deposits pay a pro rata portion of the
+interest due on those obligations issued by the Financing Corporation ("FICO").
+To cover those obligations, during 2002, the FDIC assessed BIF-insured deposits
+a range of 1.82 to 1.70 basis points per $100 of deposits, and also assessed
+SAIF-insured deposits a range of 1.82 to 1.70 basis points per $100 of deposits.
+Currently, the FDIC is assessing BIF-insured and SAIF-insured deposits each 1.68
+basis points per $100 of deposits to cover the interest on FICO obligations. The
+FICO assessment is based on deposit balances and is adjusted quarterly to
+reflect changes in the assessment bases of the respective funds based on
+quarterly Call Report and Thrift Financial Report submissions.
+
+Transactions With Affiliates and Insiders. The bank is subject to the provisions
+of Section 23A of the Federal Reserve Act, which places limits on the amount of
+loans or extensions of credit to, or investments in, or certain other
+transactions with, affiliates and on the amount of advances to third parties
+collateralized by the securities or obligations of affiliates. The aggregate of
+all covered transactions is limited in amount, as to any one affiliate, to 10%
+of the bank's capital and surplus and, as to all affiliates combined, to 20% of
+the bank 's capital and surplus. Furthermore, within the foregoing limitations
+as to amount, each covered transaction must meet specified collateral
+requirements. Compliance is also required with certain provisions designed to
+avoid the taking of low quality assets.
+
+The bank is also subject to the provisions of Section 23B of the Federal Reserve
+Act which, among other things, prohibits an institution from engaging in certain
+transactions with certain affiliates unless the transactions are on terms
+substantially the same, or at least as favorable to such institution or its
+subsidiaries, as those prevailing at the time for comparable transactions with
+nonaffiliated companies. The bank is subject to certain restrictions on
+extensions of credit to executive officers, directors, certain principal
+shareholders, and their related interests. Such extensions of credit (i) must be
+made on substantially the same terms, including interest rates and collateral,
+as those prevailing at the time for comparable transactions with third parties
+and (ii) must not involve more than the normal risk of repayment or present
+other unfavorable features.
+
+Dividends. The bank is subject to regulatory restrictions on the payment of
+dividends, including a prohibition of payment of dividends from its capital. All
+dividends must be paid out of the undivided profits then on hand, after
+deducting expenses, including losses and bad debts. In addition, under the FDIC
+Improvement Act, the bank may not pay a dividend if, after paying the dividend,
+the bank would be undercapitalized. See "Capital Regulations" below.
+
+                                       7
+
+<PAGE>
+
+                                  COMMUNITYCORP
+
+SUPERVISION AND REGULATION (continued)
+
+Bank of Walterboro (continued)
+
+Branching. Under current South Carolina law, we may open bank branch offices
+throughout South Carolina with the prior approval of the South Carolina Board of
+Financial Institutions. In addition, with prior regulatory approval, the bank
+may acquire existing banking operations in South Carolina. Furthermore, federal
+legislation has recently been passed which permits interstate branching. The new
+law permits out-of-state acquisitions by bank holding companies, interstate
+branching by banks if allowed by state law, interstate merging by banks, and de
+novo branching by banks if allowed by state law. North Carolina has passed
+legislation that, in effect, prohibits de novo branching by South Carolina banks
+into North Carolina.
+
+Community Reinvestment Act. The Community Reinvestment Act requires that, in
+connection with examinations of financial institutions within their respective
+jurisdictions, a financial institution's primary federal regulator (this is the
+FDIC for our bank) shall evaluate the record of each financial institution in
+meeting the credit needs of its local community, including low and moderate
+income neighborhoods. These factors are also considered in evaluating mergers,
+acquisitions, and applications to open a branch or facility. Failure to
+adequately meet these criteria could impose additional requirements and
+limitations on the bank.
+
+Other Regulations. Interest and other charges collected or contracted for by the
+bank are subject to state usury laws and federal laws concerning interest rates.
+The bank's loan operations are also subject to federal laws applicable to credit
+transactions, such as:
+
+.    the federal Truth-In-Lending Act, governing disclosures of credit terms to
+     consumer borrowers;
+.    the Home Mortgage Disclosure Act of 1975, requiring financial institutions
+     to provide information to enable the public and public officials to
+     determine whether a financial institution is fulfilling its obligation to
+     help meet the housing needs of the community it serves;
+.    the Equal Credit Opportunity Act, prohibiting discrimination on the basis
+     of race, creed or other prohibited factors in extending credit;
+.    the Fair Credit Reporting Act of 1978, governing the use and provision of
+     information to credit reporting agencies;
+.    the Fair Debt Collection Act, governing the manner in which consumer debts
+     may be collected by collection agencies; and
+.    the rules and regulations of the various federal agencies charged with the
+     responsibility of implementing such federal laws.
+
+The deposit operations of the bank also are subject to:
+
+.    the Right to Financial Privacy Act, which imposes a duty to maintain
+     confidentiality of consumer financial records and prescribes procedures for
+     complying with administrative subpoenas of financial records; and
+.    the Electronic Funds Transfer Act and Regulation E issued by the Federal
+     Reserve Board to implement that act, which governs automatic deposits to
+     and withdrawals from deposit accounts and customers' rights and liabilities
+     arising from the use of automated teller machines and other electronic
+     banking services.
+
+                                       8
+
+<PAGE>
+
+                                  COMMUNITYCORP
+
+SUPERVISION AND REGULATION (continued)
+
+Bank of Walterboro (continued)
+
+Capital Regulations. The federal bank regulatory authorities have adopted
+risk-based capital guidelines for banks and bank holding companies that are
+designed to make regulatory capital requirements more sensitive to differences
+in risk profiles among banks and bank holding companies and account for
+off-balance sheet items. The guidelines are minimums, and the federal regulators
+have noted that banks and bank holding companies contemplating significant
+expansion programs should not allow expansion to diminish their capital ratios
+and should maintain ratios in excess of the minimums. We have not received any
+notice indicating that either the company or the bank is subject to higher
+capital requirements. The current guidelines require all bank holding companies
+and federally-regulated banks to maintain a minimum risk-based total capital
+ratio equal to 8%, of which at least 4% must be Tier 1 capital. Tier 1 capital
+includes common shareholders' equity, qualifying perpetual preferred stock, and
+minority interests in equity accounts of consolidated subsidiaries, but excludes
+goodwill and most other intangibles and excludes the allowance for loan and
+lease losses. Tier 2 capital includes the excess of any preferred stock not
+included in Tier 1 capital, mandatory convertible securities, hybrid capital
+instruments, subordinated debt and intermediate term-preferred stock, and
+general reserves for loan and lease losses up to 1.25% of risk-weighted assets.
+
+Under these guidelines, banks' and bank holding companies' assets are given
+risk-weights of 0%, 20%, 50%, or 100%. In addition, certain off-balance sheet
+items are given credit conversion factors to convert them to asset equivalent
+amounts to which an appropriate risk-weight applies. These computations result
+in the total risk-weighted assets. Most loans are assigned to the 100% risk
+category, except for first mortgage loans fully secured by residential property
+and, under certain circumstances, residential construction loans, both of which
+carry a 50% rating. Most investment securities are assigned to the 20% category,
+except for municipal or state revenue bonds, which have a 50% rating, and direct
+obligations of or obligations guaranteed by the United States Treasury or United
+States Government agencies, which have a 0% rating.
+
+The federal bank regulatory authorities have also implemented a leverage ratio,
+which is equal to Tier 1 capital as a percentage of average total assets less
+intangibles, to be used as a supplement to the risk-based guidelines. The
+principal objective of the leverage ratio is to place a constraint on the
+maximum degree to which a bank holding company may leverage its equity capital
+base. The minimum required leverage ratio for top-rated institutions is 3%, but
+most institutions are required to maintain an additional cushion of at least 100
+to 200 basis points.
+
+The FDIC Improvement Act established a new capital-based regulatory scheme
+designed to promote early intervention for troubled banks which requires the
+FDIC to choose the least expensive resolution of bank failures. The new
+capital-based regulatory framework contains five categories of compliance with
+regulatory capital requirements, including "well capitalized," "adequately
+capitalized," "undercapitalized," "significantly undercapitalized," and
+"critically undercapitalized." To qualify as a "well capitalized" institution, a
+bank must have a leverage ratio of no less than 5%, a Tier 1 risk-based ratio of
+no less than 6%, and a total risk-based capital ratio of no less than 10%, and
+the bank must not be under any order or directive from the appropriate
+regulatory agency to meet and maintain a specific capital level. Currently, we
+qualify as "well capitalized."
+
+                                       9
+
+<PAGE>
+
+                                  COMMUNITYCORP
+
+SUPERVISION AND REGULATION (continued)
+
+Bank of Walterboro (continued)
+
+Under the FDIC Improvement Act regulations, the applicable agency can treat an
+institution as if it were in the next lower category if the agency determines
+(after notice and an opportunity for hearing) that the institution is in an
+unsafe or unsound condition or is engaging in an unsafe or unsound practice. The
+degree of regulatory scrutiny of a financial institution increases, and the
+permissible activities of the institution decreases, as it moves downward
+through the capital categories. Institutions that fall into one of the three
+undercapitalized categories may be required to do some or all of the following:
+
+     .    submit a capital restoration plan;
+     .    raise additional capital;
+     .    restrict their growth, deposit interest rates, and other activities;
+     .    improve their management;
+     .    eliminate management fees; or
+     .    divest themselves of all or a part of their operations.
+
+Bank holding companies controlling financial institutions can be called upon to
+boost the institutions' capital and to partially guarantee the institutions'
+performance under their capital restoration plans.
+
+These capital guidelines can affect us in several ways. If we grow at a rapid
+pace, our capital may be depleted too quickly, and a capital infusion from the
+holding company may be necessary which could impact our ability to pay
+dividends. Our capital levels currently are adequate; however, rapid growth,
+poor loan portfolio performance, poor earnings performance, or a combination of
+these factors could change our capital position in a relatively short period of
+time.
+
+Failure to meet these capital requirements would mean that a bank would be
+required to develop and file a plan with its primary federal banking regulator
+describing the means and a schedule for achieving the minimum capital
+requirements. In addition, such a bank would generally not receive regulatory
+approval of any application that requires the consideration of capital adequacy,
+such as a branch or merger application, unless the bank could demonstrate a
+reasonable plan to meet the capital requirement within a reasonable period of
+time.
+
+Enforcement Powers. The Financial Institution Report Recovery and Enforcement
+Act expanded and increased civil and criminal penalties available for use by the
+federal regulatory agencies against depository institutions and certain
+"institution-affiliated parties." Institution-affiliated parties primarily
+include management, employees, and agents of a financial institution, as well as
+independent contractors and consultants such as attorneys and accountants and
+others who participate in the conduct of the financial institution's affairs.
+These practices can include the failure of an institution to timely file
+required reports or the filing of false or misleading information or the
+submission of inaccurate reports. Civil penalties may be as high as $1,000,000 a
+day for such violations. Criminal penalties for some financial institution
+crimes have been increased to 20 years. In addition, regulators are provided
+with greater flexibility to commence enforcement actions against institutions
+and institution-affiliated parties. Possible enforcement actions include the
+termination of deposit insurance. Furthermore, banking agencies' power to issue
+cease-and-desist orders were expanded. Such orders may, among other things,
+require affirmative action to correct any harm resulting from a violation or
+practice, including restitution, reimbursement, indemnification or guarantees
+against loss. A financial institution may also be ordered to restrict its
+growth, dispose of certain assets, rescind agreements or contracts, or take
+other actions as determined by the ordering agency to be appropriate.
+
+                                       10
+
+<PAGE>
+
+                                  COMMUNITYCORP
+
+SUPERVISION AND REGULATION (continued)
+
+Bank of Walterboro (continued)
+
+Effect of Governmental Monetary Policies. Our earnings are affected by domestic
+economic conditions and the monetary and fiscal policies of the United States
+government and its agencies. The Federal Reserve Bank's monetary policies have
+had, and are likely to continue to have, an important impact on the operating
+results of commercial banks through its power to implement national monetary
+policy in order, among other things, to curb inflation or combat a recession.
+The monetary policies of the Federal Reserve Board have major effects upon the
+levels of bank loans, investments and deposits through its open market
+operations in United States government securities and through its regulation of
+the discount rate on borrowings of member banks and the reserve requirements
+against member bank deposits. It is not possible to predict the nature or impact
+of future changes in monetary and fiscal policies.
+
+Employees
+
+As of March 10, 2003, the Bank had thirty-three full-time and three part-time
+employees. The Company had no employees.
+
+Item 2. Description of Property
+
+The Company owns a 5,400 square foot facility located at 1100 North Jefferies
+Boulevard, Walterboro, South Carolina, which is its corporate banking office.
+Construction on this facility was completed in 1989 at a total cost, including
+land, furniture and fixtures of $775,345. All corporate headquarters as well as
+normal banking services and operations are housed at this location. The facility
+has a second floor which would allow for expansion consisting of 2,700 square
+feet. The existing building was built to adequately serve the anticipated needs
+of the Bank for the foreseeable future.
+
+The Company opened its second banking location at 6225 Savannah Highway,
+Ravenel, South Carolina. This 3,622 square foot facility opened for business on
+October 6, 1997 and provides traditional banking services. The total cost of
+this facility, including land, and furniture and fixtures was $930,344.
+
+The Company acquired a 5500 square foot building at 110 Forest Hills Road in
+Walterboro, South Carolina on November 16, 2000 and began using it as a branch
+location in 2001. The total cost of the facility, including land, was $485,000.
+
+Item 3. Legal Proceedings
+
+The Company may from time to time be a party to various legal proceedings
+arising in the ordinary course of business, but management of the Company is not
+aware of any pending or threatened litigation or unasserted claims or
+assessments that are expected to result in losses, if any, that would be
+material to the Company's business and operations.
+
+Item 4. Submission of Matters to a Vote of Security Holders
+
+No matter was submitted to a vote of security holders during the fourth quarter
+of the fiscal year covered by this report.
+
+                                       11
+
+<PAGE>
+
+                                  COMMUNITYCORP
+
+SUPERVISION AND REGULATION (continued)
+
+                                     Part II
+
+Item 5. Market for Common Equity and Related Stockholder Matters
+
+In response to this Item, the information contained on page 45 of the Company's
+Annual Report to Shareholders for the year ended December 31, 2002 is
+incorporated herein by reference.
+
+Item 6. Management's Discussion and Analysis or Plan of Operation
+
+In response to this Item, the information contained on pages 8 through 23 of the
+Company's Annual Report to Shareholders for the year ended December 31, 2002 is
+incorporated herein by reference.
+
+Item 7. Financial Statements
+
+In response to this Item, the information contained on pages 24 through 43 of
+the Company's Annual Report to Shareholders for the year ended December 31, 2002
+is incorporated herein by reference.
+
+Item 8. Changes in and Disagreements with Accountants on Accounting and
+Financial Disclosure
+
+(a)  (1) (i) - (iv) (A) - Tourville, Simpson and Caskey, LLP (TSC), which served
+     as the principal independent accountant for the Registrant since May 1989,
+     resigned from such position effective January 2, 2003. TSC's report on the
+     financial statements of the Company for each of the years ended December
+     31, 2000 and December 31, 2001 did not contain an adverse opinion or a
+     disclaimer of opinion and was not qualified or modified as to uncertainty,
+     audit scope or accounting principles.
+
+     During the Company's three most recent fiscal years ended December 31, 2002
+     and the subsequent interim period through January 2, 2003, there were no
+     disagreements between the Company and TSC on any matter of accounting
+     principles or practices, financial statement disclosure or auditing scope
+     or procedure, which disagreements, if not resolved to the satisfaction of
+     TSC, would have caused it to make reference to the subject matter of the
+     disagreements in connection with its report. A letter from TSC is attached
+     as Exhibit 16.1 to this Report.
+
+          (2)  Elliott Davis, LLC certified public accountants was engaged by
+               the Registrant on January 2, 2003, to audit the financial
+               statements for the year ending December 31, 2002. The Registrant
+               did not consult Elliott Davis regarding any of the matters set
+               forth in Item 304 (1) (2) (i) or (ii) of Regulation S-B
+
+                                    Part III
+
+Item 9. Directors, Executive Officers, Promoters and Control Persons; Compliance
+with Section 16(a) of the Exchange Act
+
+In response to this Item, the information contained on pages 2 through 3 of the
+company's Proxy Statement for the Annual Meeting of Shareholders to be held on
+May 1, 2003 is incorporated herein by reference.
+
+Item 10. Executive Compensation
+
+In response to this Item, the information contained on page 8 of the Company's
+Proxy Statement for the Annual Meeting of Shareholders to be held on May 1, 2003
+is incorporated herein by reference
+
+                                       12
+
+<PAGE>
+
+                                  COMMUNITYCORP
+
+Item 11. Security Ownership of Certain Beneficial Owners and Management
+
+In response to this Item, the information contained on page 7 of the Company's
+Proxy Statement for the Annual Meeting of Shareholders to be held on May 1, 2003
+is incorporated herein by reference.
+
+Item 12. Certain Relationships and Related Transactions
+
+In response to this Item, the information contained on page 6 of the Company's
+Proxy Statement for the Annual Meeting of Shareholders to be held on May 1, 2003
+is incorporated herein by reference.
+
+Item 13. Exhibits, List and Reports on Form 8-K
+
+(a)  The following documents are filed as part of this report:
+
+     13.1. Annual Report of Shareholders for the year ended December 31, 2002
+
+     21.1 Subsidiaries of the Company
+
+(b)  Reports on Form 8-K
+
+     The Company filed an amended Report on Form 8-K on February 5, 2003
+     pursuant to Item 4 thereof relating to change of the Company's accountants.
+     See Part II, Item 8 above.
+
+Item 14. Controls and Procedures
+
+(a)  Based on his evaluation of the issuer's disclosure controls and procedures
+     (as defined in 17 C.F.R. Sections 240.13a-14(c) and 240.15d-14(c)) as of a
+     date within 90 days prior to the filing of this annual report, the issuer's
+     chief executive officer and chief financial officer concluded that the
+     effectiveness of such controls and procedures was adequate.
+
+(b)  There were no significant changes in the issuer's internal controls or in
+     other factors that could significantly affect these controls subsequent to
+     the date of their evaluation, including any corrective actions with regard
+     to significant deficiencies and material weaknesses.
+
+                                       13
+
+<PAGE>
+
+                                  COMMUNITYCORP
+
+SIGNATURES
+
+In accordance with Section 13 or 15(d) of the Securities Exchange Act of 1934,
+the registrant caused this report to be signed on its behalf by the undersigned,
+thereunto duly authorized.
+
+                                       BANK OF WALTERBORO
+
+
+Date: March 28, 2003                   By: /s/ W. Roger Crook
+                                           -------------------------------------
+                                           W. Roger Crook.
+                                           President and Chief Executive Officer
+
+KNOW ALL MEN BY THESE PRESENTS, that each person whose signature appears below
+constitutes and appoints W. Roger Crook, his true and lawful attorney-in-fact
+and agent, with full power of substitution and resubstitution, for him and in
+his name, place and stead, in any and all capacities, to sign any and all
+amendments to this Annual Report on Form 10-K, and to file the same, with all
+exhibits thereto, and other documents in connection therewith, with the
+Securities and Exchange Commission, granting unto attorney-in-fact and agent
+full power and authority to do and perform each and every act and thing
+requisite or necessary to be done in and about the premises, as fully to all
+intents and purposes as he might or could do in person, hereby ratifying and
+confirming all that attorney-in-fact and agent, or his substitute or
+substitutes, may lawfully do or cause to be done by virtue hereof.
+
+In accordance with the Exchange Act, this report has been signed below by the
+following persons on behalf of the registrant in the capacities and on the dates
+indicated.
+
+Signature                       Title                            Date
+---------                       -----                            ----
+
+
+-----------------------------
+W. Roger Crook                  President, Director (CEO)        March 28, 2003
+
+
+-----------------------------
+Gwendolyn P. Bunton             Vice President (CFO)             March 28, 2003
+
+
+-----------------------------
+Peden B. McLeod                 Director                         March 28, 2003
+                                & Chairman of the Board
+
+
+-----------------------------
+George W. Cone                  Director & Corporate Secretary   March 28, 2003
+
+
+-----------------------------
+J. Barnwell Fishburne           Director                         March 28, 2003
+
+
+-----------------------------
+Harry L. Hill                   Director                         March 28, 2003
+
+
+-----------------------------
+Steven D. Murdaugh              Director                         March 28, 2003
+
+
+-----------------------------
+Robert E. Redfearn              Director                         March 28, 2003
+
+
+-----------------------------
+Harold M. Robertson             Director                         March 28, 2003
+
+                                       14
+
+<PAGE>
+
+                                  COMMUNITYCORP
+
+CERTIFICATIONS
+
+I, W. Roger Crook, certify that:
+
+1.   I have reviewed this annual report on Form 10-K of Communitycorp;
+
+2.   Based on my knowledge, this annual report does not contain any untrue
+     statement of a material fact or omit to state a material fact necessary to
+     make the statements made, in light of the circumstances under which such
+     statements were made, not misleading with respect to the period covered by
+     this annual report;
+
+3.   Based on my knowledge, the financial statements, and other financial
+     information included in this annual report, fairly present in all material
+     respects the financial condition, results of operations and cash flows of
+     the registrant as of, and for, the periods presented in this quarterly
+     report;
+
+4.   The registrant's other certifying officers and I are responsible for
+     establishing and maintaining disclosure controls and procedures (as defined
+     in Exchange Act Rules 13a-14 and 15d-14) for the registrant and have:
+
+a)   designed such  disclosure  controls and  procedures to ensure that material
+     information   relating  to  the  registrant,   including  its  consolidated
+     subsidiaries,  is  made  known  to  us by  others  within  those  entities,
+     particularly  during  the period in which  this  quarterly  report is being
+     prepared;
+
+b)   evaluated the  effectiveness  of the registrant's  disclosure  controls and
+     procedures  as of a date  within 90 days prior to the  filing  date of this
+     quarterly report (the "Evaluation Date"); and
+
+c)   presented in this quarterly report our conclusions  about the effectiveness
+     of the disclosure controls and procedures based on our evaluation as of the
+     Evaluation Date;
+
+5.   The registrant's other certifying officers and I have disclosed, based on
+     our most recent evaluation, to the registrant's auditors and the audit
+     committee of registrant's board of directors (or persons performing the
+     equivalent functions):
+
+          a)   all  significant  deficiencies  in the  design  or  operation  of
+               internal  controls which could adversely  affect the registrant's
+               ability to record,  process,  summarize and report financial data
+               and have  identified for the  registrant's  auditors any material
+               weaknesses in internal controls; and
+
+          b)   any fraud,  whether or not material,  that involves management or
+               other employees who have a significant  role in the  registrant's
+               internal controls; and
+
+6.   The registrant's other certifying officers and I have indicated in this
+     annual report whether or not there were significant changes in internal
+     controls or in other factors that could significantly affect internal
+     controls subsequent to the date of our most recent evaluation, including
+     any corrective actions with regard to significant deficiencies and material
+     weaknesses.
+
+
+Date: March 28, 2003                       /s/ W. ROGER CROOK
+                                           -------------------------------------
+                                           W. Roger Crook
+                                           President and Chief Executive Officer
+
+                                       15
+
+<PAGE>
+
+                                  COMMUNITYCORP
+
+CERTIFICATIONS
+
+I, Gwendolyn P. Bunton, certify that:
+
+1.   I have reviewed this annual report on Form 10-K of Communitycorp;
+
+2.   Based on my knowledge, this annual report does not contain any untrue
+     statement of a material fact or omit to state a material fact necessary to
+     make the statements made, in light of the circumstances under which such
+     statements were made, not misleading with respect to the period covered by
+     this annual report;
+
+3.   Based on my knowledge, the financial statements, and other financial
+     information included in this annual report, fairly present in all material
+     respects the financial condition, results of operations and cash flows of
+     the registrant as of, and for, the periods presented in this annual report;
+
+4.   The registrant's other certifying officers and I are responsible for
+     establishing and maintaining disclosure controls and procedures (as defined
+     in Exchange Act Rules 13a-14 and 15d-14) for the registrant and have:
+
+d)   designed such  disclosure  controls and  procedures to ensure that material
+     information   relating  to  the  registrant,   including  its  consolidated
+     subsidiaries,  is  made  known  to  us by  others  within  those  entities,
+     particularly  during  the  period  in which  this  annual  report  is being
+     prepared;
+
+e)   evaluated the  effectiveness  of the registrant's  disclosure  controls and
+     procedures  as of a date  within 90 days prior to the  filing  date of this
+     annual report (the "Evaluation Date"); and
+
+f)   presented in this annual report our conclusions  about the effectiveness of
+     the disclosure  controls and  procedures  based on our evaluation as of the
+     Evaluation Date;
+
+5.   The registrant's other certifying officers and I have disclosed, based on
+     our most recent evaluation, to the registrant's auditors and the audit
+     committee of registrant's board of directors (or persons performing the
+     equivalent functions):
+
+          c)   all  significant  deficiencies  in the  design  or  operation  of
+               internal  controls which could adversely  affect the registrant's
+               ability to record,  process,  summarize and report financial data
+               and have  identified for the  registrant's  auditors any material
+               weaknesses in internal controls; and
+
+          d)   any fraud,  whether or not material,  that involves management or
+               other employees who have a significant  role in the  registrant's
+               internal controls; and
+
+6.   The registrant's other certifying officers and I have indicated in this
+     annual report whether or not there were significant changes in internal
+     controls or in other factors that could significantly affect internal
+     controls subsequent to the date of our most recent evaluation, including
+     any corrective actions with regard to significant deficiencies and material
+     weaknesses.
+
+
+Date: March 28, 2003                                  /s/ GWEN P. BUNTON
+                                                      --------------------------
+                                                      Gwen P. Bunton
+                                                      Vice President and Cashier
+
+                                       16
+
+<PAGE>
+
+                                  COMMUNITYCORP
+
+INDEX TO EXHIBITS
+
+13.1.   Annual Report of Shareholders for the year ended December 31, 2002
+
+16.1    Change In Certifying Accountants
+
+21.1    Subsidiaries of the Company
+
+                                       17
+
+</TEXT>
+</DOCUMENT>

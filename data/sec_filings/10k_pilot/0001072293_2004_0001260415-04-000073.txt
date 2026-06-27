@@ -1,0 +1,2619 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>awc10k09-04.txt
+<DESCRIPTION>ALLSTATES WORLDCARGO, INC. FORM 10-K P/E 9-30-2004
+<TEXT>
+               U.S. SECURITIES AND EXCHANGE COMMISSION
+                        WASHINGTON, DC   20549
+
+                              Form 10-K
+(Mark One)
+
+[x]  ANNUAL  REPORT UNDER SECTION 13 0R 15(D) OF THE  SECURITIES
+     EXCHANGE  ACT  OF 1934 FOR THE FISCAL YEAR ENDED  SEPTEMBER
+     30, 2004
+
+[ ]  TRANSITION  REPORT  UNDER  SECTION  13  OR  15(D)  OF   THE
+     SECURITIES  EXCHANGE  ACT FOR THE  TRANSITION  PERIOD  FROM
+     ________ TO ________
+
+                      ALLSTATES WORLDCARGO, INC.
+       (Exact Name of Registrant as Specified  In Its Charter)
+
+               New Jersey                22-3487471
+             (State or Other       (I.R.S. Identification
+             Jurisdiction of               Number)
+            Incorporation or
+              Organization)
+
+     4   Lakeside Drive South, Forked River, New Jersey        08731
+     (Address of Principal Executive Offices)               (Zip Code)
+
+
+                            (609) 693-5950
+                     (Issuer's Telephone Number)
+
+Securities  to be registered pursuant to Section  12(b)  of  the
+Act:      None
+
+Securities  to be registered pursuant to Section  12(g)  of  the
+Act:
+
+                    Common Stock $.0001 Par Value
+                           (Title of Class)
+
+Indicate by check mark whether the registrant (1) has filed  all
+reports  required  to be filed by Section 13  or  15(d)  of  the
+Securities  Exchange Act of 1934 during the past 12  months  (or
+for such shorter period that the registrant was required to file
+such   reports),  and  (2)  has  been  subject  to  such  filing
+requirements for the past 90 days. Yes [ x ]     No [    ]
+
+
+Indicate by check mark if disclosure of delinquent filers pursuant  to
+item  405 of Regulation S-K is not contained herein, and will  not  be
+contained,  to  the best of the registrant's knowledge, in  definitive
+proxy or information statements incorporated by reference in part  III
+of this Form 10-K or any amendment to this Form 10-K [  ]
+
+Indicate by check mark whether the registrant is an accelerated  filer
+(as defined in Rile 12b-2 of the Act. Yes [ ]  No [x]
+
+The number of shares of Common Stock outstanding as of December 22, 2004
+was 32,509,872 shares.
+
+At  December 22, 2004, the voting stock of the registrant had not been
+publicly quoted.
+
+<PAGE>
+
+       PART I
+
+ITEM 1.  DESCRIPTION OF BUSINESS
+
+General Overview
+
+     Allstates  WorldCargo, Inc. (the "Company" or "Allstates")  is  a
+New  Jersey  Corporation formed in 1997 as Audiogenesis Systems,  Inc.
+("Audiogenesis"),  pursuant to a corporate reorganization  of  Genesis
+Safety  Systems,  Inc. ("Genesis").  On August 24, 1999,  Audiogenesis
+acquired 100 percent of the common stock of Allstates Air Cargo,  Inc.
+in  a  reverse acquisition, and on November 30, 1999, changed its name
+to Allstates WorldCargo, Inc.  Allstates is principally engaged in the
+business   of   providing   global  freight   forwarding   and   other
+transportation and logistics services for its customers.  Allstates is
+headquartered in Forked River, New Jersey.
+
+     The  freight forwarding business of Allstates was founded in 1961
+by  Joseph  M.  Guido, the Company's Chairman of the Board,  with  its
+first  terminal  opening in Newark, New Jersey. The  Company  provides
+domestic  and international freight forwarding services to over  1,700
+customers  utilizing ground transportation, commercial  air  carriers,
+and  ocean  vessels.   Allstates supplements  its  freight  forwarding
+services to include truck brokerage, warehousing and distribution, and
+other logistics services.   The Company operates 21 offices throughout
+the  United States, including the corporate headquarters, and  employs
+93 people.
+
+     Allstates   has   agreements  with  domestic  and   international
+strategic  partners and a network of agents throughout the world,  and
+continues  to  pursue  opportunities  to  forge  additional  strategic
+alliances  in  order  to increase its global market  share.  Allstates
+currently has strategic alliance agreements with agents in the  United
+Kingdom, European, South American and Far East markets.
+
+     Allstates  neither owns nor operates any aircraft or  ships.   By
+not  owning or operating its own equipment, Allstates believes  it  is
+able  to  provide more flexible delivery schedules and shipment  size.
+In  addition, by eliminating the substantial fixed expenses associated
+with  the  ownership of such equipment, Allstates  has  been  able  to
+effect certain cost savings.
+
+Marketing and Licensing
+
+     Allstates  markets its services through a network of 20  domestic
+branch   offices,   its  strategic  alliances,  and  selected   agents
+throughout the world.  Allstates is a party to several site  licensing
+agreements  in which those licensees have contracted with the  Company
+to  provide exclusive freight forwarding services, including sales and
+operating  functions,  under the Allstates name.   Of  the  20  branch
+locations, 13 are licensees operations, while 7 are company owned  and
+staffed operations.
+
+     Allstates  utilizes  a  combination  of  professionally  prepared
+advertising  materials,  highly trained sales and  operations/customer
+services  professionals, direct mail, assorted promotional items,  and
+audio/visual presentations.  Allstates employs 17 full time sales  and
+marketing personnel operating from the 7 company-owned offices.
+
+     Two separate divisions of Allstates are responsible for certain
+specialized functions of the Company.  GTD Logistics, through its
+capacity as a licensed truck broker, arranges for the procurement of
+exclusive truckloads.  The other division, Allstates Logistics, holds
+Ocean Transportation Intermediary License No. 15364NF, and is
+responsible for the ocean freight segment of Allstates.
+
+Information Systems
+
+     A  primary  component  of Allstates's business  strategy  is  the
+continued  development of its advanced information systems.  Allstates
+has  invested  substantial management and financial resources  in  the
+development  of  its  information systems  in  an  effort  to  provide
+accurate  and  timely  information to its  management  and  customers.
+Allstates continues to upgrade its information systems.  Highlights of
+the information system are:
+
+     .    Real-time  information which is available to  employees  and
+          customers, including customer service, operations, sales and
+          accounting
+     .    Centralized system located in Forked River, New Jersey, with
+          terminals throughout all offices
+     .    Accessible to customers via the Company's firewall-protected web
+          site to track shipments and collect POD information.
+     .    System tracks shipments from pickup order to delivery; confirms
+          "on-board" and "out for delivery" status
+     .    System can produce the following daily, monthly, yearly reports:
+          (1)  Operations reports (inbound, outbound and on-hand reports)
+          (2)  Sales reports (revenue, customer client list)
+          (3)  Customer reports (POD report, shipping history report)
+          (4)  Accounting reports (P&L reports)
+     .    System auto rates revenues and costs
+     .    System  supports  transactions  via  EDI  (Electronic   Data
+          Interchange)
+     .    System is flexible in customizing reports to meet customer needs
+     .    System is "bar-code" capable
+     .    Qualified customers can create an airway bill file  via  the
+          Company web site, which is subsequently uploaded in to the operating
+          system for processing.
+     .    System produces shipping labels and computerized airbills and
+          airline bills
+
+Licensing and Government Regulation
+
+     Allstates  is  the  holder  of Ocean Transportation  Intermediary
+License  No.  15364NF, and must be in compliance with the  regulations
+governing  such certification.  Also, Allstates must be in  compliance
+with the regulations of the Federal Aviation Administration that apply
+to  the  business  of Allstates. Allstates believes that  it  has  the
+resources,  expertise and experience to continue its  compliance  with
+all Federal agencies and regulations.
+
+     Allstates  relies  primarily on a combination  of  copyright  and
+trademark   laws,  trade  secrets,  confidentiality   procedures   and
+contractual  provisions  to  protect its proprietary  technology.  For
+example,  Allstates licenses its software pursuant to  signed  license
+agreements,  which  impose  certain  restrictions  on  the  licensees'
+ability to utilize the software. In addition, Allstates seeks to avoid
+disclosure  of  its trade secrets, including requiring  those  persons
+with   access  to  Allstates's  proprietary  information  to   execute
+confidentiality  agreements with Allstates and restricting  access  to
+Allstates's  source  code. Allstates seeks to  protect  its  software,
+documentation  and  other written materials  under  trade  secret  and
+copyright laws, which afford only limited protection.
+
+     Despite  Allstates's  efforts to protect its proprietary  rights,
+unauthorized  parties  may  attempt to  copy  aspects  of  Allstates's
+products  or to obtain and use information that Allstates  regards  as
+proprietary.  Policing  unauthorized use of  Allstates's  products  is
+difficult, and, while Allstates is unable to determine the  extent  to
+which  piracy of its software products exists, software piracy can  be
+expected  to  be a persistent problem. In addition, the laws  of  many
+countries do not protect Allstates's proprietary rights to as great an
+extent  as do the laws of the United States. There can be no assurance
+that  Allstates's means of protecting its proprietary rights  will  be
+adequate  or  that  Allstates's  competitors  will  not  independently
+develop similar technology.
+
+     To  date,  Allstates  has  not  been  notified  that  Allstates's
+products  infringe the proprietary rights of third parties, but  there
+can be no assurance that third parties will not claim infringement  by
+Allstates  with  respect  to  current or  future  products.  Allstates
+expects  that software product developers will increasingly be subject
+to  infringement claims as the number of products and  competitors  in
+Allstates's  industry segment grows and the functionality of  products
+in  different  industry segments overlaps. Any such  claims,  with  or
+without  merit, could be time-consuming, result in costly  litigation,
+cause  product  shipment  delays or require Allstates  to  enter  into
+royalty or licensing agreements. Such royalty or licensing agreements,
+if  required, may not be available on terms acceptable to Allstates or
+at  all,  which could have a material adverse effect upon  Allstates's
+business, operating results and financial condition.
+
+Competition
+
+     Allstates  competes  with other companies in the  same  business,
+some   of  which  are  much  larger  and  have  substantially  greater
+resources.   There  are  approximately  1,500  direct  competitors  of
+various  sizes throughout the country.  The methods by which Allstates
+chooses  to compete include highly skilled and experienced  upper  and
+middle management, a proprietary site-licensing program, cost control,
+professional  sales  representation,  highly  trained  operations  and
+customer  service  personnel,  employee and  customer  premium  awards
+program,   and  a  wide range of enhanced services. In  addition,  the
+integration of Audiogenesis' experience and expertise with respect  to
+its applications for inventory control provides the Company with added
+benefits  for its customers.  Allstates also owns its proprietary  and
+customized   computer  software  and  advanced  hardware.  Allstates's
+website   is  functional,  providing  for  cargo  tracking,   customer
+communication,  and  entry  of  house  airway  bills   to   qualifying
+customers.
+
+     Allstates's  major  competitors nationwide are  Federal  Express,
+BAX,  EGL  Inc.,  and United Parcel Service.  At each  of  Allstates's
+locations, there are regional carriers who have strength in the  local
+marketplace.  They, for the most part, all provide air, sea and ground
+services.   Service levels and pricing vary substantially  based  upon
+geographic and customer volume criteria.
+
+     In  order  to remain competitive, Allstates negotiates with   its
+vendors  to  meet the appropriate service and pricing  levels  in  its
+markets.  In  addition  to competitive pricing, Allstates  strives  to
+provide  its customers, with excellent service, highly trained  inside
+operations personnel, and state of the art computer services.
+
+Customers
+
+     Allstates  has a diverse customer base, with approximately  1,700
+accounts.  In fiscal 2004, no customer accounted for more than 10%  of
+revenues.   Over  the 43 years of its operations, Allstates  has  done
+business  with  over  25,000  customers.  Some  of  Allstates's  major
+customers  over  the years have been J.B. Williams, Raytheon,  Giorgio
+Perfume,  Cosmair, Ashton Tate, Merisel Corporation, Budd Corporation,
+Home  Box  Office (a division of Time-Warner), Sensormatic, AT&T,  and
+Polaris.
+
+Employees
+
+     As  of  December  8, 2004, the Company employed  a  total  of  93
+individuals.  Allstates Air Cargo, Inc. and subsidiaries accounted for
+91  employees (of which 10 are part time), including 49 in  operations
+and  customer service, 17 in sales, marketing and related  activities,
+and  25  in  administration  and finance.   The  Audiogenesis  Systems
+division  has  2 full-time employees.  Allstates's success  is  highly
+dependent  on  its ability to attract and retain qualified  employees.
+The  loss of any of the Company's senior management or other key sales
+and  marketing  personnel  could have a  material  adverse  effect  on
+Allstates's business, operating results and financial condition.
+
+Pension Plan
+
+Effective   May  1994,  the  Company  adopted  a  discretionary   non-
+standardized  401(k)  profit sharing plan.   The  terms  of  the  plan
+provide  for eligible employees ("participants") who have met  certain
+age  and service requirements to participate by electing to contribute
+up  to  the  maximum percentage allowable not to exceed the limits  of
+Internal  Revenue Code Section 401(k), 404 and 415 (the "Code").   For
+2004,  the maximum contribution allowed by the Code was the lesser  of
+100%  of  an  employees' compensation, or $13,000.   Participants  who
+attained  age 50 prior to the close of the plan year are  eligible  to
+make catch-up contributions of an additional $3,000, after the maximum
+contribution   has   been  made.   The  Company  may   make   matching
+contributions  equal to a discretionary percentage, as  determined  by
+the   Company,   up   to  6%  of  a  participants'  salary.    Company
+contributions  vest  at  the  rate of  20%  of  the  balance  at  each
+employees'  third,  fourth, fifth, sixth, and seventh  anniversary  of
+employment.  The employees' contributions are 100% vested at the  time
+of   deferral.     The   plan   also  allows  employer   discretionary
+contributions allocated in accordance with participants' compensation.
+The  Company did not make any discretionary contributions to the  plan
+for the year ended September 30, 2004.
+
+Audiogenesis Systems Division
+
+Sales of Safety Equipment.
+
+     Allstates,  trading  as Audiogenesis Systems,  operates  a  store
+which   distributes   safety  equipment   under   the   service   mark
+SafeTvend(sm) at a major pharmaceutical corporation in  the  New  York
+area.   Audiogenesis's  safety  store is  located  on  the  customer's
+premises, and sells respirators, hard hats, safety glasses, protective
+clothing,  and other similar products which are used or  worn  by  the
+customer's  employees  to help protect them from industrial  accidents
+and injuries.
+
+
+Competition
+
+     Audiogenesis's SafeTvend(sm) store is subject to competition  not
+only from companies which would offer similar services on-site at  the
+customer's   premises,   but  also  from   direct   distributors   and
+manufacturers  of  the  products which would  sell  directly  to  such
+company.   Virtually  all of the competitors have  greater  financial,
+technological, marketing and sales resources than Audiogenesis.  There
+are  numerous  organizations  of varying  sizes  that  engage  in  the
+business of customized audio-visual presentations, most of these being
+advertising  agencies and organizations of similar nature.   There  is
+intense  competition for such business from a variety of organizations
+who  have  greater financial, technical, marketing and sales resources
+than Audiogenesis.
+
+
+ITEM 2.    DESCRIPTION OF PROPERTY
+
+     Allstates  occupies approximately 7,000 square feet of  space  in
+Forked  River, New Jersey for its principal administrative, sales  and
+marketing  support and product development facility under a  ten  year
+lease.   The  Company's branch locations, which  are  located  in  the
+vicinity of major metropolitan airports, occupy approximately 1,000 to
+27,000  square  feet.  All such branch locations  are  company  leased
+properties or properties leased by licensee owners.  Terms for company
+leased  properties  generally run from one  to  seven  years  and  are
+scheduled  to expire between fiscal 2005 and fiscal 2008.   The  total
+rent  expense for company leased facilities was approximately $557,000
+during  fiscal 2004.  Allstates believes that its existing  facilities
+are adequate to support its activities for the foreseeable future.
+
+     The Company's branch locations as of September 30, 2004 were:
+
+
+     Los Angeles, California       Nashville, Tennessee
+
+     Kenilworth, New Jersey        Miami, Florida
+
+     St. Louis, Missouri           Houston, Texas
+
+     Jacksonville, Florida         Indianapolis, Indiana
+
+     Pittsburgh, Pennsylvania      Minneapolis, Minnesota
+
+     Philadelphia, Pennsylvania    Raleigh, North Carolina
+
+     Atlanta, Georgia              San Francisco, California
+
+     Baltimore, Maryland           San Diego, California
+
+     Boston, Massachusetts         Wayne, New Jersey
+
+     Chicago, Illinois             Orlando, Florida
+
+
+
+
+
+ITEM 3.  LEGAL PROCEEDINGS
+
+Environmental matter
+
+     The Company is involved in an ongoing environmental proceeding.
+In December 1996, five underground storage tanks ("UST's") and two
+above ground storage tanks were removed from a facility in which the
+Company leased office space at the time. Post-excavation sampling
+results confirmed that certain soil contamination remained present
+after the removals at the location of two of the UST's.  Also, at the
+time of the removals, free-floating groundwater contamination was
+observed in the area of these two former UST's.  During 1999, the
+Company engaged Carpenter Environmental Associates ("Carpenter")to
+prepare a Preliminary Assessment/Site Investigation Report ("PA/SI
+Report").  Carpenter's PA/SI Report stated that the chlorinated
+groundwater contamination is emanating from an off-site source.  The
+New Jersey Department of Environmental Protection approved Carpenter's
+PA/SI Report and agreed that no further investigation of the
+chlorinated solvents in the groundwater was needed.  A Remedial
+Investigation Work Plan was submitted in November 1999.  The NJDEP
+approved the work plan on November 24, 1999.  The approved work was
+performed by Carpenter in December 1999, as set forth in Carpenter's
+report dated March 13, 2000.  The Carpenter report indicated that
+benzene contamination was delineated and proposed the installation of
+one additional monitoring well and natural remediation and monitoring
+of remaining groundwater contamination.  The NJDEP approved the
+additional work and Carpenter installed and sampled the additional
+well, the results of which confirmed complete delineation of the
+benzene contamination. Concentrations of benzene in MW-3, a separate
+well that Carpenter also sampled, indicated an increase from the prior
+sampling event. The NJDEP suggested that the increase may be due to
+sediments collected with the groundwater sample, and recommended that
+the sampling be repeated.  Carpenter conducted two additional sampling
+events to confirm groundwater concentrations of benzene in Monitoring
+Well 3 ("MW-3").  The sampling results indicated that concentrations
+of benzene have sufficiently decreased to allow case closure with the
+institution of a Classification Exception Area ("CEA").  Counsel for
+Allstates has confirmed with the New Jersey Department of
+Environmental Protection ("DEP") that the sampling results
+satisfactorily demonstrate a decreasing trend in benzene
+concentrations.  At the DEP's request, Carpenter prepared a CEA
+proposal, which was submitted to the DEP on October 11, 2001.  In the
+CEA proposal, Carpenter proposed no further action for the
+groundwater.  The DEP subsequently issued a No Further Action ("NFA")
+letter for the soil and groundwater.  Pursuant to the NFA, Allstates
+is to seal the monitoring wells at the site.
+The work was unable to be completed due to site improvements installed
+by the current property owner that rendered the monitoring wells
+inaccessible.  The property owner indicated conceptual agreement to
+pay the additional costs necessary to access the wells for
+abandonment, and has reimbursed Allstates for costs incurred to
+address the issue to date.  We are awaiting written confirmation from
+the property owner of its agreement to fund the remaining work, at
+which time that work will be scheduled.
+
+     The NFA also sets forth details of the CEA prepared for the site
+that projected when remaining groundwater contaminants will have fully
+degraded to meet DEP groundwater quality standards.  Since the NFA was
+issued, the DEP's technical regulations were amended to require
+sampling at the end of the CEA period to confirm that ground water
+quality standards have been achieved.  It is unclear whether DEP will
+enforce this requirement to cases such as Allstates where an NFA was
+issued prior to promulgation of the regulations.  Since the CEA period
+has now expired, we are evaluating whether to collect a sample prior
+to abandonment of the wells.  Should these samples confirm that
+contaminants have fully degraded, the CEA would then be terminated.
+If groundwater contamination has not degraded in accordance with the
+projections, the regulations will require the submission of a biennial
+certification conforming the effectiveness of the CEA.  The biennial
+certifications will focus primarily on a confirmation by Allstates,
+based on inquiries made to local authorities, that groundwater at the
+site is not being used.  Pursuant to the 1998 Agreement of Sale with
+Father Flanagan's Boys Home, the current owner is to pay Allstates
+$3,000 per year for any reporting or monitoring associated with an
+institutional control, which includes a CEA.  This payment is to
+continue for so long as DEP requires the work or for 20 years,
+whichever period is the shortest.  We anticipate that this will cover
+the cost of the reporting.
+
+     In March 1997, Allstates made claims against liability insurance
+carriers for coverage.  The Company's counsel submitted invoices to
+the carriers in September 2003, and continues to respond to their
+requests for information.  The Company's counsel expects to meet with
+the carriers over the next several months to discuss settlement.
+
+
+Joseph M. Guido, v. Allstates WorldCargo, Inc., Sam DiGiralomo, Barton
+C. Theile, and Craig D. Stratton
+
+     On  October  14,  2004, the 56.91% majority  shareholder  of  the
+Company  (the  "Shareholder") (also employed by  the  Company  as  its
+Chairman)  commenced an action against the Company and  three  of  the
+Company's   directors,  entitled  "Joseph  M.   Guido   v.   Allstates
+WorldCargo,  Inc.,  Sam DiGiralomo, Barton C.  Theile,  and  Craig  D.
+Stratton,"  in  the  Superior Court of New Jersey, Chancery  Division,
+Ocean County, bearing Docket No. OCN- C -305-04.  (Messrs. DiGiralomo,
+Theile, and Stratton are also employed by the Company as its President
+and  Chief  Executive Officer, its Executive Vice President and  Chief
+Operating  Officer, and its Chief Financial Officer.)  The Shareholder
+alleged that in accordance with state law, on August 16, 2004, he  had
+delivered  to the Company's Secretary (1) an executed Written  Consent
+in  Lieu  of  a  Special  Meeting  of the  Stockholders  of  Allstates
+WorldCargo,  Inc. dated August 16, 2004 (the "Written  Consent"),  (2)
+Amended  and  Restated Bylaws of the Company adopted pursuant  to  the
+Written  Consent  (the  "A&R Bylaws"), and  (3)  a  draft  Information
+Statement  pursuant  to  Section 14(c) of the  1934  Act  (the  "Draft
+Information Statement").
+
+     The Shareholder alleged that pursuant to the Written Consent,  he
+had  amended the Company's bylaws to (among other things)  expand  the
+Board  of  Directors from four members to seven members, and appointed
+three  persons  (alleged to be independent) to fill the newly  created
+board  seats.   He  alleged that the Company was required  by  law  to
+comply  with his demand to notify the shareholders of his action,  and
+that  the Company's failure to do so was a violation of the  law.   He
+also  alleged that the three individual defendants, both as  directors
+and  officers, owed the Company and it shareholders certain  fiduciary
+duties and duty of loyalty to direct that "appropriate steps" be taken
+by  the  Company  to allegedly comply with New Jersey state  law  "and
+other applicable law" in response to the Written Consent.
+
+     The  Majority  Shareholder demanded temporary,  preliminary,  and
+injunctive  relief  enjoining a scheduled special Board  of  Directors
+meeting (the "Special Board Meeting") pending Company's performance of
+acts  allegedly required by New Jersey law and by the 1934  Act.   The
+Majority Shareholder also sought a permanent injunction requiring  the
+Company  and its Secretary to prepare and distribute to the  Company's
+shareholders all notices allegedly required by state and  federal  law
+in  connection with the Written Consent.  Finally, he sought entry  of
+an  Order  requiring the Company to file and serve  upon  him,  within
+seven  days  after entry of a permanent injunction, a  written  report
+setting  forth the manner and form in which the Company complied  with
+the injunctions.
+
+     The  Company  (and the three individual defendants)  opposed  the
+application  for temporary relief upon the grounds that subsequent  to
+his execution of the Written Consent, the Majority Shareholder advised
+one  of  the individual defendants that he had decided not to  proceed
+with  his  amendment of the Bylaws or his expansion of  the  Board  of
+Directors.   Defendants  also alleged that the Majority  Shareholder's
+actions  were  not  in  the best interest of  the  Company,  and  were
+motivated by self-interest, that because of such concerns, the Company
+needed  time to determine its obligations under the law, and that  the
+purpose  of  the Special Board Meeting (among others) was to  consider
+"issues  pertaining  to the request by [the Majority  Shareholder]  to
+file the Schedule 14C presented to the Secretary of the Corporation."
+
+     On October 28, 2004, the parties reached an agreement with regard
+to  some  essential terms of a settlement, pursuant to which  (1)  the
+Company's Board of Directors would not be expanded except by unanimous
+consent,  (2)  the Majority Shareholder and the individual  defendants
+would enter into a voting agreement pursuant to which each would agree
+to  vote  his  respective  shares in the Company  for  the  others  as
+directors  of  the  Company,  (3) the Company  would  enter  into  new
+employment  agreements (the precise terms of which were to  be  agreed
+upon)   with   the  individual  defendants  (the  existing  employment
+agreements being due to expire on December 31, 2004), (4) the  parties
+would  exchange general releases, and (5) the Company  would,  to  the
+extent  lawfully  required  by  the  Majority  Shareholder's  existing
+employment agreement, reimburse him for the attorneys fees he incurred
+in  connection with the action.  It was anticipated that the  complete
+terms of a Settlement would be agreed upon, and that formal settlement
+documents  would be prepared and executed.  Such formal  documentation
+is being prepared.
+
+
+
+ITEM 4.  SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+     No  matter was submitted, during the Fourth Quarter of the Fiscal
+Year  covered   by this report, to a vote of security holders  through
+solicitation of proxies  or otherwise.
+
+
+                               PART II
+
+ITEM 5.   MARKET FOR THE COMMON EQUITY AND RELATED STOCKHOLDER MATTERS
+
+     The Company's common stock has not yet been publicly traded.  The
+Company anticipates that its common stock will be listed for quotation
+on the NASD OTC Bulletin Board in the near future.
+
+ITEM 6.   SELECTED FINANCIAL DATA
+
+The following table sets forth, selected consolidated financial data
+for the Company for the five years ended September 30, 2004. The
+selected consolidated financial data for the five years are derived
+from the Company's audited consolidated financial statements. The
+consolidated financial data set forth below should be read in
+conjunction with the Company's Consolidated Financial Statements and
+related Notes and "Management's Discussion and Analysis of Financial
+Condition and Results of Operations" contained herein.
+
+                                         YEAR ENDED SEPTEMBER 30,
+                                  (in thousands, except per share data)
+
+                                 2000     2001     2002     2003    2004
+
+STATEMENT OF OPERATIONS DATA
+
+Net sales                       $33,213  $41,239   $36,403  $46,293  $54,705
+
+Income (loss) from operations     424     744      534     (326)     727
+
+Income (loss) from continuing
+operations                        87      408      136     (582)     233
+
+Net income (loss)
+                                 (62)     408      136     (582)   233
+Basic net income (loss) per
+common share                     $.00     $.01     $.00    ($.02)   $.01
+Diluted net income (loss) per
+common share                     $.00     $.01     $.00    ($.02)   $.01
+
+Weighted average
+     Common shares outstanding
+- basic                         32,510   32,510   32,510   32,510  32,510
+Weighted average
+     Common shares outstanding
+- diluted                       32,521   32,510   32,510   32,510  32,510
+
+
+BALANCE SHEET DATA:
+
+Working capital                  $  598  $ 1,316  $1,534  $1,050   $1,081
+Total assets                      7,892    7,095   8,050   8,287    9,787
+Liabilities - current             5,695    4,614   5,477   6,338    7,577
+Liabilities - long term           2,625    2,497   2,453   2,412    2,440
+Total stockholders' equity        (427)     (16)     120   (462)    (229)
+
+
+
+ITEM 7.   MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL  CONDITION
+          AND RESULTS OF OPERATIONS
+
+     The public may read and copy any materials we have filed with SEC
+at  the  SEC's  Public  Reference Room  at  450  Fifth  Street,  N.W.,
+Washington, D.C. 20549.  Information on the operation of  the   Public
+Reference  Room may be obtained by calling the SEC at  1-800-SEC-0330.
+The  SEC also maintains an internet site that contains  reports, proxy
+and  information statements, and other information  regarding  issuers
+that  file  electronically with the SEC. The  address of the  internet
+site  is  http://www.sec.gov. The public  can also contact  Mr.  Craig
+Stratton at Allstates WorldCargo, Inc., 4 Lakeside Drive South, Forked
+River,  New  Jersey,  08731,  or through   the  internet  web  address
+http://www.allstatesair.com.
+
+Results of Operations
+
+     The  following table sets forth for the periods indicated certain
+financial   information   derived  from  the  Company's   consolidated
+statement of operations expressed as a percentage of total revenues:
+
+                                          Fiscal Year Ended September 30,
+                                           2004       2003        2002
+                                         ---------------------------------
+Revenues                                  100.0%      100.0%      100.0%
+Cost of transportation                     67.7        65.0        61.3
+                                          -----       -----       -----
+Gross profit                               32.3        35.0        38.7
+
+Operating expenses:
+     Personnel costs                       11.9        14.1        15.5
+     License commissions and royalties     12.0        13.5        13.2
+     Other selling, general and
+        administrative expenses             7.1         8.1         8.5
+                                          -----       -----       -----
+Total operating expenses                   31.0        35.7        37.2
+
+Operating income                            1.3        (0.7)        1.5
+Net income/(loss)                           0.4%       (1.3)%       0.4%
+
+
+REVENUES
+
+Fiscal 2004 vs. fiscal 2003
+
+     Revenues  of the Company represent gross consolidated sales  less
+customer  discounts.   Sales for the fiscal year ended  September  30,
+2004  increased  $8,412,000, or 18.2%, to $54,705,000,  over  revenues
+earned  during  the  prior  fiscal  year  ended  September  30,  2003,
+reflecting  a higher volume of freight shipped.  Revenues earned  from
+domestic-routed   freight   increased   $9,434,000,   or   27.1%,   to
+$44,296,000, while international freight revenues decreased  from  the
+previous fiscal year by $1,022,000, or (8.9%), to $10,409,000.
+
+      The  increase  in domestic revenues earned in fiscal  2004  over
+fiscal  2003  primarily  reflects  incremental  increases  in  freight
+business at certain existing branches, an increase during the year  in
+the  number  of  branch locations, and the addition  of  a  new  large
+customer.   Furthermore, growth within the Allstates  truck  brokerage
+operation also fueled the increase in domestic sales.
+
+     The  decrease in international revenues in fiscal 2004  from  the
+previous  year  primarily reflects the approximately $1.8  million  in
+billing  in  fiscal  2003  to  one customer  for  the  arrangement  of
+international chartered aircraft.  The Company was asked to make these
+arrangements by its customer as an emergency response to  the  backlog
+of  ocean freight deliveries that resulted from the lock out  of  West
+Coast   ports  during  the  first  quarter  of  fiscal  2003.    After
+discounting  the  billing  for that charter service  in  fiscal  2003,
+international revenues would have increased by approximately $766,000.
+
+
+Fiscal 2003 vs. fiscal 2002
+
+     For  the  fiscal  year ended September 30, 2003,  total  revenues
+increased by $9,890,000, or 27.2%, to $46,293,000 compared to revenues
+earned  in  the  previous  fiscal  year  ended  September  30,   2002,
+reflecting  higher freight shipping volumes. Sales of  domestic-routed
+freight   increased  by  approximately  $6.9  million  or  24.9%,   to
+$34,862,000,   while  international  freight  revenues  increased   by
+approximately $3.0 million or 34.8%, to $11,431,000.
+
+     The  growth in revenues in fiscal 2003 as compared to fiscal 2002
+is  primarily a result of the improvement in the U.S. economy in 2003,
+the  effect of additional sales personnel hired in the second half  of
+fiscal  2002,  and the full year effect of two company  stations  that
+were opened during the third quarter of fiscal 2002.  The addition  of
+a  new licensee location during the second quarter of fiscal 2003 also
+contributed  to  the  Company's increase in  revenues.   In  addition,
+Allstates  truck  brokerage operation, which  in  previous  years  had
+exclusively  provided  logistical support for  the  Company's  freight
+forwarding  operations, began providing truckload service to  selected
+customers  in  fiscal 2003, accounting for approximately  $950,000  in
+additional revenues.
+
+     The Company's largest customer accounted for 7.9% of consolidated
+revenues  in  fiscal 2003.  In November 2003, that customer  began  to
+utilize an alternate carrier to provide freight distribution services.
+Allstates  continued  to  provide  transportation  services  to   that
+customer at a significantly reduced level.  Included in total revenues
+is  approximately  $1.8 million in billing to  one  customer  for  the
+arrangement  of  international chartered aircraft.   The  Company  was
+asked  to  make  these arrangements by its customer  as  an  emergency
+response to the backlog of ocean freight deliveries that resulted from
+the  lock  out of West Coast ports during the first quarter of  fiscal
+2003.
+
+
+
+
+GROSS PROFIT
+
+Fiscal 2004 vs. fiscal 2003
+
+     Gross  profit represents the difference between net revenues  and
+the  cost of providing transportation services.  The cost of sales  is
+composed  primarily  of amounts paid by the Company  to  carriers  and
+cartage  agents  for  the  transport of cargo.   As  a  percentage  of
+revenues,  cost of sales increased by 2.7%, to 67.7%, for  the  fiscal
+year  ended September 30, 2004 in comparison to the fiscal year  ended
+September 30, 2003.  The higher percentage of transportation costs  to
+revenues  primarily reflects increases in fuel costs  as  they  affect
+carrier rates, an increase in deferred shipments versus priority,  and
+the  addition  of new lower margin business that the Company  attained
+during  fiscal  2004.  In absolute terms, cost of sales  increased  by
+$6,971,000,  or  23.2%,  to  $37,060,000 for  the  fiscal  year  ended
+September  30, 2004 compared to the prior fiscal year, reflecting  the
+increase  in  sales.  Gross margins decreased to 32.3%  of  sales  for
+fiscal  2004.   Gross  profit increased by  $1,441,000,  or  8.9%,  to
+$17,645,000 in fiscal 2004 versus fiscal 2003.
+
+
+Fiscal 2003 vs. fiscal 2002
+
+     Cost of sales as a percentage of revenues increased by 3.7 %,  to
+65.0  %,  for the fiscal year ended September 30, 2003 as compared  to
+the  fiscal year ended September 30, 2002.  The higher cost  of  sales
+percentage  reflects  the addition of certain  lower  margin  customer
+accounts  during  the year, the low margin percentage  effect  of  the
+chartered  airline service the Company provided in October, 2002,  and
+the growth of the Company's truck brokerage business which operates at
+lower  margins than freight forwarding operations.  In absolute terms,
+cost  of  sales increased by approximately $7,776,000,  or  34.9%,  to
+$30,089,000  for the fiscal year ended September 30, 2003 compared  to
+the  fiscal  year  ended September 30, 2002, due to the  higher  sales
+volume.   Gross margins decreased to 35.0% of sales for  fiscal  2003.
+Gross  profits  increased by approximately $2,113,000,  or  15.0%,  to
+$16,204,000 for fiscal 2003 versus fiscal 2002.
+
+SELLING, GENERAL & ADMINISTRATIVE EXPENSES
+
+Fiscal 2004 vs. fiscal 2003
+
+     Selling,  general  and administrative expenses include  personnel
+costs,  licensee commissions and other costs necessary to operate  our
+business.   As  a percentage of revenues, SG&A expenses  decreased  by
+4.7%,  to  31.0%,  for  the fiscal year ended September  30,  2004  as
+compared  to the fiscal year ended September 30, 2003, reflecting  the
+increase  in  revenues  in relation to fixed operating  expenses.   In
+absolute terms, SG&A expenses increased by approximately $389,000,  or
+2.4%,  to  $16,918,000 in fiscal 2004 in comparison  to  fiscal  2003,
+primarily reflecting higher licensee commission expense.
+
+      Allstates  pays  commissions to licensees and independent  sales
+agents  as  compensation  for  generating  profits  for  the  Company.
+Licensee  commissions  and royalties pursuant to  licensee  agreements
+increased  by  approximately $260,000 in fiscal 2004 over  the  fiscal
+2003  expense.   This  primarily reflects  the  addition  of  two  new
+licensee  branch  locations and the conversion  of  one  company-owned
+branch to a licensee during the year, offset by lower gross profits at
+existing licensee branches.  Licensee commissions and royalties  as  a
+percentage of revenues decreased by 1.5%, to 12.0% of sales, in fiscal
+2004.
+
+      Personnel  costs as a percentage of sales decreased by  2.2%  in
+fiscal 2004, to 11.9% of revenues.  In absolute terms, total personnel
+related  expenses  in  fiscal  2004 approximated  fiscal  2003  costs.
+Salaries and employee benefits decreased by approximately $228,000  in
+fiscal  2004 as compared to the previous year, primarily  due  to  the
+reduction  in headcount that took place during the last six months  of
+fiscal  2003 as well as the transfer of a company-owned station  to  a
+licensee operation in February 2004.  This was offset by increases  in
+salesperson commissions and executive bonus expense in fiscal 2004  as
+a result of the increase in profit from the prior fiscal year.
+
+      Accounting  fees increased by approximately $97,000  for  fiscal
+2004 over fiscal 2003, primarily based on an under accrual of fees  as
+they  related to previous years audits.  Liability insurance  expenses
+increased  by  approximately $48,000 for fiscal 2004  as  compared  to
+fiscal   2003,  primarily  relating  to  the  Directors  and  Officers
+liability  policy that the Company initiated in the fourth quarter  of
+fiscal 2003.
+
+
+Fiscal 2003 vs. fiscal 2002
+
+     Operating expenses decreased as a percentage of revenues for  the
+fiscal year ended September 30, 2003 by 1.5%, to 35.7%, reflecting the
+increase  in  the  Company's  sales in  relation  to  fixed  operating
+expenses.   In absolute terms, SG&A expenses increased in fiscal  2003
+by $2,973,000 or 21.9%, to $16,529,000 compared to the previous fiscal
+year.  Personnel expenses, which include all employee compensation and
+benefit  costs, increased by approximately $919,000 over  fiscal  2002
+costs.  This reflects the increase in headcount during the second half
+of  fiscal  2002  resulting  from the  opening  of  two  company-owned
+stations in Florida, while adding sales and operations staff in  other
+existing  locations in an effort to bolster sales.  During  the  third
+quarter  of fiscal 2003, Allstates reduced its headcount to compensate
+for losses incurred in the first half of the fiscal year.
+
+     Licensee commissions and royalties paid pursuant to  licensee
+agreements  increased by approximately $1,497,000 for the fiscal  year
+ended  September  30,  2003 in comparison to the  prior  fiscal  year,
+reflecting  increased  gross profits at certain  licensee  operations.
+Allstates  also  has  agreements with  two  independent  sales  agents
+whereby  the  Company pays a percentage of gross profits  earned  from
+revenues they generate, and which accounted for approximately $144,000
+in additional expense over the previous fiscal year.
+
+     Facilities expenses increased by approximately $169,000 in fiscal
+2003 over fiscal 2002, primarily due to increased rental costs related
+to  the  opening of the two Florida locations.  One of the two Florida
+locations provides warehousing services to one of its customers.   Per
+an  agreement with that customer, the station is guaranteed a  minimum
+profit,  which  fully  covers  the  Company's  cost  of  renting  that
+warehouse  space.   Insurance  expense, including  cargo  and  general
+liability, increased by approximately $98,000 reflecting the  increase
+in  revenues and payroll expense during the fiscal year, by which  our
+premiums   are   calculated.   Automobile  allowances   increased   by
+approximately $73,000 during fiscal 2003, reflecting the  increase  in
+saleperson headcount, offset in part by lower depreciation expense  as
+Allstates  has  been gradually disposing its company owned  automobile
+fleet in favor of paying an allowance for the business use of personal
+cars.   Bad  debt  expense  increased  by  approximately  $60,000   in
+comparison  to the prior fiscal year, primarily reflecting the  higher
+revenues.
+
+
+Operating (loss)/income
+
+      Income from operations increased by approximately $1,052,000 for
+the  fiscal  year  ended September 30, 2004, to $727,000,  versus  the
+fiscal  year  ended September 30, 2003, due to the increase  in  sales
+volume  and  the  reduction of operating expenses as a  percentage  of
+revenues.   The operating margin increased by 2.0% during fiscal  year
+2004.
+
+     Income  from  operations decreased during the fiscal  year  ended
+September 30, 2003 by approximately $859,000, to a loss of ($326,000),
+in  comparison  to the fiscal year ended September 30,  2002,  due  to
+higher operating expenses incurred.  The operating margin decreased by
+2.2% during the fiscal year 2003.
+
+
+
+Interest expense
+
+     Allstate's interest expense obligation consists primarily of  the
+note  payable  to  the Estate of A.G. Hoffman, Jr.  that  the  Company
+assumed  from Joseph M. Guido as provided in the terms of  the  August
+24,  1999  reverse acquisition, as well as on borrowings  against  the
+line  of  credit established with the bank.  Interest on the note  was
+approximately  $168,000  and $170,000 during fiscal  2004  and  fiscal
+2003, respectively.
+
+     Interest  expense  decreased by approximately $9,000  during  the
+fiscal year ended September 30, 2004 in comparison to the prior  year,
+reflecting  a  lower average borrowing rate.  Interest expense  during
+the  fiscal  year  ended September 30, 2003 was  consistent  with  the
+previous  fiscal  year, totaling approximately  $226,000.   While  the
+average  borrowing rate of interest during fiscal 2003 was lower  than
+fiscal  2002,  the average outstanding borrowings during  fiscal  2003
+were higher than the previous fiscal year.
+
+
+Loss on Sale of Assets
+
+      Allstates realized a gain on the sales of assets in fiscal  2004
+of  approximately $3,000, versus a loss of approximately ($27,000)  in
+fiscal   2003,   primarily  reflecting  the  sale  of  company   owned
+automobiles.
+
+
+Other income/(expense)
+
+      During  the  fiscal year ended September 30, 2003,  the  Company
+incurred  a charge of approximately $372,000 for the partial write-off
+of  a  third party loan.  Per an agreement with that party,  Allstates
+agreed  to  accept  $330,000  as full payment  on  the  $702,000  loan
+receivable.
+
+
+Net income/(loss)
+
+     Net income before taxes increased by approximately $1,472,000, to
+$522,000 for the fiscal year ended September 30, 2004, compared to the
+previous fiscal year then ended.  The Company recorded a tax provision
+of approximately $289,000 for fiscal 2004.  Net income for fiscal 2004
+was $233,000 versus a net loss of ($582,000) in the prior year.
+
+
+       The   net   income  before  taxes  decreased  by  approximately
+$1,263,000,  to  a  net loss of ($950,000) for the fiscal  year  ended
+September  30,  2003,  in comparison to the prior  fiscal  year  ended
+September  30, 2002.  The Company recorded a tax benefit  of  $368,000
+for  fiscal 2003.  The net loss for fiscal 2003 was ($582,000)  versus
+net income of $136,000 in the previous fiscal year.
+
+
+Liquidity and Capital Resources
+
+      Net  cash  provided  by operating activities  was  approximately
+$18,000 for the fiscal year ended September 30, 2004 compared  to  net
+cash  provided by operations of approximately $749,000 for the  fiscal
+year  ended September 30, 2003.  In fiscal 2004, cash was provided  by
+the net income of the  Company, offset by  the net effect of increases
+in  accounts  receivable and  accounts payable that reflect the growth
+in fiscal  2004 volume  over  the previous year.  In fiscal 2003, cash
+was  primarily  provided by the receipt of loan funds due from a third
+party,  a refund of  federal tax payments, and an increase in accounts
+payable,  offset by an increase in accounts receivable.
+
+At  September  30,  2004, the Company had cash  of  $114,000  and  net
+working capital of $1,081,000, compared with cash of $517,000 and  net
+working  capital  of $1,050,000 respectively, at September  30,  2003.
+The increase in working capital at September 30, 2004 in comparison to
+September  30,  2003 is primarily attributable to  the  Company's  net
+income  during the fiscal year, offset by payments made in  connection
+with a licensee agreement that Allstates entered in to in fiscal 2004.
+During  the  first quarter of fiscal 2004, Allstates  entered  into  a
+licensee agreement with another party that would result in that  party
+owning the rights to three licensee operations commencing January  31,
+2004.   As part of the agreement, Allstates WorldCargo paid a  sum  of
+$300,000  to  the  licensees  as  a  start-  up  fee.   Allstates  has
+capitalized  this  expenditure  as a leasehold  improvement  and  will
+depreciate it over the ten- year life of the contract.
+
+     In  addition to the leasehold improvement payment, the  Company's
+other  investing  activities were primarily comprised of  expenditures
+for  capital  equipment, primarily representing purchases of  computer
+hardware  and  software.   These  capital  expenditures  amounted   to
+approximately $95,000 during the fiscal year ended September 30, 2004,
+while  proceeds  from  the sale of company-owned  automobiles  totaled
+approximately $49,000.  For the fiscal year ended September 30,  2003,
+capital  expenditures totaled approximately $106,000.   Proceeds  from
+the  sale  of  fixed  assets, primarily of company-owned  automobiles,
+amounted to approximately $37,000.
+
+     The Company has a commercial line of credit with a bank, pursuant
+to  which the Company may borrow up to $2,000,000, based on a  maximum
+of  70%  of eligible accounts receivable.  Per the agreement, interest
+on  outstanding borrowings accrues at the Wall Street Journal's  prime
+rate of interest (4.75% at September 30, 2004).  The interest rate  is
+predicated on the Company maintaining an average compensating  account
+balance  in a non-interest bearing account equal to at least $230,000.
+If such average compensating balances are not maintained, the interest
+rate   will   increase  by  1%  over  the  rate  currently   accruing.
+Outstanding borrowings on the line of credit at September 30, 2004 and
+2003 were $1,100,000 and $1,150,000, respectively.
+
+     In  September, 2000, Allstates extended an operating loan  to  an
+unrelated   freight  and  warehouse  services  company,  Q   Logistics
+Solutions,  Inc.  ("QLS"), as part of an agreement  that  the  Company
+entered  into  to  provide customer invoicing and vendor  disbursement
+services.   The loan was secured by a $750,000 promissory note  signed
+by  the  borrower, and for which a Form UCC-1 financing statement  was
+filed.   In  February 2001, QLS filed for Chapter 11 protection  under
+the  U.S.  bankruptcy  laws.  Pursuant to the bankruptcy  proceedings,
+another  company, unrelated to Allstates WorldCargo,  Inc.,  purchased
+the  assets  of  QLS  in  May 2001.  Allstates  had  outstanding  loan
+advances of approximately $702,000 to QLS prior to the purchase.  As a
+contingency  of  that purchase, Allstates entered in to  an  agreement
+with  the  other  company whereby Allstates assigned  the  Form  UCC-1
+filing  to  them in exchange for their promissory note, secured  by  a
+personal guarantee made by an officer of that company, to pay the full
+loan  amount  of  approximately $702,000, plus 9%  interest  over  six
+months,  beginning  in  April  2001.  The other  company  subsequently
+defaulted on the loan after having made no payments to Allstates.  The
+Company  filed  suit against the other company and the  guarantor  for
+breach  of contract, and subsequently the parties signed a Stipulation
+of Settlement whereby Allstates received a judgement against the other
+company  for  the full amount plus interest and attorney's  fees.   An
+$80,000 payment in lieu of the personal guarantee was placed in escrow
+pending  legal  review of documentation supplied to the  Company.   In
+January,  2003,  the parties came to an agreement  whereby  the  other
+company  would  pay Allstates a total of $330,000 in full  settlement.
+Payments   were   scheduled  to  be  made  over  four  equal   monthly
+installments at $82,500 per month, including the release of the escrow
+funds.    All  payments  were  received by  the  Company  as  per  the
+schedule.
+
+
+
+Forward Looking Statements
+
+The Company is making this statement in order to satisfy the "safe
+harbor" provisions contained in the Private Securities Litigation
+Reform Act of 1995.  The statements contained in all parts of this
+document (including the portion, if any, appended to the Form 10-K)
+including, but not limited to, those relating to the availability of
+cargo space; the Company's plans for, effects, results and expansion
+of international operations and agreements for international cargo;
+future international revenue and international market growth; the
+future expansion and results of the Company's terminal network; plans
+for local delivery services and truck brokerage; future improvements
+in the Company's information systems and logistic systems and
+services; technological advancements; future marketing results;
+construction of the new facilities; the effect of litigation; future
+costs of transportation; future operating expenses; future margins;
+any seasonality of the Company's business; future dividend plans;
+future acquisitions and the effects, benefits, results, terms or other
+aspects of any acquisition; Ocean Transportation Intermediary License;
+ability to continue growth and implement growth and business strategy;
+the ability of expected sources of liquidity to support working
+capital and capital expenditure requirements; future expectations; and
+any other statements regarding future growth, future cash needs,
+future terminals, future operations, business plans, future financial
+results, financial targets and goals; and any other statements which
+are not historical facts are forward-looking statements. When used in
+this document, the words "anticipate," "estimate," "expect," "may,"
+"plans," "project" and similar expressions are intended to be among
+the statements that identify forward-looking statements. Such
+statements involve risks and uncertainties, including, but not limited
+to, those relating to the Company's dependence on its ability to
+attract and retain skilled managers and other personnel; the intense
+competition within the freight industry; the uncertainty of the
+Company's ability to manage and continue its growth and implement its
+business strategy; the Company's dependence on the availability of
+cargo space to serve its customers; the effects of regulation; results
+of litigation; the Company's vulnerability to general economic
+conditions; the control by the Company's principal shareholder; risks
+of international operations; risks relating to acquisitions; the
+Company's future financial and operating results, cash needs and
+demand for its services; and the Company's ability to maintain and
+comply with permits and licenses, as well as other factors detailed in
+this document and the Company's other filings with the Securities and
+Exchange Commission. Should one or more of these risks or
+uncertainties materialize, or should underlying assumptions prove
+incorrect, actual outcomes may vary materially from those indicated.
+The Company undertakes no responsibility to update for changes related
+to these or any other factors that may occur subsequent to this
+filing.
+
+
+
+
+ITEM 8.     FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+
+         ALLSTATES WORLDCARGO, INC. AND SUBSIDIARIES
+
+                    FINANCIAL STATEMENTS
+       For the Years Ended September 30, 2004 and 2003
+
+
+
+                        CONTENTS
+                                                  Page
+
+INDEPENDENT AUDITORS' REPORT                              F1
+
+FINANCIAL STATEMENTS
+
+ Consolidated Balance Sheets                            F2 -F3
+
+ Consolidated Statements of Income (Loss)                 F4
+
+ Consolidated Statements of Earnings Per Share            F5
+
+ Consolidated Statements of Stockholders' Equity(Deficit) F6
+
+ Consolidated Statements of Cash Flows                    F7
+
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS          F8 - F17
+
+
+
+<PAGE>
+
+
+
+                INDEPENDENT AUDITORS' REPORT
+
+
+
+To the Board of Directors
+Allstates WorldCargo, Inc. and Subsidiaries
+
+
+We have audited the accompanying consolidated balance sheets
+of   Allstates   WorldCargo,  Inc.   and   Subsidiaries   (a
+corporation),  as of September 30, 2004 and  2003,  and  the
+related   consolidated  statements  of  net  income  (loss),
+earnings  per share, stockholders' deficit, and  cash  flows
+for  the  years  then  ended.  These consolidated  financial
+statements  (see  Note  1)  are the  responsibility  of  the
+Company's  management.  Our responsibility is to express  an
+opinion on these consolidated financial statements based  on
+our audit.
+
+We  conducted our audit in accordance with the standards  of
+the   Public  Company  Accounting  Oversight  Board  (United
+States).   Those standards require that we plan and  perform
+the  audit to obtain reasonable assurance about whether  the
+consolidated  financial  statements  are  free  of  material
+misstatement.  An audit includes examining, on a test basis,
+evidence  supporting  the amounts  and  disclosures  in  the
+consolidated  financial statements.  An audit also  includes
+assessing  the  accounting principles used  and  significant
+estimates  made  by  management, as well as  evaluating  the
+overall  financial statement presentation.  We believe  that
+our audit provides a reasonable basis for our opinion.
+
+In   our  opinion,  the  consolidated  financial  statements
+referred  to above present fairly, in all material respects,
+the consolidated financial position of Allstates WorldCargo,
+Inc.  and  Subsidiaries, as of September 30, 2004 and  2003,
+and  the results of their operations and cash flows for  the
+years  then  ended in conformity with accounting  principles
+generally accepted in the United States of America.
+
+
+
+
+
+Toms River, New Jersey
+December 9, 2004
+
+
+
+
+
+                              F-1
+<PAGE>
+
+ALLSTATES WORLDCARGO, INC. AND SUBSIDIARIES
+Consolidated Balance Sheets
+September 30, 2004 and 2003
+
+Assets
+<TABLE>
+<S>                                                         <C>           <C>
+
+                                                                2004          2003
+                                                                ----          ----
+Current Assets
+  Cash                                                       $    114,363  $   516,639
+  Accounts Receivable, net of allowance for doubtful
+    accounts of $250,394 and $229,364, respectively             8,073,391    6,226,209
+  Inventories                                                      30,027       28,644
+  Prepaid Expenses and Other Assets                                89,081      126,547
+  Deferred Income Taxes - Current Portion                         351,000      490,000
+                                                              ------------  -----------
+    Total Current Assets                                        8,657,862    7,388,039
+                                                              ------------  -----------
+PROPERTY, PLANT AND EQUIPMENT,
+    net of accumulated depreciation                               507,873      325,562
+                                                              ------------  -----------
+INTANTIBLE AND OTHER ASSETS
+  Deposits                                                         33,371       38,571
+  Loans Receivable                                                 52,853          -
+  Goodwill, including acquisition costs,
+    net of accumulated amortization                               535,108      535,108
+                                                              ------------  -----------
+    Total Other Assets                                            621,332      573,679
+                                                              ------------  -----------
+Total Assets                                                 $  9,787,067  $ 8,287,280
+                                                              ============ ============
+</TABLE>
+            See accompanying notes and independent auditors' report
+
+                                            F2
+<PAGE>
+
+ALLSTATES WORLDCARGO, INC. AND SUBSIDIARIES
+Consolidated Balance Sheets
+September 30, 2004 and 2003
+
+Liabilities and Stockholders' Deficit
+<TABLE>
+<S>                                                     <C>            <C>
+
+                                                              2004          2003
+Current Liabilities                                           ----          ----
+  Accounts Payable                                       $ 5,274,000    $ 4,336,623
+  Accrued Expenses                                         1,178,377        823,029
+  Short-Term Bank Borrowings Under Line of Credit          1,099,500      1,149,500
+  Current Portion of Long Term Debt                           25,000         28,836
+                                                          ----------      ---------
+    Total Current Liabilities                              7,576,877      6,337,988
+                                                          ----------      ---------
+LONG TERM LIABILITIES
+Deferred Tax Liability - Non-current portion                  78,000         25,000
+Long-Term Portion of Notes Payable                         2,361,730      2,386,730
+                                                          ----------      ---------
+    Total Long-Term Liabilities                            2,439,730      2,411,730
+                                                          ----------      ---------
+    Total Liabilities                                     10,016,607      8,749,718
+                                                          ----------      ---------
+STOCKHOLDERS' EQUITY
+  Common Stock, $.0001 par value, 50,000,000 shares
+    authorized,  32,509,872 shares issued
+    and outstanding                                            3,251          3,251
+  Retained Deficit                                          (232,791)      (465,689)
+                                                          ----------      ---------
+    Total Stockholders' Deficit                             (229,540)      (462,438)
+                                                          ----------      ---------
+Total Liabilities and Stockholders' Deficit              $ 9,787,067    $ 8,287,280
+                                                          ==========      =========
+
+</TABLE>
+            See accompanying notes and independent auditors' report
+
+                                      F3
+<PAGE>
+ALLSTATES WORLDCARGO, INC. AND SUBSIDIARIES
+Consolidated Statements of Income (Loss)
+For the Fiscal Years Ended September 30, 2004 and 2003
+
+<TABLE>
+<S>                                                         <C>            <C>
+                                                                 2004           2003
+                                                                 ----           ----
+NET SALES                                                    $ 54,705,311    $ 46,293,052
+COST OF SALES                                                  37,060,406      30,089,183
+                                                              ------------   ------------
+    Gross Profit                                               17,644,905      16,203,869
+
+OPERATING EXPENSES
+Selling, General and Administrative                            16,918,055      16,529,442
+                                                             ------------    ------------
+    Income (Loss) from Operations                                 726,850        (325,573)
+                                                              ------------   ------------
+OTHER INCOME (EXPENSE)
+  Interest Income                                                     -               613
+  Interest Expense                                               (217,367)       (226,714)
+  Gain/(Loss)on Sale of Equipment                                   3,071        ( 26,534)
+  Other Income (Expense)                                            9,093        (371,916)
+                                                              ------------   ------------
+  Total Other Income (Expense)                                   (205,203)       (624,551)
+                                                              ------------   ------------
+    Income (Loss) Before Tax Provision                            521,647        (950,124)
+
+Provision for Income Taxes                                        288,749        (367,833)
+                                                              ------------   ------------
+    Net Income (Loss) Applicable to Common Shareholders      $    232,898        (582,291)
+                                                              ============   ============
+
+</TABLE>
+            See accompanying notes and independent auditors' report
+
+                                            F4
+<PAGE>
+
+ALLSTATES WORLDCARGO, INC. AND SUBSIDIARIES
+Consolidated Statements of Earnings Per Share
+For the Fiscal Years Ended September 30, 2004 and 2003
+<TABLE>
+<S>                                                         <C>            <C>
+
+                                                                 2004           2003
+                                                                 ----           ----
+
+EARNINGS PER SHARE - BASIC
+  Net Income (Loss) Applicable to Common Shareholders        $     232,898     ( 582,291)
+  Per Common Share - Basic                                   $        0.01  $  (    0.02)
+                                                              ============   ============
+Shares Used in Per Share Calculation - Basic                    32,509,872    32,509,872
+                                                              ============   ============
+
+Earnings Per Share - Diluted
+  Net Income (Loss) Applicable to Common Shareholders        $     232,898     ( 582,291)
+
+  Per common share - diluted                                 $        0.01  $  (    0.02)
+                                                              ============   ============
+Shares Used in Per Share Calculation - Diluted                  32,509,872    32,509,872
+                                                              ============   ============
+
+</TABLE>
+            See accompanying notes and independent auditors' report
+
+                                            F5
+<PAGE>
+
+
+ALLSTATES WORLDCARGO, INC. AND SUBSIDIARIES
+Consolidated Statements of Stockholders' Equity (Deficit)
+For the Fiscal Years Ended September 30, 2004 and 2003
+<TABLE>
+<S>                        <C>        <C>       <C>            <C>        <C>
+                               Common Stock
+                                                 Other          Retained    Total
+                            Number of            Comprehensive  Earnings  Stockholders'
+                            Shares     Par Value Income (Loss) (Deficit)  Equity (Deficit)
+                            ---------  --------- ------------- ---------- ----------------
+Balance at
+ September 30, 2002         32,509,872 $3,251  $     -      $   116,602    $ 119,853
+
+Consolidated net loss
+ for the fiscal year
+ ended September 30, 2003                                      (582,291)   ( 582,291)
+                            ---------- ------- ------------   ---------- -------------
+Balance at
+ September 30, 2003         32,509,872 $3,251  $     -      $  (465,689)  $( 462,438)
+
+Consolidated net gain
+ for the fiscal year
+ ended September 30, 2004                                       232,898      232,898
+                            ---------- ------- ------------   ---------- -------------
+Balance at
+ September 30, 2004         32,509,872 $3,251  $     -      $  (232,791)  $( 229,540)
+                            ========== ======= ============   =========== =============
+
+
+</TABLE>
+            See accompanying notes and independent auditors' report
+
+                                   F6
+
+<PAGE>
+
+ALLSTATES WORLDCARGO, INC. AND SUBSIDIARIES
+Consolidated Statements of Cash Flows
+For the Fiscal Years Ended September 30, 2004 and 2003
+<TABLE>
+<S>                                                                  <C>          <C>
+                                                                        2004          2003
+Cash Flows From Operating Activities:                                   ----          -----
+ Net Income (loss) Applicable to Common Shareholders                  $   232,898  $ (582,291)
+ Adjustments to reconcile net income (loss) applicable to
+   common shareholders to net cash provided
+   by operating activities:
+    Depreciation                                                          167,202     185,728
+    Amortization                                                             -          1,166
+    Provision for bad debts                                               187,999     182,379
+    (Gain)/Loss on Sale of Equipment                                       (3,071)     26,534
+    (Increase) Decrease in:
+      Accounts Receivable                                               (2,035,182)  (655,856)
+      Inventories                                                         (  1,383)  (  4,432)
+      Prepaid Expenses and Other Assets                                   ( 15,386)   852,366
+      Deferred Tax Asset                                                   139,000   (420,001)
+    Increase (Decrease) in:
+      Accounts Payable                                                     937,377  1,186,058
+      Accrued Expenses                                                     355,348   ( 23,146)
+      Deferred Tax Liability                                                53,000        -
+                                                                         ----------   ---------
+        Net Cash Provided From Operating Activities                         17,802    748,505
+                                                                         ----------   ---------
+Cash Flows From Investing Activities:
+  Purchase of Equipment                                                   (395,292)   (106,344)
+  Proceeds from Sale of Equipment                                           48,850      36,732
+  Deposits                                                                   5,200    (  3,693)
+                                                                         ----------   ---------
+        Net Cash Used by Investing Activities                             (341,242)   ( 73,305)
+                                                                         ----------   ---------
+Cash Flows From Financing Activities:
+  New borrowings:
+    Short-Term                                                             200,000     999,500
+    Long-Term
+  Debt reduction:
+    Short-Term                                                          (  250,000) (1,250,000)
+    Long-Term                                                           (   28,836)   ( 81,338)
+                                                                         ----------   ---------
+        Net Cash Used by Financing Activities                           (   78,836)  ( 331,838)
+                                                                         ----------   ---------
+Net Increase (Decrease) in Cash and Cash Equivalents                    (  402,276)     343,362
+
+Cash and Cash Equivalents, Beginning of Year                               516,639     173,277
+                                                                         ----------   ---------
+Cash and Cash Equivalents, End of Year                                 $   114,363     516,639
+                                                                         ==========   =========
+</TABLE>
+            See accompanying notes and independent auditors' report
+
+                                     F7
+
+<PAGE>
+
+         ALLSTATES WORLDCARGO, INC. AND SUBSIDIARIES
+       NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+                 September 30, 2004 and 2003
+
+
+NOTE 1 - ORGANIZATION AND NATURE OF BUSINESS
+
+     Nature of Operations
+
+     On   August   24,  1999,  Audiogenesis  Systems,   Inc.
+     (Audiogenesis), entered into a reverse acquisition with
+     Allstates   Air   Cargo,  Inc.  and  its   subsidiaries
+     (Allstates).  On August 24, 1999, Allstates Air  Cargo,
+     Inc.  became a wholly owned subsidiary of Audiogenesis.
+     On November 4, 1999, Audiogenesis Systems, Inc. filed a
+     Certificate   of   Amendment  to  the  Certificate   of
+     Incorporation,   officially  changing   its   name   to
+     Allstates WorldCargo, Inc. (WorldCargo).  As  a  result
+     of  this transaction, the sole shareholder of Allstates
+     Air   Cargo,  Inc.  became  a  55.37%  shareholder   of
+     WorldCargo.  Management has elected to utilize the  new
+     name (Allstates WorldCargo, Inc. and Subsidiaries)  for
+     purposes  of these financial statements.  The  entities
+     that  are  included  in  these  consolidated  financial
+     statements are as follows:
+
+     Allstates   WorldCargo,  Inc.  (formerly   Audiogenesis
+     Systems,  Inc.)  - WorldCargo was incorporated  in  the
+     State  of New Jersey on January 14, 1997, as the result
+     of  a  reverse  acquisition by Genesis Safety  Systems,
+     Inc.   The  Company's  operations  include  sales   and
+     distribution of safety equipment, development of audio-
+     visual products, including safety training program  and
+     sales  and  marketing presentations, development  of  a
+     device  to  treat  tinnitus,  and  development  of   an
+     echolocation  device  to  assist  sighted  persons   in
+     conditions  of  low  visibility  and  the  blind.   The
+     Company intends to defer any further development of the
+     tinnitus  device, but continues to pursue opportunities
+     concerning  the  device.  The Company  has  ceased  all
+     efforts  concerning the echolocation  device,  and  has
+     terminated  its  license for the intellectual  property
+     underlying the device.
+
+     Biowaste   Technologies  Systems,   Inc.   -   Biowaste
+     Technologies Systems, Inc. is a wholly owned subsidiary
+     of WorldCargo.  Biowaste was formed on July 1, 1988 for
+     the   purpose  of  engaging  in  the  business  of  the
+     management  of infectious waste.  Biowaste  is  in  the
+     developmental stage, and no revenues have been produced
+     to  date.  Presently, such subsidiary is inactive,  and
+     the  Company  does not anticipate that it  will  become
+     active in the near future.
+
+     Allstates  Air Cargo, Inc. - Allstates Air Cargo,  Inc.
+     was  incorporated in the state of New Jersey on October
+     3,   1962.    The   Company   provides   domestic   and
+     international    airfreight    forwarding     services.
+     Allstates maintains operating facilities throughout the
+     United  States  and  has agents  in  Europe  and  South
+     America.
+
+     Allstates  Allcargo  (US), Inc.  -  Allstates  Allcargo
+     (US),  Inc.  is a wholly owned subsidiary of  Allstates
+     Air  Cargo,  Inc. Allstates Allcargo (US),  Inc.  owned
+     100%  of  Allstates Allcargo (UK), Ltd., a  corporation
+     organized  under  the  laws of  England  prior  to  the
+     dissolution of Allstates Allcargo (UK), Ltd. during the
+     year ended September 30, 2000.  All appropriate foreign
+     currency  translation adjustments have  been  made  for
+     purposes of these financial statements.
+
+     Allstates  Logistics, Inc. - Allstates Logistics,  Inc.
+     is  also  a  wholly owned subsidiary of  Allstates  Air
+     Cargo,  Inc.   Allstates Logistics was incorporated  in
+     the  State of New Jersey in December 1997, and provides
+     ocean freight services to its customers.
+
+     GTD   Logistics,  Inc.  -  GTD  Logistics,   Inc.   was
+     incorporated in the State of New Jersey on October  27,
+     1998.   GTD  Logistics is a wholly owned subsidiary  of
+     Allstates Air Cargo, Inc.  GTD Logistics is also in the
+     business of freight forwarding.
+
+                               F-8
+<PAGE>
+         ALLSTATES WORLDCARGO, INC. AND SUBSIDIARIES
+       NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+                 September 30, 2004 and 2003
+
+
+NOTE 1 - ORGANIZATION AND NATURE OF BUSINESS (Continued)
+
+     e-tail  Logistics,  Inc. - e-tail Logistics,  Inc.  was
+     incorporated in the State of New Jersey on February 11,
+     2000.   e-tail Logistics is a majority owned subsidiary
+     of WorldCargo.
+
+     Reverse Acquisition
+
+     For    purposes   of   these   consolidated   financial
+     statements,  the purchase of Allstates Air Cargo,  Inc.
+     by  Allstates WorldCargo, Inc. is treated as a  reverse
+     acquisition under the purchase method of accounting, as
+     outlined in Accounting Principles Board Opinion No. 16.
+     For  accounting purposes, Allstates Air Cargo, Inc.  is
+     considered the acquirer in the reverse acquisition.
+
+NOTE 2 - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+     Principles of Consolidation
+
+     For purposes of the accompanying consolidated financial
+     statements, Allstates Air Cargo, Inc. is considered the
+     accounting  "Parent" company and Allstates  WorldCargo,
+     Inc.  is  considered  a subsidiary.   Therefore,  these
+     consolidated financial statements include the  combined
+     assets and liabilities of Allstates Air Cargo, Inc. and
+     its  subsidiaries as of September 30,  2004  and  2003.
+     The   consolidated  statements  of  net  income  (loss)
+     include the income and expenses of Allstates Air Cargo,
+     Inc. and its subsidiaries for the years ended September
+     30, 2004 and 2003.  All material intercompany payables,
+     receivables, revenues and expenses have been eliminated
+     for purposes of this consolidation.
+
+     Use of Estimates
+
+     The   preparation   of   the   consolidated   financial
+     statements  in  conformity with  accounting  principles
+     generally  accepted  in the United  States  of  America
+     requires  management to make estimates and  assumptions
+     that  affect  the  amounts reported  in  the  financial
+     statements  and  accompanying  notes.   Actual  results
+     could differ from those estimates.
+
+     Concentration of Credit Risk
+
+     The  Company maintains cash balances at several  banks.
+     Accounts at each institution are insured by the Federal
+     Deposit  Insurance Corporation (FDIC) up  to  $100,000.
+     At  varying times during the years ended September  30,
+     2004  and  2003,  the Company had  a  cash  balance  on
+     deposit  with  one  bank  that  exceeded  the  $100,000
+     balance insured by the FDIC.  Management considers  the
+     risk of loss to be minimal.
+
+     Cash Equivalents
+
+     For  purposes  of the consolidated statements  of  cash
+     flows,   the   Company  considers  all  highly   liquid
+     investments with original maturities of three months or
+     less to be cash equivalents.
+
+     Fair Value of Consolidated Financial Statements
+
+     The  carrying  values  of  cash,  accounts  receivable,
+     accounts  payable,  accrued  expenses,  taxes  payable,
+     notes    payable   and   other   current    liabilities
+     approximates fair value because of the relatively short
+     maturity of these instruments.
+
+                              F-9
+<PAGE>
+         ALLSTATES WORLDCARGO, INC. AND SUBSIDIARIES
+       NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+                 September 30, 2004 and 2003
+
+
+NOTE   2   -  SUMMARY  OF  SIGNIFICANT  ACCOUNTING  POLICIES
+(Continued)
+
+     Inventories
+
+     For  both  financial reporting and income tax purposes,
+     inventory  is  stated  on  the  cost  basis.   Cost  is
+     determined using the first-in, first-out method.
+
+     Depreciation
+
+     Property,  plant and equipment consist  principally  of
+     building  and  improvements,  vehicles,  computers  and
+     software, office equipment, and furniture and  fixtures
+     which  are stated at historical cost.  Depreciation  is
+     provided on the straight-line method over the estimated
+     useful  lives of the assets, which are generally  three
+     to  fifteen  years.  Expenditures for  maintenance  and
+     repairs,  which do not extend the economic useful  life
+     of  the  related assets, are charged to  operations  as
+     incurred.  Gains or losses on disposal of equipment are
+     reflected   in   the  statements  of   income   (loss).
+     Depreciation expense for the years ended September  30,
+     2004 and 2003 was $167,202 and $185,728, respectively.
+
+     Income Taxes
+
+     The  Company  follows the provisions  of  Statement  of
+     Financial Accounting Standards No. 109, "Accounting for
+     Income   Taxes"   (SFAS  109).    SFAS   109   requires
+     recognition of deferred tax liabilities and assets  for
+     the  expected  future tax consequences of  events  that
+     have  been included in the financial statements or  tax
+     returns.   Under this method, deferred tax  liabilities
+     and  assets  are  determined based  on  the  difference
+     between the financial statement and tax bases of assets
+     and  liabilities using enacted tax rates in effect  for
+     the  year  in  which the differences  are  expected  to
+     reverse.
+
+     Advertising
+
+     The  Company  expenses advertising costs  as  they  are
+     incurred.  Advertising expenses  for  the  years  ended
+     September  30, 2004 and 2003 were $41,217 and  $28,121,
+     respectively.
+
+     Revenue Recognition
+
+     Revenues are recognized at the time the freight departs
+     the  terminal  of  origin.   This  method  approximates
+     recognizing revenues when shipment is completed.
+
+     Earnings per Share
+
+     The  Company adopted Statement of Financial  Accounting
+     Standards No. 128, "Earnings per Share" (SFAS No.  128)
+     which   establishes   standards   for   computing   and
+     presenting earnings per share ("EPS") and requires  the
+     presentation  of  both basic and  diluted  EPS.   As  a
+     result,  primary  and  fully  diluted  EPS  have   been
+     replaced by basic and diluted EPS. EPS is calculated by
+     dividing  net income by the weighted-average number  of
+     outstanding shares of Common Stock for each year.
+
+     Bad Debts
+
+     The  Company  uses the allowance method to account  for
+     uncollectible  accounts receivable.  The allowance  for
+     doubtful  accounts is based on prior years'  experience
+     and  is  estimated by management.  Bad debt  recoveries
+     are  charged against the allowance account as realized.
+     Bad debt expense for the years ended September 30, 2004
+     and 2003 was $187,999 and $182,379, respectively.
+
+                             F-10
+<PAGE>
+         ALLSTATES WORLDCARGO, INC. AND SUBSIDIARIES
+       NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+                 September 30, 2004 and 2003
+
+NOTE 3 - PROPERTY, PLANT AND EQUIPMENT
+
+     Property, plant and equipment are summarized  by  major
+     classifications as follows:
+
+                               2004            2003
+
+Leasehold
+Equipment                 $361,835            $  48,062
+
+Vehicles                    56,525              315,789
+
+Equipment and
+Software                   902,192              857,239
+
+Furniture and
+Fixtures                    47,542               47,542
+                        ----------              ---------
+                         1,368,094              1,268,632
+Less Accumulated
+Depreciation               860,221                943,070
+                        ----------              ---------
+                        $  507,873             $  352,562
+                        ==========              =========
+
+
+
+NOTE 4 - AMORTIZATION OF GOODWILL AND ACQUISITION COSTS
+
+     Commencing  with the fiscal year beginning  October  1,
+     2001,  the  Company implemented Statement of  Financial
+     Accounting Standards Statement No. 142, "Accounting for
+     Goodwill and Intangible Assets", which no longer allows
+     for  the  amortization of goodwill. The  new  statement
+     requires  the  Company to conduct  an  annual  goodwill
+     impairment test and write off any decrease in the  fair
+     value  of  the goodwill in the period of such  declined
+     value.  Pursuant  to  the  Company's  impairment  tests
+     conducted  for the years ended September 30,  2004  and
+     2003,  no  write  off of the carrying value  is  deemed
+     necessary.
+
+     Effective   January   1,  2003,  the   Company   ceased
+     amortizing the costs associated with the acquisition of
+     Audiogenesis by Allstates and will include  such  costs
+     in  its  annual goodwill impairment test  as  discussed
+     above.   Amortization  expense  for  the  years   ended
+     September  30,  2004  and 2003 were  $-0-  and  $1,166,
+     respectively.
+
+                            F-11
+  <PAGE>
+         ALLSTATES WORLDCARGO, INC. AND SUBSIDIARIES
+       NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+                 September 30, 2004 and 2003
+
+NOTE 5 - LONG-TERM DEBT
+
+     The  Company's  notes payable balance at September  30,
+     2004 and 2003 consist of the following:
+ <TABLE>
+<S>                                        <C>                 <C>
+
+                                                 2004            2003
+Notes payable from Joseph M. Guido to
+the Estate of
+A.G. Hoffman, Jr., assumed by the
+Company, in the
+aggregate originally totaled
+$2,511,730, with repayment
+over 101 years at annual principal
+payments of
+$25,000 plus interest at 7% per year.
+All or any
+of the notes may be paid at any time
+before maturity
+without any prepayment penalty.  In
+the event of a
+default under the notes by the
+Company, Joseph M.
+Guido remains personally liable for
+the notes, and
+the 101 shares of Allstates Air
+Cargo, Inc. common
+stock held as security under the
+notes (representing
+48.1% of the issued and outstanding
+common stock
+of Allstates Air Cargo, Inc.) may be
+sold at public or
+private sale.                                    $2,386,730    $2,411,730
+
+
+Notes Payable to Fleet Bank in
+the aggregate
+originally totaled $76,903, with
+repayment over 36
+months with monthly payments
+inclusive of interest
+ranging from 7.90% to 8.50%.
+These loans are
+secured by the vehicles which
+they relate.                                           -           3,836
+                                                  ---------     ---------
+
+                                                  2,386,730     2,415,566
+Less: Current Portion                                25,000        28,836
+                                                -----------    ----------
+                                                 $2,361,730    $2,386,730
+                                                ===========   ===========
+</TABLE>
+
+     Future  maturities for long-term debt as  of  September
+     30, 2004 is as follows:
+
+    For the fiscal years ended September 30,   2005       25,000
+                                               2006       25,000
+                                               2007       25,000
+                                               2008       25,000
+                                               2009       25,000
+                                         Thereafter    2,261,730
+                                                       _________
+                                             Total    $2,386,730
+                                                       =========
+NOTE 6 - LINE OF CREDIT
+
+     Allstates  Air  Cargo, Inc. has a  $2,000,000  line  of
+     credit agreement with a bank, which expires January 31,
+     2005.   Interest  on  outstanding borrowings  currently
+     accrues  at the Wall Street Journal's (WSJ) prime  rate
+     of interest per annum (4.75% as of September  30,  2004).
+     The  interest  rate  is  predicated  upon  the  Company
+     maintaining a compensating account balance  in  a  non-
+     interest bearing account equal to at least $230,000.
+     If, at any  time,  the Company fails to maintain the
+     compensating balance, the interest rate will increase by
+     1% over the WSJ's  prime rate  at  the time of failure.
+     The balance outstanding on the line of credit as of
+     September 30, 2004 and 2003 was $1,099,500 and
+     $1,149,500, respectively.
+
+
+                              F-12
+ <PAGE>
+         ALLSTATES WORLDCARGO, INC. AND SUBSIDIARIES
+       NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+                 September 30, 2004 and 2003
+
+
+NOTE 6 - LINE OF CREDIT (Continued)
+
+     Loan   collateral   includes  the  Company's   accounts
+     receivable  and the unlimited, unconditional guarantees
+     of Joseph M. Guido, Teresa Guido and Allstates Allcargo
+     (US), Inc.
+
+
+NOTE 7 - PROVISION FOR INCOME TAXES
+
+     A reconciliation of income tax at the statutory rate to
+     the Company's effective rate is as follows:
+
+                                          2004     2003
+                                          ----     ----
+Expected Federal
+statutory rate                            0.00%*   0.000%
+Expected State statutory
+rates (average)                          8.893%    8.893%
+                                        -------   -------
+
+Total expected                           8.893%    8.893%
+statutory rate
+
+State Franchise Tax and
+Miscellaneous Book to Tax
+Adjustments                             -9.654%   -2.253%
+
+Deferred income tax
+expense (benefit):
+ Federal                                 29,138% -35.040%
+ State                                    7.668% -10.310%
+                                        -------   -------
+Income Tax Expense (Benefit) -
+Effective Tax Rate                       55,353% -38.710%
+
+    * Due to Net Operating Loss in September 30,2003, and the net
+      operating loss carryforward in September 30, 2004. Expected
+      Federal statutory rate is deemed to be 0%.
+
+
+     The   Company's  provision  for  income  taxes  as   of
+     September 30, 2004 and 2003 consist of the following:
+
+                                                 2003     2002
+                                                  ----     ----
+Current Income Tax Expense
+          Federal                             $ (6,318)  $    -
+          State                                103,067     62,980
+                                               -------    -------
+          Total - Current                       96,749     62,980
+                                               -------    -------
+Deferred Income Tax (Benefit) Expense
+          Federal                              152,000   (332,901)
+          State                                 40,000    (97,912)
+                                                ------     ------
+          Total - Deferred                     192,000   (430,813)
+                                                ------    -------
+          TOTALS                              $288,749  $(367,833)
+                                              ========    =======
+
+
+
+
+     The  tax  effect of temporary differences that make  up
+     the  significant components of the deferred  tax  asset
+     for  financial reporting purposes at September 30, 2004
+     and 2003 are as follows:
+
+
+                              F-13
+<PAGE>
+         ALLSTATES WORLDCARGO, INC. AND SUBSIDIARIES
+       NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+                 September 30, 2004 and 2003
+
+
+NOTE 7 - PROVISION FOR INCOME TAXES (Continued)
+
+                                   2004           2003
+                                   ----           ----
+     Deferred Tax Assets
+     --------------------
+     Accounts Receivable        $ 107,500      $ 101,000
+     Defferred Payable             43,900           -
+     Net operating loss           199,600        389,000
+                                 --------        --------
+     Totals                     $ 351,000      $ 490,000
+     ------                      ========        ========
+
+     Deferred Tax Liabilities
+     ------------------------
+     Depreciable and
+      amortizable assets         $ 78,000        $ 25,000
+                                 ========        ========
+
+
+
+     At  September  30,  2004 and 2003, the  Company  has  a
+     future  income tax benefit for net write  offs  of  its
+     investment   account   in  one  of   its   Subsidiaries
+     (Allstates Allcargo (U.S.) Inc.).  The estimated future
+     income tax benefit of this transaction is approximately
+     $127,000.   For  financial statement purposes,  a  100%
+     valuation allowance has been recorded by management  in
+     the  amount  of $127,000 as of September 30,  2004  and
+     2003,  and therefore, this future estimated tax benefit
+     is not reflected in these financial statements.
+
+
+NOTE 8 - NET OPERATING LOSS CARRYFORWARD
+
+     Allstates   WorldCargo,   Inc.   (formerly   known   as
+     Audiogenesis  System,  Inc.)  generated  net  operating
+     losses prior to its acquisition of Allstates Air Cargo,
+     Inc.   As  a  result  of the reverse  acquisition,  the
+     ownership structure of Worldcargo changed as of  August
+     24,  1999;  thereby  limiting and reducing  the  future
+     utilization  of  the  Worldcargo  net  operating   loss
+     carryforwards.    These  pre-reverse  acquisition   net
+     operating  loss  carryforwards  will  be  limited   and
+     reduced based upon the Federal and New Jersey change in
+     ownership  net operating loss carryforward rules.   Any
+     net  operating loss carryforwards to future  tax  years
+     after  limitation  and  reduction  will  generally   be
+     available to offset future taxable income of WorldCargo
+     only,  and  will not be available to offset any  future
+     income  of  Allstates  Air Cargo,  Inc.  or  any  other
+     affiliated  corporation.  The income tax provisions  do
+     not  include  any of these pre-reverse acquisition  net
+     operating losses.
+
+     Pursuant  to a ruling received by the Internal  Revenue
+     Service,  effective  October  1,  1999,  the  operating
+     losses incurred by Allstates Allcargo (UK), LTD. may be
+     offset  against taxable income of Allstates WorldCargo,
+     Inc.  in the consolidated filing of its Federal  income
+     tax  returns. For tax purposes only, Allstates Allcargo
+     US  Inc.  will  treat the foreign subsidiary  Allstates
+     Allcargo (UK), LTD. as a disregarded entity and not  as
+     a subsidiary. Therefore, the tax provisions included in
+     these  consolidated  financial statements  utilize  the
+     operating  loss  for the fiscal year 2001  incurred  by
+     Allstates  Allcargo  (UK),  Ltd.  in  calculating   the
+     Federal tax liability.  There are no gains or losses in
+     fiscal  year  2002 since the foreign entity,  Allstates
+     Allcargo (UK), LTD., was dissolved.
+
+NOTE 9 - PENSION PLAN
+
+     Effective May 1994, the Company adopted a discretionary
+     non-standardized 401(k) profit sharing plan.  The terms
+     of the plan provide for eligible employees who have met
+     certain
+
+                              F-14
+<PAGE>
+         ALLSTATES WORLDCARGO, INC. AND SUBSIDIARIES
+       NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+                 September 30, 2004 and 2003
+
+
+NOTE 9 - PENSION PLAN (Continued)
+
+     Effective May 1994, the Company adopted a discretionary
+     non-standardized 401(k) profit sharing plan.  The terms
+     of the plan provide for eligible employees who have met
+     certain age and service requirements to participate  by
+     electing to contribute up to the lesser of 100%  of  an
+     employees'   qualified  compensation  or  $13,000   and
+     $12,000  for  the calendar years ended 2004  and  2003,
+     respectively.    The   Company   may   make    matching
+     contributions  equal to a discretionary percentage,  as
+     determined  by the Company, up to 6% of a participant's
+     salary.  Contributions to the plan for the years  ended
+     September 30, 2004 and 2003 totaled $43,493and $31,378,
+     respectively.    The   plan   also   allows    employer
+     discretionary  contributions  allocated  in  accordance
+     with  participants' compensation.  The Company did  not
+     make  any  discretionary contributions to the plan  for
+     the years ended September 30, 2004 and 2003.
+
+
+NOTE 10 - RELATED PARTY TRANSACTIONS
+
+     Allstates  Air Cargo, Inc. leases office space  located
+     in Forked River, New Jersey from a majority stockholder
+     of  the  Company.   Rent  expense  under  these  leases
+     totaled  $81,600  and  $81,600  for  the  years   ended
+     September 30, 2004 and 2003, respectively.
+
+     The  Company  has entered into royalty  agreements  for
+     selected   licensee  locations  with  an  officer   and
+     director of the Company, whereby the Company agrees  to
+     pay  the  officer a royalty equal to 5%  of  the  gross
+     profit  per  the  contract.  Royalty payments  to  this
+     individual for the years ended September 30,  2004  and
+     2003 totaled $454,607 and $431,789, respectively.
+
+     The  Company  entered into Employment  Agreements  with
+     four  of  the  Company's stockholders.  The  Employment
+     Agreements  are  effective through December  31,  2004.
+     The  following  is  a  summary of the  terms  of  these
+     agreements:
+
+                     Annual                       Stock
+    Position         Salary        Bonus         Options
+    --------        --------       ------       --------
+
+Chairman of the      $329,811     3% of fiscal       Yes
+Board                            year increase
+                                 in net profits
+
+President/Chief      $216,000     3% of fiscal       Yes
+Executive                         year increase
+Officer                           in net profits
+
+
+Executive Vice       $213,948     3% of fiscal       Yes
+President/                        year increase
+Chief Operating                   in net profits
+Officer
+
+Chief Financial      $148,077     Discretionary      Yes
+Officer
+
+
+
+NOTE 11 - STOCK OPTION PLAN
+
+     On  October  16,  2000, the Company filed  a  Form  S-8
+     registration statement with the Securities and Exchange
+     Commission,  registering  4,500,000  shares  of  common
+     stock  with  a  $.0001  par  value.   The  shares   are
+     registered on behalf of the Company, and will be issued
+     pursuant to the Company's "2000 Stock Option and  Stock
+     Issuance  Plan".  As of September 30,  2004,  no  stock
+     options have been issued.
+
+                              F-15
+<PAGE>
+         ALLSTATES WORLDCARGO, INC. AND SUBSIDIARIES
+       NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+                 September 30, 2004 and 2003
+
+
+NOTE 12 - DESCRIPTION OF LEASING ARRANGEMENTS
+
+     The  Company leases certain terminal facilities and its
+     corporate  headquarters  under  operating  leases  that
+     expire  over  the  next  five years.   These  operating
+     leases  provide  the Company with the option  to  renew
+     it's  lease at the fair rental value at the end of  the
+     lease  term.   Management expects that leases  will  be
+     renewed  or  replaced  by other leases  in  the  normal
+     course of business.
+
+     Future  minimum  lease payments under all  leases  with
+     initial  or  remaining noncancellable  lease  terms  in
+     excess  of one year are as follows as of September  30,
+     2004:
+
+          Years Ending
+        September 30,
+     --------------------
+          2005                   481,552
+          2006                   320,266
+          2007                   275,388
+          2008                   157,965
+          2009                    27,200
+          Thereafter                -
+                                --------
+          Total               $1,262,371
+                              ==========
+
+
+     Rent expense under operating leases for the years ended
+     September  30, 2004 and 2003 was $554,321 and  $462,284
+     respectively.
+
+
+NOTE 13 - SUPPLEMENTAL CASH FLOW INFORMATION
+
+     Cash paid for:                    2003            2002
+     --------------                   -----           -----
+     Income Taxes                  $ 52,355        $115,091
+                                   ========        ========
+     Interest                      $217,367        $226,714
+                                   ========        ========
+
+
+
+NOTE 14 - LITIGATION
+
+     On October 14, 2004, the 56.91% majority shareholder of
+     the  Company (the "Shareholder") (also employed by  the
+     Company  as  its Chairman) commenced an action  against
+     the  Company  and  three  of the  Company's  directors,
+     entitled  "Joseph  M.  Guido v.  Allstates  WorldCargo,
+     Inc.,  Sam DiGiralomo, Barton C. Theile, and  Craig  D.
+     Stratton,"  in  the  Superior  Court  of  New   Jersey,
+     Chancery Division, Ocean County, bearing Docket No. OCN
+     - C - 305-04. (Messrs. DiGiralamo, Theile, and Stratton
+     are  also employed by the Company as its President  and
+     Chief  Executive Officer, its Executive Vice  President
+     and  Chief  Operating Officer, and its Chief  Financial
+     Officer.)  The  Shareholder alleged that in  accordance
+     with state law, on August 16, 2004, he had delivered to
+     the Company's Secretary (1) an executed Written Consent
+     in  Lieu  of  a Special Meeting of the Stockholders  of
+     Allstates  WorldCargo, Inc. dated August 16, 2004  (the
+     "Written Consent"), (2) Amended and Restated Bylaws  of
+     the  Company  adopted pursuant to the  Written  Consent
+     (the   "A&R  Bylaws"),  and  (3)  a  draft  Information
+     Statement  pursuant to Section 14(c) of  the  1934  Act
+     (the "Draft Information Statement").
+
+                              F-16
+<PAGE>
+         ALLSTATES WORLDCARGO, INC. AND SUBSIDIARIES
+       NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+                 September 30, 2004 and 2003
+
+
+
+NOTE 14 - LITIGATION (Continued)
+
+     The  Shareholder alleged that pursuant to  the  Written
+     Consent, he had amended the Company's bylaws to  (among
+     other  things) expand the Board of Directors from  four
+     members  to seven members, and appointed three  persons
+     (alleged  to be independent) to fill the newly  created
+     board  seats. He alleged that the Company was  required
+     by  law  to  comply  with  his  demand  to  notify  the
+     shareholders  of  his action, and  that  the  Company's
+     failure  to do so was a violation of the law.  He  also
+     alleged  that the three individual defendants, both  as
+     directors  and  officers,  owed  the  Company  and  its
+     shareholders  certain  fiduciary  duties  and  duty  of
+     loyalty to direct that "appropriate steps" be taken  by
+     the  Company to allegedly comply with New Jersey  state
+     law  "and  other  applicable law" in  response  to  the
+     Written Consent.
+
+     The    Majority    Shareholder   demanded    temporary,
+     preliminary,   and   injunctive  relief   enjoining   a
+     scheduled  special  Board  of  Directors  meeting  (the
+     "Special  Board Meeting") pending Company's performance
+     of acts allegedly required by New Jersey law and by the
+     1934  Act.  The  Majority  Shareholder  also  sought  a
+     permanent  injunction requiring  the  Company  and  its
+     Secretary  to  prepare and distribute to the  Company's
+     shareholders  all notices allegedly required  by  state
+     and federal law in connection with the Written Consent.
+     Finally,  he  sought  entry of an Order  requiring  the
+     Company  to file and serve upon him, within seven  days
+     after entry of a permanent injunction, a written report
+     setting  forth the manner and form in which the Company
+     complied with the injunctions.
+
+     The  Company  (and  the  three  individual  defendants)
+     opposed  the application for temporary relief upon  the
+     grounds that subsequent to his execution of the Written
+     Consent,  the Majority Shareholder advised one  of  the
+     individual  defendants  that  he  had  decided  not  to
+     proceed  with  his  amendment  of  the  bylaws  or  his
+     expansion  of  the Board of Directors. Defendants  also
+     alleged  that  the Majority Shareholder's actions  were
+     not  in  the  best  interest of the Company,  and  were
+     motivated  by  self-interest,  that  because  of   such
+     concerns,  the  Company needed time  to  determine  its
+     obligations under the law, and that the purpose of  the
+     Special  Board Meeting (among others) was  to  consider
+     "issues  pertaining  to the request  by  [the  Majority
+     Shareholder] to file the Schedule 14C presented to  the
+     Secretary of the Corporation."
+
+     On  October 28, 2004, the parties reached an  agreement
+     with  regard  to some essential terms of a  settlement,
+     pursuant  to which (1) the Company's Board of Directors
+     would not be expanded except by unanimous consent,  (2)
+     the  Majority Shareholder and the individual defendants
+     would  enter into a voting agreement pursuant to  which
+     each  would agree to vote his respective shares in  the
+     Company for the others as directors of the Company, (3)
+     the  Company would enter into new employment agreements
+     (the  precise  terms of which were to be  agreed  upon)
+     with the individual defendants (the existing employment
+     agreements  being due to expire on December 31,  2004),
+     (4)  the  parties would exchange general releases,  and
+     (5)  the Company would, to the extent lawfully required
+     by   the  Majority  Shareholder's  existing  employment
+     agreement,  reimburse him for the  attorney's  fees  he
+     incurred  in  connection  with  the  action.   It   was
+     anticipated  that the complete terms  of  a  settlement
+     would  be  agreed  upon,  and  that  formal  settlement
+     documents would be prepared and executed.  Such  formal
+     documentation is being prepared.
+                              F-17
+<PAGE>
+
+
+
+
+ITEM 9.   CHANGES  IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING
+          AND FINANCIAL DISCLOSURE
+
+Not applicable.
+
+
+                               PART III
+
+ITEM 10.  DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+Name                     Age            Position
+----                     ---            --------
+Joseph M. Guido          70             Chairman of the Board
+
+Sam DiGiralomo           61             President, CEO, Director
+
+Barton C. Theile         58             Executive Vice President, COO,
+                                        Director
+
+Craig Stratton           53             CFO,   Secretary,   Treasurer,
+                                        Director
+
+None  of  the above persons is related to any other of the above-named
+persons  by blood or marriage.
+
+     Based  upon a review of filings with the Securities and  Exchange
+Commission  and  written representations that no  other  reports  were
+required,  the  Company  believes that all of the Company's  directors
+and executive officers complied  during fiscal 2003 with the reporting
+requirements  of  Section 16(a) of the  Securities  Exchange  Acts  of
+1934.
+
+
+JOSEPH  M.  GUIDO, Chairman of the Board, is the founder of  Allstates
+Air  Cargo, Inc., having served as its President and CEO from 1961  to
+August  1999.  Mr. Guido became Chairman of the Board of  the  Company
+upon  the acquisition of Allstates Air Cargo, Inc. on August 24, 1999.
+Prior  to  forming Allstates Air Cargo, Inc., Mr. Guido  served  as  a
+freight  supervisor with American Airlines, and as a sales and station
+manager for Air Cargo  Consolidators.
+
+SAM  DIGIRALOMO, became President, CEO and a director of  the  Company
+upon  the acquisition of Allstates Air Cargo, Inc. on August 24, 1999.
+Prior to such acquisition, Mr. DiGiralomo had served as the President,
+Treasurer, CEO and a director of Audiogenesis Systems, Inc.  since  it
+was formed in January, 1997.  From July 1981 through January 1997, Mr.
+DiGiralomo  had been the President of the predecessor of  Audiogenesis
+Systems,  Inc., Genesis Safety Systems, Inc.  Mr. DiGiralomo has  more
+than  20  years  of  management  and marketing  experience.    He  has
+lectured  at various trade associations and universities, and designed
+and authored several employee training programs.
+
+BARTON C. THEILE,  became Executive Vice President, COO and a director
+of  the  Company upon the acquisition of Allstates Air Cargo, Inc.  on
+August  24,  1999.  Prior to such acquisition, Mr. Theile  had  served
+Allstates  Air  Cargo,  Inc.,  as a sales  representative,  operations
+manager,  Executive Vice President and COO over a period of 19  years.
+In  addition to his experience at Allstates, Mr. Theile was  President
+of Cargo Logistics Group, LLC.  Mr. Theile has been involved in sales,
+marketing operations and administration in the transportation industry
+for over 25 years.
+
+CRAIG STRATTON, became CFO, Secretary, Treasurer and a director of the
+Company  upon the acquisition of Allstates Air Cargo, Inc.  on  August
+24,  1999.  Prior to such acquisition, Mr. Stratton served  as   Chief
+Financial  Officer for Allstates Air Cargo, Inc. since November  1997.
+Before  joining  Allstates, for three years,  Mr.  Stratton  held  the
+position  of  Corporate Controller for Programmer's Paradise,  Inc.  a
+cataloger  and distributor of technical software.  From  1990  through
+1994,  he  was  Controller for Baronet Corporation,  an  importer  and
+distributor of leather goods accessories.  From 1981 through 1990,  he
+was  employed  by  the finance department of Contel IPC,  a  specialty
+telephone  systems manufacturer and service provider,  where  he  held
+various   positions   of   increasing  responsibility   in   corporate
+accounting, including an appointment to Assistant Controller in  1987.
+In  1973, Mr. Stratton received his B.S. in accounting, and in 1980 he
+earned his MBA.  Mr. Stratton has been a CPA since 1986.
+
+Audit Committee and Code of Ethics
+
+The Company does not presently have an audit committee, nor a Code  of
+Ethics  for  its  principal  executive  officer,  principal  financial
+officer,  principal  accounting  officer  or  controller,  or  persons
+performing  similar functions, because the Company  is  not  a  listed
+company, and therefore is not required to do so.
+
+
+
+ITEM 11. MANAGEMENT REMUNERATION AND TRANSACTIONS
+
+EXECUTIVE COMPENSATION
+
+
+                     Summary Compensation Table
+<TABLE>
+<S>         <C>    <C>       <C>       <C>        <C>         <C>        <C>       <C>
+
+             Annual Compensation              Long term compensation
+             -----------------------         --------------------------
+Name and     Year    Salary    Bonus    Other      Awards                          All
+Principal             ($)       ($)     Annual    Restrict-    Options/   LTIP     Other
+Position                                Compen-   ed Stock     SARs(#)    Pay-     Compensa-
+                                        sation      ($)         ($)      outs($)   tion ($)
+----------   ----  -------    -----   ---------   ---------   ---------   ------   --------
+J.           2004  329,811             81,600(1)
+Guido,       2003  311,818             81,600(1)
+Chairman     2002  311,818             81,600(1)
+of the
+Board
+
+Sam          2004  216,000            526,957(3)
+DiGiralomo,  2003  208,000            413,864(2)
+President,   2002  208,000            319,595(2)
+CEO
+
+B. Theile,   2004  213,948             23,013(5)
+COO,         2003  206,316              9,271(4)
+Exec. VP     2002  207,922              4,188(6)
+
+Craig
+Stratton,    2004  148,077              7,800(7)
+CFO,         2003  129,039              7,800(7)
+Secretary,   2002  125,266              5,850(7)
+Treasurer
+</TABLE>
+
+
+(1)  Rental income from leasing of Forked River corporate office
+(2)  Royalties paid in connection with site licensing agreements
+(3)  Royalties  paid  in  connection with  site  licensing  agreements
+     ($454,607), and reimbursement of income taxes due IRS in connection
+     with insurance settlement ($72,350).
+(4)  Car allowance for use of personal auto ($7,800) and commission
+     paid for management services to GTD Logistics, Inc. ($1,471)
+(5)  Car allowance for use of personal auto ($7,800) and commission
+     paid for management services to GTD Logistics, Inc. ($15,213)
+(6)  Commission paid for management services to GTD Logistics, Inc.
+(7)  Car allowance for use of personal auto
+
+
+On  August  24,  1999, the Company entered into Employment  Agreements
+with three of the Company's stockholders, and in 2001, entered into an
+agreement  with  a fourth stockholder. The Employment Agreements   are
+effective  for the term beginning with inception through December  31,
+2004.    The following is a summary of the terms of these agreements:
+
+
+                             Annual
+Name/Position               Salary          Bonus
+
+Joseph M. Guido,
+Chairman of
+The Board                   $308,000       3% of fiscal year
+                                           increase in net profits
+Sam DiGiralomo,
+President/Chief
+Executive Officer           $208,000       3% of fiscal year
+                                           increase in net profits
+Barton M. Theile,
+Executive Vice President/
+Chief Operating Officer   $207,922         3% of fiscal year
+                                           increase in net profits
+Craig D. Stratton,
+Chief  Financial  Officer   $154,000       At the discretion of
+                                           the Board of Directors
+
+
+Under  the  terms  of  their  respective employment  agreements,  each
+individual has agreed to work full time.  The agreements also  provide
+for health and life insurance benefits, participation in the Company's
+401(k)    plan,    disability   benefits,   expense    reimbursements,
+indemnification  from civil or criminal actions  arising  out  of  the
+Executive's  employment,  financial and  tax  advice,  tax  "gross-up"
+provisions, severance pay (equal to 100% of compensation for a  period
+of five years), and payments in the event of a change of control.
+
+ITEM 12.  SECURITY   OWNERSHIP  OF  CERTAIN  BENEFICIAL   OWNERS   AND
+          MANAGEMENT
+
+     The  following table sets forth the beneficial ownership  of  the
+Common Stock of the Company as of December 20, 2004 by each person who
+was  known  by  the Company to beneficially own more than  5%  of  the
+common  stock, by each director and executive officer who owns  shares
+of  common  stock  and by all directors and executive  officers  as  a
+group:
+
+
+
+                                            No. of Shares
+ Title   Name and Address                        and         Percent
+  of     of Beneficial Owner                  Nature of        of
+ Class                                        Beneficial     Class(1)
+                                              Ownership
+
+Common   Joseph M. Guido                      18,500,000(2)  56.91%
+         4 Lakeside Drive South
+         Forked River, NJ   08731
+
+Common   Sam DiGiralomo                           4,850,000  14.92%
+         7 Doig Road, Suite 3
+         Wayne, NJ   07470
+
+Common   Barton C. Theile                           500,000   1.54%
+         4 Lakeside Drive South
+         Forked River, NJ   08731
+
+Common   Craig D. Stratton                          200,000   0.61%
+         4 Lakeside Drive South
+         Forked River, NJ   08731
+
+All Officers and Directors as a Group            24,050,000  73.98%
+
+__________________
+(1)    Based upon 32,509,872 shares outstanding as of December  22, 2004.
+
+(2)   Comprised of 18,250,000 shares owned by Joseph Guido and 250,000
+shares owned by Teresa Guido, wife of Joseph Guido.
+
+ITEM 13.  CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+     The  Company's  $2,000,000 line of credit, which expires  January
+31, 2005, is personally guaranteed by Joseph M. Guido, Chairman of the
+Board of the Company, and Teresa Guido, his wife.
+
+     The  Company  leased real estate in one location from  Joseph  M.
+Guido  during  Fiscal  2004.  Rent expense under  this  lease  totaled
+$81,600  for the year ended September 30, 2004.  The Company  believes
+that this lease is commensurate with the terms which could be obtained
+from an unaffiliated third party.
+
+     Prior  to  his  becoming President, CEO and  a  director  of  the
+Company,  the  Company  entered into royalty agreements  for  its  Los
+Angeles  and  Chicago licensee locations with Sam DiGiralomo,  whereby
+the  Company agreed to pay Mr. DiGiralomo a royalty equal to 5% of the
+gross  profit per the contract.  Similar royalty agreements have since
+been  executed  and  are active which encompass its  Minneapolis,  San
+Francisco,  Indianapolis,  Philadelphia,  Boston,  Orlando,   Atlanta,
+Raleigh  and  Nashville licensee locations.  Royalty payments  to  Mr.
+DiGiralomo for the year ended September 30, 2004 totaled $454,607.
+
+     Pursuant   to   the  Stock  Purchase  Agreement   and   Plan   of
+Reorganization  between Audiogenesis Systems, Inc. and  Allstates  Air
+Cargo,  Inc.,  the Company assumed 101 Notes payable  from  Joseph  M.
+Guido  to  the Estate of A.G. Hoffman, Jr., aggregating $2,511,730  in
+principal, with repayment over 101 years at annual principal  payments
+of  $25,000 plus interest at 7% per year. All or any of the notes  may
+be paid at any time before maturity without any prepayment penalty. In
+the event of a default under the notes by the Company, Joseph M. Guido
+remains  personally  liable  for the  notes  and  the  101  shares  of
+Allstates  Air  Cargo, Inc. common stock held as  security  under  the
+notes   (representing 48.1% of the issued and outstanding common stock
+of Allstates Air Cargo, Inc.) may be sold at public or private sale.
+
+     The  Company's  former legal counsel, Stephen M. Robinson,  Esq.,
+beneficially  owns  1,200,000 shares of common  stock.   Mr.  Robinson
+retired from practice in July, 2003.
+
+
+Item 14.  PRINCIPAL ACCOUNTING FEES AND SERVICES
+
+      Our  independent auditing firm during the fiscal years ended
+September 30, 2004 and September 30, 2003 was Cowan, Gunteski  and
+Co.,  who have audited our financial statements since fiscal 1999.
+All  audit  and permissible non-audit services provided  by  Cowan,
+Gunteski  and  Co.  are  pre-approved by the  Allstates  Board  of
+Directors,  as  the  Company  is not required  to  have  an  audit
+committee  at  the present time.  The fees of Cowan, Gunteski  and
+Co.  billed  to the Company for each of the last two fiscal  years
+for audit services and other services are shown below:
+
+Audit  fees.   Cowan, Gunteski and Co. billed the Company an
+aggregate  of $102,824  and $75,580 during fiscal 2004 and 2003
+for professional services  rendered  for  the  audit  of  the
+Company's financial statements  and  the  review of the interim
+financial statements included in the Company's quarterly reports.
+
+Audit-related  fees.  During the fiscal years ended September  30,
+2004 and 2003, Cowan, Gunteski and Co. did not provide or bill for
+any audit-related services that were not covered under audit fees.
+
+Tax  fees.  The aggregate fees billed during fiscal 2004 and  2003
+for  tax services rendered by Cowan, Gunteski and Co. were $24,599
+and $27,437, respectively.
+
+All  other fees. During the fiscal years ended September 30,  2004
+and  2003,  Cowan, Gunteski and Co. did not provide  or  bill  for
+other services that were not included above.
+
+
+
+
+
+                           PART IV
+
+ITEM  15.  EXHIBITS, FINANCIAL STATEMENT SCHEDULES AND REPORTS ON FORM
+8-K
+
+(a)   The  following  exhibits  are filed  pursuant  to  Item  601  of
+Regulation S-K.
+
+
+Exhibit   Description
+No.
+
+3.01*     Articles of Incorporation of Audiogenesis Systems,
+          Inc. dated January 14, 1997 filed as an exhibit to
+          Registrant's Registration Statement on Form 10-SB,
+          filed October 23, 1998
+
+3.02*     By-laws of Registrant, filed as an exhibit to
+          Registrant's Registration Statement on Form 10-SB,
+          filed October 23, 1998
+
+10.01*    Echlocation Technology License Agreements, filed as
+          an exhibit to Registrant's Registration Statement on
+          Form 10-SB, filed October 23, 1998
+
+10.02*    Agreement with Allstates Air Cargo, Inc. dated
+          9/18/98, filed as an exhibit to Registrant's
+          Registration Statement on Form 10-SB, filed October
+          23, 1998
+
+10.03*    Promissory Note to Marshall E. Levine Ph.D. Profit
+          Sharing Plan, filed as an exhibit to Registrant's
+          Registration Statement on Form 10-SB, filed October
+          23, 1998
+
+10.04*    Genesis Safety Systems, Inc. Stock Option Plan, filed
+          as an exhibit to Amendment No. 1 to Registrant's
+          Registration Statement on Form 10-SB, filed March 11,
+          1999
+
+10.05*    Stock Purchase Agreement and Plan of Reorganization
+          dated June 30, 1999, filed as an exhibit to
+          Registrant's Form 8-K filed July 12, 1999
+
+10.06*    Employment Agreement with Joseph M. Guido, , filed as
+          an exhibit to Registrant's Form 8-K filed September
+          9, 1999
+
+10.07*    Employment Agreement with Sam DiGiralomo, filed as an
+          exhibit to Registrant's Form 8-K filed September 9,
+          1999
+
+10.08*    Employment Agreement with Barton C. Theile, filed as
+          an exhibit to Registrant's Form 8-K filed September
+          9, 1999
+
+10.09*    Certificate of Amendment to the Certificate of
+          Incorporation of Registrant changing the name of the
+          corporation from Audiogenesis Systems, Inc. to
+          Allstates WorldCargo, Inc., filed as an exhibit to
+          Registrant's Form 8-K filed December 1, 1999
+
+11.01+    Statement re: Computation of Earnings per Share
+
+21.01*    List of Subsidiaries of Registrant, filed as an
+          exhibit to Registrant's Registration Statement on
+          Form 10-SB, filed October 1, 1999
+31.1+     Certification of Registrant's Chief Executive
+          Officer, Sam DiGiralomo, pursuant to Section 302 of
+          the Sarbanes-Oxley Act of 2002.
+31.2+     Certification of Registrant's Chief Financial
+          Officer, Craig D. Stratton, pursuant to Section 302
+          of the Sarbanes-Oxley Act of 2002.
+32.1+     Certification of Registrant's Chief Executive
+          Officer, Sam DiGiralomo, pursuant to Section 906 of
+          the Sarbanes-Oxley Act of 2002.
+32.2+     Certification of Registrant's Chief Financial
+          Officer, Craig D. Stratton, pursuant to Section 906of
+          the Sarbanes-Oxley Act of 2002.
+
+__________________
+
+* Filed previously, incorporated herein by reference
++ Filed herewith
+
+(b)   Reports  on Form 8-K:  No reports on Form 8-K were filed  during
+the last quarter of the period covered by this report.
+
+<PAGE>
+
+SIGNATURES
+
+In accordance with Section 13 or 15(d) of the Securities Exchange Act,
+the   registrant caused this report to be signed on its behalf by  the
+undersigned,  thereunto duly authorized.
+
+ALLSTATES WORLDCARGO, INC.
+
+
+BY:     /s/ Sam DiGiralomo
+       President and CEO
+
+DATED:  December 29, 2004
+
+
+
+In accordance with the Exchange Act, this report has been signed below
+by  the  following  persons on behalf of the  registrant  and  in  the
+capacities and on the date indicated.
+
+
+
+Signature                  Title                      Date
+
+
+By:  /s/ Joseph M. Guido   Chairman of the Board of   December 29, 2004
+                           Directors
+
+
+By:  /s/ Sam DiGiralomo    President, CEO and         December 29, 2004
+                           Director
+
+
+By: /s/ Barton C. Theile   Executive Vice President,  December 29, 2004
+                           COO and Director
+
+By:  /s/ Craig D. Stratton  Secretary, Treasurer, and  December 29, 2004
+                            Chief Financial Officer
+                            (Principal Financial
+                            Officer and Principal
+                            Accounting Officer)
+
+
+
+
+
+
+
+
+</TEXT>
+</DOCUMENT>

@@ -1,0 +1,3325 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>c72995e10vk.txt
+<DESCRIPTION>FORM 10-K
+<TEXT>
+<PAGE>
+================================================================================
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                                   ----------
+
+                                    FORM 10-K
+
+                                   ----------
+
+(XX)              ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d)
+                     OF THE SECURITIES EXCHANGE ACT OF 1934
+
+                     for the fiscal year ended July 31, 2002
+                                       or
+
+(  )            TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d)
+                     OF THE SECURITIES EXCHANGE ACT OF 1934
+
+From the transition period from ...............  to ...............
+
+Commission File No. 0-19608
+
+                           ARI NETWORK SERVICES, INC.
+             (Exact name of registrant as specified in its charter)
+
+Wisconsin                                      39-1388360
+(State or other jurisdiction of                (I.R.S. Employer
+incorporation or organization)                 Identification  No.)
+
+11425 West Lake Park Drive                        53224-3025
+Milwaukee, Wisconsin                              (zip code)
+(Address of principal executive offices)
+
+        Registrant's telephone number, including area code (414) 973-4300
+
+           Securities registered pursuant to Section 12(b) of the Act:
+                                      NONE
+
+           Securities registered pursuant to Section 12(g) of the Act:
+                          COMMON STOCK, $.001 PAR VALUE
+                                (TITLE OF CLASS)
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months (or for such shorter period that the registrant was
+required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days.
+
+                                 YES [X] NO [ ]
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405
+of Regulation S-K is not contained herein, and will not be contained, to the
+best of registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K. [_____]
+
+Indicate by check mark whether the registrant is an accelerated filer (as
+defined in Rule 12b-2 of the Act).
+
+                                 YES [ ] NO [X]
+
+As of October 15, 2002, aggregate market value of the Common Stock held by
+non-affiliates (based on the closing price on the NASDAQ bulletin board) was
+approximately $1.0 million.
+
+As of October 15, 2002, there were 6,329,301 shares of Common Stock of the
+registrant outstanding.
+
+                       DOCUMENTS INCORPORATED BY REFERENCE
+
+Portions of the Definitive Proxy Statement, to be filed with the Securities and
+Exchange Commission no later than 120 days after July 31, 2002, for the 2002
+Annual Meeting of Shareholders are incorporated by reference in Part III hereof.
+
+================================================================================
+
+<PAGE>
+
+ITEM 1.  BUSINESS
+
+
+BUSINESS OVERVIEW
+
+ARI Network Services, Inc. (the "Company" or "ARI") is a leading provider of
+electronic catalog-enabled business solutions for sales, service and life cycle
+product support in the manufactured equipment market. We focus our sales and
+marketing on the U.S., Canadian, European and Australian manufactured equipment
+industry (the "Equipment Industry"), providing direct sales and service in North
+America and operating through a combination of direct sales and service and
+value-added sales and service agents elsewhere. Sales in these markets are
+driven by dealers' and other servicing agents' need for technical parts and
+service information needed to perform repair, warranty, and maintenance
+services. The Equipment Industry is made up of separate sub-markets in which the
+manufacturers often share common distributors, retail dealers and/or service
+points. These sub-markets include: outdoor power, recreation vehicles,
+motorcycles, marine, construction, power sports, floor maintenance, auto and
+truck parts aftermarket and others. By "Equipment" we mean capital goods which
+are repaired rather than discarded when broken and for which the repairs are
+generally performed by a distributed network of independent dealers and/or
+repair shops. The Equipment Industry has been a growing percentage of our
+revenue over the past three years, representing 83% of fiscal 2002 revenue. We
+expect the Equipment Industry to continue to be the Company's largest Industry
+in fiscal 2003, and expect to expand into other sub-markets within the Equipment
+Industry which have similar electronic catalog-related business needs.
+
+Our products and services enable Equipment Industry manufacturers to automate
+business communications with their worldwide distributors, dealers, and service
+points. We supply three types of software and services: robust Web and CD-ROM
+electronic parts catalogs, template-based website services and transaction
+services. The electronic cataloging products and services enable partners in a
+service and distribution network to look up electronically technical reference
+information such as illustrated parts lists, service bulletins, price files,
+repair instructions and other technical information regarding the products of
+multiple manufacturers. The template-based website service makes it easy for a
+dealer to create a professional web presence and optionally to conduct
+electronic business with its customers. The transaction services allow the
+manufacturers and their distribution and service partners to exchange electronic
+business documents such as purchase orders, invoices, warranty claims, and
+status inquiries. Our products and services use the Internet for data transport
+and a combination of the World-Wide Web and CD-ROM technology for user
+interfaces and data presentation. The primary product line is electronic
+catalogs; the other products are supplementary offerings that leverage our
+position in the catalog market.
+
+Our sales and marketing activities are focused primarily on Equipment Industry
+manufacturers that sponsor our products and services to their dealers,
+distributors and/or service points. These manufacturers have the financial
+capability and business power to implement an automation strategy throughout
+their service and distribution networks. We believe that the implementation of
+our products can reduce internal costs for manufacturers and increase loyalty
+and productivity in the service and distribution network as well as end-customer
+satisfaction. In addition to software licenses and support services, a typical
+implementation for a given manufacturer will involve professional services for
+project management, software customization and continuing catalog updates. Once
+manufacturer sponsorship is obtained, we also develop a direct business
+relationship with the distributors, dealers, and service points for software and
+services.
+
+An important aspect of our business is the relationships we have developed with
+over 100 dealer business management system providers through our COMPASS
+Partners(TM) program. A dealer business management system is used to manage
+inventory, maintain accounting records, bill customers and focus marketing
+efforts. Our software's ability to interface with these systems provides the
+end-user with a more robust, informative, and cost-effective solution.
+
+Our customer base currently comprises approximately 100 lines of manufactured
+equipment in approximately a dozen different sub-markets of the Equipment
+Industry, as well as over 25,000 dealers, distributors, and repair facilities in
+more than 100 countries. No single customer accounted for 10% or more of our
+revenues in fiscal 2002.
+
+As part of our historical business practice, we continue to provide electronic
+directory and transaction services, to the U.S. and Canadian agribusiness
+industry, which accounted for 11% of our total revenue in fiscal 2002. During
+fiscal 2002, we also provided on-line information management services to the
+non-daily newspaper publishing industry, which accounted for 6% of our total
+revenue in fiscal 2002. The contract with the non-daily newspaper publishing
+industry expired in February 2002.
+
+
+
+                                       2
+<PAGE>
+
+Our executive offices are located at 11425 West Lake Park Drive, Milwaukee,
+Wisconsin 53224 and our telephone number at that location is (414) 973-4300. ARI
+is a Wisconsin corporation, incorporated in 1981. We maintain a website at
+http://www.arinet.com(TM), which is not part of this report.
+
+MISSION AND STRATEGY
+
+Our mission is to be the leading provider of electronic catalog-enabled business
+solutions for sales, services and product support in selected manufacturing
+industry segments to primarily those with shared distribution channels and
+service networks. Our vision is that whenever a manufacturer in one of our
+target markets distributes technical parts and service information
+electronically to a distributor, dealer or service location, it will use at
+least some of our products and services to do so. To achieve this vision, our
+strategy is to concentrate on a few vertical markets, and to be the leading
+provider of electronic catalog products and services. After establishing a
+position in a market, we will then bring other products and services to bear in
+order to expand our presence and solidify our competitive position. Our goal is
+to provide a complete array of high-quality electronic catalog-enabled software
+and services that industry participants will adopt and use effectively.
+
+Our strategy includes driving growth in our targeted markets through three
+distinct programs: (i) sales; (ii) strategic alliances; and (iii) acquisitions.
+Our external sales team focuses on large manufacturers and distributors in the
+targeted industry sectors, while internal telesales representatives sell to
+dealers and small to medium sized distributors. The alliance strategy includes
+three parts: (i) manufacturer sales partners; (ii) COMPASS partners; and (iii)
+non-US sales and service agents. We have relationships with Click Commerce,
+Commercial Communications, Inc. and others under which they sell or co-market
+our catalog products and services as part of their total offering. We are
+actively cultivating relationships with other potential manufacturer sales
+partners. Through our COMPASS Partners program, we have a strategic alliance
+relationship with over 100 companies that provide complementary software and
+services to distributors and dealers in our targeted industries. Outside of
+North America, we sell to manufacturers directly, but use local agents to
+provide sales and support to dealers. We also selectively seek to acquire
+businesses with market positions in our targeted markets, additional products
+that we can provide to our customer base, and development talent to supplement
+our current staff.
+
+Through our sales, alliance and acquisition programs, we expect to expand our
+business both by growing market share in our current Equipment sectors and by
+entering new sectors.
+
+
+
+                                       3
+<PAGE>
+
+PRODUCTS AND SERVICES
+
+We offer three basic kinds of services to our customers in the Equipment
+Industry: (i) electronic catalogs for publishing and viewing technical reference
+information about the equipment, (ii) website services which allow a dealer to
+create a website using a series of templates and (iii) electronic communications
+for exchanging documents such as purchase orders, invoices, and warranty claims.
+The following table shows the software products and services that we offer, a
+brief description of the products and the industries where they are currently in
+use.
+
+<Table>
+<Caption>
+                                        ELECTRONIC CATALOG PRODUCTS AND SERVICES
+-------------------------------------------------------------------------------------------------------------------------
+    PRODUCT OR SERVICE                           DESCRIPTION                              PRIMARY INDUSTRY/MARKET
+--------------------------- ------------------------------------------------------- -------------------------------------
+<S>                         <C>                                                     <C>
+PartSmart(TM)               Electronic parts catalog for equipment dealers          Equipment - all sub-markets except
+                                                                                    RV and manufactured housing
+--------------------------- ------------------------------------------------------- -------------------------------------
+EMPARTweb(TM)               Web based electronic parts catalog based upon the       Equipment - outdoor power, auto and
+                            EMPART database technology                              truck parts after market, marine
+                                                                                    and motorcycle
+--------------------------- ------------------------------------------------------- -------------------------------------
+EMPARTviewer(TM)            Electronic parts catalog viewing software               Equipment - RV and manufactured
+                                                                                    housing only
+--------------------------- ------------------------------------------------------- -------------------------------------
+EMPARTpublisher(TM)         Electronic parts catalog creation software used to      Equipment - all sub-markets
+                            produce catalogs for viewing on EMPARTweb, PartSmart,
+                            and EMPARTviewer
+--------------------------- ------------------------------------------------------- -------------------------------------
+Electronic publishing       Project management, data conversion, editing,           Equipment - all sub-markets
+services                    production, and distribution services for
+                            manufacturers who wish to outsource catalog
+                            production operations
+--------------------------- ------------------------------------------------------- -------------------------------------
+EMPARTweb(TM)               Add-on product to Empartweb that facilitates order      Equipment - all sub-markets
+Shopping Cart               taking from the catalog
+--------------------------- ------------------------------------------------------- -------------------------------------
+Gardenpart.com(TM)/         Integrated multi-manufacturer catalog and ordering      Equipment - all sub-markets
+EMPARTweb(TM)Portal         system for the web
+--------------------------- ------------------------------------------------------- -------------------------------------
+Professional services       Project management, software customization, roll-out    Equipment - all sub-markets
+                            management, and help desk support services
+--------------------------- ------------------------------------------------------- -------------------------------------
+</Table>
+
+<Table>
+<Caption>
+                                                    WEBSITE SERVICES
+-------------------------------------------------------------------------------------------------------------------------
+    PRODUCT OR SERVICE                           DESCRIPTION                              PRIMARY INDUSTRY/MARKET
+--------------------------- ------------------------------------------------------- -------------------------------------
+<S>                         <C>                                                     <C>
+WebSite Smart(TM)           Template-based software to create customized dealer     Equipment - outdoor power, power
+                            websites and conduct business electronically            sports
+--------------------------- ------------------------------------------------------- -------------------------------------
+</Table>
+
+<Table>
+<Caption>
+                                    ELECTRONIC COMMUNICATIONS PRODUCTS AND SERVICES
+-------------------------------------------------------------------------------------------------------------------------
+    PRODUCT OR SERVICE                           DESCRIPTION                              PRIMARY INDUSTRY/MARKET
+--------------------------- ------------------------------------------------------- -------------------------------------
+<S>                         <C>                                                     <C>
+TradeRoute(R)               Document handling and communications for product        Equipment - Outdoor power and RV
+                            ordering, warranty claims and other business documents
+--------------------------- ------------------------------------------------------- -------------------------------------
+</Table>
+
+As part of our historical business practice, we continue to provide electronic
+directory and transaction services to the U.S. and Canadian agribusiness
+industry. These products and services are expected to continue to be a declining
+percentage of the Company's total revenue over time.
+
+
+
+                                       4
+<PAGE>
+
+ACQUISITIONS
+
+Since December 1995, ARI has had a business development program aimed at
+identifying, evaluating and closing acquisitions which augment and strengthen
+our market position, product offerings, and personnel resources. Since the
+program's inception, more than 350 acquisition candidates have been evaluated,
+resulting in four completed acquisitions. The following table shows selected
+information regarding these acquisitions:
+
+<Table>
+<Caption>
+<S>                       <C>                                           <C>
+
+Acquisition Date          Acquired Company and Location                 Description of Acquired Company
+------------------------- --------------------------------------------- --------------------------------------
+November 4, 1996          cd\*.IMG, Inc. ("CDI")                        CDI developed the Plus1(R)
+                          New Berlin, WI                                electronic parts catalog which
+                                                                        featured parts information from over
+                                                                        20 manufacturers in the outdoor
+                                                                        power, marine, motorcycle and power
+                                                                        sports industries and was replaced
+                                                                        with the Partsmart electronic
+                                                                        catalog.
+
+September 30, 1997        Empart Technologies, Inc. ("EMPART")          EMPART provided us with the
+                          Foster City, CA                               EMPARTpublisher and EMPARTviewer
+                                                                        software.
+
+September 15, 1998        POWERCOM-2000 ("POWERCOM"), a subsidiary of   POWERCOM provided electronic catalog
+                          Briggs & Stratton Corporation                 and communication services to a
+                          Colorado Springs, CO                          number of manufacturers in North
+                                                                        America, Europe, and Australia in
+                                                                        the outdoor power, power tools, and
+                                                                        power sports industries.
+
+May 13, 1999              Network Dynamics Incorporated ("NDI")         NDI provided us with the PartSmart
+                          Williamsburg, VA                              electronic catalog which was used by
+                                                                        over 10,000 dealers to view catalogs
+                                                                        from 50 different manufacturers in 6
+                                                                        sectors of the Equipment Industry.
+</Table>
+
+COMPETITION
+
+Competition for ARI's products and services in the Equipment Industry varies by
+product and by sub-market. No single competitor today competes with us in each
+of our targeted vertical Equipment Industry sub-markets. In electronic catalog
+software and services, our direct competitors include ProQuest and Enigma which
+provide electronic service catalogs in the motorcycle, marine, and auto markets,
+and a variety of small companies focused on specific industries. Many of these
+smaller companies may also represent acquisition targets for us. There are also
+other companies that provide more general catalog services such as Saqqara
+Systems, Inc. and Requisite Technology, Inc. that may in the future directly
+compete with us in our target markets. In addition, there are also a number of
+larger companies which have targeted Web-based catalogs for procurement, such as
+Ariba, Commerce One, and i2 Technologies, Inc., which could expand their
+offerings to address the needs of our markets and become competitors in the
+future. WebSite Smart(TM) has many competitors, including PowerSports Network,
+Inc. and many internet service providers. In the communications part of our
+business, the primary competition comes from in-house information technology
+groups who may prefer to build their own Web-based proprietary systems, rather
+than use our industry-common solutions. There are also large, general market
+e-Commerce companies like SBC Technologies, which offer products and services
+which could address some of our customers' needs. These general e-Commerce
+companies do not typically compete with us directly, but they could decide to do
+so in the future. These companies may also represent alliance partner
+opportunities for us. In addition, as in the catalog side of our business, there
+are a variety of small companies focused on specific industries which compete
+with us and which may also represent acquisition targets. Another potential
+source of competition in the future is the group of companies
+
+
+
+                                       5
+<PAGE>
+attempting to build so-called "net communities," such as Chemdex or VerticalNet,
+which could expand their offerings to target our served markets. Finally, given
+the current pace of technological change, it is possible that as yet
+unidentified well-capitalized competitors could emerge, that existing
+competitors could merge and/or obtain additional capital thereby making them
+more formidable, or that new technologies could come on-stream that could
+threaten our position.
+
+ARI's primary competitive advantages are (i) our focus on our target markets and
+the industry knowledge and customer relationships we have developed in those
+target markets, (ii), our robust electronic parts catalog software products, and
+(iii) our relationships with over 100 dealer business management system
+providers. When combined with products and services that are designed for our
+targeted industries, we believe that our competitive advantages will enable us
+to compete effectively and sustainably in these markets.
+
+EMPLOYEES
+
+As of October 15, 2002, we had 87 full-time equivalent employees. Of these, 13
+are engaged in maintaining or developing software and providing software
+customization services, 19 are in sales and marketing, 18 are engaged in catalog
+creation and maintenance or database management, 30 are involved in customer
+implementation and support and 7 are involved in administration and finance.
+None of these employees is represented by a union.
+
+ITEM 2.  PROPERTIES
+
+ARI occupies approximately 17,000 square feet in an office building in
+Milwaukee, Wisconsin, under a lease expiring June 30, 2009. This facility houses
+our headquarters and server room. In Colorado Springs, Colorado, we occupy
+approximately 5,500 square feet of office space under a lease expiring January
+31, 2006. In Williamsburg, Virginia we occupy approximately 5,100 square feet of
+office space under a lease that expires October 1, 2004. In the Netherlands we
+occupy approximately 450 square feet of office space under a month-to-month
+lease.
+
+ITEM 3.  LEGAL PROCEEDINGS
+
+On November 8, 2002, the Company filed a complaint (the "Complaint") in the
+Milwaukee County Circuit Court, Milwaukee, WI, against RGC International
+Investors, LDC ("Rose Glen"), ARI Network Services Partners (which is not in any
+way affiliated with the Company), Dolphin Offshore Partners, LP and SDS Merchant
+Fund, LP. Rose Glen is the original purchaser of the Company's outstanding
+convertible subordinated Debenture due 2003 (the "Debenture") and the other
+defendants are alleged transferees of the Debenture. Taglich Brothers, Inc. is
+the agent for the three alleged transferees.
+
+The Complaint alleges that on August 28, 2002, Rose Glen orally offered to enter
+into an eight month "stand-still" agreement with the Company under which Rose
+Glen would not exercise any claimed acceleration rights under the Debenture. On
+August 28, 2002, Rose Glen orally offered to enter into this eight month
+"stand-still" in return for an immediate payment of $500,000 by the Company.
+Rose Glen also offered to give the Company an option to buy back the Debenture
+and all other securities sold to Rose Glen in return for a payment of $1 million
+at any time during the eight month stand-still period. Rose Glen subsequently
+confirmed the offer in writing. The Company accepted Rose Glen's offer on
+September 13, 2002.
+
+The Complaint further alleges that Rose Glen was apparently shopping the
+Debenture behind the Company's back. Although Rose Glen verbally confirmed the
+agreement with the Company, Rose Glen later changed its position and informed
+the Company it would not live up to the terms of the agreement. Rose Glen then
+told the Company that it had sold the Debenture. The Company has now been
+contacted by Taglich Brothers, Inc., on behalf of three alleged transferees,
+which is making demands that are wholly inconsistent with the agreement and
+which has submitted a purported demand to accelerate the maturity of the
+Debenture. The Company intends to vigorously contest the validity of this
+demand.
+
+The Complaint alleges, among other things, claims for a declaratory judgment,
+breach of contract, specific performance and breach of the covenant of good
+faith and fair dealing. The Complaint requests, among other things, damages and
+specific performance of the agreement.
+
+The Complaint was only recently filed and none of the defendants has filed an
+answer. On November 1, 2002, prior to the Company's filing of the Complaint, the
+Company received a letter from Rose Glen's counsel stating that no such
+agreement exists and that Rose Glen had sold its interest in the Debenture and
+related securities and assigned its rights and obligations on or around
+September 27, 2002.
+
+
+
+                                       6
+<PAGE>
+
+ITEM 4.  SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+None.
+
+                      EXECUTIVE OFFICERS OF THE REGISTRANT
+
+The table below sets forth the names of ARI's executive officers as of October
+15, 2002. The officers serve at the discretion of the Board.
+
+<Table>
+<Caption>
+Name                            Age      Capacities in Which Serving
+----                            ----     ----------------------------
+<S>                              <C>     <C>
+Brian E. Dearing                 47      Chairman of the Board of Directors, CEO and President
+Timothy Sherlock                 50      CFO, Secretary, Treasurer and Vice President of  Finance
+John C. Bray                     45      Vice President of New Market Development
+Michael E. McGurk                54      Vice President of Technology Operations
+Frederic G. Tillman              40      Vice President of Technology Development
+Jeffrey E. Horn                  40      Vice President of North American Sales
+</Table>
+
+
+BRIAN E. DEARING. Mr. Dearing, Chief Executive Officer and a director since 1995
+and Chairman of the Board of Directors since 1997, is CEO and President. Prior
+to joining ARI, Mr. Dearing held a series of electronic commerce executive
+positions at Sterling Software, Inc. in the U.S. and in Europe. Prior to joining
+Sterling in 1990, Mr. Dearing held a number of marketing management positions in
+the EDI business of General Electric Information Services from 1986. Mr. Dearing
+holds a Masters Degree in Industrial Administration from Krannert School of
+Management at Purdue University and a BA in Political Science from Union
+College.
+
+TIMOTHY SHERLOCK. Mr. Sherlock was appointed Chief Financial Officer, Secretary,
+Treasurer and Vice President of Finance in April 2001. Prior to joining ARI, Mr.
+Sherlock was CFO and vice president of finance and administration for Catalyst
+International, Inc., a warehouse management software specialist. Before joining
+Catalyst in 1999, he held a series of progressively more responsible finance
+positions at Rennaissance Learning (RLRN), a leading educational software firm
+based in Wisconsin Rapids, Wis. culminating in his appointment as vice
+president, secretary and CFO. His early career included a variety of financial
+management positions at Cray Research, Inc., Eagan, Minn., from 1983 to 1995.
+Mr. Sherlock, a Certified Public Accountant, received a BA in business
+administration from the College of St. Thomas, St. Paul, Minn.
+
+JOHN C. BRAY. Mr. Bray was appointed Vice President of Sales in September 1996
+and became Vice President of New Market Development in March 2002. Prior to
+joining ARI, Mr. Bray was Manager of Global Internet Sales and Consulting at GE
+Information Services (GEIS) in Rockville, Maryland. Before joining GEIS, Mr.
+Bray had a six year sales career at AT&T, culminating in his appointment as
+Regional Vice President of Sales for AT&T's EasyLink Services, marketing
+electronic commerce services. He holds a BA in marketing from the University of
+Iowa.
+
+MICHAEL E. MCGURK. Mr. McGurk was appointed Vice President of Technology in
+January 1997 and became Vice President of Technology Operations in August 1999.
+Prior to joining ARI, Mr. McGurk developed and operated a large format printing
+services business for customers involved in business process re-engineering
+projects. Before opening the printing service, Mr. McGurk had a twelve year
+career in information technology management at various divisions of General
+Electric, including GE Medical Systems, GE Corporate and GE Aircraft Engines.
+Mr. McGurk's early career included sales and technology positions at Cullinet
+and CinCom Systems. Mr. McGurk holds an MBA and BS from Miami University in
+Ohio.
+
+FREDERIC G. TILLMAN. Mr. Tillman was appointed Vice President of Technology
+Development in August 1999. He joined ARI in September 1998 as part of the
+acquisition of Powercom where he had been Vice President of Software
+Development. Prior to joining Powercom in May 1998, Mr. Tillman was Director of
+New Product Development for ADAC Healthcare Information Systems in Houston,
+Texas, a producer of information systems for hospital laboratories and radiology
+departments. Before joining ADAC in 1990, Mr. Tillman spent six years at General
+
+
+
+                                       7
+<PAGE>
+
+Dynamics as a software engineer. Mr. Tillman holds an MBA from Texas Christian
+University and a BS in Computer Science from Oklahoma State University.
+
+JEFFREY E. HORN. Mr. Horn joined ARI in December 2000 as Director of U.S. Sales.
+In September 2002, Mr. Horn was appointed Vice President of North American
+Sales. Before joining ARI, Mr. Horn held sales executive positions for a number
+of technology-based companies with the responsibility of establishing,
+maintaining and expanding customer relationships in the technology marketplace.
+Prior to joining ARI, Mr. Horn was Director of Sales, North America for
+CyberShift, Inc., Parsippany, New Jersey, a division of Amano-Blick
+International. Before joining CyberShift in 1995, Mr. Horn was National Accounts
+District Manager for Automatic Data Processing, Milwaukee, Wisconsin, and
+District Sales Manager for Kronos Incorporated, Houston, Texas. Mr. Horn holds a
+BA in business administration from the University of North Texas.
+
+PART II
+
+ITEM 5.  MARKET FOR COMPANY'S COMMON EQUITY AND RELATED STOCKHOLDER MATTERS
+
+ARI's common stock is currently quoted on the NASDAQ Over the Counter Bulletin
+Board ("OTCBB") under the symbol ARIS. The following table sets forth the high
+and low closing sales price for the periods indicated. OTCBB quotations reflect
+inter-dealer prices, without retail mark-up, mark-down or commission and may not
+necessarily reflect actual transactions.
+
+<Table>
+<Caption>
+Fiscal Quarter Ended                High            Low
+
+<S>                                <C>            <C>
+October 31, 2000 ........          $2.594          $1.750
+
+January 31, 2001 ........          $2.250          $0.938
+
+April 30, 2001 ..........          $1.625          $0.688
+
+July 31, 2001 ...........          $1.050          $0.220
+
+October 31, 2001 ........          $0.320          $0.180
+
+January 31, 2002 ........          $1.000          $0.200
+
+April 30, 2002 ..........          $0.800          $0.310
+
+July 31, 2002 ...........          $0.510          $0.300
+</Table>
+
+
+As of October 25, 2002, there were approximately 234 holders of record of the
+Company's common stock. The Company has not paid cash dividends to date and has
+no present intention to pay cash dividends.
+
+
+
+                                       8
+<PAGE>
+
+ITEM 6.  SELECTED FINANCIAL DATA
+
+The following table sets forth certain financial information with respect to the
+Company as of and for each of the five years in the period ended July 31, 2002,
+which was derived from audited Financial Statements and Notes thereto of ARI
+Network Services, Inc. Audited Financial Statements and Notes as of July 31,
+2002 and 2001 and for each of the three years in the period ended July 31, 2002,
+and the report of Ernst & Young LLP thereon are included elsewhere in this
+Report. The selected financial data should be read in conjunction with
+"Management's Discussion and Analysis of Financial Condition and Results of
+Operations" and the Financial Statements and Notes thereto included elsewhere
+herein.
+
+                          STATEMENT OF OPERATIONS DATA:
+                      (IN THOUSANDS, EXCEPT PER SHARE DATA)
+
+<Table>
+<Caption>
+                                                                                       YEAR ENDED JULY 31
+                                                             --------------------------------------------------------------------
+                                                               2002           2001           2000           1999           1998
+                                                             --------       --------       --------       --------       --------
+<S>                                                          <C>            <C>            <C>            <C>            <C>
+Subscriptions, support and other services revenues           $  8,915       $  9,985       $  9,743       $  8,616       $  5,811
+Software license and renewal revenues                           2,721          3,266          1,289          2,822          1,431
+Professional services revenues                                  2,227          2,526          2,272          1,450            722
+                                                             --------       --------       --------       --------       --------
+    Total revenues                                             13,863         15,777         13,304         12,888          7,964
+Operating expenses:
+    Cost of subscriptions, support and other
+       services sold                                              387          1,740          1,415          1,431          1,327
+    Cost of software licenses and renewals sold (1)             1,523          3,137          3,614          2,543          1,333
+    Cost of professional services sold                            738          1,359          1,965          1,234            407
+    Depreciation and amortization (exclusive of
+       amortization of software products included in
+       cost of sales)                                             223          1,517          1,778          1,773          1,021
+    Customer operations and support                             1,220          1,597          2,048          1,017            708
+    Selling, general and administrative                         6,835          8,790          8,214          6,995          4,586
+    Software development and technical support                  2,056          3,317          2,779          2,786          2,198
+    Restructuring and other charges (2)                            --          7,766             --             --             --
+                                                             --------       --------       --------       --------       --------
+       Operating expenses before amounts
+            capitalized                                        12,982         29,223         21,813         17,779         11,580
+    Less capitalized portion                                     (717)        (1,972)        (1,729)        (1,802)        (1,546)
+                                                             --------       --------       --------       --------       --------
+       Net operating expenses                                  12,265         27,251         20,084         15,977         10,034
+                                                             --------       --------       --------       --------       --------
+Operating income (loss)                                         1,598        (11,474)        (6,780)        (3,089)        (2,070)
+Other income (expense)                                         (1,410)        (1,551)          (822)          (326)           (70)
+                                                             --------       --------       --------       --------       --------
+    Net income (loss)                                        $    188       $(13,025)      $ (7,602)      $ (3,415)      $ (2,140)
+                                                             ========       ========       ========       ========       ========
+
+Weighted average diluted common shares outstanding              6,238          6,175          6,002          5,061          4,119
+Basic and diluted net income (loss) per share                $   0.03       $  (2.11)      $  (1.27)      $  (0.67)      $  (0.52)
+</Table>
+
+                          SELECTED BALANCE SHEET DATA:
+                                 (IN THOUSANDS)
+
+<Table>
+<S>                                                          <C>            <C>            <C>            <C>            <C>
+Working capital (deficit)                                    $ (8,713)      $ (9,696)      $ (4,680)      $ (3,476)      $    762
+Capitalized software development (net) (3)                      3,066          3,961         11,901         14,052          9,122
+Total assets                                                    6,374          7,060         18,488         20,438         12,808
+Current portion of long-term debt and capital
+    lease obligations                                           3,691          3,608            933            713             58
+Total long-term debt and capital lease obligations                 26            251          2,695          3,511          1,653
+Total shareholders' equity (deficit)                           (5,606)        (5,850)         7,159          9,756          8,962
+</Table>
+
+
+(1)      Includes amortization of software products of $1,612, $3,178, $3,224,
+         $2,057 and $1,121.
+
+(2)      See note 3 to the financial statements.
+
+(3)      Fiscal 1999 includes a reclassification of $5,208 from goodwill as a
+         result of the finalization of the purchase price allocation for the NDI
+         acquisition.
+
+
+
+                                       9
+<PAGE>
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+        OF OPERATIONS
+
+                                     SUMMARY
+
+ARI achieved its first full year of profitable operations, with earnings
+increasing from a net loss of $13,025,000 for the fiscal year ended July 31,
+2001 to net income of $188,000 for the fiscal year ended July 31, 2002. The
+increase in earnings was due to the one-time charges to earnings in fiscal 2001
+associated with the Company's restructuring and the cost reductions in fiscal
+2002 as a result of the restructuring. Total revenue declined 12% during fiscal
+2002 compared to fiscal 2001, while recurring revenues in the Equipment Industry
+grew 3%. The decline in revenue was primarily due to the expected decline in the
+Company's non-strategic product revenues and a decline in new customer
+customization revenues in the Company's strategic product lines. Management
+expects the Company to continue to generate enough cash to fund operations,
+investment and pay down debt in fiscal 2003, but given the problematic outlook
+for the economy, profitability is not assured. In the event the Company is not
+successful in its lawsuit regarding the Debenture, management expects the
+Company would be able to pay the Debenture in full over several years but it
+cannot pay it in full at this time. See "Liquidity and Capital Resources".
+
+                   CRITICAL ACCOUNTING POLICIES AND ESTIMATES
+
+General
+
+The Company's discussion and analysis of its financial condition and results of
+operations are based upon its financial statements, which have been prepared in
+accordance with accounting principles generally accepted in the United States.
+The preparation of these financial statements requires the Company to make
+estimates and judgments that affect the reported amounts of assets, liabilities,
+revenues and expenses, and related disclosure of contingent assets and
+liabilities. On an on-going basis, the Company evaluates its estimates,
+including those related to customer contracts, bad debts, intangible assets,
+financing instruments, restructuring and other accrued revenues and expenses.
+The Company bases its estimates on historical experience and on various other
+assumptions that are believed to be reasonable under the circumstances, the
+results of which form the basis for making judgments about the carrying values
+of assets and liabilities that are not readily apparent from other sources.
+Actual results may differ from these estimates under different assumptions or
+conditions.
+
+The Company believes the following critical accounting policies affect its more
+significant judgments and estimates used in the preparation of its financial
+statements.
+
+Revenue Recognition
+
+Revenue for use of the network and for information services is recognized in the
+period such services are utilized. Revenue from annual or periodic maintenance
+fees, license and license renewal fees and catalog subscription fees is
+recognized ratably over the period the service is provided. Arrangements that
+include acceptance terms beyond the Company's standard terms are not recognized
+until acceptance has occurred. If collectibility is not considered probable,
+revenue is recognized when the fee is collected. Arrangements that include
+professional services are evaluated to determine whether those services are
+essential to the functionality of other elements of the arrangement. When
+professional services are not considered essential, the revenue allocable to the
+professional services is recognized as the services are performed. When
+professional services are considered essential, revenue under the arrangement is
+recognized pursuant to contract accounting using the percentage-of-completion
+method with progress-to-completion measured based upon labor hours incurred.
+When the current estimates of total contract revenue and contract cost indicate
+a loss, a provision for the entire loss on the contract is made. Revenue on
+arrangements with customers who are not the ultimate users (resellers) is
+deferred if there is any contingency on the ability and intent of the reseller
+to sell such software to a third party.
+
+
+
+                                       10
+<PAGE>
+
+Bad Debts
+
+The Company maintains an allowance for doubtful accounts for estimated losses
+resulting from the inability of its customers to make required payments. The
+Company currently reserves for most amounts due over 90 days, unless there is
+reasonable assurance of collectability. If the financial condition of the
+Company's customers were to deteriorate, resulting in an impairment of their
+ability to make payments, additional allowances may be required.
+
+Use of Estimates
+
+The preparation of the Company's financial statements in conformity with
+accounting principles generally accepted in the United States requires
+management to make estimates and assumptions about accrued expenses, including
+royalties and other contingent expenses that affect the amounts reported in the
+financial statements and accompanying notes. Actual results could differ from
+those estimates.
+
+Debt Instruments
+
+The Company valued a debt discount for Common Stock Warrants and Options granted
+in consideration for the Debenture and the WITECH Facility using the Black
+Scholes valuation method. Non-cash interest expense is recorded for the
+amortization of the debt discount over the term of the debt.
+
+Impairment of Long-Lived Assets
+
+Equipment and leasehold improvements and capitalized software product costs are
+reviewed for impairment whenever events or changes in circumstances indicate
+that the carrying amount may not be recoverable. If the sum of the expected
+undiscounted cash flows is less than the carrying value of the related asset or
+group of assets, a loss is recognized for the difference between the fair value
+and carrying value of the asset or group of assets.
+
+                                    REVENUES
+
+Management reviews the Company's recurring vs. non-recurring revenue in the
+aggregate and within the North American Equipment, non-North American Equipment
+and non-Equipment industries and by product category within the Equipment
+Industry. The Equipment Industry has been a growing percentage of our revenue
+over the past five years, representing approximately 83% of the Company's total
+revenue in fiscal 2002. The Company's strategic focus is electronic catalog and
+related products in the Equipment Industry, which represents approximately 77%
+of the Company's total revenue in fiscal 2002.
+
+
+
+                                       11
+<PAGE>
+
+The following tables set forth, for the periods indicated, certain revenue
+information derived from the Company's financial statements:
+
+                           REVENUE BY INDUSTRY SECTOR
+                                 (IN THOUSANDS)
+
+<Table>
+<Caption>
+
+                                                                   YEAR ENDED JULY 31
+                                      ----------------------------------------------------------------------------
+           INDUSTRY SECTOR:                                        PERCENT                                 PERCENT
+                                        2002         2001          CHANGE        2001         2000          CHANGE
+                                      -------      -------         -------     -------      -------        -------
+<S>                                   <C>          <C>               <C>       <C>          <C>               <C>
+EQUIPMENT INDUSTRY
+    North American
+       Recurring                      $ 7,881      $ 7,715            2%       $ 7,715      $ 5,219           48%
+       Non-recurring                    2,298        3,014          (24)%        3,014        2,245           34%
+                                      -------      -------                     -------      -------
+          Subtotal                     10,179       10,729           (5)%       10,729        7,464           44%
+
+    Non-North American
+       Recurring                        1,039          981            6%           981          402          144%
+       Non-recurring                      294          350          (16)%          350          619          (43)%
+                                      -------      -------                     -------      -------
+          Subtotal                      1,333        1,331            0%         1,331        1,021           30%
+
+    Total Equipment Industry
+       Recurring                        8,920        8,696            3%         8,696        5,621           55%
+       Non-recurring                    2,592        3,364          (23)%        3,364        2,864           17%
+                                      -------      -------                     -------      -------
+          Subtotal                     11,512       12,060           (5)%       12,060        8,485           42%
+
+NON-EQUIPMENT INDUSTRY
+    Recurring                           2,343        3,686          (36)%        3,686        4,483          (18)%
+    Non-recurring                           8           31          (74)%           31          336          (91)%
+                                      -------      -------                     -------      -------
+    Subtotal                            2,351        3,717          (37)%        3,717        4,819          (23)%
+
+
+TOTAL REVENUE
+    Recurring                          11,263       12,382           (9)%       12,382       10,104           23%
+    Non-recurring                       2,600        3,395          (23)%        3,395        3,200            6%
+                                      -------      -------                     -------      -------
+    Grand Total                       $13,863      $15,777          (12)%      $15,777      $13,304           19%
+                                      =======      =======                     =======      =======
+</Table>
+
+                  REVENUE BY PRODUCT IN THE EQUIPMENT INDUSTRY
+                                 (IN THOUSANDS)
+
+<Table>
+<Caption>
+                                                                   YEAR ENDED JULY 31
+                                      ----------------------------------------------------------------------------
+               PRODUCT:                                            PERCENT                                 PERCENT
+                                        2002        2001           CHANGE       2001         2000           CHANGE
+                                      -------      -------         -------     -------      -------        -------
+<S>                                   <C>          <C>               <C>       <C>          <C>               <C>
+EQUIPMENT INDUSTRY
+    Catalog and related
+       Recurring                      $ 8,258      $ 7,482           10%       $ 7,482      $ 4,390           70%
+       Non-recurring                    2,464        3,067          (20)%        3,067        1,596           92%
+                                      -------      -------                     -------      -------
+          Subtotal                     10,722       10,549            2%        10,549        5,986           76%
+
+    Communications
+       Recurring                          662        1,214          (45)%        1,214        1,231           (1)%
+       Non-recurring                      128          297          (57)%          297        1,268          (77)%
+                                      -------      -------                     -------      -------
+          Subtotal                        790        1,511          (48)%        1,511        2,499          (40)%
+                                      -------      -------                     -------      -------
+    Total Equipment Industry          $11,512      $12,060           (5)%      $12,060      $ 8,485           42%
+                                      =======      =======                     =======      =======
+</Table>
+
+
+
+                                       12
+<PAGE>
+
+Recurring revenues are derived from catalog subscription fees, software
+maintenance and support fees, software license renewals, network traffic and
+support fees and other miscellaneous subscription fees. Recurring revenues
+decreased in fiscal 2002, compared to the prior year, due to decreases in the
+non-equipment industry revenues and increased in fiscal 2001, compared to the
+prior year, primarily due to increases in Equipment Industry revenues. Recurring
+revenue, as a percentage of total revenue, increased from 76% in fiscal 2000 and
+78% in fiscal 2001 to 81% in fiscal 2002 primarily due to increases in the
+customer base in the Equipment Industry. Management believes a ratio of
+approximately two thirds recurring revenue to one third non-recurring revenue is
+desirable in order to establish an appropriate level of base revenue while
+continuing to add new sales to drive future increases in recurring revenue. This
+revenue mix may fluctuate from quarter to quarter or year to year.
+
+Non-recurring revenues are derived from initial software licenses and
+professional service fees. Non-recurring revenues decreased in fiscal 2002,
+compared to the prior year, primarily due to a decrease in large customization
+projects in the Equipment Industry. Non-recurring revenues increased in fiscal
+2001, compared to fiscal 2000, due to increased catalog license revenue in the
+Equipment Industry. Management believes that non-recurring revenues in the
+Equipment Industry will increase slightly during fiscal 2003.
+
+Equipment Industry
+
+The Equipment Industry comprises several vertical markets including outdoor
+power, recreation vehicles, motorcycles, marine, construction, power sports,
+floor maintenance, auto and truck parts aftermarket and others. Management's
+strategy is to expand the Company's electronic parts catalog software and
+services business with manufacturers and distributors and their dealers in the
+existing vertical markets, add additional products and services in these markets
+and then expand to other similar markets in the future.
+
+         North American
+
+         Recurring revenues in the North American Equipment Industry increased
+         in fiscal 2002 and fiscal 2001, compared to the prior year, primarily
+         due to an increase in the base of catalog customers. Non-recurring
+         revenues in the North American Equipment Industry decreased in fiscal
+         2002, compared to the prior year, primarily due to a decrease in major
+         software customization projects. Non-recurring revenues in the North
+         American Equipment Industry increased in fiscal 2001, compared to the
+         prior year, primarily due to increased software and professional
+         services sold to new and existing manufacturing customers.
+
+         Non-North American
+
+         Recurring revenues in the non-North American Equipment Industry
+         increased in fiscal 2002 and fiscal 2001, compared to the prior year,
+         primarily due to an increase in the base revenue of catalog customers.
+         Non-recurring revenues in the non-North American Equipment Industry
+         decreased in fiscal 2002, compared to the prior year, primarily due to
+         a decrease in major software customization projects. Non-recurring
+         revenues in the non-North American Equipment Industry decreased in
+         fiscal 2001, compared to the prior year, primarily due to lower new
+         software licenses because of the decline in the manufacturing sector of
+         the economy.
+
+         Catalog and Related Products
+
+         Revenues from the Company's catalog and related products in the
+         Equipment Industry increased in fiscal 2002 and fiscal 2001, compared
+         to the prior year, primarily due to an increase in the Company's base
+         of electronic catalog customers and an increase in the volume of
+         catalogs purchased by dealers. Management expects recurring and
+         non-recurring catalog and related revenues to increase in both the
+         North American and non-North American Equipment Industry in fiscal 2003
+         and beyond, as the Company continues to focus attention and resources
+         on its catalog products.
+
+         Communications Products
+
+         Revenues from the Company's communications products decreased in both
+         fiscal 2002 and fiscal 2001, compared to the prior year, primarily due
+         to a decline in new product licenses and software customizations in
+         fiscal 2001 and a decline in the base of communications customers. The
+         Company has focused the
+
+
+
+                                       13
+<PAGE>
+
+         business primarily on its catalog products. Management expects revenues
+         from communications products will be a declining percentage of total
+         revenue in fiscal 2003.
+
+Non-Equipment Industry Business
+
+The Company's business outside of the Equipment Industry includes sales of
+database management services to the agricultural inputs industry and, for fiscal
+2000 and part of fiscal 2001, the railroad industry, electronic communications
+services to the agricultural inputs industry, and, for fiscal 2000, fiscal 2001
+and part of fiscal 2002, the on-line provision of information for republication
+to the non-daily newspaper publishing industry. Both recurring and non-recurring
+revenues in this business have decreased from the prior year in fiscal 2002 and
+in fiscal 2001. Our five-year contract with the Association of American
+Railroads expired in December 2000 and our five-year contract with the
+Associated Press, expired in February 2002. Revenue from these contracts was
+approximately $0.9 million in fiscal 2002.
+
+                       COST OF PRODUCTS AND SERVICES SOLD
+
+The following table sets forth, for the periods indicated, certain revenue and
+cost of products and services sold information derived from the Company's
+financial statements.
+
+   COST OF PRODUCTS AND SERVICES SOLD AS A PERCENT OF REVENUE BY REVENUE TYPE
+                                 (IN THOUSANDS)
+
+<Table>
+<Caption>
+                                                                                  YEAR ENDED JULY 31
+                                                   -------------------------------------------------------------------------------
+            PRODUCT:                                                            PERCENT                                    PERCENT
+                                                     2002         2001           CHANGE         2001         2000           CHANGE
+                                                   -------       -------        -------       -------       -------        -------
+
+<S>                                                <C>           <C>               <C>        <C>           <C>                 <C>
+Subscriptions, support and other services
+fees
+   Revenue                                         $ 8,915       $ 9,985           (11)%      $ 9,985       $ 9,743             2%
+   Cost of revenue                                     387         1,740           (78)%        1,740         1,415            23%
+   Cost of revenue as a percent of revenue               4%           17%                          17%           15%
+
+Software licenses and renewals
+   Revenue                                           2,721         3,266           (17)%        3,266         1,289           153%
+   Cost of revenue                                   1,523         3,137           (51)%        3,137         3,614           (13)%
+   Cost of revenue as a percent of revenue              56%           96%                          96%          280%
+
+Professional services
+   Revenue                                           2,227         2,526           (12)%        2,526         2,272            11%
+   Cost of revenue                                     738         1,359           (46)%        1,359         1,965           (31)%
+   Cost of revenue as a percent of revenue              33%           54%                          54%           86%
+
+Total
+   Revenue                                         $13,863       $15,777           (12)%      $15,777       $13,304            19%
+   Cost of revenue                                   2,648         6,236           (58)%        6,236         6,994           (11)%
+   Cost of revenue as a percent of revenue              19%           40%                          40%           53%
+
+</Table>
+
+Cost of subscriptions, support and other services consists primarily of
+telecommunication costs, catalog replication and distribution costs and
+royalties on revenues in the newspaper publishing industry (non-equipment). Cost
+of subscriptions, support and other services fees as a percentage of revenue
+decreased significantly in fiscal 2002, compared to the prior year, primarily
+due to the elimination of revenues and related royalties in the newspaper
+publishing industry, which have a lower margin than other revenues in this
+category, and the favorable settlement of a reserve for royalties in the
+newspaper publishing industry. Cost of subscriptions, support and other services
+fees as a percentage of revenue remained relatively the same in fiscal 2001,
+compared to the prior year. Management expects gross margins, as a percent of
+revenue from subscriptions, support and other services fees, to be relatively
+consistent from quarter to quarter, now that the royalties from revenues in the
+newspaper publishing industry are no longer being incurred.
+
+Cost of software licenses and renewals consists primarily of amortization of
+software products, royalties and software distribution costs. Cost of software
+license and renewals as a percentage of revenue decreased significantly
+
+
+
+                                       14
+<PAGE>
+
+in fiscal 2002, compared to the prior year, primarily due to lower software
+amortization costs as a result of the restructuring in the fourth quarter of
+fiscal 2001 and the elimination of royalties associated with the NDI
+acquisition. Cost of software licenses and renewals as a percentage of revenue
+decreased in fiscal 2001, compared to the prior year, due to lower software
+license and renewal revenues but constant software product amortization costs,
+which are fixed regardless of the level of sales. Management expects gross
+margins from software licenses and renewals to fluctuate from quarter to quarter
+based on the level of revenue, while costs remain relatively the same as
+amortization of software is not related to the level of revenue generated from
+software license and renewals.
+
+Cost of professional services consists of customization and catalog production
+labor. Cost of professional services as a percentage of revenue decreased in
+fiscal 2002 and fiscal 2001, compared to the prior year, primarily due to
+significant decreases in communication software customizations, which have low
+or negative margins and an increase in catalog production revenue as the Company
+converted several NDI contracts from a fixed price to a time and materials
+price. Management expects gross margins on professional services to fluctuate
+from quarter to quarter depending on the mix of services sold and on the
+Company's performance towards the contracted amount for customization projects.
+
+                               OPERATING EXPENSES
+
+The following table sets forth, for the periods indicated, certain operating
+expense information derived from the Company's financial statements:
+
+                               OPERATING EXPENSES
+                                 (IN THOUSANDS)
+
+<Table>
+<Caption>
+                                                                                   YEAR ENDED JULY 31
+                                                      ----------------------------------------------------------------------------
+                                                                                   PERCENT                                 PERCENT
+                                                        2002         2001          CHANGE       2001         2000          CHANGE
+                                                      --------     --------        -------    --------     --------       --------
+
+<S>                                                   <C>          <C>               <C>      <C>          <C>               <C>
+Cost of products and services sold                    $  2,648     $  6,236          (58)%    $  6,236     $  6,994          (11)%
+Customer operations and support                          1,220        1,597          (24)%       1,597        2,048          (22)%
+Selling, general and administrative                      6,835        8,790          (22)%       8,790        8,214            7%
+Software development and technical support               2,056        3,317          (38)%       3,317        2,779           19%
+Depreciation and amortization (exclusive
+  of amortization of software products included
+  in cost of products and services sold)                   223        1,517          (85)%       1,517        1,778          (15)%
+Restructuring and other charges                             --        7,766         (100)%       7,766           --          n/a
+Less capitalized portion                                  (717)      (1,972)         (64)%      (1,972)      (1,729)          14%
+                                                      --------     --------                   --------     --------
+ Net operating expenses                               $ 12,265     $ 27,251          (55)%    $ 27,251     $ 20,084           36%
+                                                      ========     ========                   ========     ========
+</Table>
+
+
+Net operating expenses decreased significantly in fiscal 2002, compared to the
+prior year, as a result of cost reductions associated with the Company's
+restructuring and increased in fiscal 2001, compared to the prior year,
+primarily due to restructuring and other charges.
+
+Customer operations and support consists primarily of server room operations,
+software maintenance agreements for the Company's core network and customer
+support costs. Customer operations and support costs decreased in fiscal 2002,
+compared to the prior year, primarily due to the cost reductions associated with
+the Company's restructuring. Customer operations and support costs decreased in
+fiscal 2001, compared to the prior year, primarily due to cost reductions in
+catalog data maintenance and directory services. Management expects these costs
+to remain more or less at the same level in fiscal 2003.
+
+Selling, general and administrative expenses ("SG&A") decreased in fiscal 2002,
+compared to the prior year, primarily due to the cost reductions associated with
+the Company's restructuring. SG&A increased in fiscal 2001, compared to the
+prior year, primarily due to the hiring of additional upper level finance, sales
+and marketing personnel. SG&A, as a percentage of revenue, was 49% in fiscal
+2002, 56% in fiscal 2001 and 62% in fiscal 2000. Management expects SG&A to
+decline as a percentage of revenues in the future.
+
+
+
+                                       15
+<PAGE>
+
+The Company's technical staff (in-house and contracted) is allocated between
+software development and technical support and software customization services
+for customer applications. Therefore, management expects fluctuations between
+software customization services and development expenses from quarter to
+quarter, as the mix of development and customization activities will change
+based on customer requirements. During fiscal 2002, our technical resources were
+primarily focused on enhancements to our CD-ROM and Web-based catalog products
+and on-going catalog updates. During fiscal 2001, our technical resources were
+focused primarily on a new release of TradeRoute(R), a major customization
+project of our Web-based catalog for a customer in the auto parts aftermarket
+industry and on-going catalog data updates. During fiscal 2000, our technical
+resources were focused primarily on customization projects for our TradeRoute(R)
+customers and development of Web-based communications and cataloging software.
+We expect our technical resources to continue to focus on software
+customization, catalog data updates and development of catalog software in
+fiscal 2003, although the mix may fluctuate quarter to quarter based on customer
+requirements. We expect software customization and development expenses to
+remain more or less at the same level during fiscal 2003.
+
+Depreciation and amortization expenses decreased significantly in fiscal 2002,
+compared to fiscal 2001 and fiscal 2000, primarily due to the write-off of the
+Company's communications platform as a result of the restructuring in July 2002.
+Depreciation and amortization, as a percentage of total revenue, was 2% in
+fiscal 2002, 10% in fiscal 2001 and 13% in fiscal 2000. Management expects
+depreciation and amortization expenses to remain more or less at the same level
+in fiscal 2003.
+
+In the fourth quarter of fiscal 2001, management commenced a restructuring
+designed to refocus resources from the Company's communication products to the
+Company's core catalog products, which contribute greater cash margins, in order
+to reach sustainable cash generation and earnings. During the quarter ended July
+31, 2001, the Company incurred non-cash impairment charges of $7,333,000 for the
+write-off of long-lived assets related to our network platform and communication
+software and $433,000 in accrued restructuring expense related to severance and
+future minimum lease payments. By the end of October 2001, the Company had
+reduced its number of full-time equivalent employees to 101 from 137 prior to
+the restructuring and eliminated all but a few contract staff. The reductions
+have not had a material adverse effect on the Company's competitiveness or
+operations and the restructuring positioned the Company to show a quarterly
+profit for the entire year in fiscal 2002.
+
+Capitalized development costs represented 35% of software development and
+support expense in fiscal 2002, compared to 59% in fiscal 2001 and 62% in fiscal
+2000. Capitalized expenses decreased in fiscal 2002, compared to fiscal 2001 and
+fiscal 2000, as a percentage of software development and technical support,
+because the Company's development resources were focused on software
+customization projects and catalog data updates, both of which are expensed.
+
+                                   OTHER ITEMS
+
+Interest expense decreased $152,000 in fiscal 2002, compared to the prior year,
+as the Company paid off $808,000 of debt principal. Interest expense increased
+$794,000 in fiscal 2001, compared to the prior year, due to the Debenture and
+additional financing by the Company under its RFC facility. The Company expects
+interest expense to decrease in fiscal 2003, as the Company continues to pay
+down principal balances. See "Liquidity and Capital Resources".
+
+The Company had net income of $188,000 in fiscal 2002, an improvement of
+$13,213,000 over the prior year, primarily due to cost reductions associated
+with the restructuring. Earnings decreased $5,423,000 in fiscal 2001, compared
+to the prior year, primarily due to the write-off of impaired assets and the
+accrual of related expenses in the Company's restructuring. Management expects
+earnings to be near break-even in fiscal 2003, assuming that the Company's debt
+can be restructured, although there can be no assurance that this will occur.
+See "Liquidity and Capital Resources".
+
+
+
+                                       16
+<PAGE>
+
+                         LIQUIDITY AND CAPITAL RESOURCES
+
+The following table sets forth, for the periods indicated, certain cash flow
+information derived from the Company's financial statements.
+
+                              CASH FLOW INFORMATION
+                                 (IN THOUSANDS)
+
+<Table>
+<Caption>
+                                                                                      YEAR ENDED JULY 31
+                                                           -----------------------------------------------------------------------
+                                                                                     PERCENT                               PERCENT
+                                                             2002        2001        CHANGE      2001         2000         CHANGE
+                                                           -------      -------      -------    -------     -------        -------
+<S>                                                        <C>         <C>             <C>      <C>         <C>             <C>
+Net cash provided by (used in) operating activities
+   before changes in working capital                       $ 3,034     $   401         657%     $   401     $(2,316)        117%
+Net cash used in investing activities                       (1,058)     (1,977)         46%      (1,977)     (1,792)        (10)%
+                                                           -------      ------                  -------     -------
+   Subtotal                                                  1,976      (1,576)        225%      (1,576)     (4,108)         62%
+Effect of net changes in working capital                      (391)      2,084        (119)%      2,084       1,153          81%
+                                                           -------      ------                  -------     -------
+   Net cash provided by (used in) operating and
+     investing activities                                  $ 1,585     $   508         212%     $   508     $(2,955)        117%
+                                                           =======     =======                  =======     =======
+</Table>
+
+Net cash provided by (used in) operating activities before changes in working
+capital increased in fiscal 2002, compared to the prior year, due to cost
+reductions associated with the Company's restructuring. Net cash provided by
+(used in) operating activities before changes in working capital increased in
+fiscal 2001, compared to the prior year, due to increased revenues and tight
+cost controls.
+
+Net cash used in investing activities decreased in fiscal 2002, compared to the
+prior year, due to cost reductions in the communications software development
+area associated with the Company's restructuring. Net cash used in investing
+activities increased in fiscal 2001, compared to the prior year, due to
+increased costs attributable to the development of the Company's Web-based
+communications and catalog software and a new release of the Company's
+TradeRoute(R) software.
+
+The effect of net changes in working capital is dependent on the timing of
+payroll and other cash disbursements and may vary significantly from year to
+year. In fiscal 2002, the change in working capital was negative, compared to a
+substantial positive number in the prior year, primarily due to decreases in
+accrued payroll related expenses, accrued royalties and other accruals. In
+fiscal 2001, cash provided by working capital was higher, compared to the prior
+year, primarily due to intensive collection efforts on past due accounts
+receivables and an increase in deferred revenue as sales increased.
+
+At July 31, 2002, the Company had cash and cash equivalents of approximately
+$879,000 compared to approximately $313,000 at July 31, 2001.
+
+
+
+                                       17
+<PAGE>
+
+The following table sets forth, for the periods indicated, certain information
+related to the Company's debt derived from the Company's audited financial
+statements.
+
+                                  DEBT SCHEDULE
+                                 (IN THOUSANDS)
+
+<Table>
+<Caption>
+
+                                                              JULY 31        JULY 31          NET
+                                                                2002          2001          CHANGE
+                                                              -------        -------        -------
+<S>                                                           <C>            <C>            <C>
+Debt to Shareholder:
+   Current portion of line of credit                          $    --        $   200        $  (200)
+   Current portion of notes payable                                56            333           (277)
+   Long-term portion of notes payable                              --             56            (56)
+   Debt discount (common stock warrants)                           (6)           (41)            35
+                                                              -------        -------        -------
+      Total Debt to Shareholder                                    50            548           (498)
+Subordinated Debenture:
+   Notes payable*                                               4,000          4,000             --
+   Debt discount (common stock warrants and options)             (588)        (1,373)           785
+                                                              -------        -------        -------
+      Total Subordinated Debenture                              3,412          2,627            785
+Other Debt:
+   Current portion of notes payable other                          78            275           (197)
+   Long-term notes payable other                                   --             78            (78)
+                                                              -------        -------        -------
+      Total Other Debt                                             78            353           (275)
+                                                              -------        -------        -------
+Total Debt                                                    $ 3,540        $ 3,528        $    12
+                                                              =======        =======        =======
+</Table>
+
+* The Debenture requires the Company to maintain listing of its common stock on
+the Nasdaq National Market, the Nasdaq Small Cap Market, the New York Stock
+Exchange or the American Stock Exchange and that failure to meet this
+requirement allows the holder to accelerate the Debenture at 130% of principal
+and accrued interest, and to increase the interest rate from 7% to 17%. The
+Company's common stock is not so listed.
+
+On April 27, 2000, the Company issued and sold pursuant to a Securities Purchase
+Agreement, dated as of April 25, 2000, (i) a convertible subordinated debenture
+in the amount of $4,000,000 due on April 27, 2003 (the "Debenture"), and
+convertible into shares of the Company's common stock, (ii) warrants to purchase
+600,000 shares of common stock (the "Warrants"), and (iii) an investment option
+to purchase 800,000 shares of common stock (the "Investment Option"). The
+Investment Option expired on October 27, 2001 and the Warrants expire on April
+27, 2005. The Debenture is convertible into common stock at $4 per share and the
+Warrants are exercisable at $6 per share. As long as $500,000 or more principal
+amount of the Debenture is outstanding, the Company agreed not to: (i) pay any
+dividends or make any other distribution on our common stock, other than stock
+dividends and stock splits; (ii) repurchase or redeem any shares of our capital
+stock, except in exchange for common stock or preferred stock; (iii) incur or
+assume any liability for borrowed money, except our existing debt, debt from a
+bona fide financial lending institution, indebtedness to trade creditors,
+borrowings used to repay the debenture, indebtedness assumed or incurred in
+connection with the acquisition of a business, product, license or other asset,
+refinancing of any of the above, and indebtedness that is subordinate to the
+Debenture; (iv) sell or otherwise dispose of assets outside the normal course of
+business, except the sale of a business, product, license or other asset that
+our board of directors determines is in the best interests of us and our
+shareholders, and sales of assets with a value not exceeding $500,000 in any
+12-month period following the issuance of the debenture; (v) lend money or make
+advances to any person not in the ordinary course of business, except loans to
+subsidiaries or joint ventures approved by a majority of our independent
+directors, guarantee another person's liabilities, except, among other things,
+guarantees made in connection with the acquisition of a business, product,
+license or other asset.
+
+As set forth in "Item 3 - Legal Proceeding," the Company has filed a lawsuit in
+Milwaukee County Circuit Court against the original holder of the Debenture and
+three alleged transferees to enforce the terms of a stand-still and buy-back
+agreement between the Company and the original holder of the Debenture. The
+original holder of the Debenture denies that any such agreement exists. An agent
+for the alleged transferees of the Debenture has contacted the Company with
+demands that are wholly inconsistent with the terms of the stand-still and
+buy-back agreement and has submitted a purported demand to accelerate the
+maturity of the Debenture. The Company intends to vigorously contest the
+validity of this demand. In the event that the Company is not successful in its
+lawsuit, management expects that the Company would be able to pay the Debenture
+in full over several years but it cannot pay it in full at this time.
+
+
+
+                                       18
+<PAGE>
+
+During fiscal 2002, the Company had a term loan and a revolving line of credit
+with WITECH Corporation. The term loan was initially for $1.0 million, payable
+in equal monthly installments over three years, and the revolving line of credit
+was for a maximum of $1.0 million. The interest rate on the term loan was at
+prime plus 4.0% and on the revolving line of credit was prime plus 3.25%. The
+revolving line of credit terminated on December 31, 2001 and the term loan was
+repaid in full on October 1, 2002. During fiscal 2002, the Company incurred
+approximately $29,832 of interest with respect to its borrowings from WITECH.
+
+On September 28, 1999, ARI and RFC Capital Corporation ("RFC") executed a
+Receivables Sales Agreement (the "Sale Agreement") establishing a $3.0 million
+working capital facility. The three-year Sale Agreement allows RFC to purchase
+up to $3.0 million of ARI's accounts receivable. Under the Sale Agreement, RFC
+purchases 90% of eligible receivables. In connection with the Sale Agreement ARI
+was required to pay a commitment fee of $45,000 on September 28, 1999, $30,000
+on September 28, 2000, and $15,000 on September 28, 2001. In addition, ARI is
+obligated to pay a monthly program fee equal to the greater of (a) $3,000 or (b)
+the amount of the purchased but uncollected receivables times the prime rate
+plus 2%. The Sale Agreement has been extended through January 28, 2003. If the
+Sale Agreement is not renewed beyond the current expiration date, ARI's primary
+source of additional liquidity will no longer be available to it. In addition,
+the most recent extension provides that any attempt by the holder of the
+Debenture to accelerate the obligation shall be deemed an event of default under
+the Sale Agreement. As noted above, the Company has received a purported demand
+for immediate payment of the Debenture, but intends to vigorously contest the
+validity of the demand. If the Company loses the source of liquidity under the
+Sale Agreement and is unable to replace it, ARI's financial condition and
+capital resources would be significantly and adversely affected. As of October
+15, 2002, the balance of the RFC Facility was $522,000.
+
+Management believes that funds generated from operations and the Sales Agreement
+will be adequate to fund the Company's operations, investments and debt payments
+through fiscal 2003, provided the Debenture is satisfactorily resolved and/or
+restructured and the Sale Agreement renewed.
+
+The Company believes that earnings before interest, taxes, depreciation and
+amortization ("EBITDA") is generally accepted as providing useful information
+regarding a company's ability to service and/or incur debt. EBITDA increased
+from negative $6,743,000 in fiscal 2001 to positive $3,458,000 in fiscal 2002,
+primarily due to the cost reductions associated with the Company's
+restructuring. EBITDA decreased from negative $1,807,000 in fiscal 2000 to
+negative $6,743,000 in fiscal 2001 primarily due to restructuring and other
+charges, partially offset by increased revenues and cost controls over cash
+expenditures. Management believes that EBITDA will be positive in fiscal 2003,
+although there can be no assurance that this will occur.
+
+The Company has included data with respect to EBITDA because it is commonly used
+as a measurement of financial performance and by investors to analyze and
+compare companies on the basis of operating performance. EBITDA is not a
+measurement of financial performance under accounting principles generally
+accepted in the United States and should not be considered an alternative to
+operating income, as determined in accordance with accounting principles
+generally accepted in the United States, as an indicator of our operating
+performance, or an alternative to cash flows from operating activities, as
+determined in accordance with accounting principles generally accepted in the
+United States, or as a measure of our liquidity. EBITDA is not necessarily
+comparable with similarly titled measures for other companies.
+
+                           FORWARD LOOKING STATEMENTS
+
+Certain statements contained in this Form 10-K are forward looking statements
+including revenue growth, future cash flows and cash generation and sources of
+liquidity. Expressions such as "believes," "anticipates," "expects," and similar
+expressions are intended to identify such forward looking statements. Several
+important factors can cause actual results to materially differ from those
+stated or implied in the forward looking statements. Such factors include, but
+are not limited to the factors listed on exhibit 99.1 of the Company's annual
+report on Form 10-K for the year ended July 31, 2002, which is incorporated
+herein by reference.
+
+
+
+                                       19
+<PAGE>
+
+                            QUARTERLY FINANCIAL DATA
+
+The following table sets forth the unaudited operations data for each of the
+eight quarterly periods ended July 31, 2002, prepared on a basis consistent with
+the audited financial statements, reflecting all normal recurring adjustments
+that are considered necessary. The quarterly information is as follows (in
+thousands):
+
+<Table>
+<Caption>
+                                              1st                    2nd                   3rd                     4th
+                                      ------------------     ------------------     ------------------     ------------------
+                                        2002       2001       2002        2001        2002      2001         2002      2001
+                                      -------    -------     -------    -------     -------    -------     -------    -------
+<S>                                   <C>        <C>         <C>        <C>         <C>        <C>         <C>        <C>
+Net revenues                          $ 3,820    $ 4,142     $ 3,318    $ 4,086     $ 3,408    $ 3,876     $ 3,317    $ 3,673
+Gross profit                            3,007      2,300       2,801      2,460       2,677      2,499       2,730      2,282
+Net income (loss)                          63     (1,522)         34     (1,216)         18     (1,502)         73     (8,785)
+Basic and diluted
+   net income (loss) per share        $  0.01    $ (0.25)    $  0.01    $ (0.20)    $  0.00    $ (0.24)    $  0.01    $ (1.42)
+</Table>
+
+
+ITEM 7A.  QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+ARI is subject to market risks pertaining to interest rate movements and
+collectibility of accounts receivable. ARI's only expenses subject to interest
+rate risk are (i) interest expense on the WITECH Term Loan and (ii) monthly
+program fees owed with respect to the Sale Agreement. See "Liquidity and Capital
+Resources". The WITECH Term Loan, which bore interest tied to prevailing market
+rates, was paid in full as of October 15, 2002. The monthly program fees under
+the Sale Agreement are also tied to prevailing market interest rates. An
+increase or decrease of one percent in the prime interest rate would affect
+ARI's net income by approximately plus or minus $5,000, annualized, based on the
+outstanding balances under the Sale Agreement at October 15, 2002. As a result,
+ARI believes that the market risk relating to interest rate movements is
+minimal.
+
+
+
+
+ITEM 8.  FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+ARI's Financial Statements and related notes for the fiscal years ended July 31,
+2002, 2001 and 2000 together with the report thereon of ARI's independent
+auditors, Ernst & Young LLP, are attached hereto as Exhibit A-1.
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+        FINANCIAL DISCLOSURES
+
+         None
+
+                                    PART III
+
+ITEM 10.  DIRECTORS AND EXECUTIVE OFFICERS OF ARI
+
+Information regarding the directors of ARI and compliance with Section 16(a) of
+the Exchange Act is included in ARI's definitive 2002 Annual Meeting Proxy
+Statement, and is incorporated herein by reference. See "Election of Directors"
+and "Section 16(a) Beneficial Ownership Reporting Compliance." Information with
+respect to ARI's executive officers is shown at the end of Part I of this Form
+10-K.
+
+ITEM 11.  EXECUTIVE COMPENSATION
+
+Information regarding Executive Compensation, Employment Agreements,
+Compensation of Directors, Employee Stock Options and other compensation plans
+is included in ARI's definitive 2002 Annual Meeting Proxy Statement, and is
+incorporated herein by reference. See "Executive Compensation" and "Election of
+Directors".
+
+ITEM 12.  SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+Information regarding beneficial ownership of ARI's common stock and common
+stock authorized for issuance under equity compensation plans is included in
+ARI's definitive 2002 Annual Meeting Proxy Statement and is
+
+
+
+                                       20
+<PAGE>
+
+incorporated herein by reference. See "Security Ownership of Certain Beneficial
+Owners" and "Equity Compensation Plan Information".
+
+ITEM 13.  CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+Information related to Certain Relationships and Related Transactions is
+included in ARI's definitive 2002 Annual Meeting Proxy Statement, and is
+incorporated herein by reference. See "Certain Transactions".
+
+ITEM 14.  CONTROLS AND PROCEDURES
+
+In the quarter ended July 31, 2002, there were no significant changes in ARI's
+internal controls or in other factors that could significantly affect these
+controls, including any corrective actions with regard to significant
+deficiencies and material weaknesses. Management periodically reviews ARI's
+internal controls for effectiveness and plans to conduct quarterly evaluations
+of its disclosure controls and procedures.
+
+                                     PART IV
+
+ITEM 14. FINANCIAL STATEMENTS, FINANCIAL STATEMENT SCHEDULES, EXHIBITS AND
+         REPORTS ON FORM 8-K
+
+(a)1.
+FINANCIAL STATEMENTS
+
+Report of independent auditors on Financial Statements and Financial Statement
+Schedule.
+
+Balance sheets - July 31, 2002 and 2001.
+
+Statements of operations for each of the three years in the period ended July
+31, 2002.
+
+Statements of shareholders' equity (deficit) for each of the three years in the
+period ended July 31, 2002.
+
+Statements of cash flows for each of the three years in the period ended July
+31, 2002.
+
+Notes to financial statements - July 31, 2002.
+
+The Financial Statements are located immediately following the signature pages.
+
+
+(a)2.
+FINANCIAL STATEMENT SCHEDULES
+
+Schedule II
+
+Valuation and qualifying accounts for the years ended July 31, 2002, 2001, and
+2000.
+
+The Financial Statement Schedule is located immediately following the Financial
+Statements. All other schedules to which provision is made in the applicable
+accounting regulation of the Securities and Exchange Commission are not required
+under the related instructions or are inapplicable, and therefore have been
+omitted.
+
+(a)3.
+EXHIBITS:
+
+See (c) below.
+
+
+
+                                       21
+<PAGE>
+
+(b)  REPORTS ON FORM 8-K:
+
+There were no reports on Form 8-K filed for the three months ended July 31,
+2002.
+
+(c)
+EXHIBITS:
+
+<Table>
+<Caption>
+EXHIBIT
+NUMBER                                                   DESCRIPTION
+-------                                                  -----------
+<S>           <C>
+3.1           Articles of Incorporation of the Company, as amended, incorporated herein by reference to Exhibit 3.1
+              of the Company's Quarterly Report on Form 10-Q for the fiscal quarter ended April 30, 1999.
+
+3.2           By-laws of the Company incorporated herein by reference to Exhibit 3.1 of the Company's Registration
+              Statement on Form S-1 (Reg. No. 33-43148).
+
+4.1           The Company agrees to furnish to the Commission upon request copies of any agreements with respect to
+              long term debt not exceeding 10% of the Company's consolidated assets.
+
+10.1*         1991 Stock Option Plan, as amended, incorporated herein by reference to Exhibit 10.2 of the Company's
+              Form 10-Q for the quarter ended January 31, 1999.
+
+10.2*         1993 Director Stock Option Plan, as amended, incorporated herein by reference to Exhibit 10.3 of the
+              Company's Form 10-Q for the quarter ended January 31, 1999.
+
+10.3*         2000 Stock Option Plan, incorporated herein by reference to Exhibit 10.3 of the Company's Annual
+              Report on Form 10-K for the fiscal year ended July 31, 2000.
+
+10.4          Loan Agreement by and between the Company and WITECH Corporation dated October 4, 1993, incorporated
+              herein by reference to Exhibit 10.10 of the Company's Form 10-K for the fiscal year ended July 31,
+              1993.
+
+10.5          Amendment to Loan Agreement dated May 19, 1994 between the Company and WITECH Corporation,
+              incorporated herein by reference to Exhibit 10.22 of the Company's Registration Statement on Form S-3
+              (Reg. No. 33-75760).
+
+10.6          Amendment No. 2 to Loan Agreement dated July 28, 1994 between the Company and WITECH Corporation,
+              incorporated herein by reference to Exhibit 10.22 of the Company's Registration Statement on Form S-1
+              (Reg. No. 33-80914).
+
+10.7          Consent and Amendment No. 3 to Loan Agreement dated December 2, 1994 between the Company and WITECH
+              Corporation, incorporated herein by reference to Exhibit 10.1 of the Company's Form 10-Q for the
+              quarter ended October 31, 1994.
+
+10.8          Amendment No. 4 to Loan Agreement dated October 18, 1995 between the Company and WITECH Corporation,
+              incorporated herein by reference to Exhibit 10.14 of the Company's Form 10-K for the fiscal year ended
+              July 31, 1995.
+
+10.9          Amendment No. 5 to Loan Agreement dated December 20, 1995 between the Company and WITECH Corporation,
+              incorporated herein by reference to Exhibit 10.31 of the Company's Form 10-K for the fiscal year ended
+              July 31, 1996.
+
+10.10         Amendment No. 6 to Loan Agreement dated January 23, 1996, between the Company and WITECH Corporation,
+              incorporated herein by reference to Exhibit 10.32 of the Company's Form 10-K for the fiscal year ended
+              July 31, 1996.
+
+10.11         Amendment No. 7 to Loan Agreement dated April 20, 1996 between the Company and WITECH Corporation,
+              incorporated herein by reference to Exhibit 10.1 of the Company's Form 10-Q for the quarter ended
+              April 30, 1996.
+
+10.12         Amendment No. 8 to Loan Agreement dated May 31, 1996 between the Company and WITECH Corporation,
+              incorporated herein by reference to Exhibit 10.2 of the Company's Form 10-Q for the quarter ended
+              April 30, 1996.
+
+10.13         Amendment No. 9 to Loan Agreement dated November 5, 1996, between the Company and WITECH Corporation,
+              including Forms of Amended and Restated Commitment Warrant and Usage Warrant, incorporated herein by
+              reference to Exhibit 10.1 of the Company's Form 10-Q for the quarter ended October 31, 1996.
+
+10.14         Amendment No. 10 to Loan Agreement dated May 30, 1997, between the Company and WITECH Corporation,
+              incorporated herein by reference to Exhibit 10.1 of the Company's Form 10-Q for the quarter ended
+              April 30, 1997.
+</Table>
+
+
+
+                                       22
+<PAGE>
+
+
+<Table>
+<Caption>
+EXHIBIT
+NUMBER                                                  DESCRIPTION
+-------                                                 -----------
+<S>           <C>
+10.15         Amendment No. 11 to Loan Agreement dated January 21, 1998 between the Company and WITECH Corporation,
+              incorporated herein by reference to Exhibit 10.1 of the Company's Form 10-Q for the fiscal quarter
+              ended April 30, 1998.
+
+10.16         Amendment No. 12 to Loan Agreement dated May 27, 1998 between the Company and WITECH Corporation
+              incorporated herein by reference to Exhibit 10.1 of the Company's Form 10-Q for the fiscal quarter
+              ended April 30, 1998.
+
+10.17         Amendment No. 13 to Loan Agreement dated September 14, 1998 between the Company and WITECH Corporation
+              incorporated herein by reference to Exhibit 10.16 of the Company's Form 10-K for the fiscal year ended
+              July 31, 1998.
+
+10.18         Consent of WITECH Corporation, dated September 15, 1998, incorporated herein by reference to Exhibit
+              10.1 of the Company's Form 10-Q for the fiscal quarter ended October 31, 1998.
+
+10.19         Amendment No. 14 to Loan Agreement dated January 29, 1999, between the Company and WITECH Corporation,
+              incorporated herein by reference to Exhibit 10.1 of the Company's 10-Q for the fiscal quarter ended
+              January 31, 1999.
+
+10.20         Consent of WITECH Corporation, dated April 19, 1999, incorporated herein by reference to Exhibit 4.1
+              of the Company's Form 10-Q for the fiscal quarter ended April 30, 1999.
+
+10.21         Amendment No. 15 to Loan Agreement dated September 23, 1999, between the Company and WITECH
+              Corporation, incorporated herein by reference to Exhibit 10.20 of the Company's Form 10-K for the
+              fiscal year ended July 31, 1999.
+
+10.22         Amendment No. 16 to Loan Agreement dated December 21, 1999 between the Company and WITECH Corporation,
+              incorporated herein by reference to Exhibit 10.1 of the Company's Form 10-Q for the fiscal quarter
+              ended January 31, 2000.
+
+10.23         Amendment No. 17 to Loan Agreement dated July 9, 2001 between the Company and WITECH Corporation,
+              incorporated herein by reference to Exhibit 10.23 of the Company's Form 10-K for the fiscal year ended
+              July 31, 2001.
+
+10.24         Amendment No. 18 to Loan Agreement dated October 22, 2001 between the Company and WITECH Corporation,
+              incorporated herein by reference to Exhibit 10.24 of the Company's Form 10-K for the fiscal year ended
+              July 31, 2001.
+
+10.25         Receivables Sales Agreement, dated September 28, 1999, between the Company and RFC Capital
+              Corporation, incorporated herein by reference to Exhibit 10.21 of the Company's Form 10-K for the
+              fiscal year ended July 31, 1999.
+
+10.26         Amendments to Receivables Sales Agreement dated September 25, 2002 and October 31, 2002 between the
+              Company and RFC Capital Corporation.
+
+10.27*        Form of Change of Control Agreement between the Company and each of Brian E. Dearing, John C. Bray,
+              Michael E. McGurk, Frederic G. Tillman, Timothy Sherlock and Jeffrey E. Horn, incorporated herein by
+              reference to Exhibit 10.25 of the Company's Form 10-K for the fiscal year ended July 31, 1999.
+
+10.28*        Deferred Compensation Plan, incorporated herein by reference to Exhibit 10.26 of the Company's Form
+              10-K for the fiscal year ended July 31, 1999.
+
+10.29*        Deferred Bonus Plan, incorporated herein by reference to Exhibit 10.27 of the Company's Form 10-K for
+              the fiscal year ended July 31, 1999.
+
+10.30         Preferred Stock Purchase Agreement dated July 15, 1997, between the Company and WITECH Corporation,
+              incorporated herein by reference to Exhibit 10.1 of the Company's Registration Statement on Form S-2
+              (Reg. No. 333-31295) filed on July 15, 1997.
+
+10.31         Securities Purchase Agreement, dated as of April 25, 2000, by and among the Company and RGC
+              International Investors, LDC, incorporated herein by reference to Exhibit 99.1 of the Company's Report
+              on Form 8-K filed May 2, 2000.
+
+10.32         Convertible Subordinated Debenture dated as of April 27, 2000, incorporated herein by reference to
+              Exhibit 99.2 of the Company's Report on Form 8-K filed May 2, 2000.
+
+10.33         Stock Purchase Warrant dated as of April 27, 2000, incorporated herein by reference to Exhibit 99.3 of
+              the Company's Report on Form 8-K filed May 2, 2000.
+
+10.34         Investment Option dated as of April 27, 2000, incorporated herein by reference to Exhibit 99.4 of the
+              Company's Report on Form 8-K filed May 2, 2000.
+
+10.35         Registration Rights Agreement, dated as of April 27, 2000, by and among the Company and RGC
+              International Investors, LDC, incorporated herein by reference to Exhibit 99.5 of the Company's Report
+              on Form 8-K filed May 2, 2000.
+
+10.36         Complaint filed by the Company with the Milwaukee County Circuit Court on November 8, 2002.
+
+23.1          Consent of Ernst & Young LLP.
+
+24.1          Powers of Attorney appear on the signature page hereof.
+</Table>
+
+
+
+                                       23
+<PAGE>
+
+<Table>
+<Caption>
+EXHIBIT
+NUMBER                      DESCRIPTION
+-------                     -----------
+<S>           <C>
+
+99.1          Forward-Looking Statements Disclosure.
+
+99.2          Section 906 Certification of Chief Executive Officer.
+
+99.3          Section 906 Certification of Chief Financial Officer.
+</Table>
+
+* Management Contract or Compensatory Plan.
+
+
+
+                                       24
+<PAGE>
+
+                                   SIGNATURES
+
+         Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on
+its behalf by the undersigned, thereunto duly authorized, in the City of
+Milwaukee, State of Wisconsin on this 13th day of November 2002.
+
+                                         ARI NETWORK SERVICES, INC.
+
+
+
+                                         By:   /s/ Brian E. Dearing
+                                               --------------------------------
+                                               Brian E. Dearing,
+                                               Chairman, President & CEO
+
+         KNOW ALL MEN BY THESE PRESENTS, that each person whose signature
+appears below constitutes and appoints Brian E. Dearing and Timothy Sherlock,
+his true and lawful attorney-in-fact and agent with full power of substitution
+and resubstitution, for him and his name, place and stead, in any and all
+capacities, to sign any and all amendments to this report and to file the same
+with all exhibits thereto, and other documents in connection therewith, with the
+Commission, granting unto said attorney-in-fact and agent full power and
+authority to do and perform each act and thing requisite and necessary to be
+done, as fully to all intents and purposes as he might or could do in person,
+hereby ratifying and confirming all that said attorney-in-fact and agent, or his
+substitute or substitutes, may lawfully do or cause to be done by virtue hereof.
+
+         Pursuant to the requirements of the Securities Exchange Act of 1934,
+this report has been signed by the following persons in the capacities and on
+the dates indicated.
+
+<Table>
+<Caption>
+         SIGNATURE                                  TITLE                                     DATE
+
+<S>                                 <C>                                                  <C>
+/s/ Brian E. Dearing                Chairman, President, CEO & Director                  November 13, 2002
+------------------------------      (Principal Executive Officer)
+Brian E. Dearing
+
+/s/ Timothy Sherlock                Chief Financial Officer, Secretary,                  November 13, 2002
+-------------------------------     Treasurer & VP of Finance
+Timothy Sherlock                    (Principal Financial and Accounting Officer)
+
+/s/ Gordon J. Bridge                Director                                             November 13, 2002
+------------------------------
+Gordon J. Bridge
+
+/s/ Ted C. Feierstein               Director                                             November 13, 2002
+------------------------------
+Ted C. Feierstein
+
+/s/ Richard W. Weening              Director                                             November 13, 2002
+---------------------------
+Richard W. Weening
+</Table>
+
+
+
+                                       25
+<PAGE>
+
+================================================================================
+                                 CERTIFICATIONS
+
+         I, Brian E. Dearing, certify that:
+
+                  1.       I have reviewed this annual report on Form 10-K of
+                           ARI Network Services, Inc.;
+
+                  2.       Based on my knowledge, this annual report does not
+                           contain any untrue statement of a material fact or
+                           omit to state a material fact necessary to make the
+                           statements made, in light of the circumstances under
+                           which such statements were made, not misleading with
+                           respect to the period covered by this annual report;
+                           and
+
+                  3.       Based on my knowledge, the financial statements, and
+                           other financial information included in this annual
+                           report, fairly present in all material respects the
+                           financial condition, results of operations and cash
+                           flows of the registrant as of, and for, the periods
+                           presented in this annual report.
+
+
+Date:  November 13, 2002
+
+                                           By:  /s/ Brian E. Dearing
+                                               ---------------------------------
+                                           By:    Brian E. Dearing
+                                           Title: Chairman, President and CEO
+
+
+
+         I, Timothy Sherlock, certify that:
+
+                  1.       I have reviewed this annual report on Form 10-K of
+                           ARI Network Services, Inc.;
+
+                  2.       Based on my knowledge, this annual report does not
+                           contain any untrue statement of a material fact or
+                           omit to state a material fact necessary to make the
+                           statements made, in light of the circumstances under
+                           which such statements were made, not misleading with
+                           respect to the period covered by this annual report;
+                           and
+
+                  3.       Based on my knowledge, the financial statements, and
+                           other financial information included in this annual
+                           report, fairly present in all material respects the
+                           financial condition, results of operations and cash
+                           flows of the registrant as of, and for, the periods
+                           presented in this annual report.
+
+
+Date:  November 13, 2002
+                                           By:  /s/ Timothy Sherlock
+                                               --------------------------------
+                                           By:     Timothy Sherlock
+                                           Title:  Chief Financial Officer,
+                                                   Secretary, Treasurer, and
+                                                   VP of Finance
+
+
+
+                                       26
+<PAGE>
+
+FINANCIAL STATEMENTS
+
+ARI Network Services, Inc.
+Years ended July 31, 2002, 2001 and 2000
+
+
+<PAGE>
+
+                           ARI Network Services, Inc.
+
+                              Financial Statements
+
+                    Years ended July 31, 2002, 2001 and 2000
+
+
+                                    CONTENTS
+
+<Table>
+<S>                                                                <C>
+Report of Independent Auditors ...............................     1
+
+Financial Statements
+
+Balance Sheets ...............................................     3
+Statements of Operations .....................................     5
+Statements of Shareholders' Equity (Deficit) .................     6
+Statements of Cash Flows .....................................     8
+Notes to Financial Statements ................................    10
+
+</Table>
+
+
+<PAGE>
+
+                Report of Ernst & Young LLP, Independent Auditors
+
+
+To the Board of Directors and Shareholders
+ARI Network Services, Inc.
+
+We have audited the accompanying balance sheets of ARI Network Services, Inc.
+(the Company) as of July 31, 2002 and 2001, and the related statements of
+operations, shareholders' equity (deficit) and cash flows for each of the three
+years in the period ended July 31, 2002. Our audits also included the financial
+statement schedule listed in the Index at Item 14(a). These financial statements
+and schedule are the responsibility of the Company's management. Our
+responsibility is to express an opinion on these financial statements and
+schedule based on our audits.
+
+We conducted our audits in accordance with auditing standards generally accepted
+in the United States. Those standards require that we plan and perform the audit
+to obtain reasonable assurance about whether the financial statements are free
+of material misstatement. An audit includes examining, on a test basis, evidence
+supporting the amounts and disclosures in the financial statements. An audit
+also includes assessing the accounting principles used and significant estimates
+made by management, as well as evaluating the overall financial statement
+presentation. We believe that our audits provide a reasonable basis for our
+opinion.
+
+In our opinion, the financial statements referred to above present fairly, in
+all material respects, the financial position of the Company at July 31, 2002
+and 2001, and the results of its operations and its cash flows for each of the
+three years in the period ended July 31, 2002, in conformity with accounting
+principles generally accepted in the United States. Also, in our opinion, the
+related financial statement schedule, when considered in relation to the basic
+financial statements taken as a whole, presents fairly, in all material
+respects, the information set forth therein.
+
+
+
+                                                                               1
+<PAGE>
+
+The accompanying financial statements have been prepared assuming the Company
+will continue as a going concern. As more fully described in Note 2, the Company
+has a working capital deficiency and a shareholders' deficit. In addition, the
+Company's convertible Debenture is a current obligation and the Company does not
+have long-term credit availability. The Debenture contains a provision which
+states that the holder can accelerate maturity if the Company's common stock is
+not listed on a particular exchange. The Company's common stock is not so
+listed. These conditions raise substantial doubt about the Company's ability to
+continue as a going concern. Management's plans in regard to these matters are
+also described in Note 2. The financial statements do not include any
+adjustments to reflect the possible future effects on the recoverability and
+classification of assets or the amounts and classification of liabilities that
+may result from the outcome of this uncertainty.
+
+
+Milwaukee, Wisconsin
+September 19, 2002, except
+for Note 11 as to which the
+date is November 12, 2002
+
+
+
+                                                                               2
+<PAGE>
+
+                           ARI Network Services, Inc.
+
+                                 Balance Sheets
+                  (Dollars in Thousands, Except Per Share Data)
+
+<Table>
+<Caption>
+                                                                                 JULY 31
+                                                                           2002            2001
+                                                                          -------         -------
+<S>                                                                       <C>             <C>
+ASSETS
+Current assets:
+   Cash                                                                   $   879         $   313
+   Trade receivables, less allowance for doubtful accounts of
+     $140 in 2002 and $757 in 2001                                          1,743           2,084
+   Prepaid expenses and other                                                  84             140
+                                                                          -------         -------
+Total current assets                                                        2,706           2,537
+
+Equipment and leasehold improvements:
+   Computer equipment                                                       4,394           4,394
+   Leasehold improvements                                                      73             239
+   Furniture and equipment                                                  1,292           1,000
+                                                                          -------         -------
+                                                                            5,759           5,633
+   Less accumulated depreciation and amortization                           5,262           5,293
+                                                                          -------         -------
+Net equipment and leasehold improvements                                      497             340
+
+Other assets                                                                  105             222
+
+Capitalized software product costs                                         23,585          23,399
+Less accumulated amortization                                              20,519          19,438
+                                                                          -------         -------
+                                                                            3,066           3,961
+                                                                          -------         -------
+                                                                          $ 6,374         $ 7,060
+                                                                          =======         =======
+</Table>
+
+
+
+                                                                               3
+<PAGE>
+
+<Table>
+<Caption>
+                                                                                    JULY 31
+                                                                             2002               2001
+                                                                          ---------          ---------
+<S>                                                                       <C>                <C>
+LIABILITIES AND SHAREHOLDERS' EQUITY (DEFICIT)
+Current liabilities:
+   Line of credit payable to shareholder                                  $      --          $     200
+   Current portion of note payable to shareholder                                50                333
+   Current portion of notes payable (Note 5)                                  3,490              2,902
+   Accounts payable                                                             927              1,074
+   Deferred revenue                                                           4,619              4,811
+   Accrued payroll and related liabilities                                    1,140              1,364
+   Other accrued liabilities                                                  1,042              1,376
+   Current portion of capital lease obligations                                 151                173
+                                                                          ---------          ---------
+Total current liabilities                                                    11,419             12,233
+
+Note payable to shareholder                                                      --                 15
+Notes payable                                                                    --                 78
+Other long-term liabilities                                                     535                426
+Capital lease obligations                                                        26                158
+                                                                          ---------          ---------
+Total noncurrent liabilities                                                    561                677
+
+Commitments (Note 6)
+
+Shareholders' equity (deficit):
+   Cumulative preferred stock, par value $.001 per share,
+     1,000,000 shares authorized; 20,350 shares issued and
+     outstanding                                                                 --                 --
+   Common stock, par value $.001 per share, 25,000,000 shares
+     authorized; 6,329,301 and 6,184,281 shares issued and
+     outstanding in 2002 and 2001, respectively                                   6                  6
+   Common stock warrants and options                                          2,459              2,459
+   Additional paid-in capital                                                91,853             91,797
+   Accumulated deficit                                                      (99,924)          (100,112)
+                                                                          ---------          ---------
+Total shareholders' equity (deficit)                                         (5,606)            (5,850)
+                                                                          ---------          ---------
+                                                                          $   6,374          $   7,060
+                                                                          =========          =========
+</Table>
+
+See accompanying notes.
+
+
+                                                                               4
+<PAGE>
+
+                           ARI Network Services, Inc.
+
+                            Statements of Operations
+                  (Dollars in Thousands, Except Per Share Data)
+
+
+<Table>
+<Caption>
+                                                                                   YEAR ENDED JULY 31
+                                                                       2002              2001              2000
+                                                                     --------          --------          --------
+<S>                                                                  <C>               <C>               <C>
+Net revenues:
+   Subscriptions, support and other services fees                    $  8,915          $  9,985          $  9,743
+   Software licenses and renewals                                       2,721             3,266             1,289
+   Professional services                                                2,227             2,526             2,272
+                                                                     --------          --------          --------
+                                                                       13,863            15,777            13,304
+Operating expenses:
+   Cost of products and services sold:
+     Subscriptions, support and other services
+       fees                                                               387             1,740             1,415
+     Software licenses and renewals                                     1,523             3,137             3,614
+     Professional services                                                738             1,359             1,965
+                                                                     --------          --------          --------
+                                                                        2,648             6,236             6,994
+   Depreciation and amortization (exclusive of
+     amortization of software products included in cost
+     of products and services sold)                                       223             1,517             1,778
+   Customer operations and support                                      1,220             1,597             2,048
+   Selling, general and administrative                                  6,835             8,790             8,214
+   Software development and technical support                           2,056             3,317             2,779
+   Restructuring and other charges                                         --             7,766                --
+                                                                     --------          --------          --------
+Operating expenses before amounts capitalized                          12,982            29,223            21,813
+   Less capitalized portion                                              (717)           (1,972)           (1,729)
+                                                                     --------          --------          --------
+Net operating expenses                                                 12,265            27,251            20,084
+                                                                     --------          --------          --------
+
+Operating income (loss)                                                 1,598           (11,474)           (6,780)
+Other income (expense):
+   Interest expense                                                    (1,435)           (1,587)             (793)
+   Other, net                                                              25                36               (29)
+                                                                     --------          --------          --------
+                                                                       (1,410)           (1,551)             (822)
+                                                                     --------          --------          --------
+Net income (loss)                                                    $    188          $(13,025)         $ (7,602)
+                                                                     ========          ========          ========
+
+Basic and diluted net income (loss) per share                        $    .03          $  (2.11)         $  (1.27)
+                                                                     ========          ========          ========
+</Table>
+
+
+
+                                                                               5
+See accompanying notes.
+<PAGE>
+
+                           ARI Network Services, Inc.
+
+                  Statements of Shareholders' Equity (Deficit)
+                             (Dollars in Thousands)
+
+<Table>
+<Caption>
+                                                              Number of Shares Issued
+                                                                  and Outstanding
+                                                          -------------------------------
+                                                          Preferred Stock    Common Stock
+                                                          ---------------    ------------
+
+<S>                                                           <C>            <C>
+Balance July 31, 1999                                         20,350         5,097,432
+   Issuance of common stock in connection
+      with acquisitions                                           --           550,019
+   Issuance of common stock as payment on
+      line of credit                                              --           195,122
+   Issuance of common stock for professional
+      services received                                           --            58,270
+   Issuance of common stock under stock purchase
+      plan and from exercise of stock options                     --           267,427
+   Issuance of common stock warrants and options
+     in connection with notes payable                             --                --
+   Net loss                                                       --                --
+                                                           ---------         ---------
+Balance July 31, 2000                                         20,350         6,168,270
+   Issuance of common stock under stock
+      purchase plan                                               --            16,011
+   Stock compensation expense                                     --                --
+   Net loss                                                       --                --
+                                                           ---------         ---------
+Balance July 31, 2001                                         20,350         6,184,281
+   Issuance of common stock under stock
+     purchase plan                                                --            39,064
+   Issuance of common stock as contribution to
+      401(k) plan                                                 --           105,956
+   Capital contribution                                           --                --
+   Net income                                                     --                --
+                                                           ---------         ---------
+Balance July 31, 2002                                         20,350         6,329,301
+                                                           =========         =========
+</Table>
+
+See accompanying notes.
+
+
+                                                                               6
+
+<PAGE>
+
+<Table>
+<Caption>
+                                                     Common Stock
+                                                     to be Issued              Par Value          Common
+                                               ----------------------   ----------------------    Stock      Additional
+                                               Number of                Preferred     Common     Warrants     Paid-in    Accumulated
+                                                 Shares      Amount       Stock       Stock     and Options   Capital     Deficit
+                                               ---------   ----------   ----------   ---------  -----------  ----------  -----------
+
+<S>                                              <C>         <C>           <C>           <C>          <C>          <C>          <C>
+Balance July 31, 1999                            550,019    $   2,406    $       --   $       5   $      --   $  86,830  $  (79,485)
+   Issuance of common stock in connection
+      with acquisitions                         (550,019)      (2,406)           --           1          --       2,405          --
+   Issuance of common stock as payment on
+      line of credit                                  --           --            --          --          --       1,000          --
+   Issuance of common stock for professional
+      services received                               --           --            --          --          --         211          --
+   Issuance of common stock under stock
+      purchase plan and from exercise of
+      stock options                                   --           --            --          --          --       1,335          --
+   Issuance of common stock warrants and
+     options in connection with notes payable         --           --            --          --       2,459          --          --
+   Net loss                                           --           --            --          --          --          --      (7,602)
+                                               ---------    ---------    ----------   ---------   ---------   ---------    --------
+Balance July 31, 2000                                 --           --            --           6       2,459      91,781     (87,087)
+   Issuance of common stock under stock
+      purchase plan                                   --           --            --          --          --          14          --
+   Stock compensation expense                         --           --            --          --          --           2          --
+   Net loss                                           --           --            --          --          --          --     (13,025)
+                                               ---------    ---------    ----------   ---------   ---------   ---------    --------
+Balance July 31, 2001                                 --           --            --           6       2,459      91,797    (100,112)
+   Issuance of common stock under stock
+     purchase plan                                    --           --            --          --          --          14          --
+   Issuance of common stock as contribution to
+      401(k) plan                                     --           --            --          --          --          38          --
+   Capital contribution                               --           --            --          --          --           4          --
+   Net income                                         --           --            --          --          --          --         188
+                                               ---------    ---------    ----------   ---------   ---------   ---------   ---------
+Balance July 31, 2002                                 --    $      --    $       --   $       6   $   2,459   $  91,853   $ (99,924)
+                                               =========    =========    ==========   =========   =========   =========   =========
+</Table>
+
+
+See accompanying notes.
+                                                                               7
+<PAGE>
+
+                           ARI Network Services, Inc.
+
+                            Statements of Cash Flows
+                                 (In Thousands)
+
+<Table>
+<Caption>
+                                                                              YEAR ENDED JULY 31
+                                                                        2002          2001        2000
+                                                                      --------     --------     --------
+<S>                                                                   <C>          <C>          <C>
+OPERATING ACTIVITIES
+Net income (loss)                                                     $    188     $(13,025)    $ (7,602)
+Adjustments to reconcile net income (loss) to net cash
+   provided by (used in) operating activities:
+     Amortization of network platform                                       --          604          656
+     Amortization of software products                                   1,612        3,178        3,224
+     Amortization of goodwill                                               15          658          658
+     Amortization of debt discount and deferred financing fees             973          963          284
+     Depreciation and other amortization                                   208          255          464
+     Restructuring and other charges                                        --        7,766           --
+     Stock compensation expense                                             --            2           --
+     Issuance of common stock as contribution to 401(k) plan                38           --           --
+     Net change in receivables, prepaid expenses and other
+       current assets                                                      397        1,167          (90)
+     Net change in accounts payable, deferred revenue, accrued
+       liabilities and long-term liabilities                              (788)         917        1,243
+                                                                      --------     --------     --------
+Net cash provided by (used in) operating activities                      2,643        2,485       (1,163)
+
+INVESTING ACTIVITIES
+Purchase of equipment and leasehold improvements                          (341)          (5)         (63)
+Software product costs capitalized                                        (717)      (1,972)      (1,729)
+                                                                      --------     --------     --------
+Net cash used in investing activities                                   (1,058)      (1,977)      (1,792)
+
+FINANCING ACTIVITIES
+Borrowings (repayments) under line of credit                              (200)         200       (1,000)
+Borrowings under notes payable                                              --           --        4,000
+Payments of capital lease obligations and notes payable                   (786)        (942)        (690)
+Debt issuance costs incurred                                               (51)         (30)        (254)
+Proceeds from issuance of common stock and capital contribution             18           14        1,335
+                                                                      --------     --------     --------
+Net cash provided by (used in) financing activities                     (1,019)        (758)       3,391
+                                                                      --------     --------     --------
+Net increase (decrease) in cash                                            566         (250)         436
+Cash at beginning of year                                                  313          563          127
+                                                                      --------     --------     --------
+Cash at end of year                                                   $    879     $    313     $    563
+                                                                      ========     ========     ========
+Cash paid for interest                                                $    394     $    532     $    437
+                                                                      ========     ========     ========
+</Table>
+
+See accompanying notes.
+
+                                                                               8
+
+<PAGE>
+
+                           ARI Network Services, Inc.
+
+                      Statements of Cash Flows (continued)
+                                 (In Thousands)
+
+
+<Table>
+<Caption>
+                                                                               YEAR ENDED JULY 31
+                                                                          2002          2001          2000
+                                                                         ------        ------        ------
+<S>                                                                      <C>           <C>           <C>
+NONCASH INVESTING AND FINANCING ACTIVITIES
+Capital lease obligations incurred for --
+    Computer equipment                                                   $   24        $  154        $  328
+Issuance of common stock as payment on line of credit                        --            --         1,000
+Conversion of line of credit to notes payable to shareholder                 --            --         1,000
+Issuance of common stock warrants and options                                --            --         2,459
+Issuance of common stock for professional services:
+   Computer equipment                                                        --            --            85
+   Deferred financing costs                                                  --            --           126
+</Table>
+
+
+See accompanying notes.
+                                                                               9
+<PAGE>
+
+                           ARI Network Services, Inc.
+
+                          Notes to Financial Statements
+
+                                  July 31, 2002
+
+1. DESCRIPTION OF BUSINESS AND SIGNIFICANT ACCOUNTING POLICIES
+
+DESCRIPTION OF BUSINESS
+
+ARI Network Services, Inc. (the Company) operates in one business segment and
+provides technology-enabled business solutions that connect manufacturers in
+selected industries with their service and distribution networks. Disaggregated
+operating expense information is not provided to the chief operating decision
+maker of the Company. The Company focuses on the U.S., Canadian, European and
+Australian manufactured equipment industry. The Company provides both electronic
+catalog and transaction services, enabling partners in a service and
+distribution network to electronically look up parts, service bulletins and
+other technical reference information, and to exchange electronic business
+documents such as purchase orders, invoices, warranty claims and status
+inquiries. The Company's customers are located primarily in the United States,
+Europe and Canada. Transaction gains and losses that arise from exchange rate
+fluctuations on transactions denominated in a currency other than the U.S.
+dollar are included in the results of operations as incurred. Transaction gains
+and losses were insignificant in each of the periods reported.
+
+REVENUE RECOGNITION
+
+Revenue for use of the network and for information services is recognized in the
+period such services are utilized.
+
+Revenue from annual or periodic maintenance fees is recognized ratably over the
+period the maintenance is provided. Revenue from catalog subscriptions is
+recognized over the subscription term.
+
+Revenue from software licenses in multiple element arrangements is recognized
+ratably over the contractual term of the arrangement. The Company considers all
+arrangements with payment terms extending beyond 12 months and other
+arrangements with payment terms longer than normal not to be fixed or
+determinable. If the fee is not fixed or determinable, revenue is recognized as
+payments become due from the customer. Arrangements that include acceptance
+terms beyond the Company's standard terms are not recognized until acceptance
+has occurred. If collectibility is not considered probable, revenue is
+recognized when the fee is collected.
+
+
+
+                                                                              10
+<PAGE>
+
+                           ARI Network Services, Inc.
+
+                    Notes to Financial Statements (continued)
+
+
+1. DESCRIPTION OF BUSINESS AND SIGNIFICANT ACCOUNTING POLICIES (CONTINUED)
+
+Arrangements that include professional services are evaluated to determine
+whether those services are essential to the functionality of other elements of
+the arrangement. Types of services that are considered essential include
+customizing complex features and functionality in the products' base software
+code or developing complex interfaces within a customer's environment. When
+professional services are not considered essential, the revenue allocable to the
+professional services is recognized as the services are performed. When
+professional services are considered essential, revenue under the arrangement is
+recognized pursuant to contract accounting using the percentage-of-completion
+method with progress-to-completion measured based upon labor hours incurred.
+When the current estimates of total contract revenue and contract cost indicate
+a loss, a provision for the entire loss on the contract is made. Revenue on
+arrangements with customers who are not the ultimate users (resellers) is
+deferred if there is any uncertainty on the ability and intent of the reseller
+to sell such software independent of their payment to the Company.
+
+USE OF ESTIMATES
+
+The preparation of the Company's financial statements in conformity with
+accounting principles generally accepted in the United States requires
+management to make estimates and assumptions that affect the amounts reported in
+the financial statements and accompanying notes. Actual results could differ
+from those estimates.
+
+EQUIPMENT AND LEASEHOLD IMPROVEMENTS
+
+Equipment and leasehold improvements are stated at cost. Depreciation and
+amortization are computed under the straight-line method for financial reporting
+purposes and under accelerated methods for income tax purposes. Depreciation and
+amortization have been provided over the estimated useful lives of the assets as
+follows:
+
+<Table>
+<Caption>
+                                                         Years
+                                                         -----
+<S>                                                      <C>
+Computer equipment                                       2 - 7
+Leasehold improvements                                     7
+Furniture and equipment                                  2 - 5
+</Table>
+
+
+
+                                                                              11
+<PAGE>
+
+                           ARI Network Services, Inc.
+
+                    Notes to Financial Statements (continued)
+
+1. DESCRIPTION OF BUSINESS AND SIGNIFICANT ACCOUNTING POLICIES (CONTINUED)
+
+CAPITALIZED SOFTWARE PRODUCT COSTS
+
+Certain software development costs are capitalized when incurred. Capitalization
+of these costs begins upon the establishment of technological feasibility. The
+establishment of technological feasibility and the ongoing assessment of
+recoverability of software costs requires considerable judgment by management
+with respect to certain external factors, including, but not limited to,
+technological feasibility, anticipated future gross revenues, estimated economic
+life and changes in software and hardware technologies. Note 3 further describes
+certain capitalized software development costs written down to net realizable
+value in 2001.
+
+The annual amortization of software products is the greater of the amount
+computed using: (a) the ratio that current gross revenues for the network or a
+software product bear to the total of current and anticipated future gross
+revenues for the network or a software product, or (b) the straight-line method
+over the estimated three-year economic life of the product. Amortization starts
+when the product is available for general release to customers.
+
+All other software development and support expenditures are charged to expense
+in the period incurred.
+
+IMPAIRMENT OF LONG-LIVED ASSETS
+
+Equipment and leasehold improvements and capitalized software product costs are
+reviewed for impairment whenever events or changes in circumstances indicate
+that the carrying amount may not be recoverable. If the sum of the expected
+undiscounted cash flows is less than the carrying value of the related asset or
+group of assets, a loss is recognized for the difference between the fair value
+and carrying value of the asset or group of assets.
+
+Such analyses necessarily involve judgment. The Company evaluated the ongoing
+value of its long-lived assets as of July 31, 2002 and 2001, and the impact on
+the Company's results of operations for the year ended July 31, 2001, is
+described in Note 3.
+
+DEFERRED FINANCING COSTS
+
+Costs incurred to obtain long-term financing are included in other assets and
+are amortized using the interest method over the term of the related debt.
+
+
+
+                                                                              12
+<PAGE>
+
+                           ARI Network Services, Inc.
+
+                    Notes to Financial Statements (continued)
+
+
+1. DESCRIPTION OF BUSINESS AND SIGNIFICANT ACCOUNTING POLICIES (CONTINUED)
+
+CAPITALIZED INTEREST COSTS
+
+In 2002, 2001 and 2000, interest costs of $63,000, $180,000 and $76,000,
+respectively, were capitalized and included in the capitalized software product
+costs.
+
+COMPREHENSIVE INCOME (LOSS)
+
+Net income (loss) for 2002, 2001 and 2000 is the same as comprehensive income
+(loss) defined pursuant to Statement of Financial Accounting Standards (SFAS)
+No. 130, "Reporting Comprehensive Income."
+
+NET INCOME (LOSS) PER SHARE
+
+The numerator for the calculation of basic and diluted earnings per share is net
+income (loss) in each year. The following table sets forth the computation of
+basic and diluted weighted-average shares used in the per share calculations:
+
+<Table>
+<Caption>
+                                                                  2002              2001              2000
+                                                               ---------         ---------         ---------
+<S>                                                            <C>               <C>               <C>
+Denominator for basic net income (loss) per
+   share - weighted-average shares outstanding                 6,215,000         6,175,000         6,002,000
+Effect of dilutive options                                        23,000                --                --
+                                                               ---------         ---------         ---------
+Denominator for diluted net income (loss) per
+   share                                                       6,238,000         6,175,000         6,002,000
+                                                               =========         =========         =========
+
+Options that could potentially dilute net income
+   (loss) per share in the future that are not
+   included in the computation of diluted net
+   income (loss) per share, as their impact is
+   antidilutive                                                       --            17,000            57,000
+                                                               =========         =========         =========
+</Table>
+
+During 2001 and 2000, options and warrants were antidilutive due to the net
+losses incurred in those years.
+
+RECLASSIFICATIONS
+
+Certain 2001 amounts were reclassified to conform to the 2002 presentation.
+
+
+
+                                                                              13
+<PAGE>
+
+                           ARI Network Services, Inc.
+
+                    Notes to Financial Statements (continued)
+
+
+1. DESCRIPTION OF BUSINESS AND SIGNIFICANT ACCOUNTING POLICIES (CONTINUED)
+
+ACCOUNTING PRONOUNCEMENTS
+
+SFAS No. 140, "Accounting for Transfers and Servicing of Financial Assets and
+Extinguishments of Liabilities," has been applied prospectively for transfers of
+financial assets occurring after April 1, 2001. SFAS No. 140 replaces SFAS No.
+125, "Accounting for Transfers and Servicing of Financial Assets and
+Extinguishments of Liabilities." The Company recognizes the transactions
+discussed in Note 5 as secured borrowings.
+
+In August 2001, the FASB issued SFAS No. 144, "Accounting for the Impairment or
+Disposal of Long-Lived Assets," which addresses financial accounting and
+reporting for the impairment or disposal of long-lived assets and supersedes
+SFAS No. 121, "Accounting for the Impairment of Long-Lived Assets and for
+Long-Lived Assets to be Disposed Of," and the accounting and reporting
+provisions of Accounting Principles Board (APB) Opinion No. 30, "Reporting the
+Results of Operations," for a disposal of a segment of business. SFAS No. 144 is
+effective for fiscal years beginning after December 15, 2001. The Company will
+adopt SFAS No. 144 as of August 1, 2002, and it does not expect that the
+adoption of the statement will have a significant impact on the Company's
+financial position and results of operations.
+
+2. LIQUIDITY AND MANAGEMENT'S PLAN
+
+As further discussed in Note 5, the Company's convertible Debenture is a current
+obligation and the Company does not have long-term credit availability. See Note
+11 for management's efforts to uphold a stand-still and buy-back agreement with
+the holder of the Debenture.
+
+The Company has implemented a series of reductions in its work force and other
+strategies to reduce its cash expenditures, as further described in Note 3.
+
+Management believes the cash flows from the Company's operations in fiscal 2003
+will fund its operations and that other strategic or financing options will
+provide the Company with the ability to meet its cash flow obligations.
+Accordingly, the financial statements have been prepared on the basis of a going
+concern, which contemplates realization of assets and satisfaction of
+liabilities in the normal course of business.
+
+
+
+                                                                              14
+<PAGE>
+
+                           ARI Network Services, Inc.
+
+                    Notes to Financial Statements (continued)
+
+
+3. RESTRUCTURING AND OTHER CHARGES
+
+In July 2001, the Board of Directors authorized management to restructure the
+Company and discontinue certain noncatalog software products and related
+services. Revenue generated from noncatalog product lines was approximately $5.3
+million in 2001. The Company discontinued or transitioned certain of these
+product lines to other service providers during fiscal 2002. The Company may
+sell certain discontinued product lines in the future. The Company's actions
+resulted in a work force reduction of approximately 15%, mainly consisting of
+software development and support personnel. The Company communicated all
+severance benefits to the 18 affected employees before July 31, 2001.
+
+Additionally, an impairment charge of $7,333,000 was recorded in July 2001
+related to long-lived assets for the noncatalog product lines. The Company
+estimated undiscounted cash flows expected over the remaining amortization
+period of the long-lived assets. Immediately before recording the impairment
+charge, the carrying value of goodwill and capitalized software development
+costs related to discontinued product lines was $1,203,000 and $6,130,000,
+respectively. The discontinued product lines were expected to generate minimal
+or negative cash flows (including any estimated sales proceeds) through their
+expected date of discontinuance, and, accordingly, the Company recorded an
+impairment charge to write off the carrying value of the assets.
+
+The restructuring and impairment charges were determined based upon formal plans
+approved by the Company's Board of Directors in July 2001. No significant
+additional restructuring charges were recognized in fiscal 2002.
+
+Restructuring and other charges recorded in the statement of operations during
+the fourth quarter of fiscal 2001 are as follows (in thousands):
+
+<Table>
+<Caption>
+<S>                                                <C>
+Employee termination costs                         $  130
+Noncancellable operating agreements                   303
+Asset impairment charges                            7,333
+                                                   ------
+                                                   $7,766
+                                                   ======
+</Table>
+
+At July 31, 2001, no payments had been made for any of the restructuring costs.
+During 2002, payments of $130,000 were made for the restructuring costs.
+
+At July 31, 2002, other accrued liabilities and other long-term liabilities
+include accrued restructuring costs of $69,000 and $234,000, respectively. At
+July 31, 2001, these amounts were $130,000 and $303,000, respectively.
+
+
+
+                                                                              15
+<PAGE>
+
+                           ARI Network Services, Inc.
+
+                    Notes to Financial Statements (continued)
+
+
+4. LINE OF CREDIT AND NOTE PAYABLE TO SHAREHOLDER
+
+At July 31, 1999, the Company had a $3,000,000 revolving line-of-credit
+agreement with a shareholder that was to expire on December 31, 2001. On
+September 30, 1999, the Company and the shareholder restructured and amended the
+line-of-credit agreement in order to reduce the line of credit from $3,000,000
+to $1,000,000, establish a $1,000,000 term loan payable and convert $1,000,000
+of the line of credit into 195,122 shares of common stock.
+
+On October 22, 2001, the Company and the shareholder amended the agreement to
+waive the restrictive covenant requiring maintenance of a minimum level of net
+worth at July 31, 2001, and through July 31, 2002, and to increase the interest
+rates on borrowings.
+
+The term loan is payable in equal monthly installments over three years
+commencing November 1, 1999, and bears interest at prime (4.75% at July 31,
+2002) plus 4%. The line of credit expired December 31, 2001.
+
+In connection with the amendment in September 1999, the Company issued a warrant
+to purchase 30,000 shares of the Company's common stock at $4 per share. These
+warrants are exercisable at any time through September 2006 and were initially
+valued at $105,000 for financial statement purposes. The value allocated to the
+warrants, which reduced the carrying value of the debt, was measured at the date
+of grant because the number of shares was fixed and determinable. The value was
+determined based upon a Black-Scholes option pricing model with the following
+assumptions: risk-free interest rate of 6%, dividend yield of 0%, expected
+common stock market price volatility factor of .72 and an expected life of the
+warrants of six years. The debt discount is being amortized straight-line over
+the three-year term of the debt. The unamortized balance of the debt discount at
+July 31, 2002, was $6,000. The entire agreement is secured by substantially all
+assets of the Company other than accounts receivable securitized under the
+receivable sale agreement described in Note 5.
+
+
+
+                                                                              16
+<PAGE>
+
+                           ARI Network Services, Inc.
+
+                    Notes to Financial Statements (continued)
+
+
+5. NOTES PAYABLE
+
+Notes payable consist of the following at July 31 (in thousands):
+
+<Table>
+<Caption>
+                                                                             2002                2001
+                                                                           -------             -------
+<S>                                                                        <C>                 <C>
+Term loan                                                                  $    78             $   172
+Note payable to bank, paid in 2002                                              --                 167
+Convertible subordinated debenture                                           4,000               4,000
+Less debt discount for convertible subordinated debenture                     (588)             (1,373)
+Other                                                                           --                  14
+                                                                           -------             -------
+                                                                             3,490               2,980
+Less current maturities                                                      3,490               2,902
+                                                                           -------             -------
+                                                                           $    --             $    78
+                                                                           =======             =======
+</Table>
+
+On April 27, 2000, the Company issued RGC International Investors, LDC (RGC):
+(i) a convertible subordinated debenture (the Debenture) for $4,000,000, (ii)
+warrants to purchase 600,000 shares of common stock at $6 per share (the
+Warrants), and (iii) an investment option to purchase 800,000 shares of common
+stock at $6 per share (the Investment Option). The Investment Option expired on
+October 27, 2001, and the Warrants expire on April 27, 2005. The value allocated
+to the Warrants and Investment Option, which reduced the carrying value of the
+debt, were measured at the date of grant because the number of shares was fixed
+and determinable. The value was determined based upon a Black-Scholes option
+pricing model with the following assumptions: risk-free interest rate of 6%,
+dividend yield of 0%, expected common stock market price volatility factor of
+.80, an expected life of the Investment Option of eighteen months and an
+expected life of the Warrants of five years. A debt discount was recorded for
+the fair value of the Warrants and Investment Option of $2,354,000. The debt
+discount is being amortized straight-line over the three-year term of the debt.
+The Debenture bears interest at 7% and is convertible into common stock at $4
+per share. The Company can require RGC to convert the amount owed under the
+Debenture into common stock at $4 per share provided that the closing bid price
+of the Company's common stock has been greater than $6.60 for 20 consecutive
+trading days.
+
+
+
+                                                                              17
+<PAGE>
+
+                           ARI Network Services, Inc.
+
+                    Notes to Financial Statements (continued)
+
+
+5. NOTES PAYABLE (CONTINUED)
+
+Under the terms of the Debenture and the related Investment Option and Warrants,
+the Debenture is convertible and the Investment Option and Warrants are
+exercisable by RGC only to the extent that the number of shares of common stock
+issuable, together with the number of shares of common stock owned by RGC and
+its affiliates, generally would not exceed 4.9% of the Company's outstanding
+common stock at the time of conversion or exercise. In certain circumstances
+where the Company has the right to force conversion of the Debenture and
+exercise of the Investment Option, RGC's percentage ownership may exceed 4.9%
+but cannot exceed 9.9%.
+
+As part of the consulting fee paid in conjunction with obtaining the RGC
+financing, the Company issued warrants for the purchase of 8,000 shares of its
+common stock at $7.03 per share. These warrants expire on April 27, 2005.
+
+The terms of the Debenture require the Company to maintain the listing of its
+common stock on Nasdaq, the Nasdaq Small Cap Market, the New York Stock Exchange
+or the American Stock Exchange. The Company's common stock is not so listed on
+any of these markets. Under the terms of the Debenture, this condition allows
+RGC to make a demand for the Company to redeem the Debenture at 130% of the
+outstanding principal and accrued interest balances as well as to increase the
+stated interest rate from 7% to 17%. As further described in Note 11, on
+November 11, 2002, the Company received a purported demand for immediate
+payment. The Company intends to vigorously contest the validity of this demand.
+The Debenture is classified as current in the accompanying balance sheet.
+
+On September 28, 1999, the Company commenced funding under a three-year
+Receivable Sale Agreement (the RFC Agreement) with RFC Capital Corporation (RFC)
+pursuant to which RFC has agreed to loan amounts to the Company based on a
+security interest in certain receivables generated by the Company in the
+ordinary course of the Company's business. The RFC Agreement allows for RFC to
+loan up to $3,000,000 of the Company's eligible receivables. Under the
+Agreement, RFC loans 90% of the eligible receivables from the Company from time
+to time upon presentation thereof for a value equal to approximately the net
+value of such receivables. Net value is designed to yield RFC an effective rate
+of 11.5% plus allow RFC to retain a holdback of 5% in the face amount of the
+receivables, net of collections, against future collection risk. To comply with
+SFAS No. 140, the Company recognizes these transactions as secured borrowings.
+
+At July 31, 2002 and 2001, a secured borrowing of $360,000 and $469,000,
+respectively, is included in accounts payable. For the years ended July 31, 2002
+and 2001, the Company incurred $55,000 and $98,000, respectively, of financing
+expense relating to this agreement.
+
+
+
+                                                                              18
+<PAGE>
+
+                           ARI Network Services, Inc.
+
+                    Notes to Financial Statements (continued)
+
+
+5. NOTES PAYABLE (CONTINUED)
+
+Under the RFC Agreement, the Company performs certain servicing, administrative
+and collection functions with respect to the secured receivables. Also, pursuant
+to the terms of the RFC Agreement, the Company has granted to RFC a security
+interest in and to the Company's U.S. receivables not sold to RFC and the
+Company's customer base, excluding non-U.S. customers, relating to the
+generation of such accounts receivable.
+
+6. CAPITAL AND OPERATING LEASES
+
+The Company leases office space and certain office equipment under operating
+lease arrangements expiring through 2009. The Company is generally liable for
+its share of increases in the landlord's direct operating expenses and real
+estate taxes. Total rental expense for the operating leases was $756,000 in
+2002, $787,000 in 2001 and $616,000 in 2000.
+
+Rent expense for the Company's corporate office is recognized on a straight-line
+basis over the lease term, which differs from the pattern of payments required
+by the lease. Other long-term liabilities includes $125,000 of deferred rent at
+July 31, 2002.
+
+Minimum lease payments under remaining capital and operating leases are as
+follows (in thousands):
+
+<Table>
+<Caption>
+Fiscal year ending                                                Capital Leases        Operating Leases
+-------------------                                               --------------        -----------------
+
+<S>                                                                    <C>                   <C>
+2003                                                                   $ 163                 $   636
+2004                                                                      22                     615
+2005                                                                       8                     519
+2006                                                                      --                     423
+2007                                                                      --                     300
+Thereafter                                                                --                     579
+                                                                       -----                  ------
+Total minimum lease payments                                             193                  $3,072
+                                                                                              ======
+Amounts representing interest and taxes                                   16
+                                                                       -----
+Present value of minimum capital lease payments                          177
+Less amounts payable in one year                                         151
+                                                                       -----
+                                                                       $  26
+                                                                       =====
+</Table>
+
+
+
+                                                                              19
+<PAGE>
+
+                           ARI Network Services, Inc.
+
+                    Notes to Financial Statements (continued)
+
+
+7. SHAREHOLDERS' EQUITY
+
+Preferred Stock
+
+At July 31, 2002, the Company has 20,350 shares of Series A Preferred Stock
+outstanding. The shares are entitled to cumulative annual dividends equal to the
+product of $100 and prime plus 2% payable quarterly, as and when declared by the
+Board of Directors. The Company may redeem outstanding shares at any time at the
+redemption price of $100 per share plus accrued and unpaid dividends.
+
+In the event of liquidation or dissolution of the Company, the holders of shares
+of Series A Preferred Stock shall be entitled to receive $100 per share plus
+accrued and unpaid dividends before any distribution is made to the holders of
+common stock. Accumulated dividends in arrears at July 31, 2002, are $1,254,000.
+
+8. STOCK PLANS
+
+Employee Stock Purchase Plans
+
+The Company's 1992 Employee Stock Purchase Plan had 62,500 shares of common
+stock reserved for issuance, and all 62,500 shares have been issued.
+
+The Company's 2000 Employee Stock Purchase Plan has 75,000 shares of common
+stock reserved for issuance, and 39,061 of the shares have been issued as of
+July 31, 2002. All employees of the Company, other than executive officers, with
+six months of service are eligible to participate. Shares may be purchased at
+the end of a specified period at the lower of 85% of the market value at the
+beginning or end of the specified period through accumulation of payroll
+deductions.
+
+1991 Stock Option Plan
+
+The Company's 1991 Stock Option Plan was terminated August 14, 2001, except as
+to outstanding options. Options granted under the 1991 Plan may be either: (a)
+options intended to qualify as incentive stock options under Section 422 of the
+Internal Revenue Code of 1986, as amended (the Code), or (b) nonqualified stock
+options.
+
+
+
+                                                                              20
+<PAGE>
+
+                           ARI Network Services, Inc.
+
+                    Notes to Financial Statements (continued)
+
+
+8. STOCK PLANS (CONTINUED)
+
+Any incentive stock option that was granted under the 1991 Plan could not be
+granted at a price less than the fair market value of the stock on the date of
+grant (or less than 110% of the fair market value in the case of holders of 10%
+or more of the voting stock of the Company). Nonqualified stock options were
+allowed to be granted at the exercise price established by the Stock Option
+Committee, which could be less than, equal to or greater than the fair market
+value of the stock on the date of grant.
+
+Each option granted under the 1991 Plan is exercisable for a period of ten years
+from the date of grant (five years in the case of a holder of more than 10% of
+the voting stock of the Company) or such shorter period as determined by the
+Stock Option Committee and shall lapse upon the expiration of said period, or
+earlier upon termination of the participant's employment with the Company.
+
+At its discretion, the Stock Option Committee may require a participant to be
+employed by the Company for a designated number of years prior to exercising any
+options. The Committee may also require a participant to meet certain
+performance criteria, or that the Company meet certain targets or goals, prior
+to exercising any options.
+
+Changes in option shares under the 1991 Plan are as follows:
+
+<Table>
+<Caption>
+                                                    2002                        2001                            2000
+                                       -----------------------------   ---------------------------     ----------------------------
+                                                       Weighted-                       Weighted-                        Weighted-
+                                                        Average                         Average                          Average
+                                                        Exercise                        Exercise                         Exercise
+                                        Options          Price          Options          Price         Options            Price
+                                       --------        ----------      --------        ---------       --------         -----------
+<S>                                     <C>              <C>            <C>              <C>            <C>              <C>
+Outstanding at the
+   beginning of the year                544,431          $6.67          513,220          $7.20          675,849          $5.58
+Granted                                      --             --          106,000           2.33          181,950           8.36
+Exercised                                    --             --               --             --         (223,136)          1.89
+Forfeited                               (73,343)          5.58          (74,789)          4.33         (121,443)          9.63
+                                       --------          -----         --------          -----         --------          -----
+Outstanding at the end of
+   the year                             471,088          $6.83          544,431          $6.67          513,220          $7.20
+                                       ========          =====         ========          =====         ========          =====
+Exercisable                             394,870          $5.70          368,849          $5.63          308,774          $7.55
+                                       ========          =====         ========          =====         ========          =====
+Available for grant                          --                          40,999                          72,210
+                                       ========                        ========                        ========
+</Table>
+
+The weighted-average contractual life of options outstanding at July 31, 2002,
+was 6.5 years. The range of exercise prices for options outstanding at July 31,
+2002, was $2.00 to $15.48.
+
+
+
+                                                                              21
+<PAGE>
+
+
+
+                           ARI Network Services, Inc.
+
+                    Notes to Financial Statements (continued)
+
+
+8. STOCK PLANS (CONTINUED)
+
+2000 Stock Option Plan
+
+The Company's 2000 Stock Option Plan (2000 Plan) has 450,000 shares of common
+stock authorized for issuance. Options granted under the 2000 Plan may be
+either: (a) options intended to qualify as incentive stock options under Section
+422 of the Code, or (b) nonqualifed stock options.
+
+Any incentive stock option that is granted under the 2000 Plan may not be
+granted at a price less than the fair market value of the stock on the date of
+the grant (or less than 110% of the fair market value in the case of a
+participant who is a 10% shareholder of the Company within the meaning of
+Section 422 of the Code). Nonqualified stock options may be granted at the
+exercise price established by the Stock Option Committee.
+
+Each incentive stock option granted under the 2000 Plan is exercisable for a
+period of not more than ten years from the date of grant (five years in the case
+of a participant who is 10% shareholder of the Company). Nonqualified stock
+options do not have this restriction.
+
+Eligible participants include current and prospective employees, nonemployee
+directors, consultants or other persons who provide services to the Company and
+whose performance, in the judgment of the Stock Option Committee or management
+of the Company, can have a significant affect on the success of the Company.
+
+Changes in option shares under the 2000 Plan are as follows:
+
+<Table>
+<Caption>
+                                                               2002                        2001
+                                                  ----------------------------    ----------------------------
+                                                                    Weighted-                      Weighted-
+                                                                     Average                        Average
+                                                                    Exercise                       Exercise
+                                                   Options            Price        Options           Price
+                                                  --------        ------------    --------       -------------
+<S>                                               <C>              <C>                             <C>
+Outstanding at the beginning of the
+   year                                           301,125          $1.23               --          $  --
+Granted                                           144,100           0.32          320,400           1.24
+Forfeited                                         (32,750)          1.31          (19,275)          1.34
+                                                 --------          -----         --------          -----
+Outstanding at the end of the year
+                                                  412,475          $0.91          301,125          $1.23
+                                                 ========          =====         ========          =====
+Exercisable                                       202,150          $1.08           63,781          $1.35
+                                                 ========          =====         ========          =====
+Available for grant                                37,525                         148,875
+                                                 ========                        ========
+</Table>
+
+
+
+                                                                              22
+<PAGE>
+
+                           ARI Network Services, Inc.
+
+                    Notes to Financial Statements (continued)
+
+
+8. STOCK PLANS (CONTINUED)
+
+The weighted-average contractual life of options outstanding at July 31, 2002,
+was 8.7 years. The range of exercise prices for options outstanding at July 31,
+2002, was $0.22 to $1.75.
+
+1993 Director Stock Option Plan
+
+The Company's 1993 Director Stock Option Plan (Director Plan) has 150,000 shares
+of common stock reserved for issuance to nonemployee directors. Options under
+the Director Plan are granted at the fair market value of the stock on the grant
+date.
+
+Each option granted under the Director Plan is exercisable one year after the
+date of grant and cannot expire later than ten years from the date of grant.
+Changes in option shares under the Director Plan are as follows:
+
+<Table>
+<Caption>
+                                             2002                       2001                      2000
+                                  --------------------------- -------------------------- -------------------------
+                                                Weighted-                  Weighted-                   Weighted-
+                                                 Average                    Average                     Average
+                                                 Exercise                   Exercise                    Exercise
+                                   Options        Price       Options        Price      Options         Price
+                                  --------     ----------    --------     ----------    --------     -------------
+<S>                                <C>         <C>            <C>         <C>            <C>         <C>
+Outstanding at the
+   beginning of the year           113,640     $     5.20     119,586     $     5.69     107,379     $     4.88
+Granted                                 --             --      13,379           2.01      42,261           8.41
+Exercised                               --             --          --             --     (11,509)          3.23
+Forfeited                          (34,381)          6.18     (19,325)          6.04     (18,545)          7.51
+                                  --------     ----------    --------     ----------    --------     ----------
+Outstanding at the end of
+   the year                         79,259     $     4.78     113,640     $     5.20     119,586     $     5.69
+                                  ========     ==========    ========     ==========    ========     ==========
+Exercisable                         79,259     $     4.78     101,201     $     5.60      80,890     $     4.20
+                                  ========     ==========    ========     ==========    ========     ==========
+Available for grant                 59,232                     24,851                     18,905
+                                  ========                   ========                   ========
+</Table>
+
+The weighted-average contractual life of options outstanding at July 31, 2002,
+was 5.6 years. The range of exercise prices for options outstanding at July 31,
+2002, was $1.78 to $17.00.
+
+
+
+                                                                              23
+<PAGE>
+
+                           ARI Network Services, Inc.
+
+                    Notes to Financial Statements (continued)
+
+
+8. STOCK PLANS (CONTINUED)
+
+As permitted by SFAS No. 123, "Accounting for Stock-Based Compensation," the
+Company follows APB Opinion No. 25, "Accounting for Stock Issued to Employees,"
+in accounting for its stock option plans. Had the Company accounted for its
+stock option plans based upon the fair value at the grant date for options
+granted under the plan based on the provisions of SFAS No. 123, the Company's
+pro forma net loss and pro forma net loss per share would have been as follows
+(for purposes of pro forma disclosures, the estimated fair value of the options
+is amortized to expense over the options' vesting period):
+
+<Table>
+<Caption>
+                                                                YEAR ENDED JULY 31
+                                                    2002               2001               2000
+                                                 ---------          ---------          ---------
+
+<S>                                              <C>                <C>                <C>
+Pro forma net loss (in thousands)                $    (546)         $ (13,950)         $  (8,647)
+Pro forma diluted net loss per share             $   (0.09)         $   (2.26)         $   (1.44)
+</Table>
+
+The weighted-average fair value of the options granted in 2002, 2001 and 2000
+was $0.31, $1.49 and $7.76, respectively.
+
+Pro forma information regarding net loss and net loss per share is required by
+SFAS No. 123, and has been determined as if the Company had accounted for its
+employee stock options using a Black-Scholes option pricing model with the
+following assumptions: risk-free interest rates ranging from 4% to 6%, dividend
+yield of 0%; expected common stock market price volatility factors ranging from
+.6 to 1.3 and an expected life of the options of ten years.
+
+During 2001, 6,000 of the stock options granted were to a nonemployee in
+exchange for services. No performance commitment existed at the date of grant
+for the nonemployee options granted. At each reporting period, the Company
+records compensation expense for the fair value of the options as calculated
+using the Black-Scholes method. Compensation expense is being recorded over the
+period of the service agreement.
+
+
+
+                                                                              24
+<PAGE>
+
+                           ARI Network Services, Inc.
+
+                    Notes to Financial Statements (continued)
+
+
+9. INCOME TAXES
+
+Deferred income taxes reflect the net tax effects of temporary differences
+between the carrying amounts of assets and liabilities for financial reporting
+purposes and income tax purposes. Significant components of the Company's
+deferred tax liabilities and assets as of July 31 are as follows (in thousands):
+
+<Table>
+<Caption>
+                                                              2002                 2001
+                                                            --------             --------
+<S>                                                         <C>                  <C>
+Deferred tax assets:
+   Net operating loss carryforwards                         $ 28,290             $ 30,650
+   Deferred revenue                                            1,800                1,880
+   Goodwill                                                      920                1,010
+   Other                                                         480                  720
+                                                            --------             --------
+Total deferred tax assets                                     31,490               34,260
+Valuation allowance for deferred tax assets                  (30,600)             (33,700)
+                                                            --------             --------
+Net deferred tax asset                                           890                  560
+Deferred tax liabilities:
+   Software product costs                                       (800)                (250)
+   Other                                                         (90)                (310)
+                                                            --------             --------
+Net deferred taxes                                          $     --             $     --
+                                                            ========             ========
+</Table>
+
+As of July 31, 2002, the Company has unused net operating loss carryforwards for
+federal income tax purposes of $70,489,000 expiring in 2003 through 2021.
+
+In addition, the Company has unused net operating loss carryforwards for federal
+income tax purposes of $2,038,000 expiring between 2012 and 2014, of which not
+more than $116,000 annually can be utilized to offset taxable income. Use of the
+net operating loss carryforwards is restricted under Section 382 of the Code
+because of changes in ownership in 1997.
+
+A reconciliation between income tax expense and income taxes computed by
+applying the statutory federal income tax rate to net income (loss) is as
+follows (in thousands):
+
+<Table>
+<Caption>
+                                                 2002                2001                2000
+                                               -------             -------             -------
+
+<S>                      <C>                   <C>                 <C>                 <C>
+Computed income taxes at 34%                   $    64             $(4,429)            $(2,585)
+Permanent items                                    222                 451                 435
+Change in valuation allowance                     (286)              3,978               2,150
+                                               -------             -------             -------
+Income tax expense                             $    --             $    --             $    --
+                                               =======             =======             =======
+</Table>
+
+
+
+                                                                              25
+<PAGE>
+
+                           ARI Network Services, Inc.
+
+                    Notes to Financial Statements (continued)
+
+
+9. INCOME TAXES (CONTINUED)
+
+During 2002 and 2001, $6,132,000 and $3,917,000, respectively, of net operating
+loss carryforwards expired. These net operating loss carryforwards had been
+fully reserved.
+
+10. EMPLOYEE BENEFIT PLAN
+
+The Company has a qualified retirement savings plan (the 401(k) Plan) covering
+its employees. Each employee may elect to reduce his or her current compensation
+by up to 15%, up to a maximum of $11,000 in calendar 2002 (subject to adjustment
+in future years to reflect cost of living increases) and have the amount of the
+reduction contributed to the 401(k) Plan. Company contributions to the 401(k)
+Plan are at the discretion of the Board of Directors. During 2002, the Company
+issued 105,959 shares of common stock as a discretionary contribution to the
+401(k) Plan. The Company did not make any contribution to the 401(k) Plan in
+2001 or 2000.
+
+11. SUBSEQUENT EVENTS
+
+On August 28, 2002, RGC orally offered to enter into an eight month
+"stand-still" agreement with the Company under which RGC would not exercise any
+claimed acceleration rights under the Debenture in return for an immediate
+payment of $500,000 by the Company and an option to buy back the Debenture for
+$1 million at any time during the eight-month stand-still period. On September
+13, 2002, the Company accepted RGC's offer.
+
+On November 1, 2002, the Company received a letter from RGC's legal counsel
+stating that no such stand-still agreement exists and that RGC had sold its
+interest in the Debenture and assigned its rights and obligations on or around
+September 27, 2002.
+
+The Company filed a lawsuit on November 8, 2002 against RGC and three alleged
+transferees of the Debenture to enforce the terms of a stand-still and buy-back
+agreement between the Company and RGC. RGC denies that any such agreement
+exists. An agent for the alleged transferees of the Debenture has contacted the
+Company with demands that are inconsistent with the terms of the stand-still
+and buy-back agreement and has submitted a purported demand to accelerate the
+maturity of the Debenture. The Company intends to vigorously contest the
+validity of this demand. The pending litigation and the purported demand may
+significantly impact the Company's results of operations in fiscal 2003.
+                                                                              26
+<PAGE>
+                                                                     Schedule II
+
+
+
+                           ARI NETWORK SERVICES, INC.
+
+                        VALUATION AND QUALIFYING ACCOUNTS
+                    Years ended July 31, 2002, 2001, and 2000
+                             (Dollars in Thousands)
+
+
+
+                                              ADDITIONS
+                                             (REDUCTIONS)
+                                 BALANCE AT   CHARGED TO                BALANCE
+                                 BEGINNING     EXPENSE                   AT END
+DESCRIPTION                       OF YEAR      (INCOME)    DEDUCTIONS   OF YEAR
+-------------------------------------------------------------------------------
+
+Allowance for doubtful accounts-
+  accounts receivable:
+
+2002                               $757        $(131)        $486 (A)     $140
+                                   ====        =====         ====         ====
+
+2001                               $697        $ 532         $472 (A)     $757
+                                   ====        =====         ====         ====
+
+2000                               $278        $ 668         $249 (A)     $697
+                                   ====        =====         ====         ====
+
+
+
+
+
+
+
+(A)  Uncollectible accounts written off, net of recoveries.
+
+
+
+
+</TEXT>
+</DOCUMENT>

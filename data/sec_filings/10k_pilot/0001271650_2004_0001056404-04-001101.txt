@@ -1,0 +1,3438 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>csf03027_form10k.txt
+<TEXT>
+
+                                       UNITED STATES
+                             SECURITIES AND EXCHANGE COMMISSION
+                                   WASHINGTON, D.C. 20549
+
+
+
+                                          FORM 10-K
+
+
+  (Mark one)
+
+  /X/ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+      EXCHANGE ACT OF 1934
+      For the fiscal year ended December 31, 2003
+
+      OR
+
+
+
+  / / TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+      EXCHANGE ACT OF 1934
+
+
+      Commission File Number:  333-107055-13
+
+
+        Credit Suisse First Boston Mortgage Securities Corporation
+        Mortgage-Backed Pass-Through Certificates
+        Series 2003-27
+
+     (Exact name of registrant as specified in its charter)
+
+
+   New York                                        13-3320910
+  (State or other jurisdiction of                   (I.R.S. Employer
+  incorporation or organization)                    Identification No.)
+
+   c/o Wells Fargo Bank, N.A.
+   9062 Old Annapolis Road
+   Columbia, MD                                21045
+  (Address of principal executive offices)     (Zip Code)
+
+
+  Registrant's telephone number, including area code: (410) 884-2000
+
+
+  Securities registered pursuant to Section 12(b) of the Act:
+
+       NONE.
+
+
+
+  Securities registered pursuant to Section 12(g) of the Act:
+
+       NONE.
+
+
+
+  Indicate by check mark whether the registrant (1) has filed all reports
+  required to be filed by Section 13 or 15(d) of the Securities Exchange
+  Act of 1934 during the preceding 12 months (or for such shorter period
+  that the registrant was required to file such reports), and (2) has been
+  subject to such filing requirements for the past 90 days.
+
+      Yes  ___      No X*
+
+    * The closing date of this transaction was November 26, 2003.
+
+
+
+
+
+
+  Indicate by check mark if disclosure of delinquent filers pursuant to
+  Item 405 of Regulation S-K ( 229.405 of this chapter) is not contained
+  herein, and will not be contained, to the best of registrant's knowledge,
+  in definitive proxy or information statements incorporated by reference
+  in Part III of this Form 10-K or any amendment to this Form 10-K.
+
+         Not applicable.
+
+  Indicate by check mark whether the registrant is an accelerated filer
+  (as defined in Exchange Act Rule 12b-2).
+    Yes___       No X
+
+
+
+  State the aggregate market value of the voting and non-voting common
+  equity held by non-affiliates computed by reference to the price at which
+  the common equity was last sold, or the average bid and asked price of
+  such common equity, as of the last business day of the registrant's most
+  recently completed second fiscal quarter.
+
+
+
+         Not applicable.
+
+
+
+
+
+
+
+
+  Indicate the number of shares outstanding of each of the registrant's
+  classes of common stock, as of the latest practicable date.
+
+         Not applicable.
+
+
+
+  List hereunder the following documents if incorporated by reference and
+  the Part of the Form 10-K (e.g. Part I, Part II, etc.) into which the
+  document is incorporated: (1)Any annual report to security holders; (2)
+  Any proxy or information statement; and (3)Any prospectus filed pursuant
+  to Rule 424(b) or (c) under the Securities Act of 1933. The listed
+  documents should be clearly described for identification purposes (e.g.
+  annual report to security holders for fiscal year ended December 24, 1980).
+
+         Not applicable.
+
+
+
+
+
+
+
+
+
+
+                                   PART I
+
+  Item 1.  Business.
+
+            Omitted.
+
+  Item 2.  Properties.
+
+            See Item 15(a), Exhibits 99.1, 99.2, and 99.3, for information
+            provided in lieu of information required by Item 102 of
+            Regulation S-K.
+
+
+
+  Item 3.  Legal Proceedings.
+
+            The registrant knows of no material pending legal proceedings
+            involving the trust created under the Pooling and Servicing
+            Agreement (the Trust), the Trustee, the Servicer or the
+            registrant with respect to the Trust other than routine
+            litigation incidental to the duties of the respective parties.
+
+
+
+
+
+  Item 4.  Submission of Matters to a Vote of Security Holders.
+
+
+            None.
+
+                                PART II
+
+
+  Item 5.  Market for Registrant's Common Equity and Related Stockholder
+           Matters.
+
+
+            No established public trading market for the Certificates exists.
+
+            Records provided to the Trust by the DTC and the Trustee
+            indicate that as of December 31, 2003, the number of holders of
+            record for each class of Certificate were as follows:
+
+
+             Class AP                             3
+             Class AR                             1
+             Class ARL                            1
+             Class CB1                            3
+             Class CB2                            3
+             Class CB3                            3
+             Class CB4                            1
+             Class CB5                            1
+             Class CB6                            1
+             Class CX                             3
+             Class DB1                            3
+             Class DB2                            3
+             Class DB3                            3
+             Class DB4                            1
+             Class DB5                            1
+             Class DB6                            1
+             Class DP                             3
+             Class DX                             3
+             Class 1-A-1                          4
+             Class 1-A-2                          4
+             Class 1-A-3                          3
+             Class 1-A-4                          3
+             Class 1-A-5                          3
+             Class 1-A-6                          3
+             Class 1-A-7                          3
+             Class 1-A-8                          3
+             Class 2-A-1                          3
+             Class 3-A-1                          6
+             Class 3-A-2                          3
+             Class IIP                            3
+             Class IIX                            3
+             Class 4-A-1                          4
+             Class 4-A-10                         6
+             Class 4-A-11                         3
+             Class 4-A-12                         6
+             Class 4-A-13                        16
+             Class 4-A-14                        17
+             Class 4-A-15                         3
+             Class 4-A-16                         3
+             Class 4-A-17                         3
+             Class 4-A-18                         3
+             Class 4-A-19                         3
+             Class 4-A-2                          3
+             Class 4-A-20                         3
+             Class 4-A-21                         3
+             Class 4-A-22                         6
+             Class 4-A-23                         3
+             Class 4-A-24                         5
+             Class 4-A-25                         3
+             Class 4-A-3                          4
+             Class 4-A-4                          3
+             Class 4-A-5                          4
+             Class 4-A-6                          3
+             Class 4-A-7                          3
+             Class 4-A-8                          3
+             Class 4-A-9                          3
+             Class IVP                            3
+             Class IVX                            3
+             Class 9-A-1                         13
+             Class 5-A-1                          4
+             Class 5-A-2                          3
+             Class 5-A-3                          3
+             Class 5-A-4                          3
+             Class 6-A-1                          3
+             Class 7-A-1                          3
+             Class 8-A-1                          3
+             Class VIP                            3
+             Class VIX                            3
+
+             Total:                             245
+
+
+  Item 6.  Selected Financial Data.
+
+            Omitted.
+
+
+  Item 7.  Management's Discussion and Analysis of Financial Condition and
+           Results of Operation.
+
+            Omitted.
+
+
+  Item 7A. Quantitative and Qualitative Disclosures about Market Risk.
+
+            Not applicable.
+
+  Item 8.  Financial Statements and Supplementary Data.
+
+            See Item 15(a), Exhibits 99.1, 99.2, 99.3, for information
+            provided in lieu of information required by Item 302 of
+            Regulation S-K.
+
+
+
+
+  Item 9.  Changes in and Disagreements with Accountants on Accounting and
+           Financial Disclosure.
+
+            None.
+
+  Item 9A. Controls and Procedures.
+
+            Not applicable.
+
+
+                                PART III
+
+
+  Item 10. Directors and Executive Officers of the Registrant.
+
+            Not applicable.
+
+
+  Item 11. Executive Compensation.
+
+            Not applicable.
+
+
+  Item 12. Security Ownership of Certain Beneficial Owners and Management.
+
+            Not applicable.
+
+
+  Item 13. Certain Relationships and Related Transactions.
+
+            Not applicable.
+
+  Item 14. Principal Accounting Fees and Services.
+
+            Not applicable.
+
+                                PART IV
+
+
+  Item 15. Exhibits, Financial Statement Schedules, and Reports on Form 8-K.
+
+   (a) Exhibits
+
+     (31.1) Rule 13a-14(a)/15d-14(a) Certification
+
+     (99.1) Annual Independent Accountants' Servicing Reports concerning
+            servicing activities for the year ended December 31, 2003.
+
+       <TABLE>
+
+       <s>         <c>
+       a) Fairbanks Capital Corp, as Servicer <F1>
+       b) Greenpoint Mortgage Funding, Inc., as Servicer <F1>
+       c) HSBC Bank, USA, as Servicer <F1>
+       d) Cenlar, as Subservicer for Nexstar Financial <F1>
+       e) Washington Mutual Bank, F.A., as Servicer <F1>
+       f) Washington Mutual Mtg Sec Corp, as Servicer <F1>
+       g) Wells Fargo Home Mortgage, Inc, as Servicer <F1>
+       </TABLE>
+
+     (99.2) Report of Management as to Compliance with Minimum Servicing
+            Standards for the year ended December 31, 2003.
+
+       <TABLE>
+
+       <s>        <c>
+       a) Fairbanks Capital Corp, as Servicer <F1>
+       b) Greenpoint Mortgage Funding, Inc., as Servicer <F1>
+       c) HSBC Bank, USA, as Servicer <F1>
+       d) Cenlar, as Subservicer for Nexstar Financial <F1>
+       e) Washington Mutual Bank, F.A., as Servicer <F1>
+       f) Washington Mutual Mtg Sec Corp, as Servicer <F1>
+       g) Wells Fargo Home Mortgage, Inc, as Servicer <F1>
+       </TABLE>
+
+     (99.3) Annual Statements of Compliance under the Pooling and Servicing
+            Agreements for the year ended December 31, 2003.
+
+       <TABLE>
+
+       <s>         <c>
+       a) Fairbanks Capital Corp, as Servicer <F1>
+       b) Greenpoint Mortgage Funding, Inc., as Servicer <F1>
+       c) HSBC Bank, USA, as Servicer <F1>
+       d) Nexstar Financial, as Servicer <F1>
+       e) Washington Mutual Bank, F.A., as Servicer <F1>
+       f) Washington Mutual Mtg Sec Corp, as Servicer <F1>
+       g) Wells Fargo Home Mortgage, Inc, as Servicer <F1>
+       </TABLE>
+
+
+
+
+  <F1> Filed herewith.
+
+
+
+                                SIGNATURES
+
+
+  Pursuant to the requirements of Section 13 or 15(d) of the Securities
+  Exchange Act of 1934, the registrant has duly caused this report to be
+  signed on its behalf by the undersigned, thereunto duly authorized:
+
+
+
+     Credit Suisse First Boston Mortgage Securities Corporation
+     Mortgage-Backed Pass-Through Certificates
+     Series 2003-27
+     (Registrant)
+
+
+
+  Signed: Credit Suisse First Boston Mortgage Securities Corp. as Depositor
+
+
+  By:  Andrew Kimura, President
+
+  By: /s/ Andrew Kimura, President
+
+  Dated: March 26, 2004
+
+
+
+
+  SUPPLEMENTAL INFORMATION TO BE FURNISHED WITH REPORTS FILED PURSUANT TO
+  SECTION 15(d) OF THE ACT BY REGISTRANTS WHICH HAVE NOT REGISTERED
+  SECURITIES PURSUANT TO SECTION 12 OF THE ACT.
+
+
+  (a)(i) No annual report is provided to the Certificateholders other than
+  with respect to aggregate principal and interest distributions.
+
+
+  (a)(ii) No proxy statement, form of proxy or other proxy soliciting
+  material has been sent to any Certificateholder with respect to any
+  annual or other meeting of Certificateholders.
+
+
+
+Exhibit Index
+
+Exhibit No.
+
+
+  Ex-31.1 Rule 13a-14(a)/15d-14(a) Certification
+
+
+
+    I, Andrew Kimura, certify that:
+
+  1. I have reviewed this annual report on Form 10-K, and all reports on
+     Form 8-K containing distribution and servicing reports filed in
+     respect of periods included in the year covered by this annual
+     report, of CSFB Mortgage-Backed Trust, Series 2003-27 (the "Trust");
+
+  2. Based on my knowledge, the information in these reports, taken as a
+     whole, does not contain any untrue statement of a material fact or
+     omit to state a material fact necessary to make the statements made,
+     in light of the circumstances under which such statements were made,
+     not misleading as of the last day of the period covered by this
+     annual report;
+
+  3. Based on my knowledge, the distribution or servicing information required
+     to be provided to the trustee by the Servicer under the Pooling and
+     Servicing, or similar, Agreement for inclusion in these reports is
+     included in these reports;
+
+  4. Based on my knowledge and upon the annual compliance statement
+     included in the report and required to be delivered to the Trustee
+     in accordance with the terms of the Pooling and Servicing, or similar,
+     Agreement and based upon my knowledge and the annual compliance
+     review required under that Agreement, and except as disclosed in the
+     reports, the Servicer has fulfilled its obligations under that
+     Agreement; and
+
+  5. The reports disclose all significant deficiencies relating to the
+     Servicer's compliance with the minimum servicing standards based
+     upon the report provided by an independent public accountant, after
+     conducting a review in compliance with the Uniform Single Attestation
+     Program for Mortgage Bankers or similar procedure as set forth in the
+     Pooling and Servicing, or similar, Agreement, that is included in these
+     reports.
+
+     In giving the certifications above, I have reasonably relied on the
+     information provided to me by the following unaffiliated parties:
+     Fairbanks Capital Corp, as Servicer, Greenpoint Mortgage Funding, Inc.,
+     as Servicer, HSBC Bank, USA, as Servicer, Cenlar as Subservicer for
+     Nexstar Financial, Washington Mutual Bank, F.A., as Servicer, Washington
+     Mutual Mortgage  Securities Corp, as Servicer, Wells Fargo Home Mortgage,
+     Inc, as Servicer, Wells Fargo Bank, N.A. as Master Servicer and Trust
+     Administrator, and Bank One, National Association, as Trustee.
+
+
+
+
+
+     Date: March 26, 2004
+
+     /s/ Andrew Kimura
+     Signature
+
+     President
+     Title
+
+
+
+  Ex-99.1 (a)
+
+ERNST & YOUNG    (logo)
+Ernst & Young LLP
+725 South Figueroa Street
+Los Angeles, California 90017-5418
+
+Phone: (213) 977-3200
+www.ey.com
+
+Report on Management's Assertion on Compliance with the Minimum Servicing
+Standards Set Forth in the Uniform Single Attestation Program for Mortgage
+Bankers Report of Independent Accountants
+
+Board of Directors Fairbanks Capital Corp.
+
+We have examined management's assertion, included in the accompanying report
+titled Report of Management, that Fairbanks Capital Corp. ("Fairbanks") complied
+with the minimum servicing standards set forth in the Mortgage Bankers
+Association of America's Uniform Single Attestation Program for Mortgage Bankers
+("USAP") during the year ended December 31,2003. Management is responsible for
+Fairbanks' compliance with those requirements. Our responsibility is to express
+an opinion on management's assertion about Fairbanks' compliance based on our
+examination.
+
+Our examination was made in accordance with standards established by the
+American Institute of Certified Public Accountants and, accordingly, included
+examining, on a test basis, evidence about Fairbanks's compliance with those
+requirements and performing such other procedures as we considered necessary in
+the circumstances. We believe that our examination provides a reasonable basis
+for our opinion. Our examination does not provide a legal determination on
+Fairbanks' compliance with specified requirements.
+
+In our opinion, management's assertion that Fairbanks complied with the
+aforementioned requirements during the year ended December 31, 2003, is fairly
+stated, in all material respects.
+
+This report is intended solely for the information and use of the Board of
+Directors, Audit Committee, management, Fannie Mae, Freddie Mac, Ginnie Mae and
+other investors in serviced assets and is not intended to be and should not be
+used by anyone other than these specified parties.
+
+
+/s/Ernst & Young
+January 19, 2004
+
+
+
+A Member Practice of Ernst & Young Global
+
+
+
+
+
+  Ex-99.1 (b)
+
+(logo) PRICEWATERHOUSECOOPERS
+
+
+PricewaterhouseCoopers LLP
+350 S. Grand Ave.
+Los Angeles CA 90071
+Telephone (213) 236 3000
+
+
+Report of Independent Auditors
+
+
+
+To the Board of Directors and Stockholders of GreenPoint Financial Corporation:
+
+We have examined management's assertion about GreenPoint Financial Corporation
+and its subsidiaries, including GreenPoint Mortgage Funding, Inc. (the
+"Company") compliance with the minimum servicing standards identified in the
+Mortgage Bankers Association of America's Uniform Single Attestation Program for
+Mortgage Bankers ("USAP") as of and for the year ended December 31, 2003
+included in the accompanying management assertion (see Exhibit 1). Management is
+responsible for the Company's compliance with those minimum servicing standards.
+Our responsibility is to express an opinion on management's assertion about the
+Company's compliance based on our examination.
+
+
+Our examination was made in accordance with attestation standards established by
+the American Institute of Certified Public Accountants and, accordingly,
+included examining, on a test basis, evidence about the Company's compliance
+with the minimum servicing standards and performing such other procedures as we
+considered necessary in the circumstances. We believe that our examination
+provides a reasonable basis for our opinion. Our examination does not provide a
+legal determination on the Company's compliance with the minimum servicing
+standards.
+
+
+In our opinion, management's assertion that the Company complied with the
+aforementioned minimum servicing standards as of and for the year ended December
+31, 2003 is fairly stated, in all material respects.
+
+
+/s/ PricewaterhouseCoopers LLP
+PricewaterhouseCoopers LLP
+
+
+
+March 25, 2004
+
+
+
+  Ex-99.1 (c)
+
+[logo] KPMG
+
+KPMG LLP
+Suite 601
+12 Fountain Plaza Buffalo. NY 14202
+
+Independent Accountants' Report
+
+The Board of Directors
+HSBC Mortgage Corporation (USA):
+
+We have examined management's assertion, included in the accompanying Management
+Assertion, that HSBC Mortgage Corporation (USA) complied with the minimum
+servicing standards set forth in the Mortgage Bankers Association of America's
+Uniform Single Attestation Program for Mortgage Bankers (USAP) as of and for the
+year ended December 31, 2003. Management is responsible for HSBC Mortgage
+Corporation (USA)'s compliance with those minimum servicing standards. Our
+responsibility is to express an opinion on management's assertion about the
+Company's compliance based on our examination.
+
+Our examination was conducted in accordance with attestation standards
+established by the American Institute of Certified Public Accountants and,
+accordingly, included examining, on a test basis, evidence about HSBC Mortgage
+Corporation (USA)'s compliance with the minimum servicing standards specified
+above and performing such other procedures as we considered necessary in the
+circumstances. We believe that our examination provides a reasonable basis for
+our opinion. Our examination does not provide a legal determination on HSBC
+Mortgage Corporation (USA)'s compliance with the minimum servicing standards.
+
+In our opinion, management's assertion that HSBC Mortgage Corporation (USA)
+complied with the aforementioned minimum servicing standards during the year
+ended December 31, 2003 is fairly stated, in all material respects.
+
+February 2, 2004 Buffalo, New York
+
+
+
+
+/s/ KPMG
+
+
+
+KPMG LLP, a US limited liability partnership, is the US member firm of KPMG
+International. a Swiss cooperative
+
+
+
+
+
+  Ex-99.1 (d)
+
+(logo) KPMG
+
+KPMG LLP
+New Jersey Headquarters
+150 John F. Kennedy Parkway
+Short Hills, NJ 07078
+
+Independent Accountants' Report
+
+The Board of Directors
+Cenlar FSB:
+
+We have examined management's assertion, included in the accompanying report,
+that Cenlar FSB (a wholly-owned subsidiary of Cenlar Capital Corporation) and
+subsidiaries (Cenlar) complied with the minimum servicing standards set forth in
+the Mortgage Bankers Association of America's Uniform Single Attestation Program
+for Mortgage Bankers as of and for the year ended December 31,2003. Management
+is responsible for Cenlar's compliance with those minimum servicing standards.
+Our responsibility is to express an opinion on management's assertion about
+Cenlar's compliance based on our examination.
+
+Our examination was conducted in accordance with attestation standards
+established by the American Institute of Certified Public Accountants and,
+accordingly, included examining, on a test basis, evidence about Cenlar's
+compliance with the minimum servicing standards specified above and performing
+such other procedures as we considered necessary in the circumstances. We
+believe that our examination provides a reasonable basis for our opinion. Our
+examination does not provide a legal determination on Cenlar's compliance with
+the minimum servicing standards.
+
+In our opinion, management's assertion that Cenlar complied with the
+aforementioned minimum servicing standards during the year ended December 31,
+2003 is fairly stated, in all material respects.
+
+/s/ KPMG LLP
+KPMG LLP
+February 20, 2004
+
+
+
+
+KPMG LLP, a U.S. limited liability partnarship, is the U.S.
+member firm of KPMG International, a Swiss cooperative.
+
+
+
+  Ex-99.1 (e)
+
+[logo Deloitte.]
+
+Deloitte & Touche LLP
+Suite 3300
+925 Fourth Avenue
+Seattle, WA 98104-1126 USA
+Tel: +12067167000 Fax: + 1 2069657000
+www.deloitte.com
+
+INDEPENDENT ACCOUNTANTS' REPORT
+
+Board of Directors
+Washington Mutual Bank, FA and Subsidiaries
+
+We have examined management's assertion that Washington Mutual Bank, FA and \
+subsidiaries (the "Company") has complied as of and for the year ended December
+31, 2003, with its established minimum servicing standards for single family
+residential mortgages identified in the accompanying Management's Assertion,
+dated February 16, 2004. Management is responsible for the Company's compliance
+with those minimum servicing standards. Our responsibility is to express an
+opinion on management's assertion about the Company's compliance based on our
+examination.
+
+Our examination was conducted in accordance with attestation standards
+established by the American Institute of Certified Public Accountants and,
+accordingly, included examining, on a test basis, evidence about the Company's
+compliance with its minimum servicing standards and performing such other
+procedures as we considered necessary in the circumstances. We believe that our
+examination provides a reasonable basis for our opinion. Our examination does
+not provide a legal determination on the Company's compliance with its minimum
+servicing standards.
+
+In our opinion, management's assertion that the Company complied with the
+aforementioned minimum servicing standards as of and for the year ended
+December 31, 2003, is fairly stated, in all material respects, based on the
+criteria set forth in Appendix I.
+
+/s/Deloitte & Touche
+
+February 16, 2004
+
+
+
+Member of
+Deloitte Touche Tohmatsu
+
+
+
+  Ex-99.1 (f)
+
+
+(logo) Deloitte
+
+Deloitte & Touche LLP
+Suite 3300
+925 Fourth Avenue
+Seattle, WA 98104-1126
+Tel:+1 206 716 7000
+Fax:+ 1 206 965 7000
+www.deloitte.com
+
+
+INDEPENDENT ACCOUNTANTS' REPORT
+
+
+Board of Directors and Stockholder
+Washington Mutual Mortgage Securities Corp.
+
+We have examined management's assertion that Washington Mutual Mortgage
+Securities Corp. (the Company) has complied as of and for the year ended
+December 31,2003, with its established minimum servicing standards in its role
+as Master Servicer, identified in the accompanying Management's Assertion, dated
+February 23, 2004. Such assertions were examined relating to those series of
+certificates included in the attached Appendix I. Management is responsible for
+the Company's compliance with those minimum servicing standards. Our
+responsibility is to express an opinion on management's assertion about the
+Company's compliance based on our examination.
+
+Our examination was conducted in accordance with attestation standards
+established by the American Institute of Certified Public Accountants and,
+accordingly, included examining, on a test basis, evidence about the Company's
+compliance with its minimum servicing standards and performing such other
+procedures as we considered necessary in the circumstances. Series of
+certificates subject to such procedures were selected using sampling methods,
+and accordingly, we make no representations that our examination procedures were
+performed on a specific series of certificates as listed in the attached
+Appendix I. We believe that our examination provides a reasonable basis for our
+opinion. Our examination does not provide a legal determination on the Company's
+compliance with its minimum servicing standards.
+
+In our opinion, management's assertion that the Company complied with the
+aforementioned minimum servicing standards as of and for the year ended December
+31, 2003, is fairly stated, in all material respects, based on the criteria set
+forth in Appendix II.
+
+
+/s/ Deloitte & Touche LLP
+Deloitte & Touche LLP
+February 23, 2004
+
+
+Member of
+Deloitte Touche Tohmatsu
+
+
+
+  Ex-99.1 (g)
+
+KPMG   (logo)
+
+KPMG LLP
+2500 Ruan Center
+666 Grand Avenue
+Des Moines, IA 50309
+
+Independent Accountants' Report
+
+The Board of Directors
+Wells Fargo Home Mortgage, Inc.:
+
+We have examined management's assertion dated February 25, 2004 that Wells Fargo
+Home Mortgage, Inc. (the Company) complied with the minimum servicing standards
+set forth in the Mortgage Bankers Association of America's Uniform Single
+Attestation Program for Mortgage Bankers (USAP) as of and for the year ended
+December 31, 2003. Management is responsible for the Company's compliance with
+those minimum servicing standards. Our responsibility is to express an opinion
+on management's assertion about the Company's compliance based on our
+examination.
+
+
+Our examination was conducted in accordance with attestation standards
+established by the American Institute of Certified Public Accountants and,
+accordingly, included examining, on a test basis, evidence about the Company's
+compliance with the minimum servicing standards specified above and perfonning
+such other procedures as we consideccd necessary in the circumstances. We
+believe that our examination provides a reasonable basis for our opinion. Our
+examination does not provide a legal determination on the Company's compliance
+with the minimum servicing standards.
+
+In our opinion, management's assertion that the Company complied with the
+aforementioned minimum servicing standards as of and for the year ended December
+31, 2003, is fairly stated, in a11 material respects.
+
+
+/s/ KPMG LLP
+
+February 25, 2004
+
+KPMG LLP a US limited liability partnership, is the US
+member of KPMG international a Swiss corporation
+
+
+
+
+
+  Ex-99.2 (a)
+
+(logo) FAIRBANKS CAPITAL CORP.
+
+Management's Assertion on Compliance with the Minimum Servicing Standards Set
+Forth in the Uniform Single Attestation Program for Mortgage Bankers Report of
+Management
+
+We, as members of management of Fairbanks Capital Corp. (Fairbanks), are
+responsible for complying with the minimum servicing standards as set forth in
+the Mortgage Bankers Association of America's Uniform Single Attestation Program
+for Mortgage Bankers ("USAP"). We are also responsible for establishing and
+maintaining effective internal control over compliance with these standards. We
+have performed an evaluation of Fairbanks' compliance with the minimum servicing
+standards set forth in USAF as of December 31, 2003 and for the year then ended.
+Based on this evaluation, we assert that during the year ended December 31,
+2003, Fairbanks complied, in all material respects, with the minimum servicing
+standards set forth in USAP.
+
+As of December 31, 2003 and for the year then ended, Fairbanks had in effect
+3- fidelity bond in the amount of $55,000,000 and an errors and omissions policy
+in the amount $20,000,000.
+
+/s/ James H. Orzanne
+James H. Orzanne
+Chief Executive Officer
+
+/s Matthew L. Hollingsworth
+Matthew L. Hol1lingsworth, Chief Operating Officer
+
+/s/ Barbara K. Wing
+Barbara K. Wing
+Senior Vice President and
+Controller
+January 19,2004
+
+3815 SOUTH WEST TEMPLE. SALT LAKE CITY, UTAH 84115-4412 P.O. Box 65250.
+SALT LAKE CITY, UTAH 84165-0250 TELEPHONE (801) 293-1883 .FAX (801) 293-1297
+
+
+
+  Ex-99.2 (b)
+
+Exhibit I
+
+
+Management's Assertion Regarding Compliance
+With Minimum Servicing Standards
+
+
+
+As of and for the year ended December 31, 2003, Greenpoint Mortgage Funding,
+Inc. (the "Company"), a wholly-owned subsidiary of Greenpoint Bank, has complied
+in all material respects with the minimum servicing standards set forth in the
+Mortgage Bankers Association of America's Uniform Single Attestation Program for
+Mortgage Bankers.
+
+
+As of and for this same period, GreenPoint Bank maintained on behalf of the
+Company, errors and omissions and employee fidelity bond insurance policies in
+the amount of $20,000,000 and $50,000,000, respectively.
+
+
+March 25, 2003
+
+
+/s/ Becky Poisson
+Becky Poisson
+Executive Vice President of
+Operations and Technology
+
+
+
+/s/ Nathan Hieter
+Nathan Hieter
+Controller
+
+
+
+/s/ David Petrini
+David Petrini
+Chief Financial Officer
+
+
+
+/s/ S.A. Ibrahim
+S.A. Ibrahim
+Chief Executive Officer
+
+
+
+
+
+
+
+
+
+
+  Ex-99.2 (c)
+
+[logo] HSBC
+
+
+Management Assertion
+
+As of and for the year ended December 31, 2003, HSBC Mortgage Corporation (USA)
+complied in all material respects with the minimum servicing standards set forth
+in the Mortgage Bankers Association of America Uniform Single Attestation
+Program for Mortgage Bankers. As of and for this same period, HSBC Mortgage
+Corporation (USA) had in effect fidelity bond and errors and omissions policies
+in the amount of$660,691,500 and $48,000,000, respectively.
+
+
+/s/ David J. Hunter
+David J. Hunter
+President
+
+
+/s/ Daniel B. Duggan
+Daniel B. Duggan
+SVP, Risk Management I
+
+
+
+
+/S/ Gary P.  Zimmermann
+Gary P.  Zimmermann
+SVP, Mortgage Services
+
+
+
+HSBC Mortgage Corporation (USA)
+2929 Walden Avenue. Depew, NY 14()4}
+
+
+
+
+  Ex-99.2 (d)
+
+(logo) Cenlar
+Central Loan Administration & Reporting
+
+
+
+
+February 20, 2004
+
+
+
+Management Assertion
+
+As of and for the year ended December 31, 2003, Cenlar FSB complied in all
+material respects with the minimum servicing standards set forth in the Mortgage
+Bankers Association of America's Uniform Single Attestation Program for Mortgage
+Bankers. As of and for this same period, Cenlar FSB had in effect a fidelity
+bond in the amount of $30,000,000 and errors and omissions policy in the amount
+of $25,000,000.
+
+
+/s/ Michael W. Young
+Michael W. Young
+Chief Executive Officer
+
+
+/s/ Gregory S. Tornquist
+Gregory S. Tornquist
+Chief Financial Officer
+
+
+/s/ Steve W. Gozdan
+Steve W. Gozdan
+Chief Operating Officer
+
+
+
+
+
+
+
+Po Box 77400.Ewing, NJ 08628.609-883-3900
+
+  Ex-99.2 (e)
+
+(logo) Washington Mutual
+
+MANAGEMENT'S ASSERTION
+
+As of and for the year ended December 31, 2003, Washington Mutual Bank, FA and
+Subsidiaries (the Company) has complied, in all material respects, with the
+Company's established mh1imum servicing standards for single family residential
+mortgages as set forth in Appendix I (the Standards). The Standards are based on
+the Mortgage Banker's Association of America's Uniform Single Attestation
+Program for Mortgage Bankers. As of and for this same period, the Company had in
+effect a fidelity bond in the amount of $110 million, and errors and omissions
+policy in the amount of $20 million.
+
+/s/ Deanna Oppenheimer
+Deanna Oppenheimer
+President
+Consumer Group
+
+/s/ Dyn Beito
+Dayne Beito
+Executive Vice President
+Home Loans Service Delivery - Consumer Group
+
+/s/ Anthony T. Meola
+Anthonhy T. Meola
+Executive Vice President
+Home Loans Production - Consumer Group
+
+February 16, 2004
+
+1201 3rd Avenue
+Seattle, WA  98101
+
+(logo) Washington Mutual
+
+Washington Mutual WASHINGTON MUTUAL BANK, FA AND SUBSIDIARIES
+
+APPENDIX I: MINIMUM SERVICING STANDARDS FOR SINGLE FAMILY RESIDENTIAL
+MORTGAGES AS SET FORTH IN THE MORTGAGE BANKERS ASSOCIATION OF
+AMERICA'S UNIFORM SINGLE ATTESTATION PROGRAM FOR MORTGAGE BANKERS
+
+1. CUSTODIAL BANK ACCOUNTS
+
+1. Recol1ciliations shall be prepared on a monthly basis for all custodial bank
+accountS and related bank clearing accounts. These reconciliations shall:
+
+* be mathematically accurate;
+
+* be prepared within forty-five (45) calendar days after the cutoff date;
+
+* be reviewed and approved by someone other than the person who prepared the
+reconciliation; and
+
+* document explanations for reconciling items. These reconciling items shall be
+resolved within ninety (90) calendar days of their original identification.
+
+2. Funds of the servicing entity shall be advanced in cases where there is an
+overdraft in an investor's or a mortgagor's account.
+
+3. Each custodial account shall be maintained at a federally insured depository
+institution in trust for the applicable investor.
+
+4. Escrow funds held in trust for a mortgagor shall be returned to the mortgagor
+within thirty (30) calendar days of payoff of the mortgage loan.
+
+II. MORTGAGE PAYMENTS
+
+1. Mortgage payments shall be deposited into the custodial bank aCCOuntS and
+related bank clearing accounts within two business days of receipt.
+
+2. Mortgage payments made in accordance with the mortgagor's loan documents
+shall be posted to the applicable mortgagor records within twO business days of
+receipt.
+
+3. Mortgage payments shall be allocated to principal, interest, insurance,
+taxes, or other escrow items in accordance with the mortgagor's loan documents.
+
+4. Mortgage payments identified as loan payoffs shall be allocated in accordance
+with the mortgagor's loan documents.
+
+III. DISBURSEMENTS
+
+1. Disbursements made via wire transfer on behalf of a mortgagor or investor
+shall be made only by authorized personnel.
+
+2. Disbursements made on behalf of a mortgagor or investor shall be posted
+within two business days to the mortgagor's or investor's records maintained by
+the servicing entity.
+
+1201 3rd Avenue
+Seattle, WA 98101
+
+(logo) Washington Mutual
+
+3. Tax and insurance payments shall be made on or before the penalty Or
+insurance policy expiration dates, as indicated on tax bills and insurance
+premium notices, respectively, provided that such support has been received by
+the servicing entity at least thirty (30) calendar days prior to these dates.
+
+4. Any late payment penalties paid in conjuction with the payment of any tax
+bill or insurance premium notice shall be paid from the servicing entity's funds
+and not charged to the mortgagor, unless the late payment was due to the
+mortgagor's error or omission.
+
+5. Amounts remitted to investors per the servicer's investor reports shall agree
+with cancelled checks or other form of payment or custodial bank statements.
+
+6. Unused checks shall be safeguarded so as to prevent Unauthorized access.
+
+IV. INVESTOR ACCOUNTING AND REPORTING
+
+1. The servicing entity's investor reports shall agree with, or reconcile to,
+investors' records on a monthly basis as to the total unpaid principal balance
+and number of loans serviced by the servicing entity.
+
+V. MORTGAGOR LOAN ACCOUNTING
+
+1. The servicing entity's mortgage loan records shall agree with, or reconcile
+to, the records of mortgagors with respect to the unpaid principal balance On a
+monthly basis.
+
+2. Adjustments on ARM loans shall be computed based on the related mortgage note
+and any ARM rider.
+
+3. Escrow accounts shall be analyzed, in accordance with the mortgagor's loan
+documents, on at least an annual basis.
+
+4. Interest On escrow accounts shall be paid, or credited, to mortgagors in
+accordance with the applicable state laws.
+
+VI. DELINQUENCIES
+
+1. Records documenting collection efforts shall be maintained during the period
+a loan is in default and shall be updated at least monthly. Such records shall
+describe the entity's activities in monitoring delinquent loans, including, for
+example, phone calls, letters, and mortgage payment rescheduling plans in cases
+where the delinquency is deemed temporary (e.g., illness Or unemployment).
+
+VII. INSURANCE POLICIES
+
+1. A fidelity bond and errors and omissions policy shall be in effect on the
+servicing entity throughout the reporting period in the amount of coverage
+represented to investors in management's assertion.
+
+1201 3rd Avenue
+Seattle, WA 98101
+
+
+
+
+
+
+
+
+  Ex-99.2 (f)
+
+(logo) Washington Mutual
+
+MANAGEMENT'S ASSERTION
+
+As of and for the year ended December 31, 2003, Washington Mutual Mortgage
+Securities Corp. (the Company) has complied, in all material respects in its
+role as master servicer, with the Company's established minimum servicing
+standards as set forth in Appendix ll. As of and for this same period, the
+Company had in effect a fidelity bond in the amount of $110 million, and errors
+and omissions policy in the amount of $20 million.
+
+
+/s/ Michael Parker
+Michael Parker
+President
+Washington Mutual Mortgage Securities Corp.
+
+/s/Michael Kula
+Washington Mutual Mortgage Securities Corp.
+
+
+February 23, 2004
+
+
+
+Washington Mutual Mortgage Securities Corp.
+Schedule of Agreements
+
+
+SERVICING AGREEMENT, dated February 1, 1997, Residential Mortgage Loans, Bank
+Atlantic 1998-WH1 between WMMSC f/k/a PNC and Bank Atlantic
+
+PARTICIPATION AGREEMENT, dated March 1, 1988, Residential Mortgage Loans, Series
+1998-PA6 ARM, between WMMSC f/k/a PNC f/k/a Sears Mortgage and Bank One National
+Association.
+
+POOLING AND SERVICING AGREEMENT, dated March 1, 1999, Mortgage Pass- Through
+Certificate, Series FNT 1999-2, between WMMSC f/k/a PNC and Bank One National
+Association.
+
+POOLING AND SERVICING AGREEMENT, dated April 1, 1999, Mortgage Pass- Through
+Certificate, Series FNT 1999-3, between WMMSC f/k/a PNC and Bank One National
+Association
+
+POOLING AND SERVICING AGREEMENT, dated August 1, 1999, Mortgage Pass- Through
+Certificate, Series FNT 2000-1, between WMMSC f/k/a PNC and Bank One National
+Association.
+
+POOLING AND SERVICING AGREEMENT, dated February 1, 2000, Mortgage Pass- Through
+Certificate, Series PNCMT 2000-1, between WMMSC and Bank One National
+Association.
+
+POOLING AND SERVICING AGREEMENT, dated March 1, 2000, Mortgage Pass- Through
+Certificate, Series Capstead I, between WMMSC and Bank One National Association.
+
+POOLING AND SERVICING AGREEMENT, dated March 1, 2000, Mortgage Pass- Through
+Certificate, Series Capstead II, between WMMSC and Bank One National
+Association.
+
+POOLING AND SERVICING AGREEMENT, dated March 1, 2000, Mortgage Pass- Through
+Certificate, Series Capstead III, between WMMSC and Bank One National
+Association
+
+POOLING AND SERVICING AGREEMENT, dated June 1, 2000, Mortgage Pass- Through
+Certificate, Series DLJMAC 2000-2, between WMMSC and Bank One National
+Association
+
+Washington Mutual Mortgage Securities Corp.
+Schedule of Agreements (continued)
+Page 2 of 40
+
+
+
+POOLING AND SERVICING AGREEMENT, dated January 1, 2001, Mortgage Pass- Through
+Certificate, Series CSFB 2001-1, between WMMSC and Bank One National Association
+
+POOLING AND SERVICING AGREEMENT, dated February 1, 2001, Mortgage Pass- Through
+Certificate, Series CSFB 2001-4, between WMMSC and Bank One National Association
+
+POOLING AND SERVICING AGREEMENT, dated February 1, 2001, Mortgage Pass- Through
+Certificate, Series CSFB 2001-AR7, between WMMSC and Bank One National
+Association
+
+POOLING AND SERVICING AGREEMENT, dated May 1, 2001, Mortgage Pass- Through
+Certificate, Series CSFB 2001-11, between WMMSC and Bank One National
+Association
+
+POOLING AND SERVICING AGREEMENT, dated August 1, 2001, Mortgage Pass- Through
+Certificate, Series CSFB 2001-AR19, between WMMSC and Bank One National
+Association
+
+POOLING AND SERVICING AGREEMENT, dated June 1, 2003, Mortgage Pass- Through
+Certificate, Series CSFB 2003-17, between WMMSC and Bank One National
+Association
+
+POOLING AND SERVICING AGREEMENT, dated June 1, 2003, Mortgage Pass- Through
+Certificate, Series CSFB 2003-AR18, between WMMSC and Bank One National
+Association
+
+POOLING AND SERVICING AGREEMENT, dated August 1, 2003, Mortgage Pass- Through
+Certificate, Series CSFB 2003-AR22, between WMMSC and Bank One National
+Association
+
+POOLING AND SERVICING AGREEMENT, dated March 1, 2001, Mortgage Pass- Through
+Certificate, Series CSFB 2001-9, between WMMSC and Bank One National
+
+POOLING AND SERVICING AGREEMENT, dated June 1, 2001, Mortgage Pass- Through
+Certificate, Series FNT 2001-2, between WMMSC and Bank One National Association
+
+POOLING AND SERVICING AGREEMENT, dated August 1, 2001, Mortgage Pass- Through
+Certificate, Series FNT 2001-4, between WMMSC and Bank One National Association
+
+Washington Mutual Mortgage Securities Corp.
+Schedule of Agreements (continued)
+Page 3 of 40
+
+
+POOLING AND SERVICING AGREEMENT, dated October 1, 2001, Mortgage Pass- Through
+Certificate, Series CSFB 2001-26, between WMMSC and Bank One National
+Association
+
+
+POOLING AND SERVICING AGREEMENT, dated December 1, 2001, Mortgage Pass- Through
+Certificate, Series CSFB 2001-33, between WMMSC and Bank One National
+Association
+
+POOLING AND SERVICING AGREEMENT, dated February 1, 2002, Mortgage Pass- Through
+Certificate, Series CSFB 2002-5, between WMMSC and Bank One National Association
+
+POOLING AND SERVICING AGREEMENT, dated March 1, 2002, Mortgage Pass- Through
+Certificate, Series CSFB 2002-9, between WMMSC and Bank One National Association
+
+POOLING AND SERVICING AGREEMENT, dated April 1, 2002, Mortgage Pass- Through
+Certificate, Series CSFB 2002-10, between WMMSC and Bank One National
+Association
+
+POOLING AND SERVICING AGREEMENT, dated May 1, 2002, Mortgage Pass- Through
+Certificate, Series CSFB 2002-18, between WMMSC and Bank One National
+Association
+
+POOLING AND SERVICING AGREEMENT, dated June 1, 2002, Mortgage Pass- Through
+Certificate, Series CSFB 2002-19, between WMMSC and Bank One National
+Association
+
+POOLING AND SERVICING AGREEMENT, dated July 1, 2002, Mortgage Pass- Through
+Certificate, Series CSFB 2002-22, between WMMSC and Bank One National
+Association
+
+POOLING AND SERVICING AGREEMENT, dated August 1, 2002, Mortgage Pass- Through
+Certificate, Series CSFB 2002-AR25, between WMMSC and Bank One National
+Association
+
+POOLING AND SERVICING AGREEMENT, dated August 1, 2002, Mortgage Pass- Through
+Certificate, Series CSFB 2002-24, between WMMSC and Bank One National
+Association
+
+Washington Mutual Mortgage Securities Corp.
+Schedule of Agreements (continued)
+Page 4 of 40
+
+
+POOLING AND SERVICING AGREEMENT, dated September 1, 2002, Mortgage Pass- Through
+Certificate, Series CSFB 2002-26, between WMMSC and Bank One National
+Association
+
+POOLING AND SERVICING AGREEMENT, dated September 1, 2002, Mortgage Pass- Through
+Certificate, Series CSFB 2002-AR27, between WMMSC and Bank One National
+Association
+
+POOLING AND SERVICING AGREEMENT, dated November 1, 2002, Mortgage Pass- Through
+Certificate, Series CSFB 2002-AR31, between WMMSC and Bank One National
+Association
+
+POOLING AND SERVICING AGREEMENT, dated November 1, 2002, Mortgage Pass- Through
+Certificate, Series CSFB 2002-30, between WMMSC and Bank One National
+Association
+
+POOLING AND SERVICING AGREEMENT, dated December 1, 2002, Mortgage Pass- Through
+Certificate, Series CSFB 2002-24, between WMMSC and Bank One National
+Association
+
+POOLING AND SERVICING AGREEMENT, dated December 1, 2002, Mortgage Pass- Through
+Certificate, Series CSFB 2002-AR33, between WMMSC and Bank One National
+Association
+
+POOLING AND SERVICING AGREEMENT, dated January 1, 2003, Mortgage Pass- Through
+Certificate, Series CSFB 2003-1, between WMMSC and Bank One National Association
+
+POOLING AND SERVICING AGREEMENT, dated January 1, 2003, Mortgage Pass- Through
+Certificate, Series CSFB 2003-AR2, between WMMSC and Bank One National
+Association
+
+POOLING AND SERVICING AGREEMENT, dated February 1, 2003, Mortgage Pass- Through
+Certificate, Series CSFB 2003-AR5, between WMMSC and Bank One National
+Association
+
+POOLING AND SERVICING AGREEMENT, dated March 1, 2003, Mortgage Pass- Through
+Certificate, Series CSFB 2003-AR9, between WMMSC and Bank One National
+Association
+
+POOLING AND SERVICING AGREEMENT, dated March 1, 2003, Mortgage Pass- Through
+Certificate, Series CSFB 2003-8, between WMMSC and Bank One National Association
+
+Washington Mutual Mortgage Securities Corp.
+Schedule of Agreements (continued)
+Page 5 of 40
+
+
+POOLING AND SERVICING AGREEMENT, dated April 1, 2003, Mortgage Pass- Through
+Certificate, Series CSFB 2003-AR12, between WMMSC and Bank One National
+Association
+
+POOLING AND SERVICING AGREEMENT, dated May 1, 2003, Mortgage Pass- Through
+Certificate, Series CSFB 2003-AR15, between WMMSC and Bank One National
+Association
+
+POOLING AND SERVICING AGREEMENT, dated June 1, 2003, Mortgage Pass- Through
+Certificate, Series CSFB 2003-17, between WMMSC and Bank One National
+Association
+
+POOLING AND SERVICING AGREEMENT, dated June 1, 2003, Mortgage Pass- Through
+Certificate, Series CSFB 2003-AR18, between WMMSC and Bank One National
+Association
+
+POOLING AND SERVICING AGREEMENT, dated July 1, 2003, Mortgage Pass- Through
+Certificate, Series CSFB 2003-19, between WMMSC and Bank One National
+Association
+
+POOLING AND SERVICING AGREEMENT, dated July 1, 2003, Mortgage Pass- Through
+Certificate, Series CSFB 2003-AR20, between WMMSC and Bank One National
+Association
+
+POOLING AND SERVICING AGREEMENT, dated August 1, 2003, Mortgage Pass- Through
+Certificate, Series CSFB 2003-21, between WMMSC and Bank One National
+Association
+
+POOLING AND SERVICING AGREEMENT, dated September 1, 2003, Mortgage Pass- Through
+Certificate, Series CSFB 2003-23, between WMMSC and Bank One National
+Association
+
+POOLING AND SERVICING AGREEMENT, dated September 1, 2003, Mortgage Pass- Through
+Certificate, Series CSFB 2003-AR24, between WMMSC and Bank One National
+Association
+
+POOLING AND SERVICING AGREEMENT, dated November 1, 2003, Mortgage Pass- Through
+Certificate, Series CSFB 2003-27, between WMMSC and Bank One National
+Association
+
+Washington Mutual Mortgage Securities Corp.
+Schedule of Agreements (continued)
+Page 6 of 40
+
+
+POOLING AND SERVICING AGREEMENT, dated December 1, 2002, Mortgage Pass- Through
+Certificate, Series SASCO 2002-26, between WMMSC and U.S. Bank National
+Association.
+
+
+POOLING AND SERVICING AGREEMENT, dated May 1, 2003, Mortgage Pass- Through
+Certificate, Series CSFB 2003-AR28, between WMMSC and U.S. Bank National
+Association.
+
+POOLING AND SERVICING AGREEMENT, dated February 1, 1996, Mortgage Pass- Through
+Certificate, Series 1996-1, between WMMSC f/k/a PNC and Bank United Financial
+Corp.
+
+POOLING AND SERVICING AGREEMENT, dated December 1, 1985, Mortgage Pass- Through
+Certificate, Series 1985-PR3, between WMMSC f/k/a PNC f/k/a Sears Mortgage
+Securities and Bankers Trust Company of California.
+
+POOLING AND SERVICING AGREEMENT, dated February 1, 1986, Mortgage Pass- Through
+Certificate, Series 1986-PR1, between WMMSC f/k/a PNC f/k/a Sears Mortgage
+Securities and Bankers Trust Company of California.
+
+POOLING AND SERVICING AGREEMENT, dated October 1, 2001, Mortgage Pass- Through
+Certificate, Series WAMU 2001-AR2, between WMMSC and Bankers Trust Company of
+California.
+
+POOLING AND SERVICING AGREEMENT, dated October 1, 2001, Mortgage Pass- Through
+Certificate, Series Thornburg 2001-1, between WMMSC and Bankers Trust Company of
+California.
+
+POOLING AND SERVICING AGREEMENT, dated November 1, 2001, Mortgage Pass- Through
+Certificate, Series WAMU 2001-AR4, between WMMSC and Bankers Trust Company of
+California.
+
+POOLING AND SERVICING AGREEMENT, dated November 1, 2001, Mortgage Pass- Through
+Certificate, Series WAMU 2001-AR3, between WMMSC and Bankers Trust Company of
+California.
+
+MORTGAGE LOAN PURCHASE AND SERVICING AGREEMENT, dated November 1, 2002,
+Residential Mortga ge Loans, Bay View Call Pool between WMMSC and Bay View
+Financial Trading Group.
+
+Washington Mutual Mortgage Securities Corp.
+Schedule of Agreements (continued)
+Page 7 of 40
+
+
+MORTGAGE LOAN PURCHASE AND SERVICING AGREEMENT, dated December 1, 2002,
+Residential Mortgage Loans, Bay View 2002-WH17 between WMMSC and Bay View
+Financial Trading Group.
+
+SERVICING AGREEMENT, dated March 1, 2003, Residential Mortgage Loans, Bay View
+2003-WH5 between WMMSC and Bay View Financial Trading Group.
+
+POOLING AND SERVICING AGREEMENT, dated December 1, 1997, Mortgage Pass- Through
+Certificate, Series 1997 BWH-2, between WMMSC f/k/a PNC and Chase Manhattan
+Mortgage Corp.
+
+POOLING AND SERVICING AGREEMENT, dated February 1, 1998, Mortgage Pass- Through
+Certificate, Series 1998 BWH-1, between WMMSC f/k/a PNC and Chase Manhattan
+Mortgage Corp.
+
+POOLING AND SERVICING AGREEMENT, dated April 1, 2002, Mortgage Pass- Through
+Certificate, Series Chase 2002-S6, between WMMSC and Chase Home Mortgage.
+
+POOLING AND SERVICING AGREEMENT, dated June 1, 2002, Mortgage Pass- Through
+Certificate, Series CSFB 2002-AR21, between WMMSC and Chase Home Mortgage.
+
+POOLING AND SERVICING AGREEMENT, dated October 1, 2002, Mortgage Pass- Through
+Certificate, Series CSFB 2002-29, between WMMSC and Chase Home Mortgage.
+
+POOLING AND SERVICING AGREEMENT, dated October 1, 2002, Mortgage Pass- Through
+Certificate, Series CSFB 2002-AR28, between WMMSC and Chase Home Mortgage.
+
+PARTICIPATION AGREEMENT, dated July 1, 1995, Residential Mortgage Loans, Series
+1994-PA2, between WMMSC f/k/a PNC and Chase Bank of Texas, NA.
+
+POOLING AND SERVICING AGREEMENT, dated November 1, 1998, Mortgage Pass- Through
+Certificate, Series Chase 1998-S7, between WMMSC f/k/a PNC and Citibank, NA.
+POOLING AND SERVICING AGREEMENT, dated November 1, 2001, Mortgage Pass- Through
+Certificate, Series Chase 2001-S7, between WMMSC and Citibank, NA.
+
+Washington Mutual Mortgage Securities Corp.
+Schedule of Agreements (continued)
+Page 8 of 40
+POOLING AND SERVICING AGREEMENT, dated July 1, 2003, Mortgage Pass- Through
+Certificate, Series WAMU 2003-S7, between WMMSC and Citibank, NA.
+
+POOLING AND SERVICING AGREEMENT, dated September 1, 2003, Mortgage Pass- Through
+Certificate, Series WAMU 2003-S9, between WMMSC and Citibank, NA.
+
+POOLING AND SERVICING AGREEMENT, dated October 1, 2003, Mortgage Pass- Through
+Certificate, Series WAMU 2003-S11, between WMMSC and Citibank, NA.
+
+POOLING AND SERVICING AGREEMENT, dated September 1, 2002, Mortgage Pass-
+Through Certificate, Series SMMSI VII Series 2002-HYB1, between WMMSC and U.S.
+Bank National Association as Trustee and Citibank, N.A., as Trust Administrator
+
+POOLING AND SERVICING AGREEMENT, dated September 1, 1997, Mortgage Pass- Through
+Certificate, Series 1997-MS1, between WMMSC f/k/a PNC and Crestar Mortgage Corp.
+
+POOLING AND SERVICING AGREEMENT, dated July 1, 1982, Mortgage Pass- Through
+Certificate, Series 1982-4, between WMMSC f/k/a PNC f/k/a Sears Mortgage
+Securities Corp. and Deutsche Bank National Trust Co.
+
+POOLING AND SERVICING AGREEMENT, dated February 1, 1984, Mortgage Pass- Through
+Certificate, Series 1984-1, between WMMSC f/k/a PNC f/k/a Sears Mortgage
+Securities Corp. and Deutsche Bank National Trust Co.
+
+POOLING AND SERVICING AGREEMENT, dated February 1, 1984, Mortgage Pass- Through
+Certificate, Series 1984-2, between WMMSC f/k/a PNC f/k/a Sears Mortgage
+Securities Corp. and Deutsche Bank National Trust Co.
+
+POOLING AND SERVICING AGREEMENT, dated June 1, 1984, Mortgage Pass- Through
+Certificate, Series 1984-3, between WMMSC f/k/a PNC f/k/a Sears Mortgage
+Securities Corp. and Deutsche Bank National Trust Co.
+
+POOLING AND SERVICING AGREEMENT, dated July 1, 1984, Mortgage Pass- Through
+Certificate, Series 1984 ARM P-1-1-4, between WMMSC f/k/a PNC f/k/a Sears
+Mortgage Securities Corp. and Deutsche Bank National Trust Co.
+
+POOLING AND SERVICING AGREEMENT, dated October 1, 1984, Mortgage Pass- Through
+Certificate, Series 1984 ARM I-1-1, between WMMSC f/k/a PNC f/k/a Sears Mortgage
+Securities Corp. and Deutsche Bank National Trust Co.
+
+Washington Mutual Mortgage Securities Corp.
+Schedule of Agreements (continued)
+Page 9 of 40
+
+
+POOLING AND SERVICING AGREEMENT, dated December 1, 1984, Mortgage Pass- Through
+Certificate, Series 1984 ARM I-2-1, between WMMSC f/k/a PNC f/k/a Sears Mortgage
+Securities Corp. and Deutsche Bank National Trust Co.
+
+POOLING AND SERVICING AGREEMENT, dated December 1, 1984, Mortgage Pass- Through
+Certificate, Series 1984 ARM S-1-1, between WMMSC f/k/a PNC f/k/a Sears Mortgage
+Securities Corp. and Deutsche Bank National Trust Co.
+
+POOLING AND SERVICING AGREEMENT, dated December 1, 1984, Mortgage Pass- Through
+Certificate, Series 1984 ARM S-2-1, between WMMSC f/k/a PNC f/k/a Sears Mortgage
+Securities Corp. and Deutsche Bank National Trust Co.
+
+POOLING AND SERVICING AGREEMENT, dated December 1, 1984, Mortgage Pass- Through
+Certificate, Series 1984 ARM I-2-2, between WMMSC f/k/a PNC f/k/a Sears Mortgage
+Securities Corp. and Deutsche Bank National Trust Co.
+
+POOLING AND SERVICING AGREEMENT, dated January 1, 1985, Mortgage Pass- Through
+Certificate, Serie s 1985-1 ARM, between WMMSC f/k/a PNC f/k/a Sears Mortgage
+Securities Corp. and Deutsche Bank National Trust Co.
+
+POOLING AND SERVICING AGREEMENT, dated January 1, 1985, Mortgage Pass- Through
+Certificate, Series 1985-2 ARM, between WMMSC f/k/a PNC f/k/a Sears Mortgage
+Securities Corp. and Deutsche Bank National Trust Co.
+
+POOLING AND SERVICING AGREEMENT, dated January 1, 1985, Mortgage Pass- Through
+Certificate, Series 1985-4 ARM, between WMMSC f/k/a PNC f/k/a Sears Mortgage
+Securities Corp. and Deutsche Bank National Trust Co.
+
+POOLING AND SERVICING AGREEMENT, dated February 1, 1985, Mortgage Pass- Through
+Certificate, Series 1985 ARM I-1-2, between WMMSC f/k/a PNC f/k/a Sears Mortgage
+Securities Corp. and Deutsche Bank National Trust Co.
+
+POOLING AND SERVICING AGREEMENT, dated February 1, 1985, Mortgage Pass- Through
+Certificate, Series 1985-5 ARM, between WMMSC f/k/a PNC f/k/a Sears Mortgage
+Securities Corp. and Deutsche Bank National Trust Co.
+
+POOLING AND SERVICING AGREEMENT, dated March 1, 1985, Mortgage Pass- Through
+Certificate, Series 1985-7 ARM, between WMMSC f/k/a PNC f/k/a Sears Mortgage
+Securities Corp. and Deutsche Bank National Trust Co.
+
+POOLING AND SERVICING AGREEMENT, dated June 1, 1985, Mortgage Pass- Through
+Certificate, Series 1985-11 ARM, between WMMSC f/k/a PNC f/k/a Sears
+
+Mortgage Securities Corp. and Deutsche Bank National Trust Co.
+Washington Mutual Mortgage Securities Corp.
+Schedule of Agreements (continued)
+Page 10 of 40
+
+
+POOLING AND SERVICING AGREEMENT, dated June 1, 1985, Mortgage Pass- Through
+Certificate, Series 1985-13 ARM, between WMMSC f/k/a PNC f/k/a Sears Mortgage
+Securities Corp. and Deutsche Bank National Trust Co.
+
+POOLING AND SERVICING AGREEMENT, dated July 1, 1985, Mortgage Pass- Through
+Certificate, Series 1985-16 ARM, between WMMSC f/k/a PNC f/k/a Sears Mortgage
+Securities Corp. and Deutsche Bank National Trust Co.
+
+POOLING AND SERVICING AGREEMENT, dated July 1, 1985, Mortgage Pass- Through
+Certificate, Series 1985-15 ARM, between WMMSC f/k/a PNC f/k/a Sears Mortgage
+Securities Corp. and Deutsche Bank National Trust Co.
+
+POOLING AND SERVICING AGREEMENT, dated August 1, 1985, Mortgage Pass- Through
+Certificate, Series 1985-17 ARM, between WMMSC f/k/a PNC f/k/a Sears Mortgage
+Securities Corp. and Deutsche Bank National Trust Co.
+
+POOLING AND SERVICING AGREEMENT, dated October 1, 1985, Mortgage Pass- Through
+Certificate, Series 1985-20 ARM, between WMMSC f/k/a PNC f/k/a Sears Mortgage
+Securities Corp. and Deutsche Bank National Trust Co.
+
+POOLING AND SERVICING AGREEMENT, dated December 1, 1985, Mortgage Pass- Through
+Certificate, Series 1985-22 ARM, between WMMSC f/k/a PNC f/k/a Sears Mortgage
+Securities Corp. and Deutsche Bank National Trust Co.
+
+POOLING AND SERVICING AGREEMENT, dated December 1, 1985, Mortgage Pass- Through
+Certificate, Series 1985-23 ARM, between WMMSC f/k/a PNC f/k/a Sears Mortgage
+Securities Corp. and Deutsche Bank National Trust Co.
+
+POOLING AND SERVICING AGREEMENT, dated January 1, 1986, Mortgage Pass- Through
+Certificate, Series 1986-1 ARM, between WMMSC f/k/a PNC f/k/a Sears Mortgage
+Securities Corp. and Deutsche Bank National Trust Co.
+
+POOLING AND SERVICING AGREEMENT, dated March 1, 1986, Mortgage Pass- Through
+Certificate, Series 1986-2 ARM, between WMMSC f/k/a PNC f/k/a Sears Mortgage
+Securities Corp. and Deutsche Bank National Trust Co.
+
+POOLING AND SERVICING AGREEMENT, dated May 1, 1986, Mortgage Pass- Through
+Certificate, Series 1986-3 ARM, between WMMSC f/k/a PNC f/k/a Sears Mortgage
+Securities Corp. and Deutsche Bank National Trust Co.
+
+Washington Mutual Mortgage Securities Corp.
+Schedule of Agreements (continued)
+Page 11 of 40
+
+
+POOLING AND SERVICING AGREEMENT, dated January 1, 1987, Mortgage Pass- Through
+Certificate, Series 1987-1 ARM, between WMMSC f/k/a PNC f/k/a Sears Mortgage
+Securities Corp. and Deutsche Bank National Trust Co.
+
+POOLING AND SERVICING AGREEMENT, dated January 1, 1987, Mortgage Pass- Through
+Certificate, Series 1987-2 ARM, between WMMSC f/k/a PNC f/k/a Sears Mortgage
+Securities Corp. and Deutsche Bank National Trust Co.
+
+POOLING AND SERVICING AGREEMENT, dated May 1, 1987, Mortgage Pass- Through
+Certificate, Series 1987-B, between WMMSC f/k/a PNC f/k/a Sears Mortgage
+Securities Corp. and Deutsche Bank National Trust Co.
+
+POOLING AND SERVICING AGREEMENT, dated June 1, 1987, Mortgage Pass- Through
+Certificate, Series 1987-PR10, between WMMSC f/k/a PNC f/k/a Sears Mortgage
+Securities Corp. and Deutsche Bank National Trust Co.
+
+POOLING AND SERVICING AGREEMENT, dated June 1, 1987, Mortgage Pass- Through
+Certificate, Series 1987-PR11, between WMMSC f/k/a PNC f/k/a Sears Mortgage
+Securities Corp. and Deutsche Bank National Trust Co.
+
+POOLING AND SERVICING AGREEMENT, dated June 1, 1987, Mortgage Pass- Through
+Certificate, Series 1987-PR13, between WMMSC f/k/a PNC f/k/a Sears Mortgage
+Securities Corp. and Deutsche Bank National Trust Co.
+
+POOLING AND SERVICING AGREEMENT, dated September 1, 1987, Mortgage Pass- Through
+Certificate, Series 1987-C, between WMMSC f/k/a PNC f/k/a Sears Mortgage
+Securities Corp. and Deutsche Bank National Trust Co.
+
+POOLING AND SERVICING AGREEMENT, dated May 1, 1988, Mortgage Pass- Through
+Certificate, Series 1988-A, between WMMSC f/k/a PNC f/k/a Sears Mortgage
+Securities Corp. and Deutsche Bank National Trust Co.
+
+POOLING AND SERVICING AGREEMENT, dated February 1, 1992, Mortgage Pass- Through
+Certificate, Series 1992-2, between WMMSC f/k/a PNC f/k/a Sears Mortgage
+Securities Corp. and Deutsche Bank National Trust Co.
+
+POOLING AND SERVICING AGREEMENT, dated September 1, 1998, Mortgage Pass- Through
+Certificate, Series 1998-3 Impac, between WMMSC f/k/a PNC and Deutsche Bank
+National Trust Co.
+
+Washington Mutual Mortgage Securities Corp.
+Schedule of Agreements (continued)
+Page 12 of 40
+
+
+POOLING AND SERVICING AGREEMENT, dated November 1, 1998, Mortgage Pass- Through
+Certificate, Series Thornburg, between WMMSC f/k/a PNC and Deutsche Bank
+National Trust Co.
+
+POOLING AND SERVICING AGREEMENT, dated May 1, 1999, Mortgage Pass- Through
+Certificate, Series 1999-7, between WMMSC f/k/a PNC and Deutsche Bank National
+Trust Co.
+
+POOLING AND SERVICING AGREEMENT, dated December 1, 2001, Mortgage Pass- Through
+Certificate, Series WAMMS 2001-AR1, between WMMSC and Deutsche Bank National
+Trust Co.
+
+POOLING AND SERVICING AGREEMENT, dated December 1, 2001, Mortgage Pass- Through
+Certificate, Series WAMMS 2001-AR6, between WMMSC and Deutsche Bank National
+Trust Co.
+
+POOLING AND SERVICING AGREEMENT, dated December 1, 2001, Mortgage Pass- Through
+Certificate, Series Thornburg 2001-2, between WMMSC and Deutsche Bank National
+Trust Co.
+
+POOLING AND SERVICING AGREEMENT, dated January 1, 2002, Mortgage Pass- Through
+Certificate, Series WAMU 2002-AR1, between WMMSC and Deutsche Bank National
+Trust Co.
+
+POOLING AND SERVICING AGREEMENT, dated February 1, 2002, Mortgage Pass- Through
+Certificate, Series WAMU 2002-AR2, between WMMSC and Deutsche Bank National
+Trust Co.
+
+POOLING AND SERVICING AGREEMENT, dated February 1, 2002, Mortgage Pass- Through
+Certificate, Series WAMU 2002-AR3, between WMMSC and Deutsche Bank National
+Trust Co.
+
+POOLING AND SERVICING AGREEMENT, dated March 1, 2002, Mortgage Pass- Through
+Certificate, Series 2002-AR4, between WMMSC and Deutsche Bank National Trust Co.
+
+POOLING AND SERVICING AGREEMENT, dated April 1, 2002, Mortgage Pass- Through
+Certificate, Series WAMU 2002-AR5, between WMMSC and Deutsche Bank National
+Trust Co.
+
+
+Washington Mutual Mortgage Securities Corp.
+Schedule of Agreements (continued)
+Page 13 of 40
+
+
+POOLING AND SERVICING AGREEMENT, dated May 1, 2002, Mortgage Pass- Through
+Certificate, Series 2002-AR6, between WMMSC and Deutsche Bank National Trust Co.
+
+POOLING AND SERVICING AGREEMENT, dated June 1, 2002, Mortgage Pass- Through
+Certificate, Series WAMU 2002-AR7, between WMMSC and Deutsche Bank National
+Trust Co.
+
+POOLING AND SERVICING AGREEMENT, dated July 1, 2002, Mortgage Pass- Through
+Certificate, Series WAMU 2002-AR8, between WMMSC and Deutsche Bank National
+Trust Co.
+
+POOLING AND SERVICING AGREEMENT, dated July 1, 2002, Mortgage Pass- Through
+Certificate, Series WAMU 2002-AR9, between WMMSC and Deutsche Bank National
+Trust Co.
+
+POOLING AND SERVICING AGREEMENT, dated August 1, 2002, Mortgage Pass- Through
+Certificate, Series WAMU 2002-AR10, between WMMSC and Deutsche Bank National
+Trust Co.
+
+POOLING AND SERVICING AGREEMENT, dated August 1, 2002, Mortgage Pass- Through
+Certificate, Series WAMU 2002-AR11, between WMMSC and Deutsche Bank National
+Trust Co.
+
+POOLING AND SERVICING AGREEMENT, dated September 1, 2002, Mortgage Pass- Through
+Certificate, Series WAMU 2002-AR12, between WMMSC and Deutsche Bank National
+Trust Co.
+
+POOLING AND SERVICING AGREEMENT, dated September 1, 2002, Mortgage Pass- Through
+Certificate, Series WAMU 2002-AR13, between WMMSC and Deutsche Bank National
+Trust Co.
+
+POOLING AND SERVICING AGREEMENT, dated September 1, 2002, Mortgage Pass- Through
+Certificate, Series WAMU 2002-AR14, between WMMSC and Deutsche Bank National
+Trust Co.
+POOLING AND SERVICING AGREEMENT, dated October 1, 2002, Mortgage Pass- Through
+Certificate, Series WAMU 2002-AR15, between WMMSC and Deutsche Bank National
+Trust Co.
+
+Washington Mutual Mortgage Securities Corp.
+Schedule of Agreements (continued)
+Page 14 of 40
+
+
+POOLING AND SERVICING AGREEMENT, dated October 1, 2002, Mortgage Pass- Through
+Certificate, Series WAMU 2002-AR16, between WMMSC and Deutsche Bank National
+Trust Co.
+
+POOLING AND SERVICING AGREEMENT, dated October 1, 2002, Mortgage Pass- Through
+Certificate, Series WAMU 2002-AR17, between WMMSC and Deutsche Bank National
+Trust Co.
+
+POOLING AND SERVICING AGREEMENT, dated November 1, 2002, Mortgage Pass- Through
+Certificate, Series WAMU 2002-AR18, between WMMSC and Deutsche Bank National
+Trust Co.
+
+POOLING AND SERVICING AGREEMENT, dated December 1, 2002, Mortgage Pass- Through
+Certificate, Series WAMU 2002-AR19, between WMMSC and Deutsche Bank National
+Trust Co.
+
+POOLING AND SERVICING AGREEMENT, dated January 1, 2003, Mortgage Pass- Through
+Certificate, Series WAMU 2003-AR1, between WMMSC and Deutsche Bank National
+Trust Co.
+
+POOLING AND SERVICING AGREEMENT, dated February 1, 2003, Mortgage Pass- Through
+Certificate, Series WAMU 2003-AR2, between WMMSC and Deutsche Bank National
+Trust Co.
+
+POOLING AND SERVICING AGREEMENT, dated February 1, 2003, Mortgage Pass- Through
+Certificate, Series WAMU 2003-AR3, between WMMSC and Deutsche Bank National
+Trust Co.
+
+POOLING AND SERVICING AGREEMENT, dated March 1, 2003, Mortgage Pass- Through
+Certificate, Series WAMU 2003-AR4, between WMMSC and Deutsche Bank National
+Trust Co.
+
+POOLING AND SERVICING AGREEMENT, dated March 1, 2003, Mortgage Pass- Through
+Certificate, Series Thornburg 2003-2, between WMMSC and Deutsche Bank National
+Trust Co.
+
+POOLING AND SERVICING AGREEMENT, dated April 1, 2003, Mortgage Pass- Through
+Certificate, Series WAMU 2003-AR5, between WMMSC and Deutsche Bank National
+Trust Co.
+
+Washington Mutual Mortgage Securities Corp.
+Schedule of Agreements (continued)
+Page 15 of 40
+
+
+POOLING AND SERVICING AGREEMENT, dated May 1, 2003, Mortgage Pass- Through
+Certificate, Series WAMU 2003-AR6, between WMMSC and Deutsche Bank National
+Trust Co.
+
+POOLING AND SERVICING AGREEMENT, dated June 1, 2003, Mortgage Pass- Through
+Certificate, Series WAMU 2003-AR7, between WMMSC and Deutsche Bank National
+Trust Co.
+
+POOLING AND SERVICING AGREEMENT, dated July 1, 2003, Mortgage Pass- Through
+Certificate, Series WAMU 2003-AR8, between WMMSC and Deutsche Bank National
+Trust Co.
+
+POOLING AND SERVICING AGREEMENT, dated August 1, 2003, Mortgage Pass- Through
+Certificate, Series WAMU 2003-AR9, between WMMSC and Deutsche Bank National
+Trust Co.
+
+POOLING AND SERVICING AGREEMENT, dated September 1, 2003, Mortgage Pass- Through
+Certificate, Series WAMU 2003-AR10, between WMMSC and Deutsche Bank National
+Trust Co.
+
+POOLING AND SERVICING AGREEMENT, dated October 1, 2003, Mortgage Pass- Through
+Certificate, Series WAMU 2003-AR11, between WMMSC and Deutsche Bank National
+Trust Co.
+
+POOLING AND SERVICING AGREEMENT, dated December 1, 2003, Mortgage Pass- Through
+Certificate, Series WAMU 2003-AR12, between WMMSC and Deutsche Bank National
+Trust Co.
+
+PARTICIPATION AGREEMENT, dated April 1, 1985, Residential Mortgage Loans, Series
+1985-PA1, between WMMSC f/k/a PNC f/k/a Sears Mortgage Securities Corp. and
+Deutsche Bank National Trust Co.
+
+PARTICIPATION AGREEMENT, dated February 1, 1986, Residential Mortgage Loans,
+Series 1986-PA1 ARM, between WMMSC f/k/a PNC f/k/a Sears Mortgage Securities
+Corp. and Deutsche Bank National Trust Co.
+
+PARTICIPATION AGREEMENT, dated March 1, 1986, Residential Mortgage Loans, Series
+1986-PA3, between WMMSC f/k/a PNC f/k/a Sears Mortgage Securities Corp. and
+Deutsche Bank National Trust Co.
+
+Washington Mutual Mortgage Securities Corp.
+Schedule of Agreements (continued)
+Page 16 of 40
+
+
+PARTICIPATION AGREEMENT, dated March 1, 1986, Residential Mortgage Loans, Series
+1986-PA4 ARM, between WMMSC f/k/a PNC f/k/a Sears Mortgage Securities Corp. and
+Deutsche Bank National Trust Co.
+
+PARTICIPATION AGREEMENT, dated June 1, 1986, Residential Mortgage Loans, Series
+1986-PA6, between WMMSC f/k/a PNC f/k/a Sears Mortgage Securities Corp. and
+Deutsche Bank National Trust Co.
+
+PARTICIPATION AGREEMENT, dated January 1, 1987, Residential Mortgage Loans,
+Series 1987-PA1, between WMMSC f/k/a PNC f/k/a Sears Mortgage Securities Corp.
+and Deutsche Bank National Trust Co.
+
+PARTICIPATION AGREEMENT, dated February 1, 1987, Residential Mortgage Loans,
+Series 1987-PA2 ARM, between WMMSC f/k/a PNC f/k/a Sears Mortgage Securities
+Corp. and Deutsche Bank National Trust Co.
+
+PARTICIPATION AGREEMENT, dated February 1, 1987, Residential Mortgage Loans,
+Series 1987-PA2 ARM, between WMMSC f/k/a PNC f/k/a Sears Mortgage Securities
+Corp. and Deutsche Bank National Trust Co.
+
+PARTICIPATION AGREEMENT, dated July 1, 1987, Residential Mortgage Loans, Series
+1987-PA7, between WMMSC f/k/a PNC f/k/a Sears Mortgage Securities Corp. and
+Deutsche Bank National Trust Co.
+
+PARTICIPATION AGREEMENT, dated October 1, 1987, Residential Mortgage Loans,
+Series 1987-PA9 ARM, between WMMSC f/k/a PNC f/k/a Sears Mortgage Securities
+Corp. and Deutsche Bank National Trust Co.
+
+PARTICIPATION AGREEMENT, dated November 1, 1987, Residential Mortgage Loans,
+Series 1987-PA12 ARM, between WMMSC f/k/a PNC f/k/a Sears Mortgage Securities
+Corp. and Deutsche Bank National Trust Co.
+
+PARTICIPATION AGREEMENT, dated November 1, 1987, Residential Mortgage Loans,
+Series 1987-PA13 ARM, between WMMSC f/k/a PNC f/k/a Sears Mortgage Securities
+Corp. and Deutsche Bank National Trust Co.
+
+PARTICIPATION AGREEMENT, dated December 1, 1987, Residential Mortgage Loans,
+Series 1987-PA14 ARM, between WMMSC f/k/a PNC f/k/a Sears Mortgage Securities
+Corp. and Deutsche Bank National Trust Co.
+
+PARTICIPATION AGREEMENT, dated January 1, 1988, Residential Mortgage Loans,
+Series 1988-PA1 ARM, between WMMSC f/k/a PNC f/k/a Sears Mortgage Securities
+Corp. and Deutsche Bank National Trust Co.
+
+Washington Mutual Mortgage Securities Corp.
+Schedule of Agreements (continued)
+Page 17 of 40
+
+
+PARTICIPATION AGREEMENT, dated February 1, 1988, Residential Mortgage Loans,
+Series 1988-PA2 B ARM, between WMMSC f/k/a PNC f/k/a Sears Mortgage Securities
+Corp. and Deutsche Bank National Trust Co.
+
+PARTICIPATION AGREEMENT, dated March 1, 1988, Residential Mortgage Loans, Series
+1988-PA4 ARM, between WMMSC f/k/a PNC f/k/a Sears Mortgage Securities Corp. and
+Deutsche Bank National Trust Co.
+
+PARTICIPATION AGREEMENT, dated March 1, 1988, Residential Mortgage Loans, Series
+1988-PA7 ARM, between WMMSC f/k/a PNC f/k/a Sears Mortgage Securities Corp. and
+Deutsche Bank National Trust Co.
+
+PARTICIPATION AGREEMENT, dated June 1, 1988, Residential Mortgage Loans, Series
+1988-PA10 ARM, between WMMSC f/k/a PNC f/k/a Sears Mortgage Securities Corp. and
+Deutsche Bank National Trust Co.
+
+PARTICIPATION AGREEMENT, dated June 1, 1988, Residential Mortgage Loans, Series
+1988-PA14 ARM, between WMMSC f/k/a PNC f/k/a Sears Mortgage Securities Corp. and
+Deutsche Bank National Trust Co.
+
+PARTICIPATION AGREEMENT, dated July 1, 1988, Residential Mortgage Loans, Series
+1988-PA12 ARM, between WMMSC f/k/a PNC f/k/a Sears Mortgage Securities Corp. and
+Deutsche Bank National Trust Co.
+
+PARTICIPATION AGREEMENT, dated July 1, 1988, Residential Mortgage Loans, Series
+1988-PA13 ARM, between WMMSC f/k/a PNC f/k/a Sears Mortgage Securities Corp. and
+Deutsche Bank National Trust Co.
+
+PARTICIPATION AGREEMENT, dated August 1, 1988, Residential Mortgage Loans,
+Series 1988-PA16 ARM, between WMMSC f/k/a PNC f/k/a Sears Mortgage Securities
+Corp. and Deutsche Bank National Trust Co.
+
+PARTICIPATION AGREEMENT, dated September 1, 1988, Residential Mortgage Loans,
+Series 1988-PA17 ARM, between WMMSC f/k/a PNC f/k/a Sears Mortgage Securities
+Corp. and Deutsche Bank National Trust Co.
+
+PARTICIPATION AGREEMENT, dated March 1, 1989, Residential Mortgage Loans, Series
+1988-PA1 ARM, between WMMSC f/k/a PNC f/k/a Sears Mortgage Securities Corp. and
+Deutsche Bank National Trust Co.
+
+
+Washington Mutual Mortgage Securities Corp.
+Schedule of Agreements (continued)
+Page 18 of 40
+
+
+PARTICIPATION AGREEMENT, dated October 1, 1989, Residential Mortgage Loans,
+Series 1988-PA2, between WMMSC f/k/a PNC f/k/a Sears Mortgage Securities Corp.
+and Deutsche Bank National Trust Co.
+
+PARTICIPATION AGREEMENT, dated September 1, 1993, Residential Mortgage Loans,
+Series 1993-PA1 ARM, between WMMSC f/k/a PNC f/k/a Sears Mortgage Securities
+Corp. and Deutsche Bank National Trust Co.
+
+SERVICING AGREEMENT, dated August 1, 1998, Residential Mortgage Loans, Series
+1998-WH9, between WMMSC f/k/a PNC and Deutsche Bank National Trust Co.
+
+SERVICING AGREEMENT, dated September 1, 1998, Residential Mortgage Loans, Series
+1998-WH11, between WMMSC f/k/a PNC and Deutsche Bank National Trust Co.
+
+SERVICING AGREEMENT, dated July 1, 1999, Residential Mortgage Loans, Series
+1999-WH10, between WMMSC f/k/a PNC and Deutsche Bank National Trust Co.
+
+SERVICING AGREEMENT, dated October 1, 1999, Residential Mortgage Loans, Series
+1999-WH14, between WMMSC f/k/a PNC and CSFB f/k/a DLJ.
+
+POOLING AND SERVICING AGREEMENT, dated October 1, 1998, Mortgage Pass- Through
+Certificate, Series Telebanc I, between WMMSC f/k/a PNC and E Trade Bank.
+
+POOLING AND SERVICING AGREEMENT, dated October 1, 1998, Mortgage Pass- Through
+Certificate, Series Telebanc II, between WMMSC f/k/a PNC and E Trade Bank.
+
+POOLING AND SERVICING AGREEMENT, dated April 1, 1999, Mortgage Pass- Through
+Certificate, Series Telebanc III, between WMMSC f/k/a PNC and E Trade Bank.
+
+SERVICING AGREEMENT, dated November 1, 1998, Residential Mortgage Loans, Series
+Telebanc 1998-WH14, between WMMSC f/k/a PNC and E Trade Bank.
+
+SERVICING AGREEMENT, dated December 1, 1998, Residential Mortgage Loans, Series
+Telebanc 1998-WH16, between WMMSC f/k/a PNC and E Trade Bank.
+
+SERVICING AGREEMENT, dated March 1, 1999, Residential Mortgage Loans, Series
+Telebanc 1999-WH3, between WMMSC f/k/a PNC and E Trade Bank.
+
+SERVICING AGREEMENT, dated May 1, 1999, Residential Mortgage Loans, Series
+Telebanc 1999-WH3B, between WMMSC f/k/a PNC and E Trade Bank.
+
+Washington Mutual Mortgage Securities Corp.
+Schedule of Agreements (continued)
+Page 19 of 40
+
+
+SERVICING AGREEMENT, dated September 1, 1999, Residential Mortgage Loans, Series
+1999-WH12, between WMMSC f/k/a PNC and First Union National Bank.
+
+POOLING AND SERVICING AGREEMENT, dated May 1, 2001, Mortgage Pass- Through
+Certificate, Series SASCO 2001-8A, between WMMSC and State Street Bank & Trust.
+
+POOLING AND SERVICING AGREEMENT, dated May 1, 2001, Mortgage Pass- Through
+Certificate, Series CSFB 2001-AR14, between WMMSC JP Morgan Chase.
+
+POOLING AND SERVICING AGREEMENT, dated September 1, 2001, Mortgage Pass- Through
+Certificate, Series CSFB 2001-S5, between WMMSC JP Morgan Chase.
+
+POOLING AND SERVICING AGREEMENT, dated November 1, 2001, Mortgage Pass- Through
+Certificate, Series CSFB 2001-28, between WMMSC JP Morgan Chase.
+
+POOLING AND SERVICING AGREEMENT, dated January 1, 2002, Mortgage Pass- Through
+Certificate, Series CSFB 2002-AR2, between WMMSC JP Morgan Chase.
+
+POOLING AND SERVICING AGREEMENT, dated October 1, 2002, Mortgage Pass- Through
+Certificate, Series CSFB 2002-S7, between WMMSC JP Morgan Chase.
+
+POOLING AND SERVICING AGREEMENT, dated May 1, 2003, Mortgage Pass- Through
+Certificate, Series AMAC 2003-6, between WMMSC JP Morgan Chase.
+
+POOLING AND SERVICING AGREEMENT, dated July 1, 2003, Mortgage Pass- Through
+Certificate, Series UBS MARM 2003-2, between WMMSC JP Morgan Chase.
+
+POOLING AND SERVICING AGREEMENT, dated February 1, 2002, Mortgage Pass- Through
+Certificate, Series CSFB 2002-7, between WMMSC and JP Morgan Chase
+
+POOLING AND SERVICING AGREEMENT, dated July 1, 2003, Mortgage Pass- Through
+Certificate, Series UBS Malt 2003-5, between WMMSC and JP Morgan Chase
+
+POOLING AND SERVICING AGREEMENT, dated September 1, 2003, Mortgage Pass- Through
+Certificate, Series UBS Marm 2003-4, between WMMSC and JP Morgan Chase
+
+POOLING AND SERVICING AGREEMENT, dated October 1, 2003, Mortgage Pass- Through
+Certificate, Series UBS Marm 2003-5, between WMMSC and JP Morgan Chase
+
+SERVICING AGREEMENT, dated June 1, 1999, Residential Mortgage Loans, Series
+1999-WH9, between WMMSC f/k/a PNC and Matrix Capital Bank.
+
+Washington Mutual Mortgage Securities Corp.
+Schedule of Agreements (continued)
+Page 20 of 40
+
+
+SERVICING AGREEMENT, dated March 1, 1999, Residential Mortgage Loans, Series
+1999-BWH1, between WMMSC f/k/a PNC and Net Bank.
+
+SERVICING AGREEMENT, dated September 1, 1997, Residential Mortgage Loans, Series
+1997-WH4, between WMMSC f/k/a PNC and New York Life.
+
+SERVICING AGREEMENT, dated April 1, 1998, Residential Mortgage Loans, Series
+1998-WH4, between WMMSC f/k/a PNC and New York Life.
+
+SERVICING AGREEMENT, dated August 1, 1998, Residential Mortgage Loans, Series
+1998-WH8, between WMMSC f/k/a PNC and New York Life.
+
+SERVICING AGREEMENT, dated July 1, 1998, Residential Mortgage Loans, Series DLJ
+1998-WH7, between WMMSC f/k/a PNC and Sovereign Bank.
+
+SERVICING AGREEMENT, dated September 1, 1998, Residential Mortgage Loans, Series
+1998-WH12, between WMMSC f/k/a PNC and Sovereign Bank.
+
+SERVICING AGREEMENT, dated October 1, 1998, Residential Mortgage Loans, Series
+Soverign, between WMMSC f/k/a PNC and Sovereign Bank.
+
+SERVICING AGREEMENT, dated February 1, 1999, Residential Mortgage Loans, Series
+1999-WH1, between WMMSC f/k/a PNC and Sovereign Bank.
+
+SERVICING AGREEMENT, dated April 1, 1999, Residential Mortgage Loans, Series
+1999-WH4, between WMMSC f/k/a PNC and Sovereign Bank.
+
+SERVICING AGREEMENT, dated April 1, 1999, Residential Mortgage Loans, Series
+1999-WH4A, between WMMSC f/k/a PNC and Sovereign Bank.
+
+SERVICING AGREEMENT, dated May 1, 1999, Residential Mortgage Loans, Series
+1999-WH4B, between WMMSC f/k/a PNC and Sovereign Bank.
+
+SERVICING AGREEMENT, dated June 1, 1999, Residential Mortgage Loans, Series
+1999-WH4C, between WMMSC f/k/a PNC and Sovereign Bank . SERVICING AGREEMENT,
+dated July 1, 1999, Residential Mortgage Loans, Series 1999-WH4D, between WMMSC
+f/k/a PNC and Sovereign Bank.
+
+SERVICING AGREEMENT, dated July 1, 1999, Residential Mortgage Loans, Series
+1999-WH4E, between WMMSC f/k/a PNC and Sovereign Bank.
+
+Washington Mutual Mortgage Securities Corp.
+Schedule of Agreements (continued)
+Page 21 of 40
+
+
+SERVICING AGREEMENT, dated July 1, 1999, Residential Mortgage Loans, Series
+1999-WH4F, between WMMSC f/k/a PNC and Sovereign Bank.
+
+SERVICING AGREEMENT, dated July 1, 1999, Residential Mortgage Loans, Series
+1999-WH4H, between WMMSC f/k/a PNC and Sovereign Bank.
+
+SERVICING AGREEMENT, dated August 1, 1999, Residential Mortgage Loans, Series
+1999-WH4J, between WMMSC f/k/a PNC and Sovereign Bank.
+
+SERVICING AGREEMENT, dated September 1, 1999, Residential Mortgage Loans, Series
+1999-WH4L, between WMMSC f/k/a PNC and Sovereign Bank.
+
+SERVICING AGREEMENT, dated October 1, 1999, Residential Mortgage Loans, Series
+1999-WH4K, between WMMSC f/k/a PNC and Sovereign Bank.
+
+SERVICING AGREEMENT, dated October 1, 1999, Residential Mortgage Loans, Series
+1999-WH4J, between WMMSC f/k/a PNC and Sovereign Bank.
+
+SERVICING AGREEMENT, dated January 1, 2000, Residential Mortgage Loans, Series
+2000-WH1, between WMMSC f/k/a PNC and Sovereign Bank.
+
+SERVICING AGREEMENT, dated January 1, 2000, Residential Mortgage Loans, Series
+2000-WH2, between WMMSC f/k/a PNC and Sovereign Bank.
+
+PARTICIPATION AGREEMENT, dated July 1, 1997, Residential Mortgage Loans, Series
+1997-PA2, between WMMSC f/k/a PNC and State Street Bank & Trust.
+
+POOLING AND SERVICING AGREEMENT, dated August 1, 1998, Mortgage Pass- Through
+Certificate, Series 1998-7, between WMMSC JP f/k/a PNC and State Street Bank &
+Trust.
+
+POOLING AND SERVICING AGREEMENT, dated September 1, 1998, Mortgage Pass- Through
+Certificate, Series 1998-8, between WMMSC f/k/a PNC and State Street Bank &
+Trust.
+
+POOLING AND SERVICING AGREEMENT, dated September 1, 1998, Mortgage Pass- Through
+Certificate, Series 1998-9, between WMMSC f/k/a PNC and State Street Bank &
+Trust.
+
+POOLING AND SERVICING AGREEMENT, dated October 1, 1998, Mortgage Pass- Through
+Certificate, Series 1998-10, between WMMSC f/k/a PNC and State Street Bank &
+Trust.
+
+Washington Mutual Mortgage Securities Corp.
+Schedule of Agreements (continued)
+Page 22 of 40
+
+
+POOLING AND SERVICING AGREEMENT, dated October 1, 1998, Mortgage Pass- Through
+Certificate, Series 1998-11, between WMMSC f/k/a PNC and State Street Bank &
+Trust.
+
+POOLING AND SERVICING AGREEMENT, dated October 1, 1998, Mortgage Pass- Through
+Certificate, Series HMSI 1998-1, between WMMSC f/k/a PNC and State Street Bank &
+Trust.
+
+POOLING AND SERVICING AGREEMENT, dated November 1, 1998, Mortgage Pass- Through
+Certificate, Series HMSI 1998-12, between WMMSC f/k/a PNC and State Street Bank
+& Trust.
+
+POOLING AND SERVICING AGREEMENT, dated December 1, 1998, Mortgage Pass- Through
+Certificate, Series HMSI 1998-14, between WMMSC f/k/a PNC and State Street Bank
+& Trust.
+
+POOLING AND SERVICING AGREEMENT, dated January 1, 1999, Mortgage Pass- Through
+Certificate, Series 1999-1, between WMMSC f/k/a PNC and State Street Bank &
+Trust.
+
+POOLING AND SERVICING AGREEMENT, dated February 1, 1999, Mortgage Pass- Through
+Certificate, Series 1999-2, between WMMSC f/k/a PNC and State Street Bank &
+Trust.
+
+POOLING AND SERVICING AGREEMENT, dated March 1, 1999, Mortgage Pass- Through
+Certificate, Series 1999-3, between WMMSC f/k/a PNC and State Street Bank &
+Trust.
+
+POOLING AND SERVICING AGREEMENT, dated April 1, 1999, Mortgage Pass- Through
+Certificate, Series 1999-4, between WMMSC f/k/a PNC and State Street Bank &
+Trust.
+
+POOLING AND SERVICING AGREEMENT, dated May 1, 1999, Mortgage Pass- Through
+Certificate, Series 1999-5, between WMMSC f/k/a PNC and State Street Bank &
+Trust.
+
+POOLING AND SERVICING AGREEMENT, dated June 1, 1999, Mortgage Pass- Through
+Certificate, Series 1999-6, between WMMSC f/k/a PNC and State Street Bank &
+Trust.
+
+POOLING AND SERVICING AGREEMENT, dated July 1, 1999, Mortgage Pass- Through
+Certificate, Series 1999-8, between WMMSC f/k/a PNC and State Street Bank &
+Trust.
+
+Washington Mutual Mortgage Securities Corp.
+Schedule of Agreements (continued)
+Page 23 of 40
+
+
+POOLING AND SERVICING AGREEMENT, dated July 1, 1999, Mortgage Pass- Through
+Certificate, Series 1999-A, between WMMSC f/k/a PNC and State Street Bank &
+Trust.
+
+POOLING AND SERVICING AGREEMENT, dated August 1, 1999, Mortgage Pass- Through
+Certificate, Series 1999-9, between WMMSC f/k/a PNC and State Street Bank &
+Trust.
+
+POOLING AND SERVICING AGREEMENT, dated September 1, 1999, Mortgage Pass- Through
+Certificate, Series 1999-10, between WMMSC f/k/a PNC and State Street Bank &
+Trust.
+
+POOLING AND SERVICING AGREEMENT, dated September 1, 1999, Mortgage Pass- Through
+Certificate, Series 1999-10, between WMMSC f/k/a PNC and State Street Bank &
+Trust.
+
+POOLING AND SERVICING AGREEMENT, dated October 1, 1999, Mortgage Pass- Through
+Certificate, Series 1999-11, between WMMSC f/k/a PNC and State Street Bank &
+Trust.
+
+POOLING AND SERVICING AGREEMENT, dated December 1, 1999, Mortgage Pass- Through
+Certificate, Series 1999-12, between WMMSC f/k/a PNC and State Street Bank &
+Trust.
+
+POOLING AND SERVICING AGREEMENT, dated December 1, 1999, Mortgage Pass- Through
+Certificate, Series 1999-FSB-1, between WMMSC f/k/a PNC and State Street Bank &
+Trust.
+
+POOLING AND SERVICING AGREEMENT, dated January 31, 2000, Mortgage Pass- Through
+Certificate, Series 2000-1, between WMMSC f/k/a PNC and State Street Bank &
+Trust.
+
+POOLING AND SERVICING AGREEMENT, dated April 1, 2000, Mortgage Pass- Through
+Certificate, Series 2000-3, between WMMSC and State Street Bank & Trust.
+
+POOLING AND SERVICING AGREEMENT, dated May 1, 2000, Mortgage Pass- Through
+Certificate, Series 2000-4, between WMMSC and State Street Bank & Trust.
+
+POOLING AND SERVICING AGREEMENT, dated September 1, 2000, Mortgage Pass- Through
+Certificate, Series 2000-7, between WMMSC and State Street Bank & Trust.
+
+Washington Mutual Mortgage Securities Corp.
+Schedule of Agreements (continued)
+Page 24 of 40
+
+
+POOLING AND SERVICING AGREEMENT, dated November 1, 2000, Mortgage Pass- Through
+Certificate, Series 2000-8, between WMMSC and State Street Bank & Trust.
+
+POOLING AND SERVICING AGREEMENT, dated December 1, 2000, Mortgage Pass- Through
+Certificate, Series 2000-9, between WMMSC and State Street Bank & Trust.
+
+POOLING AND SERVICING AGREEMENT, dated January 1, 2001, Mortgage Pass- Through
+Certificate, Series PNC 2001-1, between WMMSC and State Street Bank & Trust.
+
+POOLING AND SERVICING AGREEMENT, dated January 1, 2001, Mortgage Pass- Through
+Certificate, Series CSFB 2001-2, between WMMSC and State Street Bank & Trust.
+
+POOLING AND SERVICING AGREEMENT, dated January 1, 2001, Mortgage Pass- Through
+Certificate, Series PNC 2001-MS1, between WMMSC and State Street Bank & Trust.
+
+POOLING AND SERVICING AGREEMENT, dated March 1, 2001, Mortgage Pass- Through
+Certificate, Series WAMU 2001-2, between WMMSC and State Street Bank & Trust.
+
+POOLING AND SERVICING AGREEMENT, dated April 1, 2001, Mortgage Pass- Through
+Certificate, Series ABNMC 2001-1, between WMMSC and State Street Bank & Trust.
+
+POOLING AND SERVICING AGREEMENT, dated April 1, 2001, Mortgage Pass- Through
+Certificate, Series WAMU 2001-3, between WMMSC and State Street Bank & Trust.
+
+POOLING AND SERVICING AGREEMENT, dated April 1, 2001, Mortgage Pass- Through
+Certificate, Series WAMU 2001-5, between WMMSC and State Street Bank & Trust.
+
+POOLING AND SERVICING AGREEMENT, dated May 1, 2001, Mortgage Pass- Through
+Certificate, Series WAMU 2001-4, between WMMSC and State Street Bank & Trust.
+
+POOLING AND SERVICING AGREEMENT, dated May 1, 2001, Mortgage Pass- Through
+Certificate, Series SASCO 2001-8A, between WMMSC and State Street Bank & Trust.
+
+Washington Mutual Mortgage Securities Corp.
+Schedule of Agreements (continued)
+Page 25 of 40
+
+
+POOLING AND SERVICING AGREEMENT, dated June 1, 2001, Mortgage Pass- Through
+Certificate, Series WAMU 2001-7, between WMMSC and State Street Bank & Trust.
+
+POOLING AND SERVICING AGREEMENT, dated June 1, 2001, Mortgage Pass- Through
+Certificate, Series WAMU 2001-6, between WMMSC and State Street Bank & Trust.
+
+POOLING AND SERVICING AGREEMENT, dated July 1, 2001, Mortgage Pass- Through
+Certificate, Series ABNMC 2001-4, between WMMSC and State Street Bank & Trust
+
+POOLING AND SERVICING AGREEMENT, dated July 1, 2001, Mortgage Pass- Through
+Certificate, Series WAMU 2001-S8, between WMMSC and State Street Bank & Trust
+
+POOLING AND SERVICING AGREEMENT, dated July 1, 2001, Mortgage Pass- Through
+Certificate, Series WAMU 2001-8, between WMMSC and State Street Bank & Trust
+
+POOLING AND SERVICING AGREEMENT, dated July 1, 2001, Mortgage Pass- Through
+Certificate, Series WAMU 2001-9, between WMMSC and State Street Bank & Trust
+
+POOLING AND SERVICING AGREEMENT, dated August 1, 2001, Mortgage Pass- Through
+Certificate, Series WAMU 2001-S9, between WMMSC and State Street Bank & Trust
+
+POOLING AND SERVICING AGREEMENT, dated August 1, 2001, Mortgage Pass- Through
+Certificate, Series WAMU 2001-MS10, between WMMSC and State Street Bank & Trust
+
+POOLING AND SERVICING AGREEMENT, dated August 1, 2001, Mortgage Pass- Through
+Certificate, Series WAMU 2001-AR1, between WMMSC and State Street Bank & Trust
+
+POOLING AND SERVICING AGREEMENT, dated September 1, 2001, Mortgage Pass- Through
+Certificate, Series WAMU 2001-MS11, between WMMSC and State Street Bank & Trust
+
+POOLING AND SERVICING AGREEMENT, dated October 1, 2001, Mortgage Pass- Through
+Certificate, Series WAMU 2001-S10, between WMMSC and State Street Bank & Trust
+
+Washington Mutual Mortgage Securities Corp.
+Schedule of Agreements (continued)
+Page 26 of 40
+
+
+POOLING AND SERVICING AGREEMENT, dated October 1, 2001, Mortgage Pass- Through
+Certificate, Series WAMMS 2001-MS12, between WMMSC and State Street Bank & Trust
+
+POOLING AND SERVICING AGREEMENT, dated November 1, 2001, Mortgage Pass- Through
+Certificate, Series WAMMS 2001-MS14, between WMMSC and State Street Bank & Trust
+
+POOLING AND SERVICING AGREEMENT, dated November 1, 2001, Mortgage Pass- Through
+Certificate, Series WAMU 2001-S11, between WMMSC and State Street Bank & Trust
+
+POOLING AND SERVICING AGREEMENT, dated December 1, 2001, Mortgage Pass- Through
+Certificate, Series WAMMS 2001-MS15, between WMMSC and State Street Bank & Trust
+
+POOLING AND SERVICING AGREEMENT, dated January 1, 2002, Mortgage Pass- Through
+Certificate, Series WAMU 2002-S1, between WMMSC and State Street Bank & Trust
+
+POOLING AND SERVICING AGREEMENT, dated January 1, 2002, Mortgage Pass- Through
+Certificate, Series WAMMS 2002-MS1, between WMMSC and State Street Bank & Trust
+
+POOLING AND SERVICING AGREEMENT, dated February 1, 2002, Mortgage Pass- Through
+Certificate, Series WAMU 2002-S2, between WMMSC and State Street Bank & Trust
+
+POOLING AND SERVICING AGREEMENT, dated March 1, 2002, Mortgage Pass- Through
+Certificate, Series WAMMS 2002-MS2, between WMMSC and State Street Bank & Trust
+
+POOLING AND SERVICING AGREEMENT, dated March 1, 2002, Mortgage Pass- Through
+Certificate, Series WAMMS 2002-AR1, between WMMSC and State Street Bank & Trust
+
+POOLING AND SERVICING AGREEMENT, dated April 1, 2002, Mortgage Pass- Through
+Certificate, Series WAMMS 2002-MS3, between WMMSC and State Street Bank & Trust
+
+Washington Mutual Mortgage Securities Corp.
+Schedule of Agreements (continued)
+Page 27 of 40
+
+
+POOLING AND SERVICING AGREEMENT, dated May 1, 2002, Mortgage Pass- Through
+Certificate, Series CSFB 2002-AR13, between WMMSC and State Street Bank & Trust
+
+POOLING AND SERVICING AGREEMENT, dated May 1, 2002, Mortgage Pass- Through
+Certificate, Series WAMMS 2002-MS4, between WMMSC and State Street Bank & Trust
+
+POOLING AND SERVICING AGREEMENT, dated May 1, 2002, Mortgage Pass- Through
+Certificate, Series WAMMS 2002-S3, between WMMSC and State Street Bank & Trust
+
+SERVICING AGREEMENT, dated June 1, 2002, Residential Mortgage Loans, Series CSFB
+2002-WH9, between WMMSC and State Street Bank.
+
+POOLING AND SERVICING AGREEMENT, dated July 1, 2002, Mortgage Pass- Through
+Certificate, Series WAMMS 2002-MS5, between WMMSC and State Street Bank & Trust
+
+POOLING AND SERVICING AGREEMENT, dated July 1, 2002, Mortgage Pass- Through
+Certificate, Series WAMMS 2002-AR2, between WMMSC and State Street Bank & Trust
+
+POOLING AND SERVICING AGREEMENT, dated July 1, 2002, Mortgage Pass- Through
+Certificate, Series WAMU 2002-S5, between WMMSC and State Street Bank & Trust
+
+POOLING AND SERVICING AGREEMENT, dated August 1, 2002, Mortgage Pass- Through
+Certificate, Series WAMMS 2002-MS6, between WMMSC and State Street Bank & Trust
+
+POOLING AND SERVICING AGREEMENT, dated September 1, 2002, Mortgage Pass- Through
+Certificate, Series WAMU 2002-S6, between WMMSC and State Street Bank & Trust
+
+POOLING AND SERVICING AGREEMENT, dated October 1, 2002, Mortgage Pass- Through
+Certificate, Series WAMMS 2002-MS7, between WMMSC and State Street Bank & Trust
+
+POOLING AND SERVICING AGREEMENT, dated November 1, 2002, Mortgage Pass- Through
+Certificate, Series WAMMS 2002-MS8, between WMMSC and State Street Bank & Trust
+
+Washington Mutual Mortgage Securities Corp.
+Schedule of Agreements (continued)
+Page 28 of 40
+
+
+POOLING AND SERVICING AGREEMENT, dated November 1, 2002, Mortgage Pass- Through
+Certificate, Series WAMMS 2002-MS9, between WMMSC and State Street Bank & Trust
+
+POOLING AND SERVICING AGREEMENT, dated November 1, 2002, Mortgage Pass- Through
+Certificate, Series UBS Master 2002-8, between WMMSC and State Street Bank &
+Trust
+
+POOLING AND SERVICING AGREEMENT, dated November 1, 2002, Mortgage Pass- Through
+Certificate, Series WAMMS 2002-AR3, between WMMSC and State Street Bank & Trust
+
+POOLING AND SERVICING AGREEMENT, dated November 1, 2002, Mortgage Pass- Through
+Certificate, Series UBS Malt 2002-3, between WMMSC and State Street Bank & Trust
+
+POOLING AND SERVICING AGREEMENT, dated November 1, 2002, Mortgage Pass- Through
+Certificate, Series AMAC 2002-9, between WMMSC and State Street Bank & Trust
+
+POOLING AND SERVICING AGREEMENT, dated December 1, 2002, Mortgage Pass- Through
+Certificate, Series WAMMS 2002-MS11, between WMMSC and State Street Bank & Trust
+
+POOLING AND SERVICING AGREEMENT, dated December 1, 2002, Mortgage Pass- Through
+Certificate, Series WAMMS 2002-MS12, between WMMSC and State Street Bank & Trust
+
+POOLING AND SERVICING AGREEMENT, dated December 1, 2002, Mortgage Pass- Through
+Certificate, Series WAMMS 2002-MS10, between WMMSC and State Street Bank & Trust
+
+POOLING AND SERVICING AGREEMENT, dated December 1, 2002, Mortgage Pass- Through
+Certificate, Series WAMU 2002-S8, between WMMSC and State Street Bank & Trust
+
+POOLING AND SERVICING AGREEMENT, dated January 1, 2003, Mortgage Pass- Through
+Certificate, Series PNC/ABN AMRO, between WMMSC and State Street Bank & Trust
+
+POOLING AND SERVICING AGREEMENT, dated January 1, 2000, Mortgage Pass- Through
+Certificate, Series 2000-1, between WMMSC and State Street Bank & Trust
+
+Washington Mutual Mortgage Securities Corp.
+Schedule of Agreements (continued)
+Page 29 of 40
+
+
+POOLING AND SERVICING AGREEMENT, dated August 1, 2002, Mortgage Pass- Through
+Certificate, Series UBS Master 2002-6, between WMMSC and State Street Bank &
+Trust
+
+PARTICIPATION AGREEMENT, dated April 1, 1996, Residential Mortgage Loans, Series
+1996-PA4, between WMMSC f/k/a PNC and State Street Bank & Trust.
+
+PARTICIPATION AGREEMENT, dated June 1, 1996, Residential Mortgage Loans, Series
+1996-PA8, between WMMSC f/k/a PNC and State Street Bank & Trust.
+
+PARTICIPATION AGREEMENT, dated November 1, 1998, Residential Mortgage Loans,
+Series 1996-PA2, between WMMSC f/k/a PNC and State Street Bank & Trust.
+
+SERVICING AGREEMENT, dated July 1, 2000, Residential Mortgage Loans, Series
+2000-WH7, between WMMSC and State Street Bank.
+
+SERVICING AGREEMENT, dated February 1, 2001, Residential Mortgage Loans, Series
+2001-RP1, between WMMSC and State Street Bank.
+
+POOLING AND SERVICING AGREEMENT, dated January 1, 1999, Mortgage Pass- Through
+Certificate, Series 1999-A1 Indy Mac, between WMMSC f/k/a PNC and Bank of New
+York.
+
+POOLING AND SERVICING AGREEMENT, dated January 1, 1999, Mortgage Pass- Through
+Certificate, Series 1999-A2 Indy Mac, between WMMSC f/k/a PNC and Bank of New
+York.
+
+POOLING AND SERVICING AGREEMENT, dated February 1, 1999, Mortgage Pass- Through
+Certificate, Series Indy Mac Rast A3, between WMMSC f/k/a PNC and Bank of New
+York.
+
+POOLING AND SERVICING AGREEMENT, dated May 1, 1999, Mortgage Pass- Through
+Certificate, Series Indy Mac Rast, between WMMSC f/k/a PNC and Bank of New York.
+
+SERVICING AGREEMENT, dated September 1, 2003, Residential Mortgage Loans, Series
+2003-WH18, between WMMSC and Bank of New York.
+
+SERVICING AGREEMENT, dated September 1, 2003, Residential Mortgage Loans, Series
+2003-WH19, between WMMSC and Bank of New York.
+
+SERVICING AGREEMENT, dated January 1, 2003, Residential Mortgage Loans, Series
+2003-WH1, between WMMSC and Treasury Bank.
+
+Washington Mutual Mortgage Securities Corp.
+Schedule of Agreements (continued)
+Page 30 of 40
+
+
+FLOW SERVICING AGREEMENT, dated April 1, 2003, Residential Mortgage Loans,
+Series Flow Agreement, between WMMSC and U.S. Bank Corporate Trust Services.
+
+FLOW SERVICING AGREEMENT, dated April 1, 2003, Residential Mortgage Loans,
+Series 2003-WH12, between WMMSC and U.S. Bank Corporate Trust Services.
+
+POOLING AND SERVICING AGREEMENT, dated February 1, 2003, Mortgage Pass- Through
+Certificate, Series CSFB 2003-7, between WMMSC and U.S. Bank Corporate Trust
+Services.
+
+POOLING AND SERVICING AGREEMENT, dated February 1, 2003, Mortgage Pass- Through
+Certificate, Series WAMMS 2003-MS3, between WMMSC and U.S. Bank Corporate Trust
+Services.
+
+POOLING AND SERVICING AGREEMENT, dated February 1, 2003, Mortgage Pass- Through
+Certificate, Series WAMMS 2003-MS5, between WMMSC and U.S. Bank Corporate Trust
+Services.
+
+POOLING AND SERVICING AGREEMENT, dated February 1, 2003, Mortgage Pass- Through
+Certificate, Series WAMMS 2003-MS4, between WMMSC and U.S. Bank Corporate Trust
+Services.
+
+POOLING AND SERVICING AGREEMENT, dated February 1, 2003, Mortgage Pass- Through
+Certificate, Series WAMMS 2003-MS7, between WMMSC and U.S. Bank Corporate Trust
+Services.
+
+POOLING AND SERVICING AGREEMENT, dated February 1, 2003, Mortgage Pass- Through
+Certificate, Series AMAC 2003-3, between WMMSC and U.S. Bank Corporate Trust
+Services.
+
+POOLING AND SERVICING AGREEMENT, dated February 1, 2003, Mortgage Pass- Through
+Certificate, Series WAMU 2003-S1, between WMMSC and U.S. Bank Corporate Trust
+Services.
+
+POOLING AND SERVICING AGREEMENT, dated March 1, 2003, Mortgage Pass- Through
+Certificate, Series WAMMS 2003-MS6, between WMMSC and U.S. Bank Corporate Trust
+Services.
+
+POOLING AND SERVICING AGREEMENT, dated March 1, 2003, Mortgage Pass- Through
+Certificate, Series WAMU 2003-S2, between WMMSC and U.S. Bank Corporate Trust
+Services.
+
+
+Washington Mutual Mortgage Securities Corp.
+Schedule of Agreements (continued)
+Page 31 of 40
+
+
+POOLING AND SERVICING AGREEMENT, dated March 1, 2003, Mortgage Pass- Through
+Certificate, Series AMAC 2003-4, between WMMSC and U.S. Bank Corporate Trust
+Services.
+
+POOLING AND SERVICING AGREEMENT, dated April 1, 2003, Mortgage Pass- Through
+Certificate, Series WAMU 2003-S3, between WMMSC and U.S. Bank Corporate Trust
+Services.
+
+POOLING AND SERVICING AGREEMENT, dated April 1, 2003, Mortgage Pass- Through
+Certificate, Series WAMMS 2003-MS8, between WMMSC and U.S. Bank Corporate Trust
+Services.
+
+POOLING AND SERVICING AGREEMENT, dated April 1, 2003, Mortgage Pass- Through
+Certificate, Series WAMMS 2003-AR2, between WMMSC and U.S. Bank Corporate Trust
+Services.
+
+POOLING AND SERVICING AGREEMENT, dated April 1, 2003, Mortgage Pass- Through
+Certificate, Series CSFB 2003-10, between WMMSC and U.S. Bank Corporate Trust
+Services.
+
+POOLING AND SERVICING AGREEMENT, dated May 1, 2003, Mortgage Pass- Through
+Certificate, Series WAMU 2003-S4, between WMMSC and U.S. Bank Corporate Trust
+Services.
+
+POOLING AND SERVICING AGREEMENT, dated May 1, 2003, Mortgage Pass- Through
+Certificate, Series WAMU 2003-S5, between WMMSC and U.S. Bank Corporate Trust
+Services.
+
+POOLING AND SERVICING AGREEMENT, dated June 1, 2003, Mortgage Pass- Through
+Certificate, Series WAMMS 2003-AR3, between WMMSC and U.S. Bank Corporate Trust
+Services.
+
+POOLING AND SERVICING AGREEMENT, dated June 1, 2003, Mortgage Pass- Through
+Certificate, Series WAMMS 2003-S6, between WMMSC and U.S. Bank Corporate Trust
+Services.
+
+POOLING AND SERVICING AGREEMENT, dated August 1, 2003, Mortgage Pass-
+Through Certificate, Series WAMMS 2003-AR4, between WMMSC and U.S. Bank
+Corporate Trust Services
+
+POOLING AND SERVICING AGREEMENT, dated August 1, 2003, Mortgage Pass-
+Through Certificate, Series WAMU 2003-S8, between WMMSC and U.S. Bank
+Corporate Trust Services
+
+Washington Mutual Mortgage Securities Corp.
+Schedule of Agreements (continued)
+Page 32 of 40
+
+
+POOLING AND SERVICING AGREEMENT, dated September 1, 2003, Mortgage Pass-
+Through Certificate, Series AMAC 2003-11, between WMMSC and U.S. Bank
+Corporate Trust Services
+
+POOLING AND SERVICING AGREEMENT, dated September 1, 2003, Mortgage Pass-
+Through Certificate, Series WAMU 2003-S10, between WMMSC and U.S. Bank
+Corporate Trust Services
+
+POOLING AND SERVICING AGREEMENT, dated October 1, 2003, Mortgage Pass-
+Through Certificate, Series WAMU 2003-S12, between WMMSC and U.S. Bank
+Corporate Trust Services
+
+POOLING AND SERVICING AGREEMENT, dated October 1, 2003, Mortgage Pass-
+Through Certificate, Series CSFB 2003-AR26, between WMMSC and U.S. Bank
+Corporate Trust Services
+
+POOLING AND SERVICING AGREEMENT, dated November 1, 2003, Mortgage Pass- Through
+Certificate, Series WAMMS 2003-MS9, between WMMSC and U.S. Bank Corporate Trust
+Services.
+
+POOLING AND SERVICING AGREEMENT, dated November 1, 2003, Mortgage Pass- Through
+Certificate, Series WAMU 2003-S13, between WMMSC and U.S. Bank Corporate Trust
+Services.
+
+POOLING AND SERVICING AGREEMENT, dated November 1, 2003, Mortgage Pass- Through
+Certificate, Series ABN/AMAC 2003-12, between WMMSC and U.S. Bank Corporate
+Trust Services.
+
+POOLING AND SERVICING AGREEMENT, dated November 1, 2003, Mortgage Pass- Through
+Certificate, Series CSFB 2003-AR28, between WMMSC and U.S. Bank Corporate Trust
+Services.
+
+POOLING AND SERVICING AGREEMENT, dated November 1, 2003, Mortgage Pass- Through
+Certificate, Series UBS Master 2003-11, between WMMSC and U.S. Bank Corporate
+Trust Services.
+
+POOLING AND SERVICING AGREEMENT, dated December 1, 2003, Mortgage Pass- Through
+Certificate, Series UBS Master 2003-5, between WMMSC and U.S. Bank Corporate
+Trust Services.
+
+Washington Mutual Mortgage Securities Corp.
+Schedule of Agreements (continued)
+Page 33 of 40
+
+
+POOLING AND SERVICING AGREEMENT, dated December 1, 2003, Mortgage Pass- Through
+Certificate, Series CSFB 2003-29, between WMMSC and U.S. Bank Corporate Trust
+Services.
+
+POOLING AND SERVICING AGREEMENT, dated December 1, 2003, Mortgage Pass- Through
+Certificate, Series UBS Master 2003-12, between WMMSC and U.S. Bank Corporate
+Trust Services.
+
+POOLING AND SERVICING AGREEMENT, dated December 1, 2003, Mortgage Pass-
+Through Certificate, Series CSFB 2003-AR30, between WMMSC and U.S. Bank
+Corporate Trust Services
+
+POOLING AND SERVICING AGREEMENT, dated December 1, 2003, Mortgage Pass-
+Through Certificate, Series ABN/AMAC 2003-13, between WMMSC and U.S. Bank
+Corporate Trust Services
+
+SERVICING AGREEMENT, dated February 1, 2003, Residential Mortgage Loans, Series
+CSFB 2003-WH7, between WMMSC and U.S. Bank Corporate Trust Services.
+
+SERVICING AGREEMENT, dated March 1, 2003, Residential Mortgage Loans, Series
+CSFB 2003-WH8, between WMMSC and U.S. Bank Corporate Trust Services.
+
+SERVICING AGREEMENT, dated March 1, 2003, Residential Mortgage Loans, Series
+CSFB 2003-WH11, between WMMSC and U.S. Bank Corporate Trust Services.
+
+SERVICING AGREEMENT, dated April 1, 2003, Residential Mortgage Loans, Series
+CSFB 2003-WH10, between WMMSC and U.S. Bank Corporate Trust Services.
+
+SERVICING AGREEMENT, dated May 1, 2003, Residential Mortgage Loans, Series CSFB
+2003-WH13, between WMMSC and U.S. Bank Corporate Trust Services.
+
+SERVICING AGREEMENT, dated July 1, 2003, Residential Mortgage Loans, Series CSFB
+2003-WH15, between WMMSC and U.S. Bank Corporate Trust Services.
+
+SERVICING AGREEMENT, dated August 1, 2003, Residential Mortgage Loans, Series
+CSFB 2003-WH16, between WMMSC and U.S. Bank Corporate Trust Services.
+
+SERVICING AGREEMENT, dated September 1, 2003, Residential Mortgage Loans, Series
+CSFB 2003-WH17, between WMMSC and U.S. Bank Corporate Trust Services.
+
+PARTICIPATION AGREEMENT, dated November 1, 1993, Residential Mortgage Loans,
+Series 1993-PA2A, between WMMSC f/k/a PNC and U.S. Bank National Association.
+
+Washington Mutual Mortgage Securities Corp.
+Schedule of Agreements (continued)
+Page 34 of 40
+
+
+PARTICIPATION AGREEMENT, dated November 1, 1993, Residential Mortgage Loans,
+Series 1993-PA2B, between WMMSC f/k/a PNC and U.S. Bank National Association.
+
+PARTICIPATION AGREEMENT, dated February 1, 1994, Residential Mortgage Loans,
+Series 1994-PA1, between WMMSC f/k/a PNC and U.S. Bank National Association.
+
+POOLING AND SERVICING AGREEMENT, dated April 1, 1994, Mortgage Pass- Through
+Certificate, Series 1994-2, between WMMSC f/k/a PNC and U.S. Bank National
+Association.
+
+POOLING AND SERVICING AGREEMENT, dated August 1, 1994, Mortgage Pass- Through
+Certificate, Series 1994-4, between WMMSC f/k/a PNC and U.S. Bank National
+Association.
+
+POOLING AND SERVICING AGREEMENT, dated September 1, 1995, Mortgage Pass- Through
+Certificate, Series 1995-PR1, between WMMSC f/k/a PNC and U.S. Bank National
+Association.
+
+PARTICIPATION AGREEMENT, dated October 1, 1995, Residential Mortgage Loans,
+Series 1995-PA2, between WMMSC f/k/a PNC and U.S. Bank National Association.
+
+PARTICIPATION AGREEMENT, dated January 1, 1996, Residential Mortgage Loans,
+Series 1996-PA1, between WMMSC f/k/a PNC and U.S. Bank National Association.
+
+PARTICIPATION AGREEMENT, dated March 1, 1996, Residential Mortgage Loans, Series
+1996-PA6, between WMMSC f/k/a PNC and U.S. Bank National Association.
+
+POOLING AND SERVICING AGREEMENT, dated June 1, 1996, Mortgage Pass- Through
+Certificate, Series 1996-2, between WMMSC f/k/a PNC and U.S. Bank National
+Association.
+
+PARTICIPATION AGREEMENT, dated October 1, 1996, Residential Mortgage Loans,
+Series 1996-PA9, between WMMSC f/k/a PNC and U.S. Bank National Association.
+
+PARTICIPATION AGREEMENT, dated October 1, 1996, Residential Mortgage Loans,
+Series 1996-PA10, between WMMSC f/k/a PNC and U.S. Bank National Association.
+
+SERVICING AGREEMENT, dated June 1, 1997, Residential Mortgage Loans, Series
+1997-WH2, between WMMSC f/k/a PNC and U.S. Bank National Association.
+
+Washington Mutual Mortgage Securities Corp.
+Schedule of Agreements (continued)
+Page 35 of 40
+
+
+POOLING AND SERVICING AGREEMENT, dated June 1, 1997, Mortgage Pass- Through
+Certificate, Series 1997-PR1, between WMMSC f/k/a PNC and U.S. Bank National
+Association.
+
+SERVICING AGREEMENT, dated July 1, 1997, Residential Mortgage Loans, Series
+1997-WH3, between WMMSC f/k/a PNC and U.S. Bank National Association.
+
+SERVICING AGREEMENT, dated July 1, 1997, Residential Mortgage Loans, Series
+1997-BWH1, between WMMSC f/k/a PNC and U.S. Bank National Association.
+
+POOLING AND SERVICING AGREEMENT, dated September 1, 1997, Mortgage Pass- Through
+Certificate, Series 1997-6, between WMMSC f/k/a PNC and U.S. Bank National
+Association.
+
+POOLING AND SERVICING AGREEMENT, dated October 1, 1997, Mortgage Pass- Through
+Certificate, Series CMC 1997-2, between WMMSC f/k/a PNC and U.S. Bank National
+Association.
+
+POOLING AND SERVICING AGREEMENT, dated November 1, 1997, Mortgage Pass- Through
+Certificate, Series CMC 1997-H, between WMMSC f/k/a PNC and U.S. Bank National
+Association.
+
+POOLING AND SERVICING AGREEMENT, dated March 1, 1998, Mortgage Pass- Through
+Certificate, Series 1998-3, between WMMSC f/k/a PNC and U.S. Bank National
+Association.
+
+POOLING AND SERVICING AGREEMENT, dated April 1, 1998, Mortgage Pass- Through
+Certificate, Series 1998-4, between WMMSC f/k/a PNC and U.S. Bank National
+Association.
+
+POOLING AND SERVICING AGREEMENT, dated June 1, 1998, Mortgage Pass- Through
+Certificate, Series 1998-5, between WMMSC f/k/a PNC and U.S. Bank National
+Association.
+
+POOLING AND SERVICING AGREEMENT, dated July 1, 1998, Mortgage Pass- Through
+Certificate, Series 1998-6, between WMMSC f/k/a PNC and U.S. Bank National
+Association.
+
+PARTICIPATION AGREEMENT, dated October 1, 1994, Residential Mortgage Loans,
+Series 1994-PA2, between WMMSC f/k/a PNC and U.S. Bank National Association.
+
+SERVICING AGREEMENT, dated October 1, 1997, Residential Mortgage Loans, Series
+1997-WH7, between WMMSC f/k/a PNC and U.S. Bank National Association.
+
+
+Washington Mutual Mortgage Securities Corp.
+Schedule of Agreements (continued)
+Page 36 of 40
+
+
+SERVICING AGREEMENT, dated February 1, 1998, Residential Mortgage Loans, Series
+1998-WH7, between WMMSC f/k/a PNC and U.S. Bank National Association.
+
+SERVICING AGREEMENT, dated May 1, 1998, Residential Mortgage Loans, Series
+1998-WH6, between WMMSC f/k/a PNC and U.S. Bank National Association.
+
+POOLING AND SERVICING AGREEMENT, dated September 1, 2002, Mortgage Pass- Through
+Certificate, Series SBMSI 2002-HYB1, between WMMSC PNC and U.S. Bank National
+Association.
+
+POOLING AND SERVICING AGREEMENT, dated January 1, 2003, Mortgage Pass-
+Through Certificate, Series WAMMS 2003-MS1, between WMMSC and U.S. Bank
+
+POOLING AND SERVICING AGREEMENT, dated January 1, 2003, Mortgage Pass-
+Through Certificate, Series WAMMS 2003-MS2, between WMMSC and U.S. Bank
+
+POOLING AND SERVICING AGREEMENT, dated January 1, 2003, Mortgage Pass-
+Through Certificate, Series WAMMS 2003-AR1, between WMMSC and U.S. Bank
+
+POOLING AND SERVICING AGREEMENT, dated April 1, 2003, Mortgage Pass- Through
+Certificate, Series Bay View 2003-C, between WMMSC and Wachovia Bank, National
+Association.
+
+POOLING AND SERVICING AGREEMENT, dated July 1, 2003, Mortgage Pass- Through
+Certificate, Series Bay View 2003-D, between WMMSC and Wachovia Bank, National
+Association.
+
+POOLING AND SERVICING AGREEMENT, dated August 1, 2003, Mortgage Pass- Through
+Certificate, Series UBS Malt 2003-6, between WMMSC and Wachovia Bank, National
+Association.
+
+POOLING AND SERVICING AGREEMENT, dated August 1, 2003, Mortgage Pass- Through
+Certificate, Series UBS Master 2003-8, between WMMSC and Wachovia Bank, National
+Association.
+
+POOLING AND SERVICING AGREEMENT, dated September 1, 2003, Mortgage Pass- Through
+Certificate, Series UBS Master 2003-9, between WMMSC and Wachovia Bank, National
+Association.
+
+POOLING AND SERVICING AGREEMENT, dated October 1, 2003, Mortgage Pass- Through
+Certificate, Series UBS Master 2003-10, between WMMSC and Wachovia Bank,
+National Association.
+
+Washington Mutual Mortgage Securities Corp.
+Schedule of Agreements (continued)
+Page 37 of 40
+
+
+POOLING AND SERVICING AGREEMENT, dated March 1, 2000, Mortgage Pass- Through
+Certificate, Series DLJ ABS 2000-3, between WMMSC and Wells Fargo Bank
+Minnesota, NA
+
+POOLING AND SERVICING AGREEMENT, dated July 1, 2001, Mortgage Pass- Through
+Certificate, Series MLMI 2001-1 WM1, between WMMSC and Wells Fargo Bank
+Minnesota, NA
+
+POOLING AND SERVICING AGREEMENT, dated March 1, 2003, Mortgage Pass- Through
+Certificate, Series UBS Master 2003-3, between WMMSC and Wells Fargo Bank
+Minnesota, NA
+
+POOLING AND SERVICING AGREEMENT, dated April 1, 2003, Mortgage Pass- Through
+Certificate, Series UBS Master 2003-4, between WMMSC and Wells Fargo Bank
+Minnesota, NA
+
+POOLING AND SERVICING AGREEMENT, dated April 1, 2003, Mortgage Pass- Through
+Certificate, Series UBS Malt 2003-3, between WMMSC and Wells Fargo Bank
+Minnesota, NA
+
+POOLING AND SERVICING AGREEMENT, dated May 1, 2003, Mortgage Pass- Through
+Certificate, Series UBS Master 2003-5, between WMMSC and Wells Fargo Bank
+Minnesota, NA
+
+POOLING AND SERVICING AGREEMENT, dated June 1, 2003, Mortgage Pass- Through
+Certificate, Series UBS Master 2003-6, between WMMSC and Wells Fargo Bank
+Minnesota, NA
+
+POOLING AND SERVICING AGREEMENT, dated May 1, 2003, Mortgage Pass- Through
+Certificate, Series UBS Malt 2003-4, between WMMSC and Wells Fargo
+
+POOLING AND SERVICING AGREEMENT, dated July 1, 2003, Mortgage Pass- Through
+Certificate, Series UBS Master 2003-7, between WMMSC and Wells Fargo
+
+POOLING AND SERVICING AGREEMENT, dated September 1, 2003, Mortgage Pass- Through
+Certificate, Series BAFC 2003-3, between WMMSC and Wells Fargo
+
+POOLING AND SERVICING AGREEMENT, dated July 1, 2003, Mortgage Pass- Through
+Certificate, Series BAY2003-C, between WMMSC and Wells Fargo
+
+POOLING AND SERVICING AGREEMENT, dated July 1, 2003, Mortgage Pass- Through
+Certificate, Series Bayview 2003-D, between WMMSC and Wells Fargo
+
+Washington Mutual Mortgage Securities Corp.
+Schedule of Agreements (continued)
+Page 38 of 40
+
+
+POOLING AND SERVICING AGREEMENT, dated July 1, 2003, Mortgage Pass- Through
+Certificate, Series CSFB 2003-19, between WMMSC and Wells Fargo
+
+POOLING AND SERVICING AGREEMENT, dated August 1, 2003, Mortgage Pass- Through
+Certificate, Series CSFB 2003-21, between WMMSC and Wells Fargo
+
+POOLING AND SERVICING AGREEMENT, dated September 1, 2003, Mortgage Pass- Through
+Certificate, Series CSFB 2003-23, between WMMSC and Wells Fargo
+
+POOLING AND SERVICING AGREEMENT, dated October 1, 2003, Mortgage Pass- Through
+Certificate, Series CSFB 2003-25, between WMMSC and Wells Fargo
+
+POOLING AND SERVICING AGREEMENT, dated November 1, 2003, Mortgage Pass- Through
+Certificate, Series CSFB 2003-27, between WMMSC and Wells Fargo
+
+POOLING AND SERVICING AGREEMENT, dated December 1, 2003, Mortgage Pass- Through
+Certificate, Series CSFB 2003-29, between WMMSC and Wells Fargo
+
+POOLING AND SERVICING AGREEMENT, dated December 1, 2003, Mortgage Pass- Through
+Certificate, Series CSFB 2003-A30, between WMMSC and Wells Fargo
+
+POOLING AND SERVICING AGREEMENT, dated May 1, 2003, Mortgage Pass- Through
+Certificate, Series MALT 2003-4, between WMMSC and Wells Fargo
+
+POOLING AND SERVICING AGREEMENT, dated July 1, 2003, Mortgage Pass- Through
+Certificate, Series MALT 2003-5, between WMMSC and Wells Fargo
+
+POOLING AND SERVICING AGREEMENT, dated August 1, 2003, Mortgage Pass- Through
+Certificate, Series MALT 2003-6, between WMMSC and Wells Fargo
+
+POOLING AND SERVICING AGREEMENT, dated July 1, 2003, Mortgage Pass- Through
+Certificate, Series MARM 2003-2, between WMMSC and Wells Fargo
+
+POOLING AND SERVICING AGREEMENT, dated September 1, 2003, Mortgage Pass- Through
+Certificate, Series MARM 2003-4, between WMMSC and Wells Fargo
+
+POOLING AND SERVICING AGREEMENT, dated November 1, 2003, Mortgage Pass- Through
+Certificate, Series MARM 2003-5, between WMMSC and Wells Fargo
+
+POOLING AND SERVICING AGREEMENT, dated August 1, 2002, Mortgage Pass- Through
+Certificate, Series MAST 2002-5, between WMMSC and Wells Fargo
+
+Washington Mutual Mortgage Securities Corp.
+Schedule of Agreements (continued)
+Page 39 of 40
+
+
+POOLING AND SERVICING AGREEMENT, dated November 1, 2003, Mortgage Pass- Through
+Certificate, Series MAST 2002-8, between WMMSC and Wells Fargo
+
+POOLING AND SERVICING AGREEMENT, dated March 1, 2003, Mortgage Pass- Through
+Certificate, Series MAST 2003-3, between WMMSC and Wells Fargo
+
+POOLING AND SERVICING AGREEMENT, dated April 1, 2003, Mortgage Pass- Through
+Certificate, Series MAST 2003-4, between WMMSC and Wells Fargo
+
+POOLING AND SERVICING AGREEMENT, dated April 1, 2003, Mortgage Pass- Through
+Certificate, Series MAST 2003-5, between WMMSC and Wells Fargo
+
+POOLING AND SERVICING AGREEMENT, dated June 1, 2003, Mortgage Pass- Through
+Certificate, Series MAST 2003-6, between WMMSC and Wells Fargo
+
+POOLING AND SERVICING AGREEMENT, dated July 1, 2003, Mortgage Pass- Through
+Certificate, Series MAST 2003-7 between WMMSC and Wells Fargo
+
+POOLING AND SERVICING AGREEMENT, dated August 1, 2003, Mortgage Pass- Through
+Certificate, Series MAST 2003-8, between WMMSC and Wells Fargo
+
+POOLING AND SERVICING AGREEMENT, dated September 1, 2003, Mortgage Pass- Through
+Certificate, Series MAST 2003-9, between WMMSC and Wells Fargo
+
+POOLING AND SERVICING AGREEMENT, dated October 1, 2003, Mortgage Pass- Through
+Certificate, Series MAST 2003-10, between WMMSC and Wells Fargo
+
+POOLING AND SERVICING AGREEMENT, dated November 1, 2003, Mortgage Pass- Through
+Certificate, Series MAST 2003-11, between WMMSC and Wells Fargo
+
+POOLING AND SERVICING AGREEMENT, dated December 1, 2003, Mortgage Pass- Through
+Certificate, Series MAST 2003-12, between WMMSC and Wells Fargo
+
+SERVICING AGREEMENT, dated December 1, 2000, Residential Mortgage Loans,
+between Washington Mutual Mortgage Securities Corp. f/k/a PNC Mortgage
+Securitiesb Corp. and Federal Home Loan Bank Indianapolis (FHLBI).
+
+SERVICING AGREEMENT, dated February 1, 2001, Residential Mortgage Loans,
+between Washington Mutual Mortgage Securities Corp. and Federal Home Loan Bank
+of Seattle (FHLBS).
+
+Washington Mutual Mortgage Securities Corp.
+Schedule of Agreements (continued)
+Page 40 of 40
+
+
+SERVICING AGREEMENT, dated December 1, 2000, Residential Mortgage Loans,
+between Washington Mutual Mortgage Securities Corp. f/k/a PNC Mortgage
+Securities Corp. and Federal Home Loan Bank Cincinnati (FHLBC).
+
+MASTER SERVICING AGREEMENT, dated as of July 23, 2003, Residential Mortgage
+Loans, between Washington Mutual Mortgage Securities Corp. and Federal Home Loan
+Bank of Seattle (FHLBS).
+
+SERVICING AGREEMENT, dated April 1, 2001, Residential Mortgage Loans, between
+Washington Mutual Mortgage Securities Corp. and Washington Mutual Bank, FA.
+
+
+
+  Ex-99.2 (g)
+
+(Logo) WELLS FARGO HOME MORTGAGE
+
+Management Assertion
+
+As of and for the year ended December 31, 2003, Wells Fargo Home Mortgage, Inc,
+has complied in all material respects with the minimum servicing standards set
+forth in the Mortgage Bankers of America's Uniform Single Attestation Program
+for Mortgage Bankers. As of and for this same period, Wel1s Fargo Home Mortgage,
+
+Inc. had in effect a fidelity bond along with an errors and omissions policy in
+the amounts of $lOO million and $20 million, respectively.
+
+/s/ Pete Wissinger
+February 25, 2004
+Pete Wissinger
+Chief Executive Officer
+
+/s/ Michael J. Heid
+February 25, 2004
+Michael J. Heid
+Executive Vice President
+
+/s/ Michael Lepore
+February 25, 2004
+Michael Lepore
+Executive Vice President
+Loan Servicing
+
+/s/ Robert Caruso
+February 25, 2004
+Robert Caruso
+Executive Vice President
+Servicing Operations
+
+
+
+
+  Ex-99.3 (a)
+
+FAIRBANKS CAPITAL CORP.
+
+Agreement: See Schedule of Agreements
+
+Dated: See Attached Schedule
+
+ANNUAL STATEMENT AS TO COMPLIANCE
+
+In accordance with the applicable section in each of the Pooling and Servicing
+Agreements specified:
+
+i.  a review of the activities of the Servicer during the year ended December
+    31, 2003 and of performance under this Agreement has been made under such
+    officers' supervision; and
+
+ii. to the best of such officers' knowledge, based on such review, the Servicer
+    has fulfilled all of its obligations under this Agreement throughout such
+    year.
+
+February 7, 2004
+
+/S/ Matt Hollingsworth
+Matt Hollingsworth
+Chief Operating Officer
+Fairbanks Capital Corp.
+
+3815 S0UTHWEST TEMPLE. SALT LAKE CITY, UTAH 84115-4412 P.O.Box 65250 . SALT LAKE
+CITY, UTAH 84165-0250 TELEPHONE (801) 293-1883 . FACSIMILE (801) 293-1297
+
+
+Schedule of Agreement
+
+Credit Suisse First Boston Mortgage Securities Corp., Depositor, DLJ Mortgage
+Capital Inc., Seller, Wells Fargo Bank Minnesota, N.A., Master Servicer and
+Trust Administrator, Washington Mutual Mortgage Securities Corp., Seller and
+Servicer, Greenpoint Mortgage Funding Inc., Seller and Servicer, Fairbanks
+Capital Corp., Servicer and Special Servicer, and Bank One, National
+Association, Trustee-Pooling and Servicing Agreement - CSFB Mortgage-Backed
+Pass-through Certificates, Series 2003-21
+08/01/2003
+
+Credit Suisse First Boston Mortgage Securities Corp., Depositor, DLJ Mortgage
+Capital Inc., Seller, Washington Mutual Bank, Seller, Wells Fargo Bank Minnesota
+N.A., Master Servicer and Trust Administrator, Washington Mutual Mortgage
+Securities Corp., Seller and Servicer, Greenpoint Mortgage Funding, Inc., Seller
+and Servicer, Washington Mutual Bank, FA, Seller and Servicer, Fairbanks Capital
+Corp., Servicer and Special Servicer, and Bank One, National Association,
+Trustee - Pooling and Servicing Agreement - CSFB Mortgage-Backed Pass-through
+Certificates, Series 2003-27 11/01/2003
+
+Credit Suisse First Boston Mortgage Securities Corp., Depositor, DU Mortgage
+Capital Inc., Seller, Wells Fargo Bank Minnesota N.A., Master Servicer and Trust
+Administrator, Washington Mutual Mortgage Securities Corp., Seller and Servicer,
+Greenpoint Mortgage Funding, Inc., Seller and Servicer, Fairbanks Capital Corp.,
+Servicer and Special Servicer, and U.S. Bank, National Association, Trustee -
+Pooling and Servicing Agreement - CSFB Mortgage-Backed Pass-through
+Certificates, Series 2003-AR30
+12/01/2003
+
+Credit Suisse First Boston Mortgage Securities Corp., Depositor, DU Mortgage
+Capital Inc., Seller, Wells Fargo Bank Minnesota N.A., Master Servicer and Trust
+Administrator, Washington Mutual Mortgage Securities Corp., Seller and Servicer,
+Greenpoint Mortgage Funding Inc., Seller and Servicer, Fairbanks Capital Corp.,
+Servicer and Special Servicer, and JPMorgan Chase Bank, Trustee - Pooling and
+Servicing Agreement - CSFB Mortgage-Backed Pass-through Certificates, Series
+2003-29
+12/01/2003
+
+
+
+
+
+Page 1 of 1
+
+
+
+  Ex-99.3 (b)
+
+PO Box 84013
+Columbus, GA 31908-4013
+Tel. 8OO.784.5566
+
+(logo)GreenPoint Mortgage
+
+To: Wells Fargo
+
+Re : Annual Statement as to Compliance by Servicer
+
+Pursuant to the applicable Section of the Mortgage Loan Flow Purchase, Sale, and
+Servicing Agreement between Greenpoint Mortgage Funding, Inc. as Servicer (the
+"Servicer") and Wells Fargo as Master Servicer, (the "Agreement"), the
+undersigned officer of the Servicer, hereby certifies as to the following:
+
+(i) a review of the activities of the Servicer during the calendar year ended
+December 31, 2003 (the "Applicable Period") and of the Servicer's performance
+under the Agreement has been made under the direct supervision of the
+undersigned officer; and
+
+(ii) to the best knowledge of the undersigned officer, based on such review, the
+Servicer has fulfilled all of its obligations under the Agreement throughout the
+Applicable Period, and there has been no known default in the fulfillment of the
+Servicer's obligations throughout such Applicable Period.
+
+Very Truly Yours
+GREENPOINT MORTGAGE
+FUNDING, INC.
+As Servicer
+
+/s/ Roy Briggs
+Roy Briggs
+Title: Vice President
+
+Aviso Imponante Las Personas Habls Expanol
+Si usted no entiendo el contenido de esta carta por favor obrenga una
+traduccion immediamente
+
+2300 Brookstone Centre Pkwy Columbus GA 31904
+Customer Service Hours: Monday-Friday, 8:30 AM -8:00 PM, Eastern
+www.greenpointservice.com
+
+Attachment A
+
+GREENPOINT CREDIT, LLC CSFB 2003-21
+
+GREENPOINT MTG FUNDING,INC BSA 2003-AC6
+
+GREENPOINT MTG FUNDING,INC BSA 2003-AC7
+
+GREENPOINT MTG FUNDING,INC CSFB 2003-19
+
+GREENPOINT MTG FUNDING,INC CSF82003-23
+
+GREENPOINT MTG FUNDING,INC CSF8 2003-25
+
+GREENPOINT MTG FUNDING,INC CSFB 2003-27
+
+GREENPOINT MTG FUNDING,INC CSF82003-29
+
+GREENPOINT MTG FUNDING,INC CSFB 2003-A30
+
+GREENPOINT MTG FUNDING,INC DAL 2003-3
+
+GREENPOINT MTG FUNDING,INC DAL 2003-2XS
+
+GREENPOINT MTG FUNDING,INC Dal 2003-4XS
+
+GREENPOINT MTG FUNDING,INC MALT 2003.2
+
+GREENPOINT MTG FUNDING,INC MALT 2003-3
+
+GREENPOINT MTG FUNDING,INC MAlT 2003-4
+
+GREENPOINT MTG FUNDING,INC MALT 2003-5
+
+GREENPOINT MTG FUNDING,INC MALT 2003-6
+
+GREENPOINT MTG FUNDING,INC MALT 2003-7
+
+GREENPOINT MTG FUNDING,INC MALT 2003-8
+
+GREENPOINT MTG FUNDING,INC MALT 2003-9
+
+GREENPOINT MTG FUNDING,INC MARM 2003-2
+
+GREENPOINT MTG FUNDING,INC MARM 2003-3
+
+GREENPOINT MTG FUNDING,INC MARM 2003-4
+
+GREENPOINT MTG FUNDING,INC MARM 2003-5
+
+GREENPOINT MTG FUNDING,INC MARM 2003-6
+
+GREENPOINT MTG FUNDING,INC MARM 2003-7
+
+GREENPOINT MTG FUNDING,INC MASTR 2003-7
+
+GREENPOINT MTG FUNDING,INC MASTR 2003-8
+
+GREENPOINT MTG FUNDING,INC MASTR 2003-11
+
+GREENPOINT MTG FUNDING,INC MASTR 2003-12
+
+GREENPOINT MTG FUNDING,INC SAMI 2003-CL 1
+
+
+
+
+
+  Ex-99.3 (c)
+
+Annual Statement as to Compliance
+
+We have reviewed the activities and performance of HSBC Mortgage Corporation
+(USA) under the Servicing Agreement for the year ended December 31,2003. To the
+best of my knowledge, based upon such review, the HSBC Mortgage Corporation
+(USA) has fulfilled its duties, responsibilities and obligations under the
+Servicing Agreement.
+
+
+
+
+/s/ Gary P. Zimmermann
+Gary P. Zimmermann
+Senior Vice President
+Mortgage Servicing
+
+
+
+  Ex-99.3 (d)
+
+(logo)nexstar
+www.nexstarhome.com
+
+
+March 25, 2004
+
+Wells Fargo Bank Minnesota, N.A.
+9062 Old Annapolis Road
+Columbia, MD 21045
+Attention: Servicer Oversight Group
+
+Re: Officer's Certificate
+
+Dear Master Servicer:
+
+The undersigned Officer certifies tho following for the 2003 fiscal year:
+
+(i) A revicw of the activities of the Servicer during the preceding fiscal year
+and of the Servicer's performance of the Servicer under the terms of the
+applicable Se1vicing Agreement(s) by and between Servicer and the
+Purchasers of the Loans from Servicer included in the deals listed on
+Exhibit A to this certificate, with respect TO such Loans has been made
+under the supervision of the officer who signed such Officer's Certificate;
+
+(ii) To the best of such officer's knowledge, based on such review, the
+Servicer has fulfilled all its obligations under the Servicing Agreement
+throughout such year, or if there has been a default in the fulfillment of
+any such obligation, such Officer's Certificate shall specify each such
+default action the Servicer proposes to take with respect thereto.
+
+Certified By:
+/s/Thomas L. Wind
+Thomas L. Wind
+Officer
+
+CFO
+Title
+
+3/25/04
+Date
+
+Nexstar Financial corporation
+622 Emerson Road
+St. Louis, Missouri 63141
+
+ph 314.213.1700
+fax 314.213.1900
+
+Exhibit A
+
+BS ARM TRUST 2003-1
+CSFB 2003-25
+CSFB 2003-27
+MAST ALT TRST 2003-4
+MAST ALT TRST 2003-5
+MAST ALT TRST 2003-6
+MAST ALT TRST 2003-9
+MASTR ARM TRST 2003-2
+MASTR ARM TRST 2003-3
+MASTR ARM TRST 2003-S
+MASTR ARM TRST 2003-6
+MASTR ARM TRST 2003-7
+MASTR SEC TR 2003-5
+MASTR SEC TR 2003-6
+MASTR SEC TR 2003-7
+MASTR SEC TR 2003-8
+MASTR SEC TR 2003-9
+MASTR SEC TR 2003-11
+MASTR SEC TR 2003-12
+
+
+
+
+  Ex-99.3 (e)
+
+
+
+
+OFFICER'S CERTIFICATE
+ANNUAL STATEMENT OF COMPLIANCE
+
+Reference is hereby made to CSFB Mortgage-Backed Pass-Through Certificates,
+Series 2003-27 (the "Securitization"). Washington Mutual BaI1k, FA (the
+"Servicer") services mortgage loans in connection with the Securitization (the
+"Mortgage Loans") pursuant to the tenant of the Servicing Agreement dated as of
+August 1,2002 (the "Servicing Agreement") between Washington Mutual Bank, FA, as
+servicer (the "Servicer"), and DLJ Mortgage Capital, Inc., as owner, (the
+"Owner").
+
+I, Pattie Stevens, an authorized officer of the Servicer, certify for the
+benefit of the Ower, with respect to the calendar year immediately preceding the
+dare ot- this Officer's Certificate (the "Relevant Year"), as follow
+
+1. A review of the activities of the Servicer during the Relevant Year and of
+   performance W1der the Servicing Agreements has been made under my
+   supervision, and
+
+
+2. To the best of my knowledge, based on such review, the Servicer has
+   fulfilled all of its obligations under the Servicing Agreements throughout
+   the Relevant Year.
+
+
+DATED as of March 15, 2004.
+
+/s/ Pattie Stevens
+Name: Pattie Stevens
+Title: Senior Vice President
+
+
+
+  Ex-99.3 (f)
+
+
+Exhibit "A"
+
+Wells Fargo Bank Minnesota, N.A.
+9062 Old Annapolis Road
+Columbia, MD 21045
+
+Attention: Servicer Oversight Group
+
+RE: Officer's Certificate
+
+Dear Master Servicer:
+
+The undersigned Officer certifies the following for the 2003 fiscal year:
+
+(i)  A review of the activities of The Servicer during the preceding fiscal year
+     and of the Servicer's performance, of the Servicer under the tenets of The
+     Servicing Agreement with respect to such Loans has been made under the
+     supervision of the officer who signed such Officer's Certificate:
+
+(ii) To the best of such officer's know1edge, based on such review, the
+     Servicer has fulfilled all its obligations under this Agreement throughout
+     such year, or if there has been a default in the fulfillment of any such
+     obligation, such Officer's Certificate shall specify each such default
+     known to such signer and the nature and status thereof and what action the
+     Servicer proposes to take with respect thereto.
+
+Certified By:
+/s/ Tammy Spriggs
+First Vice President
+March 26, 2004
+
+
+
+
+  Ex-99.3 (g)
+
+Wells Fargo Home Mortgage (logo)
+
+One Home Campus
+Des Moines, IA 50328-0001
+515-213-5469
+515-213-7121 Fax
+
+
+January 30, 2004
+
+Re: 2003 Annual Certification
+
+We hereby certify to the best of our knowledge and belief that for the calendar
+year of 2003:
+
+1. All real estate taxes, bonds assessments and other lienable items have been
+paid.
+
+2. All FHA mortgage insurance, private mortgage insurance premiums, and flood
+insurance have been paid (if applicable).
+
+3. Hazard insurance policies held by us meet the requirements as specified in
+the servicing agreement, or those of a normal prudent lender if not specified,
+and those premiums due have been paid.
+
+4. We have made all property inspections as required.
+
+5. Fidelity bond and Errors and Omissions insurance coverage currently exists.
+
+6. That the Officer signing this certificate has reviewed the activities and
+performance of the Servicer during the preceding fiscal year under the terms of
+the Servicing Agreement, Trust Agreement, Pooling and Servicing Agreement and/or
+Seller/Servicer Guide or similar agreements and to the best of this officer's
+knowledge, the Servicer has fulfilled all of its duties, responsibilities or
+obligations of such agreement throughout the year, or if there has been a
+default or failure of the servicer to perform any of such duties, responsibility
+or obligations, a description of each default or failure and the nature and
+status thereof has been reported.
+
+Sincerely,
+
+/s/ John B. Brown
+John B. Brown
+Vice President
+Wells Fargo Home Mortgage Inc.
+
+
+
+
+
+
+</TEXT>
+</DOCUMENT>

@@ -1,0 +1,556 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>c93415e10vk.htm
+<DESCRIPTION>FORM 10-K
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>e10vk</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+<DIV style="width: 100%; border-bottom: 2pt solid black; font-size: 1pt">&nbsp;</DIV>
+<DIV style="width: 100%; border-bottom: 1pt solid black; font-size: 1pt">&nbsp;</DIV>
+
+
+
+
+<P align="center" style="font-size: 14pt"><B>UNITED STATES<BR>
+SECURITIES AND EXCHANGE COMMISSION</B>
+
+<DIV align="center" style="font-size: 12pt"><B>Washington, D.C. 20549</B>
+</DIV>
+
+<P align="center" style="font-size: 18pt"><B>FORM 10-K</B>
+
+
+<P align="left" style="font-size: 10pt">(Mark One)
+
+
+<DIV align="center">
+<TABLE cellspacing="0" border="0" cellpadding="0" width="90%" style="font-size: 12pt">
+<TR>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="95%">&nbsp;</TD>
+</TR>
+<TR valign="top">
+    <TD><FONT face="Wingdings">&#254;</FONT></TD>
+    <TD>&nbsp;</TD>
+    <TD><B>ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE<BR> SECURITIES EXCHANGE ACT OF 1934</B></TD>
+</TR>
+</TABLE>
+</DIV>
+
+
+
+<P align="center" style="font-size: 10pt"><B>For the fiscal year ended December&nbsp;31, 2004</B>
+
+
+
+<P align="center" style="font-size: 10pt"><B>OR</B>
+
+
+<DIV align="center">
+<TABLE cellspacing="0" border="0" cellpadding="0" width="90%" style="font-size: 12pt">
+<TR>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="95%">&nbsp;</TD>
+</TR>
+<TR valign="top">
+    <TD><FONT face="Wingdings">&#111;</FONT></TD>
+    <TD>&nbsp;</TD>
+    <TD><B>TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE<br>SECURITIES EXCHANGE ACT OF 1934</B></TD>
+</TR>
+</TABLE>
+</DIV>
+
+
+<P align="center" style="font-size: 10pt"><B>For the transition period from&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</B>
+
+
+
+
+<P align="center" style="font-size: 10pt"><B>Commission file number 333-110499-48</B>
+
+
+<P align="center" style="font-size: 24pt"><B>Principal Life Income Fundings Trust 2004-41</B>
+
+
+<DIV align="center" style="font-size: 14pt"><B>(by Principal Life Insurance Company as depositor)</B></DIV>
+
+
+<DIV align="center" style="font-size: 10pt">(Exact name of registrant as specified in its charter)</DIV>
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="47%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="47%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="center" valign="top"><B>Iowa</B><BR>
+(State or other jurisdiction of<BR>
+incorporation or organization)
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">&nbsp;<B>42-0127290</B><BR>
+(I.R.S. Employer Identification No.)</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<P align="center" style="font-size: 10pt"><B>Principal Life Income Fundings Trust 2004-41<BR>
+c/o Principal Life Insurance Company, as depositor<BR>
+711 High Street<BR>
+Des Moines, Iowa 50392-0001<BR>
+(515)&nbsp;247-5111</B><BR>
+(Address of principal executive offices)
+
+
+
+<P align="center" style="font-size: 10pt">Registrant&#146;s telephone number, including area code: <B>(515)&nbsp;247-5111</B>
+
+
+
+<P align="center" style="font-size: 10pt">Securities registered pursuant to Section&nbsp;12(b) of the Act: None
+
+
+
+<P align="center" style="font-size: 10pt">Securities registered pursuant to Section&nbsp;12(g) of the Act: None
+
+
+<P align="left" style="font-size: 10pt">Indicate by check mark whether the registrant (1)&nbsp;has filed all reports required to be filed by
+Section&nbsp;13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12&nbsp;months (or for
+such shorter period that the registrant was required to file such reports), and (2)&nbsp;has been
+subject to such filing requirements for the past 90&nbsp;days. Yes <FONT style="font-family: Wingdings">&#254;</FONT> No <FONT style="font-family: Wingdings">&#111;</FONT>
+
+
+<P align="left" style="font-size: 10pt">Indicate by check mark if disclosure of delinquent filers pursuant to Item&nbsp;405 of Regulation&nbsp;S-K is
+not contained herein, and will not be contained, to the best of registrant&#146;s knowledge, in
+definitive proxy or information statements incorporated by reference in Part&nbsp;III of this Form 10-K
+or any amendment to this Form 10-K. <FONT style="font-family: Wingdings">&#254;</FONT>
+
+
+<P align="left" style="font-size: 10pt">Indicate by check mark whether the registrant is an accelerated filer (as defined in Rule&nbsp;12b-2 of
+the Act). Yes <FONT style="font-family: Wingdings">&#111;</FONT> No <FONT style="font-family: Wingdings">&#254;</FONT>
+
+
+<P align="left" style="font-size: 10pt">State the aggregate market value of the voting and non-voting common equity held by non-affiliates
+computed by reference to the price at which the common equity was last sold, or the average bid and
+asked price of such common equity, as of the last business day of the registrant&#146;s most recently
+completed second fiscal quarter. None.
+
+
+
+<P align="center" style="font-size: 10pt">(APPLICABLE ONLY TO CORPORATE REGISTRANTS)
+
+
+<P align="left" style="font-size: 10pt">Indicate the number of shares outstanding of each of the registrant&#146;s classes of common stock, as
+of the latest practicable date. Not applicable.
+
+
+
+<P align="center" style="font-size: 10pt">DOCUMENTS INCORPORATED BY REFERENCE
+
+
+
+<P align="left" style="font-size: 10pt">None.
+
+
+<DIV style="width: 100%; border-bottom: 1pt solid black; margin-top: 10pt; font-size: 1pt">&nbsp;</DIV>
+<DIV style="width: 100%; border-bottom: 2pt solid black; font-size: 1pt">&nbsp;</DIV>
+
+
+
+
+
+
+
+<P align="center" style="font-size: 10pt">&nbsp;</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<!-- TOC -->
+<A name="toc"><DIV align="CENTER" style="page-break-before:always"><U><B>TABLE OF CONTENTS</B></U></DIV></A>
+
+<P><CENTER>
+<TABLE border="0" width="90%" cellpadding="0" cellspacing="0">
+<TR>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="76%"></TD>
+</TR>
+<TR><TD colspan="9"><A HREF="#000">PART I</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#001">Item&nbsp;3. Legal Proceedings.</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#002">Item&nbsp;4. Submission of Matters to a Vote of Security Holders.</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#003">PART II</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#004">Item&nbsp;5. Market for Registrant&#146;s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities.</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#005">PART III</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#006">Item&nbsp;12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters.</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#007">Item&nbsp;13. Certain Relationships and Related Transactions.</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#008">PART IV</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#009">Item&nbsp;15. Exhibits, Financial Statement Schedules, and Reports on Form&nbsp;8-K.</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#010">SIGNATURES</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#011">EXHIBIT INDEX</A></TD></TR>
+<TR><TD colspan="9"><A HREF="c93415exv31w1.htm">Section 302 Certification</A></TD></TR>
+<TR><TD colspan="9"><A HREF="c93415exv99w2.htm">Annual Statement of Compliance by Citibank, N.A.</A></TD></TR>
+<TR><TD colspan="9"><A HREF="c93415exv99w3.htm">Report of Independent Registered Public Accounting Firm</A></TD></TR>
+</TABLE>
+</CENTER>
+<!-- /TOC -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<!-- link1 "PART I" -->
+<DIV align="left"><A NAME="000"></A></DIV>
+
+<P align="center" style="font-size: 10pt"><B>PART I</B>
+
+
+<!-- link2 "Item&nbsp;3. Legal Proceedings." -->
+<DIV align="left"><A NAME="001"></A></DIV>
+
+<P align="left" style="font-size: 10pt"><B>Item&nbsp;3. Legal Proceedings.</B>
+
+
+
+<P align="left" style="font-size: 10pt">None.
+
+<!-- link2 "Item&nbsp;4. Submission of Matters to a Vote of Security Holders." -->
+<DIV align="left"><A NAME="002"></A></DIV>
+
+<P align="left" style="font-size: 10pt"><B>Item&nbsp;4. Submission of Matters to a Vote of Security Holders.</B>
+
+
+
+<P align="left" style="font-size: 10pt">None.
+
+<!-- link1 "PART II" -->
+<DIV align="left"><A NAME="003"></A></DIV>
+
+<P align="center" style="font-size: 10pt"><B>PART II</B>
+
+
+<!-- link2 "Item&nbsp;5. Market for Registrant&#146;s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities." -->
+<DIV align="left"><A NAME="004"></A></DIV>
+
+<P align="left" style="font-size: 10pt"><B>Item&nbsp;5. Market for Registrant&#146;s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities.</B>
+
+
+<P align="left" style="font-size: 10pt">There is currently no established public trading market for Registrant&#146;s 5.50%
+Principal<SUP style="font-size: 85%; vertical-align: text-top">&#174;</SUP> Life CoreNotes<SUP style="font-size: 85%; vertical-align: text-top">&#174;</SUP> due 2019. As of December&nbsp;31, 2004, there were
+less than 300 registered holders of the Notes.
+
+
+
+
+<P>
+<HR size="1" width="18%" align="left" noshade color="#000000">
+
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top">
+    <TD width="96%">&#147;Principal<SUP style="font-size: 85%; vertical-align: text-top"><FONT style="font-family: Symbol">&#226;</FONT></SUP>&#148; is a registered service mark of Principal Financial Services, Inc.
+and is used under license.</TD>
+</TR>
+
+
+<TR valign="top">    <TD width="96%">&#147;CoreNotes<SUP style="font-size: 85%; vertical-align: text-top"><FONT style="font-family: Symbol">&#226;</FONT></SUP>&#148; is a registered service mark of Merrill Lynch &#038; Co., Inc.</TD>
+</TR>
+
+</TABLE>
+
+
+
+
+
+<P align="center" style="font-size: 10pt">2</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<!-- link1 "PART III" -->
+<DIV align="left"><A NAME="005"></A></DIV>
+
+<P align="center" style="font-size: 10pt"><B>PART III</B>
+
+
+<!-- link2 "Item&nbsp;12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters." -->
+<DIV align="left"><A NAME="006"></A></DIV>
+
+<P align="left" style="font-size: 10pt"><B>Item&nbsp;12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters.</B>
+
+
+
+<P align="left" style="font-size: 10pt">Not applicable.
+
+<!-- link2 "Item&nbsp;13. Certain Relationships and Related Transactions." -->
+<DIV align="left"><A NAME="007"></A></DIV>
+
+<P align="left" style="font-size: 10pt"><B>Item&nbsp;13. Certain Relationships and Related Transactions.</B>
+
+
+
+<P align="left" style="font-size: 10pt">None.
+
+<!-- link1 "PART IV" -->
+<DIV align="left"><A NAME="008"></A></DIV>
+
+<P align="center" style="font-size: 10pt"><B>PART IV</B>
+
+
+<!-- link2 "Item&nbsp;15. Exhibits, Financial Statement Schedules, and Reports on Form&nbsp;8-K." -->
+<DIV align="left"><A NAME="009"></A></DIV>
+
+<P align="left" style="font-size: 10pt"><B>Item&nbsp;15. Exhibits, Financial Statement Schedules, and Reports on Form&nbsp;8-K.</B>
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="10%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="71%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Exhibit&nbsp;31.1
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Section&nbsp;302 Certification.</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Exhibit&nbsp;99.1
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Principal Life Income Fundings Trust 2004-41 made no payment of
+interest or principal on its 5.50% Principal<SUP style="font-size: 85%; vertical-align: text-top">&#174;</SUP> Life
+CoreNotes<SUP style="font-size: 85%; vertical-align: text-top">&#174;</SUP> due 2019 during the fiscal year ended December
+31, 2004. As such, no Indenture Trustee Reports were prepared or are
+included in this Annual Report on Form&nbsp;10-K.</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Exhibit&nbsp;99.2
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Annual Statement of Compliance by Citibank, N.A.</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Exhibit&nbsp;99.3
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Report of Independent Registered Public Accounting Firm on Compliance.</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+<P align="left" style="font-size: 10pt">The Trust&#146;s assets consist of a Funding Agreement issued by Principal Life Insurance Company
+(&#147;Principal Life&#148;) and a Guarantee issued by Principal Financial Group, Inc. (&#147;PFG&#148;) which fully
+and unconditionally guarantees the payment obligations of Principal Life under the Funding
+Agreement. PFG is subject to the informational requirements of the Securities Act of 1934, and in
+accordance with those requirements files periodic and current reports and other information
+(including financial information) with the Securities and Exchange Commission (&#147;SEC&#148;). You can
+read and copy any reports or other information PFG files at the SEC public reference room at 450
+Fifth Street, N.W., Washington, D.C. 20549. You can also request copies of PFG&#146;s documents upon
+payment of a duplicating fee, by writing the SEC&#146;s public reference room. You can obtain
+information regarding the public reference room by calling the SEC at 1-800-SEC-0330. PFG&#146;s
+filings are available to the public from commercial document retrieval services or over the
+internet at http://www/sec/gov.
+
+
+
+<P align="center" style="font-size: 10pt">3</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<!-- link1 "SIGNATURES" -->
+<DIV align="left"><A NAME="010"></A></DIV>
+
+<P align="center" style="font-size: 10pt"><B>SIGNATURES</B>
+
+
+<P align="left" style="font-size: 10pt">Pursuant to the requirements of Section&nbsp;13 or 15(d) of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto
+duly authorized.
+
+
+
+<TABLE width="100%" border="0" cellspacing="0" cellpadding="0" style="font-size: 10pt">
+<TR>
+    <TD width="48%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="35%">&nbsp;</TD>
+    <TD width="15%">&nbsp;</TD>
+</TR>
+<TR>
+    <TD valign="top" align="left">&nbsp;</TD>
+    <TD colspan="3" align="left">PRINCIPAL LIFE INSURANCE COMPANY<BR>
+(Registrant)<BR><br><br>
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR>
+    <TD align="left">Date: March 29, 2005&nbsp;</TD>
+    <TD valign="top">By:&nbsp;&nbsp;</TD>
+    <TD colspan="2" style="border-bottom: 1px solid #000000" align="left"><FONT style="font-variant: SMALL-CAPS">  /s/ Karen A. Pearston  </FONT>
+</TD>
+
+    <TD>&nbsp;</TD>
+</TR>
+<TR>
+    <TD align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top">Name:&nbsp;&nbsp;</TD>
+    <TD align="left">Karen A. Pearston&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top">Title:&nbsp;&nbsp;</TD>
+    <TD align="left">Second Vice President and Counsel&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+</TABLE>
+
+
+<P align="center" style="font-size: 10pt">4</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<!-- link1 "EXHIBIT INDEX" -->
+<DIV align="left"><A NAME="011"></A></DIV>
+
+<P align="center" style="font-size: 10pt"><B>EXHIBIT INDEX</B>
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="10%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="71%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="left"><B>Exhibit</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="left"><B><u>Number</u></B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center"><B><u>Description</u></B></TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Exhibit&nbsp;31.1
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Section&nbsp;302 Certification.</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Exhibit&nbsp;99.1
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Principal Life Income Fundings Trust 2004-41 made no payment of
+interest or principal on its 5.50% Principal<SUP style="font-size: 85%; vertical-align: text-top">&#174;</SUP> Life
+CoreNotes<SUP style="font-size: 85%; vertical-align: text-top">&#174;</SUP> due 2019 during the fiscal year ended December
+31, 2004. As such, no Indenture Trustee Reports were prepared or are
+included in this Annual Report on Form&nbsp;10-K.</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Exhibit&nbsp;99.2
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Annual Statement of Compliance by Citibank, N.A.</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Exhibit&nbsp;99.3
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Report of Independent Registered Public Accounting Firm on Compliance.</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+<P align="center" style="font-size: 10pt">5
+</DIV>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>

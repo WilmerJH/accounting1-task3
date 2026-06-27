@@ -1,0 +1,961 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>s116818_10k.htm
+<DESCRIPTION>FORM 10-K
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;<FONT STYLE="color: Black"></FONT></P>
+
+<!-- Field: Rule-Page --><DIV ALIGN="LEFT" STYLE="margin-top: 3pt; margin-bottom: 3pt"><DIV STYLE="font-size: 1pt; border-top: Black 4pt solid; border-bottom: Black 1pt solid; width: 100%">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="color: Black">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="color: Black">UNITED STATES</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="color: Black">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="color: Black">SECURITIES AND
+EXCHANGE COMMISSION</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="color: Black">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="color: Black">Washington,
+D.C. 20549</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="color: Black">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="color: Black"><B>FORM 10-K</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="color: Black">&nbsp;</FONT></P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in"><FONT STYLE="color: Black">&#9746;</FONT></TD><TD><FONT STYLE="color: Black">ANNUAL
+                                         REPORT PURSUANT TO SECTION 13 OR 15 (d) OF THE SECURITIES EXCHANGE ACT OF 1934</FONT></TD></TR></TABLE>
+
+<P STYLE="margin-top: 0pt; margin-bottom: 0pt; font: 10pt Times New Roman, Times, Serif"><FONT STYLE="color: Black">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-align: center; text-indent: -0.5in"><FONT STYLE="color: Black">For
+the fiscal year ended December 31, 2018</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-align: center; text-indent: -0.5in"><FONT STYLE="color: Black">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0pt; text-align: center"><FONT STYLE="color: Black">OR</FONT></P>
+
+<P STYLE="margin-top: 0pt; margin-bottom: 0pt; font: 10pt Times New Roman, Times, Serif"><FONT STYLE="color: Black">&nbsp;</FONT></P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in; text-align: left">&#9744;</TD><TD STYLE="text-align: justify"><FONT STYLE="color: Black">TRANSITION
+                                         REPORT PURSUANT TO SECTION 13 OR 15 (d) OF THE SECURITIES EXCHANGE ACT OF 1934</FONT></TD>
+</TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: 0in"><FONT STYLE="color: Black">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: -0.5in"><FONT STYLE="color: Black">For
+the transition period from ________________ to ______________________</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: -0.5in"><FONT STYLE="color: Black">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-align: center; text-indent: -0.5in"><FONT STYLE="color: Black">Commission file number of the issuing entity: 333-206924-06</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="color: Black">CIK number of issuing entity: 0001703220</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="color: Black">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-align: center; text-indent: -0.5in"><FONT STYLE="color: Black"><U>AMERICREDIT AUTOMOBILE RECEIVABLES TRUST 2017-2</U></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-align: center; text-indent: -0.5in"><FONT STYLE="color: Black">(Exact
+name of issuing entity as specified in its charter)</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-align: center; text-indent: -0.5in"><FONT STYLE="color: Black">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-align: center; text-indent: -0.5in"><FONT STYLE="color: Black">Commission File Number of depositor: 333-206924</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-align: center; text-indent: -0.5in; color: blue"><FONT STYLE="color: Black">CIK number of depositor: 0001347185</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-align: center; text-indent: -0.5in; color: blue"><FONT STYLE="color: Black">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-align: center; text-indent: -0.5in; color: blue"><FONT STYLE="color: Black"><U>AFS
+SENSUB CORP.</U></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-align: center; text-indent: -0.5in"><FONT STYLE="color: Black">(Exact
+name of depositor as specified in its charter)</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-align: center; text-indent: -0.5in"><FONT STYLE="color: Black">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-align: center; text-indent: -0.5in"><FONT STYLE="color: Black">Commission File Number of sponsor: 001-13329</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-align: center; text-indent: -0.5in; color: blue"><FONT STYLE="color: Black">CIK number of sponsor: 0001002761</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-align: center; text-indent: -0.5in; color: blue"><FONT STYLE="color: Black">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-align: center; text-indent: -0.5in"><FONT STYLE="color: Black"><U>AMERICREDIT
+FINANCIAL SERVICES, INC.</U></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-align: center; text-indent: -0.5in"><FONT STYLE="color: Black">(Exact
+name of sponsor as specified in its charter)</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-align: center; text-indent: -0.5in"><FONT STYLE="color: Black">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-align: center; text-indent: -0.5in"></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; border-collapse: collapse; font: 10pt Times New Roman, Times, Serif">
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="width: 48%; text-align: center; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Delaware</FONT></TD>
+    <TD STYLE="width: 4%; padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="width: 48%; text-align: center; border-bottom: Black 1pt solid">82-6210346</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">(State or other jurisdiction
+    of</FONT></TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">(I.R.S. Employer</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-align: center; text-indent: 0in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">incorporation
+    or organization)</FONT></TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: center; text-indent: 0in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Identification
+    No.)</FONT></TD></TR>
+</TABLE>
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-align: center; text-indent: -0.5in">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; border-collapse: collapse; font: 10pt Times New Roman, Times, Serif">
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-align: center"><P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><FONT STYLE="color: Black">AmeriCredit
+Financial Services, Inc. (as originator)</FONT></P>
+</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="width: 48%; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">801 Cherry
+    Street, Suite 3500</FONT></TD>
+    <TD STYLE="width: 4%">&nbsp;</TD>
+    <TD STYLE="width: 48%">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-align: center; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Fort
+    Worth, TX</FONT></TD>
+    <TD STYLE="padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="text-align: center; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">76102</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">(Address of principal
+    executive offices)</FONT></TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">(Zip Code)</FONT></TD></TR>
+</TABLE>
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-align: center; text-indent: -0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: -0.5in"><FONT STYLE="color: Black">Registrant&rsquo;s
+telephone number, including area code <U>(817) 302-7000</U></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: -0.5in"><FONT STYLE="color: Black">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-align: justify; text-indent: -0.5in"><FONT STYLE="color: Black">Securities
+Registered Pursuant to Section 12 (b) of the Act:&nbsp;None</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-align: justify; text-indent: -0.5in"><FONT STYLE="color: Black">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-align: justify; text-indent: -0.5in"><FONT STYLE="color: Black">Securities
+Registered Pursuant to Section 12 (g) of the Act:&nbsp;None</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-align: justify; text-indent: -0.5in"><FONT STYLE="color: Black">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="color: Black">Indicate by
+check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="color: Black">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="color: Black">Yes &#9744;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No &#9746;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="color: Black">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="color: Black">Indicate by
+check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="color: Black">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="color: Black">Yes &#9744;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No &#9746;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="color: Black">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="color: Black">Indicate by
+check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15 (d) of the Securities Exchange
+Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports),
+and (2) has been subject to such filing requirements for the past 90 days.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="color: Black">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="color: Black">Yes
+&#9746;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No &#9744;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="color: Black">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="color: Black">Indicate by check mark whether the
+registrant has submitted electronically every Interactive Data File required to be submitted and posted pursuant to Rule 405 of
+Regulation S-T (&sect;232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant
+was required to submit and post such files).</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="color: Black">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="color: Black">Yes &#9746;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No &#9744;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="color: Black">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="color: Black">Indicate by
+check mark if the disclosure of delinquent filers pursuant to Item 405 of Regulation S-K (&sect;229.405 of this chapter) is not
+contained herein and will not be contained, to the best of the registrant&rsquo;s knowledge, in definitive proxy or information
+statements incorporated by reference in Part III of this Form 10-K or any amendment to this Form 10-K. &#9746;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="color: Black">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="color: Black">Indicate by
+check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting
+company, or emerging growth company. See the definitions of &ldquo;large accelerated filer,&rdquo; &ldquo;accelerated filer,&rdquo;
+&ldquo;smaller reporting company,&rdquo; and &ldquo;emerging growth company&rdquo; in Rule 12b-2 of the Exchange Act.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="color: Black">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; border-collapse: collapse; font: 10pt Times New Roman, Times, Serif">
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="width: 46%; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Large
+    accelerated filer </FONT>&#9744;</TD>
+    <TD STYLE="width: 54%; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Accelerated
+    filer </FONT>&#9744;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Non-accelerated
+    filer </FONT>&#9746;</TD>
+    <TD STYLE="text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Smaller reporting
+    company </FONT>&#9744;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-align: justify">&nbsp;</TD>
+    <TD STYLE="text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Emerging growth
+    company </FONT>&#9744;</TD></TR>
+</TABLE>
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="color: Black">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="color: Black">If an emerging
+growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with
+any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. &#9744;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="color: Black">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="font-size: 10pt; color: Black">Indicate
+by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act).&nbsp;</FONT><FONT STYLE="color: Black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<FONT STYLE="font-size: 10pt">Yes
+&#9744; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No &#9746;</FONT></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="color: Black">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="color: Black">State the aggregate
+market value of the voting and non-voting common equity held by non-affiliates computed by reference to the price at which the
+common equity was last sold, or the average bid and asked price of such common equity, as of the last business day of the registrant&rsquo;s
+most recently completed second fiscal quarter.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="color: Black">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="color: Black">Not applicable
+to this registrant.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="color: Black">&nbsp;</FONT></P>
+
+<!-- Field: Rule-Page --><DIV ALIGN="LEFT" STYLE="margin-top: 3pt; margin-bottom: 3pt"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid; border-bottom: Black 4pt solid; width: 100%">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="color: Black">&nbsp;</FONT></P>
+
+<!-- Field: Page; Sequence: 1; Options: NewSection -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 2pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="color: Black">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="color: Black"><U>DOCUMENTS
+INCORPORATED BY REFERENCE</U></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="color: Black">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in"><FONT STYLE="color: Black">List
+hereunder the following documents if incorporated by reference and the part of the Form 10-K (e.g. Part I, Part II, etc.) into
+which the document is incorporated: (1) Any annual report to security holders; (2) Any proxy or information statement; and (3)
+Any prospectus filed pursuant to Rule 424(b) or (c) under the Securities Act of 1933. The listed documents should be clearly described
+for identification purposes (e.g., annual report to security holders for fiscal year ended December 24, 1980).</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in"><FONT STYLE="color: Black">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="color: Black">None.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="color: Black">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="color: Black"><B>PART I</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="color: Black">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="color: Black"><B>The following
+Items have been omitted in accordance with General Instruction J to Form 10-K</B>:</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="color: Black">&nbsp;</FONT></P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 1in"><FONT STYLE="color: Black">ITEM 1.</FONT></TD><TD STYLE="text-align: justify"><FONT STYLE="color: Black">BUSINESS</FONT></TD></TR></TABLE>
+
+<P STYLE="margin-top: 0pt; margin-bottom: 0pt; font: 10pt Times New Roman, Times, Serif"></P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 1in"><FONT STYLE="color: Black">ITEM 1A.</FONT></TD><TD STYLE="text-align: justify"><FONT STYLE="color: Black">RISK
+                                         FACTORS</FONT></TD></TR></TABLE>
+
+<P STYLE="margin-top: 0pt; margin-bottom: 0pt; font: 10pt Times New Roman, Times, Serif"></P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 1in"><FONT STYLE="color: Black">ITEM 2.</FONT></TD><TD STYLE="text-align: justify"><FONT STYLE="color: Black">PROPERTIES</FONT></TD></TR></TABLE>
+
+<P STYLE="margin-top: 0pt; margin-bottom: 0pt; font: 10pt Times New Roman, Times, Serif"></P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 1in"><FONT STYLE="color: Black">ITEM 3.</FONT></TD><TD STYLE="text-align: justify"><FONT STYLE="color: Black">LEGAL
+                                         PROCEEDINGS</FONT></TD></TR></TABLE>
+
+<P STYLE="margin-top: 0pt; margin-bottom: 0pt; font: 10pt Times New Roman, Times, Serif"><FONT STYLE="color: Black">&nbsp;</FONT></P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 1in"><FONT STYLE="color: Black"><B>ITEM 1B.</B></FONT></TD><TD STYLE="text-align: justify"><FONT STYLE="color: Black"><B>UNRESOLVED
+                                         STAFF COMMENTS</B></FONT></TD></TR></TABLE>
+
+<P STYLE="margin-top: 0pt; margin-bottom: 0pt; font: 10pt Times New Roman, Times, Serif"><FONT STYLE="color: Black">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="color: Black">None.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="color: Black">&nbsp;</FONT></P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 1in"><FONT STYLE="color: Black"><B>ITEM 4.</B></FONT></TD><TD STYLE="text-align: justify"><FONT STYLE="color: Black"><B>MINE
+                                         SAFETY DISCLOSURES</B></FONT></TD></TR></TABLE>
+
+<P STYLE="margin-top: 0pt; margin-bottom: 0pt; font: 10pt Times New Roman, Times, Serif"><FONT STYLE="color: Black">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="color: Black">Not Applicable.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="color: Black">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="color: Black"></FONT></P>
+
+<!-- Field: Page; Sequence: 2 -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 2pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="color: Black">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="color: Black"><B>PART II</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="color: Black">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="color: Black"><B>The following
+Items have been omitted in accordance with General Instruction J to Form 10-K:</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="color: Black">&nbsp;</FONT></P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 1in"><FONT STYLE="color: Black">ITEM 5.</FONT></TD><TD STYLE="text-align: justify"><FONT STYLE="color: Black">MARKET
+                                         FOR REGISTRANT&rsquo;S COMMON EQUITY AND RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES
+                                         OF EQUITY SECURITIES</FONT></TD></TR></TABLE>
+
+<P STYLE="margin-top: 0pt; margin-bottom: 0pt; font: 10pt Times New Roman, Times, Serif"></P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 1in"><FONT STYLE="color: Black">ITEM 6.</FONT></TD><TD STYLE="text-align: justify"><FONT STYLE="color: Black">SELECTED
+                                         FINANCIAL DATA</FONT></TD></TR></TABLE>
+
+<P STYLE="margin-top: 0pt; margin-bottom: 0pt; font: 10pt Times New Roman, Times, Serif"></P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 1in"><FONT STYLE="color: Black">ITEM 7.</FONT></TD><TD STYLE="text-align: justify"><FONT STYLE="color: Black">MANAGEMENT&rsquo;S
+                                         DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS</FONT></TD></TR></TABLE>
+
+<P STYLE="margin-top: 0pt; margin-bottom: 0pt; font: 10pt Times New Roman, Times, Serif"></P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 1in"><FONT STYLE="color: Black">ITEM 7A.</FONT></TD><TD STYLE="text-align: justify"><FONT STYLE="color: Black">QUANTITATIVE
+                                         AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK</FONT></TD></TR></TABLE>
+
+<P STYLE="margin-top: 0pt; margin-bottom: 0pt; font: 10pt Times New Roman, Times, Serif"></P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 1in"><FONT STYLE="color: Black">ITEM 8.</FONT></TD><TD STYLE="text-align: justify"><FONT STYLE="color: Black">FINANCIAL
+                                         STATEMENTS AND SUPPLEMENTARY DATA</FONT></TD></TR></TABLE>
+
+<P STYLE="margin-top: 0pt; margin-bottom: 0pt; font: 10pt Times New Roman, Times, Serif"></P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 1in"><FONT STYLE="color: Black">ITEM 9.</FONT></TD><TD STYLE="text-align: justify"><FONT STYLE="color: Black">CHANGES
+                                         IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE&nbsp;</FONT></TD></TR></TABLE>
+
+<P STYLE="margin-top: 0pt; margin-bottom: 0pt; font: 10pt Times New Roman, Times, Serif"></P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 1in"><FONT STYLE="color: Black">ITEM 9A.</FONT></TD><TD STYLE="text-align: justify"><FONT STYLE="color: Black">CONTROLS
+                                         AND PROCEDURES</FONT></TD></TR></TABLE>
+
+<P STYLE="margin-top: 0pt; margin-bottom: 0pt; font: 10pt Times New Roman, Times, Serif"><FONT STYLE="color: Black">&nbsp;</FONT></P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 1in"><FONT STYLE="color: Black"><B>ITEM 9B.</B></FONT></TD><TD STYLE="text-align: justify"><FONT STYLE="color: Black"><B>OTHER
+                                         INFORMATION</B></FONT></TD></TR></TABLE>
+
+<P STYLE="margin-top: 0pt; margin-bottom: 0pt; font: 10pt Times New Roman, Times, Serif"><FONT STYLE="color: Black">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="color: Black">None.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="color: Black">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="color: Black"><B>PART III</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="color: Black">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="color: Black"><B>The following
+Items have been omitted in accordance with General Instruction J to Form 10-K:</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="color: Black">&nbsp;</FONT></P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 1in"><FONT STYLE="color: Black">ITEM 10.</FONT></TD><TD STYLE="text-align: justify"><FONT STYLE="color: Black">DIRECTORS,
+                                         EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE</FONT></TD></TR></TABLE>
+
+<P STYLE="margin-top: 0pt; margin-bottom: 0pt; font: 10pt Times New Roman, Times, Serif"></P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 1in"><FONT STYLE="color: Black">ITEM 11.</FONT></TD><TD STYLE="text-align: justify"><FONT STYLE="color: Black">EXECUTIVE
+                                         COMPENSATION</FONT></TD></TR></TABLE>
+
+<P STYLE="margin-top: 0pt; margin-bottom: 0pt; font: 10pt Times New Roman, Times, Serif"></P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 1in"><FONT STYLE="color: Black">ITEM 12.</FONT></TD><TD STYLE="text-align: justify"><FONT STYLE="color: Black">SECURITY
+                                         OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS&nbsp;</FONT></TD></TR></TABLE>
+
+<P STYLE="margin-top: 0pt; margin-bottom: 0pt; font: 10pt Times New Roman, Times, Serif"></P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 1in"><FONT STYLE="color: Black">ITEM 13.</FONT></TD><TD STYLE="text-align: justify"><FONT STYLE="color: Black">CERTAIN
+                                         RELATIONSHIPS AND RELATED TRANSACTIONS AND DIRECTOR INDEPENDENCE</FONT></TD></TR></TABLE>
+
+<P STYLE="margin-top: 0pt; margin-bottom: 0pt; font: 10pt Times New Roman, Times, Serif"></P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 1in"><FONT STYLE="color: Black">ITEM 14.</FONT></TD><TD STYLE="text-align: justify"><FONT STYLE="color: Black">PRINCIPAL
+                                         ACCOUNTING FEES AND SERVICES</FONT></TD></TR></TABLE>
+
+<P STYLE="margin-top: 0pt; margin-bottom: 0pt; font: 10pt Times New Roman, Times, Serif"><FONT STYLE="color: Black">&nbsp;</FONT></P>
+
+<P STYLE="margin-top: 0pt; margin-bottom: 0pt; font: 10pt Times New Roman, Times, Serif"><FONT STYLE="color: Black"></FONT></P>
+
+<!-- Field: Page; Sequence: 3 -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 2pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="margin-top: 0pt; margin-bottom: 0pt; font: 10pt Times New Roman, Times, Serif"><FONT STYLE="color: Black">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="color: Black"><B>PART IV</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="color: Black">&nbsp;</FONT></P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 1in"><FONT STYLE="color: Black"><B>ITEM 15.</B></FONT></TD><TD STYLE="text-align: justify"><FONT STYLE="color: Black"><B>EXHIBITS
+                                         AND FINANCIAL STATEMENT SCHEDULES</B></FONT></TD></TR></TABLE>
+
+<P STYLE="margin-top: 0pt; margin-bottom: 0pt; font: 10pt Times New Roman, Times, Serif"><FONT STYLE="color: Black">&nbsp;</FONT></P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0pt; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0in"></TD><TD STYLE="width: 0.5in; text-align: left"><FONT STYLE="color: Black">(a)(1)</FONT></TD><TD STYLE="text-align: justify"><FONT STYLE="color: Black">Not
+                                         Applicable</FONT></TD>
+</TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="color: Black"></FONT></P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0pt; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0in"></TD><TD STYLE="width: 0.5in; text-align: left"><FONT STYLE="color: Black">(a)(2)</FONT></TD><TD STYLE="text-align: justify"><FONT STYLE="color: Black">Not
+                                         Applicable</FONT></TD>
+</TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"></P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0pt; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0in"></TD><TD STYLE="width: 0.5in; text-align: left"><FONT STYLE="color: Black">(a)(3)</FONT></TD><TD STYLE="text-align: justify"><FONT STYLE="color: Black">As
+                                         reported under clause (b)</FONT></TD>
+</TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="color: Black">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="color: Black">(b)</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; border-collapse: collapse; font: 10pt Times New Roman, Times, Serif">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 12%; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Exhibit Number</FONT></TD>
+    <TD STYLE="width: 3%">&nbsp;</TD>
+    <TD STYLE="width: 85%; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Description</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD><A HREF="http://www.sec.gov/Archives/edgar/data/1347185/000119312517178346/d402592dex41.htm"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Exhibit 4.1</FONT></A></TD>
+    <TD>&nbsp;</TD>
+    <TD><A HREF="http://www.sec.gov/Archives/edgar/data/1347185/000119312517178346/d402592dex41.htm"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Indenture, dated as of April 11, 2017, between AmeriCredit Automobile Receivables Trust 2017-2 and Citibank, N.A, as Trustee and Trust Collateral Agent (incorporated by reference from Exhibit 4.1 of the Current Report on Form 8-K filed by AmeriCredit Automobile Receivables Trust 2017-2 (File No. 333-206924-06) with the SEC on May 23, 2017).</FONT></A></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD><A HREF="http://www.sec.gov/Archives/edgar/data/1347185/000119312517178346/d402592dex42.htm"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Exhibit 4.2</FONT></A></TD>
+    <TD>&nbsp;</TD>
+    <TD><A HREF="http://www.sec.gov/Archives/edgar/data/1347185/000119312517178346/d402592dex42.htm"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Amended and Restated Trust Agreement, dated as of April 11, 2017, between AFS SenSub Corp., as Seller, and Wilmington Trust Company, as Owner Trustee (incorporated by reference from Exhibit 4.2 of the Current Report on Form 8-K filed by AmeriCredit Automobile Receivables Trust 2017-2 (File No. 333-206924-06) with the SEC on May 23, 2017).</FONT></A></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD><A HREF="http://www.sec.gov/Archives/edgar/data/1347185/000119312517178346/d402592dex43.htm"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Exhibit 4.3</FONT></A></TD>
+    <TD>&nbsp;</TD>
+    <TD><A HREF="http://www.sec.gov/Archives/edgar/data/1347185/000119312517178346/d402592dex43.htm"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Sale and Servicing Agreement, dated as of April 11, 2017, among AmeriCredit Automobile Receivables Trust 2017-2, as Issuer, AmeriCredit Financial Services, Inc., as Servicer, AFS SenSub Corp., as Seller, and Citibank, N.A, as Trust Collateral Agent (incorporated by reference from Exhibit 4.3 of the Current Report on Form 8-K filed by AmeriCredit Automobile Receivables Trust 2017-2 (File No. 333-206924-06) with the SEC on May 23, 2017).</FONT></A></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD><A HREF="http://www.sec.gov/Archives/edgar/data/1347185/000119312517178346/d402592dex101.htm"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Exhibit 10.1</FONT></A></TD>
+    <TD>&nbsp;</TD>
+    <TD><A HREF="http://www.sec.gov/Archives/edgar/data/1347185/000119312517178346/d402592dex101.htm"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Purchase Agreement, dated as of April 11, 2017, between AmeriCredit Financial Services, Inc., as Seller and AFS SenSub Corp., as Purchaser (incorporated by reference from Exhibit 10.1 of the Current Report on Form 8-K filed by AmeriCredit Automobile Receivables Trust 2017-2 (File No. 333-206924-06) with the SEC on May 23, 2017).</FONT></A></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD><A HREF="http://www.sec.gov/Archives/edgar/data/1347185/000119312517178346/d402592dex106.htm"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Exhibit 10.6</FONT></A></TD>
+    <TD>&nbsp;</TD>
+    <TD><A HREF="http://www.sec.gov/Archives/edgar/data/1347185/000119312517178346/d402592dex106.htm"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Asset Representations Review Agreement, dated as of April 11, 2017, among AmeriCredit Automobile Receivables Trust 2017-2, AmeriCredit Financial Services, Inc., and Clayton Fixed Income Services LLC, as Asset Representation Reviewer (incorporated by reference from Exhibit 10.6 of the Current Report on Form 8-K filed by AmeriCredit Automobile Receivables Trust 2017-2 (File No. 333-206924-06) with the SEC on May 23, 2017).</FONT></A></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD><A HREF="s116818_ex31-1.htm"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Exhibit 31.1</FONT></A></TD>
+    <TD>&nbsp;</TD>
+    <TD><A HREF="s116818_ex31-1.htm"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Rule 13a-14(a)/15d-14(a) Certification (Section 302 Certification).</FONT></A></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD><A HREF="s116818_ex33-1.htm"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Exhibit 33.1</FONT></A></TD>
+    <TD>&nbsp;</TD>
+    <TD><A HREF="s116818_ex33-1.htm"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Management&rsquo;s Assertion Regarding Compliance with Applicable Servicing Criteria concerning servicing activities of AmeriCredit Financial Services, Inc. and its subsidiaries for the year ended December 31, 2018. </FONT></A></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD><A HREF="s116818_ex33-2.htm"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Exhibit 33.2</FONT></A></TD>
+    <TD>&nbsp;</TD>
+    <TD><A HREF="s116818_ex33-2.htm"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Assessment of Compliance with Applicable Servicing Criteria (Citibank, N.A).</FONT></A></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD><A HREF="s116818_ex34-1.htm"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Exhibit 34.1</FONT></A></TD>
+    <TD>&nbsp;</TD>
+    <TD><A HREF="s116818_ex34-1.htm"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Report of Independent Registered Public Accounting Firm (Ernst &amp;Young LLP). </FONT></A></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD><A HREF="s116818_ex34-2.htm"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Exhibit 34.2</FONT></A></TD>
+    <TD>&nbsp;</TD>
+    <TD><A HREF="s116818_ex34-2.htm"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Report of Independent Registered Public Accounting Firm (KPMG LLP).</FONT></A></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD><A HREF="s116818_ex35-1.htm"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Exhibit 35.1</FONT></A></TD>
+    <TD>&nbsp;</TD>
+    <TD><A HREF="s116818_ex35-1.htm"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Servicer Compliance Statement of AmeriCredit Financial Services, Inc.</FONT></A></TD></TR>
+</TABLE>
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"></P>
+
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"></P>
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="color: Black">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="color: Black"></FONT></P>
+
+<!-- Field: Page; Sequence: 4 -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 2pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="color: Black">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="color: Black"></FONT></P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0pt; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0in"></TD><TD STYLE="width: 0.5in; text-align: left"><FONT STYLE="color: Black">(c)</FONT></TD><TD STYLE="text-align: justify"><FONT STYLE="color: Black">Not Applicable.</FONT></TD>
+</TR></TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="color: Black">&nbsp;</FONT></P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 1in"><FONT STYLE="color: Black"><B>ITEM 16.</B></FONT></TD><TD STYLE="text-align: justify"><FONT STYLE="color: Black"><B>FORM
+                                         10-K SUMMARY</B></FONT></TD></TR></TABLE>
+
+<P STYLE="margin-top: 0pt; margin-bottom: 0pt; font: 10pt Times New Roman, Times, Serif"><FONT STYLE="color: Black">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="color: Black">None.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="color: Black">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-align: justify"><FONT STYLE="color: Black"><B>SUBSTITUTE
+INFORMATION INCLUDED IN ACCORDANCE WITH GENERAL INSTRUCTION J TO FORM 10-K:</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-align: justify"><FONT STYLE="color: Black">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="color: Black"><B>ITEM 1112(b)
+OF REGULATION AB. (SIGNIFICANT OBLIGORS OF POOL ASSETS)</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="color: Black">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="color: Black">There is no
+single obligor that represents more than 10% of the pool assets.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="color: Black">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="color: Black"><B>ITEM 1114(b)(2)
+OF REGULATION AB. (CREDIT ENHANCEMENT AND OTHER SUPPORT, EXCEPT FOR CERTAIN DERIVATIVES INSTRUMENTS (FINANCIAL INFORMATION))</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="color: Black">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; color: blue"><FONT STYLE="color: Black">There
+is no external credit enhancement or other support provider that is liable to provide payments supporting any notes or certificates
+issued by the Issuing Entity.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; color: blue"><FONT STYLE="color: Black">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="color: Black"><B>ITEM 1115(b)
+OF REGULATION AB. (CERTAIN DERIVATIVE INFORMATION (FINANCIAL INFORMATION))</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="color: Black">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="color: Black">No entity provides
+any derivative instruments that are used to alter the payment characteristics of the cash flows from the Issuing Entity.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="color: Black">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="color: Black"><B>ITEM 1117
+OF REGULATION AB. (LEGAL PROCEEDINGS)</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="color: Black">The sponsor is subject to various
+pending and potential legal and regulatory proceedings in the ordinary course of business, including litigation, arbitration,
+claims, investigations, examinations, subpoenas and enforcement proceedings. Some litigation against the sponsor could take the
+form of class actions. The outcomes of these proceedings are inherently uncertain, and thus no prediction can be confidently given
+on how or when these proceedings will be resolved. An adverse outcome in one or more of these proceedings could result in substantial
+damages, settlements, fines, penalties, diminished income or reputational harm to the sponsor, and could materially and adversely
+affect the interest of the noteholders or the servicer&rsquo;s ability to perform its duties under the transaction documents.
+The proceedings identified below are those in connection with which the sponsor believes a material loss is reasonably possible
+or probable.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="color: Black">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="color: Black">In 2014 and 2015, General Motors
+Financial Company, Inc. was served with investigative subpoenas from various state attorneys general and other governmental offices
+to produce documents and data relating to its automobile loan and lease business and securitization of loans and leases. General
+Motors Financial Company, Inc. believes that it has cooperated fully with all reasonable requests for information.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="color: Black">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="color: Black"></FONT></P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">On
+June 18, 2014, a civil action was filed against Citibank in the Supreme Court of the State of New York by a group of investors
+in 48 private-label RMBS trusts for which Citibank allegedly serves or did serve as trustee, asserting claims for purported violations
+of the Trust Indenture Act of 1939 (the &ldquo;Trust Indenture Act&rdquo;), breach of contract, breach of fiduciary duty and negligence
+based on Citibank&rsquo;s alleged failure to perform its duties as trustee for the 48 RMBS trusts.&nbsp; On November 24, 2014,
+plaintiffs sought leave to withdraw this action.&nbsp; On the same day, a smaller subset of similar plaintiff investors in 27
+private-label RMBS trusts for which Citibank allegedly serves or did serve as trustee, filed a new civil action against Citibank
+in the United States District Court for the Southern District of New York asserting similar claims as the prior action filed in
+state court. In January 2015, the court closed plaintiffs&rsquo; original state court action. On September 8, 2015, the federal
+court dismissed all claims as to 24 of the 27 trusts and allowed certain of the claims to proceed as to the other three trusts.
+Subsequently, plaintiffs voluntarily dismissed all claims with respect to two of the three trusts. On April 7, 2017, Citibank
+filed a motion for summary judgment. Plaintiffs filed its consolidated opposition brief and cross motion for partial summary judgment
+on May 22, 2017. Briefing on those motions was completed on August 4, 2017. On March 22, 2018, the court granted Citibank&rsquo;s
+motion for summary judgment in its entirety, denied Plaintiffs&rsquo; motion for summary judgment and ordered the clerk to close
+the case. On April 20, 2018, plaintiffs filed a notice of appeal. Plaintiffs&rsquo; opening brief was filed on August 3, 2018.
+Citibank filed its opposition on November 2, 2018. Plaintiffs&rsquo; filed their reply on November 16, 2018.</FONT></P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0"><FONT STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0"><FONT STYLE="font: 10pt Times New Roman, Times, Serif"></FONT></P>
+
+<!-- Field: Page; Sequence: 5; Options: NewSection -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 2pt solid"><P STYLE="margin-top: 0pt; text-align: center; margin-bottom: 0pt"></P></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0"><FONT STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">On
+November 24, 2015, the same investors that brought the federal case brought a new civil action in the Supreme Court of the State
+of New York related to 25 private-label RMBS trusts for which Citibank allegedly serves or did serve as trustee. This case includes
+the 24 trusts previously dismissed in the federal action, and one additional trust. The investors assert claims for breach of
+contract, breach of fiduciary duty, breach of duty to avoid conflicts of interest, and violation of New York&rsquo;s Streit Act
+(the &ldquo;Streit Act&rdquo;). Following oral argument on Citibank&rsquo;s motion to dismiss, Plaintiffs filed an amended complaint
+on August 5, 2016. On June 27, 2017, the state court issued a decision, dismissing the Event of Default claims, mortgage-file-related
+claims, the fiduciary duty claims, and the conflict of interest claims. The decision sustained certain breach of contract claims
+including the claim alleging discovery of breaches of representations and warranties, a claim related to robo-signing, and the
+implied covenant of good faith claim. Citibank appealed the lower court&rsquo;s decision, and on January 16, 2018, the Appellate
+Division, First Department, dismissed the claims related to robo-signing and the implied covenant of good faith, but allowed plaintiffs&rsquo;
+claim alleging discovery of breaches of representations and warranties to proceed.</FONT></P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0"><FONT STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">On
+August 19, 2015, the Federal Deposit Insurance Corporation (FDIC) as Receiver for a failed financial institution filed a civil
+action against Citibank in the Southern District of New York. This action relates to one private-label RMBS trust for which Citibank
+formerly served as trustee. FDIC asserts claims for breach of contract, violation of the Streit Act, and violation of the Trust
+Indenture Act. Citibank jointly briefed a motion to dismiss with The Bank of New York Mellon and U.S. Bank, N.A., entities that
+have also been sued by FDIC in their capacity as trustee, and these cases have all been consolidated in front of Judge Carter.
+On September 30, 2016, the Court granted the motion to dismiss the complaint without prejudice for lack of subject matter jurisdiction.
+On October 14, 2016, FDIC filed a motion for reargument or relief from judgment from the Court&rsquo;s dismissal order. On July
+11, 2017, Judge Carter ruled on the motion for reconsideration regarding his dismissal of the action. He denied reconsideration
+of his decision on standing, but granted leave to amend the complaint by October 9, 2017. The FDIC subsequently requested an extension
+of time to file its amended complaint, which was granted. The FDIC filed its amended complaint on December 8, 2017. Defendants
+jointly filed a motion to dismiss the amended complaint on March 13, 2018. On April 18, 2018, plaintiff filed its opposition.
+Defendants filed their joint reply on May 3, 2018.</FONT></P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0"><FONT STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">There
+can be no assurances as to the outcome of litigation or the possible impact of litigation on the trustee or the RMBS trusts.&nbsp;
+However, Citibank denies liability and continues to vigorously defend against these litigations.&nbsp; Furthermore,&nbsp;neither
+the above-disclosed litigations nor any other pending legal proceeding involving Citibank will materially affect Citibank&rsquo;s
+ability to perform its duties as Trustee under the Indenture for this ABS transaction.</FONT></P>
+
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="color: Black">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="color: Black"><B>ITEM 1119
+OF REGULATION AB. (AFFILIATIONS AND CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS)</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="color: Black">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="color: Black">Information
+required by Item 1119 of Regulation AB has been omitted from this report on Form&nbsp;10-K in reliance on the Instruction to Item
+1119.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="color: Black">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="color: Black"></FONT></P>
+
+<!-- Field: Page; Sequence: 6 -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 2pt solid"><P STYLE="margin-top: 0pt; text-align: center; margin-bottom: 0pt"></P></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="color: Black">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="color: Black"><B>ITEM 1122 OF REGULATION AB. COMPLIANCE
+WITH APPLICABLE SERVICING CRITERIA.</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="color: Black">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="color: Black">The following documents
+are filed as part of this report.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 10.5pt"><FONT STYLE="color: Black">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 10.5pt"><FONT STYLE="color: Black"></FONT></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; border-collapse: collapse; font: 10pt Times New Roman, Times, Serif">
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="width: 12%; border-bottom: Black 1pt solid; text-align: left; vertical-align: bottom"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Exhibit Number</FONT></TD>
+    <TD STYLE="width: 3%; padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="width: 85%; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Description</FONT></TD>
+    </TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-align: left; vertical-align: top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-align: left; vertical-align: top"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Exhibit 33.1</FONT></TD>
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Management&rsquo;s Assertion Regarding Compliance with Applicable Servicing Criteria concerning servicing activities of AmeriCredit Financial Services, Inc. and its subsidiaries for the year ended December 31, 2018.</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-align: left; vertical-align: top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-align: left; vertical-align: top"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Exhibit 33.2</FONT></TD>
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Assessment of Compliance with Applicable Servicing Criteria (Citibank, N.A).</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-align: left; vertical-align: top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-align: left; vertical-align: top"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Exhibit 34.1</FONT></TD>
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Report of Independent Registered Public Accounting Firm (Ernst &amp; Young LLP).</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-align: left; vertical-align: top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-align: left; vertical-align: top"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Exhibit 34.2</FONT></TD>
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Report of Independent Registered Public Accounting Firm (KPMG LLP).</FONT></TD></TR>
+</TABLE>
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 10.5pt"><FONT STYLE="color: Black">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="color: Black">The Servicer has complied,
+in all material respects, with the Applicable Servicing Criteria.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 10.5pt"><FONT STYLE="color: Black">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-right: 0; margin-bottom: 0pt; text-align: left"><FONT STYLE="color: Black"><B>ITEM 1123 OF REGULATION
+AB, SERVICER COMPLIANCE STATEMENT</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 4.5pt"><FONT STYLE="color: Black">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="color: Black">The following documents
+are filed as part of this report.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 13.5pt"><FONT STYLE="color: Black">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 13.5pt"><FONT STYLE="color: Black"></FONT></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; border-collapse: collapse; font: 10pt Times New Roman, Times, Serif">
+<TR>
+    <TD STYLE="vertical-align: bottom; width: 12%; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Exhibit
+Number</FONT></TD>
+    <TD STYLE="vertical-align: top; width: 3%; padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom; width: 85%; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Description</FONT></TD>
+    </TR>
+<TR>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: top">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD></TR>
+<TR>
+    <TD STYLE="vertical-align: bottom"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Exhibit 35.1</FONT></TD>
+    <TD STYLE="vertical-align: top">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Servicer Compliance Statement of AmeriCredit Financial Services, Inc.</FONT></TD></TR>
+</TABLE>
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 13.5pt"><FONT STYLE="color: Black">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 13.5pt"></P>
+
+<!-- Field: Page; Sequence: 7 -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 2pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 13.5pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="color: Black"><B>SIGNATURES</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="color: Black">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><FONT STYLE="color: Black">Pursuant to
+the requirements of Section 13 or 15 (d) of the Securities Exchange Act of 1934, AFS SenSub Corp. has duly caused this report
+to be signed on its behalf by the undersigned, thereunto duly authorized.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><FONT STYLE="color: Black">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><FONT STYLE="color: Black"></FONT></P>
+
+<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif">
+<TR>
+    <TD STYLE="vertical-align: top">&nbsp;</TD>
+    <TD>By:</TD>
+    <TD> AFS SENSUB CORP.,</TD>
+    <TD>&nbsp;</TD></TR>
+<TR>
+    <TD STYLE="vertical-align: top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>as Depositor</TD>
+    <TD>&nbsp;</TD></TR>
+<TR>
+    <TD STYLE="vertical-align: top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR>
+    <TD STYLE="vertical-align: top; width: 25%; padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="width: 5%; padding-bottom: 1pt">By:</TD>
+    <TD STYLE="vertical-align: top; width: 39%; border-bottom: Black 1pt solid">/s/ Susan B. Sheffield</TD>
+    <TD STYLE="width: 31%">&nbsp;</TD>
+</TR>
+<TR>
+    <TD STYLE="vertical-align: top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD NOWRAP STYLE="vertical-align: top">Name:
+Susan B. Sheffield<BR>Title:
+Executive Vice President and Chief Financial Officer<BR>
+Dated: March 8,
+2019</TD>
+    <TD>&nbsp;</TD>
+</TR>
+</TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><FONT STYLE="color: Black">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="color: Black"><B>Supplemental information to be
+Furnished With Reports Filed Pursuant to Section 15(d) of the Act by Registrants Which Have Not Registered Securities Pursuant
+to Section 12 of the Act.</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="color: Black">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><FONT STYLE="color: Black">No annual report,
+proxy statement, form of proxy or other proxy soliciting material has been sent to certificateholders, and the registrant does
+not presently contemplate sending any such materials subsequent to the filing of this report.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><FONT STYLE="color: Black">&nbsp;</FONT></P>
+
+<!-- Field: Page; Sequence: 8; Options: Last -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 2pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+
+    <!-- Field: /Page -->
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>

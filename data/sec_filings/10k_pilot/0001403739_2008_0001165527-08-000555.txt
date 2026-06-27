@@ -1,0 +1,1557 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>g2623.txt
+<DESCRIPTION>ANNUAL REPORT FOR THE YEAR ENDED 6-30-08
+<TEXT>
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    FORM 10-K
+
+(Mark One)
+[X] ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+    ACT OF 1934
+
+                     For the fiscal year ended June 30, 2008
+
+[ ] TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+    ACT OF 1934
+
+       For the transition period from _______________ to _________________
+
+                       Commission File Number: 333-145142
+
+                                SIMPLE TECH, INC.
+             (Exact name of registrant as specified in its charter)
+
+              NEVADA                                              98-0514037
+   (State or other jurisdiction                                 (IRS Employer
+         of incorporation)                                   Identification No.)
+
+        c/o INC Management,
+    5348 Vegas Dr., Las Vegas, NV                                  89108
+(Address of principal executive offices)                         (Zip Code)
+
+     Registrant's telephone number, including area code: +972 (50) 455-5138
+
+        Securities registered pursuant to Section 12(b) of the Act: None
+
+           Securities registered pursuant to section 12(g) of the Act:
+                         Common Stock, $0.0001 par value
+
+Indicate by check mark if the registrant is a well-known seasoned issuer, as
+defined in Rule 405 of the Securities Act. Yes [ ] No [X]
+
+Indicate by check mark if the registrant is not required to file reports
+pursuant to Section 13 or Section 15(d) of the Act. Yes [ ] No [X]
+
+Indicate by check mark whether the registrant (1) filed all reports required to
+be filed by Section 13 or 15(d) of the Exchange Act during the preceding 12
+months (or for such shorter period that the registrant was required to file such
+reports), and (2) has been subject to such filing requirements for the past 90
+days. Yes [X] No [ ]
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405
+of Regulation S-K (ss.229.405 of this chapter) is not contained herein, and will
+not be contained, to the best of registrant's knowledge, in definitive proxy or
+information statements incorporated by reference in Part III of this Form 10-K
+or any amendment to this Form 10-K. [ ]
+
+Indicate by check mark whether the registrant is a large accelerated filer, an
+accelerated filer, a non-accelerated filer, or a smaller reporting company. See
+the definitions of "large accelerated filer," "accelerated filer" and "smaller
+reporting company" in Rule 12b-2 of the Exchange Act. (Check one):
+
+Large accelerated filer [ ]                        Accelerated filer [ ]
+Non-accelerated filer [ ]                          Smaller reporting company [X]
+(do not check if a smaller reporting company)
+
+Indicate by check mark whether the registrant is a shell company (as defined in
+Rule 12b-2 of the Exchange Act). Yes [] No [X]
+
+The issuer's revenues for its most recent fiscal year were $-0-
+
+The aggregate market value of the voting and non-voting common equity held by
+non-affiliates could not be computed by reference to the price at which the
+common equity was last sold, or the average bid and asked price of such common
+equity, as of the last business day of the registrant's most recently computed
+second fiscal quarter as there was no average bid or ask price for the
+registrant's common equity, as of the last business day of the registrant's most
+recent second fiscal quarter.
+
+The number of shares of the issuer's common stock issued and outstanding as of
+September 29, 2008 was 6,380,800 shares.
+
+Documents Incorporated By Reference: None
+<PAGE>
+                                TABLE OF CONTENTS
+
+                                                                            Page
+                                                                            ----
+PART I
+
+Item 1     Business                                                            3
+Item 1A    Risk Factors                                                        4
+Item 1B    Unresolved Staff Comments                                           6
+Item 2     Properties                                                          6
+Item 3     Legal Proceedings                                                   6
+Item 4     Submission of Matters to a Vote of Security Holders                 6
+
+PART II
+
+Item 5     Market for Registrant's Common Equity, Related Stockholder
+            Matters and Issuer Purchases of Equity Securities                  7
+Item 6     Selected Financial Data                                             7
+Item 7     Management's Discussion and Analysis of Financial Condition
+           and Results of Operation                                            8
+Item 7A    Quantitative and Qualitative Disclosures About Market Risk          9
+Item 8     Financial Statements and Supplementary Data                        10
+Item 9     Changes in and Disagreements With Accountants on Accounting
+           and Financial Disclosure                                           19
+Item 9A(T) Controls and Procedures                                            19
+Item 9B    Other Information                                                  20
+
+PART III
+
+Item 10    Directors, Executive Officers and Corporate Governance             21
+Item 11    Executive Compensation                                             22
+Item 12    Security Ownership of Certain Beneficial Owners and Management
+           and Related Stockholder Matters                                    23
+Item 13    Certain Relationships and Related Transactions, and Director
+           Independence                                                       24
+Item 14    Principal Accountant Fees and Services                             25
+
+PART IV
+
+Item 15    Exhibits, Financial Statement Schedules                            26
+
+SIGNATURES                                                                    27
+
+                                       2
+<PAGE>
+                                     PART I
+
+ITEM 1. BUSINESS.
+
+As used in this Annual Report on Form 10-K (this "Report"), references to the
+"Company," the "Registrant," "we," "our" or "us" refer to Simple Tech, Inc.,
+unless the context otherwise indicates.
+
+FORWARD-LOOKING STATEMENTS
+
+This Report contains forward-looking statements. For this purpose, any
+statements contained in this Report that are not statements of historical fact
+may be deemed to be forward-looking statements. Forward-looking information
+includes statements relating to future actions, prospective products, future
+performance or results of current or anticipated products, sales and marketing
+efforts, costs and expenses, interest rates, outcome of contingencies, financial
+condition, and results of operations, liquidity, business strategies, cost
+savings, objectives of management, and other matters. You can identify
+forward-looking statements by those that are not historical in nature,
+particularly those that use terminology such as "may," "will," "should,"
+"expects," "anticipates," "contemplates," "estimates," "believes," "plans,"
+"projected," "predicts," "potential," or "continue" or the negative of these
+similar terms. The Private Securities Litigation Reform Act of 1995 provides a
+"safe harbor" for forward-looking information to encourage companies to provide
+prospective information about themselves without fear of litigation so long as
+that information is identified as forward-looking and is accompanied by
+meaningful cautionary statements identifying important factors that could cause
+actual results to differ materially from those projected in the information.
+
+These forward-looking statements are not guarantees of future performance and
+involve risks, uncertainties and assumptions that we cannot predict. In
+evaluating these forward-looking statements, you should consider various
+factors, including the following: (a) those risks and uncertainties related to
+general economic conditions, (b) whether we are able to manage our planned
+growth efficiently and operate profitable operations, (c) whether we are able to
+generate sufficient revenues or obtain financing to sustain and grow our
+operations, (d) whether we are able to successfully fulfill our primary
+requirements for cash, which are explained below under "Liquidity and Capital
+Resources". We assume no obligation to update forward-looking statements, except
+as otherwise required under the applicable federal securities laws.
+
+CORPORATE BACKGROUND
+
+We were incorporated in the State of Nevada on November 16, 2006. We are a
+development stage company that has not generated any revenues since inception.
+
+On August 25, 2008, Mr. Moshe Danino resigned from his positions as President,
+Chief Executive Officer, Treasurer and a director of the Company. Following Mr.
+Danino's resignation, on August 25, 2008, Mr. Aviad Krief, the Company's current
+Secretary and Director, was appointed to serve as the President and Treasurer.
+Mr. Krief will continue to serve as the Company's Secretary and Director as
+well.
+
+OUR BUSINESS PLAN
+
+We focus on the provision of basic computer maintenance and troubleshooting
+assistance. We are currently developing a website that will allow customers to
+contact an operator who will assist them with their basic computer maintenance
+and troubleshooting needs. The operator is an independent computer technician.
+Our goal is to bring together customers that need computer assistance and
+independent computer technicians who will provide the desired assistance.
+
+When a customer log onto our website and establishes contact with one of our
+operators, a base charge of $14.99 plus $1.00 per minute will be billed to the
+credit card on the customer's account. We intend to retain 25% of all monies
+collected and the balance will be paid to the individual independent computer
+technician on the 15th day of the month following provision of the services. In
+addition we intend to charge the independent computer technician a one-time
+setup fee of $499 for using our website platform.
+
+                                       3
+<PAGE>
+FACILITIES
+
+We currently maintain our corporate offices c/o INC Management, 5348 Vegas Dr.,
+Las Vegas, NV 89108. This is a shared office facility, which offers office space
+and secretarial and administrative services for $45 monthly. We may cancel upon
+30 days written notice. This location will serve as our primary executive
+offices for the foreseeable future. Mr. Krief also works from his residence in
+Israel at no charge to our company.
+
+EMPLOYEES
+
+As of September 23, 2008, the Company has no employees.
+
+ITEM 1A. RISK FACTORS.
+
+An investment in our common stock involves a high degree of risk. You should
+carefully consider the following factors and other information in this Report
+before deciding to invest in our company. If any of the following risks actually
+occur, our business, financial condition, results of operations and prospects
+for growth would likely suffer. As a result, you could lose all or part of your
+investment.
+
+                      RISK FACTORS RELATING TO OUR COMPANY
+
+1. WE EXPECT OUR LOSSES TO CONTINUE IN THE FUTURE. UNLESS WE ARE ABLE TO
+GENERATE REVENUE AND MAKE A PROFIT, OUR STOCKHOLDERS MAY LOSE THEIR ENTIRE
+INVESTMENT IN US.
+
+As we have never had any revenue, we are expecting losses over the next 12
+months. We cannot guarantee that we will ever be successful in generating
+revenues in the future. We recognize that if we are unable to generate revenues,
+we will not be able to earn profits or operate a business and as a result our
+stockholders may lose their entire investment in us.
+
+There is no history upon which to base any assumption as to the likelihood that
+we will prove successful, and we can provide investors with no assurance that we
+will generate any operating revenues or ever achieve profitable operations.
+
+2. WE MAY NOT BE ABLE TO CONTINUE OPERATIONS AS A GOING CONCERN AND OUR
+STOCKHOLDERS MAY LOSE THEIR ENTIRE INVESTMENT IN US.
+
+As discussed in the Notes to Financial Statements included in this Report, at
+June 30, 2008, we had a stockholder's equity of approximately $18,390. In
+addition, we had a net loss of approximately $51,150 for the period of November
+16, 2006 (inception) to June 30, 2008.
+
+Our financial condition raises substantial doubt that we will be able to
+continue operations as a going concern, and our independent auditors included an
+explanatory paragraph regarding this uncertainty in their report on our
+financial statements for the period November 16, 2006 (inception) to June 30,
+2008. Our ability to continue as a going concern is dependent upon our
+generating cash flow sufficient to fund operations and reduce operating
+expenses. Our business plans may not be successful in addressing these issues.
+If we cannot continue as a going concern, our stockholders may lose their entire
+investment in us.
+
+                       RISKS RELATING TO OUR COMMON SHARES
+
+3. WE MAY, IN THE FUTURE, ISSUE ADDITIONAL COMMON SHARES, WHICH WOULD REDUCE
+INVESTORS' PERCENT OF OWNERSHIP AND MAY DILUTE OUR SHARE
+
+Our Articles of Incorporation, as amended, authorize the issuance of 100,000,000
+shares of common stock and 50,000,000 shares of preferred stock. As of September
+23, 2008, we had 6,380,800 shares of common stock issued and outstanding. The
+future issuance of common stock may result in substantial dilution in the
+percentage of our common stock held by our then existing shareholders which may
+have an adverse effect on any trading market for our common stock and the value
+of your investment.
+
+                                       4
+<PAGE>
+4. OUR COMMON SHARES ARE SUBJECT TO THE "PENNY STOCK" RULES OF THE SEC AND THE
+TRADING MARKET IN OUR SECURITIES IS LIMITED, WHICH MAY BE DETRIMENTAL TO OUR
+INVESTORS AND THEREFORE YOU MAY FIND IT MORE DIFFICULT TO SELL YOUR SECURITY.
+
+The Securities and Exchange Commission has adopted Rule 15g-9 which establishes
+the definition of a "penny stock," for the purposes relevant to us, as any
+equity security that has a market price of less than $5.00 per share or with an
+exercise price of less than $5.00 per share, subject to certain exceptions. For
+any transaction involving a penny stock, unless exempt, the rules require:
+
+     *    that a broker or dealer approve a person's account for transactions in
+          penny stocks; and
+     *    the broker or dealer receive from the investor a written agreement to
+          the transaction, setting forth the identity and quantity of the penny
+          stock to be purchased.
+
+In order to approve a person's account for transactions in penny stocks, the
+broker or dealer must:
+
+     *    obtain financial information and investment experience objectives of
+          the person; and
+     *    make a reasonable determination that the transactions in penny stocks
+          are suitable for that person and the person has sufficient knowledge
+          and experience in financial matters to be capable of evaluating the
+          risks of transactions in penny stocks.
+
+The broker or dealer must also deliver, prior to any transaction in a penny
+stock, a disclosure schedule prescribed by the Commission relating to the penny
+stock market, which, in highlight form:
+
+     *    sets forth the basis on which the broker or dealer made the
+          suitability determination; and
+     *    that the broker or dealer received a signed, written agreement from
+          the investor prior to the transaction.
+
+Disclosure also has to be made about the risks of investing in penny stocks in
+both public offerings and in secondary trading and about the commissions payable
+to both the broker-dealer and the registered representative, current quotations
+for the securities and the rights and remedies available to an investor in cases
+of fraud in penny stock transactions. Finally, monthly statements have to be
+sent disclosing recent price information for the penny stock held in the account
+and information on the limited market in penny stocks.
+
+Our investors may have remedies in cases where our securities are sold in a
+fraudulent manner. Such remedies may include the right to require us to return
+funds to our investors. Furthermore, a fraud may subject us to additional
+liabilities under federal and state securities laws for noncompliance with
+disclosure requirements. Because of the rights and remedies available to an
+investor in such event, our business may be irreparably harmed and we may not be
+able to continue operations.
+
+5. THERE IS CURRENTLY NO ACTIVE TRADING MARKET FOR OUR SECURITIES AND IF A
+TRADING MARKET DOES NOT DEVELOP, HOLDERS OF OUR SECURITIES MAY HAVE DIFFICULTY
+SELLING THEIR SHARES.
+
+Our common stock has been eligible to be traded on the Over-The-Counter Bulletin
+Board since October 29, 2007 under the ticker symbol SMTE. There has been no
+active trading in the Company's securities and an active trading market in our
+securities may not develop or, if developed, may not be sustained. If for any
+reason our common stock is delisted from the Over the Counter Bulletin Board, or
+an active public trading market does not otherwise develop, our shareholders may
+have difficulty selling their common stock should they desire to do so.
+
+6. BECAUSE WE DO NOT INTEND TO PAY ANY CASH DIVIDENDS ON OUR COMMON STOCK, OUR
+STOCKHOLDERS WILL NOT BE ABLE TO RECEIVE A RETURN ON THEIR SHARES UNLESS THE
+VALUE OF THE SHARES APPRECIATES AND THEY CAN SELL AT SUCH TIME.
+
+We intend to retain any future earnings to finance the development and expansion
+of our business. We do not anticipate paying any cash dividends on our common
+stock in the foreseeable future. Unless we pay dividends, our stockholders will
+not be able to receive a return on their shares unless the value of the shares
+appreciates. There is no assurance that value of the shares will appreciate and
+a shareholder will be able to sell.
+
+                                       5
+<PAGE>
+ITEM 1B. UNRESOLVED STAFF COMMENTS.
+
+None.
+
+ITEM 2. PROPERTIES.
+
+We currently maintain our corporate offices c/o INC Management, 5348 Vegas Dr.,
+Las Vegas, NV 89108.
+
+ITEM 3. LEGAL PROCEEDINGS.
+
+There are no pending legal proceedings to which the Company is a party or in
+which any director, officer or affiliate of the Company, any owner of record or
+beneficially of more than 5% of any class of voting securities of the Company,
+or security holder is a party adverse to the Company or has a material interest
+adverse to the Company. The Company's property is not the subject of any pending
+legal proceedings.
+
+ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS.
+
+During the period ending June 30, 2008, there has not been any matter which was
+submitted to a vote of the Company's shareholders through the solicitation of
+proxies or otherwise.
+
+                                       6
+<PAGE>
+                                     PART II
+
+ITEM 5. MARKET FOR REGISTRANT'S COMMON EQUITY AND RELATED STOCKHOLDER MATTERS
+        AND SMALL BUSINESS ISSUER PURCHASES OF EQUITY SECURITIES.
+
+MARKET INFORMATION
+
+Our common stock has been eligible to be traded on the Over-The-Counter Bulletin
+Board since October 29, 2007 under the ticker symbol SMTE. There has been no
+active trading in the Company's securities and there have been no high or low
+bid prices quoted.
+
+HOLDERS
+
+As of September 23, 2008, there were 6,380,800 common shares issued and
+outstanding, which were held by 37 stockholders of record.
+
+DIVIDENDS
+
+We have never declared or paid any cash dividends on our common stock nor do we
+anticipate paying any in the foreseeable future. Furthermore, we expect to
+retain any future earnings to finance our operations and expansion. The payment
+of cash dividends in the future will be at the discretion of our Board of
+Directors and will depend upon our earnings levels, capital requirements, any
+restrictive loan covenants and other factors the Board considers relevant.
+
+SECURITIES AUTHORIZED FOR ISSUANCE UNDER EQUITY COMPENSATION PLANS
+
+We do not have any equity compensation plans.
+
+RECENT SALES OF UNREGISTERED SECURITIES; USE OF PROCEEDS FROM REGISTERED
+SECURITIES
+
+On November 16, 2006 we issued 5,000,000 shares of our common stock to two (2)
+executive officers of our company, at an offering price of $0.0001 per share for
+gross offering proceeds of $500 in an offshore transaction pursuant to an
+exemption from registration under Rule 903 of Regulation S of the Securities Act
+of 1933. The Executive Officers are not U.S. persons as that term is defined in
+Regulation S. No directed selling efforts were made in the United States by
+Simple Tech Inc., any distributor, any of their respective affiliates or any
+person acting on behalf of any of the foregoing. The shares have not been
+registered under the Securities Act of 1933 and may not be offered or sold in
+the United States or to US persons unless the shares are registered under the
+Securities Act of 1933, or an exemption from the registration requirements of
+the Securities Act of 1933 is available.
+
+On June 28, 2007 we issued 1,380,800 shares of our common stock to thirty-five
+(35) subscribers at an offering price of $0.05 per share for gross offering
+proceeds of $69,040 in an offshore transaction pursuant to Rule 903 of
+Regulation S of the Securities Act of 1933. No directed selling efforts were
+made in the United States by Simple Tech Inc., any distributor, any of their
+respective affiliates or any person acting on behalf of any of the foregoing. In
+issuing these securities, we relied on the exemption from the registration
+requirements of the Securities Act of 1933 provided by Regulation S, promulgated
+thereunder. In August 2006, the Company filed a Registration Statement on Form
+SB-2 to register for resale the shares purchased in this offering. The
+Registration Statement was declared effective by the Securities and Exchange
+Commission on August 22, 2007. The Company did not realize any proceeds from the
+resale of the shares by the selling shareholders.
+
+PURCHASES OF EQUITY SECURITIES BY THE ISSUER AND AFFILIATED PURCHASERS
+
+We have not repurchased any shares of our common stock during the fiscal year
+ended June 30, 2008.
+
+ITEM 6. SELECTED FINANCIAL DATA.
+
+Not applicable.
+
+                                       7
+<PAGE>
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+        OF OPERATION.
+
+Certain statements contained in this Report, including statements regarding the
+anticipated development and expansion of our business, our intent, belief or
+current expectations, primarily with respect to the future operating performance
+of Simple Tech, Inc. And the services we expect to offer and other statements
+contained herein regarding matters that are not historical facts, are
+"forward-looking" statements. Future filings with the Securities and Exchange
+Commission, future press releases and future oral or written statements made by
+us or with our approval, which are not statements of historical fact, may
+contain forward-looking statements, because such statements include risks and
+uncertainties, actual results may differ materially from those expressed or
+implied by such forward-looking statements.
+
+All forward-looking statements speak only as of the date on which they are made.
+We undertake no obligation to update such statements to reflect events that
+occur or circumstances that exist after the date on which they are made.
+
+PLAN OF OPERATION
+
+The following discussion of the plan of operation, financial condition, results
+of operations, cash flows and changes in our financial position should be read
+in conjunction with our most recent financial statements and notes appearing
+elsewhere in this Form 10-K; and our SB-2 filed on August 6, 2007.
+
+Over the next twelve months, we intend to focus on developing our proposed
+website and initiating our efforts to market our website to independent computer
+technicians who would be interested in offering their services to end-users. We
+expect to complete the development of our website by the third fiscal quarter of
+2009. We anticipate that the completion cost of our website development will
+approach $30,000 this will be mostly for the development and implementation of
+the billing and quality assurance modules in our website software. We anticipate
+that our website will be fully operational by the third fiscal quarter of 2009.
+We anticipate achieving revenue by the fourth fiscal quarter of 2009.
+
+Our business objectives are:
+
+     -    To be a leading provider of online computer maintenance and
+          troubleshooting assistance.
+     -    To execute our marketing plan.
+
+Our goals over the next 12 months are:
+
+     -    To attract and retain 10 independent computer technicians
+     -    To drive traffic to our website and achieve 100 visitors per day.
+     -    To achieve revenue by the fourth quarter of 2009.
+
+RESULTS OF OPERATIONS
+
+For the year ended June 30, 2008, we posted losses of $45,111 compared to $6,039
+for the period ended June 30, 2007. The principal components of the losses for
+the year ended June 30, 2008 were professional fees of $34,435, consulting fees
+of $10,000 and general and administrative expenses of $484.
+
+At June 30, 2008, our net cash balance is approximately $20,390. Cash on hand is
+currently our only source of liquidity. We do not have any lending arrangements
+in place with banking or financial institutions and we do not anticipate that we
+will be able to secure these funding arrangements in the near future.
+
+Since inception, we have sold 6,380,800 shares of common stock to our
+stockholders.
+
+                                       8
+<PAGE>
+LIQUIDITY AND CAPITAL RESOURCES
+
+At June 30, 2008 we had a working capital of $18,390 compared to $63,501 at June
+30, 2007.
+
+How long we will be able to satisfy our cash requirements depends on how quickly
+our company can generate revenue and how much revenue can be generated. Although
+there can be no assurance at present, we plan to be in a position to generate
+revenues by the fourth quarter of 2009. We must generate at least $30,000 in net
+revenues in order to fund all expenditures under our 12-month plan of operation.
+Net revenue is defined as gross revenue net of any direct costs that were
+necessary to produce the revenue, such as subcontractors, travel and other
+direct costs attributable to the project that we have to pay for.
+
+If we fail to generate sufficient net revenues, we will need to raise additional
+capital to continue our operations thereafter. We cannot guarantee that
+additional funding will be available on favourable terms, if at all. Any further
+shortfall will affect our ability to expand or even continue our operations. We
+cannot guarantee that additional funding will be available on favourable terms,
+if at all.
+
+GOING CONCERN CONSIDERATION
+
+Our independent auditors included an explanatory paragraph in their report on
+the accompanying financial statements regarding concerns about our ability to
+continue as a going concern. Our financial statements contain additional note
+disclosures describing the circumstances that lead to this disclosure by our
+independent auditors.
+
+OFF-BALANCE SHEET ARRANGEMENTS
+
+We have no off-balance sheet arrangements.
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK.
+
+Not applicable.
+
+                                       9
+<PAGE>
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA.
+
+MOORE & ASSOCIATES, CHARTERED
+  ACCOUNTANTS AND ADVISORS
+      PCAOB REGISTERED
+
+
+            REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+To the Board of Directors
+Simple Tech, Inc.
+(A Development Stage Company)
+
+We have audited the accompanying balance sheets of Simple Tech, Inc. (A
+Development Stage Company) as of June 30, 2008 and June 30, 2007, and the
+related statements of operations, stockholders' equity and cash flows for the
+years ended June 30, 2008, from inception November 16, 2006 through June 30,
+2007 and since inception on November 16, 2006 through June 30, 2008. These
+financial statements are the responsibility of the Company's management. Our
+responsibility is to express an opinion on these financial statements based on
+our audits.
+
+We conduct our audits in accordance with standards of the Public Company
+Accounting Oversight Board (United States). Those standards require that we plan
+and perform the audits to obtain reasonable assurance about whether the
+financial statements are free of material misstatement. An audit includes
+examining, on a test basis, evidence supporting the amounts and disclosures in
+the financial statements. An audit also includes assessing the accounting
+principles used and significant estimates made by management, as well as
+evaluating the overall financial statement presentation. We believe that our
+audits provide a reasonable basis for our opinion.
+
+In our opinion, the financial statements referred to above present fairly, in
+all material respects, the financial position of Simple Tech, Inc. (A
+Development Stage Company) as of June 30, 2008 and June 30, 2007, and the
+related statements of operations, stockholders' equity and cash flows for the
+years ended June 30, 2008, from inception November 16, 2006 through June 30,
+2007 and since inception on November 16, 2006 through June 30, 2008, in
+conformity with accounting principles generally accepted in the United States of
+America.
+
+The accompanying financial statements have been prepared assuming that the
+Company will continue as a going concern. As discussed in Note 6 to the
+financial statements, the Company has had net losses of $51,150 since inception,
+which raises substantial doubt about its ability to continue as a going concern.
+Management's plans concerning these matters are also described in Note 6. The
+financial statements do not include any adjustments that might result from the
+outcome of this uncertainty.
+
+
+/s/ Moore & Associates, Chartered
+---------------------------------------
+Moore & Associates, Chartered
+Las Vegas, Nevada
+September 25, 2008
+
+
+               2675 S. Jones Blvd. Suite 109, Las Vegas, NV 89146
+                        (702) 253-7499 Fax (702) 253-7501
+
+                                       10
+<PAGE>
+                                SIMPLE TECH, INC.
+                          (A Development Stage Company)
+                   BALANCE SHEETS AS OF JUNE 30, 2008 and 2007
+
+<TABLE>
+<CAPTION>
+                                                                               2008               2007
+                                                                             --------           --------
+<S>                                                                          <C>                <C>
+ASSETS
+
+Current assets:
+  Cash and cash equivalents                                                  $ 20,390           $ 63,501
+                                                                             --------           --------
+
+      Total current assets                                                     20,390             63,501
+                                                                             --------           --------
+
+Total assets                                                                 $ 20,390           $ 63,501
+                                                                             ========           ========
+
+LIABILITIES AND STOCKHOLDERS' EQUITY
+
+Current liabilities:
+  Accounts payable and accrued expenses                                      $  2,000           $     --
+                                                                             --------           --------
+
+      Total current assets                                                      2,000                 --
+                                                                             --------           --------
+Stockholders' equity:
+  Preferred stock, $0.0001 par value; 50,000,000 shares authorized,
+   none issued and outstanding                                                     --                 --
+  Common stock, $0.0001 par value; 150,000,000 shares authorized,
+   6,380,800 issued and outstanding                                               638                638
+  Additional paid-in capital                                                   68,902             68,902
+  Deficit accumulated during the development stage                            (51,150)            (6,039)
+                                                                             --------           --------
+
+      Total stockholders' equity                                               18,390             63,501
+                                                                             --------           --------
+
+Total liabilities and stockholders' equity                                   $ 20,390           $ 63,501
+                                                                             ========           ========
+</TABLE>
+
+   The accompanying notes are an integral part of these financial statements.
+
+                                       11
+<PAGE>
+                                SIMPLE TECH, INC.
+                          (A Development Stage Company)
+       STATEMENTS OF OPERATIONS FOR THE YEARS ENDED JUNE 30, 2008 AND 2007
+ AND THE CUMMULATIVE PERIOD FROM INCEPTION (NOVEMBER 16, 2006) TO JUNE 30, 2008
+
+<TABLE>
+<CAPTION>
+                                                                  Period From              Period From
+                                                                   Inception                Inception
+                                                               (November 16, 2006)     (November 16, 2006)
+                                                                       to                      to
+                                            June 30,                June 30,                June 30,
+                                              2008                    2007                    2008
+                                           ----------              ----------              ----------
+<S>                                        <C>                     <C>                     <C>
+NET REVENUE                                $       --              $       --              $       --
+                                           ----------              ----------              ----------
+OPERATING EXPENSES
+  General & Administrative                        484                     862                   1,346
+  Professional fees                            34,435                   3,052                  37,487
+  Consultants                                  10,000                   1,000                  11,000
+  Filing fees                                     891                     243                   1,134
+                                           ----------              ----------              ----------
+
+Net loss from operations                      (45,810)                 (5,157)                (50,967)
+
+OTHER INCOME
+  Interest income                                 699                     340                   1,039
+  Foreign exchange difference                      --                  (1,222)                 (1,222)
+  Provision for Income Taxes                       --                      --                      --
+                                           ----------              ----------              ----------
+
+Net loss                                   $  (45,111)             $   (6,039)             $  (51,150)
+                                           ==========              ==========              ==========
+
+Basic and diluted net loss per share       $    (0.00)             $    (0.00)
+                                           ==========              ==========
+Basic & diluted weighted average
+ number of shares outstanding               6,380,800               5,007,566
+                                           ==========              ==========
+</TABLE>
+
+
+   The accompanying notes are an integral part of these financial statements.
+
+                                       12
+<PAGE>
+                                SIMPLE TECH, INC.
+                          (A Development Stage Company)
+         STATEMENT OF STOCKHOLDERS' EQUITY FOR THE PERIOD FROM INCEPTION
+                                TO JUNE 30, 2008
+
+<TABLE>
+<CAPTION>
+                                                                                          Deficit
+                                                                                        Accumulated
+                                                        Common Stock      Additional    During the          Total
+                                                  -------------------      Paid in      Development     Stockholders'
+                                                  Shares       Amount      Capital         Stage           Equity
+                                                  ------       ------      -------         -----           ------
+<S>                                               <C>        <C>            <C>              <C>          <C>
+Inception, November 16, 2006                           --      $   --     $     --       $      --        $     --
+
+Common shares issued to founders for
+ $0.0001 per share                              5,000,000         500           --              --             500
+
+Private placement on June 28, 2007 for
+ $0.05 per share                                1,380,800         138       68,902              --          69,040
+
+Net loss for the period                                --          --           --          (6,039)         (6,039)
+                                                ---------      ------     --------       ---------        --------
+
+Balance, June 30, 2007                          6,380,800         638       69,802          (6,039)         63,001
+
+Net loss for the year                                  --          --           --         (45,111)        (45,111)
+                                                ---------      ------     --------       ---------        --------
+
+Balance, June 30, 2008                          6,380,800      $  638     $ 68,902       $ (51,150)       $ 18,390
+                                                =========      ======     ========       =========        ========
+</TABLE>
+
+
+   The accompanying notes are an integral part of these financial statements.
+
+<PAGE>
+                                SIMPLE TECH, INC.
+                          (A Development Stage Company)
+         STATEMENT OF CASH FLOWS FOR YEARS ENDED JUNE 30, 2008 AND 2007
+     AND FOR THE PERIOD SINCE INCEPTION (NOVEMBER 16, 2006) TO JUNE 30, 2008
+
+<TABLE>
+<CAPTION>
+                                                                                                   Period From
+                                                                                                    Inception
+                                                                                                (November 16, 2006)
+                                                                                                        to
+                                                               June 30,           June 30,           June 30,
+                                                                 2008               2007               2008
+                                                               --------           --------           --------
+<S>                                                            <C>                <C>                <C>
+OPERATING ACTIVITIES
+  Net loss                                                     $(45,111)          $ (6,039)          $(51,150)
+  Adjustments to Reconcile Net Loss to Net Cash
+   Used in Operating Activities
+     Increase in accounts payable                                 2,000                 --              2,000
+                                                               --------           --------           --------
+
+Net cash used in operating activities                           (43,111)            (6,039)           (49,150)
+                                                               --------           --------           --------
+FINANCING ACTIVITY
+  Proceeds from issuance of common stock                             --             69,540             69,540
+                                                               --------           --------           --------
+
+Cash Provided by Financing Activities                                --             69,540             69,540
+
+Change in cash and cash equivalents during the period           (43,111)            63,501             20,390
+
+Cash and cash equivalents, beginning of the period               63,501                 --                 --
+                                                               --------           --------           --------
+
+Cash and cash equivalents, end of the period                   $ 20,390           $ 63,501           $ 20,390
+                                                               ========           ========           ========
+
+Supplemental disclosure with respect to cash flows:
+  Cash paid for income taxes                                   $     --           $     --           $     --
+  Cash paid for interest                                       $     --           $     --           $     --
+</TABLE>
+
+
+   The accompanying notes are an integral part of these financial statements.
+
+                                       13
+<PAGE>
+                                SIMPLE TECH, INC.
+                          (A Development Stage Company)
+                          NOTES TO FINANCIAL STATEMENTS
+                                  June 30, 2008
+
+NOTE 1. GENERAL ORGANIZATION AND BUSINESS
+
+The Company was originally incorporated under the laws of the state of Nevada on
+November 16, 2006. The Company has limited operations and, in accordance with
+SFAS#7, is considered in the development stage.
+
+NOTE 2. SUMMARY OF SIGNIFICANT ACCOUNTING PRACTICES
+
+USE OF ESTIMATES
+
+The preparation of financial statements in conformity with generally accepted
+accounting principles requires management to make estimates and assumptions that
+affect the reported amounts of assets and liabilities and the disclosure of
+contingent assets and liabilities at the date of the financial statements and
+the reported amounts of revenues and expenses during the reporting period.
+Actual results could differ from those estimates. Estimates and assumptions are
+reviewed periodically and the effects of revisions are reflected in the
+financial statements in the period they are determined.
+
+CASH AND CASH EQUIVALENTS
+
+Cash and cash equivalents include cash in hand and cash in time deposits,
+certificates of deposit and all highly liquid debt instruments with original
+maturities of three months or less.
+
+FAIR VALUE OF FINANCIAL INSTRUMENTS
+
+Statement of financial accounting standard No. 107, Disclosures about fair value
+of financial instruments, requires that the Company disclose estimated fair
+values of financial instruments. The carrying amounts reported in the statements
+of financial position for current assets and current liabilities qualifying as
+financial instruments are a reasonable estimate of fair value.
+
+STOCK-BASED COMPENSATION
+
+We have issued restricted shares of common stock and stock options to compensate
+non-employees who were principally key personnel. Effective January 1, 2006, we
+adopted the fair value recognition provisions of SFAS 123R, Share-Based Payments
+("SFAS No. 123(R)"), which is a revision of SFAS No. 123 which requires that
+stock awards granted to directors, consultants and other non-employees be
+recorded at the fair value of the award at grant date .
+
+INCOME TAXES
+
+The Company utilizes SFAS No. 109, "Accounting for Income Taxes," which requires
+the recognition of deferred tax assets and liabilities for the expected future
+tax consequences of events that have been included in the financial statements
+or tax returns. Under this method, deferred income taxes are recognized for the
+tax consequences in future years of differences between the tax bases of assets
+and liabilities and their financial reporting amounts at each period end based
+on enacted tax laws and statutory tax rates applicable to the periods in which
+the differences are expected to affect taxable income. Valuation allowances are
+established, when necessary, to reduce deferred tax assets to the amount
+expected to be realized.
+
+                                       14
+<PAGE>
+                                SIMPLE TECH, INC.
+                          (A Development Stage Company)
+                          NOTES TO FINANCIAL STATEMENTS
+                                  June 30, 2008
+
+NOTE 2. SUMMARY OF SIGNIFICANT ACCOUNTING PRACTICES (CONTINUED)
+
+BASIC AND DILUTED EARNINGS (LOSS) PER SHARE
+
+Earnings (loss) per share is calculated in accordance with the Statement of
+financial accounting standards No. 128 (SFAS No. 128), "Earnings per share".
+SFAS No. 128 superseded Accounting Principles Board Opinion No.15 (APB 15). Net
+income (loss) per share for all periods presented has been restated to reflect
+the adoption of SFAS No. 128. Basic net loss per share is based upon the
+weighted average number of common shares outstanding.
+
+STATEMENT OF CASH FLOWS
+
+In accordance with SFAS No. 95, "Statement of Cash Flows," cash flows from the
+Company's operations is based upon the local currencies. As a result, amounts
+related to assets and liabilities reported on the statement of cash flows will
+not necessarily agree with changes in the corresponding balances on the balance
+sheet.
+
+RECENTLY ISSUED ACCOUNTING PRONOUNCEMENTS
+
+In May 2008, the Financial Accounting Standards Board ("FASB") issued SFAS No.
+163, "Accounting for Financial Guarantee Insurance Contracts-and interpretation
+of FASB Statement No. 60". SFAS No. 163 clarifies how Statement 60 applies to
+financial guarantee insurance contracts, including the recognition and
+measurement of premium revenue and claims liabilities. This statement also
+requires expanded disclosures about financial guarantee insurance contracts.
+SFAS No. 163 is effective for fiscal years beginning on or after December 15,
+2008, and interim periods within those years. SFAS No. 163 has no effect on the
+Company's financial position, statements of operations, or cash flows at this
+time.
+
+In May 2008, the Financial Accounting Standards Board ("FASB") issued SFAS No.
+162, "The Hierarchy of Generally Accepted Accounting Principles". SFAS No. 162
+sets forth the level of authority to a given accounting pronouncement or
+document by category. Where there might be conflicting guidance between two
+categories, the more authoritative category will prevail. SFAS No. 162 will
+become effective 60 days after the SEC approves the PCAOB's amendments to AU
+Section 411 of the AICPA Professional Standards. SFAS No. 162 has no effect on
+the Company's financial position, statements of operations, or cash flows at
+this time.
+
+In March 2008, the Financial Accounting Standards Board, or FASB, issued SFAS
+No. 161, Disclosures about Derivative Instruments and Hedging Activities--an
+amendment of FASB Statement No. 133. This standard requires companies to provide
+enhanced disclosures about (a) how and why an entity uses derivative
+instruments, (b) how derivative instruments and related hedged items are
+accounted for under Statement 133 and its related interpretations, and (c) how
+derivative instruments and related hedged items affect an entity's financial
+position, financial performance, and cash flows. This Statement is effective for
+financial statements issued for fiscal years and interim periods beginning after
+November 15, 2008, with early application encouraged. The Company has not yet
+adopted the provisions of SFAS No. 161, but does not expect it to have a
+material impact on its consolidated financial position, results of operations or
+cash flows.
+
+In December 2007, the SEC issued Staff Accounting Bulletin (SAB) No. 110
+regarding the use of a "simplified" method, as discussed in SAB No. 107 (SAB
+107), in developing an estimate of expected term of "plain vanilla" share
+options in accordance with SFAS No. 123 (R), Share-Based Payment. In particular,
+the staff indicated in SAB 107 that it will accept a company's election to use
+the simplified method, regardless of whether the company has sufficient
+information to make more refined estimates of expected term. At the time SAB 107
+was issued, the staff believed that more detailed external information about
+employee exercise behavior (e.g., employee exercise patterns by industry and/or
+other categories of companies) would, over time, become readily available to
+companies. Therefore, the staff stated in SAB 107 that it would not expect a
+company to use the simplified method for share option grants after December 31,
+2007. The staff understands that such detailed information about employee
+exercise behavior may not be widely available by December 31, 2007. Accordingly,
+the staff will continue to accept, under certain circumstances, the use of the
+
+                                       15
+<PAGE>
+                                SIMPLE TECH, INC.
+                          (A Development Stage Company)
+                          NOTES TO FINANCIAL STATEMENTS
+                                  June 30, 2008
+
+NOTE  2. SUMMARY OF SIGNIFICANT ACCOUNTING PRACTICES (CONTINUED)
+
+RECENTLY ISSUED ACCOUNTING PRONOUNCEMENTS (CONTINUED)
+
+simplified method beyond December 31, 2007. The Company currently uses the
+simplified method for "plain vanilla" share options and warrants, and will
+assess the impact of SAB 110 for fiscal year 2009. It is not believed that this
+will have an impact on the Company's consolidated financial position, results of
+operations or cash flows.
+
+In December 2007, the FASB issued SFAS No. 160, Noncontrolling Interests in
+Consolidated Financial Statements--an amendment of ARB No. 51. This statement
+amends ARB 51 to establish accounting and reporting standards for the
+noncontrolling interest in a subsidiary and for the deconsolidation of a
+subsidiary. It clarifies that a noncontrolling interest in a subsidiary is an
+ownership interest in the consolidated entity that should be reported as equity
+in the consolidated financial statements. Before this statement was issued,
+limited guidance existed for reporting noncontrolling interests. As a result,
+considerable diversity in practice existed. So-called minority interests were
+reported in the consolidated statement of financial position as liabilities or
+in the mezzanine section between liabilities and equity. This statement improves
+comparability by eliminating that diversity. This statement is effective for
+fiscal years, and interim periods within those fiscal years, beginning on or
+after December 15, 2008 (that is, January 1, 2009, for entities with calendar
+year-ends). Earlier adoption is prohibited. The effective date of this statement
+is the same as that of the related Statement 141 (revised 2007). The Company
+will adopt this Statement beginning March 1, 2009. It is not believed that this
+will have an impact on the Company's consolidated financial position, results of
+operations or cash flows.
+
+In December 2007, the FASB, issued FAS No. 141 (revised 2007), Business
+Combinations.'This Statement replaces FASB Statement No. 141, Business
+Combinations, but retains the fundamental requirements in Statement 141. This
+Statement establishes principles and requirements for how the acquirer: (a)
+recognizes and measures in its financial statements the identifiable assets
+acquired, the liabilities assumed, and any noncontrolling interest in the
+acquiree; (b) recognizes and measures the goodwill acquired in the business
+combination or a gain from a bargain purchase; and (c) determines what
+information to disclose to enable users of the financial statements to evaluate
+the nature and financial effects of the business combination. This statement
+applies prospectively to business combinations for which the acquisition date is
+on or after the beginning of the first annual reporting period beginning on or
+after December 15, 2008. An entity may not apply it before that date. The
+effective date of this statement is the same as that of the related FASB
+Statement No. 160, Noncontrolling Interests in Consolidated Financial
+Statements. The Company will adopt this statement beginning March 1, 2009. It is
+not believed that this will have an impact on the Company's consolidated
+financial position, results of operations or cash flows.
+
+In February 2007, the FASB, issued SFAS No. 159, The Fair Value Option for
+Financial Assets and Liabilities--Including an Amendment of FASB Statement No.
+115. This standard permits an entity to choose to measure many financial
+instruments and certain other items at fair value. This option is available to
+all entities. Most of the provisions in FAS 159 are elective; however, an
+amendment to FAS 115 Accounting for Certain Investments in Debt and Equity
+Securities applies to all entities with available for sale or trading
+securities. Some requirements apply differently to entities that do not report
+net income. SFAS No. 159 is effective as of the beginning of an entities first
+fiscal year that begins after November 15, 2007. Early adoption is permitted as
+of the beginning of the previous fiscal year provided that the entity makes that
+choice in the first 120 days of that fiscal year and also elects to apply the
+provisions of SFAS No. 157 Fair Value Measurements. The Company will adopt SFAS
+No. 159 beginning March 1, 2008 and is currently evaluating the potential impact
+the adoption of this pronouncement will have on its consolidated financial
+statements.
+
+In September 2006, the FASB issued SFAS No. 157, Fair Value Measurements This
+statement defines fair value, establishes a framework for measuring fair value
+in generally accepted accounting principles (GAAP), and expands disclosures
+about fair value measurements. This statement applies under other accounting
+pronouncements that require or permit fair value measurements, the Board having
+previously concluded in those accounting pronouncements that fair value is the
+relevant measurement attribute. Accordingly, this statement does not require any
+new fair value measurements. However, for some entities, the application of this
+statement will change current practice. This statement is effective for
+financial statements issued for fiscal years beginning after November 15, 2007,
+
+                                       16
+<PAGE>
+                                SIMPLE TECH, INC.
+                          (A Development Stage Company)
+                          NOTES TO FINANCIAL STATEMENTS
+                                  June 30, 2008
+
+NOTE 2. SUMMARY OF SIGNIFICANT ACCOUNTING PRACTICES (CONTINUED)
+
+RECENTLY ISSUED ACCOUNTING PRONOUNCEMENTS (CONTINUED)
+
+and interim periods within those fiscal years. Earlier application is
+encouraged, provided that the reporting entity has not yet issued financial
+statements for that fiscal year, including financial statements for an interim
+period within that fiscal year. The Company will adopt this statement March 1,
+2008, and it is not believed that this will have an impact on the Company's
+consolidated financial position, results of operations or cash flows.
+
+NOTE 3. INCOME TAXES
+
+Income taxes are provided in accordance with Statement of Financial accounting
+Standards No. 109 (SFAS 109), Accounting for Income Taxes. A deferred tax asset
+or liability is recorded for all temporary differences between financial and tax
+reporting and net operating loss carry forwards. Deferred tax expense (benefit)
+results from the net change during the year of deferred tax assets and
+liabilities.
+
+Deferred tax assets are reduced by a valuation allowance when, in the opinion of
+management, it is more likely than not that some portion of all of the deferred
+tax assets will be realized. Deferred tax assets and liabilities are adjusted
+for the effects of changes in tax laws and rates on the date of enactment.
+
+NOTE 4. STOCHOLDERS' EQUITY
+
+AUTHORIZED
+
+The Company is authorized to issue 150,000,000 shares of $0.0001 par value
+common stock and 50,000,000 shares of preferred stock, par value $0.0001 per
+share. All common stock shares have equal voting rights, are non-assessable and
+have one vote per share. Voting rights are not cumulative and, therefore, the
+holders of more than 50% of the common stock could, if they choose to do so,
+elect all of the directors of the Company.
+
+ISSUED AND OUTSTANDING
+
+On November 16, 2006 (inception), the Company issued 5,000,000 shares of its
+common stock to its Directors for cash of $500. See Note 5.
+
+Between November 16, 2006 (inception) and June 28, 2007, the Company accepted
+subscriptions for 1,380,800 common shares from 35 investors under a private
+placement. The private placement was not subject to any minimum investment and
+was priced at $0.05 per share.
+
+As of June 30, 2008 the Company had 6,380,800 shares of common stock issued and
+outstanding.
+
+NOTE 5. RELATED PARTY TRANSACTIONS
+
+The Company's neither owns nor leases any real or personal property. The
+Company's Directors provide office space free of charge. The officers and
+directors of the Company are involved in other business activities and may, in
+the future, become involved in other business opportunities. If a specific
+business opportunity becomes available, such persons may face a conflict in
+selecting between the Company and their other business interests. The Company
+has not formulated a policy for the resolution of such conflicts.
+
+On November 16, 2006 (inception), the Company issued 5,000,000 shares of its
+common stock to its Directors for cash of $500. See Note 4.
+
+                                       17
+<PAGE>
+                                SIMPLE TECH, INC.
+                          (A Development Stage Company)
+                          NOTES TO FINANCIAL STATEMENTS
+                                  June 30, 2008
+
+NOTE 6. GOING CONCERN
+
+The accompanying financial statements have been prepared assuming that the
+Company will continue as a going concern. The Company has net losses for the
+period from inception to June 30, 2008 of $45,111. This condition raises
+substantial doubt about the Company's ability to continue as a going concern.
+The Company's continuation as a going concern is dependent on its ability to
+meet its obligations, to obtain additional financing as may be required and
+ultimately to attain profitability. The financial statements do not include any
+adjustments that might result from the outcome of this uncertainty.
+
+NOTE 7. OPERATING LEASES AND OTHER COMMITMENTS
+
+The Company currently has no operating lease commitments or any other
+commitments.
+
+NOTE 8. ADVERTISING COSTS
+
+The Company's policy regarding advertising is to expense advertising when
+incurred. The Company had not incurred any advertising expense as of December
+31, 2007.
+
+                                       18
+<PAGE>
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+        FINANCIAL DISCLOSURE.
+
+Moore & Associates, Chartered are our principal independent accountants. There
+have not been any changes in or disagreements with accountants on accounting and
+financial disclosure or any other matter.
+
+ITEM 9A(T). CONTROLS AND PROCEDURES.
+
+EVALUATION OF DISCLOSURE CONTROLS AND PROCEDURES
+
+An evaluation was performed under the supervision and with the participation of
+our sole Officer and Director, of the effectiveness of the design and operation
+of our disclosure controls and procedures. Based on management's evaluation as
+of the end of the period covered by this Annual Report, our sole Officer and
+Director concluded that as of the end of the period covered by this report, our
+disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e)
+under the Securities Exchange Act of 1934, as amended (the "EXCHANGE ACT")) were
+effective in ensuring that the information required to be disclosed by us in the
+reports that we file under the Exchange Act is gathered, analyzed and disclosed
+with adequate timeliness, accuracy and completeness.
+
+Disclosure controls and procedures and other procedures that are designed to
+ensure that information required to be disclosed in our reports filed or
+submitted under the Securities Exchange Act of 1934 is recorded, processed,
+summarized and reported, within the time period specified in the Securities and
+Exchange Commission's rules and forms. Disclosure controls and procedures
+include, without limitation, controls and procedures designed to ensure that
+information required to be disclosed in our reports filed under the Securities
+Exchange Act of 1934 is accumulated and communicated to management, including
+our president and chief executive officer and our chief financial officer as
+appropriate, to allow timely decisions regarding required disclosure.
+
+CHANGES IN INTERNAL CONTROL OVER FINANCIAL REPORTING
+
+Our management is responsible for establishing and maintaining adequate internal
+control over financial reporting. Our internal control system was designed to
+provide reasonable assurance to our management and Board of Directors regarding
+the preparation and fair presentation of published financial statements. Our
+management, including our Chief Executive Officer and Acting Chief Financial
+Officer (one individual) assessed the effectiveness of our internal control over
+financial reporting as of June 30, 2008. In making this assessment, it used the
+criteria set forth by the Committee of Sponsoring Organizations of the Treadway
+Commission (COSO) in INTERNAL CONTROL--INTEGRATED FRAMEWORK Based on our
+assessment we believe that, as of June 30, 2008, our internal control over
+financial reporting was not effective based on those criteria. The determination
+of ineffective internal control is based upon the lack of separation of duties.
+Our entire management is comprised of one individual. It is impossible to create
+a system of checks and balances with oversight in this circumstance. It is
+management's intention to bring additional people into the management team. Once
+there are more members of management, responsibilities can be divided and
+oversight roles created. This annual report does not include an attestation
+report of the Company's registered accounting firm regarding internal control
+over financial reporting. Management's report was not subject to attestation by
+the Company's registered public accounting firm pursuant to temporary rules of
+the SEC.
+
+DISCLOSURE CONTROLS AND PROCEDURES
+
+Our management, with the participation of our chief executive officer and acting
+chief financial officer (one individual), has evaluated the effectiveness of our
+disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e)
+under the Securities Exchange Act of 1934 (the "Exchange Act")) as of June 30,
+2008. Based on this evaluation, our chief executive officer and acting chief
+financial officer have concluded that, as of June 30, 2008, our disclosure
+
+                                       19
+<PAGE>
+controls and procedures were not effective. Our conclusion was based on (1) our
+lack of systematic accounting and disclosure procedures, (2) the lack of
+development of our IT systems, (3) the lack of hiring and development of new
+personnel and (4) the number of adjustments identified by our independent
+auditors during the course of their review. We attribute all of the identified
+weaknesses to the formative stage of our organizational development. We
+currently lack the personnel resources to ensure that our disclosure controls
+and procedures are adequate. We intend to address the procedural and control
+issues by adding more formalized accounting procedures.
+
+ITEM 9B. OTHER INFORMATION.
+
+None.
+
+                                       20
+<PAGE>
+                                    PART III
+
+ITEM 10. DIRECTORS, EXECUTIVE OFFICERS, AND CORPORATE GOVERNANCE.
+
+DIRECTORS AND EXECUTIVE OFFICERS
+
+Set forth below is the name, age and present principal occupation or employment,
+and material occupations, positions, offices or employments for the past five
+years of our current director and executive officer:
+
+        Name           Age       Positions and Offices Held
+        ----           ---       --------------------------
+     Aviad Krief       28        Chief Executive Officer
+                                 President, Treasurer, Secretary and Director
+
+The business address of our sole officer and director is c/o INC Management,
+5348 Vegas Dr., Las Vegas, NV 89108.
+
+BUSINESS EXPERIENCE:
+
+The following is a brief account of the education and business experience of our
+sole director and executive officer during at least the past five years,
+indicating his business experience, principal occupation during the period, and
+the name and principal business of the organization by which he was employed.
+
+MR. AVIAD KRIEF
+
+Mr. Aviad Krief has been our Secretary and a Director since our incorporation on
+November 16, 2006.
+
+For the last 5 years Mr. Krief has worked as an IT manager and systems
+administrator for a number of large Israeli companies such as "Teva
+Pharmaceutical Industries" and "Radlan" a Marvell company. From 2001- 2002, he
+worked as a laboratory manager at Getronics Israel, where he managed a group of
+100 computer technicians. From 2002 -2004, he worked for "Teva Pharmaceutical
+Industries" as the helpdesk manager and systems administrator. From 2004 -2005,
+he worked for "Radlan" in the quality assurance department and as a systems
+administrator. From 2005 -2008, Mr. Krief started his own company providing
+complete IT support solutions for small and medium sized businesses.
+
+Our sole officer and director is not a director in any other reporting
+companies. Our sole officer and director has not been affiliated with any
+company that has filed for bankruptcy within the last five years. We are not
+aware of any proceedings to which our sole director and officer, or any
+associate of any such director or officers, is a party adverse to us.
+
+The Company's director serve for a term of one year or until their respective
+successors are elected at our annual shareholders' meeting and is qualified,
+subject to removal by our shareholders. The Company's officer serve, at the
+pleasure of the Board of Directors, for a term of one year or until the
+successor is elected at the annual meeting of the Board of Directors and is
+qualified.
+
+SECTION 16(a) BENEFICIAL OWNERSHIP REPORTING COMPLIANCE
+
+Section 16(a) of the Securities Exchange Act of 1934 requires officers and
+directors of the Company and persons who own more than ten percent of a
+registered class of the Company's equity securities to file reports of ownership
+and changes in their ownership with the Securities and Exchange Commission, and
+forward copies of such filings to the Company. We believe, based solely on our
+review of the copies of such forms, that during the fiscal year ended June 30,
+2008, all reporting persons complied with all applicable Section 16(a) filing
+requirements.
+
+                                       21
+<PAGE>
+AUDITORS; CODE OF ETHICS; FINANCIAL EXPERT
+
+Our principal independent accountant is Moore & Associates, Chartered. We do not
+currently have a Code of Ethics applicable to our principal executive, financial
+and accounting officer. We do not have a "financial expert" on the Board of
+Directors. The Board of Directors has not established a Code of Ethics as we
+currently only have one executive officer.
+
+NOMINATING AND AUDIT COMMITTEES
+
+The Board of Directors of the Company has not established an audit committee or
+nominating committee. Since we do not have a nominating or audit committee
+comprised of independent directors, the functions that would have been performed
+by such committees are performed by our directors. The Board is of the opinion
+that such committees are not necessary since the Company currently has only one
+director, and to date, such director has been performing the functions of such
+committees.
+
+POTENTIAL CONFLICTS OF INTEREST
+
+We are not aware of any current or potential conflicts of interest with any of
+our executive officer and director.
+
+INVOLVEMENT IN CERTAIN LEGAL PROCEEDINGS
+
+There are no legal proceedings that have occurred within the past five years
+concerning our directors, or control persons which involved a criminal
+conviction, a criminal proceeding, an administrative or civil proceeding
+limiting one's participation in the securities or banking industries, or a
+finding of securities or commodities law violations.
+
+ITEM 11. EXECUTIVE COMPENSATION
+
+SUMMARY COMPENSATION TABLE
+
+The table below summarizes all compensation awarded to, earned by, or paid to
+our officers for all services rendered in all capacities to us for the fiscal
+periods indicated.
+
+<TABLE>
+<CAPTION>
+                                                                     Non-Equity      Nonqualified
+ Name and                                                             Incentive        Deferred
+ Principal                                    Stock       Option        Plan         Compensation      All Other
+ Position       Year   Salary($)  Bonus($)   Awards($)   Awards($)  Compensation($)   Earnings($)   Compensation($)  Total($)
+ --------       ----   ---------  --------   ---------   ---------  ---------------   -----------   ---------------  --------
+<S>            <C>       <C>        <C>        <C>         <C>           <C>             <C>          <C>           <C>
+Aviad Krief(1)  2008      $0         $0         $0          $0            $0              $0           $10,000 (4)     $0
+                2007      $0         $0         $0          $0            $0              $0           $ 1,000 (3)     $0
+
+Moshe           2008      $0         $0         $0          $0            $0              $0           $     0         $0
+Danino(2)       2007      $0         $0         $0          $0            $0              $0           $     0         $0
+</TABLE>
+
+----------
+(1)  Aviad Krief has been a director and Secretary of the Company since November
+     16, 2006, on August 25, 2008 Mr. Krief was elected President, Chief
+     Executive Officer and Treasurer of the Company.
+(2)  Moshe Danino resigned as our President, Treasurer and director of the
+     Company on August 25, 2008 and was concurrently replaced by Mr. Aviad
+     Krief.
+(3)  Between November 16, 2006 (inception) and June 30, 2007, Aviad Krief was
+     paid an aggregate of $1,000 in consideration for certain consulting
+     services rendered to us.
+(4)  Between June 30, 2007 and June 30, 2008, Aviad Krief was paid an aggregate
+     of $10,000 in consideration for certain consulting services rendered to us.
+(5)  We were incorporated on November 16, 2006.
+
+                                       22
+<PAGE>
+OUTSTANDING EQUITY AWARDS
+
+As of June 30, 2008, no executive officer or director, or any former executive
+officer or director held unexercised options, stock that had not vested, or
+equity incentive plan awards.
+
+GRANTS OF STOCK OPTIONS AND STOCK APPRECIATION RIGHTS
+
+No stock options or stock appreciation rights were granted to any executive
+officer, or any former executive officer and none hold unexercised options,
+stock that had not vested, or equity incentive plan awards.
+
+OPTIONS/SAR EXERCISE
+
+None of our directors, executive officers, or former directors or executive
+officers were issued any stock options or stock appreciation rights during the
+during the period from November 16, 2006 (inception) until June 30, 2008, and
+none of them holds unexercised stock options held as of such date.
+
+LONG TERM INCENTIVE PLAN AWARDS
+
+We have no long-term incentive plans.
+
+COMPENSATION OF DIRECTORS
+
+As discussed above in the section on Summary Compensation, $9,000 was paid to
+Aviad Krief during the fiscal year ended June 30, 2008. Except for the
+foregoing, none of our directors or former directors received any compensation
+for fiscal year ended June 30, 2008.
+
+EMPLOYMENT CONTRACTS AND TERMINATION OF EMPLOYMENT AND CHANGE IN CONTROL
+ARRANGEMENTS
+
+We have not entered into any employment agreement or consulting agreements with
+our directors and executive officers. There are no arrangements or plans in
+which we provide pension, retirement or similar benefits for directors or
+executive officers. Our directors and executive officers may receive stock
+options at the discretion of our board of directors in the future. We do not
+have any material bonus or profit sharing plans pursuant to which cash or
+non-cash compensation is or may be paid to our directors or executive officers,
+except that stock options may be granted at the discretion of our board of
+directors.
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND
+         RELATED STOCKHOLDER MATTERS.
+
+The following table sets forth, as of September 29, 2008 certain information
+with respect to the beneficial ownership of our common stock by each shareholder
+known by us to be the beneficial owner of more than 5% of our common stock and
+by our current sole director and executive officer. The shareholder has sole
+voting and investment power with respect to the shares of common stock, except
+as otherwise indicated. Beneficial ownership consists of a direct interest in
+the shares of common stock, except as otherwise indicated.
+
+                                       23
+<PAGE>
+ Name and Address                             Amount and Nature of    Percent of
+of Beneficial Owner      Title of Class(1)    Beneficial Ownership      Class(2)
+-------------------      -----------------    --------------------      --------
+Aviad Krief (3)            Common Shares            2,500,000            39.18%
+
+Israel Basson              Common Shares            2,500,000            39.18%
+164 bialik street,
+11 floor.
+Ramat Gan, Israel
+
+Directors and Officers
+ as a group                Common Shares            2,500,000            39.18%
+
+----------
+(1)  Beneficial ownership is determined in accordance with SEC rules and
+     generally includes voting or investment power with respect to securities.
+     Shares of common stock subject to options, warrants and convertible
+     preferred stock currently exercisable or convertible, or exercisable or
+     convertible within sixty (60) days, would be counted as outstanding for
+     computing the percentage of the person holding such options or warrants but
+     not counted as outstanding for computing the percentage of any other
+     person.
+(2)  Based on 6,380,800 shares issued and outstanding as of September 23, 2008.
+(3)  The business address of our sole officer and director is c/o INC
+     Management, 5348 Vegas Dr., Las Vegas, NV 89108.
+
+CHANGES IN CONTROL
+
+There are no present arrangements or pledges of the Company's securities, known
+to management, which may result in a change in control of the Company.
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR
+         INDEPENDENCE.
+
+Except as described below, no director, executive officer, principal shareholder
+holding at least 5% of our common shares, or any family member thereof, had any
+material interest, direct or indirect, in any transaction, or proposed
+transaction, during the year ended June 30, 2007, in which the amount involved
+in the transaction exceeded or exceeds the lesser of $120,000 or one percent of
+the average of our total assets at the year end for the last three completed
+fiscal years.
+
+On November 16, 2006 Mr. Danino and Krief each purchased 2,500,000 shares of our
+common stock for $0.0001 per share, or $250 each, for an aggregate of $500.
+
+The promoter of our company is Aviad Krief, our President, Secretary, Treasurer
+and director.
+
+DIRECTOR INDEPENDENCE
+
+We are not subject to listing requirements of any national securities exchange
+or national securities association and, as a result, we are not at this time
+required to have our board comprised of a majority of "independent directors."
+Nevertheless, we believe that Aviad Krief currently meets the definition of
+"independent" as promulgated by the rules and regulations of the American Stock
+Exchange.
+
+                                       24
+<PAGE>
+ITEM 14. PRINCIPAL ACCOUNTANT FEES AND SERVICES.
+
+AUDIT FEES
+
+The following is a summary of the fees billed to us by Moore & Associates for
+professional services rendered for the past two fiscal years:
+
+       Fee Category          Fiscal 2008 Fees        Fiscal 2007 Fees
+       ------------          ----------------        ----------------
+       Audit Fees                 $3,750                  $1,500
+       Audit-Related Fees
+         Tax Fees                 $    0                  $    0
+         All Other Fees
+
+Audit Fees consist of fees billed for professional services rendered for the
+audit of our financial statements and review of the interim financial statements
+included in quarterly reports and services that are normally provided by Moore &
+Associates in connection with statutory and regulatory filings or engagements.
+
+POLICY ON PRE-APPROVAL OF AUDIT AND PERMISSIBLE NON-AUDIT SERVICES OF
+INDEPENDENT AUDITORS
+
+We do not have an Audit Committee. Nevertheless, the Company's policy is to
+pre-approve all audit and permissible non-audit services provided by the
+independent auditors. These services may include audit services, audit-related
+services, tax services, and other services. Pre-approval is generally provided
+for up to one year, and any pre-approval is detailed as to the particular
+service or category of services and is generally subject to a specific budget.
+The independent auditors and management are required to periodically report to
+the Audit Committee regarding the extent of services provided by the independent
+auditors in accordance with this pre-approval and the fees for the services
+performed to date. The Audit Committee may also pre-approve particular services
+on a case-by-case basis.
+
+                                       25
+<PAGE>
+                                     PART IV
+
+ITEM 15. EXHIBITS, FINANCIAL STATEMENT SCHEDULES.
+
+ Exhibit No.                             Exhibit Description
+ -----------                             -------------------
+
+     3.1        Certificate of Incorporation of the Company (annexed as Exhibit
+                3.1 to our Registration Statement on Form SB-2, filed with the
+                Securities and Exchange Commission on August 6, 2007).
+
+     3.2        Bylaws of Company (annexed as Exhibit 3.2 to our Registration
+                Statement on Form SB-2, filed with the Securities and Exchange
+                Commission on August 6, 2007).
+
+    31.1        Rule  13a-14(a)/15d-14(a)  Certification  of Chief  Executive
+                and Financial Officer. *
+
+    32.1        Section 1350 Certification of Principal Executive Officer. *
+
+----------
+
+* Filed herewith
+
+FILINGS ON 8-K
+
+August 27, 2008 - reporting the resignation of Mr. Moshe Danino, appointment of
+Mr. Aviad Krief to serve as the President and Treasurer. Mr. Krief will continue
+to serve as the Company's Secretary and Director as well.
+
+                                       26
+<PAGE>
+                                   SIGNATURES
+
+In accordance with the Exchange Act, the registrant has duly caused this report
+to be signed on its behalf by the undersigned, thereunto duly authorized.
+
+                             SIMPLE TECH, INC.
+
+
+Date: September 29, 2008     By: /s/ Aviad Krief
+                                ------------------------------------------------
+                             Name:  Aviad Krief
+                             Title: President, Treasurer, Secretary and Director
+                                    (Principal Financial and Accounting Officer)
+
+In accordance with the Exchange Act, this report has been signed below by the
+following persons on behalf of the registrant, in the capacities and on the
+dates indicated.
+
+<TABLE>
+<CAPTION>
+     Signature                               Title                                    Date
+     ---------                               -----                                    ----
+<S>                         <C>                                                 <C>
+
+
+/s/ Aviad Krief              President, Treasurer, Secretary and Director       September 23, 2008
+-----------------------      (Principal Financial and Accounting Officer)
+Aviad Krief
+</TABLE>
+
+
+                                       27
+</TEXT>
+</DOCUMENT>

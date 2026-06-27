@@ -1,0 +1,3266 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>farm-10k.txt
+<DESCRIPTION>BODY OF FORM 10-K
+<TEXT>
+
+                                UNITED STATES
+                     SECURITIES AND EXCHANGE COMMISSION
+                            Washington, DC 20549
+
+                                  FORM 10-K
+
+            ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+                       SECURITIES EXCHANGE ACT OF 1934
+
+                 For the fiscal year ended December 31, 2003
+
+                       Commission file number 0-15938
+
+                       FARMSTEAD TELEPHONE GROUP, INC.
+           (Exact name of registrant as specified in its charter)
+
+Delaware                                06-1205743
+(State or other jurisdiction of        (I.R.S. Employer Identification No.)
+incorporation or organization)
+
+22 Prestige Park Circle, East Hartford, CT        06108-3728
+(Address of principal executive offices)          (Zip Code)
+
+     Registrant's telephone number, including area code: (860) 610-6000
+
+            Securities registered under Section 12(b) of the Act:
+
+    Title of each class              Name of each Exchange on which registered
+    Common Stock, $.001 par value    American Stock Exchange
+
+      Securities registered pursuant to Section 12(g) of the Act: None
+
+Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act
+of 1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to
+such filing requirements for the past 90 days.
+Yes [X] No [ ]
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item
+405 of Regulation S-K is not contained herein, and will not be contained,
+to the best of registrant's knowledge, in definitive proxy or information
+statements incorporated by reference in Part III of this Form 10-K or any
+amendment to this Form 10-K. [ ]
+
+Indicate by check mark whether the registrant is an accelerated filer (as
+defined in Rule 12b-2 of the Act).
+Yes [ ] No [X]
+
+The aggregate market value of the voting and non-voting common equity held
+by non-affiliates, computed by reference to the closing price on the last
+business day of the registrant's most recently completed second fiscal
+quarter, was $1,822,159.
+
+As of February 29, 2004, the registrant had 3,311,601 shares of $0.001 par
+value Common Stock outstanding.
+
+
+<PAGE>
+
+
+                     DOCUMENTS INCORPORATED BY REFERENCE
+
+Portions of the registrant's Proxy Statement to be filed with the
+Securities and Exchange Commission in connection with the Annual Meeting of
+Stockholders to be held June 10, 2004 are incorporated by reference into
+Part III, Items 10 through 14 hereof. Certain exhibits filed with this
+registrant's prior registration statements and forms 10-K are incorporated
+by reference into Part IV of this Report.
+
+                       TABLE OF CONTENTS TO FORM 10-K
+
+<TABLE>
+<CAPTION>
+
+                                   PART I
+
+                                                                       Page
+                                                                       ----
+
+<s>                                                                     <c>
+ITEM 1.   BUSINESS                                                       3
+ITEM 2.   PROPERTIES                                                     7
+ITEM 3.   LEGAL PROCEEDINGS                                              7
+ITEM 4.   SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS            7
+
+                                   PART II
+
+ITEM 5.   MARKET FOR REGISTRANT'S COMMON EQUITY AND RELATED
+          STOCKHOLDER MATTERS                                            7
+ITEM 6.   SELECTED FINANCIAL DATA                                        9
+ITEM 7.   MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL
+          CONDITION AND RESULTS OF OPERATIONS                            9
+ITEM 7A.  QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK    19
+ITEM 8.   FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA                   19
+ITEM 9A.  CONTROLS AND PROCEDURES                                       19
+
+                                  PART III
+
+ITEM 10.  DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT            19
+ITEM 11.  EXECUTIVE COMPENSATION                                        19
+ITEM 12.  SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND
+          MANAGEMENT AND RELATED STOCKHOLDER MATTERS                    20
+ITEM 13.  CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS                20
+ITEM 14.  PRINCIPAL ACCOUNTANT FEES AND SERVICES                        20
+
+                                   PART IV
+
+ITEM 15.  EXHIBITS, FINANCIAL STATEMENT SCHEDULES, AND REPORTS
+          ON FORM 8-K                                                   20
+
+SIGNATURES                                                              21
+</TABLE>
+
+
+<PAGE>  2
+
+
+PART I
+ITEM 1.  BUSINESS
+
+GENERAL
+
+      Farmstead Telephone Group, Inc. ("Farmstead", the "Company", "we", or
+"our") was incorporated in Delaware in 1986. We are principally engaged as
+a provider of new and used Avaya, Inc. ("Avaya") business
+telecommunications parts, complete systems, and services. We provide used
+"Classic Avaya(TM) " telecommunications equipment pursuant to an "Authorized
+Remarketing Supplier Program" with Avaya, under which we are one of only
+five companies nationwide so authorized. We also offer Avaya's full-line of
+new telecommunications parts and complete systems as an Avaya-certified
+"Gold Dealer". Our service revenues are under the aegis of our "2 Star"
+Avaya Services Agreement. Our product offerings are primarily customer
+premises-based private switching systems and peripheral products, including
+voice messaging products. We also provide telecommunications equipment
+installation, repair and refurbishing, short-term rental, inventory
+management, and related value-added services. A portion of our revenues is
+also derived from the sale of Avaya maintenance contracts. We sell our
+products and services to large and mid-size, multi-location businesses, as
+well as to small businesses, government agencies, and other equipment
+resellers.
+
+      Effective February 1, 2001, we entered into a joint venture agreement
+with TriNET Business Trust ("TriNET"), forming a limited liability
+corporation operating under the name of InfiNet Systems, LLC ("InfiNet").
+Under the agreement, we had a 50.1% ownership interest, and TriNET had a
+49.9% ownership interest. Based in East Hartford, Connecticut, InfiNet was
+organized for the purpose of selling new Avaya telecommunications systems
+primarily to customers within the State of Connecticut and various counties
+in the State of New York. Effective January 1, 2002, we acquired TriNET's
+49.9% ownership interest in InfiNet. During 2002, however, we changed our
+business strategy concerning the use of InfiNet, downsizing its operating
+activities by eliminating its entire workforce and fulfilling systems sales
+orders directly through Farmstead, which acquired its own systems dealer
+license in 2002. As a result, InfiNet has since been inactive.
+
+      Our revenue has declined significantly over the past three years.
+Revenue for the years ended December 31, 2003, 2002 and 2001 was $14.68
+million, $19.15 million and $33.34 million, respectively. The decline in
+revenue is attributable primarily to the effect of general economic
+conditions prevailing in the United States and resulting reduced business
+spending on enterprise communications equipment. The decline in revenue has
+also been the prime contributor to our net losses for the years ended
+December 31, 2003, 2002 and 2001 of $709,000, $2,530,000 and $1,708,000,
+respectively. Accordingly, we have tried to reduce our losses and return to
+profitability through cost reductions and by broadening our product
+offerings. Our current strategy is to become less dependent on parts sales,
+and become more of a systems and applications solutions provider. We will
+expand our product offerings beyond traditional voice communications
+products by offering Internet Protocol, or IP, telephony products and
+unified communications products including voice messaging. Because we
+believe that business capital spending on enterprise communications
+equipment will not significantly improve over the short-term, we expect to
+have continued pressure on our ability to increase revenues over current
+levels.
+
+PRODUCTS
+
+      EQUIPMENT
+      ---------
+
+      We sell a wide range of Avaya's traditional voice telephony parts and
+systems, including Avaya's most advanced enterprise voice communications
+system marketed under the DEFINITY(R) and MultiVantage product lines. These
+server based product lines provide reliable voice communication and offer
+integration with an enterprise's data networks. They support a wide variety
+of voice and data applications such as call and customer contact centers,
+messaging and interactive voice response. This product also facilitates the
+ongoing transition at many enterprises from traditional voice telephony
+systems to advanced systems that integrate voice and data traffic and
+deploy increasingly sophisticated communications applications, including
+"voice over internet protocol (VOIP)", popularized with Avaya's IP Office
+product family. For smaller enterprises or small locations of larger ones,
+we offer Avaya's, medium to small user voice communications products,
+marketed under the MERLIN MAGIX(TM), SPIRIT(R) and PARTNER(R)
+Communications Systems product families. We also offer Avaya voice
+messaging and unified messaging products such as OCTEL(R) Messaging and
+INTUITY(tm) AUDIX(R) Messaging, as well as the latest messaging release
+called Modular Messaging.
+
+
+<PAGE>  3
+
+
+      Equipment sales consist of both sales of complete systems and
+software applications, and sales of new and refurbished parts (commonly
+referred to as "aftermarket" sales). Refurbished products are primarily
+sold under the Classic Avaya(TM) label pursuant to a licensing agreement
+with Avaya. Aftermarket parts primarily consist of telephone sets and
+circuit packs, and other system accessories such as headsets, consoles,
+speakerphones and paging systems. Equipment sales revenues accounted for
+approximately 88%, 90% and 93% of total revenues in 2003, 2002 and 2001,
+respectively.
+
+      SERVICES AND OTHER REVENUE
+      --------------------------
+
+      We are committed to respond to our customers' service or project-
+oriented telecommunications needs, and believe these services help
+differentiate us from our competitors, as well as contribute to longer-
+lasting customer relationships and incremental equipment sales. Services
+include:
+
+      Installation Services: We use Avaya and, to a lesser degree, other
+equipment installation companies on a subcontract basis to install
+telecommunication parts and systems nation-wide, as well as to perform
+equipment moves, adds and changes.
+
+      Repair and Refurbishing: We perform fee-based telecommunications
+equipment repair and refurbishing services. Until 2003, these services were
+provided through a combination of our in-house refurbishing center and the
+use of subcontract repair shops. The in-house work primarily consisted of
+cleaning, buffing and minor repairs, while major repairs of equipment,
+including repair of circuit boards, was outsourced. By the end of 2003, we
+had outsourced all equipment repair and refurbishing services to outside
+repair shops.
+
+      Equipment Rentals: We provide rentals of equipment on a month-to-
+month basis, servicing those customers that have temporary, short-term
+equipment needs.
+
+      Other Services: Our technical staff currently provides system
+engineering and configuration, project management, and technical "hot line"
+telephone support services.
+
+      Other Revenue: A portion of our revenues is derived from the sale of
+Avaya communications equipment maintenance contracts. In these transactions
+we act as a sales agent of Avaya, and the service obligations are borne
+entirely by Avaya.
+
+      Our combined service and other revenues accounted for 12%, 10% and 7%
+of total revenues in 2003, 2002 and 2001, respectively. The largest
+individual component, installation services, accounted for 9%, 8% and 6% of
+total revenues in 2003, 2002 and 2001, respectively.
+
+RELATIONSHIP WITH AVAYA INC.
+
+      Avaya is one of the leading providers of communications products in
+the United States. Avaya provides support to the telecommunications
+equipment aftermarket by offering installation and maintenance services for
+its products purchased by end-users through equipment resellers. Equipment
+resellers like us may also, with various restrictions, utilize Avaya
+documentation, technical information and software. Avaya also generally
+provides up to a one-year warranty on its products. Avaya generally
+provides maintenance of Avaya equipment sold by us.
+
+      Our relationship with Avaya is on three main fronts. First, we are a
+part of Avaya's Authorized Remarketing Supplier ("ARS") aftermarket program
+as an ARS Dealer (the "ARS Agreement"), selling Classic Avaya(TM) products
+to end-users nationwide. The ARS Agreement expires December 31, 2004;
+however it shall automatically renew for an additional one-year term unless
+written notice is given by either party of its intent not to renew thirty
+days in advance of the termination date. Classic Avaya(TM) products are
+defined as used Avaya PBX system and key system parts that have been
+refurbished under Avaya quality standards, and sold with a Classic Avaya
+label. We are currently one of only five appointed ARS Dealers, none of
+whom has been granted an exclusive territory. The ARS Agreement also allows
+us to sell certain new Avaya PBX products and voice processing products to
+end-users, including government agencies. Second, we are an Avaya-certified
+Gold Dealer, authorized to sell new voice and data systems and
+applications. And third, Farmstead is a "2 Star" Services partner selling
+Avaya installation, maintenance, and moves, adds and changes (MAC)
+products.
+
+
+<PAGE>  4
+
+
+      Under the ARS Agreement with Avaya, we are required to pay fees to
+Avaya based upon a percentage (currently 6.5%) of the sales price of
+Classic Avaya(TM) products sold by us. We also required to pay fees to
+Avaya based upon a percentage (currently 15%) of the sales price of Classic
+Avaya(TM) products sold through the Company's call center. The Company
+recorded in cost of revenues approximately $323,000, $507,000 and $1,341,000
+of fee expense in 2003, 2002 and 2001, respectively.
+
+      We believe that our relationship with Avaya is satisfactory. Avaya is
+currently considering replacing the ARS program with a successor program
+which would allow the ARS companies, as well as non-ARS companies, to
+purchase refurbished "Classic Avaya" equipment directly from Avaya. We
+cannot predict whether the ARS program will continue throughout 2004 or
+what the terms and conditions of any successor program might be or how it
+might impact us. We believe that should the ARS program not be renewed, it
+will not have a material adverse impact on our ability to sell refurbished
+equipment.
+
+MARKETING AND CUSTOMERS
+
+      We market our product offerings nationally through a direct sales
+staff, which includes salespersons located along the Eastern seaboard, and
+other areas of the country. Since 1999, we have also marketed Avaya
+products through a call center operation. Our customers range from large
+and mid-sized, multi-location corporations, to small companies, and to
+equipment wholesalers, dealers, and government agencies and municipalities.
+End-user customers accounted for approximately 91%, 83% and 86% of our
+total revenues in 2003, 2002 and 2001, respectively, while sales to dealers
+and other resellers accounted for approximately 9%, 17% and 14% of revenues
+during the same respective periods. We have thousands of customers and,
+during the years ended December 31, 2003, 2002 and 2001, no single customer
+accounted for more than 10% of revenues. We do not consider our business to
+be seasonal.
+
+COMPETITION
+
+      We operate in a highly competitive marketplace. Over the years, our
+marketplace has become subject to more rapid technological change as
+communications systems have been evolving from stand-alone voice systems to
+more highly integrated, software-driven systems. Since we principally sell
+Avaya products, our competitive position in the marketplace is highly
+dependent upon Avaya's ability to continue to be a market leader in the
+product lines that we sell. Our competitors principally include Avaya and
+other new equipment manufacturers that similarly compete against Avaya
+products, including Nortel Networks Corporation, Siemens
+Aktiengesellschaft, Alcatel S.A. and NEC Corporation along with their local
+and regional dealers, and other Avaya business partners. In the sale of
+Classic Avaya(TM) products, we compete with the other Avaya-designated ARS
+Dealers. We believe that key competitive factors in our market are price,
+timeliness of delivery, service and product quality and reliability. Due to
+the reduction in business capital spending on telecommunications products,
+which has developed in the U.S. over the past few years, competitive
+pressures have intensified. We also anticipate intensified competition from
+larger companies having substantially greater technical, financial and
+marketing resources, as well as larger customer bases and name recognition.
+As the industry further develops voice and data converged products, we
+anticipate encountering a broader variety of competitors, including new
+entrants from related computer and communication industries.
+
+SUPPLIERS
+
+      Our agreement with Avaya requires us to purchase new equipment from a
+designated "master distributor", and accordingly we have used Catalyst
+Telecom ("Catalyst") as our primary supplier over the last several years.
+The performance of this distributor in meeting our product and delivery
+demands has been satisfactory to date. Should there be an adverse change in
+Catalyst's performance, we would have the ability to contract with another
+"master distributor" to supply us with new Avaya telecommunications
+equipment.
+
+      We acquire used equipment from a variety of sources, depending upon
+price and availability at the time of purchase. These sources include other
+secondary market equipment dealers, leasing companies and end-users. The
+equipment so acquired may be in a refurbished state and ready for resale,
+or it may be purchased "as-is", requiring repair and/or refurbishing prior
+to its resale. We are not dependent upon any single supplier for used
+equipment. The Company believes that the availability of used equipment in
+the marketplace is presently sufficient to enable the Company to meet its
+customers' used equipment delivery requirements.
+
+
+<PAGE>  5
+
+
+PATENTS, LICENSES AND TRADEMARKS
+
+      No patent is considered material to our continuing operations.
+Pursuant to agreements in effect with Avaya, we may utilize, during the
+term of these agreements, certain Avaya designated trademarks, insignia and
+symbols in our advertising and promotion of Avaya products. We operate
+under a license agreement with Avaya, in which we were granted a non-
+exclusive license to use the Classic Avaya(TM) trademark in connection with
+the refurbishing, marketing and sale of Avaya products sold under the ARS
+Agreement. Under this agreement, we are required to pay fees to Avaya based
+upon a percentage of the sales price of Classic Avaya(TM) products that we
+sell. For more information on these fees, refer to the above section
+"Relationship With Avaya Inc." The license agreement expires December 31,
+2004; however it shall automatically renew for an additional one-year term
+unless written notice is given by either party of its intent not to renew
+thirty days in advance of the termination date.
+
+RESEARCH AND DEVELOPMENT
+
+      We did not incur any research and development expenses during the
+three years ended December 31, 2003, and research and development
+activities are not material to our business.
+
+BACKLOG
+
+      The backlog of unshipped orders believed to be firm was approximately
+$397,000 at December 31, 2003, compared to $1,010,000 at December 31, 2002.
+We expect this entire backlog to ship and be recognized as revenue during
+the current fiscal year.
+
+EMPLOYEES
+
+      At December 31, 2003, we had 60 full-time employees. Our employees
+are not represented by any organized labor union and are not covered by any
+collective bargaining agreements.
+
+WEBSITE ACCESS TO SEC FILINGS
+
+      We maintain an Internet website at www.farmstead.com . We make
+available free of charge through our Internet website our annual report on
+Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and
+amendments to those reports filed or furnished pursuant to Section 13(a) or
+15(d) of the Exchange Act as soon as reasonably practicable after we
+electronically file such material with, or furnish it to, the SEC.
+
+EXECUTIVE OFFICERS OF THE REGISTRANT
+
+<TABLE>
+<CAPTION>
+
+                                      First
+                                    Became An
+                                    Executive
+       Name              Age (1)    Officer in                     Position(s) Held
+---------------------    -------    ----------    --------------------------------------------------
+
+<s>                        <c>         <c>        <c>
+George J. Taylor, Jr.      61          1984       Chairman of the Board, President, Chief Executive
+                                                  Officer
+
+Michael R. Johnson         57          2001       Executive Vice President
+
+Robert G. LaVigne          52          1988       Executive Vice President, Chief Financial Officer,
+                                                  Secretary, Treasurer
+
+<FN>
+<F1>  As of January 1, 2004.
+</FN>
+</TABLE>
+
+      George J. Taylor, Jr., Chairman of the Board of Directors and Chief
+Executive Officer of the Company (including its predecessors) since 1984,
+and President since 1989. Member of the Compensation Committee of the Board
+of Directors (until February 24, 1998). President of Lease Solutions, Inc.
+(formerly Farmstead Leasing, Inc.), a business products and automobile
+leasing company, from 1981 to 1993. Vice President - Marketing and Sales
+for National Telephone Company from 1977 to 1981. Mr. Taylor was one of the
+founders of the National Association of Telecommunication Dealers, has been
+a member of, or advisor to, its Board of Directors since its inception in
+
+
+<PAGE>  6
+
+
+1986, and for two years served as its President and Chairman. Brother of
+Mr. Hugh M. Taylor, a Director of the Company.
+
+      Michael R. Johnson, Executive Vice President since August, 2001.
+Sales Vice President, Avaya Inc. from 2000 to 2001; Vice President - Global
+Accounts, Lucent Technologies, from 1996 to 2000. From 1979 though 1996,
+Mr. Johnson held various product management and sales management positions
+with AT&T Corporation. While employed by Avaya, Lucent and AT&T, Mr.
+Johnson was assigned sales management responsibilities covering many of
+their largest commercial customers located in New York.
+
+      Robert G. LaVigne, Executive Vice President since July 1997. Chief
+Financial Officer, Corporate Secretary and Treasurer since 1988. Vice
+President - Finance & Administration from 1988 until July 1997. Director of
+the Company from 1988 to 2001. Controller of Economy Electric Supply, Inc.,
+a distributor of electrical supplies and fixtures, from 1985 to 1988.
+Corporate Controller of Hi-G, Inc., a manufacturer of electronic and
+electromechanical components, from 1982 to 1985. Certified Public
+Accountant.
+
+ITEM 2.  PROPERTIES
+
+      As of December 31, 2003, we occupied two buildings in East Hartford,
+CT, aggregating 49,897 square feet of office and warehouse space under
+lease contracts expiring December 31, 2004. The leases contain two, three-
+year renewal options. We also lease 1,700 square feet of office space in
+New York, NY under a non-cancelable lease expiring March 31, 2005. This
+lease contains one, two-year renewal option.
+
+      We are currently in the process of renegotiating our East Hartford,
+CT building leases. Effective April 1, 2004, we expect to enter into an
+agreement to terminate without penalty our existing lease on one of the
+buildings containing 15,137 square feet of warehouse space. We also expect
+to enter into a new lease agreement on the building containing our
+principal offices and distribution center, replacing the existing lease.
+Under the new agreement, we expect to lease approximately 25,000 square
+feet for a period of ten years and nine months commencing April 1, 2004. We
+will have the option to terminate this lease effective December 31, 2009,
+and the lease will contain one five-year renewal option. If new or
+additional space is required, we believe that adequate facilities are
+available at competitive prices in the immediate areas of our current
+operations.
+
+ITEM 3.  LEGAL PROCEEDINGS
+
+      From time to time we are involved in legal proceedings arising in the
+ordinary course of business. There is no litigation pending that could
+have, individually or in the aggregate, a material adverse effect on our
+financial position, results of operations or cash flows.
+
+ITEM 4.  SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+      No matter was submitted to a vote of security holders in the fourth
+quarter of the fiscal year covered by this report.
+
+                                   PART II
+
+ITEM 5.  MARKET FOR REGISTRANT'S COMMON EQUITY AND RELATED STOCKHOLDER MATTERS
+
+      Our Common Stock is traded on the American Stock Exchange, under the
+symbol "FTG". The following securities were traded on the American Stock
+Exchange under the following symbols until June 30, 2002, at which time
+they expired and were delisted: Warrants issued in our 1987 initial public
+offering ("IPO Warrants") - "FTG.WS"; Redeemable Class A Common Stock
+Purchase Warrants - "FTG.WS.A"; Redeemable Class B Common Stock Purchase
+Warrants - "FTG.WS.B". The following sets forth the range of quarterly high
+and low sales prices for these securities, for the two years ended December
+31, 2003 (there was no trading in periods where no prices are indicated):
+
+
+<PAGE>  7
+
+
+<TABLE>
+<CAPTION>
+
+                               Common Stock                    IPO Warrants
+                       -----------------------------    ----------------------------
+                           2003            2002             2003            2002
+                       ------------    -------------    ------------    ------------
+      Quarter Ended    High     Low    High      Low    High     Low    High     Low
+       ------------    ----    ----    -----    ----    ----    ----    ----    ----
+
+      <s>              <c>     <c>     <c>      <c>     <c>     <c>     <c>     <c>
+      March 31         $.35    $.21    $ .92    $.66       -       -       -       -
+      June 30           .71     .26     1.14     .57       -       -    $.01    $.01
+      September 30      .85     .41      .79     .21       -       -       -       -
+      December 31       .82     .57      .37     .21       -       -       -       -
+
+<CAPTION>
+
+                              Class A Warrants                Class B Warrants
+                       -----------------------------    ----------------------------
+                           2003            2002             2003            2002
+                       ------------    -------------    ------------    ------------
+      Quarter Ended    High     Low    High      Low    High     Low    High     Low
+       ------------    ----    ----    -----    ----    ----    ----    ----    ----
+
+      <s>              <c>     <c>      <c>     <c>     <c>     <c>     <c>     <c>
+      March 31            -       -        -       -       -       -    $.04    $.04
+      June 30             -       -     $.02    $.01       -       -     .02     .02
+      September 30        -       -        -       -       -       -       -       -
+      December 31         -       -        -       -       -       -       -       -
+</TABLE>
+
+      There were 3,311,601 and 3,298,958 common shares outstanding at
+December 31, 2003 and 2002, respectively. There were 183,579 IPO Warrants,
+1,137,923 Class A Warrants and 1,137,923 Class B Warrants outstanding at
+the time of their June 30, 2002 expiration. As of December 31, 2003 there
+were 509 holders of record of the common stock representing approximately
+2,400 beneficial stockholders, based upon the number of proxy materials
+distributed in connection with our 2003 Annual Meeting of Stockholders. We
+have paid no dividends and do not expect to pay dividends in the
+foreseeable future as we intend to retain earnings to finance the growth of
+our operations. Pursuant to a revolving credit agreement with Business
+Alliance Capital Corporation, we are prohibited from declaring or paying
+any dividends or making any other distribution on any of the shares of our
+capital stock, without the prior consent of the lender.
+
+                    EQUITY COMPENSATION PLAN INFORMATION
+
+      Securities authorized for issuance under equity compensation plans as
+of December 31, 2003:
+
+<TABLE>
+<CAPTION>
+
+                                                                                    Number of securities
+                                                                                    remaining available
+                                       Number of                                    for future issuance
+                                       securities to be        Weighted-average     under equity
+                                       issued upon             exercise price of    compensation plans
+                                       exercise of             outstanding          (excluding securities
+                                       outstanding options,    options, warrants    reflected in column
+                                       warrants and rights     and rights           (a))
+      Plan Category                            (a)                    (b)                    (c)
+      ---------------------------------------------------------------------------------------------------
+
+      <s>                                   <c>                      <c>                  <c>
+      Equity compensation plans
+       approved by security holders         1,870,706                $1.73                1,137,500
+
+      Equity compensation plans
+       not approved by security
+       holders                                  -                      -                      -
+      ---------------------------------------------------------------------------------------------------
+      Total                             1,870,706                    $1.73                1,137,500
+      ===================================================================================================
+</TABLE>
+
+
+<PAGE>  8
+
+
+ITEM 6.  SELECTED FINANCIAL DATA
+
+<TABLE>
+<CAPTION>
+
+(In thousands, except per share amounts)                   Years ended December 31
+--------------------------------------------------------------------------------------------------
+                                              2003        2002        2001        2000       1999
+
+<s>                                         <c>         <c>         <c>         <c>        <c>
+Revenues                                    $14,680     $19,150     $33,339     $42,786    $32,871
+Income (loss) from continuing operations       (709)     (2,530)     (1,708)      1,753         57
+Income (loss) from continuing operations
+ per common share:
+  Basic and diluted                            (.21)       (.77)       (.52)        .54        .02
+Total Assets                                  5,291       5,873      10,342      15,494     15,657
+Long term debt                                    -           -           -       1,726      4,578
+Stockholders' equity                          3,291       4,029       6,531       8,202      6,417
+Dividends paid                                    -           -           -           -          -
+--------------------------------------------------------------------------------------------------
+</TABLE>
+
+ITEM 7.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+         RESULTS OF OPERATIONS
+
+Cautionary Statement Regarding Forward-Looking Statements
+
+      The discussions set forth below and elsewhere in this Annual Report
+on Form 10-K contain certain statements, based on current expectations,
+estimates, forecasts and projections about the industry in which we operate
+and management's beliefs and assumptions, which are not historical facts
+and are considered forward-looking statements within the meaning of the
+Private Securities Litigation Reform Act of 1995 (the "Act"). Forward-
+looking statements include, without limitation, any statement that may
+predict, forecast, indicate, or imply future results, performance, or
+achievements, and may contain the words "believe", "will be", "will
+continue", "will likely result", "anticipates", "seeks to", "estimates",
+"expects", "intends", "plans", "predicts", "projects", and similar words,
+expressions or phrases of similar meaning. Our actual results could differ
+materially from those projected in the forward-looking statements as a
+result of certain risks, uncertainties and assumptions, which are difficult
+to predict. Many of these risks and uncertainties are described under the
+heading "Risk, Uncertainties and Other Factors That May Affect Future
+Results" below. All forward-looking statements included in this document
+are based upon information available to us on the date hereof. We undertake
+no obligation to update publicly any forward-looking statements, whether as
+a result of new information, future events or otherwise. In addition, other
+written or oral statements made or incorporated by reference from time to
+time by us or our representatives in this report, other reports, filings
+with the Securities and Exchange Commission ("SEC"), press releases,
+conferences, or otherwise may be forward-looking statements within the
+meaning of the Act.
+
+Overview
+
+      For the year ended December 31, 2003, we reported a net loss of
+$709,000 or $.21 per share on revenues of $14,680,000. This compares with a
+net loss of $2,530,000 or $.77 per share on revenues of $19,150,000
+recorded for the year ending December 31, 2002. The net loss for 2002
+included (i) a $455,000 charge to fully reserve for all deferred tax
+assets; (ii) $333,000 in inventory valuation charges and (iii) a $101,000
+charge to write off all recorded goodwill arising from the acquisition of
+InfiNet.
+
+      The 23% decline in sales revenues in 2003 was again a reflection of
+the continued softness in corporate buying in the telecommunications
+equipment sector. There have, however, been some signs of improvement in
+our industry as evidenced by improved operating results from some of the
+key manufacturers, and we are encouraged by an increase in sales quotation
+activities. Our overall strategy has been to properly size our business in
+relation to current revenue run-rates, while preserving our key technical
+resources that are critical to maintaining and growing a systems and
+services business. We have remained in a somewhat defensive posture,
+attempting to offset the financial impact of a reduced revenue stream by
+reducing, more tightly controlling, and deferring where possible, operating
+costs and expenses. As a result, despite the year-over-year revenue
+decline, we managed to reduce our comparative net loss by 72% (57%
+excluding the 2002 charges noted above). We accomplished this through (i)
+increasing our profit margins from 19% to 26% through new revenue
+opportunities such as selling Avaya maintenance contracts, personnel
+reductions, improved product buying and outsourcing equipment repair
+operations; and (ii) reducing our selling, general and administrative
+expenses by 21% year-over-year.
+
+
+<PAGE>  9
+
+
+      Having made substantial progress in reducing costs and increasing
+profit margins, our primary business focus for the near term will center on
+strategies to increase sales revenues. We believe that our return to
+profitability will now be driven more so by increasing sales levels than
+from further cost reductions. To that end, we have been hiring additional
+experienced salespersons to provide more coverage of existing and potential
+customers located within the market areas that we serve; broadening our
+product offerings; and increasing the marketing of our products and
+capabilities, including our on-line electronic ordering system. However,
+should there be a continuation of operating losses, we will implement
+further cost and infrastructure reduction measures as deemed necessary,
+which may hinder the execution of our long-term growth plans. As further
+described in the Liquidity and Capital Resources section below, our current
+cash position and borrowing capacity could be a limiting factor to our
+growth, particularly if operating losses continue or, if growth is
+predominantly in the systems products since under our current loan
+agreement, we are prohibited from borrowing against receivables generated
+by systems sales until such time as the systems are installed. Under these
+circumstances, we could deplete our cash, borrowing availability and/or
+require a higher credit line. However, as of December 31, 2003, we had $3.1
+million in working capital and no bank debt. Additional information on our
+results of operations and financial condition for the year ended December
+31, 2003 follows below.
+
+Results of Operations
+
+Year Ended December 31, 2003 Compared To 2002
+
+<TABLE>
+<CAPTION>
+
+      Revenues
+
+                                               Year Ended December 31,
+                                          --------------------------------
+      (Dollars in thousands)                 2003      %       2002      %
+      --------------------------------------------------------------------
+
+      <s>                                 <c>        <c>    <c>        <c>
+      End-user equipment sales            $11,561     79    $14,116     74
+      Equipment sales to resellers          1,368      9      3,205     17
+      --------------------------------------------------------------------
+      Total equipment sales                12,929     88     17,321     91
+      --------------------------------------------------------------------
+
+      Services                              1,520     10      1,799      9
+      Other revenue                           231      2         30      -
+      --------------------------------------------------------------------
+      Total services and other revenue      1,751     12      1,829      9
+      --------------------------------------------------------------------
+      Consolidated revenues               $14,680    100    $19,150    100
+      ====================================================================
+</TABLE>
+
+      Equipment Sales. Total equipment sales for the year ended December
+31, 2003 were $12,929,000, down $4,392,000 or 25% from the comparable 2002
+period. The decrease consisted of a $2,555,000 or 18% decline in end-user
+sales, and a $1,837,000 or 57% decline in equipment sales to resellers
+("wholesale sales"). End-user sales consist of both parts sales (new and
+refurbished), and systems sales (complete systems and system upgrades).
+
+      We attribute these sales declines in part to a continuing soft market
+for telecommunications equipment and to the following: (1) the turnover of
+sales personnel during the past year and the concurrent hiring and training
+of new salespersons and; (2) increased competition for sales, which has
+resulted in increased sales price discounting in order to capture business.
+During 2003, we have continued a strategy of diversifying our product
+offerings by marketing the sale of complete telecommunications systems to
+our customer base. This is a growth strategy, designed to augment our long-
+established aftermarket parts business that continues as our primary source
+of revenues. Our goal is to balance our sales effort to sell systems, parts
+and services. For the year ended December 31, 2003 system sales were
+$3,127,000, up 18% from the prior year period.
+
+      Significant portions of our equipment sales revenues are derived from
+"Business Partner" relationships with Avaya. For the past several years,
+Avaya has been pursuing a strategy of more fully utilizing its dealer
+channel as a revenue source. Through our relationships with various Avaya
+sales personnel, we are often referred Classic Avaya parts business by
+Avaya. Such referrals however, have been subject to fluctuation as Avaya's
+direct sales business fluctuates.
+
+      Services and Other Revenue. For the year ended December 31, 2003,
+service revenues were $1,520,000, down $279,000 or 16% from 2002, primarily
+attributable to lower installation revenues. For the year ended December
+31, 2003, other revenue was $231,000, up $201,000 from 2002. Other revenue
+consisted primarily of commissions earned from selling Avaya maintenance
+contracts. In these transactions we act as a sales agent of Avaya, and the
+
+
+<PAGE>  10
+
+
+service obligations are borne entirely by Avaya. During 2003 we have
+increased our focus on selling these contracts as part of our strategy to
+develop new and profitable sources of revenue for the Company.
+
+      We continue to remain cautious about the near term levels of capital
+spending for telecommunications products in the US. There have, however,
+been some signs of improvement in our industry as evidenced by improved
+operating results from some of the key manufacturers, and we are encouraged
+by an increase in sales quotation activities. Revenue generation from all
+product lines and sales channels is the primary focus of management, and
+strategies being implemented include increasing the size and experience
+level of our sales force, increased marketing of our on-line ordering
+process, and other direct-marketing approaches.
+
+      Cost of Revenues and Gross Profit. Total cost of revenues for the
+year ended December 31, 2003 was $10,794,000, down $4,733,000 or 30% from
+the comparable 2002 period. The gross profit for the year ended December
+31, 2003 was $3,886,000, up $263,000 or 7% from the comparable 2002 period.
+As a percentage of revenue, the gross profit margin was 26% for 2003,
+compared to 19% for the comparable 2002 period.
+
+      Our gross profit margins are dependent upon a variety of factors
+including (1) product mix - gross margins can vary significantly among
+parts sales, system sales and our various service offerings. The parts
+business, for example, involves hundreds of parts that generate
+significantly varying gross profit margins depending upon their
+availability, competition, and demand conditions in the marketplace; (2)
+customer mix - we sell parts to both end-users and to other equipment
+resellers. In our partnering relationship with Avaya, certain customers
+receive pre-negotiated discounts from Avaya which could lower our gross
+margins as we do business with these customers; (3) the level and amount of
+discounts and purchase rebates available to us from Avaya and its master
+distributors and (4) the level of overhead costs in relation to sales
+volume. Overhead costs consist primarily of product handling, purchasing,
+and facility costs. The combined effect of all of these factors will result
+in varying gross profit margins from period to period.
+
+      Gross Profit Margins on Equipment Sales. For the year ended December
+31, 2003, the gross profit margin on equipment sales increased to 32% from
+25% in 2002. This was primarily attributable to (i) increased margins on
+both end-user and wholesale parts sales, due to product sales mix and lower
+inventory purchase costs; (ii) increased purchase discounts and system
+rebates from Avaya; and (iii) lower license fee expense.
+
+      Gross Profit Margins on Services and Other Revenue. For the year
+ended December 31, 2003, the gross profit margin on services and other
+revenue decreased to 35%, from 40% in 2002. The decrease was attributable
+to the services component, which generated a 26% profit margin in 2003
+compared to a 39% profit margin in 2002. This decrease was attributable to
+installation service margins, which were 16% in 2003 compared to 33% in
+2002, principally due to a loss incurred on a large system installation.
+Excluding this particular installation, the profit margin would have been
+24%. Other revenues consisted of commissions earned from selling Avaya
+maintenance contracts, which generate a 100% profit margin.
+
+      Other Cost of Revenues: Other cost of revenues consists of product
+handling, purchasing and facility costs and expenses. For the year ended
+December 31, 2003, these expenses were $827,000, or 6% of equipment
+revenues, compared to $1,408,000 or 8% of equipment revenues in 2002. As a
+result of cost reduction initiatives, which included personnel reductions
+of 50%, and increased outsourcing of equipment repair operations, other
+cost of revenues were 41% lower in 2003 than 2002.
+
+      Selling, General and Administrative ("SG&A") Expenses. SG&A expenses
+for the year ended December 31, 2003 were $4,561,000, down $1,192,000 or
+21% from the comparable 2002 period. SG&A expenses for the year ended
+December 31, 2003 were 31% of revenues, compared to 30% of revenues in
+2002. In response to lower sales levels, we have been actively managing our
+headcount and tightly controlling SG&A expenses. Approximately 56% of the
+decrease in SG&A expenses was attributable to a reduction in compensation
+expenses, resulting from an 11% reduction in the average number of
+employees and lower sales commissions. We also experienced reductions in
+travel, consulting, office, depreciation, and other employment related
+expenses, offset by higher bad debt and property tax expenses. We expect to
+continue the close monitoring of our expense levels going forward into
+2004.
+
+      Interest Expense and Other Income. Interest expense for the year
+ended December 31, 2003 was $28,000, compared to $24,000 for the comparable
+2002 period. The increase in interest expense was attributable to higher
+interest rates on borrowings as our credit facility moved from Wachovia
+Bank to Business Alliance Capital Corporation. Other income for the year
+ended December 31, 2003 was $7,000, consisting of interest earned on
+
+
+<PAGE>  11
+
+
+invested cash, compared to $97,000 recorded in 2002. Other income in 2002
+included $82,000, from the sale of common stock of Anthem, Inc., which we
+received at no cost, as part of the conversion of Anthem Insurance
+Companies, Inc. from a mutual insurance company to a stock insurance
+company. The balance of other income for 2002 consisted primarily of
+interest earned on invested cash.
+
+      Provision for Income Taxes. The provision for income taxes for the
+year ended December 31, 2003 was $13,000, compared to $473,000 recorded in
+2002. The provision for income taxes in 2003 consisted entirely of
+estimated minimum state taxes. Tax expense in 2002 consisted of a provision
+of $18,000 for estimated state taxes and a $455,000 charge to increase the
+valuation allowance against our net deferred tax assets at December 31,
+2002. We maintain a full valuation allowance against our net deferred tax
+assets, which consist primarily of net operating loss and capital loss
+carryforwards, and timing differences between the book and tax treatment of
+inventory and other account valuations. Realization of these net deferred
+tax assets is dependent upon our ability to generate future taxable income.
+
+Year Ended December 31, 2002 Compared To 2001. For the year ended December
+31, 2002, we reported a net loss of $2,530,000 or $.77 per share on
+revenues of $19,150,000. This compares with a net loss of $1,708,000 or
+$.52 per share on revenues of $33,339,000 recorded for the year ending
+December 31, 2001. The net loss for 2002 included (i) a $455,000 charge to
+fully reserve for all deferred tax assets; (ii) $333,000 in inventory
+valuation charges and (iii) a $101,000 charge to write off all recorded
+goodwill arising from the acquisition of InfiNet.
+
+<TABLE>
+<CAPTION>
+
+      Revenues
+
+                                           Year Ended December 31,
+                                      --------------------------------
+      (Dollars in thousands)             2002      %       2001      %
+      ----------------------------------------------------------------
+
+      <s>                             <c>        <c>    <c>        <c>
+      End-user equipment sales        $14,146     74    $26,362     79
+      Equipment sales to resellers      3,205     17      4,519     14
+      Services                          1,799      9      2,458      7
+      ----------------------------------------------------------------
+      Consolidated revenues           $19,150    100    $33,339    100
+      ================================================================
+</TABLE>
+
+      Equipment Sales. During the year ended December 31, 2002, end-user
+equipment sales revenues, consisting of sales of both new and refurbished
+parts and systems sales, decreased by $12,216,000 or 46% from the
+comparable 2001 period. Additionally, equipment sales to resellers
+("wholesale sales") decreased by $1,314,000 or 29% from the comparable 2001
+period. Management attributes these sales declines primarily to the
+deteriorated market conditions in the U.S. economy which has resulted in
+reduced capital spending by businesses on telecommunications equipment.
+These conditions have, in turn, led to increased competition and downward
+pressure on sales prices. Another factor affecting sales levels has been
+the transitioning of our sales force. During 2002, we continued a strategy
+of developing a systems sales business, begun in 2001 with the formation of
+InfiNet, and continuing with Farmstead's appointment as a systems dealer by
+Avaya in January 2002. This is a growth strategy, designed to augment our
+long-established aftermarket parts business that continues as our primary
+source of revenues. This strategy necessitated the hiring of sales, service
+and technical design personnel experienced in systems and applications
+design and sales. As a result, we have increased our focus on selling new
+systems and system upgrades, which coupled with the turnover of certain
+experienced parts salespersons over the last two years, has contributed to
+the reduction in aftermarket parts sales. Management remains committed to
+the continuing growth of its systems business and is currently implementing
+strategies to increase its parts business, which will include the
+development of on-line ordering processes and other direct-marketing
+approaches.
+
+      Significant portions of our sales revenues are derived from "Business
+Partner" relationships with Avaya. For the past several years, Avaya has
+been pursuing a strategy of more fully utilizing its dealer channel as a
+revenue source. Through our relationships with various Avaya sales
+personnel, we are often referred business by Avaya. Such referrals however,
+have been subject to fluctuation as Avaya's direct sales business itself
+fluctuates.
+
+      Services. During the year ended December 31, 2002, service revenues
+decreased by $659,000 or 27% from the comparable 2001 period. The decrease
+was primarily attributable to lower installation revenues and secondarily
+to lower equipment rentals. Installation revenues are generated primarily
+from the sale of systems and system upgrades which as noted above, have
+been negatively affected by the market downturn.
+
+      Cost of Revenues and Gross Profit. Total cost of revenues for the
+year ended December 31, 2002 was $15,527,000, a decrease of $11,154,000 or
+42% from the comparable 2001 period. The gross profit for the year ended
+December 31, 2002 was $3,623,000, a decrease of $3,035,000 or 46% from the
+comparable 2001 period. As a percentage of revenue, the gross profit margin
+was 19% for 2002, as compared to 20% for the comparable 2001
+
+
+<PAGE>  12
+
+
+period. These recorded gross profit margins were negatively affected by
+inventory valuation charges of $333,000 in 2002, and $1,443,000 in 2001
+necessitated by industry market conditions. Excluding these adjustments,
+the gross profit margin in each year would have been 20% for 2002 and 24%
+for 2001.
+
+      Our gross profit margins are dependent upon a variety of factors
+including (1) product mix - gross margins can vary significantly among
+parts sales, system sales and our various service offerings. The parts
+business, for example, involves hundreds of parts that generate
+significantly varying gross profit margins depending upon their
+availability, competition, and demand conditions in the marketplace; (2)
+customer mix - we sell parts to both end-users and to other equipment
+resellers. In our partnering relationship with Avaya, certain customers
+receive pre-negotiated discounts from Avaya which could lower our gross
+margins as we do business with these customers; (3) the level and amount of
+discounts and purchase rebates available to us from Avaya and its master
+distributors and (4) the level of overhead costs in relation to sales
+volume. Overhead costs consist primarily of materials handling, purchasing,
+and facility costs. The combined effect of all of these factors will result
+in varying gross profit margins from period to period.
+
+      The reduction in gross profit dollars during the year ended December
+31, 2002 was primarily attributable to lower sales levels, for the reasons
+discussed above. The gross profit margin for 2002, excluding the effect of
+the inventory valuation charges noted above, was affected by (1) increased
+sales competition, and downward pressure on sales pricing in our
+aftermarket end-user parts sales channel; (2) increased wholesale sales as
+a percent of total sales revenues. Wholesale sales generate margins that
+are lower than end-user margins and for 2002 were 17% of revenue compared
+with 14% in 2001; and (3) overhead costs, consisting principally of higher
+overhead costs as a percent of revenues. As a partial offset, we recorded
+improved gross profit margins on both systems sales and installation
+services in 2002, as compared with the comparable prior year periods, and
+also benefited from license fee reductions implemented by Avaya during
+2002.
+
+      Selling, General and Administrative ("SG&A") Expenses. SG&A expenses
+for the year ended December 31, 2002 were $5,753,000, a decrease of
+$2,366,000 or 29% from the comparable 2001 period. SG&A expenses were 30%
+of revenues in 2002 as compared to 24% of revenues in 2001. Of the total
+decrease in SG&A, $909,000 was attributable to the downsizing of the
+operations of InfiNet. This was the result of the acquisition by Farmstead
+of its own systems dealer license in January 2002, and a change in strategy
+concerning the business use of InfiNet. As a result, InfiNet was inactive
+for most of 2002. The remaining $1,457,000 decrease in SG&A expenses was
+attributable to the operations of Farmstead and included (i) an $880,000
+(20%) reduction in payroll expenses as a result of lower employment levels
+than the prior year period, lower sales commissions due to lower sales
+levels, and management and director pay reductions; (ii) cost-reduction
+initiatives in response to lower sales levels, which has resulted in
+reduced marketing, travel, legal, consulting and other office and
+employment-related expenses; (iii) $201,000 in reduced bad debt expense
+resulting from a $33,000 reserve reduction due to better than expected
+receivable collections, a $15,234 bad debt recovery and lower sales volume
+and (iv) lower depreciation expense. In connection with the downsizing of
+InfiNet, we wrote off $101,000 of goodwill associated with its acquisition.
+
+      Interest Expense, Other Income and Minority Interest. Interest
+expense for the year ended December 31, 2002 was $24,000, compared with
+$144,000 for the comparable 2001 period. The decrease in interest expense
+was attributable to both lower average borrowings and lower borrowing
+costs.
+
+      Other income for the year ended December 31, 2002 was $97,000,
+compared with $42,000 for 2001. Other income for 2002 included $81,727
+representing the net proceeds from the sale of common stock of Anthem,
+Inc., which we received at no cost, as part of the conversion of Anthem
+Insurance Companies, Inc. from a mutual insurance company to a stock
+insurance company, with the balance consisting primarily of interest earned
+on invested cash. Other income for the year ended December 31, 2001
+consisted primarily of interest earned on invested cash.
+
+      Minority interest in income of subsidiary of $128,000 for the year
+ended December 31, 2001, represented the 49.9% share of the net income of
+InfiNet earned by TriNET. Effective January 1, 2002, we acquired all of
+TriNET's ownership interest in InfiNet for an aggregate cash purchase price
+of $153,334.
+
+      Provision for Income Taxes. We recorded tax expense of $473,000 for
+the year ended December 31, 2002, compared with tax expense of $17,000 for
+2001. Tax expense in 2002 consisted of a provision for estimated minimum
+state taxes of $18,000 and a $455,000 charge to increase the valuation
+allowance against the Company's net deferred tax assets at December 31,
+2002. Our net deferred tax assets consist primarily of net operating loss
+and
+
+
+<PAGE>  13
+
+
+capital loss carryforwards, and timing differences between the book and tax
+treatment of inventory and other asset valuations. Realization of these net
+deferred tax assets is dependent upon our ability to generate future
+taxable income. Given the significant losses that we incurred in 2002 and
+2001, management determined that it was prudent to provide a full valuation
+allowance against its net deferred tax assets. Tax expense in 2001
+consisted of estimated minimum required state taxes.
+
+Liquidity and Capital Resources
+
+      Working capital, defined as current assets less current liabilities,
+was $3,129,000 at December 31, 2003, a decrease of $616,000 or 16% from
+$3,745,000 at December 31, 2002. The working capital ratio was 3.1 to 1 at
+December 31, 2003, compared to 3.5 to 1 at December 31, 2002. Operating
+activities used $87,000 during 2003, compared to the use of $104,000 in
+2002. Net cash used by operating activities in 2003 consisted of a net loss
+of $709,000 adjusted for non-cash items of $267,000, and net cash generated
+by changes in operating assets and liabilities of $355,000. Net cash
+generated by changes in operating assets and liabilities was primarily
+attributable to improved collections on accounts receivable and planned
+reductions in inventory stocking levels.
+
+      Investing activities used $83,000 during 2003, compared to $257,000
+in 2002. Net cash used by investing activities in 2003 consisted of capital
+expenditures. Net cash used by investing activities in 2002 consisted of
+(i) the $153,000 purchase price for the acquisition of TriNET's 49.9%
+ownership interest in InfiNet, and (ii) $104,000 in capital expenditures.
+During 2002, we started the development of an e-business platform, to
+enable customers to transact business with us electronically. Capitalized
+costs as of December 31, 2003 amounted to $92,000, $48,000 of which was
+incurred in 2003. There are currently no material commitments for capital
+expenditures. Pursuant to our loan agreement with BACC, we are restricted
+from committing to capital expenditures in any fiscal year period in excess
+of $150,000without their prior approval.
+
+      Financing activities provided $3,000 during 2003 from the issuance of
+12,643 shares of common stock to employees under our employee stock purchase
+plan ("ESPP"), compared to using $124,000 in 2002. Net cash used by financing
+activities in 2002 consisted of $37,000 in capital lease payments to fully
+pay-off a lease obligation, a $100,000 capital distribution to TriNET out of
+the accumulated earnings of InfiNet, and $13,479 from 26,379 common shares
+issued to employees under the ESPP.
+
+      On February 19, 2003 the Company entered into a one-year, $1.5
+million revolving loan agreement (the "BACC Agreement") with Business
+Alliance Capital Corporation ("BACC"), replacing a similar $500,000 credit
+facility with Wachovia Bank, National Association that was expiring
+February 28, 2003. Under the terms of the BACC Agreement, borrowings are
+advanced at 75% of eligible accounts receivable, as defined (primarily
+receivables that are less than 90 days old and, in the case of system
+sales, the receivable does not become "eligible" until the system has been
+installed), and at 25% of the value of eligible inventory, as defined
+(primarily inventory that was purchased pursuant to a firm customer order),
+provided that the amount advanced against eligible inventory shall not
+exceed $200,000 or 30% of all outstanding advances under the BACC
+Agreement. Interest is charged at the per annum rate of one and one-half
+percentage points (1.5%) above the prime rate, but not less than 5.75%,
+subject to a minimum interest charge based on an average daily loan balance
+of $250,000 regardless of the actual average loan balance. Under the BACC
+Agreement, the Company is charged an annual facility fee of 1% of the
+facility and a monthly servicing fee equal to .25% of the average
+outstanding loan balance, subject to a minimum average daily loan balance
+of $250,000. As additional security to BACC, the Company issued a $300,000
+standby letter of credit in favor of BACC, secured by cash, which can be
+drawn upon 90 days after an event of default. The BACC Agreement restricts
+the Company from the payment of dividends and limits capital expenditures
+during the term of the agreement to $150,000, without the consent of BACC.
+The BACC Agreement contains no specific financial covenants however, it
+defines certain circumstances under which the agreement can be declared in
+default and subject to termination, including among others if (i) there is
+a material adverse change in the Company's business or financial condition;
+(ii) an insolvency proceeding is commenced; (iii) the Company defaults on
+any of its material agreements with third parties; (iv) the Company fails
+to comply with the terms, representations and conditions of the agreement,
+and (v) there are material liens or attachments levied against the
+Company's assets. In the event the BACC Agreement is terminated prior to
+its expiration date, the Company shall pay a fee in an amount equal to 4%
+of the advance limit.
+
+
+<PAGE>  14
+
+
+      On February 19, 2004, the BACC Agreement was extended for an
+additional one-year term with the following modifications: (i) the advance
+limit was increased to $1.7 million; and (ii) the amount which could be
+advanced against eligible inventory was increased to $400,000.
+
+      We are dependent upon generating positive cash flow from operations
+and upon our revolving credit facility to provide cash to satisfy working
+capital requirements. No assurances can be given that we will have
+sufficient cash resources to finance future growth. Historically, our
+working capital borrowings have increased during periods of revenue growth.
+This is because our cash receipts cycle is longer than our cash
+disbursements cycle. As our revenues from systems sales increases, as
+management expects, the cash receipts cycle may lengthen, unless we can
+consistently negotiate progress payments under our systems sales contracts.
+Under the current lending agreement, we are prohibited from borrowing
+against receivables generated by systems sales until the systems are
+installed. Under these circumstances, we could run out of availability
+and/or require a higher credit line. In order to obtain additional
+financing, we may first need to demonstrate improved operating performance.
+No assurances can be given that we will have sufficient cash resources to
+finance possible future growth, and it may become necessary to seek
+additional financing sources for such purpose.
+
+Recent Accounting Pronouncement
+
+      In December 2003, the Financial Accounting Standards Board ("FASB")
+issued SFAS No. 132 (revised 2003), "Employers' Disclosures about Pensions
+and Other Postretirement Benefits, an Amendment of FASB Statements No. 87,
+88 and 106" ("SFAS No. 132"). SFAS No. 132 requires, for defined benefit
+pension plans and other defined postretirement benefit plans, additional
+disclosures regarding plan assets, investment strategy, measurement date,
+plan obligations, cash flows and components of net periodic benefit cost,
+effective upon issuance. The Company adopted the disclosure requirements
+under SFAS 132 for the year ended December 31, 2003. See Note 12 of the
+Notes to Consolidated Financial Statements included herein.
+
+Critical Accounting Policies and Estimates
+
+      Our financial statements are prepared in accordance with accounting
+principles generally accepted in the United States of America. These
+accounting principles require management to make a number of assumptions
+and estimates about future events that affect the reported amounts of
+assets, liabilities, revenue and expenses in our consolidated financial
+statements and accompanying notes. Management bases its estimates on
+historical experience and various other assumptions about future events
+that are believed to be reasonable. These estimates are based on
+management's best knowledge of current events and actions that may impact
+the Company in the future. Actual results could differ from these
+estimates, and any such differences could be material to the financial
+statements. We believe that the following policies may involve a higher
+degree of judgment and complexity in their application and represent the
+critical accounting policies used in the preparation of our financial
+statements.
+
+      Revenue recognition: Revenue from sales of equipment is generally
+recognized when persuasive evidence of an agreement exists, shipment has
+occurred, the sales price is fixed and determinable, and collection of the
+resulting receivable is probable. Additionally, for sales of systems where
+installation requirements are our responsibility, revenue is recognized on
+the equipment portion of the transaction upon shipment of the equipment,
+and revenue is recognized on the installation portion of the transaction
+upon completion of the installation. Revenues on other services are
+recognized when the services are rendered. We record reductions to revenue
+for estimated product returns, based on historical experience.
+
+      Inventory valuation: We periodically assess the valuation of
+inventory and adjust the value for estimated excess and obsolete inventory
+based upon assumptions about current and future demand and market
+conditions. Such estimates are difficult to make under current volatile
+economic conditions. Reviews for excess inventory are done periodically
+during the year and required reserve levels are calculated with reference
+to the projected ultimate usage of that inventory. In order to determine
+the ultimate usage, we take into account recent sales history, forecasts,
+projected obsolescence and our current inventory levels. The excess balance
+determined by this analysis becomes the basis for our excess inventory
+charge. If actual market conditions are less favorable than those projected
+by management, additional write-downs may be required. If actual market
+conditions are more favorable than anticipated, inventory previously
+written down may be sold, resulting in lower cost of sales and higher
+earnings from operations than expected in that period.
+
+
+<PAGE>  15
+
+
+      Collectibility of Accounts Receivable: The allowance for doubtful
+accounts is based upon our assessment of the collectibility of specific
+customer accounts and the aging of the accounts receivable. Reviews of our
+receivables are performed continuously during the year, and reserve levels
+are adjusted when determined necessary. If there were a deterioration of a
+major customer's creditworthiness, or actual defaults were higher than our
+historical experience, we could be required to increase our allowance and
+our earnings could be adversely affected.
+
+      Long-Lived Assets: We have recorded property and equipment and
+intangible assets at cost less accumulated depreciation. The determination
+of useful lives and whether or not those assets are impaired involves
+significant judgment. We conducted the required annual goodwill impairment
+review during the fourth quarter of 2002. In considering the facts that our
+wholly-owned subsidiary, InfiNet, was downsized during the year, was
+inactive at year-end with no operating employees, and that management had
+no current plans for generating business through InfiNet, we recorded a
+goodwill impairment charge of $101,000 as an operating expense, fully
+writing off all previously recorded goodwill from the acquisition of this
+entity.
+
+      Income Taxes and Deferred Tax Assets: Significant judgment is
+required in determining our provision for income taxes and in determining
+whether deferred tax assets will be realized in full or in part. The
+deferred tax valuation allowance was calculated in accordance with the
+provisions of SFAS No. 109, "Accounting for Income Taxes", which places
+primary importance on a company's cumulative operating results for the
+current and preceding years. Additionally, when it is more likely than not
+that all or some portion of specific deferred tax assets such as net
+operating loss carryovers will not be realized, a valuation allowance must
+be established for the amount of the deferred tax assets that are
+determined not to be realizable. In our judgment, the significant losses
+incurred in 2003, 2002 and 2001 represented sufficient evidence to require
+a valuation allowance, and for 2003 and 2002 we established a full
+allowance against our deferred tax assets as of December 31 of each year.
+In 2002, that resulted in a fourth quarter charge to income tax expense of
+$455,000.
+
+Risks, Uncertainties and Other Factors That May Affect Future Results
+
+      Our prospects are subject to certain uncertainties and risks.
+Management recognizes the challenges that it faces, particularly during
+this period of diminished sales levels, and has adopted a number of
+strategies and action steps to deal with its current operating environment.
+Disclosure of our strategies and action steps is contained in the
+discussions set forth in Item 7. "Management's Discussion and Analysis of
+Financial Condition and Results of Operations", and elsewhere herein. These
+risks and uncertainties are also detailed from time to time in reports we
+file with the SEC, including Forms 8-K, 10-Q, and 10-K, and include, among
+other factors, the following principal risks:
+
+      *  Our business is materially impacted by capital spending levels for
+telecommunications products and services in the United States.
+
+      As a result of the economic downturn that commenced in 2001, many
+businesses have reduced or deferred capital expenditures for
+telecommunications equipment. Our reported 2003 revenues were 23% lower
+than 2002 revenues, and 2002 revenues were in turn 43% lower than 2001
+levels. In addition, this situation has resulted in increased pricing and
+competitive pressures, which have contributed to our revenue erosion. If
+business capital spending for telecommunications products does not improve,
+or if economic conditions in the U.S. deteriorate, our revenues may
+continue to decline and our operating results will be adversely affected.
+We remain cautious about the telecommunications product marketplace going
+forward, and cannot predict whether the level of capital spending for the
+Company's products will improve in the near term. As a result, we believe
+that there will be continued pressure on our ability to generate revenue in
+excess of current levels.
+
+      *  Our business is heavily dependent upon Avaya, as our primary
+supplier of equipment for resale.
+
+      We primarily sell Avaya telecommunications products and services
+through various Dealer and license agreements with Avaya. The Company is
+dependent upon the quality and price-competitiveness of current Avaya
+products as well as Avaya's continued development of new products in order
+to compete. The Company's current sales levels for new parts and systems
+would be adversely impacted should market demand for these Avaya products
+significantly decline. Should Avaya's operations deteriorate to the point
+that it either cannot continue to introduce technologically new products or
+effectively compete with other equipment manufacturers, our long-term
+business strategy to continue as an Avaya dealer would be adversely
+affected.
+
+
+<PAGE>  16
+
+
+      Our new parts and systems sales levels would also be adversely
+impacted if the Avaya dealer and license agreements were terminated, or if
+Avaya eliminated its "Business Partner" programs. It is Avaya's current
+intent to generate a larger percentage of its revenues from its dealer
+base, of which we are one. On some of its major accounts, companies such as
+Farmstead are selected to participate in the fulfillment of certain parts
+of the customer's orders through a "partnering" arrangement with the local
+Avaya sales team. Through these partnering arrangements, we are referred
+opportunities to supply both parts and systems, for which the Avaya sales
+team receives compensation from Avaya. Revenues generated by us through
+this program are significant to our near-term overall revenues and our
+operating results are dependent upon this program continuing.
+
+      The ARS aftermarket program currently expires December 31, 2004;
+however, Avaya is currently considering replacing it with a successor
+program that would require the ARS companies to purchase refurbished
+"Classic Avaya" equipment directly from Avaya, instead of their exclusive
+use of the "Classic Avaya" label. The program, as it's currently
+contemplated, would allow other companies to purchase refurbished "Classic
+Avaya" equipment directly from Avaya as well. We cannot predict whether the
+ARS program will continue throughout 2004 or what the terms and conditions
+of any successor program might be or how it might impact us. We believe
+that should the ARS program not be renewed, it will not have a material
+adverse impact on our ability to sell refurbished equipment.
+
+      *  Our gross profit margins vary from period to period.
+
+      Our gross profit margins are dependent upon a variety of factors
+including (1) product mix - gross margins can vary significantly among
+parts sales, system sales and our various service offerings. The parts
+business, for example, involves hundreds of parts that generate
+significantly varying gross profit margins depending upon their
+availability, competition, and demand conditions in the marketplace; (2)
+customer mix - we sell parts to both end-users and to other equipment
+resellers. In our partnering relationship with Avaya, certain customers
+receive pre-negotiated discounts from Avaya which could lower our gross
+margins as we do business with these customers; (3) the level and amount of
+vendor discounts and purchase rebates available to us from Avaya and its
+master distributors; (4) excess capacity - as sales volume falls, overhead
+costs become a higher percentage of sales dollars; (5) competitive
+pressures - as a result of the slowdown in capital equipment spending in
+our industry, we have been faced with increased price competition; and (6)
+obsolescence charges. The combined effect of all of these factors will
+result in varying gross profit margins from period to period.
+
+      *  Our gross profit margins and operating expenses could be adversely
+affected by a reduction in purchase discount and other rebate or incentive
+programs currently offered by Avaya.
+
+      As an Avaya Dealer, we receive substantial rebates and other cash
+incentives from Avaya, based upon volume levels of certain product
+purchases, which are material to our operating results and which help
+reduce product purchase costs, market development and marketing expenses.
+These incentive programs are subject to change by Avaya, and no assurances
+can be given that they would not be altered so as to adversely impact our
+profit margins or operating expenses.
+
+      *  We may not have adequate cash or credit lines to finance the
+Company's working capital requirements.
+
+      As further discussed under "Liquidity and Capital Resources", our
+operating losses over the past three years have significantly reduced the
+amount of credit available to us from outside lenders, and increased the
+cost of borrowed funds. We are currently dependent upon cash generated from
+operations, and borrowings under a revolving credit facility, to satisfy
+our working capital requirements. Our revolving credit borrowings are based
+upon the generation of eligible accounts receivable. As our revenues have
+declined, so too have our receivables and borrowing availability. A
+material adverse change in our business going forward could result in a
+covenant default, which could lead to an early termination of the credit
+facility. In addition, continued losses could consume our current cash
+reserves, and negatively affect our ability to obtain replacement financing
+until we could demonstrate improved operating results or a return to
+profitability. No assurances can be given that we will have sufficient cash
+resources to finance future growth, and it may become necessary to raise
+additional funds through public or private debt or equity financings, which
+may also not be available to us until operating performance improves, and
+which may dilute stockholder ownership in us.
+
+      *  We are faced with intense competition and rapidly changing
+technologies, and we may become unable to effectively compete in our
+marketplace.
+
+
+<PAGE>  17
+
+
+      We operate in a highly competitive marketplace. Over the years, our
+marketplace has become subject to more rapid technological change as
+communications systems have been evolving from stand-alone voice systems to
+more highly integrated, software-driven systems. Since we principally sell
+Avaya products, our competitive position in the marketplace is highly
+dependent upon Avaya's ability to continue to be a market leader in the
+product lines that we sell. Our competitors principally include Avaya and
+other new equipment manufacturers that similarly compete against Avaya
+products, including Nortel Networks Corporation, Siemens
+Aktiengesellschaft, Alcatel S.A. and NEC Corporation along with their local
+and regional dealers, and other Avaya business partners. In the sale of
+Classic Avaya(TM) products, we compete with the other Avaya-designated ARS
+Dealers. We believe that key competitive factors in our market are price,
+timeliness of delivery, service and product quality and reliability. Due to
+the reduction in business capital spending on telecommunications products,
+which has developed in the U.S. over the past few years, competitive
+pressures have intensified. We also anticipate intensified competition from
+larger companies having substantially greater technical, financial and
+marketing resources, as well as larger customer bases and name recognition.
+As the industry further develops voice and data converged products, we
+anticipate encountering a broader variety of competitors, including new
+entrants from related computer and communication industries.
+
+      *  If we are unable to attract and retain key management and sales
+employees, we will not be able to compete effectively and our business may
+not be successful.
+
+      Our success is highly dependent upon our ability to hire and retain
+key technical, sales and executive personnel. Competition for such
+personnel is currently intense in our industry, and our deterioration in
+revenues over the past two years has been partly due to turnover of such
+key employees. If we fail to hire and retain a sufficient number of high-
+quality personnel, we may not be able to maintain or expand our business.
+We have been attempting to expand our systems sales business, which
+requires more highly skilled technical and sales personnel than our
+aftermarket parts business, and a failure to hire and retain such personnel
+would restrict our ability to effectively develop this sales growth
+strategy.
+
+      *  We could be delisted by the American Stock Exchange.
+
+      Should we continue to record operating losses, fall below minimum
+required levels of stockholders' equity, fall below required minimum
+shareholder or market capitalization levels and /or if our common stock
+continues to trade at a "low price per share", we could be subject to
+delisting by the American Stock Exchange (the "Exchange"). In considering
+whether a security warrants continued trading and/or listing on the
+Exchange, many factors are taken into account, such as the degree of
+investor interest in the company, its prospects for growth, the reputation
+of its management, the degree of commercial acceptance of its products, and
+whether its securities have suitable characteristics for auction market
+trading. Thus, any developments which substantially reduce the size of a
+company, the nature and scope of its operations, the value or amount of its
+securities available for the market, or the number of holders of its
+securities, may occasion a review of continued listing by the Exchange. The
+determination as to whether a security warrants continued trading is not
+based on any precise mathematical formula rather, each case is considered
+on the basis of all relevant facts and circumstances and in light of the
+objectives of the Exchange's policies regarding continued listing.
+
+      *  Other risks
+
+      In addition to the specific risks and uncertainties discussed above,
+our future operating performance can also be affected by: performance and
+reliability of products; the maintenance of our level of customer service
+and customer relationships; adverse publicity; business disruptions; acts
+of terrorism within the U.S., and the impact of those acts on the U.S.
+economy; and other events that can impact revenues and business costs. The
+risks included here are not exhaustive. Other sections of this report may
+include additional factors, which could adversely affect our business and
+financial performance. Moreover, we operate in a very competitive and
+rapidly changing environment. New risk factors emerge from time to time and
+it is not possible for management to predict all such risk factors, nor can
+it assess the impact of all such risk factors on its business or the extent
+to which any factor, or combination of factors, may cause actual results to
+differ materially from those contained in any forward-looking statements.
+Given these risks and uncertainties, investors should not place undue
+reliance on forward-looking statements as a prediction of actual results.
+
+
+<PAGE>  18
+
+
+      Investors should also be aware that while we do, from time to time,
+communicate with securities analysts, it is against our policy to disclose
+to them any material information unless such information shall have been
+previously or is simultaneously disclosed in a manner intended to provide
+broad, non-exclusionary distribution of the information to the public.
+Accordingly, shareholders should not assume that we agree with any
+statement or report issued by any analyst irrespective of the content of
+the statement or report. Furthermore, we have a policy against issuing or
+confirming financial forecasts or projections issued by others. Thus, to
+the extent that reports issued by securities analysts contain any
+projections, forecasts or opinions, such reports are not our
+responsibility.
+
+ITEM 7A.  QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+      Interest rates: Market risks which have the potential to affect our
+earnings and cash flows result primarily from changes in interest rates.
+Our cash equivalents, which consist of an investment in a money market fund
+consisting of high quality short term instruments, principally U.S.
+government and agency issues and commercial paper, are subject to
+fluctuating interest rates. A 10 percent change in such current interest
+rates would not have a material effect on our results of operations or cash
+flow. We are also exposed to market risk from changes in the interest rate
+related to our revolving credit facility, which is based upon the Prime
+Rate, which is a floating interest rate. Assuming an average borrowing
+level of $250,000 (which amount approximated the average amount borrowed
+under our revolving credit facility during the year ended December 31,
+2003), each 1 percentage point increase in the Prime Rate would result in
+$2,500 of additional annual interest charges. We do not currently use
+interest rate derivative instruments to manage exposure to interest rate
+changes.
+
+      Cash Surrender Value of Company-owned insurance policies: The Company
+invests the cash surrender value of its Company-owned insurance policies in
+various investment portfolios administered by the respective insurance
+companies, which include investments in debt and equity securities. The
+cash surrender value is therefore subject to market risk and market
+fluctuations. The Company believes that this risk is moderated by the
+diversity of the underlying investments. As of December 31, 2003, the cash
+surrender value of these policies amounted to $302,156. A hypothetical 10%
+decline in cash surrender value, resulting from a decline in the market
+value of the underlying investments, would result in a $30,215 loss to the
+Company.
+
+ITEM 8.  FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+      See Index to Financial Statements and Financial Statement Schedule in
+Item 15.
+
+ITEM 9A.  CONTROLS AND PROCEDURES
+
+(a)  Evaluation of Disclosure Controls and Procedures. Our Chief Executive
+Officer and Chief Financial Officer have evaluated the effectiveness of our
+disclosure controls and procedures (as such term is defined in Rules 13a-
+14(c) and 15d-14(c) under the Securities Exchange Act of 1934, as amended
+(the "Exchange Act")) as of a date within 90 days prior to the filing date
+of this Annual Report on Form 10-K. Based on such evaluation, such officers
+have concluded that our disclosure controls and procedures are effective in
+alerting them on a timely basis to material information relating to our
+Company required to be included in our reports filed or submitted under the
+Exchange Act.
+
+(b)  Changes in Internal Controls. There were no significant changes in our
+internal controls or in other factors that could significantly affect such
+controls subsequent to the date of their most recent evaluation.
+
+                                  PART III
+
+ITEM 10.  DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+      The information required by Item 10 is included, in part, in Item 1,
+"Executive Officers of the Registrant", and is incorporated by reference to
+our Proxy Statement in connection with our Annual Meeting of Stockholders
+to be held June 10, 2004, which will be filed with the SEC pursuant to
+regulation 14A on or before April 29, 2004.
+
+ITEM 11.  EXECUTIVE COMPENSATION
+
+      The information required by Item 11is incorporated by reference to
+our Proxy Statement in connection with our Annual Meeting of Stockholders
+to be held June 10, 2004, which will be filed with the Securities and
+Exchange Commission, pursuant to regulation 14A, on or before April 29,
+2004.
+
+
+<PAGE>  19
+
+
+ITEM 12.  SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+          AND RELATED STOCKHOLDER MATTERS
+
+      The information required by Item 12 is incorporated by reference to
+our Proxy Statement in connection with our Annual Meeting of Stockholders
+to be held June 10, 2004, which will be filed with the Securities and
+Exchange Commission, pursuant to regulation 14A, on or before April 29,
+2004.
+
+ITEM 13.  CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+      The information required by Item 13 is incorporated by reference to
+our Proxy Statement in connection with our Annual Meeting of Stockholders
+to be held June 10, 2004, which will be filed with the Securities and
+Exchange Commission, pursuant to regulation 14A, on or before April 29,
+2004.
+
+ITEM 14.  PRINCIPAL ACCOUNTANT FEES AND SERVICES
+
+      The information required by Item 14 is incorporated by reference to
+our Proxy Statement in connection with our Annual Meeting of Stockholders
+to be held June 10, 2004, which will be filed with the Securities and
+Exchange Commission, pursuant to regulation 14A, on or before April 29,
+2004.
+
+PART IV
+
+ITEM 15.  EXHIBITS, FINANCIAL STATEMENT SCHEDULES, AND REPORTS ON FORM 8-K
+
+(a)   Index to Financial Statements and Financial Statement Schedule
+
+                                                                       Page
+                                                                       ----
+
+      Report of Carlin, Charron & Rosen LLP                             22
+      Report of DiSanto Bertoline & Company, P.C.                       23
+      Consolidated Balance Sheets - December 31, 2003 and 2002          24
+      Consolidated Statements of Operations -
+       Years Ended December 31, 2003, 2002 and 2001                     25
+      Consolidated Statements of Changes in Stockholders' Equity -
+       Years Ended December 31, 2003, 2002, and 2001                    25
+      Consolidated Statements of Cash Flows -
+       Years Ended December 31, 2003, 2002, and 2001                    26
+      Notes to Consolidated Financial Statements                        27
+
+      Financial Statement Schedule:
+      Report of Carlin, Charron & Rosen LLP                             38
+      Report of DiSanto Bertoline & Company, P.C.                       39
+      Schedule II - Valuation and Qualifying Accounts                   40
+
+(b)   Exhibits: See Index to Exhibits on page 41.
+
+      (c) Reports on Form 8-K: On December 22, 2003, a Form 8-K was filed
+with the Securities and Exchange Commission to report that on December 22,
+2003 a press release was issued announcing (i) the renewal of our
+Authorized Remarketing agreements with Avaya for an additional one-year
+term; (ii) the extension of the Chief Executive Officer's full-time
+employment period to December 31, 2004; the extension of the Chief
+Financial Officer's employment agreement through December 31, 2004; (iii)
+our appointment by Avaya as a "Gold" Business Partner, making us one of
+Avaya's top 40 business partners out of a total number of business partners
+that exceeds 1,500; and (iv) our appointment as an Avaya "2 Star Services
+Partner" in recognition of our principle use of the Avaya services
+organization to perform installation, maintenance, and moves, adds and
+changes for our customers.
+
+
+<PAGE>  20
+
+
+                                 SIGNATURES
+
+      Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be
+signed on its behalf by the undersigned, thereunto duly authorized on March
+25, 2004.
+
+                                       FARMSTEAD TELEPHONE GROUP, INC.
+
+
+                                       By: /s/ George J. Taylor, Jr.
+                                           -------------------------
+                                           George J. Taylor, Jr.
+                                           Chairman of the Board, Chief
+                                           Executive Officer and President
+
+      Pursuant to the requirements of the Securities Exchange Act of 1934,
+this report has been signed below by the following persons on behalf of the
+registrant and in the capacities indicated as of March 25, 2004.
+
+Signature                        Title(s)
+---------                        --------
+
+/s/ George J. Taylor, Jr.        Chairman of the Board, Chief Executive Officer
+-----------------------------    and President
+George J. Taylor, Jr.            (Principal Executive Officer)
+
+/s/ Robert G. LaVigne            Executive Vice President, Chief Financial
+-----------------------------    Officer, Secretary and Director
+Robert G. LaVigne                (Principal Financial and Accounting Officer)
+
+/s/ Harold L. Hansen             Director
+-----------------------------
+Harold L. Hansen
+
+/s/ Hugh M. Taylor               Director
+-----------------------------
+Hugh M. Taylor
+
+/s/ Joseph J. Kelley             Director
+-----------------------------
+Joseph J. Kelley
+
+/s/ Ronald P. Pettirossi         Director
+-----------------------------
+Ronald P. Pettirossi
+
+
+<PAGE>  21
+
+
+                        INDEPENDENT AUDITORS' REPORT
+
+
+To the Board of Directors and Stockholders of
+Farmstead Telephone Group, Inc.
+
+We have audited the accompanying consolidated balance sheets of Farmstead
+Telephone Group, Inc. (the "Company") as of December 31, 2003 and 2002, and
+the related consolidated statements of operations, changes in stockholders'
+equity and cash flows for the years then ended. These consolidated
+financial statements are the responsibility of the Company's management.
+Our responsibility is to express an opinion on these consolidated financial
+statements based on our audits.
+
+We conducted our audits in accordance with auditing standards generally
+accepted in the United States of America. Those standards require that we
+plan and perform the audits to obtain reasonable assurance about whether the
+consolidated financial statements are free of material misstatement. An audit
+includes examining, on a test basis, evidence supporting the amounts and
+disclosures in the consolidated financial statements. An audit also includes
+assessing the accounting principles used and significant estimates made by
+management, as well as evaluating the overall consolidated financial
+statement presentation. We believe that our audits provide a reasonable basis
+for our opinion.
+
+In our opinion, the consolidated financial statements referred to above
+present fairly, in all material respects, the financial position of Farmstead
+Telephone Group, Inc. as of December 31, 2003 and 2002, and the results of
+their operations and their cash flows for the year then ended in conformity
+with accounting principles generally accepted in the United States of
+America.
+
+
+
+/S/ CARLIN, CHARRON & ROSEN, LLP
+Glastonbury, Connecticut
+February 27, 2004
+
+
+<PAGE>  22
+
+
+                        INDEPENDENT AUDITORS' REPORT
+
+
+To the Board of Directors and Stockholders of
+Farmstead Telephone Group, Inc.
+
+We have audited the accompanying consolidated statements of operations,
+changes in stockholders' equity and cash flows of Farmstead Telephone
+Group, Inc. and subsidiaries (the "Company") for the year ended December 31,
+2001. These consolidated financial statements are the responsibility of the
+Company's management. Our responsibility is to express an opinion on these
+consolidated financial statements based on our audit.
+
+We conducted our audit in accordance with U.S. generally accepted auditing
+standards. Those standards require that we plan and perform the audit to
+obtain reasonable assurance about whether the consolidated statements of
+operations, changes in stockholders' equity and cash flows are free of
+material misstatement. An audit includes examining, on a test basis, evidence
+supporting the amounts and disclosures in the consolidated statements of
+operations, changes in stockholders' equity and cash flows. An audit also
+includes assessing the accounting principles used and significant estimates
+made by management, as well as evaluating the overall presentation of the
+consolidated statements of operations, changes in stockholders' equity and
+cash flows. We believe that our audit of the consolidated statements of
+operations, changes in stockholders' equity and cash flows provides a
+reasonable basis for our opinion.
+
+In our opinion, the consolidated statements of operations, changes in
+stockholders' equity and cash flows referred to above present fairly, in all
+material respects, the results of operations and cash flows of Farmstead
+Telephone Group, Inc. and subsidiaries for the year ended December 31, 2001
+in conformity with U.S. generally accepted accounting principles.
+
+
+
+/S/ DISANTO BERTOLINE & COMPANY, P.C.
+Glastonbury, Connecticut
+February 21, 2002
+
+
+<PAGE>  23
+
+
+                       FARMSTEAD TELEPHONE GROUP, INC.
+                         CONSOLIDATED BALANCE SHEETS
+                         December 31, 2003 and 2002
+
+<TABLE>
+<CAPTION>
+
+(In thousands, except share amounts)                                       2003        2002
+-------------------------------------------------------------------------------------------
+
+<s>                                                                     <c>         <c>
+ASSETS
+Current assets:
+  Cash and cash equivalents                                             $   827     $   994
+  Accounts receivable, net (Note 3)                                       1,408       1,869
+  Inventories, net (Note 4)                                               1,969       2,309
+  Other current assets (Note 10)                                            447          69
+-------------------------------------------------------------------------------------------
+Total Current Assets                                                      4,651       5,241
+-------------------------------------------------------------------------------------------
+Property and equipment, net (Note 5)                                        313         394
+Other assets (Note 12)                                                      327         238
+-------------------------------------------------------------------------------------------
+Total Assets                                                            $ 5,291     $ 5,873
+===========================================================================================
+
+LIABILITIES AND STOCKHOLDERS' EQUITY
+Current liabilities:
+  Accounts payable                                                      $ 1,248     $ 1,111
+  Accrued expenses and other current liabilities (Note 7)                   274         385
+-------------------------------------------------------------------------------------------
+Total Current Liabilities                                                 1,522       1,496
+-------------------------------------------------------------------------------------------
+Other liabilities (Note 12)                                                 478         348
+-------------------------------------------------------------------------------------------
+Total Liabilities                                                         2,000       1,844
+-------------------------------------------------------------------------------------------
+
+Commitments and contingencies (Note 10)
+
+Stockholders' Equity:
+  Preferred stock, $0.001 par value; 2,000,000 shares
+   authorized; no shares issued and outstanding                               -           -
+  Common stock, $0.001 par value; 30,000,000 shares
+   authorized; 3,311,601 and 3,298,958 shares issued and outstanding
+   at December 31, 2003 and 2002, respectively                                3           3
+  Additional paid-in capital                                             12,316      12,313
+  Accumulated deficit                                                    (8,996)     (8,287)
+  Accumulated other comprehensive loss                                      (32)          -
+-------------------------------------------------------------------------------------------
+Total Stockholders' Equity                                                3,291       4,029
+-------------------------------------------------------------------------------------------
+Total Liabilities and Stockholders' Equity                              $ 5,291     $ 5,873
+===========================================================================================
+</TABLE>
+
+        See accompanying notes to consolidated financial statements.
+
+
+<PAGE>  24
+
+
+                       FARMSTEAD TELEPHONE GROUP, INC.
+                    CONSOLIDATED STATEMENTS OF OPERATIONS
+                Years Ended December 31, 2003, 2002 and 2001
+
+<TABLE>
+<CAPTION>
+
+(In thousands, except per share amounts)                           2003        2002        2001
+-----------------------------------------------------------------------------------------------
+
+<s>                                                             <c>         <c>         <c>
+Revenues:
+Equipment                                                       $12,929     $17,321     $30,856
+Services and other revenue                                        1,751       1,829       2,483
+-----------------------------------------------------------------------------------------------
+Net revenues                                                     14,680      19,150      33,339
+-----------------------------------------------------------------------------------------------
+
+Cost of revenues:
+Equipment                                                         8,836      13,021      23,226
+Services and other revenue                                        1,131       1,098       1,707
+Other cost of revenues                                              827       1,408       1,748
+-----------------------------------------------------------------------------------------------
+Total cost of revenues                                           10,794      15,527      26,681
+-----------------------------------------------------------------------------------------------
+Gross profit                                                      3,886       3,623       6,658
+Selling, general and administrative expenses                      4,561       5,753       8,119
+-----------------------------------------------------------------------------------------------
+Operating loss                                                     (675)     (2,130)     (1,461)
+Interest expense                                                    (28)        (24)       (144)
+Other income                                                          7          97          42
+-----------------------------------------------------------------------------------------------
+Loss before income taxes and minority interest
+ in income of subsidiary                                           (696)     (2,057)     (1,563)
+Provision for income taxes                                           13         473          17
+-----------------------------------------------------------------------------------------------
+Loss before minority interest in income of subsidiary              (709)     (2,530)     (1,580)
+Minority interest in income of subsidiary                             -           -         128
+-----------------------------------------------------------------------------------------------
+Net loss                                                        $  (709)    $(2,530)    $(1,708)
+===============================================================================================
+
+Basic and diluted net loss per common share                     $  (.21)    $  (.77)    $  (.52)
+
+Basic and diluted weighted average common shares outstanding      3,305       3,289       3,272
+-----------------------------------------------------------------------------------------------
+</TABLE>
+
+                       FARMSTEAD TELEPHONE GROUP, INC.
+                     CONSOLIDATED STATEMENTS OF CHANGES
+                           IN STOCKHOLDERS' EQUITY
+                Years Ended December 31, 2003, 2002, and 2001
+
+<TABLE>
+<CAPTION>
+
+                                                                                    Accumulated
+                                       Common Stock      Additional     Accum-            other
+                                     ----------------       Paid-in     ulated    comprehensive
+(In thousands)                       Shares    Amount       Capital    Deficit             loss      Total
+----------------------------------------------------------------------------------------------------------
+
+<s>                                   <c>          <c>      <c>        <c>                 <c>      <c>
+Balance at December 31, 2000          3,272        $3       $12,248    $(4,049)            $  -     $8,202
+Net loss                                  -         -             -     (1,708)               -     (1,708)
+Compensatory stock options issued         -         -            37          -                -         37
+----------------------------------------------------------------------------------------------------------
+Balance at December 31, 2001          3,272         3        12,285     (5,757)               -      6,531
+Net loss                                  -         -             -     (2,530)               -     (2,530)
+Compensatory stock options issued         -         -            15          -                -         15
+Issuance of common stock                 26         -            13          -                -         13
+----------------------------------------------------------------------------------------------------------
+Balance at December 31, 2002          3,298         3        12,313     (8,287)               -      4,029
+Net loss                                  -         -             -       (709)               -       (709)
+Pension liability adjustment              -         -             -          -              (32)       (32)
+Comprehensive loss                        -         -             -          -                -       (741)
+Issuance of common stock                 13         -             3          -                           3
+----------------------------------------------------------------------------------------------------------
+Balance at December 31, 2003          3,311        $3       $12,316    $(8,996)            $(32)    $3,291
+==========================================================================================================
+</TABLE>
+
+        See accompanying notes to consolidated financial statements.
+
+
+<PAGE>  25
+
+
+                       FARMSTEAD TELEPHONE GROUP, INC.
+                    CONSOLIDATED STATEMENTS OF CASH FLOWS
+                Years Ended December 31, 2003, 2002 and 2001
+
+<TABLE>
+<CAPTION>
+
+(In thousands)                                                            2003        2002        2001
+------------------------------------------------------------------------------------------------------
+
+<s>                                                                      <c>       <c>         <c>
+Operating Activities:
+Net loss                                                                 $(709)    $(2,530)    $(1,708)
+Adjustments to reconcile net loss to net cash flows
+ (used in) provided by operating activities:
+  Provision for (reversal of) doubtful accounts receivable                  75         (33)        104
+  Provision for losses on inventories                                       28         143       1,443
+  Depreciation and amortization                                            164         215         257
+  Provision for impairment of goodwill                                       -         101           -
+  Minority interest in income of subsidiary                                  -           -         128
+  Deferred income taxes                                                      -         455           -
+  Value of compensatory stock options issued                                 -          15          37
+Changes in operating assets and liabilities:
+  Decrease in accounts receivable                                          386       1,297       3,290
+  Decrease in inventories                                                  312       1,975       1,311
+  (Increase) decrease in other assets                                     (467)         36         (18)
+  Increase (decrease) in accounts payable                                  137      (1,683)       (995)
+  Decrease in accrued expenses and other liabilities                       (13)        (95)       (848)
+------------------------------------------------------------------------------------------------------
+Net cash (used in) provided by operating activities                        (87)       (104)      3,001
+------------------------------------------------------------------------------------------------------
+Investing Activities:
+Purchases of property and equipment                                        (83)       (104)       (130)
+Acquisition of InfiNet                                                       -        (153)          -
+------------------------------------------------------------------------------------------------------
+Net cash used in investing activities                                      (83)       (257)       (130)
+------------------------------------------------------------------------------------------------------
+Financing Activities:
+Repayments under revolving credit lines                                      -           -      (1,689)
+Repayments of capital lease obligation                                       -         (37)       (102)
+Capital (distribution to) contribution from minority interest partner        -        (100)         25
+Proceeds from issuance of common stock                                       3          13           -
+------------------------------------------------------------------------------------------------------
+Net cash provided by (used in) financing activities                          3        (124)     (1,766)
+------------------------------------------------------------------------------------------------------
+Net (decrease) increase in cash and cash equivalents                      (167)       (485)      1,105
+Cash and cash equivalents at beginning of year                             994       1,479         374
+------------------------------------------------------------------------------------------------------
+Cash and cash equivalents at end of year                                 $ 827     $   994     $ 1,479
+
+Supplemental disclosure of cash flow information:
+Cash paid during the year for:
+  Interest                                                               $  26     $    25     $   155
+  Income taxes                                                               5          16          87
+Non-cash Items:
+  Increase in accrued benefit obligation recorded in
+   Stockholders' equity                                                  $  32     $     -     $     -
+</TABLE>
+
+        See accompanying notes to consolidated financial statements.
+
+
+<PAGE>  26
+
+
+                       FARMSTEAD TELEPHONE GROUP, INC.
+                 NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+1.    BUSINESS OPERATIONS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+Business Operations
+      Farmstead Telephone Group, Inc. ("Farmstead" or the "Company") is
+principally engaged as a provider of new and used Avaya, Inc. ("Avaya")
+business telecommunications parts and complete systems. The Company
+provides used, "Classic Avaya(TM) " telecommunications equipment parts
+pursuant to an "Authorized Remarketing Supplier Program" with Avaya, and
+offers the full-line of new telecommunications parts and systems as an
+Avaya Dealer. Its products are primarily customer premises-based private
+switching systems and peripheral products, including voice processing
+systems. The Company also provides telecommunications equipment
+installation, repair and refurbishing, short-term rental, inventory
+management, and related value-added services. The Company sells its
+products and services to large and mid-size, multi-location businesses as
+well as to small businesses, government agencies, and other equipment
+resellers. During the years ended December 31, 2003, 2002 and 2001, no
+single customer accounted for more than 10% of revenues.
+
+Principles of Consolidation
+      The consolidated financial statements presented herein consist of the
+accounts of Farmstead Telephone Group, Inc. and its wholly-owned
+subsidiaries, FTG Venture Corporation (inactive) and InfiNet Systems, LLC
+(which became wholly-owned effective January 1, 2002; prior thereto the
+Company owned a 50.1% interest). Since the Company owned greater than a 50%
+interest in, and exercised significant control over, InfiNet, the financial
+statements of InfiNet have been consolidated herein for all applicable
+years. All intercompany balances and transactions have been eliminated.
+
+Use of Estimates
+      The preparation of consolidated financial statements in conformity
+with accounting principles generally accepted in the United States of
+America requires management to make estimates and assumptions that affect
+the reported amounts of assets and liabilities, revenues and expenses and
+related disclosures in the consolidated financial statements. Actual
+results could differ from those estimates. Estimates are used in accounting
+for the allowances for uncollectible receivables, inventory obsolescence,
+warranty reserves, depreciation, taxes and contingencies, among others.
+Estimates and assumptions are reviewed periodically and the effects of
+revisions are reflected in the consolidated financial statements in the
+period they are determined to be necessary.
+
+Revenue Recognition
+      Revenue from sales of equipment is generally recognized when
+persuasive evidence of an agreement exists, shipment has occurred, the
+sales price is fixed and determinable, and collection of the resulting
+receivable is probable. Additionally, for sales of systems where
+installation services are the responsibility of the Company, revenue is
+recognized on the equipment portion of the transaction upon shipment of the
+equipment to the installation location, and on the installation portion of
+the transaction upon completion of the installation. Revenues on other
+services are recognized when the services are rendered. Reductions to
+revenues are recorded for estimated product returns, based on historical
+experience.
+
+Cash and Cash Equivalents
+      The Company considers all highly liquid investments purchased with an
+initial maturity of three months or less to be cash equivalents.
+
+Inventories
+      Inventories are stated at the lower of cost or market, and are valued
+on an average cost basis. The Company periodically assesses the valuation
+of inventory and will adjust the value for estimated excess and obsolete
+inventory based upon assumptions about current and future demand and market
+conditions.
+
+Property and Equipment
+      Property and equipment are stated at cost. Depreciation is computed
+using the straight-line method over the estimated useful lives of the
+related assets, which range from three to ten years, except for leasehold
+improvements, which are amortized over the shorter of the estimated useful
+life or the remaining lease term. Maintenance, repairs and minor renewals
+are charged to operations as incurred. When assets are retired or sold, the
+cost of the assets and
+
+
+<PAGE>  27
+
+
+the associated accumulated depreciation is removed from the accounts and
+any resulting gain or loss is recorded that period.
+
+Stock Compensation Plans
+      The Company accounts for stock option awards granted to officers,
+directors and employees (collectively "employees") under the recognition
+and measurement principles of Accounting Principles Board Opinion No. 25,
+"Accounting for Stock Issued to Employees" ("APB 25"). Under APB 25, no
+stock-based employee compensation cost is reflected in net income, as all
+options granted to employees under these plans have been granted at no less
+than fair market value on the date of grant. The Company applies the
+disclosure only provisions of Financial Accounting Standards Board
+Statement ("SFAS") No. 123, "Accounting for Stock-based Compensation"
+("SFAS 123") and SFAS No. 148, "Accounting for Stock-Based Compensation -
+Transition and Disclosure" ("SFAS 148") for such employee stock option
+awards. The Company accounts for stock option awards granted to consultants
+under the fair value recognition provisions of SFAS 123. Under this method,
+options are valued using the Black-Scholes option pricing method, and the
+calculated option value is recorded as an expense in the financial
+statements. Had compensation cost for the Company's stock option plans been
+determined in accordance with the fair value-based method prescribed under
+SFAS 123, the Company's net loss and basic and diluted net loss per share
+would have approximated the pro forma amounts indicated below (dollars in
+thousands except per share amounts):
+
+<TABLE>
+<CAPTION>
+
+                                                              Year ended December 31,
+                                                           -----------------------------
+                                                            2003        2002        2001
+      ----------------------------------------------------------------------------------
+
+      <s>                                                  <c>       <c>         <c>
+      Net loss, as reported                                $(709)    $(2,530)    $(1,708)
+      Deduct: Total stock-based employee compensation
+       expense determined under fair value based method
+       for all awards, net of related tax effects            (78)       (178)       (250)
+      ----------------------------------------------------------------------------------
+      Pro forma net loss                                   $(787)    $(2,708)    $(1,958)
+      ==================================================================================
+
+      Loss per share:
+        As reported                                        $(.21)    $  (.77)    $  (.52)
+        Pro forma                                          $(.24)    $  (.82)    $  (.60)
+      ==================================================================================
+</TABLE>
+
+      The weighted-average fair value of options granted during 2003, 2002
+and 2001 was $.27, $.62, and $1.24, respectively. The fair value of stock
+options used to compute pro forma net loss and net loss per share
+disclosures was estimated on the date of grant using the Black-Scholes
+option-pricing model with the following weighted-average assumptions:
+
+<TABLE>
+<CAPTION>
+
+                                                         2003     2002     2001
+                                                         ----     ----     ----
+
+                <s>                                      <c>      <c>      <c>
+                Dividend yield                              0%       0%      0%
+                Average risk-free rate                   2.93%    3.68%    4.3%
+                Expected option holding period (yrs.)     4.7      5.6     5.0
+</TABLE>
+
+Income Taxes
+      The Company provides for income taxes under the asset and liability
+method, under which deferred tax assets and liabilities are recognized for
+the future tax consequences attributable to differences between the
+financial statement carrying amounts of existing assets and liabilities and
+their respective tax basis. Deferred tax assets and liabilities are
+measured using enacted tax rates expected to apply to taxable income in the
+years in which those temporary differences are expected to be recovered or
+settled. The effect on deferred tax assets and liabilities of a change in
+tax rates is recognized in income in the period that includes the enactment
+date. Deferred tax assets are reduced by a valuation allowance if it is
+probable that a benefit will not be realized in the future.
+
+Net Loss Per Common Share
+      Basic net loss per common share was computed by dividing net loss
+(the numerator) by the weighted average number of common shares outstanding
+(the denominator) during the period. Diluted net loss per common share was
+computed by increasing the denominator by the weighted average number of
+additional shares that could have been outstanding from securities
+convertible into common stock, such as stock options and warrants, unless
+their effect on net loss per share is antidilutive. The following table
+shows securities outstanding as of December 31 that could potentially
+dilute basic earnings or loss per common share in the future that were not
+included in the current computation of diluted loss per common share
+because to do so would have been antidilutive. The amounts presented below
+for the Warrants and the Underwriter Options and Warrants (which represent
+options to acquire
+
+
+<PAGE>  28
+
+
+Units convertible into common stock and warrants) for 2001 reflect the
+maximum common shares issuable upon their full conversion (Note 13).
+
+<TABLE>
+<CAPTION>
+
+      (In thousands)                         2003     2002     2001
+      -------------------------------------------------------------
+
+      <s>                                   <c>      <c>      <c>
+      Stock Options                         1,871    1,852    1,875
+      Warrants *                                -        -    2,472
+      Underwriter Options and Warrants *        -        -      339
+      -------------------------------------------------------------
+      Total                                 1,871    1,852    4,686
+      =============================================================
+
+<FN>
+*  expired unexercised on June 30, 2002.
+</FN>
+</TABLE>
+
+Segment Information
+      In the opinion of management, the Company operates in one industry
+segment, which is the sale of telecommunications equipment.
+
+Fair Value of Financial Instruments
+      The carrying amounts of Farmstead's financial instruments, including
+cash and cash equivalents, accounts receivable, debt obligations, accounts
+payable and accrued expenses, approximate fair value due to their short
+maturities.
+
+Reclassifications
+      Certain amounts in prior years' financial statements and related
+notes have been reclassified to conform to the 2003 presentation.
+
+2.    CASH AND CASH EQUIVALENTS
+
+      Cash and cash equivalents totaled $826,764 and $994,437 at December
+31, 2003 and 2002, respectively. Included in each period are investments in
+a money market fund consisting of high quality short term instruments,
+principally U.S. Government and Agency issues and commercial paper. The
+carrying amounts approximate their fair value at December 31, 2003 and
+2002.
+
+3.    ACCOUNTS RECEIVABLE, NET
+
+      As of December 31, the components of accounts receivable were as
+follows (in thousands):
+
+<TABLE>
+<CAPTION>
+
+                                                 2003       2002
+      ----------------------------------------------------------
+
+      <s>                                      <c>        <c>
+      Trade accounts receivable                $1,410     $1,893
+      Less: allowance for doubtful accounts       (80)       (47)
+      ----------------------------------------------------------
+      Trade accounts receivable, net            1,330      1,846
+      Other receivables                            78         23
+      ----------------------------------------------------------
+      Accounts receivable, net                 $1,408     $1,869
+      ==========================================================
+</TABLE>
+
+      Other receivables consist of commissions, rebates and other dealer
+incentives due from Avaya, Inc., and are recorded in the consolidated
+financial statements when earned.
+
+4.    INVENTORIES, NET
+
+      As of December 31, the components of inventories were as follows (in
+thousands):
+
+<TABLE>
+<CAPTION>
+
+                                                              2003       2002
+      -----------------------------------------------------------------------
+
+      <s>                                                   <c>        <c>
+      Finished goods and spare parts                        $1,817     $2,362
+      Work in process                                          450        456
+      Rental equipment                                          61         53
+      -----------------------------------------------------------------------
+                                                             2,328      2,871
+      Less: reserves for excess and obsolete inventories      (359)      (562)
+      -----------------------------------------------------------------------
+      Inventories, net                                      $1,969     $2,309
+      =======================================================================
+</TABLE>
+
+      Work in process inventories consists of used equipment requiring
+repair or refurbishing.
+
+
+<PAGE>  29
+
+
+5.    PROPERTY AND EQUIPMENT, NET
+
+      As of December 31, the components of property and equipment, net were
+as follows (in thousands):
+
+<TABLE>
+<CAPTION>
+
+                                                              Estimated
+                                                         Useful Lives (Yrs.)      2003       2002
+      -------------------------------------------------------------------------------------------
+
+      <s>                                                      <c>              <c>        <c>
+      Computer and office equipment                            3 -  5           $1,174     $1,318
+      Furniture and fixtures                                   5 - 10              290        290
+      Leasehold improvements                                       10              190        190
+      Capitalized software development costs                        5               92         44
+      -------------------------------------------------------------------------------------------
+                                                                                 1,746      1,842
+      Less: accumulated depreciation and amortization                           (1,433)    (1,448)
+      -------------------------------------------------------------------------------------------
+      Property and equipment, net                                               $  313     $  394
+      ===========================================================================================
+</TABLE>
+
+      The Company has capitalized software development costs incurred by
+subcontract programmers in the development of on-line product catalogs and
+ordering processes. Depreciation and amortization expense was $164,009,
+$215,294 and $256,797 for the years ended December 31, 2003, 2002 and 2001,
+respectively.
+
+6.    DEBT OBLIGATIONS
+
+      As of December 31, 2002 the Company had a $500,000 revolving credit
+facility with Wachovia Bank, National Association ("Wachovia Facility")
+that was scheduled to expire February 28, 2003.  On February 19, 2003 the
+Company entered into a one-year, $1.5 million revolving loan agreement (the
+"BACC Agreement") with Business Alliance Capital Corporation ("BACC"),
+replacing the Wachovia Facility. Under the terms of the BACC Agreement,
+borrowings are advanced at 75% of eligible accounts receivable, as defined
+(primarily receivables that are less than 90 days old and, in the case of
+system sales, the receivable does not become "eligible" until the system
+has been installed), and at 25% of the value of eligible inventory, as
+defined (primarily inventory that was purchased pursuant to a firm customer
+order), provided that the amount advanced against eligible inventory shall
+not exceed $200,000 or 30% of all outstanding advances under the BACC
+Agreement. Interest is charged at the per annum rate of one and one-half
+percentage points (1.5%) above the prime rate, but not less than 5.75%,
+subject to a minimum interest charge based on an average daily loan balance
+of $250,000 regardless of the actual average loan balance. Under the BACC
+Agreement, the Company is charged an annual facility fee of 1% of the
+facility and a monthly servicing fee equal to .25% of the average
+outstanding loan balance, subject to a minimum average daily loan balance
+of $250,000. As additional security to BACC, the Company issued a $300,000
+standby letter of credit in favor of BACC, secured by cash, which can be
+drawn upon 90 days after an event of default. The BACC Agreement restricts
+the Company from the payment of dividends and limits capital expenditures
+during the term of the agreement to $150,000, without the consent of BACC.
+The BACC Agreement contains no specific financial covenants however, it
+defines certain circumstances under which the agreement can be declared in
+default and subject to termination, including among others if (i) there is
+a material adverse change in the Company's business or financial condition;
+(ii) an insolvency proceeding is commenced; (iii) the Company defaults on
+any of its material agreements with third parties; (iv) the Company fails
+to comply with the terms, representations and conditions of the agreement,
+and (v) there are material liens or attachments levied against the
+Company's assets. In the event the BACC Agreement is terminated prior to
+its expiration date, the Company shall pay a fee in an amount equal to 4%
+of the advance limit.
+
+      On February 19, 2004, the BACC Agreement was extended for an
+additional one-year term with the following modifications: (i) the advance
+limit was increased to $1.7 million; and (ii) the cap on inventory advances
+was increased to $400,000.
+
+      As of December 31, 2003, there were no borrowings under the BACC
+credit facility, and based upon borrowing formulas, the Company had
+$727,000 in borrowing availability. The average and highest amounts
+borrowed during the year ended December 31, 2003 were approximately
+$250,000 and $967,000, respectively.
+
+
+<PAGE>  30
+
+
+7.    ACCRUED EXPENSES AND OTHER CURRENT LIABILITIES
+
+      As of December 31, the components of accrued expenses and other
+current liabilities were as follows (in thousands):
+
+<TABLE>
+<CAPTION>
+
+                                                        2003    2002
+      --------------------------------------------------------------
+
+      <s>                                               <c>     <c>
+      Salaries, commissions and benefits                $120    $241
+      License fees                                       102      24
+      Other                                               52     120
+      --------------------------------------------------------------
+      Accrued expenses and other current liabilities    $274    $385
+      ==============================================================
+</TABLE>
+
+8.    STOCK OPTIONS
+
+      On April 3, 2002, the Board of Directors adopted the Farmstead
+Telephone Group, Inc. 2002 Stock Option Plan (the "2002 Plan"), which was
+approved by stockholders at the June 13, 2002 Annual Meeting of
+Stockholders. The 2002 Plan replaced the 1992 Stock Option Plan that
+terminated in May 2002. Options previously granted under the 1992 Plan, of
+which there are 1,708,206 options outstanding at December 31, 2003, may
+continue to be exercised in accordance with the terms of the individual
+grants. The 2002 Plan permits the granting of options to employees,
+directors and consultants of the Company, which shall be either incentive
+stock options ("ISOs") as defined under Section 422 of the Internal Revenue
+Code, or non-qualified stock options ("NSOs"). ISOs may be granted at no
+less than market value at the time of grant, with a maximum term of ten
+years except, for a 10% or more stockholder, the exercise price shall not
+be less than 110% of market value, with a maximum term of five years. NSOs
+may be granted at no less than 50% of market value at the time of granting,
+with a maximum term of 10 years. Any option granted pursuant to this Plan
+which for any reason fails to qualify as an ISO shall be deemed to have
+been granted as an option not qualified under Section 422 of the Code. The
+maximum number of shares issuable under the 2002 Plan, which expires April
+3, 2012, are 1,300,000, of which there were162,500 options outstanding at
+December 31, 2003. Options currently granted expire on various dates
+through 2013. A summary of stock option transactions for each of the three
+years in the period ended December 31, 2003 is as follows:
+
+<TABLE>
+<CAPTION>
+                                                                        Weighted
+                                                                         Average
+                                             Number         Exercise    Exercise
+                                          of Shares      Price Range       Price
+      --------------------------------------------------------------------------
+
+      <s>                                 <c>          <c>                 <c>
+      Outstanding at December 31, 2000    1,951,036    $1.12 - 11.80       $1.92
+      Granted                               379,300      .68 -  2.04        1.53
+      Exercised                                   -               -            -
+      Canceled or expired                  (455,530)    1.12 -  3.12        1.65
+      --------------------------------------------------------------------------
+      Outstanding at December 31, 2001    1,874,806    $ .68 - 11.80       $1.91
+      Granted                               254,500      .29 -  1.50         .79
+      Exercised                                   -                -           -
+      Canceled or expired                  (277,000)     .68 -  2.04        1.53
+      --------------------------------------------------------------------------
+      Outstanding at December 31, 2002    1,852,306      .29 - 11.80        1.81
+      Granted                               101,500      .28 -   .79         .35
+      Exercised                                   -                -           -
+      Canceled or expired                   (83,100)     .28 - 11.80        1.78
+      --------------------------------------------------------------------------
+      Outstanding at December 31, 2003    1,870,706    $ .28 -  7.30       $1.73
+      ==========================================================================
+      As of December 31, 2003:
+        Exercisable                       1,672,456    $ .28 -  7.30       $1.84
+        Available for future grant        1,137,500
+</TABLE>
+
+
+<PAGE>  31
+
+
+      The following summarizes information about stock options outstanding
+and exercisable as of December 31, 2003:
+
+<TABLE>
+<CAPTION>
+
+                                     Options Outstanding                           Options Exercisable
+                   -------------------------------------------------------    -----------------------------
+                                       Weighted Avg.
+       Range of       Number             Remaining           Weighted Avg.       Number       Weighted Avg.
+Exercise Prices    Outstanding    Contractual Life (Yrs)    Exercise Price    Exercisable    Exercise Price
+---------------    -----------    ----------------------    --------------    -----------    --------------
+
+   <s>               <c>                    <c>                  <c>           <c>                <c>
+   $ .28 - 1.00        221,500              8.6                  $ .59           109,000          $ .65
+   $1.01 - 1.50        262,150              7.3                   1.28           184,400           1.35
+   $1.51 - 2.00      1,366,556              4.0                   1.96         1,358,556           1.96
+   $2.01 - 7.30         20,500              2.9                   4.75            20,500           4.75
+   --------------------------------------------------------------------------------------------------------
+     Total           1,870,706              5.0                  $1.73         1,672,456          $1.84
+   ========================================================================================================
+</TABLE>
+
+9.    INFINET SYSTEMS, LLC
+
+      Effective February 1, 2001, the Company entered into a joint venture
+agreement with TriNet Business Trust ("TriNET"), forming a limited
+liability corporation operating under the name of InfiNet Systems, LLC
+("InfiNet"). Under the agreement, the Company had a 50.1% ownership
+interest, and TriNET had a 49.9% ownership interest. With operations based
+in East Hartford, CT, InfiNet became an Avaya dealer, authorized to sell
+new Avaya telecommunications systems primarily to customers within the
+State of Connecticut and various counties in the State of New York.
+
+      Effective January 1, 2002, the Company acquired TriNET's 49.9%
+ownership interest in InfiNet for an aggregate cash purchase price of
+$153,334. The $100,512 excess of the purchase price over the fair value of
+the net assets acquired was initially allocated to goodwill, in accordance
+with SFAS 142. Due to the downsizing of InfiNet's operating activities
+during 2002, which included the reduction of its entire workforce and a
+business decision to fulfill systems sales orders directly through
+Farmstead, the entire $100,512 balance of goodwill was written off as an
+operating expense in December 2002.
+
+      The following pro forma information presents the Company's
+consolidated results of operations for the year ended December 31, 2001 as
+if the acquisition had been completed as of the beginning of that year. The
+consolidated results of operations for the year ended December 31, 2002
+include the effects of the acquisition from January 1, 2002.
+
+<TABLE>
+<CAPTION>
+
+                                                          Year ended
+                                                      December 31, 2001
+                                                   ------------------------
+      (In thousands, except per share data)        As Reported    Pro forma
+      ---------------------------------------------------------------------
+
+      <s>                                              <c>          <c>
+      Revenues                                         $33,339      $33,339
+      Loss before minority interest in
+       income of subsidiary                             (1,580)      (1,580)
+      Minority interest in income of subsidiary            128            -
+      ---------------------------------------------------------------------
+      Net loss                                         $(1,708)     $(1,580)
+
+      Loss per share: basic                            $  (.52)     $  (.48)
+                      diluted                          $  (.52)     $  (.48)
+      =====================================================================
+</TABLE>
+
+10.   LEASES AND OTHER COMMITMENTS AND CONTINGENCIES
+
+      Leases: As of December 31, 2003, the Company occupied two buildings
+in East Hartford, CT, aggregating 49,897 square feet of office and
+warehouse space under lease contracts expiring December 31, 2004. The
+leases contain two, three-year renewal options. The Company also leases
+1,700 square feet of office space in New York, NY under a non-cancelable
+lease expiring March 31, 2005. This lease contains one, two-year renewal
+option.
+
+
+<PAGE>  32
+
+
+      As of December 31, 2003, aggregate future minimum annual rental
+payments under the initial terms of the leases were as follows: $313,692
+for 2004 and $14,250 for 2005. Rent expense was $313,692 in 2003, $285,946
+in 2002 and $250,146 in 2001.
+
+      Employment Agreement: The Company has an employment agreement with
+the Chief Executive Officer ("CEO") dated January 1, 1998 and as amended
+August 1, 2001, January 1, 2003 and January 1, 2004 (the "Agreement").
+Under the Agreement, the CEO will be employed on a full-time basis until
+December 31, 2004 (the "Active Period") at a base salary of $160,000.
+Commencing January 1, 2005, the CEO will be employed on a limited basis for
+a five-year period expiring December 31, 2009 (the "Limited Period").
+During each year of the Limited Period, the CEO will be paid a base salary
+equal to one-third of the base salary rate in effect at the time of
+commencement of the Limited Period, but not less than $100,000, as
+consideration for up to fifty days of active service per year. In addition,
+during the first year of the Limited Period, the CEO will receive an
+additional payment of $142,423. The CEO will also be eligible for an annual
+bonus of up to 50% of base salary during the term of the Agreement. The
+Agreement provides severance pay should the CEO terminate the Agreement for
+"good cause", as defined, or should the Company terminate the Agreement
+without cause, or in the event of a change in control of the Company, as
+defined. During the Active Period, severance pay would amount to three
+times (i) the amount of the then-current base pay (deemed to be $300,000
+for purposes of severance pay calculations), plus (ii) the average bonus
+paid during the three most recent calendar years. During the Limited
+Period, severance pay will equal the total amount of base salary that would
+have been due for the time remaining in the Limited Period. The CEO will
+not be entitled to any severance or other compensation during the Active
+Period or Limited Period if he voluntarily terminates his employment or if
+the Company terminates the Agreement "for cause", as defined.
+
+      License Fees: Under a license agreement with Avaya, the Company is
+required to pay fees to Avaya based upon a percentage (currently 6.5%) of
+the sales price of Classic Avaya(TM) products sold by the Company. The
+Company is also required to pay fees to Avaya based upon a percentage
+(currently 15%) of the sales price of Classic Avaya(TM) products sold
+through the Company's call center. The Company recorded in cost of revenues
+approximately $323,000, $507,000 and $1,341,000 of fee expense in 2003,
+2002 and 2001, respectively.
+
+      Letter of Credit: In connection with the Company's revolving credit
+agreement with BACC, the Company issued a $300,000 irrevocable standby
+letter of credit ("LC") in favor of BACC. The LC can be drawn upon by BACC
+to satisfy any outstanding obligations under the Company's loan agreement
+ninety days after an event of default. The LC is secured by cash, and since
+this cash is restricted from use by the Company during the term of the LC,
+it has been classified under other current assets in the consolidated
+balance sheet at December 31, 2003.
+
+11.   RECENTLY ADOPTED ACCOUNTING PRONOUNCEMENT
+
+      In December 2003, the Financial Accounting Standards Board ("FASB")
+issued SFAS No. 132 (revised 2003), "Employers' Disclosures about Pensions
+and Other Postretirement Benefits, an Amendment of FASB Statements No. 87,
+88 and 106" ("SFAS No. 132"). SFAS No. 132 requires, for defined benefit
+pension plans and other defined postretirement benefit plans, additional
+disclosures regarding plan assets, investment strategy, measurement date,
+plan obligations, cash flows and components of net periodic benefit cost,
+effective upon issuance. The Company adopted the disclosure requirements
+under SFAS 132 for the year ended December 31, 2003. See Note 12 of the
+Notes to Consolidated Financial Statements included herein.
+
+12.   EMPLOYEE BENEFIT PLANS
+
+      The Company maintains a Supplemental Executive Retirement Plan
+("SERP") for the benefit of its CEO. The SERP is a defined benefit plan,
+structured to provide the CEO with an annual retirement benefit, payable
+over 15 years beginning at age 65, in an amount equal to one-third of the
+CEO's average final three-year salary, however in no event less than
+$100,000 per year. The Company used the Projected Unit Credit Method in
+determining the amount of benefit obligation expense to accrue each year.
+During 2002, the Company calculated the amount of benefit obligation
+expense using a 7% interest rate assumption. During 2003, the interest rate
+assumption was lowered to 6.25%, resulting in the recognition of an
+actuarial loss of $31,906 which will be amortized to expense over a four-
+year period beginning 2004. The amount of the unrecognized actuarial loss
+as of December 31, 2003 has been recorded in Accumulated Other
+Comprehensive Loss as a component of Stockholders' Equity.
+
+
+<PAGE>  33
+
+
+      The components of the net periodic benefit cost included in the
+results of operations for the three years ended December 31, 2003 are set
+forth as follows (in thousands):
+
+<TABLE>
+<CAPTION>
+
+                                 2003    2002    2001
+                -------------------------------------
+
+                <s>               <c>     <c>     <c>
+                Service cost      $69     $65     $61
+                Interest cost      29      23      17
+                -------------------------------------
+                Net expense       $98     $88     $78
+                =====================================
+</TABLE>
+
+      The following information summarizes activity in the SERP for the two
+years ended December 31, 2003 (in thousands):
+
+<TABLE>
+<CAPTION>
+
+                                                                       2003      2002
+      -------------------------------------------------------------------------------
+
+      <s>                                                             <c>       <c>
+      Changes in Benefit Obligation
+        Benefit obligation at beginning of year                       $ 348     $ 260
+        Service cost                                                     69        65
+        Interest cost                                                    29        23
+        Actuarial loss                                                   32         -
+      -------------------------------------------------------------------------------
+        Benefit obligation at end of year                             $ 478     $ 348
+      ===============================================================================
+
+      Fair Value of Plan Assets (1)                                   $   -     $   -
+      ===============================================================================
+
+      Reconciliation of Funded Status
+        Funded status                                                 $(478)    $(348)
+        Unrecognized actuarial loss                                      32         -
+      -------------------------------------------------------------------------------
+        Accrued net periodic pension cost                             $(446)    $(348)
+      ===============================================================================
+
+      Amounts Recognized in the Consolidated Balance Sheets
+        Accrued benefit obligation                                    $(478)    $(348)
+        Accumulated other comprehensive loss                             32         -
+      -------------------------------------------------------------------------------
+        Net liability reflected in the consolidated balance sheets    $(446)    $(348)
+      ===============================================================================
+
+<FN>
+<F1>  The SERP is an unfunded plan; however, it is being informally funded
+      through a Company-owned life insurance policy with an annual premium
+      payment of $50,000 for ten years. The cash surrender value of this
+      policy was $259,882 and $151,584 at December 31, 2003 and 2002,
+      respectively.
+</FN>
+</TABLE>
+
+      The benefits expected to be paid under the SERP in each of the next
+five fiscal years, and in the aggregate for the five fiscal years
+thereafter are as follows: $0 (2004 - 2006), $100,000 (2007), $100,000
+(2008) and $500,000 (2009 - 2013).
+
+      The Company has for the past several years provided a split dollar
+life insurance program for certain officers as a means of providing a life
+insurance benefit and a future retirement benefit. As of December 31, 2003
+the split dollar insurance program included only the Chief Financial
+Officer. Under this plan, the Company may make discretionary payments of up
+to 10% of the participant's annual compensation. Payments aggregated $0 in
+2003, $19,259 in 2002 and $49,506 in 2001. The cash surrender value of a
+participant's account vests with the participant over a ten-year period,
+based on years of service, with each participant 100% vested upon the later
+of attainment of age 65 or the completion of five years of service with the
+Company. As of December 31, 2003, $21,136 was vested.
+
+      Included in other assets at December 31, 2003 and 2002 is $302,156
+and $212,644, respectively, representing the aggregate cash surrender value
+of the insurance policies underlying the Company's SERP and split dollar
+insurance programs.
+
+      Employee Stock Purchase Plan ("ESPP"). In September 2001, the Company
+established an ESPP, following stockholder approval, under which an initial
+250,000 shares of common stock could be sold to employees. The shares
+issuable pursuant to the ESPP were registered on Form S-8 (No. 333-69290)
+dated September 11, 2001. Beginning in 2003, an annual increase of the
+lesser of (i) 100,000 shares of common stock, (ii) 2% of the Company's
+issued and outstanding capital stock on January 1 of such year, and (iii)
+an amount determined by the Company's board of directors, can be added to
+the ESPP. No shares were added to the ESPP in 2003. The ESPP
+
+
+<PAGE>  34
+
+
+covers all employees working more than 20 hours per week, excluding
+employees owning 5% or more of the combined voting power of all classes of
+shares of the Company or its subsidiary corporations. The ESPP provides for
+six-month "offering periods" beginning September 14, 2001, with a final
+offering period beginning March 1, 2011, and during such periods employees
+can participate through payroll deductions of up to 10% of their earnings.
+At the end of each offering period, participating employees are able to
+purchase stock at a 15% discount to the market price of Company stock at
+either the beginning or end of the offering period, whichever is lower.
+Shares purchased through the ESPP cannot exceed $25,000 in fair market
+value per person per calendar year. The shares purchased are allocated to
+an account established for each participant at a brokerage firm. During the
+two years ended December 31, 2003, the Company issued 12,643 and 26,379
+shares, respectively, of Common Stock.
+
+13.   STOCKHOLDERS' EQUITY
+
+      During the two years ended December 31, 2003, the Company issued
+12,643 and 26,379 shares, respectively, of Common Stock under its 2001
+Employee Stock Purchase Plan (see Note 12).
+
+      On June 30, 2002, the following securities expired unexercised: all
+1,137,923 of the Class A Redeemable Common Stock Purchase warrants ("Class
+A Warrants"); all 1,137,923 of the Class B Redeemable Common Stock Purchase
+warrants ("Class B Warrants"); all 183,579 of the Warrants issued in
+connection with the Company's 1987 initial public offering ("IPO
+Warrants"); all 33,136 of the Underwriter Options to purchase 33,136 Units,
+issued in connection with the Company's 1987 initial public offering
+("Underwriter Options"); all 89,948 Representative Warrants to purchase
+89,948 Units ("Representative Warrants") issued in 1996 to the Company's
+underwriter in connection with a secondary offering of securities.
+
+14.   CONCENTRATIONS OF CREDIT RISK
+
+      The principal financial instruments subject to credit risk are as
+follows:
+
+      Accounts Receivable: The Company extends credit to its customers in
+the normal course of business. As of December 31, 2003, two customers
+accounted for 15% and 10% of accounts receivable. As of December 31, 2002,
+one customer accounted for 11% of accounts receivable. Although the Company
+is subject to changes in economic conditions which may impact its overall
+credit risk, the Company sells to a wide variety of customers, and does not
+focus on any particular industry sector. The Company establishes its
+allowance for doubtful accounts based upon factors surrounding the credit
+risk of specific customers, historical trends and experience, and other
+information available to it. Management considers the Company's credit risk
+to be satisfactorily diversified and believes that its allowance for
+doubtful accounts is adequate to absorb estimated losses as of December 31,
+2003. During the three years ended December 31, 2003, no single customer
+accounted for more than 10% of revenues.
+
+      Cash and Cash Equivalents: The Company maintains cash and cash
+equivalents with various financial institutions. Cash equivalents consist
+of investments in a money market fund consisting of high quality short term
+instruments, principally U.S. Government and Agency issues and commercial
+paper, and the fair value approximates the carrying value at each reporting
+period. At times such amounts may exceed insurance limits.
+
+      Cash Surrender Value of Company-owned insurance policies: The Company
+invests the cash surrender value of its Company-owned insurance policies in
+various investment portfolios administered by the respective insurance
+companies, which include investments in debt and equity securities. The
+cash surrender value is therefore subject to market risk and market
+fluctuations. The Company believes that this risk is moderated by the
+diversity of the underlying investments. As of December 31, 2003, the cash
+surrender value of these policies amounted to $302,156.
+
+15.   RELATED PARTY TRANSACTIONS
+
+      During 2002 and 2001, the Company engaged PFS Venture Group LLC
+("PFS") to assist the Company with its strategic reorganization
+initiatives. PFS provided business-consulting services to small to mid-
+sized companies. Mr. Bruce S. Phillips who, in June 2001, became a director
+of the Company, and remained a director until his death in August 2002, was
+the principal owner of PFS. During 2002 PFS earned $51,000 in fees, and Mr.
+Phillips received 11,250 options to acquire common stock at exercise prices
+of $1.00 to $1.50 per share. During 2001, PFS earned $84,000 in fees, and
+Mr. Phillips received 21,000 stock options at an exercise price of $1.50
+per share.
+
+
+<PAGE>  35
+
+
+16.   INCOME TAXES
+
+      The following table provides a summary of the current and deferred
+components of the provision for federal and state income taxes attributable
+to earnings before income taxes for the three years ended December 31 (in
+thousands):
+
+<TABLE>
+<CAPTION>
+
+                                     2003    2002    2001
+      ---------------------------------------------------
+
+      <s>                             <c>    <c>      <c>
+      Federal income tax expense:
+        Current                       $ -    $  -     $ -
+        Deferred                        -     436       -
+      State income tax expense:
+        Current                        13      18      17
+        Deferred                        -      19       -
+      ---------------------------------------------------
+      Provision for income taxes      $13    $473     $17
+      ===================================================
+</TABLE>
+
+      Differences between the tax expense reflected in the consolidated
+financial statements and the amounts calculated at the federal statutory
+income tax rate of 34% for the three years ended December 31 are as follows
+(in thousands):
+
+<TABLE>
+<CAPTION>
+
+                                                               2003       2002      2001
+      ----------------------------------------------------------------------------------
+      <s>                                                     <c>
+      Income tax benefit at statutory rate                    $(237)    $ (699)    $(581)
+      Increase (reduction) in income taxes
+       resulting from:
+      State and local income taxes, net of federal
+       income tax benefit                                        (9)       (12)      (11)
+      Non-deductible life insurance                              (8)        30        25
+      Non-deductible meals and entertainment                      7         17        19
+      Change in valuation allowance, net of temporary
+       differences for which benefit has not been provided      260      1,137       565
+      ----------------------------------------------------------------------------------
+      Provision for income taxes                              $  13     $  473     $  17
+      ==================================================================================
+</TABLE>
+
+      The tax effects of temporary differences that give rise to
+significant portions of deferred tax assets and liabilities at December 31,
+2003 and 2002 are as follows (in thousands):
+
+<TABLE>
+<CAPTION>
+
+                                                       2003        2002
+      -----------------------------------------------------------------
+
+      <s>                                           <c>         <c>
+      Deferred tax assets:
+      Allowance for doubtful accounts               $    27     $    16
+      Inventory allowances                              122         190
+      Accrued pension benefit obligation                152         118
+      Property and equipment                             34          31
+      Other                                              20          30
+      Net operating loss and other carryforwards      2,192       1,831
+      -----------------------------------------------------------------
+      Total gross deferred tax assets                 2,547       2,216
+      Less: valuation allowance                      (2,547)     (2,216)
+      -----------------------------------------------------------------
+      Net deferred tax assets                       $     -     $     -
+      =================================================================
+</TABLE>
+
+      The Company has federal net operating loss carryforwards of
+approximately $5,469,000 that expire through 2024. In 2003 and 2002, the
+valuation allowance was increased by an amount that fully offset the
+Company's deferred tax assets as of December 31, 2003 and 2002,
+respectively. Management believes that the present valuation allowance is
+prudent due to the net losses sustained during the three years ended
+December 31, 2003 and the unpredictability of future earnings.
+
+
+<PAGE>  36
+
+
+17. QUARTERLY FINANCIAL DATA (UNAUDITED)
+
+      Summarized quarterly financial data for 2003 and 2002 is as follows
+(in thousands except earnings (loss) per share):
+
+<TABLE>
+<CAPTION>
+
+                                                                 Quarter
+---------------------------------------------------------------------------------------
+2003                                             First     Second      Third     Fourth(a)
+---------------------------------------------------------------------------------------
+
+<s>                                             <c>        <c>        <c>        <c>
+Revenues                                        $4,439     $3,811     $3,237     $3,193
+Gross Profit                                     1,136        975        946        829
+Operating loss                                    (139)      (119)      (134)      (283)
+Net loss                                          (145)      (132)      (149)      (283)
+Basic and diluted:
+  Loss per common share                           (.04)      (.04)      (.05)      (.09)
+  Weighted average common shares outstanding     3,299      3,305      3,306      3,311
+=======================================================================================
+
+<CAPTION>
+
+                                                                 Quarter
+---------------------------------------------------------------------------------------
+2002                                             First     Second      Third     Fourth(b)
+---------------------------------------------------------------------------------------
+
+<s>                                             <c>        <c>        <c>        <c>
+Revenues                                        $6,027     $4,764     $4,766     $3,593
+Gross Profit                                     1,306        755      1,065        497
+Operating loss                                    (354)      (662)      (287)      (827)
+Net loss                                          (301)      (660)      (284)    (1,285)
+Basic and diluted:
+  Loss per common share                           (.09)      (.20)      (.09)      (.39)
+  Weighted average common shares outstanding     3,281      3,289      3,290      3,299
+=======================================================================================
+
+<FN>
+(a)   Includes a $93,000 credit to income from a reduction in the Company's
+      reserves for sales and product warranty returns, and a $41,000 charge
+      to bad debt expense.
+(b)   Includes a $101,000 write-off of goodwill, $333,000 of inventory
+      valuation charges, and a $455,000 charge to increase the deferred tax
+      asset valuation allowance.
+</FN>
+</TABLE>
+
+
+<PAGE>  37
+
+
+INDEPENDENT AUDITORS' REPORT
+
+
+To the Board of Directors and Stockholders of
+Farmstead Telephone Group, Inc.
+
+We have audited the consolidated financial statements of Farmstead
+Telephone Group, Inc. (the "Company") as of December 31, 2003 and 2002, and
+for the years then ended, and have issued our report thereon dated February
+27, 2004; such consolidated financial statements and report are included
+elsewhere in this Form 10-K. Our audit also includes the financial
+statement schedules of Farmstead Telephone Group, Inc., listed in Item 15.
+These financial statement schedules are the responsibility of the Company's
+management. Our responsibility is to express an opinion based on our
+audits. In our opinion, such financial statement schedules, when considered
+in relation to the basic consolidated financial statements taken as a
+whole, present fairly in all material respects the information set forth
+therein.
+
+
+/S/ CARLIN, CHARRON & ROSEN, LLP
+Glastonbury, Connecticut
+February 27, 2004
+
+
+<PAGE>  38
+
+
+INDEPENDENT AUDITORS' REPORT
+
+To the Board of Directors and Stockholders of
+Farmstead Telephone Group, Inc.
+
+We have audited the consolidated statements of operations, changes in
+stockholders' equity and cash flows of Farmstead Telephone Group, Inc. and
+subsidiaries (the "Company") for the year ended December 31, 2001, and have
+issued our report thereon dated February 21, 2002; such report is included
+elsewhere in this Form 10-K. Our audit also includes the financial
+statement schedule of Farmstead Telephone Group, Inc. and subsidiaries for
+the year ended December 31, 2001 listed in Item 15. This financial
+statement schedule is the responsibility of the Company's management. Our
+responsibility is to express an opinion based on our audit. In our opinion,
+such financial statement schedule, when considered in relation to the basic
+consolidated statements of operations, changes in stockholders' equity and
+cash flows taken as a whole, presents fairly in all material respects the
+information set forth therein.
+
+
+/S/ DISANTO BERTOLINE & COMPANY, P.C.
+Glastonbury, Connecticut
+February 21, 2002
+
+
+<PAGE>  39
+
+
+SCHEDULE II: VALUATION AND QUALIFYING ACCOUNTS
+                (In thousands)
+
+<TABLE>
+<CAPTION>
+
+                                                                Column C- Additions
+                                                          ------------------------------
+                                                               (1)              (2)
+                                           Column B-         Charged          Charged                     Column E-
+                                           Balance at     (credited) to    (credited) to                  Balance at
+                                          beginning of      costs and          other         Column D-      End of
+        Column A- Description                period          expenses         accounts      Deductions      period
+--------------------------------------    ------------    -------------    -------------    ----------    ----------
+
+<s>                                             <c>              <c>               <c>           <c>          <c>
+Year 2003
+---------
+Allowance for doubtful accounts                 $   47           $   75                -          $ 42*       $   80
+Inventory valuation reserves                       562               28                -           231*          359
+Deferred tax asset valuation allowance           2,216              331**              -             -         2,547
+
+Year 2002
+---------
+Allowance for doubtful accounts                 $  150           $  (33)               -          $ 70*       $   47
+Inventory valuation reserves                     1,382              143                -           963*          562
+Deferred tax asset valuation allowance           1,039            1,177                -             -         2,216
+
+Year 2001
+---------
+Allowance for doubtful accounts                 $  244           $  104                -          $198*       $  150
+Inventory valuation reserves                       935            1,443                -           996*        1,382
+Deferred tax asset valuation allowance             455              584                -             -         1,039
+
+<FN>
+*     Represents write-offs of inventories and uncollectible accounts
+      receivable.
+**    Recorded to fully reserve for the increase in the Company's net
+      deferred tax assets.
+</FN>
+</TABLE>
+
+
+<PAGE>  40
+
+
+                              INDEX TO EXHIBITS
+
+      The following documents are filed as Exhibits to this report on Form
+10-K or incorporated by reference herein. Any document incorporated by
+reference is identified by a parenthetical referencing the SEC filing which
+included such document.
+
+      3(a)    Certificate of Incorporation [Exhibit 3(a) to the S-18
+              Registration Statement of the Company's securities declared
+              effective on April 13, 1987 (File No. 3-9556B)]
+      3(b)    Certificate of Amendment of Certificate of Incorporation
+              [Exhibit 3(a) to Amendment No. 2 to SB-2 Registration
+              Statement dated July 22, 1996 (Registration No. 333-5103)]
+      3(c)    Certificate of Amendment of Certificate of Incorporation of
+              Farmstead Telephone Group, Inc., dated July 10, 1991 [Exhibit
+              10.12 to the Annual Report on Form 10-K for the year ended
+              December 31, 1991]
+      3(d)    Amended and Restated By-Laws [Exhibit 3(d) to the Annual
+              Report on Form 10-K for the year ended December 31, 2000]
+      3(e)    Certificate of Amendment of Certificate of Incorporation of
+              Farmstead Telephone Group, Inc. dated July 9, 2001 [Exhibit
+              3(e) to the Quarterly Report on Form 10-Q for the quarter
+              ended June 30, 2001]
+      4(a)    Form of Unit Warrant [ Exhibit 4(a) to the S-18 Registration
+              Statement of the Company's securities declared effective on
+              April 13, 1987 (File No. 3-9556B)]
+      4(b)    Amended Form of Underwriter's Option [ Exhibit 4(b) to the
+              S-18 Registration Statement of the Company's securities
+              declared effective on April 13, 1987 (File No. 3-9556B)]
+      4(c)    Resolutions adopted by Unanimous Written Consent of the
+              Company's Board Of Directors dated as of July 9, 1992
+              amending terms of Warrants and Underwriter's Options [Exhibit
+              4(a) to the Form S-3 Registration Statement of the Company's
+              securities declared effective on October 29, 1992
+              (Registration No. 33-50432)]
+      4(d)    Amended 1992 Stock Option Plan [Exhibit to the Proxy
+              Statement on Schedule 14A filed April 14, 1998 (File No.
+              001-12155)]
+      4(e)    Form of Underwriter's Warrant Agreement (including Form of
+              Underwriter's Warrant) [Exhibit 4.2 to the SB-2 Registration
+              Statement dated June 3, 1996 (Registration No. 333-5103)]
+      4(f)    Form of Warrant Certificate [Exhibit 4.1 to Amendment No. 2
+              to SB-2 Registration Statement dated July 22, 1996
+              (Registration No. 333-5103)]
+      4(g)    Form of Warrant Agreement [Exhibit 4.3 to Amendment No. 2 to
+              SB-2 Registration Statement dated July 22, 1996 (Registration
+              No. 333-5103)]
+      4(h)    Form of Unit Certificate [Exhibit 4.4 to Amendment No. 2 to
+              SB-2 Registration Statement dated July 22, 1996 (Registration
+              No. 333-5103)]
+      4(i)    Resolutions adopted by the Company's Board of Directors June
+              18, 1998, amending terms of Warrants and Underwriter's
+              Options [Exhibit 4(I) to the Annual Report on Form 10-KSB for
+              the year ended December 31, 1998]
+      4(j)    Resolutions adopted by the Company's Board of Directors July
+              19, 2001, amending terms of warrants and Underwriter's
+              Options. [Exhibit 4(j) to the Quarterly Report on Form 10-Q
+              for the quarter ended June 30, 2001]
+      4(k)    Farmstead Telephone Group, Inc. 2002 Stock Option Plan
+              [Appendix A to the Proxy Statement on Schedule 14A filed
+              April 19, 2002 for the 2002 Annual Meeting of Stockholders]
+      10(a)   Form of Underwriter's Consulting Agreement [ Exhibit 10.1 to
+              the SB-2 Registration Statement dated June 3, 1996
+              (Registration No. 333-5103)]
+      10(b)   Letter of Agreement dated June 3, 1996 between Farmstead
+              Telephone Group, Inc. and Lucent Technologies, Inc. [Exhibit
+              10.2 to Amendment No. 1 to SB-2 Registration Statement dated
+              July 22, 1996 (Registration No. 333-5103)]
+      10(c)   Agreement of Lease By and between Tolland Enterprises and
+              Farmstead Telephone Group, Inc., dated November 5, 1996
+              [Exhibit 10.1 to the Quarterly Report on Form 10-QSB for the
+              quarter ended September 30, 1996]
+      10(d)   Employment Agreement dated as of January 1, 1998 between
+              Farmstead Telephone Group, Inc. and George J. Taylor, Jr.
+              [Exhibit 10.5 to the Annual Report on Form 10-KSB for the
+              year ended December 31, 1997]
+      10(e)   Supplemental Executive Retirement Plan, effective as of
+              January 1, 1998 [Exhibit 10.6 to the Annual Report on Form
+              10-KSB for the year ended December 31, 1997]
+      10(f)   ARS Dealer Agreement Between Lucent Technologies and
+              Farmstead Telephone Group, Inc. For
+
+
+<PAGE>  41
+
+
+              Business Communications Systems [Exhibit 10(s) to the Annual
+              Report on Form 10-KSB for the year ended December 31, 1998]
+      10(g)   ARS License Agreement Between Lucent Technologies and
+              Farmstead Telephone Group, Inc. For Authorized Remarketing
+              Supplier Program [Exhibit 10(t) to the Annual Report on Form
+              10-KSB for the year ended December 31, 1998]
+      10(h)   Rider #1 to Lease Dated November 5, 1996 By and Between
+              Tolland Enterprises ("Landlord") and Farmstead Telephone
+              Group, Inc. ("Tenant"), attached as of May 27, 1999 [Exhibit
+              10(cc) to the Annual Report on Form 10-K for the year ended
+              December 31, 1999]
+      10(i)   First Amendment of Lease, dated June 30, 1999, By and Between
+              Tolland Enterprises ("Landlord") and Farmstead Telephone
+              Group, Inc. ("Tenant") [Exhibit 10(dd) to the Annual Report
+              on Form 10-K for the year ended December 31, 1999]
+      10(j)   Loan Agreement, dated September 27, 2000 between First Union
+              National Bank and Farmstead Telephone Group, Inc. [Exhibit
+              10(ee) to the Quarterly Report on Form 10-Q for the quarter
+              ended September 30, 2000]
+      10(k)   Promissory Note, dated September 27, 2000 between First Union
+              National Bank and Farmstead Telephone Group, Inc. [Exhibit
+              10(ff) to the Quarterly Report on Form 10-Q for the quarter
+              ended September 30, 2000]
+      10(l)   Employment Agreement dated as of January 1, 2000 between
+              Farmstead Telephone Group, Inc. and Robert G. LaVigne
+              [Exhibit 10(ee) to the Annual Report on Form 10-K for the
+              year ended December 31, 2000]
+      10(m)   Amendment to Lucent ARS License Agreement Between Lucent
+              Technologies Inc. and Farmstead Telephone Group, Inc., dated
+              February 2, 2001. [Exhibit 10(ff) to the Annual Report on
+              Form 10-K for the year ended December 31, 2000]
+      10(n)   Amendment to Lucent ARS Dealer Agreement Between Lucent
+              Technologies Inc. and Farmstead Telephone Group, Inc., dated
+              February 2, 2001. [Exhibit 10(gg) to the Annual Report on
+              Form 10-K for the year ended December 31, 2000]
+      10(o)   Farmstead Telephone Group, Inc. Employee Stock Purchase Plan
+              [Appendix B to the to the Proxy Statement on Schedule 14A
+              filed April 13, 2001 for the 2001 Annual Meeting of
+              Stockholders]
+      10(p)   Limited Liability Company Agreement of InfiNet Systems LLC,
+              effective February 1, 2001 [Exhibit 10(dd) to the Annual
+              Report on Form 10-K for the year ended December 31, 2001]
+      10(q)   First Modification to Loan Agreement, entered into December
+              19, 2001 [Exhibit 10(ee) to the Annual Report on Form 10-K
+              for the year ended December 31, 2001]
+      10(r)   Restated First Addendum To That Certain Employment Agreement
+              Between Farmstead Telephone Group, Inc. and George J. Taylor,
+              Jr., effective August 1, 2001 [Exhibit 10(ff) to the Annual
+              Report on Form 10-K for the year ended December 31, 2001]
+      10(s)   Avaya Inc. Reseller Master Terms and Conditions; Agreement
+              No. AVNERA1-060601, dated May 31, 2002 . [Exhibit 10(a) to
+              the Quarterly Report on Form 10-Q for the quarter ended June
+              30, 2002]
+      10(t)   Third Modification to Loan Agreement, dated September 23,
+              2002 between Farmstead Telephone Group, Inc. and Wachovia
+              Bank, National Association (f/k/a First Union National Bank).
+              [Exhibit 10(a) to the Quarterly Report on Form 10-Q for the
+              quarter ended September 30, 2002]
+      10(u)   Modification Number One To Promissory Note, dated October 9,
+              2002 between Farmstead Telephone Group, Inc. and Wachovia
+              Bank, National Association. [Exhibit 10(b) to the Quarterly
+              Report on Form 10-Q for the quarter ended September 30, 2002]
+      10(v)   Fourth Modification to Loan Agreement, dated October 9, 2002
+              between Farmstead Telephone Group, Inc. and Wachovia Bank,
+              National Association (f/k/a First Union National Bank).
+              [Exhibit 10(c) to the Quarterly Report on Form 10-Q for the
+              quarter ended September 30, 2002]
+      10(w)   Loan and Security Agreement dated February 19, 2003 by and
+              between Business Alliance Capital Corp. and Farmstead
+              Telephone Group, Inc. 2001 [Exhibit 10(v) to the Annual
+              Report on Form 10-K for the year ended December 31, 2002]
+      10(x)   Revolving Credit Master Promissory Note dated February 19,
+              2003 between Business Alliance Capital Corporation and
+              Farmstead Telephone Group, Inc. [Exhibit 10(w) to the Annual
+              Report on Form 10-K for the year ended December 31, 2002]
+      10(y)   Second Addendum to That Certain Employment Agreement Between
+              Farmstead Telephone Group, Inc. and George J. Taylor, Jr.,
+              Dated as of January 1, 1998, as Amended by That Certain
+              Restated First Addendum Dated as of August 1, 2001[Exhibit
+              10(x) to the Annual Report on Form 10-K for the year ended
+              December 31, 2002]
+
+
+<PAGE>  42
+
+
+      10(z)   Revolving Credit Master Promissory Note dated February 19,
+              2004 between Business Alliance Capital Corporation and
+              Farmstead Telephone Group, Inc.
+      10(aa)  Modification Agreement dated February 19, 2004 between
+              Business Alliance Capital Corporation and Farmstead Telephone
+              Group, Inc.
+      10(bb)  Third Addendum to That Certain Employment Agreement Between
+              Farmstead Telephone Group, Inc. and George J. Taylor, Jr.,
+              Dated as of January 1, 1998, as Amended by That Certain
+              Restated First Addendum Dated as of August 1, 2001and as
+              Further Amended by That Certain Second Addendum Dated as of
+              January 1, 2003
+      10(cc)  Second Addendum to That Certain Employment Agreement between
+              Farmstead Telephone Group, Inc. and Robert G. LaVigne dated
+              as of January 1, 2000 as Amended by That First Addendum Dated
+              as of January 1, 2003
+      10(dd)  Amendment to Reseller Master Terms and Conditions: Authorized
+              Remanufactured Supplier (ARS) Program Between Avaya Inc. and
+              Farmstead Telephone Group, Inc., dated October 28, 2003
+      21      Subsidiaries
+      23(a)   Consent of DiSanto Bertoline & Company, P.C.
+      23(b)   Consent of Carlin, Charron & Rosen LLP
+      31.1    Certification of the Chief Executive Officer, pursuant to
+              Section 302 of the Sarbanes-Oxley Act of 2002.
+      31.2    Certification of the Chief Financial Officer, pursuant to
+              Section 302 of the Sarbanes-Oxley Act of 2002.
+      32.1    Certification of the Chief Executive Officer, pursuant to
+              Section 906 of the Sarbanes-Oxley Act of 2002.
+      32.2    Certification of the Chief Financial Officer, pursuant to
+              Section 906 of the Sarbanes-Oxley Act of 2002.
+
+
+<PAGE>  43
+
+
+
+</TEXT>
+</DOCUMENT>

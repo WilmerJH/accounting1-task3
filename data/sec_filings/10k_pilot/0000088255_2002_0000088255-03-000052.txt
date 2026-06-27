@@ -1,0 +1,1708 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>r10k2002edg.txt
+<DESCRIPTION>FORM 10-K
+<TEXT>
+                         UNITED STATES
+              SECURITIES AND EXCHANGE COMMISSION
+                    Washington, D.C.  20549
+                        ---------------
+                          FORM 10-K
+
+_X_    ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+       SECURITIES EXCHANGE ACT OF 1934
+
+           For the fiscal year ended December 28, 2002
+                               OR
+___    TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+       SECURITIES EXCHANGE ACT OF 1934
+
+       For the transition period from ________ to _________
+
+                Commission file number 1-4040
+
+                SEARS ROEBUCK ACCEPTANCE CORP.
+(Exact name of registrant as specified in its charter)
+
+Delaware                                        51-0080535
+(State of Incorporation)              (I.R.S.  Employer Identification No.)
+
+3711 Kennett Pike, Greenville, Delaware                   19807
+(Address of principal executive offices)               (Zip Code)
+
+Registrant's telephone number, including area code:  302/434-3100
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class                  Name of each exchange on which registered
+6.75% Notes due September 15, 2005   New York Stock Exchange
+7.00% Notes due March 1, 2038        New York Stock Exchange
+6.95% Notes due October 23, 2038     New York Stock Exchange
+7.00% Notes due July 15, 2042        New York Stock Exchange
+7.40% Notes due February 1, 2043     New York Stock Exchange
+
+Securities registered pursuant to Section 12(g) of the Act:  None
+
+Registrant (1) has filed all reports required to be filed by Section 13 or
+15(d)of the Securities Exchange Act of 1934 during the preceding 12 months,
+and (2) has been subject to such filing requirements for the past 90 days.
+Yes  X .   No  .
+
+Disclosure of delinquent filers pursuant to Item 405 of Regulation S-K is
+not contained herein, and will not be contained, to the best of Registrant's
+knowledge, in definitive proxy or information statements incorporated by
+reference in Part III of this Form 10-K or any amendment to this Form 10-K.
+[X]
+Indicate by check mark whether Registrant is an accelerated filer (as defined
+in Exchange Act Rule 12b-2). Yes [   ]  No [ X ]
+
+State the aggregate market value of the voting and non-voting common equity
+held by non-affiliates of Registrant computed by reference to the price at
+which the common equity was last sold, or the average of the bid and asked
+price of such common equity, as of the last business day of Registrant's
+most recently completed second fiscal quarter:  $0.00.
+
+As of February 28, 2003, the Registrant had 350,000 shares of capital stock
+outstanding, all of which were held by Sears, Roebuck and Co.
+
+Registrant meets the conditions set forth in General Instruction  I (1)(a)
+and (b) of Form 10-K and is therefore filing this form with a reduced
+disclosure format.
+
+DOCUMENTS INCORPORATED BY REFERENCE
+None
+
+
+
+
+
+
+
+                                 PART I
+
+
+Item 1.    Business.
+
+           Sears Roebuck Acceptance Corp.("SRAC") is a wholly-owned finance
+subsidiary of Sears, Roebuck and Co.("Sears"). To meet certain capital
+requirements of its businesses, Sears borrows on a short-term basis through
+the issuance of notes to SRAC. SRAC obtains funds through the issuance of
+unsecured commercial paper and long-term debt, which includes medium-term
+notes and discrete underwritten debt.
+
+           SRAC's income is derived primarily from the earnings on its
+investment in the notes and receivable balances of Sears. Under a letter
+agreement between SRAC and Sears, the interest rate on Sears notes is
+calculated so that SRAC maintains an earnings to fixed charges ratio of
+at least 1.25.  The yield on the investment in Sears notes is related to
+SRAC's borrowing costs and, as a result, SRAC's earnings fluctuate in
+response to movements in interest rates and changes in Sears borrowing
+requirements.
+
+   	As of February 28, 2003, SRAC's commercial paper ratings were F-2
+from  Fitch Ratings ("Fitch"), P-2 from Moody's Investors Service,("Moody's"),
+and A-2 from Standard & Poor's Ratings Services ("S&P") and its long-term debt
+ratings were BBB+ from Fitch, Baa1 from Moody's, and BBB+ from S&P.
+
+           SRAC provides liquidity support for its outstanding commercial
+paper through its investment portfolio and committed credit facilities. As
+of December 28, 2002, SRAC commercial paper was supported by a $1.6 billion
+investment portfolio, which consists of cash and cash equivalents and a
+$4.4 billion syndicated credit agreement which was due to expire in
+April 2003. On February 24, 2003, SRAC, through a syndicate of banks,
+replaced its existing credit facility with an unsecured 364-day revolving
+credit facility in the amount of $3.5 billion. This new facility includes
+the option to extend the repayment of borrowings, if any, through
+February 2005.
+
+           SRAC and Sears have entered into agreements for the benefit
+of certain debt holders and lenders of SRAC under which Sears, for so long
+as required by the applicable documents, will continue to own all of the
+outstanding voting stock of SRAC and will pay SRAC such amounts that,
+when added to other available earnings, will be sufficient for SRAC to maintain
+an earnings to fixed charges ratio of not less than 1.10 (1.15 in the case of
+the agreement for the benefit of the credit facility lenders).
+
+           As of February 28, 2003 SRAC had ten employees.
+
+           SRAC's Web site address is www.sracweb.com.  SRAC makes available
+free of charge through its Web site its annual reports on Form 10-K, quarterly
+reports on Form 10-Q, current reports on Form 8-K, and all amendments to those
+reports as soon as reasonably practicable after such material is electronically
+filed with or furnished to the Securities and Exchange Commission.
+
+
+
+
+
+
+
+                                          2
+
+
+
+
+
+
+
+
+Item 2.    Properties.
+
+           SRAC leases 4,065 square feet of an office building located in
+           Greenville, Delaware.
+
+Item 3.    Legal Proceedings.
+
+           None.
+
+Item 4.    Submission of Matters to a Vote of Security Holders.
+
+           Not applicable.
+
+
+                                 PART II
+
+
+Item 5.    Market for Registrant's Common Equity and Related
+            Stockholder Matters.
+
+           None.
+
+
+Item 6.    Selected Financial Data.
+
+           Not applicable.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                          3
+
+
+
+
+
+
+Item 7.   Management's Discussion and Analysis of Financial
+             Condition and Results of Operations.
+
+
+        Financial Condition
+
+          SRAC's investment in Sears notes decreased to $15.4 billion
+at year-end 2002 from $16.0 billion at year-end 2001, as a result of
+decreased funding requirements of Sears.  Short-term borrowings
+at the end of 2002 were $2.9 billion, a $356 million decrease from the prior
+year.  Total debt outstanding increased to $13.5 billion at year-end 2002 from
+$13.3 billion at year-end 2001.
+
+         SRAC ended 2002 with an equity position of $3.4 billion and
+a debt-to-equity ratio of 4.1:1 compared to 4.2:1 at the end of 2001.
+
+
+         Results of Operations
+
+          SRAC's total revenues of $984 million for 2002 decreased
+from $1,089 million in 2001 and from $1,216 million in 2000.
+The revenue decrease for 2002 resulted primarily from a 78 basis point
+decrease in the average rates on earning assets from 2001 to 2002. The
+revenue decrease for 2001 resulted primarily from a 61 basis point decrease
+in the average rate on earning assets from 2000 to 2001 and a $400 million
+reduction in average earning asset levels during 2001 versus 2000.
+
+          SRAC's interest and related expenses were $782 million,
+$866 million and $966 million in 2002, 2001, and 2000, respectively.
+In 2002, SRAC's average cost of short-term funds decreased 254 basis
+points from 4.75% in 2001 to 2.21%.  SRAC's average cost of term debt
+remained relatively flat at 6.52% in 2002 and 6.60% in 2001. Reductions in
+interest and related expenses attributed to decreases in the cost of funds which
+were partially offset by increases in debt levels. Average daily outstanding
+short-term debt of $3.7 billion in 2002 increased nearly $400 million from the
+$3.3 billion average level in 2001. Average daily outstanding term debt
+remained at $10.5 billion for 2002 and 2001.
+
+           Term debt consists of medium-term notes and discrete underwritten
+debt.  Medium term notes are sold to institutional and retail investors.
+During 2002, SRAC issued the following securities:
+
+  *$1.9 billion of discrete underwritten notes with a weighted average
+   coupon of 6.90% and a weighted average term of 24.9 years; and
+
+   *$313 million of fixed-rate medium-term notes with a weighted average
+    coupon of 6.69% and a weighted average term of 6.4 years.
+
+           In November 2002, SRAC executed a distribution agreement that
+provides for the issuance of up to $1 billion of medium term notes to be
+sold to institutional investors. In December 2002, SRAC executed a selling
+agent agreement that provides for the continuous issuance of up to
+$2 billion of medium term notes targeted at retail investors.
+
+           SRAC has $2.5 billion of term debt maturing in 2003, a portion of
+which it intends to refinance using unsecured term debt.  In the period
+December 29, 2002 through March 7, 2003, SRAC issued $1.6 billion of long-term
+debt consisting of $452 million of medium-term notes sold to institutional
+investors, $905 million of medium-term notes sold to retail investors and a
+$250 million discrete underwritten note.
+
+           During 2001, SRAC's total debt portfolio experienced a $600 million
+reduction from 2000 average debt levels and a 46 basis point decrease in
+average cost.  This resulted in decreases in interest and related expenses
+throughout 2001.
+
+                                           4
+
+
+
+
+
+
+        On February 24, 2003, SRAC replaced its $4.4 billion syndicated
+credit agreement with a $3.5 billion unsecured 364-day revolving facility.
+This new facility includes the option to extend the repayment of
+borrowings, if any, through February 2005.  This new facility provides
+liquidity support for SRAC's commercial paper program.
+
+         SRAC's net income was $130 million in 2002, $144 million in
+2001 and $161 million in 2000.
+
+         The financial information appearing in this Annual Report on
+Form 10-K is presented in historical dollars, which do not reflect the
+decline in purchasing power that results from inflation.   As is the case
+for most financial companies, substantially all of SRAC's assets and
+liabilities are monetary in nature.  Interest rates on SRAC's investment
+in Sears notes are set to provide fixed charge coverage of at least 1.25
+times, thereby insulating SRAC from the effects of inflation-based
+interest rate increases.
+
+
+
+
+ Item 7A. Market Risk
+
+         The primary market risk exposure faced by SRAC is interest
+rate risk and arises from SRAC's debt obligations. The Company's policy
+is to manage interest rate risk through the strategic use of fixed and
+variable rate debt.  All debt securities are considered non-trading.
+At year-end 2002 and 2001, 40% and 39%, respectively, of the
+funding portfolio was variable rate (including current maturities of
+fixed-rate long-term debt that will reprice in the next 12 months).
+Based on SRAC's debt portfolio as of year-end 2002 and 2001, which
+totaled $13.5 billion and $13.3 billion, respectively, a 100 basis
+point change in interest rates would affect annual pre-tax interest
+costs by approximately $55 million and $52 million, respectively.
+This calculation assumes the portfolio balance at year end remains
+constant for an annual period and that the 100 basis point change
+occurs at the beginning of the annual period. The effect on net
+earnings is mitigated by the fixed charge coverage agreement with
+Sears.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                            5
+
+
+
+
+
+
+
+Item 8.    Financial Statements and Supplementary Data.
+
+
+SEARS ROEBUCK ACCEPTANCE CORP.
+STATEMENTS OF INCOME AND COMPREHENSIVE INCOME
+
+(millions, except ratio of earnings to fixed charges)
+
+
+
+                                       2002         2001        2000
+                                     ------       ------      ------
+Revenues
+--------
+Earnings on notes of Sears           $  971       $1,075      $1,204
+Earnings on cash equivalents             13           14          12
+                                      -----        -----       -----
+Total revenues                          984        1,089       1,216
+
+
+Expenses
+--------
+Interest expense and amortization of
+  debt discount/premium                 782          866         966
+Operating expenses                        2            2           2
+                                      -----        -----       -----
+Total expenses                          784          868         968
+                                      -----        -----       -----
+
+Income before income taxes              200          221         248
+Income taxes                             70           77          87
+                                      -----        -----       -----
+Net income                           $  130       $  144      $  161
+                                      -----        -----       -----
+
+  Total other comprehensive income(loss)
+  -------------------------------------
+Losses on cash flow hedge,
+     net of tax                           (3)           -           -
+                                        -----        -----       -----
+Total comprehensive income             $  127       $  144      $  161
+                                        =====        =====       =====
+
+Ratio of earnings to fixed charges       1.26         1.26        1.26
+
+
+See notes to financial statements.
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                           6
+
+
+
+
+
+
+
+
+
+
+
+SEARS ROEBUCK ACCEPTANCE CORP.
+STATEMENTS OF FINANCIAL POSITION
+
+
+(millions, except share data)                 2002        2001
+                                           -------     -------
+
+Assets
+------
+Cash and cash equivalents                  $ 1,563     $   599
+Notes of Sears                              15,352      16,014
+Other assets                                   139         125
+                                         ---------   ---------
+  Total assets                             $17,054     $16,738
+                                         =========   =========
+Liabilities
+-----------
+Commercial paper (net of unamortized
+  discount of $5 and $9)                   $ 2,869     $ 3,225
+Medium-term notes (net of unamortized
+  discount of $5 and $6)                     2,118       2,762
+Discrete underwritten debt (net of
+  unamortized discount of $58 and $29)       8,542       7,321
+Accrued interest and other liabilities         160         192
+                                         ---------   ---------
+   Total liabilities                        13,689      13,500
+                                         ---------   ---------
+
+Commitments and contingent liabilities
+
+Shareholder's Equity
+--------------------
+Common share, par value $100 per share
+  500,000 shares authorized
+  350,000 shares issued and outstanding         35         35
+Capital in excess of par value               1,150      1,150
+      	Accumulated other
+  comprehensive loss                            (3)         -
+Retained earnings                            2,183      2,053
+                                         ---------   --------
+  Total shareholder's equity                 3,365      3,238
+                                         ---------   --------
+  Total liabilities and
+    shareholder's equity                   $17,054    $16,738
+                                         =========   ========
+
+
+See notes to financial statements.
+
+
+
+
+
+
+
+
+
+
+
+                                        7
+
+
+
+
+
+
+
+
+
+
+
+
+
+SEARS ROEBUCK ACCEPTANCE CORP.
+STATEMENTS OF SHAREHOLDER'S EQUITY
+
+
+
+(millions)                              2002        2001        2000
+                                    --------    --------    --------
+Common share                          $   35      $   35      $   35
+                                    --------    --------    --------
+Capital in excess of par value        $1,150      $1,150      $1,150
+                                    --------    --------    --------
+
+Accumulated other comprehensive loss:
+Beginning of year                     $    -      $    -      $    -
+Cash flow hedge loss                      (3)          -           -
+                                    --------    --------    --------
+End of year                           $   (3)     $    -      $    -
+                                    --------    --------    --------
+
+Retained earnings:
+Beginning of year                     $2,053      $1,909      $1,748
+Net income                               130         144         161
+                                    --------    --------    --------
+End of year                           $2,183      $2,053      $1,909
+                                    --------    --------    --------
+
+Total shareholder's equity            $3,365      $3,238      $3,094
+                                    ========    ========    ========
+
+
+See notes to financial statements.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                             8
+
+
+
+
+
+
+
+
+
+SEARS ROEBUCK ACCEPTANCE CORP.
+STATEMENTS OF CASH FLOWS
+
+
+(millions)                                    2002     2001      2000
+                                           -------- --------  --------
+Cash Flows From Operating Activities
+------------------------------------
+Net income                                  $  130   $  144    $  161
+ Adjustments to reconcile net income to net
+  cash provided by operating activities:
+ Depreciation, amortization and
+    other noncash items                         14       13        15
+ Decrease (increase) in other assets             2      (80)        7
+(Decrease) increase in other liabilities       (32)      41       (22)
+                                           -------- --------  --------
+Net cash provided by
+  operating activities                         114      118       161
+
+Cash Flows From Investing Activities
+------------------------------------
+Decrease (increase) in notes of Sears          662      865       (73)
+                                           -------- --------  --------
+Net cash provided by (used in)
+  investing activities                         662      865       (73)
+
+Cash Flows From Financing Activities
+------------------------------------
+(Decrease) increase in commercial paper,
+  primarily 90 days or less                   (356)    (709)    1,259
+Proceeds from issuance of long-term debt     2,129    2,009       286
+Payments for redemption of long-term debt   (1,558)  (2,117)   (1,645)
+Issue cost paid to issue debt                  (27)      (9)        -
+                                           -------- --------  --------
+Net cash provided by (used in)
+  financing activities                         188     (826)     (100)
+                                           -------- --------  --------
+Net increase (decrease)
+  in cash and cash equivalents                 964      157       (12)
+Cash and cash equivalents, beginning of year   599      442       454
+                                           -------- --------  --------
+Cash and cash equivalents, end of year      $1,563   $  599    $  442
+                                           ======== ========  ========
+
+Supplemental Disclosure of Cash Flow Information
+
+Cash paid during the year
+  Interest paid                               $791     $842      $972
+  Income taxes                                  87       61        86
+
+See notes to financial statements
+
+
+
+
+                                         9
+
+
+
+
+
+NOTES TO FINANCIAL STATEMENTS
+
+
+1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+Sears Roebuck Acceptance Corp. ("SRAC"), a wholly-owned subsidiary of Sears,
+Roebuck and Co. ("Sears"), is principally engaged in the business of acquiring
+short-term notes of Sears using proceeds from its unsecured short-term
+borrowing programs(primarily the direct placement of commercial paper) and
+the issuance of long-term debt (medium-term notes and discrete underwritten
+debt).
+
+Under a letter agreement between SRAC and Sears, the interest rate on the
+Sears notes is presently calculated so that SRAC maintains an earnings to
+fixed charges ratio of at least 1.25.
+
+Cash and cash equivalents is defined to include all highly liquid investments
+with maturities of three months or less.
+
+The results of operations of SRAC are included in the consolidated federal
+income tax return of Sears.  Tax liabilities and benefits are allocated as
+generated by SRAC, regardless of whether such benefits would be currently
+available on a separate return basis.
+
+SRAC's fiscal year ends on the Saturday nearest December 31.  Fiscal
+year-ends were December 28, 2002(52 weeks), December 29, 2001(52 weeks),
+and December 30, 2000(52 weeks).
+
+The preparation of financial statements in accordance with accounting
+principles generally accepted in the United States of America requires
+management to make estimates and assumptions that affect the reported
+amounts of assets and liabilities and disclosure of contingent assets and
+liabilities at the date of the financial statements and the reported amounts
+of income and expenses during the reporting period.  Actual results could
+differ from those estimates.
+
+Statement of Financial Accounting Standards (SFAS) No. 133, Accounting for
+Derivative Instruments and Hedging Activities, is effective for all fiscal
+years beginning after June 15, 2000.  SFAS 133, as amended, establishes
+accounting and reporting standards for derivative instruments, including
+certain derivative instruments embedded in other contracts and for hedging
+activities.  Under SFAS 133, certain contracts that were not formerly
+considered derivatives now meet the definition of a derivative.  SRAC
+adopted SFAS 133 effective December 31, 2000.  The adoption of SFAS 133
+resulted in no transition adjustment.
+
+Statement of Financial Accounting Standards (SFAS) No. 145, dealing with
+Rescission of FASB Statement No. 4, 44, and 64, is effective for all
+financial statements issued on or after May 15, 2002.  SFAS 145, eliminates
+Statement 4, which required all gains and losses from debt extinguishment
+to be aggregated, and if material, classified as an extraordinary item,
+net of tax.  Under SFAS 145, debt extinguishments used as part of an entity's
+risk management strategy do not meet the criteria for classification as
+extraordinary items. SRAC adopted SFAS 145 effective December 28, 2002. The
+adoption of the standard did not have an impact on the financial statements
+of SRAC.
+
+
+
+
+
+
+                                         10
+
+
+
+
+
+2. FEDERAL INCOME TAXES
+
+Federal income taxes provided for by SRAC amounted to $70 million,
+$77 million and $87 million for the fiscal years 2002, 2001 and 2000,
+respectively.  These amounts represent current income tax provisions
+calculated at an effective income tax rate of 35%.  No deferred tax
+provisions were necessary.
+
+
+
+ 3. COMMERCIAL PAPER
+
+SRAC obtains funds through the direct placement of commercial paper
+issued in maturities of one to 270 days.  Selected details of SRAC's
+borrowings are shown below.  Weighted-average interest rates are based
+on the actual number of days in the year, and borrowings are net of
+unamortized discount.
+
+(millions)                                           2002        2001
+                                                  --------    --------
+Commercial paper outstanding                       $2,874      $3,234
+ Less: Unamortized discount                             5           9
+                                                  --------    --------
+Commercial paper outstanding (net)                 $2,869      $3,225
+                                                  --------    --------
+
+
+
+
+
+Average and Maximum Balances (net)        2002                2001
+                                  ------------------- -------------------
+                                             Maximum             Maximum
+(millions)                        Average (month-end) Average (month-end)
+                                  ------------------- -------------------
+Commercial paper                   $3,721     $4,135   $3,328     $3,872
+                                  ------------------- -------------------
+
+
+
+
+
+Weighted Average Interest Rates          2002                 2001
+                                  ------------------- -------------------
+                                  Average    Year-end Average    Year-end
+                                  ------------------- -------------------
+Commercial paper                    2.21%       2.05%   4.75%       2.98%
+                                  ------------------- -------------------
+
+
+
+
+
+
+
+
+
+
+
+
+             		11
+
+
+
+
+
+
+
+
+
+
+4. MEDIUM-TERM NOTES AND DISCRETE UNDERWRITTEN DEBT
+
+Medium-term notes and discrete underwritten debt are issued with either
+a floating rate indexed to LIBOR or a fixed rate.
+
+
+(dollars in millions; term in years)
+
+
+ISSUANCES
+                                    Avg.                          Avg.
+                    2002    Avg.   Orig.       2001      Avg.    Orig.
+                   Volume  Coupon  Term       Volume    Coupon   Term
+                   ------  ------  ----       ------    ------   ----
+  Fourth Quarter:
+Medium-term notes  $  298   6.80%   6.6       $  270     3.45%    2.3
+Discrete debt      $    -      -      -       $    -        -       -
+
+  Year:
+Medium-term notes  $  313   6.69%   6.4       $  270     3.45%    2.3
+Discrete debt      $1,850   6.90%  24.9       $1,750     6.89%   10.0
+
+
+
+
+GROSS OUTSTANDING
+
+                                    Avg.                          Avg.
+                 12/28/02  Avg.  Remain.     12/29/01    Avg.  Remain.
+                  Balance  Coupon  Term       Balance   Coupon   Term
+                  -------- ------ -----       -------   ------ ------
+Medium-term notes  $2,123   5.75%   2.1       $2,768     5.95%    1.7
+Discrete debt      $8,600   6.71%  13.0       $7,350     6.67%   10.0
+
+
+
+MATURITIES
+
+
+          Medium-term    Discrete
+Year        notes          debt
+---------------------------------
+2003       $1,246        $1,250
+2004          317            -
+2005          115           250
+2006           40           550
+2007          103            -
+Thereafter    302         6,550
+---------------------------------
+Total      $2,123        $8,600
+=================================
+
+
+
+
+
+
+                                         12
+
+
+
+
+
+
+
+
+
+5. BACK-UP LIQUIDITY
+
+SRAC continued to provide support for 100% of its outstanding commercial paper
+through its investment portfolio and credit facilities.  SRAC's investment
+portfolio, which consists of cash and cash equivalents, fluctuated from a low
+of $83 million to a high of $2,291 million in 2002.  Committed credit
+facilities as of December 28, 2002 were as follows:
+
+Expiration Date                                        (millions)
+----------------------------------------------------------------
+April 2003                                                $4,360*
+----------------------------------------------------------------
+*On February 24, 2003, this facility was replaced by a $3.5 billion 364-day
+revolving facility which includes an option to extend the repayment of
+borrowings, if any, through February 2005.
+
+SRAC pays commitment fees on the unused portions of its credit facilities.
+The annualized fees at December 28, 2002 on these credit lines were
+$3.2 million.
+
+
+       6. LETTERS OF CREDIT AND OTHER COMMITMENTS
+
+SRAC issues standby letters of credit to third parties on behalf of
+Sears and its subsidiaries.  At December 28, 2002, standby letters of
+credit totaling $340 million were outstanding.
+
+SRAC is the guarantor of an office lease entered into by GlobalNetXchange,
+LLC(GNX) as of October 6, 2000 and expiring on January 31, 2006.  At
+December 28, 2002, SRAC's obligation for the remaining lease payments
+totaled $4.6 million.  SRAC's exposure is mitigated by an indemnification
+agreement dated as of February 12, 2001 by which certain members of GNX
+have severally agreed to indemnify SRAC in connection with its liability under
+the lease guaranty.  Furthermore, GNX has provided for a letter of credit with
+SRAC as beneficiary to cover the exposure of a member who is not a party to the
+indemnification agreement.
+
+SRAC issues import letters of credit to facilitate Sears purchase of goods
+from foreign suppliers.  At December 28, 2002, letters of credit totaling
+$146 million were outstanding. SRAC has no liabilities with respect to this
+program other than the obligation to pay drafts under the letters of credit
+that, if not reimbursed by Sears on the day of the disbursement, are
+automatically converted into demand borrowings by Sears from SRAC.  To date,
+all SRAC disbursements have been reimbursed on a same-day basis.
+
+ To facilitate an understanding of SRAC's commitments the following data is
+provided:
+
+
+                                   Amount of Commitment Expiration Per Period
+                                   ------------------------------------------
+                              Total
+                             Amounts  Less than                        After 5
+thousands                  Committed    1 Year  1-3 Years   4-5 Years    Years
+                           ---------  --------  ---------   ---------  -------
+Other Commercial Commitments
+
+Standby Letters of Credit       340       308           1          1       30
+Guarantees                        5         2           3          -        -
+Import Letters of Credit        146       146           -          -        -
+                            -------    ------    --------     ------   ------
+Total  Commitments         $    491   $   456   $       4    $     1  $    30
+                            =======    ======    ========     ======   ======
+
+
+                                             13
+
+
+
+
+
+
+
+
+
+7.  FINANCIAL INSTRUMENTS
+
+SRAC's financial instruments (both assets and liabilities), with the exception
+of medium-term notes and discrete underwritten debt, are short-term or variable
+in nature and as such their carrying value approximates fair value.
+Medium-term notes and discrete underwritten debt are valued based on quoted
+market prices when available or discounted cash flows, using interest rates
+currently available to SRAC on similar borrowings.  The fair values of these
+financial instruments at year-end 2002 and 2001 are as follows:
+
+---------------------------------------------------------------------------
+                                             2002                2001
+                                     Carrying     Fair   Carrying     Fair
+(millions)                              Value    Value      Value    Value
+---------------------------------------------------------------------------
+Medium-term notes (net)                $2,118   $2,091     $2,762   $2,816
+Discrete underwritten debt(net)         8,542    8,024      7,321    7,326
+
+
+
+
+
+
+
+
+8.  QUARTERLY FINANCIAL DATA (UNAUDITED)
+
+                   First        Second      Third      Fourth        Total
+                  Quarter      Quarter     Quarter     Quarter        Year
+                 2002  2001   2002 2001   2002 2001   2002 2001   2002  2001
+(millions)     ------------  ----------   ---------  ----------   ----------
+Operating Results
+Total revenues   $237  $304   $245 $276   $257 $260    $245 $249 $984 $1,089
+
+Interest & related
+  expenses        188   241    195  220    205  207     194  198   782   866
+Total expenses    188   242    196  220    205  207     195  199   784   868
+Income before
+  income taxes     49    62     49   56     52   53      50   50   200   221
+
+Net income         32    40     32   37     34   34      32   33   130   144
+
+Ratio of earnings to
+  fixed charges  1.26  1.26   1.25  1.26   1.25 1.26    1.25 1.25  1.26  1.26
+
+(billions)
+--------
+Averages
+Earning assets*  $16.9 $17.5  $17.5 $17.2 $18.5 $16.9  $17.6 $17.0 $17.6 $17.1
+Short-term debt    3.6   3.5    3.7   3.4   4.1   3.2    3.6   3.3   3.7   3.3
+Long-term debt     9.9  10.6   10.4  10.5  11.0  10.5   10.6  10.3  10.5  10.5
+Cost of
+ short-term debt 2.50% 6.65%  2.18%  5.08% 2.13% 4.02% 2.06% 3.15% 2.21% 4.75%
+ long-term debt  6.54% 6.70%  6.54%  6.64% 6.53% 6.56% 6.52% 6.50% 6.53% 6.60%
+
+
+*Notes of Sears and invested cash.
+
+
+
+
+
+
+
+
+
+                                         14
+
+
+Item 9.    Changes in and Disagreements with Accountants
+           on Accounting and Financial Disclosure.
+           None.
+
+
+                                PART III
+
+Item 10.   Directors and Executive Officers of the Registrant.
+           Not applicable.
+
+Item 11.   Executive Compensation.
+           Not applicable.
+
+Item 12.   Security Ownership of Certain Beneficial Owners
+           and Management.
+           Not applicable.
+
+Item 13.   Certain Relationships and Related Transactions.
+           Not applicable.
+
+Item 14.   Controls and Procedures
+
+The Company's management, including Keith E. Trost,
+President (principal executive officer) and George F. Slook,
+Vice President, Finance (principal financial officer), have
+evaluated the effectiveness of the Company's "disclosure
+controls and procedures," as such term is defined in
+Rules 13a-14 and 15d-14 promulgated under the Securities
+Exchange Act of 1934, as amended, within 90 days of the
+filing date of this Annual Report on Form 10-K.  Based
+upon their evaluation, the principal executive officer
+and principal financial officer concluded that the
+Company's disclosure controls and procedures are effective.
+There were no significant changes in the Company's internal
+controls or in other factors that could significantly
+affect these controls, since the date the controls were
+evaluated.
+
+                  PART IV
+
+Item 15.   Exhibits, Financial Statement Schedules and Reports on Form 8-K.
+
+           (a) The following documents are filed as a part of this report:
+
+           1.      An "Index to Financial Statements" has been filed as a part
+                   of this report on page S-1 hereof.
+
+           2.      No financial statement schedules are included herein because
+                   they are not required or because the information is
+                   contained in the financial statements and notes thereto, as
+                   noted in the "Index to Financial Statements" filed as part
+                   of this report.
+
+           3.      An "Exhibit Index" has been filed as part of this report
+                   beginning on page E-1 hereof.
+
+           (b) Reports on Form 8-K:
+
+                   Registrant filed Current Reports on Form 8-K dated
+                   November 20, 2002 and December 6, 2002[Items 5 and 7].
+
+                                          15
+
+
+
+
+                                      SIGNATURES
+
+         Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed
+on its behalf by the undersigned, thereunto duly authorized.
+
+
+                                      SEARS ROEBUCK ACCEPTANCE CORP.
+                                      (Registrant)
+                                      /S/ George F. Slook
+                                      By  George F. Slook*
+                                      Vice President, Finance
+                                      and Assistant Secretary
+
+March 12, 2003
+
+         Pursuant to the requirements of the Securities Exchange Act of 1934,
+this report has been signed below by the following persons on behalf of the
+registrant and in the capacities and on the date indicated.
+
+
+Signature                  Title                             Date
+
+Keith E. Trost*            Director and President        )
+                           (Principal Executive          )
+                           Officer)                      )
+                                                         )
+                                                         )
+George F. Slook*           Director and                  )
+                           Vice President, Finance       ) March 12, 2003
+                           and Assistant Secretary       )
+                           (Principal Financial and      )
+                           Accounting Officer)           )
+                                                         )
+Thomas E. Bergmann*        Director                      )
+                                                         )
+                                                         )
+Larry R. Raymond*          Director                      )
+                                                         )
+                                                         )
+Glenn R. Richter*          Director                      )
+
+
+
+
+*/S/ George F. Slook, Individually and as Attorney-in-Fact
+
+
+
+
+
+
+
+
+
+
+                                       16
+
+
+
+                       SEARS ROEBUCK ACCEPTANCE CORP
+
+
+                              CERTIFICATIONS
+
+I, Keith E. Trost, President of Sears Roebuck Acceptance Corp.,
+certify that:
+
+1. I have reviewed this annual report on Form 10-K of Sears Roebuck
+   Acceptance Corp.
+
+2. Based on my knowledge, this annual report does not contain any untrue
+   statement    of a material fact or omit to state a material fact
+   necessary to make the statements made, in light of the circumstances
+   under which such statements were made, not misleading with respect
+   to the period covered by this annual report;
+
+3. Based on my knowledge, the financial statements, and other financial
+   information included in this annual report, fairly present in all material
+   respects the financial condition, results of operations and cash flows of
+   the registrant as of, and for, the periods presented in this annual report;
+
+4. The registrant's other certifying officers and I are responsible for
+   establishing and maintaining disclosure controls and procedures
+   (as defined in Exchange Act Rules 13a-14 and 15d-14) for the
+   registrant and we have:
+
+   (a) designed such disclosure controls and procedures to ensure that
+       material information relating to the registrant, including its
+       consolidated subsidiaries, is made known to us by others within
+       those entities, particularly during the period in which this
+       annual report is being prepared;
+
+   (b) evaluated the effectiveness of the registrant's disclosure
+       controls and procedures as of a date within 90 days prior
+       to the filing date of this annual report (the "Evaluation Date");
+       and
+
+   (c) presented in this annual report our conclusions about the
+       effectiveness of the disclosure controls and procedures
+       based on our evaluation as of the Evaluation Date;
+
+5.  The registrant's other certifying officers and I have disclosed,
+    based on our most recent evaluation, to the registrant's auditors
+    and the audit committee of registrant's board of directors (or persons
+    performing the equivalent functions):
+
+    (a) all significant deficiencies in the design or operation of
+        internal controls which could adversely affect the registrant's
+        ability to record, process, summarize and report financial data
+        and have identified for the registrant's auditors any material
+        weaknesses in internal controls; and
+
+    (b) any fraud, whether or not material, that involves management or
+        other employees who have a significant role in the registrant's
+        internal controls; and;
+
+6. The registrant's other certifying officers and I have indicated in this
+   annual report whether or not there were significant changes in internal
+   controls or in other factors that could significantly affect internal
+   controls subsequent to the date of our most recent evaluation, including
+   any corrective actions with regard to significant deficiencies and
+   material weaknesses.
+
+
+
+Date: March 12, 2003
+                              By:  /s/ Keith E. Trost
+                                 -----------------------
+                                   Keith E. Trost
+                                   President (principal executive officer)
+
+                                       17
+
+
+SEARS ROEBUCK ACCEPTANCE CORP
+
+
+I, George F. Slook, Vice President, Finance of Sears Roebuck Acceptance Corp.,
+certify that:
+
+1. I have reviewed this annual report on Form 10-K of Sears Roebuck
+   Acceptance Corp.
+
+2. Based on my knowledge, this annual report does not contain any untrue
+   statement    of a material fact or omit to state a material fact
+   necessary to make the statements made, in light of the circumstances
+   under which such statements were made, not misleading with respect
+   to the period covered by this annual report;
+
+3. Based on my knowledge, the financial statements, and other financial
+   information included in this annual report, fairly present in all material
+   respects the financial condition, results of operations and cash flows of
+   the registrant as of, and for, the periods presented in this annual report;
+
+4. The registrant's other certifying officers and I are responsible for
+   establishing and maintaining disclosure controls and procedures
+   (as defined in Exchange Act Rules 13a-14 and 15d-14) for the
+   registrant and we have:
+
+   (a) designed such disclosure controls and procedures to ensure that
+       material information relating to the registrant, including its
+       consolidated subsidiaries, is made known to us by others within
+       those entities, particularly during the period in which this
+       annual report is being prepared;
+
+   (b) evaluated the effectiveness of the registrant's disclosure
+       controls and procedures as of a date within 90 days prior
+       to the filing date of this annual report (the "Evaluation Date");
+       and
+
+   (c) presented in this annual report our conclusions about the
+       effectiveness of the disclosure controls and procedures
+       based on our evaluation as of the Evaluation Date;
+
+5.  The registrant's other certifying officers and I have disclosed,
+    based on our most recent evaluation, to the registrant's auditors
+    and the audit committee of registrant's board of directors (or persons
+    performing the equivalent functions):
+
+    (a) all significant deficiencies in the design or operation of
+        internal controls which could adversely affect the registrant's
+        ability to record, process, summarize and report financial data
+        and have identified for the registrant's auditors any material
+        weaknesses in internal controls; and
+
+    (b) any fraud, whether or not material, that involves management or
+        other employees who have a significant role in the registrant's
+        internal controls; and;
+
+6. The registrant's other certifying officers and I have indicated in this
+   annual report whether or not there were significant changes in internal
+   controls or in other factors that could significantly affect internal
+   controls subsequent to the date of our most recent evaluation, including
+   any corrective actions with regard to significant deficiencies and
+   material weaknesses.
+
+
+
+
+   Date: March 12, 2003
+
+                           By:  /s/  George F. Slook
+                                ----------------------
+                                George F. Slook
+                                Vice President, Finance (principal
+                                financial officer)
+
+                                     18
+
+
+
+
+                       SEARS ROEBUCK ACCEPTANCE CORP.
+
+                       INDEX TO FINANCIAL STATEMENTS
+
+
+
+
+                                                                   PAGE
+
+
+STATEMENTS OF INCOME AND COMPREHENSIVE INCOME                       6
+
+
+STATEMENTS OF FINANCIAL POSITION                                    7
+
+
+STATEMENTS OF SHAREHOLDER'S EQUITY                                  8
+
+
+STATEMENTS OF CASH FLOWS                                            9
+
+
+NOTES TO FINANCIAL STATEMENTS                                    10-14
+
+
+INDEPENDENT AUDITORS' REPORT                                      S-2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                           S-1
+
+
+
+
+
+
+
+
+
+
+
+INDEPENDENT AUDITORS' REPORT
+
+
+To the Shareholder and Board of Directors of
+ Sears Roebuck Acceptance Corp.
+Greenville, Delaware
+
+We have audited the accompanying statements of financial position
+of Sears Roebuck Acceptance Corp. (a wholly-owned subsidiary of
+Sears, Roebuck and Co.) as of December 28, 2002 and
+December 29, 2001, and the related statements of income and
+comprehensive income, shareholder's equity, and cash flows
+for each of the three years in the period ended
+December 28, 2002.  These financial statements are the
+responsibility of Sears Roebuck Acceptance Corp.'s
+management.  Our responsibility is to express an opinion on
+these financial statements based on our audits.
+
+We conducted our audits in accordance with auditing
+standards generally accepted in the United States of America.
+Those standards require that we plan and perform the audit
+to obtain reasonable assurance about whether the financial
+statements are free of material misstatement. An audit
+includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements.  An
+audit also includes assessing the accounting principles used
+and significant estimates made by management, as well as
+evaluating the overall financial statement presentation.
+We believe that our audits provide a reasonable basis for our
+opinion.
+
+In our opinion, such financial statements present fairly,
+in all material respects, the financial position of Sears
+Roebuck Acceptance Corp. as of December 28, 2002 and
+December 29, 2001, and the results of its operations and
+its cash flows for each of the three years in the period
+ended December 28, 2002 in conformity with accounting
+principles generally accepted in the United States of America.
+
+
+
+/S/ Deloitte & Touche LLP
+-------------------------
+Deloitte & Touche LLP
+Philadelphia, Pennsylvania
+
+February 14, 2003, except for Note 5,
+as to which the date is February 24, 2003
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        S-2
+
+
+
+                   EXHIBIT INDEX
+
+
+3(a)            Certificate of Incorporation of the Registrant, as in
+                effect at November 13, 1987 [Incorporated by reference to
+                Exhibit 28(c) to the Registrant's Quarterly Report on
+                Form 10-Q for the quarter ended September 30, 1987*].
+
+3(b)            By-laws of the Registrant, as in effect at October 20, 1999
+                [Incorporated by reference to Exhibit 3(b) to the
+                Registrant's Quarterly Report on Form 10-Q/A for the quarter
+                ended October 2, 1999*].
+
+4(a)            The Registrant hereby agrees to furnish the Commission, upon
+                request, with each instrument defining the rights of holders of
+                long-term debt of the Registrant with respect to which the
+                total amount of securities authorized does not exceed 10% of
+                the total assets of the Registrant.
+
+4(b)            Fixed Charge Coverage and Ownership Agreement dated
+                May 15, 1995 between Sears, Roebuck and Co. and the
+                Registrant [Incorporated by reference to Exhibit 4(e)
+                to the Registrant's Current Report on Form 8-K
+                dated June 8, 1995*].
+
+4(c)            Fixed Charge Coverage and Ownership Agreement dated
+                as of September 24, 2002 between Sears Roebuck
+                Acceptance Corp. and Sears, Roebuck and Co.
+                [Incorporated by reference to Exhibit 4(f)
+                of Registration Statement No. 333-92082].
+
+4(d)            Indenture dated as of May 15, 1995 between the Registrant
+                and The Chase Manhattan Bank [Incorporated by reference
+                to Exhibit 4(b) to Amendment No. 1 to Registration
+                Statement No. 33-64215].
+
+4(e)            Indenture dated as of October 1, 2002 between the Registrant
+                and BNY Midwest Trust Company.[Incorporated by reference to
+                Exhibit4(b) to Registrant's Quarterly Report on Form 10-Q
+                for the quarter ended September 28, 2002*].
+
+4(f)            Extension Agreement dated March 1, 1996, between Sears,
+                Roebuck and Co. and the Registrant [Incorporated
+                by reference to Exhibit 4(k) to the Registrant's
+                Annual Report on Form 10-K for the year ended
+                December 30, 1995*].
+
+4(g)            Extension Agreement dated August 22, 1996, between Sears,
+                Roebuck and Co. and the Registrant [Incorporated by reference
+                to Exhibit 4(c) to the Registrant's Current Report on Form 8-K
+                dated August 22, 1996*].
+
+----------------------------------
+ *Sec File No. 1-4040
+
+
+
+                                          E-1
+
+
+
+
+
+
+                EXHIBIT INDEX (cont'd)
+
+
+4(h)            Extension Agreement dated September 18, 1997, between Sears,
+                Roebuck and Co and the Registrant. [Incorporated
+                by reference to Exhibit 4(t) to the Registrant's
+                Annual Report on Form 10-K for the year ended
+                January 1, 2000*].
+
+4(i)            Extension Agreement dated October 23, 1998, between Sears,
+                Roebuck and Co and the Registrant. [Incorporated
+                by reference to Exhibit 4(u) to the Registrant's
+	          Annual Report on Form 10-K for the year ended
+                January 1, 2000*].
+
+4(j)            Extension Agreement dated July 16, 2002 between
+                Sears, Roebuck and Co. and the Registrant [Incorporated
+                by reference to Exhibit 4(c) of Registration
+                Statement No. 333-92082].
+
+4(k)            Form of Fixed-Rate Medium-Term Note Series I [Incorporated by
+                reference to Exhibit 4(b) to the Registrant's Current Report on
+                Form 8-K dated June 8, 1995*].
+
+4(l)            Form of Fixed-Rate Put Option Medium-Term Note Series I
+                [Incorporated by reference to Exhibit 4 to the Registrant's
+                Current Report on Form 8-K dated November 4, 1995*].
+
+4(m)            Form of 6 3/4% Note [Incorporated by reference to Exhibit 4(d)
+                to the Registrant's Current Report on Form 8-K dated
+                June 8, 1995*].
+
+4(n)            Form of 6 1/8% Note [Incorporated by reference to Exhibit 4
+                to the Registrant's Current Report on Form 8-K
+                dated January 23, 1996*].
+
+4(o)            Form of Fixed-Rate Medium-Term Note Series II [Incorporated by
+                reference to Exhibit 4(a) to the Registrant's Current Report on
+                Form 8-K dated March 28, 1996*].
+
+4(p)            Form of 6.90% Note [Incorporated by reference to Exhibit 4 to
+                the Registrant's Current Report on Form 8-K dated
+                August 2, 1996*].
+
+4(q)            Form of Fixed-Rate Medium-Term Note Series III Incorporated
+                by reference to Exhibit 4(a) to the Registrant's Current Report
+                on Form 8-K dated August 22, 1996*].
+
+4(r)            Form of 6.70% Note [Incorporated by reference to Exhibit 4
+                to the Registrant's Current Report on Form 8-K
+                dated November 19, 1996*].
+
+4(s)            Form of 7.00% Note [Incorporated by reference to Exhibit 4.4
+                to the Registrant's Current Report on Form 8-K dated
+                May 13, 1997*].
+ --------------------
+ SEC File No. 1-4040.
+
+                                     E-2
+
+
+
+
+
+                EXHIBIT INDEX (cont'd)
+
+
+4(t)            Form of Fixed-Rate Medium-Term Note Series IV [Incorporated by
+                reference to Exhibit 4.2 to the Registrant's Current Report on
+                Form 8-K dated May 13, 1997*].
+
+4(u)            Form of 6.70% Note [Incorporated by reference to Exhibit 4(a)
+                to the Registrant's Current Report on Form 8-K dated
+                September 18, 1997*].
+
+4(v)            Form of 7.50% Note [Incorporated by reference to Exhibit 4(b)
+                to the Registrant's Current Report on Form 8-K dated
+                September 18, 1997*].
+
+4(w)            Form of 6.875% Note [Incorporated by reference to Exhibit 4(c)
+                to the Registrant's Current Report on Form 8-K dated
+                September 18, 1997*].
+
+4(x)            Form of 6.75% Note [Incorporated by reference to Exhibit 4(a)
+                to the Registrant's Current Report on Form 8-K dated
+                January 8, 1998*].
+
+4(y)            Form of Fixed-Rate Medium-Term Note Series V [Incorporated
+                by reference to Exhibit 4(a) to the Registrant's Current
+                Report on Form 8-K dated February 23, 1998*]
+
+4(z)            Form of Floating Rate Medium-Term Note Series V [Incorporated
+                by reference to Exhibit 4(b) to the Registrant's Current Report
+                on Form 8-K dated February 23, 1998*].
+
+4(aa)           Form of Global 7.00% Note [Incorporated by reference to Exhibit
+                4(c) to the Registrant's Current Report on Form 8-K dated
+                February 23, 1998*].
+
+4(bb)           Form of Global 6.00% Note [Incorporated by reference to Exhibit
+                4(c) to the Registrant's Current Report on Form 8-K dated
+                March 13, 1998*].
+
+4(cc)           Form of Global 6.95% Note [Incorporated by reference to Exhibit
+                4(c) to the Registrant's Current Report on Form 8-K dated
+                October 16, 1998*].
+
+4(dd)           Form of Global 6.50% Note [Incorporated by reference to Exhibit
+                4(c) to the Registrant's Current Report on Form 8-K dated
+                November 24, 1998*].
+
+4(ee)           Form of 6.25% Note [Incorporated by reference to Exhibit
+                4(c) to the Registrant's Current Report on Form 8-K dated
+                April 29, 1999*].
+
+4(ff)           Form of 7.00% Note [Incorporated by reference to Exhibit
+                4 to the Registrant's Current Report on Form 8-K dated
+                January  19, 2001*].
+
+4(gg)           Form of 6.75% Note [Incorporated by reference to Exhibit
+                4 to the Registrant's Current Report on Form 8-K dated
+                August 8, 2001*].
+----------------------
+* SEC File No. 1-4040.
+                                    E-3
+
+
+                EXHIBIT INDEX (cont'd)
+
+
+4(hh)           Form of 7.00% Note [Incorporated by reference to Exhibit
+                4 to the Registrant's Current Report on Form 8-K dated
+                September 5, 2001*].
+
+4(ii)           Form of 6.70% Note [Incorporated by reference to Exhibit 4
+                to the Registrant's Current Report on Form 8-K
+                dated March 18,2002*].
+
+4(jj)           Form of 7.00% Note [Incorporated by reference to Exhibit 4
+                to the Registrant's Current Report on Form 8-K
+                dated May 21,2002*].
+
+4(kk)           Form of 7.00% Note [Incorporated by reference to Exhibit 4
+                to the Registrant's Current Report on Form 8-K
+                dated June 27,2002*].
+
+4(ll)           Form of Fixed-Rate Medium-Term Note Series VI [Incorporated by
+                reference to Exhibit 4(a) to the Registrant's Current Report on
+                Form 8-K dated November 20, 2002*].
+
+4(mm)           Form of Floating Rate Medium-Term Note Series VI [Incorporated
+                by reference to Exhibit 4(b) to the Registrant's Current Report
+                on Form 8-K dated November 20, 2002*]
+
+4(nn)           Form of Fixed-Rate InterNote [Incorporated by
+                reference to Exhibit 4 to the Registrant's Current Report on
+                Form 8-K dated December 6, 2002*].
+
+4(oo)           Form of 7.40% Note [Incorporated by reference to Exhibit 4
+                to the Registrant's Current Report on Form 8-K
+                dated February 7, 2003*].
+
+10(a)           Letter Agreement dated as of October 17, 1991 between
+                Registrant and Sears, Roebuck and Co. [Incorporated by
+                reference to Exhibit 10 to the Registrant's Quarterly Report
+                on Form 10-Q for the quarter ended September 30, 1991*].
+
+10(b)(1)        Agreement to Issue Letters of Credit dated December 3, 1985
+                between Sears, Roebuck and Co. and Registrant [Incorporated by
+                reference to Exhibit 10(i)(1) to the Registrant's Annual Report
+                on Form 10-K for the year ended December 31, 1987*].
+
+10(b)(2)        Letter Agreement dated March 11, 1986 amending Agreement to
+                Issue Letters of Credit dated December 3, 1985 [Incorporated by
+                reference to Exhibit 10(i)(2) to the Registrant's Annual Report
+                on Form 10-K for the year ended December 31, 1987*].
+
+10(b)(3)        Letter Agreement dated November 26, 1986 amending Agreement to
+                Issue Letters of Credit dated December 3, 1985 [Incorporated by
+                reference to Exhibit 10(i)(3) to the Registrant's Annual Report
+                on Form 10-K for the year ended December 31, 1987*].
+
+
+---------------------
+* SEC File No. 1-4040.
+                                   E-4
+
+
+
+
+                EXHIBIT INDEX (cont'd)
+
+
+10(c)           $3,500,000,000 364-day Credit Agreement dated as of
+                February 24, 2003 among the Registrant, the banks
+                financial institutional lenders listed on the
+                signature pages thereof, BANK ONE, NA, as syndication
+                agent, BARCLAYS BANK PLC and BANK OF AMERICA, N.A. as
+                documentation agents, SALOMON SMITH BARNEY INC. and
+                BANC ONE CAPITAL MARKETS, INC., as joint lead arrangers
+                and joint bookrunners, and CITIBANK, N.A., as agent for
+                the Lenders.[Incorporated by reference to Exhibit 10(a)
+                to the Registrant's Current Report on Form 8-K dated
+                February 24, 2003*].
+
+10(d)           Credit Agreement Support Letter dated February 24, 2003
+                between Sears, Roebuck and Co. and the Registrant[Incorporated
+                by reference to Exhibit 10(b) to the Registrant's Current
+                Report on Form 8-K dated February 24, 2003*].
+
+12              Calculation of ratio of earnings to fixed charges.**
+
+23              Consent of Deloitte & Touche LLP.**
+
+24              Power of attorney.**
+
+99(a)           Certification of Chief Executive Officer Pursuant to
+                Section 906 of the Sarbanes-Oxley Act of 2002(18 U.S.C.1350)**
+
+99(b)           Certification of Chief Financial Officer Pursuant to
+                Section 906 of the Sarbanes-Oxley Act of 2002(18 U.S.C.1350)**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------
+*  SEC File No. 1-4040.
+** Filed herewith.
+
+                                      E-5
+
+
+
+
+
+</TEXT>
+</DOCUMENT>

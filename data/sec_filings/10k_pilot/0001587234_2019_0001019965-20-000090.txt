@@ -1,0 +1,1748 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>gsms2013gcj16_10k_32020.htm
+<DESCRIPTION>GS MORTGAGE SECURITIES TRUST 2013-GCJ16 FORM 10K MAR 2020
+<TEXT>
+<html><head><title></title></head><body>
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt;"></p>
+
+<!-- Field: Rule-Page --><div align="left" style="margin-top: 6pt; margin-bottom: 3pt"><div style="font-size: 1pt; border-top: Black 4pt solid; border-bottom: Black 1pt solid; width: 100%">&nbsp;</div></div><!-- Field: /Rule-Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 14pt"><b>UNITED
+STATES</b><br><b>SECURITIES AND EXCHANGE COMMISSION</b>&#160;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt;"><font style="font-family: Times New Roman, Times, Serif; font-size: 12pt"><b>Washington,
+D.C. 20549</b>&#160;</font></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt">&nbsp;</p>
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt;"><font style="font-family: Times New Roman, Times, Serif; font-size: 18pt"><b>FORM
+10-K</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt;"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-left: 18.0pt; text-indent: -18.0pt; margin-top: 0pt; margin-bottom: 0pt;"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(Mark
+One)</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt;"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</font></p>
+<table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; width: 100%">
+
+<tr>
+<td style="width: 4%; text-align: left; vertical-align: top"><p style="padding: 0pt; margin: 0pt;"><b>&#9746;</b></p>
+</td>
+<td style="width: 96%"><p style="padding: 0pt; margin: 0pt;"><font style="font-family: Times New Roman, Times, Serif; font-size: 12pt"><b>ANNUAL
+                        REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934</b></font></p>
+</td>
+</tr>
+
+</table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt;"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt;"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>For
+the fiscal year ended December 31, 2019</b><br><br><b>or</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt;"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</font></p>
+<table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; width: 100%">
+
+<tr style="height: 18px;">
+<td style="width: 4%; height: 18px; text-align: left; vertical-align: top"><p style="padding: 0pt; margin: 0pt;"><font style="font-family: Times New Roman, Times, Serif; font-size: 12pt"><b>&#9744;</b></font></p>
+</td>
+<td style="width: 96%; height: 18px"><p style="padding: 0pt; margin: 0pt;"><font style="font-family: Times New Roman, Times, Serif; font-size: 12pt"><b>TRANSITION
+                                      REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934</b></font></p>
+</td>
+</tr>
+
+</table><p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt;">&nbsp;</p>
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>For
+the transition period from _____ to _____</b><br><br><b>Commission file number of the issuing entity: 333-191331-01</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Central
+Index Key Number of the issuing entity: 0001587234</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 24pt"><b>GS
+Mortgage Securities Trust 2013-GCJ16</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>(exact
+name of the issuing entity as specified in its charter)</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Central
+Index Key Number of the depositor: 0001004158</b>&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 24pt"><b>GS
+Mortgage Securities Corporation II</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>(exact
+name of the depositor as specified in its charter)</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Central
+Index Key Number of the sponsor: 0001541502</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 24pt"><b>Goldman
+Sachs Mortgage Company</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>(exact
+name of the sponsor as specified in its charter)</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Central
+Index Key Number of the sponsor: 0001555524</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 24pt"><b>LoanCore
+Capital Markets LLC</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>(exact
+name of the sponsor as specified in its charter)</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 24pt"><b>(formerly
+known as Jefferies LoanCore LLC)</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Central
+Index Key Number of the sponsor: 0001592182</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 24pt"><b>LMF
+Commercial, LLC</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>(exact
+name of the sponsor as specified in its charter)</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 24pt"><b>(formerly
+known as Rialto Mortgage Finance, LLC)</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Central
+Index Key Number of the sponsor: 0001576832</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 24pt"><b>MC-Five
+Mile Commercial Mortgage Finance LLC</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>(exact
+name of the sponsor as specified in its charter)</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Central
+Index Key Number of the sponsor: 0001541001</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 24pt"><b>Citigroup
+Global Markets Realty Corp.</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>(exact
+name of the sponsor as specified in its charter)</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<!-- Field: Page; Sequence: 1 -->
+<div style="margin-top: 12pt; margin-bottom: 6pt; border-bottom: 1pt #000000 solid;">&nbsp;</div>
+<div style="page-break-before: always; margin-top: 6pt;">&nbsp;</div>
+<!-- Field: /Page -->
+<table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; width: 100%; width: 100%; font: 10pt Times New Roman, Times, Serif">
+
+<tr style="font: 10pt Times New Roman, Times, Serif">
+<td style="padding: 0pt 5.75pt; width: 50%; vertical-align: bottom; font: 10pt Times New Roman, Times, Serif"><p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt">&nbsp;</p>
+                                                                                                              <p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>New
+                                         York</b><br><b>(State or other jurisdiction of</b><br><b>incorporation or organization
+                                         of</b><br><b>the issuing entity)</b></font></p>
+</td>
+<td style="padding: 0pt 5.75pt; width: 50%; vertical-align: bottom; font: 10pt Times New Roman, Times, Serif"><p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>46-4247688</b><br><b>46-4256503</b><br><b>(I.R.S.
+                                         Employer</b><br><b>Identification Numbers)</b></font></p>
+</td>
+</tr>
+
+</table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font><br><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>c/o
+U.S. Bank National Association </b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>as
+Certificate Administrator </b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>190
+S. LaSalle Street</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Chicago,
+IL</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>(Address
+of principal executive offices of the issuing entity)</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>60603</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>(Zip
+Code)</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Registrant&#x2019;s
+telephone number, including area code:</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>(212)
+902-1000</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Securities
+registered pursuant to Section 12(b) of the Act:</font></p>
+<table border="0" cellspacing="0" cellpadding="0" align="center" style="border-collapse: collapse; width: 98%; font: 10pt Times New Roman, Times, Serif">
+
+<tr style="font: 10pt Times New Roman, Times, Serif">
+<td style="border-top-style: none; border-left-style: none; border-right: black 1pt solid; border-bottom: black 1pt solid; font: 10pt Times New Roman, Times, Serif; padding: 5pt 5.4pt 0pt; width: 33%; vertical-align: top"><p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Title
+                                         of each class</font></p>
+</td>
+<td style="border-top-style: none; border-left-style: none; border-right: black 1pt solid; border-bottom: black 1pt solid; font: 10pt Times New Roman, Times, Serif; padding: 5pt 5.4pt 0pt; width: 33%; vertical-align: top"><p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Trading
+                                         Symbol(s)</font></p>
+</td>
+<td style="padding: 5pt 5.4pt 0pt; border-bottom: black 1pt solid; font: 10pt Times New Roman, Times, Serif; width: 34%; vertical-align: top"><p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Name
+                                         of each exchange on which registered</font></p>
+</td>
+</tr>
+<tr style="font: 10pt Times New Roman, Times, Serif">
+<td style="border-top-style: none; border-left-style: none; border-right: black 1pt solid; border-bottom: black 1pt solid; font: 10pt Times New Roman, Times, Serif; padding: 5pt 5.4pt 0pt; vertical-align: top"><p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">None</font></p>
+</td>
+<td style="border-top-style: none; border-left-style: none; border-right: black 1pt solid; border-bottom: black 1pt solid; font: 10pt Times New Roman, Times, Serif; padding: 5pt 5.4pt 0pt; vertical-align: top"><p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+</td>
+<td style="padding: 5pt 5.4pt 0pt; border-bottom: black 1pt solid; font: 10pt Times New Roman, Times, Serif; vertical-align: top"><p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+</td>
+</tr>
+
+</table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Securities
+registered pursuant to Section 12(g) of the Act:&nbsp; None.</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Indicate
+by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act.&nbsp;&#9744;  Yes&nbsp;&#9746;
+No</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Indicate
+by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act.&nbsp;&#9744;  Yes&nbsp;&#9746;
+ No</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Indicate
+by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange
+Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports),
+and (2) has been subject to such filing requirements for the past 90 days.&nbsp;&#9746;  Yes&nbsp;&#9744;  No</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Indicate
+by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive
+Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T (Section 232.405 of this chapter) during
+the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files).</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Not
+applicable.</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Indicate
+by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K (Section 229.405 of this chapter) is not
+contained herein, and will not be contained, to the best of registrant&#x2019;s knowledge, in definitive proxy or information
+statements incorporated by reference in Part III of this Form 10-K or any amendment to this Form 10-K.&nbsp;&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Not
+applicable.</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Indicate
+by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting
+company, or an emerging growth company. See the definitions of &#8220;large accelerated filer,&#8221; &#8220;accelerated filer,&#8221;
+&#8220;smaller reporting company,&#8221; and &#8220;emerging growth company&#8221; in Rule 12b-2 of the Exchange Act.</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; width: 100%; width: 100%; font: 10pt Times New Roman, Times, Serif">
+
+<tr style="font: 10pt Times New Roman, Times, Serif">
+<td style="padding: 0pt; width: 22%; vertical-align: top; font: 10pt Times New Roman, Times, Serif"><p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt; color: black">Large
+                                         accelerated filer</font></p>
+</td>
+<td style="padding: 0pt; width: 3%; vertical-align: top; font: 10pt Times New Roman, Times, Serif"><p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#9744;</font></p>
+</td>
+<td style="padding: 0pt; width: 39%; vertical-align: top; font: 10pt Times New Roman, Times, Serif"><p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+</td>
+<td style="padding: 0pt; width: 30%; vertical-align: top; font: 10pt Times New Roman, Times, Serif"><p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt; color: black">Accelerated
+                                         filer</font></p>
+</td>
+<td style="padding: 0pt; width: 10%; vertical-align: top; font: 10pt Times New Roman, Times, Serif"><p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#9744;</font></p>
+</td>
+</tr>
+<tr style="font: 10pt Times New Roman, Times, Serif">
+<td style="padding: 0pt; vertical-align: top; font: 10pt Times New Roman, Times, Serif"><p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt; color: black">&nbsp;</font></p>
+</td>
+<td style="padding: 0pt; vertical-align: top; font: 10pt Times New Roman, Times, Serif"><p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+</td>
+<td style="padding: 0pt; vertical-align: top; font: 10pt Times New Roman, Times, Serif"><p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt; color: black">&nbsp;</font></p>
+</td>
+<td style="padding: 0pt; vertical-align: top; font: 10pt Times New Roman, Times, Serif"><p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt; color: black">&nbsp;</font></p>
+</td>
+<td style="padding: 0pt; vertical-align: top; font: 10pt Times New Roman, Times, Serif"><p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt; color: black"><b>&nbsp;</b></font></p>
+</td>
+</tr>
+<tr style="font: 10pt Times New Roman, Times, Serif">
+<td style="padding: 0pt; vertical-align: top; font: 10pt Times New Roman, Times, Serif"><p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt; color: black">Non-accelerated
+                                         filer</font></p>
+</td>
+<td style="padding: 0pt; vertical-align: top; font: 10pt Times New Roman, Times, Serif"><p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#9746;</font></p>
+</td>
+<td style="padding: 0pt; vertical-align: top; font: 10pt Times New Roman, Times, Serif"><p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt; color: black">(Do
+                                         not check if a smaller reporting company)</font></p>
+</td>
+<td style="padding: 0pt; vertical-align: top; font: 10pt Times New Roman, Times, Serif"><p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt; color: black">Smaller
+                                         reporting company</font></p>
+</td>
+<td style="padding: 0pt; vertical-align: top; font: 10pt Times New Roman, Times, Serif"><p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#9744;</font></p>
+</td>
+</tr>
+<tr style="font: 10pt Times New Roman, Times, Serif">
+<td style="padding: 0pt; vertical-align: top; font: 10pt Times New Roman, Times, Serif"><p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+</td>
+<td style="padding: 0pt; vertical-align: top; font: 10pt Times New Roman, Times, Serif"><p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+</td>
+<td style="padding: 0pt; vertical-align: top; font: 10pt Times New Roman, Times, Serif"><p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+</td>
+<td style="padding: 0pt; vertical-align: top; font: 10pt Times New Roman, Times, Serif"><p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt; color: black">&nbsp;</font></p>
+</td>
+<td style="padding: 0pt; vertical-align: top; font: 10pt Times New Roman, Times, Serif"><p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt; color: black"><b>&nbsp;</b></font></p>
+</td>
+</tr>
+<tr style="font: 10pt Times New Roman, Times, Serif">
+<td style="padding: 0pt; vertical-align: top; font: 10pt Times New Roman, Times, Serif"><p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+</td>
+<td style="padding: 0pt; vertical-align: top; font: 10pt Times New Roman, Times, Serif"><p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+</td>
+<td style="padding: 0pt; vertical-align: top; font: 10pt Times New Roman, Times, Serif"><p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+</td>
+<td style="padding: 0pt; vertical-align: top; font: 10pt Times New Roman, Times, Serif"><p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt; color: black">Emerging
+                                         growth company</font></p>
+</td>
+<td style="padding: 0pt; vertical-align: top; font: 10pt Times New Roman, Times, Serif"><p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#9744;</font></p>
+</td>
+</tr>
+
+</table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for
+complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.&nbsp;
+&#9744;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Indicate
+by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act).&nbsp;&#9744;  Yes&nbsp;&#9746;  No</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">State
+the aggregate market value of the voting and non-voting common equity held by non-affiliates computed by reference to the price
+at which the common equity was last sold, or the average bid and asked price of such common equity, as of the last business day
+of the registrant&#x2019;s most recently completed second fiscal quarter.</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Not
+applicable.</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Indicate
+by check mark whether the registrant has filed all documents and reports required to be filed by Section 12, 13 or 15(d) of the
+Securities Exchange Act of 1934 subsequent to the distribution of securities under a plan confirmed by a court.&nbsp;&#9744;&nbsp;  Yes&nbsp;&#9744;
+&nbsp;No</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"></font></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><FONT STYLE="font: 10pt Times New Roman, Times, Serif">Not
+applicable.</FONT></P>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><FONT STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</FONT></P>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><FONT STYLE="font: 10pt Times New Roman, Times, Serif">Indicate
+the number of shares outstanding of each of the registrant&#x2019;s classes of common stock, as of the latest practicable date.</FONT></P>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><FONT STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</FONT></P>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Not
+applicable.&nbsp;</font></p>
+
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font: 10pt Times New Roman, Times, Serif">&nbsp;</font></p>
+<!-- Field: Page; Sequence: 2; Options: NewSection; Value: 2 -->
+    <div style="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin-top: 0pt; text-align: center; margin-bottom: 0pt; font: normal 10pt Times New Roman, Times, Serif"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->2<!-- Field: /Sequence -->&nbsp;</P></div>
+    <div style="page-break-before: always; margin-top: 6pt; margin-bottom: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></div>
+    <!-- Field: /Page -->
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"></p>
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>DOCUMENTS
+INCORPORATED BY REFERENCE</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">List
+hereunder the following documents if incorporated by reference and the Part of the Form 10-K (e.g., Part I, Part II, etc.) into
+which the document is incorporated: (1) Any annual report to security holders; (2) Any proxy or information statement; and (3)
+Any prospectus filed pursuant to Rule 424(b) or (c) under the Securities Act of 1933. The listed documents should be clearly described
+for identification purposes (e.g., annual report to security holders for fiscal year ended December 24, 1980).</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Not
+applicable.</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"></p>
+
+<!-- Field: Rule-Page --><div align="left" style="margin-top: 3pt; margin-bottom: 3pt"><div style="font-size: 1pt; border-top: Black 1pt solid; border-bottom: Black 4pt solid; width: 100%">&nbsp;</div></div><!-- Field: /Rule-Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+
+<!-- Field: Page; Sequence: 3; Value: 2 -->
+    <div style="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin-top: 0pt; text-align: center; margin-bottom: 0pt; font: normal 10pt Times New Roman, Times, Serif"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->3<!-- Field: /Sequence -->&nbsp;</P></div>
+    <div style="page-break-before: always; margin-top: 6pt; margin-bottom: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><font style="font: 10pt Times New Roman, Times, Serif"><b>EXPLANATORY
+NOTES</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">The
+Matrix MHC Portfolio Mortgage Loan, previously an asset of the issuing entity being serviced under the Pooling and Servicing Agreement,
+was not an asset of the issuing entity during the reporting period and is omitted from this Annual Report on Form 10-K and will
+be omitted from subsequent Annual Reports on Form 10-K.</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">The
+Exhibit Index describes exhibits provided by certain parties (in their capacities indicated on the Exhibit Index) with respect
+to the Walpole Shopping Mall Mortgage Loan, which constituted approximately 4.3% of the asset pool of the issuing entity as of
+its cut-off date.&nbsp; The Walpole Shopping Mall Mortgage Loan is an asset of the issuing entity and is part of a loan combination
+that includes the Walpole Shopping Mall Mortgage Loan and one other pari passu loan, which is not an asset of the issuing entity.
+The other pari passu portion of the loan combination was securitized in the Citigroup Commercial Mortgage Trust 2013-GC15 transaction,
+Commission File Number 333-189017-01 (the &#8220;<u>CGCMT 2013-GC15 Transaction</u>&#8221;). This loan combination, including
+the Walpole Shopping Mall Mortgage Loan, is being serviced and administered pursuant to the pooling and servicing agreement for
+the CGCMT 2013-GC15 Transaction, which is incorporated by reference as Exhibit 4.2 to this Annual Report on Form 10-K.</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">The
+Exhibit Index describes exhibits provided by certain parties (in their capacities indicated on the Exhibit Index) with respect
+to the Miracle Mile Shops Mortgage Loan, which constituted approximately 6.4% of the asset pool of the issuing entity as of its
+cut-off date.&nbsp; The Miracle Mile Shops Mortgage Loan is an asset of the issuing entity and is part of a loan combination that
+includes the Miracle Mile Shops Mortgage Loan and five other pari passu loans, which are not assets of the issuing entity. A pari
+passu portion of the loan combination was securitized in the COMM 2013-CCRE12 Mortgage Trust transaction, Commission File Number
+333-184376-09 (the &#8220;<u>COMM 2013-CCRE12 Transaction</u>&#8221;). This loan combination, including the Miracle Mile Shops
+Mortgage Loan, is being serviced and administered pursuant to the pooling and servicing agreement for the COMM 2013-CCRE12 Transaction,
+which is incorporated by reference as Exhibit 4.3 to this Annual Report on Form 10-K.</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">The
+Exhibit Index describes exhibits provided by certain parties (in their capacities indicated on the Exhibit Index) with respect
+to the Related Home Depot Mortgage Loan, which constituted approximately 1.2% of the asset pool of the issuing entity as of its
+cut-off date.&nbsp; The Related Home Depot Mortgage Loan is an asset of the issuing entity and is part of a loan combination that
+includes the Related Home Depot Mortgage Loan and one other pari passu loan, which is not an asset of the issuing entity. The
+other pari passu portion of the loan combination was securitized in the WFRBS Commercial Mortgage Trust 2013-C17 transaction,
+Commission File Number 333-177891-06 (the &#8220;<u>WFRBS 2013-C17 Transaction</u>&#8221;). This loan combination, including the
+Related Home Depot Mortgage Loan, is being serviced and administered pursuant to the pooling and servicing agreement for the WFRBS
+2013-C17 Transaction, which is incorporated by reference as Exhibit 4.4 to this Annual Report on Form 10-K.</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">The
+master servicer of a pooling and servicing agreement or trust and servicing agreement also functions as the primary servicer of
+the related mortgage loans serviced and administered pursuant to such agreement unless a separate primary servicer is identified
+herein.&nbsp; If this report does not identify a separate primary servicer, the servicer compliance statement provided by the
+master servicer under any such agreement also encompasses its responsibilities as primary servicer of the related mortgage loan
+or mortgage loans.</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Wells
+Fargo Bank, National Association is the master servicer of the mortgage loans serviced under the Pooling and Servicing Agreement,
+the primary servicer (with respect to the obligation to make property protection and mortgage payment advances) of the Miracle
+Mile Shops Mortgage Loan and the primary servicer of the Walpole Shopping Mall Mortgage Loan and the Related Home Depot Mortgage
+Loan. As a result, Wells Fargo Bank, National Association is a &#8220;servicer&#8221; as defined in Item 1108(a)(2)(iii) of Regulation
+AB, in the capacities described above, because it is servicing mortgage loans that constituted 10% or more of the assets of the
+issuing entity as of its cut-off date. The assessments of compliance with applicable servicing criteria, accountants&#x2019; attestation
+reports and servicer compliance statements delivered by Wells Fargo Bank, National Association in the capacities described above
+are listed in the Exhibit Index.</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Wells
+Fargo Bank, National Association is the custodian of the Miracle Mile Shops Mortgage Loan and the Related Home Depot Mortgage
+Loan.&nbsp; As a result, Wells Fargo Bank, National Association is a servicing function participant in the capacities described
+above, because it is servicing mortgage loans that constituted 5% or more of the assets of the issuing entity as of its cut-off
+date. The assessments of compliance with applicable servicing criteria and accountants&#x2019; attestation reports delivered by
+Wells Fargo Bank, National Association in the capacities described above are listed in the Exhibit Index.</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Rialto
+Capital Advisors, LLC is the special servicer of the mortgage loans serviced under the Pooling and Servicing Agreement and the
+Related Home Depot Mortgage Loan. As a result, Rialto Capital Advisors, LLC is a &#8220;servicer&#8221; as defined in Item 1108(a)(2)(iii)
+of Regulation AB, in the capacities described above, because it is servicing mortgage loans that constituted 10% or more of the
+assets of the issuing entity as of its cut-off date. The assessments of compliance with applicable servicing criteria, accountants&#x2019;
+attestation reports and servicer compliance statements delivered by Rialto Capital Advisors, LLC in the capacities described above
+are listed in the Exhibit Index.</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">U.S.
+Bank National Association is the custodian of the mortgage loans serviced under the Pooling and Servicing Agreement.&nbsp; As
+a result, U.S. Bank National Association is a servicing function participant in the capacity described above, because it is servicing
+mortgage loans that constituted 5% or more of the assets of the issuing entity as of its cut-off date. The assessments of compliance
+with applicable servicing criteria and accountants&#x2019; attestation reports delivered by U.S. Bank National Association in
+the capacity described above are listed in the Exhibit Index.</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Situs
+Holdings, LLC is the operating advisor of the mortgage loans serviced under the Pooling and Servicing Agreement and the Walpole
+Shopping Mall Mortgage Loan.&nbsp; As a result, Situs Holdings, LLC is a servicing function participant in the capacities described
+above, because it is servicing mortgage loans that constituted 5% or more of the assets of the issuing entity as of its cut-off
+date. The assessments of compliance with applicable servicing criteria and accountants&#x2019; attestation reports delivered by
+Situs Holdings, LLC in the capacities described above are listed in the Exhibit Index.</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<!-- Field: Page; Sequence: 4; Value: 2 -->
+    <div style="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin-top: 0pt; text-align: center; margin-bottom: 0pt; font: normal 10pt Times New Roman, Times, Serif"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->4<!-- Field: /Sequence -->&nbsp;</P></div>
+    <div style="page-break-before: always; margin-top: 6pt; margin-bottom: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></div>
+    <!-- Field: /Page -->
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Midland
+Loan Services, a Division of PNC Bank, National Association is the special servicer of the Walpole Shopping Mall Mortgage Loan
+and the primary servicer (except with respect to the obligation to make property protection and mortgage payment advances) of
+the Miracle Mile Shops Mortgage Loan. As a result, Midland Loan Services, a Division of PNC Bank, National Association is a &#8220;servicer&#8221;
+as defined in Item 1108(a)(2)(iii) of Regulation AB, in the capacities described above, because it is servicing mortgage loans
+that constituted 10% or more of the assets of the issuing entity as of its cut-off date. The assessments of compliance with applicable
+servicing criteria, accountants&#x2019; attestation reports and servicer compliance statements delivered by Midland Loan Services,
+a Division of PNC Bank, National Association in the capacities described above are listed in the Exhibit Index.</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">U.S.
+Bank National Association acts as trustee of the Walpole Shopping Mall Mortgage Loan, the Miracle Mile Shops Mortgage Loan and
+the Related Home Depot Mortgage Loan. Pursuant to the pooling and servicing agreements for the CGCMT 2013-GC15, the COMM 2013-CCRE12
+Transaction and the WFRBS 2013-C17 Transaction, the trustee is required to provide an assessment of compliance with applicable
+servicing criteria solely with respect to Item 1122(d)(2)(iii) of Regulation AB (regarding advances of funds or guarantees regarding
+collections, cash flows or distributions, and any interest or other fees charged for such advances, are made, reviewed and approved
+as specified in the transaction agreements). However, during the reporting period, the trustee did not perform any servicing function
+with respect to the servicing criteria specified in Item 1122(d)(2)(iii). The master servicer or the special servicer, to the
+extent required, performed the servicing function identified with respect to Item 1122(d)(2)(iii), and each such party included
+Item 1122(d)(2)(iii) in the assessment of compliance with applicable servicing criteria and accountant&#x2019;s attestation report
+for the subject transaction. As a result, consistent with industry practice, this Annual Report on Form 10-K does not include
+an assessment of compliance with applicable servicing criteria of the trustee.</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">This
+Annual Report on Form 10-K includes assessments of compliance with applicable servicing criteria and accountants&#x2019; attestation
+reports from CoreLogic Commercial Real Estate Services, Inc. and National Tax Search, LLC.&nbsp; These entities were engaged by
+the master servicer under the Pooling and Servicing Agreement, the primary servicer of the Miracle Mile Shops Mortgage Loan (with
+respect to the obligation to make property protection and mortgage payment advances) and the primary servicer of the Walpole Shopping
+Mall Mortgage Loan and the Related Home Depot Mortgage Loan to remit tax payments received from the escrow accounts of borrowers
+to local taxing authorities, to report tax amounts due, to verify tax parcel information, and to verify non-escrow tax payments.
+These servicing functions are included within the servicing criteria set forth in Items 1122(d)(4)(xi) and 1122(d)(4)(xii) of
+Regulation AB.&nbsp; Therefore, under the principles-based definition of &#8220;servicer&#8221; set forth in Item 1101(j) of Regulation
+AB that looks to the functions that an entity performs, these vendors are &#8220;servicers&#8221; for the purposes of Item 1122
+of Regulation AB.&nbsp; <i>See</i> Compliance and Disclosure Interpretations, Section 301.01 (Item 1101(j)).</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">The
+assessments of compliance with applicable servicing criteria, accountants&#x2019; attestation reports and servicer compliance
+statements of the certificate administrator of the Miracle Mile Shops Mortgage Loan, the Related Home Depot Mortgage Loan and
+the Walpole Shopping Mall Mortgage Loan listed on the Exhibit Index are omitted from this Annual Report on Form 10-K as the certificate
+administrator pursuant to the related pooling and servicing agreement or trust and servicing agreement does not perform any activities
+that address servicing criteria with respect to the issuing entity and because they are each not a &#8220;servicer&#8221; that
+meets the criteria in Item 1108(a)(2)(i) through (iii) of Regulation AB.</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">With
+respect to the <i>pari passu</i> loan combination that includes the Related Home Depot Mortgage Loan, the Walpole Shopping Mall
+Mortgage Loan and the Miracle Mile Shops Mortgage Loan, (i) the reports on assessment of compliance with servicing criteria and
+attestation reports on assessment of compliance with servicing criteria of TriMont Real Estate Advisors, Inc. as trust advisor
+of the Related Home Depot Mortgage Loan and Citibank, N.A. as custodian of the Walpole Shopping Mall Mortgage Loan, listed on
+the Exhibit Index, are omitted from this Annual Report on Form 10-K as they are not required to be included on this Annual Report
+on Form 10-K per Instruction 3 to Item 1122 of Regulation AB because they are parties performing activities that address servicing
+criteria relating to 5% or less of the assets of the issuing entity; and (ii) the servicer compliance statement of LNR Partners,
+LLC as special servicer of the Miracle Mile Shops Mortgage Loan, listed on the Exhibit Index is omitted from this Annual Report
+on Form 10-K as it is not required by Item 1123 of Regulation AB to be included on this Annual Report on Form 10-K because it
+is an unaffiliated party that is not a &#8220;servicer&#8221; that meets the criteria in Item 1108(a)(2)(i) through (iii) of Regulation
+AB.</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>PART
+I</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Item
+1.&nbsp; Business.</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Omitted.</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Item
+1A.&nbsp; Risk Factors.</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Omitted.</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Item
+1B.&nbsp; Unresolved Staff Comments.</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">None.</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Item
+2.&nbsp; Properties.</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Omitted.</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Item
+3.&nbsp; Legal Proceedings.</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Omitted.</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<!-- Field: Page; Sequence: 5; Value: 2 -->
+    <div style="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin-top: 0pt; text-align: center; margin-bottom: 0pt; font: normal 10pt Times New Roman, Times, Serif"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->5<!-- Field: /Sequence -->&nbsp;</P></div>
+    <div style="page-break-before: always; margin-top: 6pt; margin-bottom: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></div>
+    <!-- Field: /Page -->
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Item
+4.&nbsp; Mine Safety Disclosures.</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Not
+applicable.</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>PART
+II</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Item
+5.&nbsp; Market for Registrant&#x2019;s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities.</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Omitted.</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Item
+6.&nbsp; Selected Financial Data.</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Omitted.</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Item
+7.&nbsp; Management&#x2019;s Discussion and Analysis of Financial Condition and Results of Operations.</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Omitted.</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Item
+7A.&nbsp; Quantitative and Qualitative Disclosures About Market Risk.</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Omitted.</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Item
+8. &nbsp;Financial Statements and Supplementary Data.</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Omitted.</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Item
+9.&nbsp; Changes in and Disagreements With Accountants on Accounting and Financial Disclosure.</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Omitted.</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Item
+9A.&nbsp; Controls and Procedures.</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Omitted.</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Item
+9B.&nbsp; Other Information.</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">None.</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>PART
+III</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Item
+10. &nbsp;Directors, Executive Officers and Corporate Governance.</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Omitted.</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Item
+11.&nbsp; Executive Compensation.</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Omitted.</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Item
+12.&nbsp; Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters.</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Omitted.</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Item
+13.&nbsp; Certain Relationships and Related Transactions, and Director Independence.</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Omitted.</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Item
+14.&nbsp; Principal Accounting Fees and Services.</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Omitted.</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<!-- Field: Page; Sequence: 6; Value: 2 -->
+    <div style="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin-top: 0pt; text-align: center; margin-bottom: 0pt; font: normal 10pt Times New Roman, Times, Serif"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->6<!-- Field: /Sequence -->&nbsp;</P></div>
+    <div style="page-break-before: always; margin-top: 6pt; margin-bottom: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></div>
+    <!-- Field: /Page -->
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>ADDITIONAL
+DISCLOSURE ITEMS FOR REGULATION AB</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Item
+1112(b) of Regulation AB, Significant Obligor Financial Information.</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">No
+single obligor represents 10% or more of the pool assets held by the issuing entity.</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Item
+1114(b)(2) of Regulation AB, Significant Enhancement Provider Financial Information.</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">No
+entity or group of affiliated entities provides any external credit enhancement or other support for the certificates within this
+transaction as described under Item 1114(a) of Regulation AB.</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Item
+1115(b) of Regulation AB, Certain Derivatives Instruments (Financial Information).</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">No
+entity or group of affiliated entities provides any derivative instruments or other support for the certificates within this transaction
+as described under Item 1115 of Regulation AB.</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Item
+1117 of Regulation AB, Legal Proceedings.</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">The
+registrant knows of no material pending legal proceeding involving the trust or any party related to the trust, other than routine
+litigation incidental to the duties of those respective parties, and the following, with respect to Citibank, as custodian, and Wells Fargo Bank, National
+Association, as custodian.</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">In the ordinary course of business, Citibank is involved in a number of legal proceedings, including in connection with its role as trustee of certain
+RMBS transactions. Certain of these Citibank as trustee-related matters are disclosed herein.</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">On June 18, 2014, a civil action was filed against Citibank in the Supreme Court of the State of New York by a group of investors in 48 private-label
+RMBS trusts for which Citibank allegedly serves or did serve as trustee, asserting claims for purported violations of the Trust Indenture Act of 1939
+(the &ldquo;Trust Indenture Act&rdquo;), breach of contract, breach of fiduciary duty and negligence based on Citibank&rsquo;s alleged failure to perform its duties as
+trustee for the 48 RMBS trusts. On November 24, 2014, plaintiffs sought leave to withdraw this action. On the same day, a smaller subset of similar
+plaintiff investors in 27 private-label RMBS trusts for which Citibank allegedly serves or did serve as trustee, filed a new civil action against
+Citibank in the United States District Court for the Southern District of New York asserting similar claims as the prior action filed in state court. In
+January 2015, the court closed plaintiffs&rsquo; original state court action. On September 8, 2015, the federal court dismissed all claims as to 24 of the 27
+trusts and allowed certain of the claims to proceed as to the other three trusts. Subsequently, plaintiffs voluntarily dismissed all claims with respect to
+two of the three trusts. On April 7, 2017, Citibank filed a motion for summary judgment. Plaintiffs filed its consolidated opposition brief and cross
+motion for partial summary judgment on May 22, 2017. Briefing on those motions was completed on August 4, 2017. On March 22, 2018, the court
+granted Citibank&rsquo;s motion for summary judgment in its entirety, denied Plaintiffs&rsquo; motion for summary judgment and ordered the clerk to close the
+case. On April 20, 2018, plaintiffs filed a notice of appeal. Plaintiffs&rsquo; opening brief was filed on August 3, 2018. Citibank filed its opposition on
+November 2, 2018. Plaintiffs&rsquo; filed their reply on November 16, 2018. On June 7, 2019, the Second Circuit dismissed plaintiffs&rsquo; appeal following
+the parties&rsquo; filing of a stipulation withdrawing the case with prejudice pursuant to Federal Rule of Appellate Procedure 42.</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">On November 24, 2015, the same investors that brought the federal case brought a new civil action in the Supreme Court of the State of New York
+related to 25 private-label RMBS trusts for which Citibank allegedly serves or did serve as trustee. This case includes the 24 trusts previously
+dismissed in the federal action, and one additional trust. The investors assert claims for breach of contract, breach of fiduciary duty, breach of duty
+to avoid conflicts of interest, and violation of New York&rsquo;s Streit Act (the &ldquo;Streit Act&rdquo;). Following oral argument on Citibank&rsquo;s motion to dismiss,
+Plaintiffs filed an amended complaint on August 5, 2016. On June 27, 2017, the state court issued a decision, dismissing the Event of Default
+claims, mortgage-file-related claims, the fiduciary duty claims, and the conflict of interest claims. The decision sustained certain breach of contract
+claims including the claim alleging discovery of breaches of representations and warranties, a claim related to robo-signing, and the implied
+covenant of good faith claim. Citibank appealed the lower court&rsquo;s decision, and on January 16, 2018, the Appellate Division, First Department,
+dismissed the claims related to robo-signing and the implied covenant of good faith, but allowed plaintiffs&rsquo; claim alleging discovery of breaches of
+representations and warranties to proceed. On June 7, 2019, plaintiffs filed a motion for discontinuance of the action and dismissal of plaintiffs&rsquo;
+claims with prejudice.</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">On August 19, 2015, the Federal Deposit Insurance Corporation (&ldquo;FDIC&rdquo;) as Receiver for a failed financial institution filed a civil action against
+Citibank in the Southern District of New York. This action relates to one private-label RMBS trust for which Citibank formerly served as trustee.
+FDIC asserts claims for breach of contract, violation of the Streit Act, and violation of the Trust Indenture Act. Citibank jointly briefed a motion to dismiss with The Bank of New York Mellon and U.S. Bank, N.A., entities that have also been sued by FDIC in their capacity as trustee, and these
+cases have all been consolidated in front of Judge Carter. On September 30, 2016, the Court granted the motion to dismiss without prejudice for lack
+of subject matter jurisdiction. On October 14, 2016, FDIC filed a motion for reargument or relief from judgment from the Court&rsquo;s dismissal order.
+On July 11, 2017, Judge Carter ruled on the motion for reconsideration regarding his dismissal of the action. He denied reconsideration of his
+decision on standing, but granted leave to amend the complaint by October 9, 2017. The FDIC subsequently requested an extension of time to file
+its amended complaint, which was granted. The FDIC filed its amended complaint on December 8, 2017. Defendants&rsquo; jointly filed a motion to
+dismiss the amended complaint and that joint motion was fully briefed as of May 3, 2018. On March 20, 2019, the Court granted Defendants&rsquo; joint
+motion to dismiss the amended complaint. The FDIC's deadline to file a notice of appeal was April 22, 2019. The FDIC has not appealed.</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">There can be no assurances as to the outcome of litigation or the possible impact of litigation on the trustee or the RMBS trusts. However, Citibank
+denies liability and continues to vigorously defend against these litigations. Furthermore, neither the above-disclosed litigations nor any other
+pending legal proceeding involving Citibank will materially affect Citibank&rsquo;s ability to perform its duties under the related servicing agreement for
+this CMBS transaction.</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Beginning on June 18, 2014, a group of institutional investors filed civil complaints in the Supreme Court of the State of New York, New York
+County, and later the U.S. District Court for the Southern District of New York, against Wells Fargo Bank, N.A., (&ldquo;Wells Fargo Bank&rdquo;) in its
+capacity as trustee for certain residential mortgage backed securities (&ldquo;RMBS&rdquo;) trusts. The complaints against Wells Fargo Bank alleged that the
+trustee caused losses to investors and asserted causes of action based upon, among other things, the trustee's alleged failure to: (i) notify and enforce
+repurchase obligations of mortgage loan sellers for purported breaches of representations and warranties, (ii) notify investors of alleged events of
+default, and (iii) abide by appropriate standards of care following alleged events of default. Relief sought included money damages in an unspecified
+amount, reimbursement of expenses, and equitable relief. In November 2018, Wells Fargo Bank reached an agreement, in which it denied any
+wrongdoing, to resolve such claims on a classwide basis for the 271 RMBS trusts at issue. On May 6, 2019, the court entered an order approving the
+settlement agreement. Separate lawsuits against Wells Fargo Bank making similar allegations filed by certain other institutional investors
+concerning several RMBS trusts in New York federal and state court are not covered by the agreement. With respect to such litigations, Wells Fargo
+Bank believes plaintiffs' claims are without merit and intends to contest the claims vigorously, but there can be no assurances as to the outcome of
+the litigations or the possible impact of the litigations on Wells Fargo Bank or the RMBS trusts.</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Item
+1119 of Regulation AB, Affiliations and Certain Relationships and Related Transactions.</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">The
+information regarding this Item has been previously provided in a prospectus supplement of the Registrant relating to the issuing
+entity filed on November 20, 2013 pursuant to Rule 424(b)(5), and the following, with respect to Rialto Capital Advisors, LLC, as special servicer, and Situs
+Holdings, LLC, as operating advisor.</font></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Rialto Capital Advisors, LLC (&ldquo;RCA&rdquo;) was previously an indirect wholly-owned subsidiary of Lennar Corporation (&ldquo;Lennar&rdquo;) (NYSE: LEN and
+LEN.B), a national homebuilder. RCA and certain of its affiliates were acquired on November 30, 2018 by investment funds managed by Stone
+Point Capital LLC (&ldquo;Stone Point&rdquo;) in partnership with the management team of RCA's affiliates. Stone Point is a financial services and asset
+management focused private equity firm based in Greenwich, Connecticut. Situs Holdings, LLC is a wholly-owned subsidiary of an affiliated entity
+of Stone Point.</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Item
+1122 of Regulation AB, Compliance with Applicable Servicing Criteria.</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">The
+reports on assessments of compliance with the servicing criteria for asset-backed securities and related attestation reports on
+such assessments of compliance with respect to the mortgage loans are attached hereto under Item 15 to this Annual Report on Form
+10-K. Attached as Exhibit O to the Pooling and Servicing Agreement incorporated by reference as Exhibit 4.1 to this Annual Report
+on Form 10-K is a chart identifying the entities participating in a servicing function for the transaction responsible for each
+applicable servicing criteria set forth in Item 1122(d).</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">The
+reports on assessments of compliance with the servicing criteria for asset-backed securities and related attestation reports on
+such assessments of compliance with respect to the Walpole Shopping Mall Mortgage Loan, which is being serviced and administered
+pursuant to the pooling and servicing agreement for the CGCMT 2013-GC15 Transaction, are attached hereto under Item 15 to this
+Annual Report on Form 10-K. Attached as Exhibit O to the pooling and servicing agreement for the CGCMT 2013-GC15 Transaction incorporated
+by reference as Exhibit 4.2 to this Annual Report on Form 10-K is a chart identifying the entities participating in a servicing
+function for the CGCMT 2013-GC15 Transaction responsible for each applicable servicing criteria set forth in Item 1122(d).</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">The
+reports on assessments of compliance with the servicing criteria for asset-backed securities and related attestation reports on
+such assessments of compliance with respect to the Miracle Mile Shops Mortgage Loan, which is being serviced and administered
+pursuant to the pooling and servicing agreement for the COMM 2013-CCRE12 Transaction, are attached hereto under Item 15 to this
+Annual Report on Form 10-K. Attached as Schedule II to the pooling and servicing agreement for the COMM 2013-CCRE12 Transaction
+incorporated by reference as Exhibit 4.3 to this Annual Report on Form 10-K is a chart identifying the entities participating
+in a servicing function for the COMM 2013-CCRE12 Transaction responsible for each applicable servicing criteria set forth in Item
+1122(d).</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">The
+reports on assessments of compliance with the servicing criteria for asset-backed securities and related attestation reports on
+such assessments of compliance with respect to the Related Home Depot Mortgage Loan, which is being serviced and administered
+pursuant to the pooling and servicing agreement for the WFRBS 2013-C17 Transaction, are attached hereto under Item 15 to this
+Annual Report on Form 10-K. Attached as Schedule III to the pooling and servicing agreement for the WFRBS 2013-C17 Transaction
+incorporated by reference as Exhibit 4.4 to this Annual Report on Form 10-K is a chart identifying the entities participating
+in a servicing function for the WFRBS 2013-C17 Transaction responsible for each applicable servicing criteria set forth in Item
+1122(d).</font></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt;">&nbsp;</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt;">The report on assessment of compliance with applicable servicing criteria furnished pursuant to Item 1122 of Regulation AB by Midland Loan
+Services, a Division of PNC Bank National Association (&ldquo;Midland&rdquo;) discloses that a material instance of noncompliance occurred, as described below:</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt;">&nbsp;</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt;">Material Instance of Noncompliance</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt;"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+
+<table style="width: 100%; margin: 0px;" border="0" cellspacing="0" cellpadding="0">
+
+<tr>
+<td style="padding: 0pt;width:3%;" valign="top">
+<p style="font: 10pt Times New Roman, Times, serif; margin: 0px; text-indent: 0px;">&nbsp;</p>
+</td>
+<td style="padding: 0pt;width:3%;" valign="top">
+<p style="font: 10pt Times New Roman, Times, serif; margin: 0px; text-indent: 0px;"></p>
+</td>
+<td style="padding: 0pt;width:94%;" valign="top">
+<p style="font: 10pt Times New Roman, Times, serif; text-align: justify; margin: 0px; text-indent: 0px;">In certain instances, the Schedule AL Files (Item 1125 of Regulation AB) were not reported in accordance with the terms specified in the
+transaction agreements, in conflict with Item 1122(d)(3)(i): &ldquo;Reports to investors, including those to be filed with the Commission, are
+maintained in accordance with the transaction agreements and applicable Commission requirements. Specifically, such reports: (A) Are
+prepared in accordance with timeframes and other terms set forth in the transaction agreements&rdquo;. The noncompliance consisted of omitted
+or inaccurately reported fields as described in (1) and (2) below. (1) In connection with other enhancements Midland made to its manual
+Schedule AL process, starting in April 2019, Midland developed and implemented new Schedule AL reporting templates for each
+applicable CMBS transaction that closed prior to April 2019 and for each applicable CMBS transaction going forward. Related to this,
+Midland made certain template setup errors, along with related and other manual inputting of information errors, and the errors were not
+identified prior to submission of the applicable Schedule AL Files in certain cases due to breakdowns in quality control. (2) In one
+applicable transaction, the related Schedule AL File for a given month was not saved properly resulting in the prior month's Schedule AL
+File being submitted for the given month instead of the correct Schedule AL File.</p>
+</td>
+</tr>
+
+</table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt;">&nbsp;</p>
+<table style="width: 100%; margin: 0px;" border="0" width="100%" cellspacing="0" cellpadding="0">
+
+<tr>
+<td style="padding: 0pt;width:3%;" valign="top">
+<p style="font: 10pt Times New Roman, Times, serif; margin: 0px; text-indent: 0px;">&nbsp;</p>
+</td>
+<td style="padding: 0pt;width:3%;" valign="top">
+<p style="font: 10pt Times New Roman, Times, serif; margin: 0px; text-indent: 0px;"></p>
+</td>
+<td style="padding: 0pt;width:94%;" valign="top">
+<p style="font: 10pt Times New Roman, Times, serif; text-align: justify; margin: 0px; text-indent: 0px;">The identified instances did not involve the servicing of assets included in this securitization.</p>
+</td>
+</tr>
+
+</table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt;"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt;"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Steps Taken to Remedy the Material Instance of Noncompliance</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt;"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+
+<table style="width: 100%; margin: 0px;" border="0" cellspacing="0" cellpadding="0">
+
+<tr>
+<td style="padding: 0pt;width:3%;" valign="top">
+<p style="font: 10pt Times New Roman, Times, serif; margin: 0px; text-indent: 0px;">&nbsp;</p>
+</td>
+<td style="padding: 0pt;width:3%;" valign="top">
+<p style="font: 10pt Times New Roman, Times, serif; margin: 0px; text-indent: 0px;"></p>
+</td>
+<td style="padding: 0pt;width:94%;" valign="top">
+<p style="font: 10pt Times New Roman, Times, serif; text-align: justify; margin: 0px; text-indent: 0px;">Midland&rsquo;s Schedule AL reporting process was enhanced in April of 2019, however, the process remained manual throughout the 2019
+calendar year. Errors relating to certain Schedule AL Files during 2019 were identified during the related audit. Following identification,
+Midland made staffing changes and additional enhancements and improvements to its processes and procedures to support its Schedule AL
+reporting obligations and expects to move to an automated solution for this process.</p>
+</td>
+</tr>
+
+</table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt;">&nbsp;</p>
+<table style="width: 100%; margin: 0px;" border="0" width="100%" cellspacing="0" cellpadding="0">
+
+<tr>
+<td style="padding: 0pt;width:3%;" valign="top">
+<p style="font: 10pt Times New Roman, Times, serif; margin: 0px; text-indent: 0px;">&nbsp;</p>
+</td>
+<td style="padding: 0pt;width:3%;" valign="top">
+<p style="font: 10pt Times New Roman, Times, serif; margin: 0px; text-indent: 0px;"></p>
+</td>
+<td style="padding: 0pt;width:94%;" valign="top">
+<p style="font: 10pt Times New Roman, Times, serif; text-align: justify; margin: 0px; text-indent: 0px;">Midland is currently remediating the Schedule AL reporting for certain of the CMBS transactions found to be incorrect.</p>
+</td>
+</tr>
+
+</table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Item
+1123 of Regulation AB, Servicer Compliance Statement.</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">The
+servicer compliance statements are attached as Exhibits to this Annual Report on Form 10-K.</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<!-- Field: Page; Sequence: 7; Value: 2 -->
+    <div style="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin-top: 0pt; text-align: center; margin-bottom: 0pt; font: normal 10pt Times New Roman, Times, Serif"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->7<!-- Field: /Sequence -->&nbsp;</P></div>
+    <div style="page-break-before: always; margin-top: 6pt; margin-bottom: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></div>
+    <!-- Field: /Page -->
+<p style="margin-top: 0; margin-bottom: 0"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"></FONT></P>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><FONT STYLE="font: 10pt Times New Roman, Times, Serif"><B>PART
+IV</B></FONT></P>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><FONT STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</FONT></P>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><FONT STYLE="font: 10pt Times New Roman, Times, Serif"><B>Item
+15. Exhibits, Financial Statement Schedules</B></FONT></P>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><FONT STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</FONT></P>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><FONT STYLE="font: 10pt Times New Roman, Times, Serif">(a)
+The following is a list of documents filed as part of this Annual Report on Form 10-K:</FONT></P>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><FONT STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</font></p>
+
+
+<table border="0" cellspacing="0" cellpadding="0" style="width: 100%; font: 10pt Times New Roman, Times, Serif">
+
+<tr style="font: 10pt Times New Roman, Times, Serif">
+<td style="vertical-align: top; width: 18pt; font: 10pt Times New Roman, Times, Serif"></td>
+<td style="vertical-align: top; width: 18pt; font: 10pt Times New Roman, Times, Serif"><p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(1)</font></p>
+</td>
+<td style="vertical-align: top; font: 10pt Times New Roman, Times, Serif"><p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Not
+                 applicable</font></p>
+</td>
+</tr>
+
+</table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<table border="0" cellspacing="0" cellpadding="0" style="width: 100%; font: 10pt Times New Roman, Times, Serif">
+
+<tr style="font: 10pt Times New Roman, Times, Serif">
+<td style="vertical-align: top; width: 18pt; font: 10pt Times New Roman, Times, Serif"></td>
+<td style="vertical-align: top; width: 18pt; font: 10pt Times New Roman, Times, Serif"><p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(2)</font></p>
+</td>
+<td style="vertical-align: top; font: 10pt Times New Roman, Times, Serif"><p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Not
+                 applicable</font></p>
+</td>
+</tr>
+
+</table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<table border="0" cellspacing="0" cellpadding="0" style="width: 100%; font: 10pt Times New Roman, Times, Serif">
+
+<tr style="font: 10pt Times New Roman, Times, Serif">
+<td style="vertical-align: top; width: 18pt; font: 10pt Times New Roman, Times, Serif"></td>
+<td style="vertical-align: top; width: 18pt; font: 10pt Times New Roman, Times, Serif"><p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(3)</font></p>
+</td>
+<td style="vertical-align: top; font: 10pt Times New Roman, Times, Serif"><p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">See
+                 below</font></p>
+</td>
+</tr>
+
+</table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<table border="0" cellspacing="0" cellpadding="0" style="width: 100%; font: 10pt Times New Roman, Times, Serif">
+
+<tr style="font: 10pt Times New Roman, Times, Serif">
+<td style="vertical-align: top; width: 36pt; font: 10pt Times New Roman, Times, Serif"><p style="font: 10pt Times New Roman, Times, Serif; margin-right: 0pt; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><A style="-sec-extract:exhibit" href="http://www.sec.gov/Archives/edgar/data/1587234/000153949713001168/exh4.htm">4.1</a></font></p>
+</td>
+<td style="vertical-align: top; font: 10pt Times New Roman, Times, Serif"><p style="font: 10pt Times New Roman, Times, Serif; margin-right: 0pt; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><A style="-sec-extract:exhibit" href="http://www.sec.gov/Archives/edgar/data/1587234/000153949713001168/exh4.htm"><font style="color: #0563c1">Pooling
+                 and Servicing Agreement, dated as of November 1, 2013, by and among GS Mortgage Securities Corporation II, as
+                 Depositor, Wells Fargo Bank, National Association, as Master Servicer, Rialto Capital Advisors, LLC, as Special
+                 Servicer, Situs Holdings, LLC, as Operating Advisor, and U.S. Bank National Association, as Certificate Administrator
+                 and Trustee (filed as Exhibit 4 to the registrant&#x2019;s Current Report on Form 8-K filed on November 20, 2013
+                 under Commission File No. 333-191331-01 and incorporated by reference herein).</font></a></font></p>
+</td>
+</tr>
+
+</table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<table border="0" cellspacing="0" cellpadding="0" style="width: 100%; font: 10pt Times New Roman, Times, Serif">
+
+<tr style="font: 10pt Times New Roman, Times, Serif">
+<td style="vertical-align: top; width: 36pt; font: 10pt Times New Roman, Times, Serif"><p style="font: 10pt Times New Roman, Times, Serif; margin-right: 0pt; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><A style="-sec-extract:exhibit" href="http://www.sec.gov/Archives/edgar/data/1585673/000153949713000924/exhibit-4.htm">4.2</a></font></p>
+</td>
+<td style="vertical-align: top; font: 10pt Times New Roman, Times, Serif"><p style="font: 10pt Times New Roman, Times, Serif; margin-right: 0pt; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><A style="-sec-extract:exhibit" href="http://www.sec.gov/Archives/edgar/data/1585673/000153949713000924/exhibit-4.htm"><font style="color: #0563c1">Pooling
+                 and Servicing Agreement, dated as of September 1, 2013, by and among Citigroup Commercial Mortgage Securities
+                 Inc., as Depositor, Wells Fargo Bank, National Association, as Master Servicer, Midland Loan Services, a Division
+                 of PNC Bank, National Association, as Special Servicer, Situs Holdings, LLC, as Operating Advisor, Citibank,
+                 N.A., as Certificate Administrator and U.S. Bank National Association, as Trustee (filed as Exhibit 4 to Citigroup
+                 Commercial Mortgage Securities Inc.&#x2019;s Current Report on Form 8-K filed on September 30, 2013 under Commission
+                 File No. 333-189017-01 and incorporated by reference herein).</font></a></font></p>
+</td>
+</tr>
+
+</table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<table border="0" cellspacing="0" cellpadding="0" style="width: 100%; font: 10pt Times New Roman, Times, Serif">
+
+<tr style="font: 10pt Times New Roman, Times, Serif">
+<td style="vertical-align: top; width: 36pt; font: 10pt Times New Roman, Times, Serif"><p style="font: 10pt Times New Roman, Times, Serif; margin-right: 0pt; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><A style="-sec-extract:exhibit" href="http://www.sec.gov/Archives/edgar/data/1587981/000153949713001076/exh4.htm">4.3</a></font></p>
+</td>
+<td style="vertical-align: top; font: 10pt Times New Roman, Times, Serif"><p style="font: 10pt Times New Roman, Times, Serif; margin-right: 0pt; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><A style="-sec-extract:exhibit" href="http://www.sec.gov/Archives/edgar/data/1587981/000153949713001076/exh4.htm"><font style="color: #0563c1">Pooling
+                 and Servicing Agreement, dated as of November 1, 2013, by and among Deutsche Mortgage &amp; Asset Receiving Corporation,
+                 as Depositor, Wells Fargo Bank, National Association, as Master Servicer, LNR Partners, LLC, as Special Servicer,
+                 U.S. Bank National Association, as Trustee, Wells Fargo Bank, National Association, as Certificate Administrator,
+                 Paying Agent and Custodian, and Park Bridge Lender Services LLC, as Operating Advisor (filed as Exhibit 4 to
+                 Deutsche Mortgage &amp; Asset Receiving Corporation&#x2019;s Current Report on Form 8-K filed on November 7,
+                 2013 under Commission File No. 333-184376-09 and incorporated by reference herein).</font></a></font></p>
+</td>
+</tr>
+
+</table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<table border="0" cellspacing="0" cellpadding="0" style="width: 100%; font: 10pt Times New Roman, Times, Serif">
+
+<tr style="font: 10pt Times New Roman, Times, Serif">
+<td style="vertical-align: top; width: 36pt; font: 10pt Times New Roman, Times, Serif"><p style="font: 10pt Times New Roman, Times, Serif; margin-right: 0pt; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><A style="-sec-extract:exhibit" href="http://www.sec.gov/Archives/edgar/data/1587980/000153949713001170/exh4-1.htm">4.4</a></font></p>
+</td>
+<td style="vertical-align: top; font: 10pt Times New Roman, Times, Serif"><p style="font: 10pt Times New Roman, Times, Serif; margin-right: 0pt; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><A style="-sec-extract:exhibit" href="http://www.sec.gov/Archives/edgar/data/1587980/000153949713001170/exh4-1.htm"><font style="color: #0563c1">Pooling
+                 and Servicing Agreement, dated as of November 1, 2013, by and among RBS Commercial Funding Inc., as Depositor,
+                 Wells Fargo Bank, National Association, as Master Servicer, Rialto Capital Advisors, LLC, as Special Servicer,
+                 Trimont Real Estate Advisors, Inc., as Trust Advisor, Wells Fargo Bank, National Association, as Certificate
+                 Administrator, Tax Administrator and Custodian and U.S. Bank National Association, as Trustee (filed as Exhibit
+                 4.1 to RBS Commercial Funding Inc.&#x2019;s Current Report on Form 8-K filed on November 20, 2013 under Commission
+                 File No. 333-177891-06 and incorporated by reference herein).</font></a></font></p>
+</td>
+</tr>
+
+</table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<table border="0" cellspacing="0" cellpadding="0" style="width: 100%; font: 10pt Times New Roman, Times, Serif">
+
+<tr style="font: 10pt Times New Roman, Times, Serif">
+<td style="vertical-align: top; width: 36pt; font: 10pt Times New Roman, Times, Serif"><p style="font: 10pt Times New Roman, Times, Serif; margin-right: 0pt; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><A style="-sec-extract:exhibit" href="http://www.sec.gov/Archives/edgar/data/1587234/000153949713001168/exh-10_1.htm">10.1</a></font></p>
+</td>
+<td style="vertical-align: top; font: 10pt Times New Roman, Times, Serif"><p style="font: 10pt Times New Roman, Times, Serif; margin-right: 0pt; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><A style="-sec-extract:exhibit" href="http://www.sec.gov/Archives/edgar/data/1587234/000153949713001168/exh-10_1.htm"><font style="color: #0563c1">Mortgage
+                 Loan Purchase Agreement, dated as of November 1, 2013, between GS Mortgage Securities Corporation II and Goldman
+                 Sachs Mortgage Company (filed as Exhibit 10.1 to the registrant&#x2019;s Current Report on Form 8-K filed on
+                 November 20, 2013 under Commission File No. 333-191331-01 and incorporated by reference herein)</font></a></font></p>
+</td>
+</tr>
+
+</table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<table border="0" cellspacing="0" cellpadding="0" style="width: 100%; font: 10pt Times New Roman, Times, Serif">
+
+<tr style="font: 10pt Times New Roman, Times, Serif">
+<td style="vertical-align: top; width: 36pt; font: 10pt Times New Roman, Times, Serif"><p style="font: 10pt Times New Roman, Times, Serif; margin-right: 0pt; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><A style="-sec-extract:exhibit" href="http://www.sec.gov/Archives/edgar/data/1587234/000153949713001168/exh-10_5.htm">10.2</a></font></p>
+</td>
+<td style="vertical-align: top; font: 10pt Times New Roman, Times, Serif"><p style="font: 10pt Times New Roman, Times, Serif; margin-right: 0pt; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><A style="-sec-extract:exhibit" href="http://www.sec.gov/Archives/edgar/data/1587234/000153949713001168/exh-10_5.htm"><font style="color: #0563c1">Mortgage
+                 Loan Purchase Agreement, dated as of November 1, 2013, between GS Mortgage Securities Corporation II and Jefferies
+                 LoanCore LLC (filed as Exhibit 10.5 to the registrant&#x2019;s Current Report on Form 8-K filed on November 20,
+                 2013 under Commission File No. 333-191331-01 and incorporated by reference herein)</font></a></font></p>
+</td>
+</tr>
+
+</table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<table border="0" cellspacing="0" cellpadding="0" style="width: 100%; font: 10pt Times New Roman, Times, Serif">
+
+<tr style="font: 10pt Times New Roman, Times, Serif">
+<td style="vertical-align: top; width: 36pt; font: 10pt Times New Roman, Times, Serif"><p style="font: 10pt Times New Roman, Times, Serif; margin-right: 0pt; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><A style="-sec-extract:exhibit" href="http://www.sec.gov/Archives/edgar/data/1587234/000153949713001168/exh-10_3.htm">10.3</a></font></p>
+</td>
+<td style="vertical-align: top; font: 10pt Times New Roman, Times, Serif"><p style="font: 10pt Times New Roman, Times, Serif; margin-right: 0pt; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><A style="-sec-extract:exhibit" href="http://www.sec.gov/Archives/edgar/data/1587234/000153949713001168/exh-10_3.htm"><font style="color: #0563c1">Mortgage
+                 Loan Purchase Agreement, dated as of November 1, 2013, between GS Mortgage Securities Corporation II and Rialto
+                 Mortgage Finance, LLC (filed as Exhibit 10.3 to the registrant&#x2019;s Current Report on Form 8-K filed on November
+                 20, 2013 under Commission File No. 333-191331-01 and incorporated by reference herein)</font></a></font></p>
+</td>
+</tr>
+
+</table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<table border="0" cellspacing="0" cellpadding="0" style="width: 100%; font: 10pt Times New Roman, Times, Serif">
+
+<tr style="font: 10pt Times New Roman, Times, Serif">
+<td style="vertical-align: top; width: 36pt; font: 10pt Times New Roman, Times, Serif"><p style="font: 10pt Times New Roman, Times, Serif; margin-right: 0pt; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><A style="-sec-extract:exhibit" href="http://www.sec.gov/Archives/edgar/data/1587234/000153949713001168/exh-10_2.htm">10.4</a></font></p>
+</td>
+<td style="vertical-align: top; font: 10pt Times New Roman, Times, Serif"><p style="font: 10pt Times New Roman, Times, Serif; margin-right: 0pt; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><A style="-sec-extract:exhibit" href="http://www.sec.gov/Archives/edgar/data/1587234/000153949713001168/exh-10_2.htm"><font style="color: #0563c1">Mortgage
+                 Loan Purchase Agreement, dated as of November 1, 2013, between GS Mortgage Securities Corporation II and Citigroup
+                 Global Markets Realty Corp. (filed as Exhibit 10.2 to the registrant&#x2019;s Current Report on Form 8-K filed
+                 on November 20, 2013 under Commission File No. 333-191331-01 and incorporated by reference herein)</font></a></font></p>
+</td>
+</tr>
+
+</table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<table border="0" cellspacing="0" cellpadding="0" style="width: 100%; font: 10pt Times New Roman, Times, Serif">
+
+<tr style="font: 10pt Times New Roman, Times, Serif">
+<td style="vertical-align: top; width: 36pt; font: 10pt Times New Roman, Times, Serif"><p style="font: 10pt Times New Roman, Times, Serif; margin-right: 0pt; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><A style="-sec-extract:exhibit" href="http://www.sec.gov/Archives/edgar/data/1587234/000153949713001168/exh-10_4.htm">10.5</a></font></p>
+</td>
+<td style="vertical-align: top; font: 10pt Times New Roman, Times, Serif"><p style="font: 10pt Times New Roman, Times, Serif; margin-right: 0pt; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><A style="-sec-extract:exhibit" href="http://www.sec.gov/Archives/edgar/data/1587234/000153949713001168/exh-10_4.htm"><font style="color: #0563c1">Mortgage
+                 Loan Purchase Agreement, dated as of November 1, 2013, between GS Mortgage Securities Corporation II and MC-Five
+                 Mile Commercial Mortgage Finance LLC (filed as Exhibit 10.4 to the registrant&#x2019;s Current Report on Form
+                 8-K filed on November 20, 2013 under Commission File No. 333-191331-01 and incorporated by reference herein)</font></a></font></p>
+</td>
+</tr>
+
+</table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"></p>
+
+<table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse; font: 10pt Times New Roman, Times, Serif">
+<tr style="vertical-align: top">
+    <td style="color: #0563C1; text-decoration: underline; text-align: left; width: 36pt"><A style="-sec-extract:exhibit" href="e311_gsms2013gcj16.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">31</font></a></td>
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e311_gsms2013gcj16.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Rule 13a-14(d)/15d-14(d) Certifications.</font></a></td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: left">33</td>
+    <td style="text-align: left">Reports on assessment of compliance with servicing criteria for asset-backed securities.</td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e331_welfms.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">33.1</font></a></td>
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e331_welfms.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Wells Fargo Bank, National Association, as Master Servicer</font></a></td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e332_rialss.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">33.2</font></a></td>
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e332_rialss.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Rialto Capital Advisors, LLC, as Special Servicer</font></a></td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e333_usbatcac.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">33.3</font></a></td>
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e333_usbatcac.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">U.S. Bank National Association, as Trustee, Certificate Administrator and Custodian</font></a></td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e334_situoa.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">33.4</font></a></td>
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e334_situoa.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Situs Holdings, LLC, as Operating Advisor prior to November 1, 2019</font></a></td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e335_parboa.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">33.5</font></a></td>
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e335_parboa.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Park Bridge Lender Services LLC, as Operating Advisor on and after November 1, 2019</font></a></td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e336_corlsfp.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">33.6</font></a></td>
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e336_corlsfp.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">CoreLogic Commercial Real Estate Services, Inc., as Servicing Function Participant</font></a></td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e337_ntssfp.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">33.7</font></a></td>
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e337_ntssfp.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">National Tax Search, LLC, as Servicing Function Participant</font></a></td></tr>
+</table>
+
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"></p>
+<!-- Field: Page; Sequence: 8; Value: 2 -->
+    <div style="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin-top: 0pt; text-align: center; margin-bottom: 0pt; font: normal 10pt Times New Roman, Times, Serif"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->8<!-- Field: /Sequence -->&nbsp;</P></div>
+    <div style="page-break-before: always; margin-top: 6pt; margin-bottom: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></div>
+    <!-- Field: /Page -->
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"></p>
+
+<table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse; font: 10pt Times New Roman, Times, Serif">
+<tr style="vertical-align: top">
+    <td style="color: #0563C1; text-decoration: underline; text-align: left; width: 36pt"><A style="-sec-extract:exhibit" href="e331_welfms.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">33.8</font></a></td>
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e331_welfms.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Wells Fargo Bank, National Association, as Primary Servicer of the Walpole Shopping Mall Mortgage Loan (see Exhibit 33.1)</font></a></td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e339_midlss9.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">33.9</font></a></td>
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e339_midlss9.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Midland Loan Services, a Division of PNC Bank, National Association, as Special Servicer of the Walpole Shopping Mall Mortgage Loan</font></a></td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: left">33.10</td>
+    <td style="text-align: left">U.S. Bank National Association, as Trustee of the Walpole Shopping Mall Mortgage Loan (Omitted. See Explanatory Notes.)</td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: left">33.11</td>
+    <td style="text-align: left">Citibank, N.A., as Custodian of the Walpole Shopping Mall Mortgage Loan (Omitted. See Explanatory Notes.)</td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e334_situoa.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">33.12</font></a></td>
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e334_situoa.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Situs Holdings, LLC, as Operating Advisor of the Walpole Shopping Mall Mortgage Loan (see Exhibit 33.4)</font></a></td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e336_corlsfp.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">33.13</font></a></td>
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e336_corlsfp.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">CoreLogic Commercial Real Estate Services, Inc., as Servicing Function Participant of the Walpole Shopping Mall Mortgage Loan (see Exhibit 33.6)</font></a></td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e337_ntssfp.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">33.14</font></a></td>
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e337_ntssfp.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">National Tax Search, LLC, as Servicing Function Participant of the Walpole Shopping Mall Mortgage Loan (see Exhibit 33.7)</font></a></td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e331_welfms.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">33.15</font></a></td>
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e331_welfms.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Wells Fargo Bank, National Association, as Primary Servicer (with respect to the obligation to make property protection and mortgage payment advances) of the Miracle Mile Shops Mortgage Loan (see Exhibit 33.1)</font></a></td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e339_midlss9.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">33.16</font></a></td>
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e339_midlss9.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Midland Loan Services, a Division of PNC Bank, National Association, as Primary Servicer (except with respect to the obligation to make property protection and mortgage payment advances) of the Miracle Mile Shops Mortgage Loan (see Exhibit 33.9)</font></a></td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e3317_lnrss6.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">33.17</font></a></td>
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e3317_lnrss6.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">LNR Partners, LLC, as Special Servicer of the Miracle Mile Shops Mortgage Loan</font></a></td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: left">33.18</td>
+    <td style="text-align: left">U.S. Bank National Association, as Trustee of the Miracle Mile Shops Mortgage Loan (Omitted. See Explanatory Notes.)</td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e3319_welfcus6.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">33.19</font></a></td>
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e3319_welfcus6.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Wells Fargo Bank, National Association, as Custodian of the Miracle Mile Shops Mortgage Loan</font></a></td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e335_parboa.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">33.20</font></a></td>
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e335_parboa.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Park Bridge Lender Services LLC, as Operating Advisor of the Miracle Mile Shops Mortgage Loan (see Exhibit 33.5)</font></a></td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e336_corlsfp.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">33.21</font></a></td>
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e336_corlsfp.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">CoreLogic Commercial Real Estate Services, Inc., as Servicing Function Participant of the Miracle Mile Shops Mortgage Loan (see Exhibit 33.6)</font></a></td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e337_ntssfp.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">33.22</font></a></td>
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e337_ntssfp.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">National Tax Search, LLC, as Servicing Function Participant of the Miracle Mile Shops Mortgage Loan (see Exhibit 33.7)</font></a></td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e331_welfms.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">33.23</font></a></td>
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e331_welfms.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Wells Fargo Bank, National Association, as Primary Servicer of the Related Home Depot Mortgage Loan (see Exhibit 33.1)</font></a></td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e332_rialss.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">33.24</font></a></td>
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e332_rialss.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Rialto Capital Advisors, LLC, as Special Servicer of the Related Home Depot Mortgage Loan (see Exhibit 33.2)</font></a></td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: left">33.25</td>
+    <td style="text-align: left">U.S. Bank National Association, as Trustee of the Related Home Depot Mortgage Loan (Omitted. See Explanatory Notes.)</td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e3319_welfcus6.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">33.26</font></a></td>
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e3319_welfcus6.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Wells Fargo Bank, National Association, as Custodian of the Related Home Depot Mortgage Loan (see Exhibit 33.19)</font></a></td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: left">33.27</td>
+    <td style="text-align: left">TriMont Real Estate Advisors, Inc., as Trust Advisor of the Related Home Depot Mortgage Loan (Omitted. See Explanatory Notes.)</td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e336_corlsfp.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">33.28</font></a></td>
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e336_corlsfp.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">CoreLogic Commercial Real Estate Services, Inc., as Servicing Function Participant of the Related Home Depot Mortgage Loan (see Exhibit 33.6)</font></a></td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e337_ntssfp.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">33.29</font></a></td>
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e337_ntssfp.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">National Tax Search, LLC, as Servicing Function Participant of the Related Home Depot Mortgage Loan (see Exhibit 33.7)</font></a></td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: left">34</td>
+    <td style="text-align: left">Attestation reports on assessment of compliance with servicing criteria for asset-backed securities.</td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e341_welfms.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">34.1</font></a></td>
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e341_welfms.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Wells Fargo Bank, National Association, as Master Servicer</font></a></td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e342_rialss.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">34.2</font></a></td>
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e342_rialss.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Rialto Capital Advisors, LLC, as Special Servicer</font></a></td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e343_usbatcac.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">34.3</font></a></td>
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e343_usbatcac.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">U.S. Bank National Association, as Trustee, Certificate Administrator and Custodian</font></a></td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e344_situoa.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">34.4</font></a></td>
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e344_situoa.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Situs Holdings, LLC, as Operating Advisor prior to November 1, 2019</font></a></td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e345_parboa.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">34.5</font></a></td>
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e345_parboa.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Park Bridge Lender Services LLC, as Operating Advisor on and after November 1, 2019</font></a></td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e346_corlsfp.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">34.6</font></a></td>
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e346_corlsfp.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">CoreLogic Commercial Real Estate Services, Inc., as Servicing Function Participant</font></a></td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e347_ntssfp.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">34.7</font></a></td>
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e347_ntssfp.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">National Tax Search, LLC, as Servicing Function Participant</font></a></td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e341_welfms.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">34.8</font></a></td>
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e341_welfms.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Wells Fargo Bank, National Association, as Primary Servicer of the Walpole Shopping Mall Mortgage Loan (see Exhibit 34.1)</font></a></td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e349_midlss9.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">34.9</font></a></td>
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e349_midlss9.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Midland Loan Services, a Division of PNC Bank, National Association, as Special Servicer of the Walpole Shopping Mall Mortgage Loan</font></a></td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: left; width: 36pt">34.10</td>
+    <td style="text-align: left">U.S. Bank National Association, as Trustee of the Walpole Shopping Mall Mortgage Loan (Omitted. See Explanatory Notes.)</td></tr>
+</table>
+
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt">&nbsp;</p>
+
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<!-- Field: Page; Sequence: 9; Value: 2 -->
+    <div style="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin-top: 0pt; text-align: center; margin-bottom: 0pt; font: normal 10pt Times New Roman, Times, Serif"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->9<!-- Field: /Sequence -->&nbsp;</P></div>
+    <div style="page-break-before: always; margin-top: 6pt; margin-bottom: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></div>
+    <!-- Field: /Page -->
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"></p>
+
+<table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse; font: 10pt Times New Roman, Times, Serif">
+<tr style="vertical-align: top">
+    <td style="text-align: left; width: 36pt">34.11</td>
+    <td style="text-align: left">Citibank, N.A., as Custodian of the Walpole Shopping Mall Mortgage Loan (Omitted. See Explanatory Notes.)</td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e344_situoa.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">34.12</font></a></td>
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e344_situoa.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Situs Holdings, LLC, as Operating Advisor of the Walpole Shopping Mall Mortgage Loan (See Exhibit 34.4)</font></a></td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e346_corlsfp.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">34.13</font></a></td>
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e346_corlsfp.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">CoreLogic Commercial Real Estate Services, Inc., as Servicing Function Participant of the Walpole Shopping Mall Mortgage Loan (see Exhibit 34.6)</font></a></td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e347_ntssfp.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">34.14</font></a></td>
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e347_ntssfp.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">National Tax Search, LLC, as Servicing Function Participant of the Walpole Shopping Mall Mortgage Loan (see Exhibit 34.7)</font></a></td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e341_welfms.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">34.15</font></a></td>
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e341_welfms.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Wells Fargo Bank, National Association, as Primary Servicer (with respect to the obligation to make property protection and mortgage payment advances) of the Miracle Mile Shops Mortgage Loan (see Exhibit 34.1)</font></a></td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e349_midlss9.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">34.16</font></a></td>
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e349_midlss9.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Midland Loan Services, a Division of PNC Bank, National Association, as Primary Servicer (except with respect to the obligation to make property protection and mortgage payment advances) of the Miracle Mile Shops Mortgage Loan (see Exhibit 34.9)</font></a></td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e3417_lnrss6.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">34.17</font></a></td>
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e3417_lnrss6.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">LNR Partners, LLC, as Special Servicer of the Miracle Mile Shops Mortgage Loan</font></a></td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: left">34.18</td>
+    <td style="text-align: left">U.S. Bank National Association, as Trustee of the Miracle Mile Shops Mortgage Loan (Omitted. See Explanatory Notes.)</td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e3419_welfcus6.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">34.19</font></a></td>
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e3419_welfcus6.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Wells Fargo Bank, National Association, as Custodian of the Miracle Mile Shops Mortgage Loan</font></a></td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e345_parboa.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">34.20</font></a></td>
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e345_parboa.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Park Bridge Lender Services LLC, as Operating Advisor of the Miracle Mile Shops Mortgage Loan (see Exhibit 34.5)</font></a></td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e346_corlsfp.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">34.21</font></a></td>
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e346_corlsfp.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">CoreLogic Commercial Real Estate Services, Inc., as Servicing Function Participant of the Miracle Mile Shops Mortgage Loan (see Exhibit 34.6)</font></a></td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e347_ntssfp.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">34.22</font></a></td>
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e347_ntssfp.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">National Tax Search, LLC, as Servicing Function Participant of the Miracle Mile Shops Mortgage Loan (see Exhibit 34.7)</font></a></td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e341_welfms.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">34.23</font></a></td>
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e341_welfms.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Wells Fargo Bank, National Association, as Primary Servicer of the Related Home Depot Mortgage Loan (see Exhibit 34.1)</font></a></td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e342_rialss.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">34.24</font></a></td>
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e342_rialss.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Rialto Capital Advisors, LLC, as Special Servicer of the Related Home Depot Mortgage Loan (see Exhibit 34.2)</font></a></td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: left">34.25</td>
+    <td style="text-align: left">U.S. Bank National Association, as Trustee of the Related Home Depot Mortgage Loan (Omitted. See Explanatory Notes.)</td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e3419_welfcus6.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">34.26</font></a></td>
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e3419_welfcus6.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Wells Fargo Bank, National Association, as Custodian of the Related Home Depot Mortgage Loan (see Exhibit 34.19)</font></a></td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: left">34.27</td>
+    <td style="text-align: left">TriMont Real Estate Advisors, Inc., as Trust Advisor of the Related Home Depot Mortgage Loan (Omitted. See Explanatory Notes.)</td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e346_corlsfp.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">34.28</font></a></td>
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e346_corlsfp.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">CoreLogic Commercial Real Estate Services, Inc., as Servicing Function Participant of the Related Home Depot Mortgage Loan (see Exhibit 34.6)</font></a></td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e347_ntssfp.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">34.29</font></a></td>
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e347_ntssfp.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">National Tax Search, LLC, as Servicing Function Participant of the Related Home Depot Mortgage Loan (see Exhibit 34.7)</font></a></td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: left">35</td>
+    <td style="text-align: left">Servicer compliance statements.</td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e351_welfmsgsms2013gcj16.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">35.1</font></a></td>
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e351_welfmsgsms2013gcj16.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Wells Fargo Bank, National Association, as Master Servicer</font></a></td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e352_rialssgsms2013gcj16.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">35.2</font></a></td>
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e352_rialssgsms2013gcj16.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Rialto Capital Advisors, LLC, as Special Servicer</font></a></td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e353_usbacagsms2013gcj16.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">35.3</font></a></td>
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e353_usbacagsms2013gcj16.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">U.S. Bank National Association, as Certificate Administrator</font></a></td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e351_welfmsgsms2013gcj16.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">35.4</font></a></td>
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e351_welfmsgsms2013gcj16.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Wells Fargo Bank, National Association, as Primary Servicer of the Walpole Shopping Mall Mortgage Loan (see Exhibit 35.1)</font></a></td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e355_midlss9gsms2013gcj16.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">35.5</font></a></td>
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e355_midlss9gsms2013gcj16.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Midland Loan Services, a Division of PNC Bank, National Association, as Special Servicer of the Walpole Shopping Mall Mortgage Loan</font></a></td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e351_welfmsgsms2013gcj16.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">35.6</font></a></td>
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e351_welfmsgsms2013gcj16.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Wells Fargo Bank, National Association, as Primary Servicer (with respect to the obligation to make property protection and mortgage payment advances) of the Miracle Mile Shops Mortgage Loan (see Exhibit 35.1)</font></a></td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e355_midlss9gsms2013gcj16.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">35.7</font></a></td>
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e355_midlss9gsms2013gcj16.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Midland Loan Services, a Division of PNC Bank, National Association, as Primary Servicer (except with respect to the obligation to make property protection and mortgage payment advances) of the Miracle Mile Shops Mortgage Loan (see Exhibit 35.5)</font></a></td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: left">35.8</td>
+    <td style="text-align: left">LNR Partners, LLC, as Special Servicer of the Miracle Mile Shops Mortgage Loan (Omitted. See Explanatory Notes.)</td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e351_welfmsgsms2013gcj16.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">35.9</font></a></td>
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e351_welfmsgsms2013gcj16.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Wells Fargo Bank, National Association, as Primary Servicer of the Related Home Depot Mortgage Loan (see Exhibit 35.1)</font></a></td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">&nbsp;</td></tr>
+<tr style="vertical-align: top">
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e352_rialssgsms2013gcj16.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">35.10</font></a></td>
+    <td style="color: #0563C1; text-decoration: underline; text-align: left"><A style="-sec-extract:exhibit" href="e352_rialssgsms2013gcj16.htm"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Rialto Capital Advisors, LLC, as Special Servicer of the Related Home Depot Mortgage Loan (see Exhibit 35.2)</font></a></td></tr>
+</table>
+
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(b)&nbsp;&nbsp;
+The exhibits required to be filed by the Registrant pursuant to Item 601 of Regulation S-K are listed above.</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(c)&nbsp;&nbsp;&nbsp;
+Not Applicable.</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+
+<!-- Field: Page; Sequence: 10; Value: 2 -->
+    <div style="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin-top: 0pt; text-align: center; margin-bottom: 0pt; font: normal 10pt Times New Roman, Times, Serif"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->10<!-- Field: /Sequence -->&nbsp;</P></div>
+    <div style="page-break-before: always; margin-top: 6pt; margin-bottom: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font: 10pt Times New Roman, Times, Serif"></font></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>SIGNATURES</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Pursuant
+to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report
+to be signed on its behalf by the undersigned, thereunto duly authorized.</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 324pt 0pt 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">GS
+Mortgage Securities Corporation II<br>(Depositor)</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; width: 100%; width: 100%; font: 10pt Times New Roman, Times, Serif">
+
+<tr style="font: 10pt Times New Roman, Times, Serif">
+<td style="padding: 0pt; border-bottom: black 1pt solid; font: 10pt Times New Roman, Times, Serif; width: 50%; vertical-align: top"><p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">/s/
+                                         Leah Nivison</font></p>
+</td>
+<td style="padding: 0pt; width: 50%; vertical-align: top; font: 10pt Times New Roman, Times, Serif"><p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+</td>
+</tr>
+<tr style="font: 10pt Times New Roman, Times, Serif">
+<td style="padding: 0pt; width: 50%; vertical-align: top; font: 10pt Times New Roman, Times, Serif"><p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Leah
+                                         Nivison, Chief Executive Officer</font></p>
+</td>
+<td style="padding: 0pt; width: 50%; vertical-align: top; font: 10pt Times New Roman, Times, Serif"><p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+</td>
+</tr>
+<tr style="font: 10pt Times New Roman, Times, Serif">
+<td style="padding: 0pt; width: 50%; vertical-align: top; font: 10pt Times New Roman, Times, Serif"><p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(senior
+                                         officer in charge of securitization of the depositor)</font></p>
+</td>
+<td style="padding: 0pt; width: 50%; vertical-align: top; font: 10pt Times New Roman, Times, Serif"><p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+</td>
+</tr>
+
+</table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 324pt 0pt 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Date:
+March 25, 2020</font></p>
+
+<!-- Field: Page; Sequence: 11; Value: 2 -->
+    <div style="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin-top: 0pt; text-align: center; margin-bottom: 0pt; font: normal 10pt Times New Roman, Times, Serif"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->11<!-- Field: /Sequence -->&nbsp;</P></div>
+    <!-- Field: /Page -->
+
+
+</body></html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOCUMENT>

@@ -1,0 +1,3253 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>form10-k2002.txt
+<TEXT>
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                                    FORM 10-K
+
+       [X] ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+                              EXCHANGE ACT OF 1934
+
+                    For the Fiscal Year Ended March 31, 2002
+
+                                       or,
+
+     [ ] TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+                              EXCHANGE ACT OF 1934
+
+                           Commission File No. 0-26396
+
+                                  Benihana Inc.
+            ---------------------------------------------------------
+             (Exact name of registrant as specified in its charter)
+
+                Delaware                      65-0538630
+               ----------                --------------------
+       (State or other jurisdiction of       (I.R.S. Employer
+        incorporation or organization)        Identification No.)
+
+             8685 Northwest 53rd Terrace, Miami, Florida      33166
+             -------------------------------------------      -----
+               (Address of principal executive offices)     (Zip Code)
+
+      (Registrant's telephone number, including area code): (305) 593-0770
+                                                            --------------
+
+                         Securities registered pursuant
+                          to Section 12(b) of the Act:
+
+                                      None
+
+                         Securities registered pursuant
+                         to Section 12 (g) of the Act:
+
+                     Common Stock, par value $.10 per share
+                 Class A Common Stock, par value $.10 per share
+                         Preferred Share Purchase Right
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months and (2) has been subject to such filing requirements for
+the past 90 days.
+                                        Yes  X      No
+                                            ---        ---
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405
+of Regulation S-K is not contained herein, and will not be contained, to the
+best of registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K. [ ]
+
+As of June 24, 2002, 3,232,302 shares of Common Stock and 4,352,327 shares
+of Class A Common Stock were outstanding, and the aggregate market value of the
+common equity of Benihana Inc. held by non-affiliates was approximately
+$105,249,973.
+
+                  DOCUMENTS INCORPORATED BY REFERENCE
+                  -----------------------------------
+Portions of the Registrant's Annual Report to Stockholders for the year ended
+March 31, 2002 are incorporated by reference in Parts I and II.
+
+Portions of the Registrant's Proxy Statement for the Annual Meeting to be held
+August 22, 2002 are incorporated by reference in Part III.
+
+
+<PAGE>
+
+
+Item 1.  General
+
+We have operated teppanyaki-style Japanese restaurants in the United States for
+over 37 years, and we believe we are the largest operator of teppanyaki-style
+restaurants in the country. Our core concept, the traditional Benihana
+restaurant, offers teppanyaki-style Japanese cooking in which fresh steak,
+chicken and seafood is prepared by a Benihana chef on a grill which forms a part
+of the table on which the food is served. Our Haru concept offers an extensive
+menu of Japanese fusion dishes in a high energy, urban atmosphere. In addition
+to traditional, high quality sushi and sashimi creations, Haru offers raw bar
+items and Japanese cruisine, including New York strip steak with wasabi
+croquette, spicy shallots and ginger sauce, garlic shrimp and crispy duck.
+
+We currently:
+
+o     own and operate 54 Benihana teppanyaki-style Japanese dinnerhouse
+      restaurants, including one restaurant under the name Samurai;
+o     franchise others to operate 18 additional Benihana restaurants;
+o     own and operate five Haru restaurants in New York City, offering Japanese
+      dining, featuring sushi and sashimi; and
+o     own and operate two Doraku restaurants.
+
+We own the related United States trademarks and service marks to the names
+"Benihana", "Benihana of Tokyo" and the "red flower" symbol and we have the
+exclusive rights to own, develop and license Benihana and Benihana Grill
+restaurants in the United States, Central and South America and the islands of
+the Caribbean.
+
+Sales by our owned restaurants were approximately $170.1 million for the fiscal
+year ended March 31, 2002, as compared to approximately $161.9 million for the
+prior fiscal year. Our net income for the fiscal year ended March 31, 2002 was
+approximately $8.8 million, as compared to approximately $9.1 million for the
+prior fiscal year.
+
+Strategy
+
+The critical elements of our growth strategy are as follows:
+
+Selectively Pursue Restaurant Growth. We believe that our Benihana concept has
+broad appeal and that, as a result, we have significant opportunities to expand
+our business selectively. We plan to capitalize on our broad customer appeal and
+strong brand recognition within the casual dining segment by opening new
+restaurants, selectively acquiring existing Asian-theme restaurants in major
+U.S. markets and franchising new restaurant locations. We are currently
+developing or have under construction two new Benihana restaurants in Westbury,
+New York, and Scottsdale, Arizona.
+
+Maintain Strong Unit Economics. Our experienced management team intends to
+maintain attractive store margins due to sustained sales growth and effective
+cost controls.
+
+Continue To Build Brand Awareness And Customer Loyalty. We will continue to
+provide marketing and promotional support to sustain and grow our reputation for
+distinctive value, quality food and customer satisfaction.
+
+Provide Strong Management Support. Led by Joel Schwartz, our Chief Executive
+Officer, our senior management team has an average of 15 years with our company
+and is experienced in developing and operating distinctive, high-volume casual
+dining establishments.
+
+The Benihana Concept
+
+The Benihana concept offers casual dining in a distinctive Japanese atmosphere
+enhanced by the unique entertainment provided by our highly-skilled Benihana
+chefs who prepare fresh steak, chicken and seafood in traditional Japanese style
+at the customer's table. Most of our Benihana restaurants are open for both
+lunch and dinner. The Benihana restaurants have a limited menu offering a full
+course meal consisting of an appetizer, soup, salad, tea, rice, vegetable, an
+entree of steak, seafood, chicken or any combination of them and a dessert.
+
+Specific menu items may be different in the various restaurants depending upon
+the local geographic market. The servings are portion controlled to provide
+consistency in quantities served to each customer. Alcoholic beverages,
+including specialty mixed drinks, wines and beers and soft drinks are available.
+The average check size per person was $23.61 in fiscal 2002. During fiscal 2002,
+beverage sales in both the lounges and dining rooms accounted for approximately
+17% of our total restaurant sales. Sushi is offered at all of our traditional
+restaurants at either separate sushi bars or at the teppanyaki grills.
+
+
+<PAGE>
+
+
+
+An entire teppan table generally seats eight customers. The chef is assisted in
+the service of the meal by the waitress or waiter who takes beverage and food
+orders. An entire dinnertime meal takes approximately one hour and thirty
+minutes.
+
+Of the 54 Benihana restaurants we operate:
+
+o 37 are located in freestanding, special use restaurant buildings; o 6 are
+located in shopping centers; and o 11 are located in office or hotel building
+complexes.
+
+The freestanding restaurants were built to our specifications as to size, style
+and interior and exterior decor. The other locations were adapted to the
+Benihana interior decor. The freestanding, traditional Benihana restaurant
+units, which are generally one story buildings, average approximately 8,000
+square feet and are constructed on a lot of approximately 1.25 to 1.50 acres.
+The shopping center, office building and hotel-based Benihana restaurants are of
+similar size, but differ somewhat in appearance from location to location in
+order to conform to the appearance of the buildings in which they are located. A
+typical Benihana restaurant has 18 teppan tables and seats from 86 to 178
+customers in the dining rooms and 8 to 120 customers in the bar lounge areas.
+
+In addition to the two Benihana restaurants recently opened in April 2002 in The
+Woodlands, Texas and in May 2002 in Las Colinas, Texas, we anticipate opening
+two new Benihana restaurants in Westbury, New York and Scottsdale, Arizona in
+fiscal 2003.
+
+The Haru Concept
+
+The Haru concept offers an extensive menu of distinctive Japanese fusion dishes
+in a high energy, urban atmosphere. In addition to traditional, high quality
+sushi and sashimi creations, Haru offers raw bar items and Japanese cruisine,
+including New York strip steak with wasabi croquette, spicy shallots and ginger
+sauce, garlic shrimp and crispy duck. Haru also offers delivery and takeout. The
+average check size per person was $26.50 in fiscal 2002. We own 80% of the
+subsidiary that operates the Haru restaurants.
+
+The Doraku Concept
+
+The Doraku concept offers sushi as well as other Japanese dishes. The average
+check size per person was $15.53 in fiscal 2002. We have two Doraku restaurants
+in operation and we do not currently have plans for expansion. We closed a
+Doraku restaurant in March 2002 due to poor traffic at the mall in which it was
+located.
+
+Restaurant Operations
+
+Our Benihana and Doraku restaurants are under the direction of our Executive
+Vice President-Restaurant Operations and are divided among seven geographic
+regions, each managed by a regional manager. Food preparation in the restaurants
+is supervised by eight regional chefs. Our Haru restaurants are locally managed
+in New York, under the supervision of our Chief Executive Officer.
+
+Each restaurant has a manager and one or more assistant managers responsible for
+the operation of the restaurant, including personnel matters, local inventory
+purchasing, maintenance of quality control standards, cleanliness and service.
+
+Specific strict guidelines as documented in restaurant operations manuals are
+followed to assure consistently high quality in customer service and food
+quality from location to location. Operating specifications are used for quality
+of ingredients, preparation of food, maintenance of premises and employee
+conduct and are incorporated in manuals used by the managers, assistant managers
+and head chefs. Food products and portion size are regularly and systematically
+tested for quality and compliance with our standards. Certain seafood items are
+purchased in bulk for most of the restaurants under which a certain quantity is
+purchased at a specific price. Most of the other food products are purchased in
+local markets. Substantially all of our restaurant operating supplies are
+purchased centrally and distributed to the restaurants from our warehouse or a
+bonded warehouse.
+
+Our chefs are trained in the teppanyaki or sushi style of cooking and customer
+service in training programs lasting from eight to twelve weeks. A portion of
+the training is spent working in a restaurant under the direct supervision of an
+experienced head chef. The program includes lectures on our method of restaurant
+operations and training in both tableside and kitchen food preparation as
+applied in our restaurants. Manager training is similar except that the manager
+trainee is given in-depth exposure to each position in the restaurant. Other
+categories of employees are trained by the manager and assistant manager at the
+restaurant. Ongoing continuing education programs and seminars are provided to
+restaurant managers and chefs to improve restaurant quality and implement
+changes in operating policy or menu listings.
+
+
+<PAGE>
+
+
+
+We use various incentive compensation plans pursuant to which key restaurant
+personnel share in the results of operations at both a local and company-wide
+level.
+
+Marketing
+
+We utilize television, radio, billboard and print media to:
+
+o          promote our restaurants;
+o          strengthen our brand identity; and
+o          maintain high name recognition.
+
+The advertising programs are tailored to each local market and to print media
+focused on the business traveler. The advertising program is designed to
+emphasize the inherently fresh aspects of a Benihana meal and the entertainment
+value of the food preparation at the table. In fiscal year 2002, we expended
+$5,637,000 million on advertising and other marketing, approximately 3.3% of our
+net sales. The entertainment value of the Benihana method of food preparation
+and service is emphasized to distinguish Benihana from other restaurant
+concepts.
+
+Franchising
+
+We have, from time to time, franchised restaurant operators in markets in which
+we consider expansion to be of benefit to the Benihana system. We have begun to
+more aggressively pursue franchising opportunities, particularly in Central and
+South America and the islands of the Caribbean where we own the rights to the
+Benihana trademarks and system.
+
+Franchisees bear all direct costs involved in the development, construction and
+operation of their restaurants. We provide franchisee support for:
+
+o          site selection;
+o          prototypical architectural plans;
+o          interior and exterior design and layout;
+o          training, marketing and sales techniques; and
+o          opening assistance.
+
+All franchisees are required to operate their restaurants in accordance with
+Benihana standards and specifications including menu offerings, food quality and
+preparation.
+
+The current standard franchise agreement provides for payment to us of a
+non-refundable franchise fee of $30,000 to $50,000 per restaurant and royalties
+of 3% to 6% of gross sales. In fiscal year 2002, revenues from franchising were
+approximately $1,456,000.
+
+To comply with the terms of the franchise agreements, we are prohibited from
+opening additional restaurants within certain areas in which our existing
+franchisees have the exclusive right to open additional restaurants and operate
+their existing Benihana restaurants. In general, such franchise agreements
+currently provide for an initial payment ot us with respect to each new
+restaurant opened by a franchisee and continuing royalty payments to us based
+upon a percentage of a franchisee's gross sales from each such restaurant
+throughout the term of the franchise.
+
+We anticipate that three new franchised Benihana restaurants will open in fiscal
+2003: one in Edison, New Jersey, one in Trinidad, along with the recently opened
+second franchise in Peru.
+
+Trade Names and Service Marks
+
+Benihana is Japanese for "red flower". In the United States, the "Benihana",
+"Benihana of Tokyo" and "Haru" names and "red flower" symbol, which we believe
+to be of material importance to our business, are owned by us and are registered
+in the United States Patent and Trademark Office and certain foreign countries.
+We also own registered trademarks for the Samurai, Kyoto brands and the Doraku
+concept.
+
+Benihana of Tokyo, our largest stockholder and originator of the Benihana
+concept, continues to own the rights to the Benihana name and trademarks outside
+of the United States, Central and South America and the islands of the
+Caribbean. Benihana of Tokyo is also the operator of a Benihana restaurant in
+Honolulu under an exclusive, royalty-free franchise. We have no financial
+interest in any restaurant operated or franchised by Benihana of Tokyo.
+
+
+
+<PAGE>
+
+
+
+Employees
+
+At March 31, 2002, we employed 3,546 people, of which 3,483 were restaurant
+employees and 63 were corporate personnel. Most employees, except restaurant
+management and corporate management personnel, are paid on an hourly basis. We
+also employ some restaurant personnel on a part-time basis to provide the
+services necessary during the peak periods of restaurant operations. We believe
+our relationship with our employees is good.
+
+Competition
+
+The casual dining segment of the restaurant industry is expected to remain
+intensely competitive with respect to price, service, location, and the type and
+quality of food. Each of our restaurants competes directly or indirectly with
+locally owned restaurants as well as regional and national chains, and several
+of our significant competitors are larger or more diversified and have
+substantially greater resources than the Company. It is also anticipated that
+growth in the industry will result in continuing competition for available
+restaurant sites as well as continued competition in attracting and retaining
+qualified management-level operating personnel. We believe that our competitive
+position is enhanced by offering quality food selections at an appropriate price
+with the unique entertainment provided by our chefs in an attractive, relaxed
+atmosphere.
+
+Government Regulation
+
+Each of our restaurants is subject to licensing and regulation by the health,
+sanitation, safety standards, fire department and the alcoholic beverage control
+authorities in the state or municipality where it is located. Difficulties or
+failure in obtaining the required licensing or requisite approvals could result
+in delays or cancellations in the opening of new restaurants; termination of the
+liquor license for any Benihana restaurant would adversely affect the revenues
+for the restaurant. While to date we have not experienced any material
+difficulties in obtaining and maintaining necessary governmental approvals, the
+failure to obtain or retain, or a delay in obtaining food and liquor licenses or
+any other governmental approvals could have a material adverse effect on our
+operating results. Federal and state environmental regulations have not had a
+material effect on our operations, but more stringent and varied requirements of
+local governmental bodies with respect to zoning, land use and environmental
+factors could delay construction of new restaurants.
+
+We are also subject to federal and state regulations regarding franchise
+offering and sales. Such laws impose registration and disclosure requirements on
+franchisors in the offer and sale of franchises, or impose substantive standards
+on the relationship between franchisee and franchisor.
+
+The Americans with Disabilities Act (the "ADA") prohibits discrimination on the
+basis of disability in public accommodations and employment. The ADA, which
+mandates accessibility standards for individuals with physical disabilities,
+increases the cost of construction of new restaurants and of remodeling older
+restaurants.
+
+We are also subject to the Fair Labor Standards Act, which governs such matters
+as minimum wages, overtime, and other working conditions. A significant portion
+of our food service personnel are paid at rates related to federal or state
+minimum wage rates, and accordingly, increases in any such minimum wage will
+increase our labor costs.
+
+Management Information Systems
+
+We provide restaurant managers with centralized financial and management control
+systems through use of data processing information systems and prescribed
+reporting procedures.
+
+Each restaurant forwards sales reports, vendor invoices, payroll and other
+operational data to the home office on a weekly and four-week period basis. We
+utilize this information to centrally monitor sales, product, labor and other
+costs and to prepare periodic financial and management reports. We believe that
+our centralized accounting, payroll and human resources, cash management and
+information systems improve management's ability to control and manage its
+operations efficiently.
+
+Properties
+
+Of the 61 restaurants in operation at June 21, 2002, eight are located on owned
+real estate and 53 are leased pursuant to land or land and building leases,
+which require either a specific monthly rental, or a minimum rent and additional
+rent based upon a percentage of gross sales. In addition there are two Benihana
+restaurants under construction in Westbury, New York and Scottsdale, Arizona,
+both of which will be pursuant to land leases. Generally, these leases are
+"triple net" leases which pass increases in property operating expenses, such as
+real estate taxes and utilities, through to the Company as tenant. Expiration
+dates of these leases, including renewal options, range from December 2003 to
+March 2027.
+
+
+<PAGE>
+
+
+The following table sets forth the location of our owned restaurants:
+<TABLE>
+<CAPTION>
+<S>                                     <C>                   <C>            <C>                  <C>          <C>
+
+Benihana,                               Approx.                             Approximate Seating
+                                                              -------------------------------------------------
+Doraku or                               Sq. Ft. of            Dining                              Sushi         Date
+Haru Location                           Building              Room              Lounge             Bar         Opened
+---------------                         --------              ----              ------     -       ----        ------
+ARIZONA:
+Benihana
+Building 3
+Promenade Shopping Center
+Scottsdale  (1)                         8,500                 -0-                -0-              -0-          Under construction
+
+CALIFORNIA:
+Benihana
+2100 E. Ball Road
+Anaheim  (1)                            8,710                 160                 67               36          March, 1980
+
+Benihana
+1496 Old Bayshore Hwy.
+Burlingame  (1)                         8,740                 160                 99               27          February, 1978
+
+Benihana
+17877 Gale Avenue
+City of Industry  (1)                   8,000                 144                 50               30          November, 1988
+
+Benihana
+1989 Diamond Blvd.
+Concord  (1)                            8,250                 144                 84               18          February, 1980
+
+Benihana
+2074 Vallco Fashion Pk.
+Cupertino  (1)                          7,937                 144                 45                8          July, 1980
+
+Benihana
+16226 Ventura Blvd.
+Encino  (2)                             7,790                 152                 64               -0-         October, 1970
+
+Benihana
+136 Olivier Street
+Monterey  (2)                           4,856                 112                 33                9          June, 2000
+
+Benihana
+4250 Birch Street
+Newport Beach  (2)                      8,275                 144                 72               26          March, 1978
+
+Benihana
+3760 E. Inland Empire Blvd.
+Ontario (1)                             7,433                 144                  8               20          December, 1998
+
+Benihana
+5489F Sunrise Blvd.
+Citrus Heights
+(Sacramento) (1)                        3,798                 88                   8                5          October, 1995
+
+Benihana
+477 Camino Del Rio So.
+San Diego (1)                           7,981                 144                 68               23          May, 1977
+</TABLE>
+
+(1)     Lease provides for minimum rent, plus additional rent based upon a
+        percentage of gross sales.
+(2)     Lease provides for fixed rent.
+
+<PAGE>
+
+<TABLE>
+<CAPTION>
+<S>                                    <C>                   <C>          <C>                     <C>           <C>
+
+Benihana,                              Approx.                            Approximate Seating
+                                                         -------------------------------------------------------
+Doraku or                              Sq. Ft. of            Dining                               Sushi         Date
+Haru Location                          Building               Room            Lounge               Bar          Opened
+---------------                        --------               ----            ------               ---          ------
+
+Benihana
+1737 Post Street
+San Francisco (1)                        7,990                140                45                -0-           December, 1980
+
+Benihana
+1447 4th Street
+Santa Monica (1)                         7,500                142                15                 40           September, 2001
+
+Benihana
+21327 Hawthorne Blvd.
+Torrance (1)                             7,430                128                63                 28           May, 1980
+
+COLORADO:
+Benihana
+3295 S. Tamarac Dr.
+Denver (1)                                 7,572               128               82                 10           February, 1977
+
+DISTRICT OF COLUMBIA:
+Benihana
+3222 M Street, NW
+Washington (2)                             7,761               136                4                 24           May, 1982
+
+FLORIDA:
+Doraku
+1104 Lincoln Road
+Miami Beach (1)                           3,900                N/A              N/A                 64           June, 2000
+
+Benihana
+276 E. Commercial Blvd.
+Ft. Lauderdale                            8,965                160               70                 -0-          June, 1970
+
+Benihana
+8727 South Dixie Hwy.
+Miami (2)
+(Kendall)                                 8,700                122               66                 15           March, 1989
+
+Samurai
+8717 S.W. 136th St.
+Miami (1)                                 8,162                176               42                 -0-          October, 1981
+
+Benihana
+1665 N.E. 79th St.
+Miami Beach                               8,938                178               86                 42           September, 1973
+
+Benihana
+1751 Hotel Plaza Blvd.
+Lake Buena Vista (1)
+(Orlando)                                 8,145                128               85                  7           October, 1988
+
+Benihana
+3602 S.E. Ocean Blvd.
+Stuart                                    8,485                160               69                 57           February, 1977
+</TABLE>
+
+(1)     Lease provides for minimum rent, plus additional rent based upon a
+        percentage of gross sales.
+(2)     Lease provides for fixed rent.
+
+
+<PAGE>
+
+
+<TABLE>
+<CAPTION>
+<S>                                     <C>                   <C>          <C>                    <C>           <C>
+
+Benihana,                               Approx.                             Approximate Seating
+                                                              -------------------------------------------------
+Doraku or                               Sq. Ft. of            Dining                              Sushi         Date
+Haru Location                           Building              Room              Lounge             Bar         Opened
+---------------                         --------              ----              ------     -       ----        ------
+GEORGIA:
+Benihana
+2143 Peachtree Rd., NE
+Atlanta [I] (2)                            8,244                    136               65                 16         May, 1974
+
+Benihana
+229 Peachtree St. NE
+Atlanta [II] (2)                           6,372                    115               34                 11         April, 1981
+
+ILLINOIS:
+Doraku
+1139 N. State St.
+Chicago (1)                                4,500                    N/A                N/A               71         August, 2000
+
+Benihana
+166 East Superior St.
+Chicago (1)                                7,288                    144                9                 45         April, 1968
+
+Benihana
+747 E. Butterfield Rd.
+Lombard                                    9,200                    168               51                 -0-        April, 1985
+
+Benihana
+1200 E. Higgins Road
+Schaumburg                                 8,388                    160               48                -0-         July, 1992
+
+Benihana
+150 N. Milwaukee Ave.
+Wheeling                                   8,500                    160               33                 6          June, 2001
+
+INDIANA:
+Benihana
+8830 Keystone Crossing Rd.
+Indianapolis (1)                           8,460                    144               93                -0-         February, 1979
+
+KENTUCKY:
+Benihana
+1510 Lake Shore Court
+Louisville (1)                             7,572                    128               88                -0-         July, 1978
+
+MARYLAND:
+Benihana
+7315 Wisconsin Ave.
+Bethesda (1)                               6,047                    128               47                 11         October, 1974
+
+MICHIGAN:
+Benihana
+18601 Hubbard Dr.
+Dearborn (1)                               7,500                    136               40                 46         March, 1977
+</TABLE>
+
+(1)     Lease provides for minimum rent, plus additional rent based upon a
+        percentage of gross sales.
+(2)     Lease provides for fixed rent.
+
+
+
+<PAGE>
+
+
+<TABLE>
+<CAPTION>
+<S>                                     <C>                   <C>           <C>                   <C>           <C>
+
+Benihana,                               Approx.                             Approximate Seating
+                                                              -------------------------------------------------
+Doraku or                               Sq. Ft. of            Dining                              Sushi         Date
+Haru Location                           Building              Room              Lounge             Bar         Opened
+---------------                         --------              ----              ------             ----        ------
+
+Benihana
+21150 Haggerty Rd.
+Northville (2)                             8,000               153               20                 11         May, 1989
+(Farmington Hills)
+
+Benihana
+1985 W. Big Beaver Rd.
+Troy (1)                                   8,600               128               46                 57         February, 1996
+
+MINNESOTA:
+Benihana
+850 Louisiana Ave. So.
+Golden Valley                              10,400              192               45                -0-         September, 1980
+
+NEW JERSEY:
+Benihana
+840 Morris Turnpike
+Short Hills (2)                            11,500              144               56                 56         October, 1976
+
+Benihana
+5255 Marlton Pike
+Pennsauken (1)                             7,000               136               93                 10         February, 1978
+(Cherry Hill)
+
+NEW YORK:
+Benihana
+120 East 56th St.
+New York (2)                               3,859                86               24                -0-         May, 1966
+
+Benihana
+47 West 56th St.
+New York (2)                               7,340               112               59                -0-         June, 1973
+
+Benihana
+2105 Northern Blvd.
+Munsey Park (1)                            8,252               144               88                 75         December, 1978
+(Manhasset)
+
+Benihana
+920 Merchant's Concourse
+Westbury (1)                               7,400               -0-               -0-               -0-         under construction
+
+Haru
+205 West 43rd Street
+New York (2)                               4,400                -0-              -0-               119         May, 2001
+
+Haru
+1327 Third Ave.
+New York (2)                               2,200                -0-              -0-                46         September, 2001
+</TABLE>
+
+(1)     Lease provides for minimum rent, plus additional rent based upon a
+        percentage of gross sales.
+(2)     Lease provides for fixed rent.
+
+
+<PAGE>
+
+
+<TABLE>
+<CAPTION>
+<S>                                        <C>                   <C>            <C>                     <C>                <C>
+
+Benihana,                                  Approx.                              Approximate Seating
+                                                              --------------------------------------------------------
+  Doraku or                                Sq. Ft. of            Dining                                 Sushi               Date
+Haru Location                              Building               Room            Lounge                 Bar               Opened
+------------------                         --------               ----            ------                 ---               ------
+
+Haru
+1329 Third Ave.
+New York (2)                               4,000                     -0-              -0-                78         December, 1999
+
+Haru
+433 Amsterdam Ave.
+New York (2)                               4,000                     -0-              -0-                74         December, 1999
+
+Haru
+280 Park Ave.
+New York (2)                               6,350                     -0-              -0-                132        August, 2001
+
+OHIO:
+Benihana
+50 Tri-County Parkway
+Cincinnati (1)                             7,669                    144               91                -0-         June, 1978
+
+Benihana
+126 East 6th St.
+Cincinnati (1)                             5,800                    112               30                -0-         August, 1979
+
+Benihana
+23611 Chagrin Blvd.
+Beachwood (1)                              10,393                   188               85                -0-         May, 1973
+(Cleveland)
+
+OREGON:
+Benihana
+9205 S.W. Cascade Ave.
+Beaverton (1)                              6,077                    112               54                 34         August, 1986
+
+PENNSYLVANIA:
+Benihana
+2100 Greentree Rd.
+Pittsburgh (1)                             8,000                    150               84                -0-         May, 1971
+
+TENNESSEE:
+Benihana
+912 Ridgelake Blvd.
+Memphis (1)                                8,680                    144               78                 11         October, 1979
+
+TEXAS:
+Benihana
+7775 Banner Dr.
+Dallas (2)                                 8,007                    160               115               -0-         January, 1976
+
+Benihana
+3848 Oak Lawn Ave.
+Dallas (1)
+(Turtle Creek)                             3,998                     96               -0-                10         June, 1997
+</TABLE>
+
+(1)     Lease provides for minimum rent, plus additional rent based upon a
+        percentage of gross sales.
+(2)     Lease provides for fixed rent.
+
+<PAGE>
+
+<TABLE>
+<CAPTION>
+<S>                                        <C>                   <C>            <C>                     <C>                <C>
+
+Benihana,                                  Approx.                              Approximate Seating
+                                                              --------------------------------------------------------
+  Doraku or                                Sq. Ft. of            Dining                                 Sushi               Date
+Haru Location                              Building               Room            Lounge                 Bar               Opened
+------------------                         --------               ----            ------                 ---               ------
+
+Benihana
+1318 Louisiana St.
+Houston [I] (2)                              6,938                128             60             12       May, 1975
+
+Benihana
+1720 Lake Woodlands Drive
+The Woodlands                                8,728                154             30             19       April, 2002
+
+Benihana
+5400 Whitehall Street
+Irving (2)                                   8,565                144             16             12       May, 2002
+
+Benihana
+9707 Westheimer Rd.
+Houston [II] (1)                            7,669                 144             120            10       November, 1977
+
+Benihana
+2579 Town Center Blvd.
+Sugar Land (1)                              3,800                  96             -0-            17       July, 1997
+
+UTAH:
+Benihana
+165 S.W. Temple, Bldg. 1
+Salt Lake City (1)                          7,530                  120            72             10       April, 1977
+</TABLE>
+
+(1)     Lease provides for minimum rent, plus additional rent based upon a
+        percentage of gross sales.
+(2)     Lease provides for fixed rent.
+
+
+<PAGE>
+
+
+
+The Company leases approximately 10,100 square feet of space for its general
+administrative offices in Miami, Florida at an annual rental of $198,000 and
+8,000 square feet for a warehouse in Miami, Florida at an annual rental of
+$37,000. The leases expire May 31, 2009 and October 31, 2002, respectively.
+
+Item 3.  Legal Proceedings
+         -----------------
+The Company is a defendant in an action in the United States District Court for
+the Southern District of New York entitled Lixin Zhao v. Benihana Inc. The
+complaint was filed on behalf of plaintiff Zhao, a former server at the Benihana
+restaurant at West 56th Street in Manhattan, and purports to also be filed on
+behalf of other unnamed current and former employees of the Company who are
+alleged to be similarly situated. Since the commencement of the action, two
+additional plaintiffs have opted into the case, both servers at the West 56th
+Street Benihana restaurant. The complaint sets forth a single claim for alleged
+violations of the minimum wage provisions of the Federal Fair Labor Standards
+Act, 29 U.S.C. ss.ss. 201, et seq (the "Act") arising from the taking of a "tip
+credit" by the Company with respect to the hourly wage paid to certain tipped
+employees, and the tip pooling and distribution practices of the employees of
+the restaurant which allegedly do not comply with the requirements of the Act.
+Plaintiff seeks an injunction enjoining the Company from continuing to engage in
+the alleged violation. Plaintiff also seeks damages consisting of the difference
+between the hourly wage Plaintiff was paid and the applicable federal minimum
+hourly wage, an award of liquidated damages provided by the Act and reasonable
+attorneys' fees and costs. The Company filed an answer to the complaint denying
+the material allegations made and has vigorously defended the action through
+completion of the discovery phase. A motion filed by Plaintiffs to expand the
+action to include potential plaintiffs at the Benihana restaurants located at
+East 56th Street in Manhattan and in Manhasset, New York was granted as to the
+Manhasset location but denied as to the Manhattan location. While the Company
+believes that the complaint has no merit, there can be no assurance that the
+Company will not be required to pay a material amount in the settlement or other
+disposition of this matter.
+
+The Company is also a defendant in an action which has been filed in the United
+States District Court for the Southern District of New York entitled Jin Yip, on
+behalf of herself and all others similarly situated v. Benihana Inc., which is
+related to the Zhao action. The complaint was filed on behalf of Plaintiff Yip,
+a server at the Benihana restaurant at Manhasset, New York, and purports to also
+be filed on behalf of other unnamed current and former employees of the Company
+who are alleged to be similarly situated. The complaint asserts two claims: one
+for alleged violations of the minimum wage provisions of the Federal Fair Labor
+Standards Act, 29 U.S.C. ss.ss. 201, et seq (the "Act") (the "Federal Claim");
+and one for alleged violations of New York State Labor Law ss. 196-d concerning
+gratuities (the "State Claim"). Both the Federal Claim and the State Claim arise
+from the tip pooling and distribution practices of employees at the Company.
+Like the Zhao action, the Federal Claim also arises from the taking of a "tip
+credit" by the Company with respect to the hourly wage paid to certain tipped
+employees. Also like the Zhao action, the Federal Claim purports to be asserted
+as part of a collective action, pursuant to which certain similarly situated
+individuals may have rights to "opt in" to the action. The State Claim, however,
+purports to be asserted as a class claim. Since the commencement of the action,
+eight additional Plaintiffs have opted into the case. The Plaintiffs seek an
+injunction enjoining the Company from continuing to engage in the alleged
+violations; an award of damages arising from the Company's alleged violations of
+the Act consisting of the difference between the hourly wage Plaintiffs were
+paid and the applicable Federal minimum hourly wage; an award of damages equal
+to all gratuities allegedly furnished by the Plaintiffs and the putative class
+to the Company, or other Company employees, in alleged violation of New York
+State Labor Law ss. 196-d; an award of liquidated damages under the Act; and
+reasonable attorneys' fees and costs. The Company has served an Answer to the
+Complaint denying the material allegations made and intends to vigorously defend
+the action. No discovery has occurred or been scheduled, nor has any motion been
+made to certify a class. While the Company believes that the Complaint has no
+merit, this action is in its preliminary stages and there can be no assurance
+that the Company will not be required to pay a material amount in the settlement
+or other disposition of this matter.
+
+Except for the matters described above, the Company is not a party to any
+litigation other than routine claims which are incidental to its business.
+
+Item 4.  Submission of Matters to a Vote of Security Holders
+         ---------------------------------------------------
+There were no matters submitted to a vote of security holders during the fourth
+quarter.
+
+<PAGE>
+
+
+                                     PART II
+
+
+Item 5.  Market for the Company's Common Stock and Related Stockholder Matters
+         ---------------------------------------------------------------------
+The information required by this Item is incorporated herein by reference to
+Page 29 of the Company's 2002 Annual Report to Shareholders.
+
+Item 6.  Selected Consolidated Financial Data
+         ------------------------------------
+The information required by this Item is incorporated herein by reference to
+Page 1 of the Company's 2002 Annual Report to Shareholders.
+
+Item 7.  Management's Discussion and Analysis of Financial Condition and
+         Results of Operations
+         ---------------------------------------------------------------
+The information required by this Item is incorporated herein by reference to
+Pages 4 through 11 of the Company's 2002 Annual Report to Shareholders.
+
+Item 7.A.  Quantitative and Qualitative Disclosures About Market Risks
+           -----------------------------------------------------------
+The information required by this item is incorporated herein by reference to
+Page 9 of the Company's 2002 Annual Report to Shareholders.
+
+Item 8.  Financial Statements and Supplementary Data
+         -------------------------------------------
+The information required by this Item is incorporated herein by reference to
+Pages 12 through 27 of the Company's 2002 Annual Report to Shareholders.
+
+Item 9.  Changes in and Disagreements with Accountants on Accounting and
+         Financial Disclosure
+         ---------------------------------------------------------------
+None.
+
+                                    PART III
+
+
+Item 10.  Directors and Executive Officers of the Company
+          -----------------------------------------------
+Directors. The information appearing under the caption "Election of Directors"
+on Pages 7 through 10 of the Company's Proxy Statement for its Annual
+Meeting of Stockholders to be held on August 22, 2002 (the "Proxy Statement") is
+incorporated herein by reference.
+
+Item 11.  Executive Compensation
+          ----------------------
+The information appearing under the caption "Executive Compensation" commencing
+on Page 14 of the Proxy Statement is incorporated herein by reference.
+
+Item 12.  Security Ownership of Certain Beneficial Owners and Management
+          --------------------------------------------------------------
+The information appearing under the caption "Security Ownership of Certain
+Beneficial Owners of Management" on Pages 3 through 7 of the Proxy
+Statement is incorporated herein by reference.
+
+Item 13.  Certain Relationships and Related Transactions
+          ----------------------------------------------
+The information appearing under the captions "Certain Relationships and Related
+Transactions" commencing on Page 19 of the Proxy Statement is incorporated
+herein by reference.
+
+
+                                     PART IV
+
+
+Item 14.  Exhibits, Financial Statement Schedules and Reports on Form 8-K
+          ---------------------------------------------------------------
+(a)        1.   Financial Statements:
+
+                The following consolidated financial statements of the Company
+                and its subsidiaries, which are set forth on Pages 12 through
+                27 of the Company's 2002 Annual Report to Shareholders
+                included herein as Exhibit 13, are incorporated herein by
+                reference as part of this report.
+
+                Consolidated Balance Sheets as of March 31, 2002 and April 1,
+                2001.
+
+<PAGE>
+
+
+                Consolidated Statements of Earnings for the years ended March
+                31, 2002, April 1, 2001and March 26, 2000.
+
+                Consolidated Statements of Stockholders' Equity for the years
+                ended March 31, 2002, April 1, 2001 and March 26, 2000.
+
+                Consolidated Statements of Cash Flows for the years ended March
+                31, 2002, April 1, 2001 and March 26, 2000.
+
+                Notes to Consolidated Financial Statements.
+
+                Report of Independent Accountants.
+
+           2.   Financial Statement Schedules:
+
+                None
+
+           3.   Exhibits:
+
+                2.01           Amended and Restated Agreement and Plan of
+                               Reorganization dated as of December 29, 1994 and
+                               amended as of March 17, 1995 among BNC, BOT, the
+                               Company and BNC Merger Corp. Incorporated by
+                               reference to Exhibit 2.01 to the Company's
+                               Registration Statement on Form S-4, Registration
+                               No. 33-88295, made effective March 23, 1995 (the
+                               "S-4").
+
+                3.01           Certificate of Incorporation of the Company.
+                               Incorporated by reference to Exhibit 3.01 to the
+                               S-4 and to Exhibit 1 on Form 8-A dated February
+                               12, 1997.
+
+                3.02           By-Laws of the Company.  Incorporated by
+                               reference to Exhibit 3.02 to the S-4.
+
+                4.01           Certificate of Designation of Rights, Preferences
+                               and Terms for the Series A Convertible Preferred
+                               Stock of the Company. Incorporated by reference
+                               to Exhibit 4.01 to the Company's Current Report
+                               on Form 8-K dated May 15, 1995.
+
+                4.02           Form of Certificate representing shares of the
+                               Company's Common Stock.  Incorporated by
+                               reference to Exhibit 4.02 to the S-4.
+
+                4.03           Form of Certificate representing shares of the
+                               Company's Class A Common Stock.  Incorporated by
+                               reference to Exhibit 4.03 to the S-4.
+
+                4.04           Warrant Agreement dated December 1, 1997 between
+                               the Company and Douglas M. Rudolph.  Incorporated
+                               by reference to Exhibit 4.1 to the Company's
+                               current report on Form 8-K dated December 1,
+                               1997.
+
+                4.05           Amendment dated February 15, 2001 to Warrant
+                               Agreement December 1, 1997 between Douglas M.
+                               Rudolph and the Company.
+
+                10.01          License Agreement, dated as of May 15, 1995
+                               between BNC and BOT.  Incorporated by
+                               reference to Exhibit 10.01 to the S-4.
+
+                10.02          BNC's 1985 Employees' Stock Option Plan.
+                               Incorporated by reference to Appendix II to BNC
+                               Proxy Statement for its Annual Meeting of
+                               Stockholders held on December 11, 1985.
+                               Incorporated by reference to Exhibit 10.06 to
+                               the S-4.
+
+                10.03          1994 Employees' Stock Option Plan.  Incorporated
+                               by reference to Exhibit 10.07 to the S-4.
+
+                10.04          Directors' Stock Option Plan.  Incorporated by
+                               reference to Exhibit 10.08 to the S-4.
+
+                10.05          1996 Class A Stock Option Plan.  Incorporated by
+                               reference to Exhibit A to Benihana Inc. Proxy
+                               Statement for its Annual Meeting of Stockholders
+                               held on July 19, 1996.
+
+                10.06          1997 Class A Stock Option Plan.  Incorporated by
+                               reference to Exhibit A to Benihana Inc. Proxy
+                               Statement for its Annual Meeting of Stockholders
+                               held on August 27, 1998 (the "1998 Proxy
+                               Statement").
+<PAGE>
+
+
+                10.07          Amendments to the Directors' Stock Option Plan.
+                               Incorporated by reference to Exhibit B to the
+                               1998 Proxy Statement.
+
+                10.08          2000 Employees' Class A Common Stock Option Plan.
+                               Incorporated by reference to Exhibit A to
+                               Benihana Inc. Proxy Statement for its Annual
+                               Meeting of Stockholders held on August 3, 2002.
+
+                10.09          Credit Agreement dated December 1, 1997 (the
+                               "Credit Agreement") by and among Benihana Inc.,
+                               the Guarantors (as listed and defined therein),
+                               and First Union National Bank, as Agent and
+                               Lender. Incorporated by reference to Exhibit
+                               10.11 to the Company's Annual Report on Form 10-K
+                               for the fiscal year ended March 28, 1999.
+
+                10.10          Stockholders Agreement dated as of December 6,
+                               1999 by and among Haru Holding Corp., BNC, Mei
+                               Ping Matsumura and the Estate of Arthur Cutler.
+                               Incorporated by reference to Exhibit 10.10 to
+                               the Company's Registration Statement on Form S-2,
+                               Registration Number 333-68946.
+
+                10.11          Benihana Incentive Compensation Plan.
+                               Incorporated by reference to Exhibit 10.12 to
+                               the Company's Annual Report on Form 10-K for the
+                               fiscal year ended March 31, 1996.
+
+                10.12          Employment Agreement dated April 1, 2001 between
+                               Joel A. Schwartz and the Company. Incorporated by
+                               reference to Exhibit 10.07 of the 2001 10-K.
+
+                10.13          Employment Agreement dated April 1, 2001 between
+                               Taka Yoshimoto and the Company.  Incorporated by
+                               reference to Exhibit 10.12 of the 2001 10-K.
+
+                10.14          Employment Agreement dated January 1, 1995
+                               between Michael R. Burris and the Company.
+                               Incorporated by reference to Exhibit 10.10 to
+                               the S-4.
+
+                10.15          Employment Agreement dated October 19, 1998
+                               between Kevin Aoki and the Company.  Incorporated
+                               by reference to Exhibit 10.19 of the Company's
+                               Annual Report on Form 10-K for the fiscal year
+                               ended March 26, 2000 (the "2000 10-K").
+
+                10.16          Employment Agreement dated September 1, 2000
+                               between Juan C. Garcia and the Company.
+                               Incorporated by reference to Exhibit 10.15 of
+                               the 2001 10-K.
+
+                10.17          Consulting Agreement dated April 1, 2001 between
+                               Rocky H. Aoki and the Company.  Incorporated by
+                               reference to Exhibit 10.23 of the 2001 10-K.
+
+                10.18          Amendment No. 1 dated December 11, 1997 to
+                               Employment Agreement dated January 1, 1995
+                               between Michael R. Burris and the Company.
+                               Incorporated by reference to Exhibit 10.18 of
+                               the Company's Annual Report on Form 10-K for
+                               the fiscal year ended March 29, 1998.
+
+                10.19          Amendment No. 2 dated September 1, 1998 to
+                               Employment Agreement dated January 1, 1995
+                               between Michael R. Burris and the Company.
+
+                10.20          Amendment No. 1 dated January 25, 2000 to
+                               Employment Agreement dated October 19, 1998
+                               between Kevin Aoki and the Company.
+                               Incorporated by reference to Exhibit 10.20 to
+                               the 2000 10-K.
+
+                10.21          Amendment No. 2 dated April 1, 2001 to Employment
+                               Agreement dated October 19, 1998 between Kevin
+                               Aoki and the Company.  Incorporated by reference
+                               to Exhibit 10.14 to the 2001 10-K.
+<PAGE>
+
+
+
+                10.22          Amendment No. 2 dated April 1, 2001 to Employment
+                               Agreement dated September 1, 2000 between Juan C.
+                               Garcia and the Company.  Incorporated by
+                               reference to Exhibit 10.22 to the 2001 10-K.
+
+                10.23          Amendments to the Credit Agreement.  Incorporated
+                               by reference to Exhibit 10.1 to the Company's
+                               Quarterly Report on Form 10-Q for the period
+                               ended October 14, 2001.
+
+                13.01          Portions of Annual Report to Stockholders for
+                               the year ended March 31, 2002.
+
+                23.01          Consent of Deloitte & Touche LLP.
+
+                23.02          Consent of Deloitte & Touche LLP.
+
+(b)        Reports on Form 8-K.
+
+           None.
+
+
+<PAGE>
+
+
+
+                                   SIGNATURES
+
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange
+Act of 1934, the registrant has duly caused this report to be signed on its
+behalf by the undersigned, thereunto duly authorized.
+
+Date:    June 25, 2002          BENIHANA INC.
+
+By:       /s/ Joel A. Schwartz
+      ----------------------------------
+           Joel A. Schwartz, President
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report
+has been signed on the date indicated above by the following persons on behalf
+of the registrant and in the capacities indicated.
+
+Signature                           Title                            Date
+---------                           -----                            ----
+
+   /s/ Joel A. Schwartz            President and                   June 25, 2002
+----------------------------
+    Joel A. Schwartz               Director (Principal
+                                   Executive Officer)
+
+   /s/ Taka Yoshimoto              Executive Vice President -      June 25, 2002
+----------------------------
+    Taka Yoshimoto                 Restaurant Operations
+                                   and Director
+
+   /s/ Michael R. Burris           Senior Vice President of        June 25, 2002
+----------------------------
+    Michael R. Burris              Finance and Treasurer -
+                                   Chief Financial Officer
+                                   (Principal Financial and
+                                   Accounting Officer)
+
+   /s/ Kevin Y. Aoki               Vice President -                June 25, 2002
+----------------------------
+    Kevin Y. Aoki                  Marketing and Director
+
+   /s/ Juan C. Garcia              Vice President - Controller     June 25, 2002
+----------------------------
+    Juan C. Garcia
+
+   /s/ Darwin C. Dornbush          Secretary and Director          June 25, 2002
+----------------------------
+    Darwin C. Dornbush
+
+   /s/ John E. Abdo                Director                        June 25, 2002
+----------------------------
+    John E. Abdo
+
+   /s/ Norman Becker               Director                        June 25, 2002
+----------------------------
+    Norman Becker
+
+   /s/ Max Pine                    Director                        June 25, 2002
+----------------------------
+    Max Pine
+
+<PAGE>
+
+
+
+                                                                   EXHIBIT 13.01
+                                     ANNUAL REPORT
+
+BENIHANA INC AND SUBSIDIARIES
+
+SELECTED FINANCIAL DATA
+
+<TABLE>
+<CAPTION>
+<S>                                             <C>               <C>             <C>               <C>               <C>
+
+                                                                                   YEARS ENDED
+                                                -------------------------------------------------------------------------------
+                                                March 31,          April 1,       March 26,         March 28,         March 29,
+                                                    2002             2001             2000               1999             1998
+                                                                  (53 wk yr)
+                                                -------------------------------------------------------------------------------
+(In thousands, except per share information)
+CONSOLIDATED STATEMENT
+OF EARNINGS DATA:
+
+Total revenues                                          $171,507         $163,243          $137,477          $119,149       $99,757
+Cost of food and beverage sales                           42,754           43,301            36,588            30,964        25,894
+Restaurant operating expenses                             99,707           89,427            74,088            65,188        53,846
+Restaurant opening costs                                   1,228            1,453               566                12           165
+Marketing, general and administrative
+    expenses                                              13,373           13,690            11,402            11,343         9,914
+Impairment charge                                            438
+Interest expense, net                                        990            1,233             1,297             1,644         1,076
+Minority interest                                            100               40                81
+Income before income taxes                                12,917           14,099            13,455             9,998         8,862
+Net income                                                 8,829            9,091             8,733             6,518         5,940
+Basic earnings
+    per common share                                        1.34             1.47              1.41              1.06          0.96
+Diluted earnings
+    per common share                                        1.28             1.38              1.32              1.02          0.93
+Pro forma basic earnings
+    per common share (2)                                    1.16             1.28              1.23              0.92          0.84
+Pro forma diluted earnings
+    per common share (2)                                    1.11             1.20              1.14              0.88          0.81
+
+CONSOLIDATED BALANCE SHEET
+DATA:
+
+Total assets                                             $98,301          $85,929           $75,445           $60,868       $58,157
+Long-term debt including
+    current maturities                                    $6,000          $14,645           $14,646           $12,407       $16,840
+Stockholders' equity                                     $73,713          $52,685           $43,545           $34,699       $28,223
+
+OTHER FINANCIAL DATA:
+
+EBITDA (1)                                               $19,805          $20,510           $19,101           $15,529       $12,938
+Capital expenditures                                     $13,944          $14,611            $9,643            $7,212        $5,079
+</TABLE>
+
+
+(1)   EBITDA, or earnings before interest, taxes on income and depreciation and
+      amortization is a common measurement used by financial statement users to
+      compare one company's performance to another's before considering
+      financing and tax structure and depreciation and amortization policies.
+      EBITDA is not intended to represent cash flow from operations as defined
+      by accounting principles generally accepted in the United States of
+      America and may not be comparable among different companies because of
+      computational and classification differences.
+
+(2)   On June 7, 2002, the Board of Directors declared a 15% stock dividend on
+      Class A stock in both the Class A and common shares. The stock dividend is
+      payable on August 12, 2002 to holders of record July 15, 2002. As a
+      result, basic and diluted earnings per common share are shown on a pro
+      forma basis as if the stock dividend had been in existence for each fiscal
+      year presented.
+
+
+<PAGE>
+
+
+
+MANAGEMENT'S DISCUSSION AND ANALYSIS
+Financial Condition and Results of Operations
+
+Overview
+--------
+Summary of results
+
+Summary highlights of our fifty-two week fiscal 2002 year compared to the
+previous fifty-three week year:
+
+o     the tenth consecutive year of total sales increases and comparable
+      restaurant sales increases,
+o     opened five new restaurants during the year.  Three Haru restaurants all
+      in New York City and two Benihana restaurants; one near Chicago, Illinois
+      and another in Santa Monica, California,
+o     the profound impact of the September 11 tragedy on the second quarter
+      interrupting 36 consecutive quarters of comparable restaurant sales gains,
+      total sales gains and restaurant operating profit increases,
+o     completion of the sale of 1 million Class A Common shares with a net
+      proceeds of $10.6 million,
+o     earnings per share diluted of $1.28 compared to $1.38,
+o     restaurant operating profit decreased 5.3% to $27.6 million, and
+o     net income decreased 2.9% to $8.8 million.
+
+Our Business
+
+We have operated teppanyaki-style Japanese restaurants in the United States for
+over 37 years, and we believe we are the largest operator of teppanyaki-style
+restaurants in the country. Our core concept, the traditional Benihana
+restaurant, offers teppanyaki-style Japanese cooking in which fresh steak,
+chicken and seafood is prepared by a Benihana chef on a grill which forms a part
+of the table on which the food is served. Our Haru concept offers an extensive
+menu of Japanese fusion dishes in a high energy, urban atmosphere. In addition
+to traditional, high quality sushi and sashimi creations, Haru offers raw bar
+items and Japanese cuisine, including New York strip steak with wasabi
+croquette, spicy shallots and ginger sauce, garlic shrimp and crispy duck.
+
+At March 31, 2002 we:
+
+o     owned and operated 52 Benihana and Benihana Grill teppanyaki-style
+      Japanese dinnerhouse restaurants, including one restaurant under the name
+      The Samurai,
+o     franchised others to operate 17 additional Benihana restaurants,
+o     owned and operated five Haru restaurants in New York City, offering
+      Japanese dining, featuring sushi and sashimi, and
+o     owned and operated two Doraku restaurants.
+
+Outlook
+-------
+
+Growing our business is very important to increasing profits and is the focus of
+our business strategy. We believe that we will open four new teppanyaki
+restaurants during our 2003 fiscal year. Two of these have already opened; one
+in the Dallas/Ft. Worth market in Las Colinas and the other in the Houston
+market in The Woodlands. The other two are being developed in Westbury, New York
+and Scottsdale, Arizona. We do not believe that the costs to open new
+restaurants will be as high during fiscal year 2003 as it was in 2002.
+
+We believe that our revenues will increase next year resulting from the
+maturation of restaurants opened in fiscal 2002 and from continuing increases in
+customer counts at restaurants open for longer than one year. However, the
+slowdown in the economy may have an unfavorable effect on our business.
+
+Operating results
+-----------------
+
+Revenues
+
+Revenues consist of the sales of food and beverages at our restaurants and
+royalties and licensing fees from franchised restaurants. Revenues are dependent
+upon the number of patrons that visit our restaurants and franchisee's
+restaurants and the average check amounts.
+
+
+<PAGE>
+
+
+
+The following table shows revenues and percentage increases for the past three
+years:
+
+(Dollar amounts are expressed in thousands)
+<TABLE>
+<CAPTION>
+<S>                                 <C>              <C>        <C>              <C>          <C>             <C>
+
+                                                              Fiscal year ended
+                                ------------------------------------------------------------------------------------
+                                                                       2001                        2000
+                                           2002                     (53 wk yr)
+                                ------------------------------------------------------------------------------------
+                                              Percentage                  Percentage                   Percentage
+                                              change                      change                       change
+                                              from 2001                   from 2000                    from 1999
+  ------------------------------------------------------------------------------------------------------------------
+  Restaurant sales                  $170,051          5.1%      $161,865         18.7%       $136,389         15.2%
+  Franchise fees
+    and royalties                      1,456          5.7%         1,378         26.7%          1,088         36.3%
+  ------------------------------------------------------------------------------------------------------------------
+  Total revenues                    $171,507          5.1%      $163,243         18.7%       $137,477         15.4%
+  ------------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+The table below shows the amount of the changes in restaurant sales and the
+nature of the changes.
+
+(Dollar amounts are expressed in thousands)
+<TABLE>
+<CAPTION>
+<S>                                                                           <C>            <C>           <C>
+
+                                                                                    Fiscal year ended
+                                                                             -------------------------------------
+                                                                                2002            2001        2000
+                                                                                           (53 wk yr)
+  ----------------------------------------------------------------------------------------------------------------
+  Amount of change from prior year                                            $8,186         $25,476      $18,038
+  Increase in sales from restaurants opened
+    or owned longer than one year                                              1,808          13,847       15,439
+  Increase from new restaurants                                                9,580           2,345          -
+  Increase from acquired restaurants                                                           6,082        2,599
+  Effect of additional week in fiscal 2001                                    (3,202)          3,202
+
+</TABLE>
+
+
+2002 compared to 2001
+
+We believe that the Benihana style of presentation makes us a unique choice for
+customers. We believe that customers who are seeking greater value for their
+dining budget appreciate the show put on by the chef cooking directly at their
+table. We continued our multi-year program to build capacity in our existing
+restaurants through adding additional tables and sushi bars. Sales over the past
+two years have also increased as a result of an increasing trend for sushi as a
+menu item. We believe that we are the largest restaurant chain offering sushi to
+consumers nationwide. Sushi bars have been added to most of the Benihana
+restaurants over the past several years.
+
+Revenues increased 5.1% in fiscal 2002 when compared to fiscal 2001. Restaurant
+sales increased $8,186,000 in fiscal 2002 when compared to the prior fiscal year
+(which included an additional week which produced $3,202,000 of sales). The
+increase is mainly attributable to the five new restaurants opened during the
+current year which accounted for $9,580,000 of sales. Comparable restaurant
+sales growth for restaurants opened longer than one year was 1.1% in fiscal
+2002. Guest counts increased 2.4% to 7.0 million. The average check size was
+$23.61 at the teppanyaki restaurants, $26.50 at the Haru restaurants and $15.53
+at the Doraku restaurants.
+
+Sales revenues were profoundly impacted following the tragic events of September
+11, which occurred during the second quarter of fiscal 2002, particularly in
+urban areas and in other areas more dependent upon tourism and business travel.
+We experienced a decline in sales, particularly in New York City where we
+operate two Benihana and five Haru restaurants, and other urban markets in which
+we have restaurants.
+
+We closed two restaurants in fiscal 2002. The Marina del Rey teppanyaki
+restaurant closed in August 2001 after its lease expired. A Doraku restaurant
+closed in March 2002 principally due to poor traffic at the mall in which it was
+located.
+
+
+
+<PAGE>
+
+
+
+2001 compared to 2000
+
+We benefited from a strong economy through most of fiscal 2001 that has
+generally increased sales in the industry. Like most of the industry, we also
+benefited from changing customer demographics with people having a greater
+propensity to eat meals away from home. Sales over the past two years have also
+increased as a result of an increasing trend for sushi as a menu item. Sushi
+bars have been added to most of the Benihana restaurants over the past several
+years. During fiscal 2001, we opened three restaurants. One restaurant is
+operated as a Benihana in Monterey, California. Two others operated as Doraku
+one in Miami Beach, Florida and the other in Chicago, Illinois.
+
+During the year our promotional and advertising programs emphasized the unique
+entertainment value inherent in the Benihana presentation. The comparable same
+restaurant sales growth for restaurants opened longer than one year was 10.6% in
+fiscal 2001. Guest counts increased 13.8% to 6.8 million of which 6.4 million
+were guests at the teppanyaki restaurants. The average check size was $23.35 at
+the teppanyaki restaurants, $14.20 at the Doraku restaurants and $27.92 at the
+Haru restaurants.
+
+
+Operating costs and expenses
+
+Operating costs and expenses are largely dependent on the number of customers
+that visit our restaurants and the costs of the commodities, the number of
+employees that are necessary to provide a high quality of service to our
+customers, rents we pay for our restaurant properties, utilities and other
+necessary costs.
+
+The following table shows the amount of change in our restaurant operating
+costs, costs as a percentage of restaurant sales, and the percentages of change
+from the preceding years.
+<TABLE>
+<CAPTION>
+<S>                                                                        <C>             <C>             <C>
+                                                                                    Year ended
+                                                                  ----------------------------------------------
+                                                                           2002            2001            2000
+                                                                  ----------------------------------------------
+  Cost as a percentage of restaurant sales:
+  Cost of food and beverage sales                                          25.1%           26.8%           26.8%
+  Restaurant operating expenses                                            58.6%           55.2%           54.3%
+  Marketing, general and administrative expenses                            7.9%            8.5%            8.4%
+  Restaurant opening costs                                                   .7%             .9%             .4%
+
+  Amount of change from prior year:
+  Cost of food and beverage sales                                        $ (547)          $6,713          $5,624
+  Restaurant operating expenses                                           10,280          15,339           8,900
+  Marketing, general and administrative expenses                           (317)           2,288              59
+  Restaurant opening costs                                                 (225)             889             554
+  Interest expense, net                                                    (243)            (64)           (347)
+
+  Percentage increase or (decrease) from prior year:
+  Cost of food and beverage sales                                         (1.3%)           18.3%           18.2%
+  Restaurant operating expenses                                            11.5%           20.7%           13.7%
+  Marketing, general and administrative expenses                          (2.3%)           20.1%             .5%
+  Restaurant opening costs                                               (15.5%)          157.4%        4,616.7%
+  Interest expense, net                                                  (19.7%)          (4.9%)         (21.1%)
+</TABLE>
+
+
+2002 compared to 2001
+
+Cost of food and beverage sales decreased in absolute amount and as a percentage
+of sales in fiscal 2002 when compared to fiscal 2001. The decrease is
+attributable to lower commodities costs, principally shrimp costs, in the
+current fiscal year compared to the prior year.
+
+
+<PAGE>
+
+
+
+Restaurant operating expenses increased in absolute amount and when expressed as
+a percentage of sales in fiscal 2002 compared to fiscal 2001. The increase was
+attributable to higher labor costs, occupancy costs and higher depreciation and
+amortization expenses. The increased labor costs were due to maintaining full
+restaurant staffs following the tragic events of September 11, which had a
+negative effect on restaurant operating expenses as a percentage of sales. Also,
+labor costs increased due to higher labor costs during the start-up period of
+the three new Haru restaurants and two new Benihana restaurants which were
+opened during the current fiscal year. Additionally, higher occupancy costs and
+depreciation and amortization expenses relating to the five new restaurants
+negatively affected restaurant operating expenses in absolute amount and when
+expressed as a percentage of sales.
+
+Restaurant opening costs decreased in the fiscal 2002 when compared to fiscal
+2001. The decrease was attributable to pre-opening expenses in fiscal 2001 that
+related to the new restaurants.
+
+Marketing, general and administrative costs decreased in total dollar amount in
+fiscal 2002 when compared to fiscal 2001. We incurred higher legal costs in
+fiscal 2002 to defend the wage and hour disputes discussed in Note 10 of the
+notes to our consolidated financial statements. The increase in legal fees was
+offset in part by a decrease in amortization expense resulting from the
+cessation of the amortization of goodwill as a result of implementation of SFAS
+142. (See Note 1).
+
+Interest expense decreased in fiscal 2002 when compared to fiscal 2001. The
+decrease is attributable to a significant decrease in the interest rates on our
+borrowings under our credit facility as well as a decrease in the borrowings in
+the current fiscal year compared to the previous comparable fiscal year. The
+Company capitalized $12,000 and $345,000 of construction period interest during
+fiscal 2002 and 2001, respectively.
+
+During fiscal 2002, we recorded an impairment charge of $438,000 for the
+write-down to fair value of property and equipment at a Doraku restaurant in Ft.
+Lauderdale, Florida because its future projected cash flows were not sufficient
+to support the previous carrying value of these assets. We closed the restaurant
+in March 2002.
+
+Our effective income tax rate decreased in fiscal 2002 to 31.6% from 35.5% in
+fiscal 2001. The decrease was due to a decrease in net pre-tax income coupled
+with a relatively fixed amount of Federal tax credit for FICA taxes paid on
+reported tip income.
+
+2001 compared to 2000
+
+Cost of food and beverage sales increased in total dollar amount principally as
+a result of the increase in the number of customers. Although certain
+commodities display some seasonality in price fluctuations, cost remained
+constant when expressed as a percentage of sales. For the year as whole,
+purchase prices of the food commodities and beverages were stable from the
+preceding year.
+
+Restaurant operating expenses increased due to higher rental expenses as a
+result of rents that are based on a percentage of sales. Additionally, fixed
+operating expenses relating to two Doraku restaurants contributed to the
+increase in restaurant operating expenses when expressed as a percentage of
+sales.
+
+Marketing, general and administrative expenses increased in absolute amount due
+to the amortization of goodwill from the Haru acquisition, from additional
+administrative expenses relating to the Haru operations and from increases in
+corporate infrastructure to support greater restaurant development efforts.
+
+Restaurant opening costs increased significantly compared to fiscal 2000. We
+opened three new restaurants in fiscal 2001 and four others were in progress for
+which we incurred opening expenses, principally rent and salaries. Three of the
+new restaurants were being built in New York City where lease arrangements made
+it very expensive to open new restaurants.
+
+Net interest expense continued to decrease as we used more internally generated
+cash to finance our operations and capital expenditures. Interest rates we paid
+were relatively stable between 6.5% to 7.5% in fiscal 2001 and fiscal 2000. The
+Company capitalized $345,000 of construction period interest during fiscal 2001
+and none in fiscal 2000.
+
+The effective income tax rate of 35.5% was slightly higher than the prior year's
+effective tax rate of 35.1%. The increase was a result of increased state income
+taxes.
+
+
+<PAGE>
+
+
+
+Our financial resources
+-----------------------
+During fiscal 2002, we completed a public offering of 1,000,000 shares of Class
+A Common stock. The net proceeds amounted to $10,617,000. The proceeds of the
+offering were used initially to pay down our bank line of credit; we anticipate
+drawing on our bank line of credit to continue to build new restaurants.
+
+Cash flow from operations had been the primary source to fund our capital
+expenditures before we accelerated the development of new restaurants. Since we
+have accelerated our building program, we are relying more upon financing
+obtained from financial institutions. We have financed acquisitions principally
+through the use of borrowed funds.
+
+We have borrowings from Wachovia Bank, N.A. under a term loan and we have a
+revolving line of credit facility. The line of credit allows us to borrow up to
+$15,000,000 through March 31, 2004 and at the end of our fiscal year we had the
+full line available. We had $6,000,000 outstanding at the end of the fiscal year
+under the term loan which is payable in quarterly installments of $750,000 until
+the term loan matures in March 2004. The interest rate at March 31, 2002 of both
+the line of credit and the term loan was 3.54%. We have the option to pay
+interest at Wachovia's prime rate plus 1%. The interest rate may vary depending
+upon the ratio of the sum of earnings before interest, taxes, depreciation and
+amortization to our indebtedness. The loan agreements limit our capital
+expenditures to certain amounts, require that we maintain certain financial
+ratios and profitability amounts and prohibit the payment of cash dividends.
+
+To finance our new restaurant development, we entered into a master lease
+agreement with Wachovia Bank, N.A. and two other banks. The master lease
+agreement enabled financing for up to $25,000,000 in restaurant acquisition and
+construction. Management determined that more favorable rates were available
+under our line of credit and accordingly we terminated this arrangement on June
+12, 2002 by borrowing $5,000,000 from the line of credit and using $8,000,000 in
+cash to pay off the outstanding facility balance.
+
+Since restaurant businesses generally do not have large amounts of inventory and
+accounts receivable, there is no need to finance them. As a result, many
+restaurant businesses have deficiencies in working capital.
+
+The following table summarizes the sources and uses of cash (in thousands).
+<TABLE>
+<CAPTION>
+<S>                                                                                      <C>               <C>
+
+                                                                                           Fiscal year ended
+                                                                             ---------------------------------------
+                                                                                         2002               2001
+                                                                             ---------------------------------------
+    Cash provided by operations                                                          $15,231            $14,981
+    Cash (used in) investing activities                                                 (13,959)           (14,630)
+    Cash provided by (used in) financing activities                                        2,855              (581)
+                                                                             ---------------------------------------
+    Increase (decrease) in cash                                                          $ 4,127             $(230)
+                                                                             ---------------------------------------
+</TABLE>
+
+Operating activities
+--------------------
+Cash provided by operations increased slightly during the year from fiscal 2001
+as a result of increased noncash items such as depreciation, amortization and
+deferred income taxes offset by a slight decrease in net income.
+
+
+Investing activities
+--------------------
+Expenditures for property and equipment decreased by $667,000 over the prior
+fiscal year to $13,944,000. Of that amount, we expended $5,100,000 for the
+construction of new restaurants. We expect to expend approximately $11,000,000
+for the development of new restaurants during the 2003 fiscal year.
+
+Financing activities
+--------------------
+Our total indebtedness is $9,344,000 less at the end of fiscal 2002 than it was
+at the end of the prior fiscal year. We had net new paydowns under the line of
+credit of $6,500,000, paid down $2,000,000 of the term loan, repaid $702,000 of
+leases that are considered to be capital in nature and repaid $142,000 of other
+indebtedness.
+
+During fiscal 2002, we completed a public offering of 1,000,000 shares of Class
+A Common stock at a price of $11.80 per share. The net proceeds amounted to
+$10,617,000. The proceeds of the public offering were used to pay down the line
+of credit.
+
+
+
+<PAGE>
+
+
+
+The impact of inflation
+-----------------------
+Inflation has not been a significant factor in our business for the past three
+years. We have been able to keep increasing menu prices at a low level by
+strictly maintaining cost controls. A possible increase to the minimum wage is
+being considered by United States Congress; any such increase will affect us, as
+well as most other restaurant businesses. We do not know if or when the increase
+will take effect nor do we know whether the increase would be material if
+enacted into law.
+
+Market risks
+------------
+We are exposed to certain risks of increasing interest rates and commodity
+prices. The interest on our indebtedness is largely variable and is benchmarked
+to the prime rate in the United States or to the London interbank offering rate.
+We may protect ourselves from interest rate increases from time-to-time by
+entering into derivative agreements that fix the interest rate at predetermined
+levels. We have a policy not to use derivative agreements for trading purposes.
+We had a derivative agreement in the notional amount of $2,744,000 at the end of
+fiscal 2002 against a floating rate indebtedness of $6,000,000. The agreement
+expired May 1, 2002 without further obligation by the Company.
+
+We purchase commodities such as chicken, beef, lobster, fish and shrimp for our
+restaurants. The prices of these commodities may be volatile depending upon
+market conditions. We do not purchase forward commodity contracts because the
+changes in prices for them have historically been short-term in nature and, in
+our view, the cost of the contracts is in excess of the benefits.
+
+Seasonality of our business
+---------------------------
+Our business is not highly seasonal although we do have more diners coming to
+our restaurants for special holidays such as Mother's Day, Valentine's Day and
+New Year's. Mother's Day falls in our first fiscal quarter, New Year's in the
+third quarter and Valentine's Day in the fourth quarter of each year.
+
+Critical accounting policies and estimates
+------------------------------------------
+Management's discussion and analysis of financial condition and results of
+operations are based upon the Company's consolidated financial statements which
+have been prepared in accordance with accounting principles generally accepted
+in the U.S. The preparation of these financial statements requires the Company
+to make estimates and judgments that affect the reported amounts of assets,
+liabilities, revenues and expenses and related disclosures. On an ongoing basis,
+the Company evaluates its estimates and judgments based on historical experience
+and various other factors that are believed to be reasonable under the
+circumstances. Actual results may differ from these estimates under different
+assumptions or conditions. The Company annually reviews its financial reporting
+and disclosure practices and accounting policies to ensure that its financial
+reporting and disclosures provide accurate and transparent information relative
+to the current economic and business environment. The Company believes that of
+its significant accounting policies (see summary of significant accounting
+policies more fully described on Note 1 of notes to our consolidated financial
+statements), the following policies involve a higher degree of judgment and/or
+complexity:
+
+Property and equipment - Property and equipment are depreciated or amortized
+over their useful lives based on management's estimates of the period over which
+the assets will generate revenue. The Company periodically reviews these lives
+relative to physical factors, economic factors and industry trends.
+
+
+Asset impairment - In assessing the recoverability of the Company's fixed
+assets, goodwill and other non-current assets, the Company considers changes in
+economic conditions and makes assumptions regarding estimated future cash flows
+and other factors. If these estimates or their related assumptions change in the
+future, the Company may be required to record impairment charges.
+
+New accounting principles that may affect our financial reporting
+-----------------------------------------------------------------
+In June 1998, the Financial Accounting Standards Board (the "FASB") issued SFAS
+No. 133, "Accounting for Derivative Instruments and Hedging Activities". SFAS
+No. 133, as amended by SFAS No. 137 and SFAS No. 138, required that all
+derivative instruments be recorded on the balance sheet at their fair value.
+Changes in the fair value of derivatives will be recorded each period in current
+earnings or other comprehensive income, depending on whether a derivative is
+designated as part of a hedge transaction and, if it is, the type of hedge
+transaction. The adoption of this statement in the first quarter of fiscal 2002
+did not have a material effect on the Company's financial statements.
+
+
+<PAGE>
+
+
+
+In July 2001, the FASB issued SFAS No. 141, "Business Combinations", and SFAS
+No. 142, "Goodwill and Other Intangible Assets". SFAS No. 141 requires business
+combinations initiated after June 30, 2001 to be accounted for using the
+purchase method of accounting, and broadens the criteria for recording
+intangible assets separate from goodwill. For potential future acquisitions,
+recorded goodwill and intangibles will be evaluated against these new criteria
+and may result in certain intangibles being recorded as goodwill, or
+alternatively, amounts previously recorded as goodwill may be separately
+identified and recognized apart from goodwill. SFAS No. 142 requires the use of
+a nonamortization approach to account for purchased goodwill and certain
+intangibles. Under a nonamortization approach, goodwill and certain intangibles
+will not be amortized into results of operations, but instead will be
+periodically reviewed for impairment and written down and charged to results of
+operations only in the periods in which, and to the extent, the recorded value
+of goodwill and certain intangibles is determined to be more than their fair
+value.
+
+The Company adopted the provisions of SFAS No. 142 effective the beginning of
+the first quarter of fiscal 2002. These standards only permit prospective
+application of the new accounting; accordingly adoption of these standards will
+not affect previously reported financial information. The principal effect of
+implementing SFAS No. 142 was the cessation of the amortization of goodwill in
+the current fiscal year; however, impairment reviews may result in future
+write-downs. Goodwill amortization amounted to $898,000 or $.13 per diluted
+share in fiscal 2001 and $631,000 or $.10 per diluted share in fiscal 2000. The
+Company reviewed goodwill for possible impairment at the end of fiscal 2002 and
+determined that there was no impairment.
+
+Had the Company been accounting for its goodwill under SFAS No. 142 for all
+periods presented, the Company's net income and net income per share would have
+been as follows:
+
+(In thousands except for earnings per share amounts)
+<TABLE>
+<CAPTION>
+        <S>                                                                   <C>                    <C>                <C>
+
+                                                                         March 31,              April 1,           March 26,
+                                                                           2002                   2001               2000
+                                                                     ----------------      ----------------      --------------
+
+         Reported net income                                                  $8,829                $9,091              $8,733
+         Add back:  Goodwill amortization                                                              898                 631
+                                                                     ----------------      ----------------      --------------
+         Adjusted net income                                                  $8,829                $9,989              $9,364
+                                                                     ================      ================      ==============
+
+         Basic earnings per share:                                             $1.34                 $1.47               $1.41
+              Reported net income
+              Goodwill amortization                                                                    .13                 .10
+                                                                     ----------------      ----------------      --------------
+              Adjusted net income                                              $1.34                 $1.60               $1.51
+                                                                     ================      ================      ==============
+
+         Diluted earnings per share:                                           $1.28                 $1.38               $1.32
+              Reported net income
+              Goodwill amortization                                                                    .13                 .10
+                                                                     ----------------      ----------------      --------------
+              Adjusted net income                                              $1.28                 $1.51               $1.42
+                                                                     ================      ================      ==============
+</TABLE>
+
+
+In September 2001, the FASB issued SFAS No. 144, "Accounting for the Impairment
+of Disposal of Long-Lived Assets". SFAS No. 144 supersedes SFAS No. 121. The new
+statement defines detailed criteria for assets being "held for sale". The
+Company will adopt the provisions of this statement for the first quarter of
+2003. Additionally, the statement further defines the reporting of discontinued
+operations in financial statements. If such accounting standard would have been
+in effect in fiscal 2002, losses amounting to $499,000, $196,000 and $193,000 in
+fiscal 2002, 2001 and 2000, respectively, would have been reported as
+discontinued operations in the consolidated statements of earnings. The 2002
+amount includes the net of tax effect of the $438,000 impairment charge referred
+to above in "Accounting for Long-Lived Assets".
+
+
+
+
+<PAGE>
+
+
+
+Forward looking statements
+--------------------------
+This annual report contains various "forward-looking statements" which represent
+our expectations or beliefs concerning future events, including unit growth,
+future capital expenditures, and other operating information. A number of
+factors could, either individually or in combination, cause actual results to
+differ materially from those included in the forward-looking statements,
+including changes in consumer dining preferences, fluctuations in commodity
+prices, availability of qualified employees, changes in the general economy,
+industry cyclicality, and in consumer disposable income, competition within the
+restaurant industry, availability of suitable restaurant locations, or
+acquisition opportunities, harsh weather conditions in areas in which the
+Company and its franchisees operate restaurants or plan to build new
+restaurants, acceptance of the Company's concepts in new locations, changes in
+governmental laws and regulations affecting labor rates, employee benefits, and
+franchising, ability to complete new restaurant construction and obtain
+governmental permits on a reasonably timely basis, unstable economy and
+conditions in foreign countries where we franchise restaurants and other factors
+that we cannot presently foresee.
+
+
+
+
+
+<PAGE>
+
+
+BENIHANA INC. AND SUBSIDIARIES
+
+CONSOLIDATED STATEMENTS OF EARNINGS
+
+(In thousands, except per share information)
+<TABLE>
+<CAPTION>
+<S>                                                                                  <C>                <C>             <C>
+
+Year ended                                                                     March 31,             April 1,       March 26,
+                                                                                  2002               2001               2000
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+Revenues
+
+Restaurant sales                                                                      $170,051          $161,865         $136,389
+Franchise fees and royalties                                                             1,456             1,378             1,088
+------------------------------------------------------------------------------------------------------------------------------------
+Total revenues                                                                         171,507           163,243          137,477
+------------------------------------------------------------------------------------------------------------------------------------
+
+Costs and Expenses
+
+Cost of food and beverage sales                                                         42,754            43,301             36,588
+Restaurant operating expenses                                                           99,707            89,427             74,088
+Restaurant opening costs                                                                 1,228             1,453                566
+Marketing, general and administrative expenses                                          13,373            13,690             11,402
+Impairment charge                                                                          438
+------------------------------------------------------------------------------------------------------------------------------------
+Total operating expenses                                                               157,500           147,871            122,644
+------------------------------------------------------------------------------------------------------------------------------------
+
+Income from operations                                                                  14,007            15,372             14,833
+Interest expense, net                                                                      990             1,233              1,297
+Minority interest                                                                          100                40                 81
+
+------------------------------------------------------------------------------------------------------------------------------------
+Income before income taxes                                                              12,917            14,099             13,455
+Income tax provision                                                                     4,088             5,008              4,722
+------------------------------------------------------------------------------------------------------------------------------------
+
+Net Income                                                                              $8,829            $9,091             $8,733
+------------------------------------------------------------------------------------------------------------------------------------
+
+Earnings Per Share
+
+Basic earnings per common share                                                          $1.34             $1.47              $1.41
+Diluted earnings per common share                                                        $1.28             $1.38              $1.32
+Pro forma basic earnings per common share (1)                                            $1.16             $1.28              $1.23
+Pro forma diluted earnings per common share (1)                                          $1.11             $1.20              $1.14
+------------------------------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+(1)   On June 7, 2002, the Board of Directors declared a 15% stock dividend on
+      Class A stock in both the Class A and common shares. The stock dividend is
+      payable on August 12, 2002 to holders of record July 15, 2002. As a
+      result, basic and diluted earnings per common share are shown on a pro
+      forma basis as if the stock dividend had been in existence for each fiscal
+      year presented.
+
+See notes to consolidated financial statements
+
+
+
+<PAGE>
+
+
+BENIHANA INC. AND SUBSIDIARIES
+
+CONSOLIDATED BALANCE SHEETS
+
+ (In thousands, except share and per share information)
+<TABLE>
+<CAPTION>
+<S>   <C>                                                                                      <C>                         <C>
+
+                                                                                               March 31,                   April 1,
+                                                                                                  2002                      2001
+------------------------------------------------------------------------------------------------------------------------------------
+Assets
+Current assets:
+     Cash and cash equivalents                                                                    $5,062                      $ 935
+     Receivables                                                                                     990                        734
+     Inventories                                                                                   4,097                      4,149
+     Prepaid expenses                                                                              2,530                      1,122
+------------------------------------------------------------------------------------------------------------------------------------
+Total current assets                                                                              12,679                      6,940
+
+Property and equipment, net                                                                       61,971                     54,104
+Deferred income taxes, net                                                                         1,963                      2,973
+Goodwill, net                                                                                     16,478                     16,478
+Other assets                                                                                       5,210                      5,434
+------------------------------------------------------------------------------------------------------------------------------------
+                                                                                                 $98,301                    $85,929
+------------------------------------------------------------------------------------------------------------------------------------
+Liabilities and Stockholders' Equity
+Current liabilities:
+     Accounts payable and accrued expenses                                                       $16,921                    $16,332
+     Current maturity of bank debt                                                                 3,000                      2,000
+     Current maturity of other long-term debt                                                                                   145
+     Current maturities of obligations
+          under capital leases                                                                       668                        702
+------------------------------------------------------------------------------------------------------------------------------------
+Total current liabilities                                                                         20,589                     19,179
+
+Long-term debt - bank                                                                              3,000                     12,500
+Obligations under capital leases                                                                     705                      1,371
+
+Minority interest                                                                                    294                        194
+Commitments and Contingencies
+Stockholders' Equity:
+     Series A Redeemable Convertible Preferred stock - $1.00 par value;
+         authorized - 5,000,000 shares; issued and outstanding - 0 shares in
+         2002 and 700 shares in 2001, respectively                                                                                1
+     Common stock - $.10 par value; convertible into Class
+         A Common stock; authorized - 12,000,000 shares; issued and outstanding
+         - 3,276,179 and 3,579,116 shares in
+         2002 and 2001, respectively                                                                 328                        358
+     Class A Common stock - $.10 par value; authorized -
+         20,000,000 shares; issued and outstanding -
+         4,151,319 and 2,589,713 shares in 2002 and 2001,
+         respectively                                                                                415                        259
+     Additional paid-in capital                                                                   26,926                     14,847
+     Retained earnings                                                                            46,160                     37,336
+     Treasury Stock - 9,177 shares of  Common stock at cost                                         (116)                      (116)
+------------------------------------------------------------------------------------------------------------------------------------
+Total stockholders' equity                                                                        73,713                     52,685
+------------------------------------------------------------------------------------------------------------------------------------
+                                                                                                 $98,301                    $85,929
+------------------------------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+See notes to consolidated financial statements
+<PAGE>
+
+
+
+BENIHANA INC. AND SUBSIDIARIES
+
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY
+
+(In thousands, except share information)
+
+<TABLE>
+<CAPTION>
+<S> <C>                                               <C>         <C>      <C>       <C>         <C>        <C>         <C>
+
+                                                                           Class A   Additional                            Total
+                                                      Preferred   Common   Common    Paid-in     Retained   Treasury   Stockholders'
+                                                        Stock     Stock     Stock    Capital     Earnings     Stock        Equity
+------------------------------------------------------------------------------------------------------------------------------------
+
+Balance, March 28, 1999                                 $1        $357     $256      $14,604     $19,597     $(116)       $34,699
+     Net income                                                                                    8,733                    8,733
+     Dividend on preferred stock                                                                     (42)                     (42)
+     Issuance of 5,000 shares of common stock
+         under exercise of options                                                        16                                   16
+     Issuance of 16,109 shares of Class A
+         common stock under exercise of options                               2          128                                   130
+     Issuance of 650 shares of Class A common
+         stock for incentive compensation                            1                     8                                     9
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+Balance, March 26, 2000                                  1         358      258       14,756       28,288      (116)        43,545
+     Net income                                                                                     9,091                    9,091
+     Dividend on preferred stock                                                                      (43)                     (43)
+     Issuance of 2,500 shares of common stock
+         under exercise of options                                                        14                                    14
+     Issuance of 9,511 shares of Class A
+         common stock under exercise of options                               1           77                                    78
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+Balance, April 1, 2001                                   1         358      259       14,847       37,336      (116)        52,685
+     Net income                                                                                     8,829                    8,829
+     Tax benefit from stock options                                                      352                                   352
+      Dividend on preferred stock                                                                      (5)                      (5)
+      Conversion of 700 shares of preferred stock
+         into 105,267 shares of Class A common stock    (1)                  11          (10)
+     Conversion of 316,937 shares of common                        (31)      31
+         stock into Class A common stock
+      Issuance of 1,000,000 shares of Class A common
+          stock, net of offering costs                                      100       10,517                                10,617
+     Issuance of 14,000 shares of common stock
+         under exercise of options                                   1                    39                                    40
+     Issuance of 139,406 shares of Class A
+         common stock under exercise of options                              14        1,181                                 1,195
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+Balance, March 31, 2002                                  $       $ 328    $ 415      $26,926      $46,160     $ (116)      $73,713
+------------------------------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+See notes to consolidated financial statements.
+
+
+
+<PAGE>
+
+
+
+BENIHANA INC. AND SUBSIDIARIES
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(In thousands, except share information)
+<TABLE>
+<CAPTION>
+<S>  <C>                                                                                     <C>            <C>           <C>
+                                                                                             March 31,      April 1,      March 26,
+                                                                                               2002           2001          2000
+------------------------------------------------------------------------------------------------------------------------------------
+Operating Activities:
+     Net income                                                                              $ 8,829         $9,091        $8,733
+     Adjustments to reconcile net income to net cash
+        provided by operating activities:
+        Depreciation and amortization                                                          5,898          5,178         4,349
+        Minority interest                                                                        100            113            81
+        Deferred income taxes                                                                  1,010            317            95
+        Issuance of common stock for incentive compensation                                                                     9
+        Loss on disposal of assets                                                               207             63
+        Loss on writedown of impaired assets                                                     438
+        Change in operating assets and liabilities that provided
+          (used) cash:
+          Receivables                                                                           (256)          (253)         (212)
+          Inventories                                                                             52           (536)         (417)
+          Prepaid expenses                                                                    (1,408)          (357)         (111)
+          Other assets                                                                          (228)          (497)         (534)
+          Accounts payable and accrued expenses                                                  589          1,862         3,818
+------------------------------------------------------------------------------------------------------------------------------------
+Net cash provided by operating activities                                                     15,231         14,981        15,811
+------------------------------------------------------------------------------------------------------------------------------------
+Investing Activities:
+     Business acquisition, net of cash acquired                                                                            (8,445)
+     Expenditures for property and equipment                                                 (13,944)       (14,611)       (9,643)
+     Other                                                                                       (15)           (19)          (21)
+------------------------------------------------------------------------------------------------------------------------------------
+Net cash used in investing activities                                                        (13,959)       (14,630)      (18,109)
+------------------------------------------------------------------------------------------------------------------------------------
+Financing Activities:
+     Dividends paid on preferred stock                                                            (5)           (43)          (42)
+     Proceeds from issuance of long-term debt                                                 15,000          6,500         7,700
+     Repayment of long-term debt and obligations under capital leases                        (24,344)        (7,130)       (6,024)
+     Proceeds from issuance of Class A Common stock                                           10,617
+     Proceeds from issuance of common stock and
+         Class A Common stock under exercise of options                                       1,235              92           145
+     Tax benefit from stock options                                                             352
+------------------------------------------------------------------------------------------------------------------------------------
+Net cash provided by (used in) financing activities                                           2,855           (581)         1,779
+------------------------------------------------------------------------------------------------------------------------------------
+Net increase (decrease) in cash and cash equivalents                                          4,127           (230)         (519)
+Cash and cash equivalents, beginning of year                                                    935          1,165         1,684
+------------------------------------------------------------------------------------------------------------------------------------
+Cash and cash equivalents, end of year                                                       $5,062           $935        $1,165
+------------------------------------------------------------------------------------------------------------------------------------
+Supplemental Cash Flow Information Cash paid during the fiscal year for:
+     Interest                                                                                $1,030         $1,376        $1,087
+     Income taxes                                                                            $3,831         $6,254        $3,815
+Business acquisitions, net of cash acquired:
+     Fair value of assets acquired, other than cash                                                                       $2,830
+     Liabilities assumed                                                                                                    (157)
+     Purchase price in excess of the net assets acquired                                                                   5,772
+------------------------------------------------------------------------------------------------------------------------------------
+                                                                                                                          $8,445
+------------------------------------------------------------------------------------------------------------------------------------
+During fiscal 2002, 316,937 shares of common stock were converted into 316,937
+     shares of Class A common Stock
+
+During fiscal 2002, 700 shares of preferred stock were converted into 105,267
+     shares of Class A common Stock.
+</TABLE>
+
+See notes to consolidated financial statements
+<PAGE>
+
+
+
+BENIHANA INC. AND SUBSIDIARIES
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+YEARS ENDED MARCH 31, 2002, APRIL 1, 2001 AND MARCH 26, 2000
+------------------------------------------------------------
+
+1.         SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+           Operations - Benihana Inc., including its majority owned subsidiaries
+           (the "Company"), owned and operated 52 teppanyaki style and seven
+           sushi restaurants and franchised 17 others as of March 31, 2002. The
+           Company has the rights to open, license and develop Benihana
+           restaurants in the United States, Central and South America and the
+           Caribbean islands.
+
+           Basis of Presentation - The consolidated financial statements include
+           the assets, liabilities and results of operations of its
+           majority-owned subsidiaries. The ownership of other interest holders
+           including attributable income is reflected as minority interest. All
+           intercompany accounts and transactions have been eliminated in
+           consolidation. The Company operates within only one reportable
+           operating segment.
+
+           The Company has a 52/53-week fiscal year. The fiscal years ended
+           March 31, 2002 and March 26, 2000 consisted of 52 weeks and the year
+           ended April 1, 2001 consisted of 53 weeks.
+
+           The preparation of financial statements in conformity with accounting
+           principles generally accepted in the United States of America
+           ("generally accepted accounting principles") requires that management
+           make estimates and assumptions that affect the reported amounts of
+           assets and liabilities at the date of the financial statements and
+           the reported amounts of revenue and expenses during the reporting
+           period. Actual amounts could differ from those estimates.
+
+           Certain prior year amounts in the accompanying consolidated financial
+           statements have been reclassified to conform with fiscal 2002
+           classifications.
+
+           Franchise and License Fee Revenue Recognition - The Company
+           recognizes initial franchise fees as income when substantially all of
+           its obligations are satisfied, which generally coincides with the
+           opening of the franchised restaurants. The Company also receives
+           continuing royalty fees based upon a percentage of each franchised
+           restaurant's gross revenues. Royalty fees are recognized as income
+           when earned.
+
+           Cash and Cash Equivalents - The Company considers all highly liquid
+           investment instruments purchased with an initial maturity of three
+           months or less to be cash equivalents.
+
+           Inventories - Inventories, which consist principally of restaurant
+           operating supplies and food and beverage, are stated at the lower of
+           cost (first-in, first-out method) or market.
+
+           Depreciation and Amortization - Depreciation and amortization are
+           computed by the straight-line method over the estimated useful life
+           (buildings - 30 years; restaurant furniture, fixtures and equipment -
+           8 years; office equipment - 8 years; personal computers, software and
+           related equipment - 3 years; and leaseholds - lesser of the lease
+           terms, including renewal options, or useful life).
+
+           The Company capitalizes all direct costs incurred to construct
+           restaurants. Upon opening, these costs are depreciated and charged to
+           expense based upon their useful life classification. The amount of
+           interest capitalized in connection with restaurant construction was
+           approximately $12,000 in fiscal 2002, $345,000 in fiscal year 2001
+           and was $0 in fiscal year 2000.
+
+           Accounting for Long-Lived Assets - The Company periodically evaluates
+           its net investment in restaurant properties and goodwill for
+           impairment for events or changes in circumstances that indicate the
+           carrying amounts of an asset may not be recoverable. During fiscal
+           2002, the Company recorded an impairment charge of $438,000 for the
+           write-down to fair value of property and equipment at a Doraku
+           restaurant. No impairments occurred in fiscal years 2001 and 2000.
+
+           Accounting for the Costs of Computer Software Developed or Obtained
+           for Internal Use - The Company capitalizes and records in other
+           assets the cost of computer software obtained for internal use and
+           amortizes such costs over a three-year period.
+
+
+<PAGE>
+
+
+           Derivative Instruments - The Company utilizes interest rate swap
+           agreements to hedge exposure to fluctuations in variable interest
+           rates. The Company recognizes the interest differential to be paid or
+           received on an interest rate swap as an adjustment to interest
+           expense as the differential occurs. If the Company was to terminate
+           an interest rate swap, any gain or loss realized upon termination
+           would be deferred and amortized to interest expense over the
+           remaining term of the underlying debt instrument it was intended to
+           modify or would be recognized immediately if the underlying debt
+           instrument were settled prior to maturity. The Company had entered
+           into an interest swap agreement which expired on May 1, 2002.
+
+           Stock-Based Compensation - The Company accounts for stock based
+           compensation under the intrinsic value method of accounting for stock
+           based compensation and has disclosed pro forma net income and
+           earnings per share amounts using the fair value method. (See Note
+           11).
+
+           Segment Reporting - Reportable operating segments are components of
+           an enterprise about which separate financial information is available
+           that is evaluated by the chief operating decision maker in deciding
+           how to allocate resources and in evaluating performance. The Company
+           believes its restaurants meet the criteria supporting aggregation of
+           all restaurants into one operating segment.
+
+           Earnings Per Share - Basic earnings per common share is computed by
+           dividing net income available to common shareholders by the weighted
+           average number of common shares outstanding during each period. The
+           diluted earnings per common share computation includes dilutive
+           common share equivalents issued under the Company's various stock
+           option plans and dilutive convertible preferred stock.
+
+           The computation of basic earnings per common share and diluted
+           earnings per common share for each year is shown below (in
+           thousands):
+<TABLE>
+<CAPTION>
+<S>      <C>                                                             <C>                    <C>                <C>
+
+                                                                         March 31,              April 1,           March 26,
+                                                                           2002                   2001               2000
+                                                                     ----------------      ----------------      --------------
+
+         Income from operations                                               $8,829                $9,091              $8,733
+         Less preferred dividends                                                (5)                  (43)                (42)
+                                                                     ----------------      ----------------      --------------
+         Income for computation of basic
+              earnings per common share                                        8,824                 9,048               8,691
+         Convertible preferred dividends (See Note 11)                             5                    43                  42
+                                                                     ----------------      ----------------      --------------
+         Income for computation of diluted
+              earnings per common share                                       $8,829                $9,091              $8,733
+                                                                     ================      ================      ==============
+
+         Weighted average number of common
+              shares in basic earnings per share                               6,605                 6,165               6,147
+         Effect of dilutive securities:
+              stock options and warrants                                         292                   341                 384
+              convertible preferred shares                                        13                   105                 105
+                                                                     ----------------      ----------------      --------------
+         Weighted average number of common
+              shares and dilutive potential common
+              shares used in diluted earnings per share                        6,910                 6,611               6,636
+                                                                     ================      ================      ==============
+</TABLE>
+
+           Recent Accounting Pronouncements - In June 1998, the Financial
+           Accounting Standards Board (the "FASB") issued SFAS No. 133,
+           "Accounting for Derivative Instruments and Hedging Activities".
+           SFAS No. 133, as amended by SFAS No. 137 and SFAS No. 138, required
+           that all derivative instruments be recorded on the balance sheet at
+           their fair value. Changes in the fair value of derivatives will be
+           recorded each period in current earnings or other comprehensive
+           income, depending on whether a derivative is designated as part of
+           a hedge transaction and, if it is, the type of hedge transaction.
+           The adoption of this statement in the first quarter of fiscal 2002
+           did not have a material effect on the Company's financial statements.
+
+<PAGE>
+
+           In July 2001, the FASB issued SFAS No. 141, "Business Combinations",
+           and SFAS No. 142, "Goodwill and Other Intangible Assets". SFAS No.
+           141 requires business combinations initiated after June 30, 2001 to
+           be accounted for using the purchase method of accounting, and
+           broadens the criteria for recording intangible assets separate from
+           goodwill. For potential future acquisitions, recorded goodwill and
+           intangibles will be evaluated against these new criteria and may
+           result in certain intangibles being recorded as goodwill, or
+           alternatively, amounts previously recorded as goodwill may be
+           separately identified and recognized apart from goodwill. SFAS No.
+           142 requires the use of a nonamortization approach to account for
+           purchased goodwill and certain intangibles. Under a nonamortization
+           approach, goodwill and certain intangibles will not be amortized into
+           results of operations, but instead will be periodically reviewed for
+           impairment and written down and charged to results of operations only
+           in the periods in which, and to the extent, the recorded value of
+           goodwill and certain intangibles is determined to be more than their
+           fair value.
+
+           The Company adopted the provisions of SFAS No. 142 effective the
+           beginning of the first quarter of fiscal 2002. These standards only
+           permit prospective application of the new accounting; accordingly
+           adoption of these standards will not affect previously reported
+           financial information. The principal effect of implementing SFAS No.
+           142 was the cessation of the amortization of goodwill in the current
+           fiscal year; however, impairment reviews may result in future
+           write-downs. Goodwill amortization amounted to $898,000 or $.13 per
+           diluted share in fiscal 2001 and $631,000 or $.10 per diluted share
+           in fiscal 2000. The Company reviewed goodwill for possible impairment
+           at the end of fiscal 2002 and determined that there was no
+           impairment.
+
+           Had the Company been accounting for its goodwill under SFAS No. 142
+           for all periods presented, the Company's net income and net income
+           per share would have been as follows:
+
+           (In thousands except for earnings per share amounts)
+<TABLE>
+<CAPTION>
+<S>      <C>   <C>                                                       <C>                    <C>               <C>
+                                                                         March 31,              April 1,           March 26,
+                                                                           2002                   2001               2000
+                                                                     ----------------      ----------------      --------------
+
+         Reported net income                                                  $8,829                $9,091              $8,733
+         Add back:  Goodwill amortization                                                              898                 631
+                                                                     ----------------      ----------------      --------------
+         Adjusted net income                                                  $8,829                $9,989              $9,364
+                                                                     ================      ================      ==============
+
+         Basic earnings per share:                                             $1.34                 $1.47               $1.41
+              Reported net income
+              Goodwill amortization                                                                    .13                 .10
+                                                                     ----------------      ----------------      --------------
+              Adjusted net income                                              $1.34                 $1.60               $1.51
+                                                                     ================      ================      ==============
+
+         Diluted earnings per share:                                           $1.28                 $1.38               $1.32
+              Reported net income
+              Goodwill amortization                                                                    .13                 .10
+                                                                     ----------------      ----------------      --------------
+              Adjusted net income                                              $1.28                 $1.51               $1.42
+                                                                     ================      ================      ==============
+</TABLE>
+
+           In September 2001, the FASB issued SFAS No. 144, "Accounting for the
+           Impairment of Disposal of Long-Lived Assets". SFAS No. 144 supersedes
+           SFAS No. 121. The new statement defines detailed criteria for assets
+           being "held for sale". The Company will adopt the provisions of this
+           statement for the first quarter of 2003. Additionally, the statement
+           further defines the reporting of discontinued operations in financial
+           statements. If such accounting standard would have been in effect in
+           fiscal 2002, losses amounting to $499,000, $196,000 and $193,000 in
+           fiscal 2002, 2001 and 2000, respectively, would have been reported as
+           discontinued operations in the consolidated statements of earnings.
+           The 2002 amount includes the net of tax effect of the $438,000
+           impairment charge referred to above in "Accounting for Long-Lived
+           Assets".
+
+2.         FAIR VALUE OF FINANCIAL INSTRUMENTS
+
+           The carrying amounts of cash, accounts receivable and payable, and
+           accrued liabilities approximate fair value because of the short-term
+           nature of the items. The carrying amounts of the Company's debt and
+           other payables approximate fair value either due to their short-term
+           nature or the variable rates associated with these debt instruments.
+
+<PAGE>
+
+3.         INVENTORIES
+
+                Inventories consist of (in thousands):
+<TABLE>
+<CAPTION>
+<S>             <C>                                                                     <C>                        <C>
+
+                                                                                        March 31,                   April 1,
+                                                                                           2002                       2001
+                                                                                  ------------------            ---------------
+
+                Food and beverage                                                            $1,568                     $1,634
+                Supplies                                                                      2,529                      2,515
+                                                                                  ------------------            ---------------
+
+                                                                                             $4,097                     $4,149
+                                                                                  ==================            ===============
+</TABLE>
+
+4.         PROPERTY AND EQUIPMENT
+
+                Property and equipment consist of (in thousands):
+<TABLE>
+<CAPTION>
+<S>             <C>                                                                   <C>                           <C>
+
+                                                                                      March 31,                     April 1,
+                                                                                         2002                        2001
+                                                                                     -----------                   ---------
+
+                Land                                                                   $5,925                        $5,925
+                Buildings                                                              13,686                        12,035
+                Leasehold improvements                                                 58,947                        44,110
+                Restaurant furniture, fixtures, and equipment                          21,941                        19,272
+                Restaurant facilities and equipment under
+                  capital leases                                                        7,638                         7,638
+                                                                                      ----------                    ---------
+                                                                                      108,137                        88,980
+
+                Less accumulated depreciation and amortization
+                  (Including accumulated amortization of
+                  restaurant facilities and equipment under
+                  capital leases of $7,116 and $6,810 in 2002
+                  and 2001, respectively)                                              47,729                        43,969
+                                                                                      ---------                     ---------
+                                                                                       60,408                        45,011
+                 Construction in progress                                               1,563                         9,093
+                                                                                      ----------                    ---------
+
+                                                                                      $61,971                        $54,104
+                                                                                     ===========                    ==========
+
+
+5.         OTHER ASSETS
+
+                Other assets consist of (in thousands):
+
+                                                                                        March 31,                     April 1,
+                                                                                           2002                         2001
+                                                                                      ------------                   ----------
+
+                Lease acquisition costs, net                                                 $2,378                     $2,605
+                Premium on liquor licenses                                                      995                        947
+                Security deposits                                                               992                        958
+                Long-term receivables                                                            71                        105
+                Computer software costs, net                                                    265                        261
+                Deferred financing charges, net                                                 129                        194
+                Cash surrender value of
+                  life insurance policy                                                         380                        364
+                                                                                       -------------                 ----------
+
+                                                                                             $5,210                     $5,434
+                                                                                       =============                 ==========
+</TABLE>
+
+
+<PAGE>
+
+
+
+6.         ACCOUNTS PAYABLE AND ACCRUED EXPENSES
+
+                Accounts payable and accrued expenses consist of (in thousands):
+<TABLE>
+<CAPTION>
+<S>             <C>                                              <C>                           <C>
+
+                                                                  March 31,                    April 1,
+                                                                       2002                      2001
+                                                              -------------------          -----------------
+
+                Accounts payable                                         $ 5,586                     $6,999
+                Accrued payroll, incentive
+                  compensation and related taxes                           3,701                      3,005
+                Accrued sales taxes                                        1,107                      1,061
+                Unredeemed gift certificates                                 857                        902
+                Accrued percentage rent                                    1,052                        900
+                Accrued property taxes                                       706                        590
+                Straight line rent accrual                                 1,161                        714
+                Other accrued operating expenses                           2,751                      2,161
+                                                              -------------------          -----------------
+
+                                                                         $16,921                    $16,332
+                                                              ===================          =================
+</TABLE>
+
+
+7.         LEASE OBLIGATIONS
+
+                The Company generally operates its restaurants in leased
+                premises. The typical restaurant premises lease is for a term of
+                between 15 to 25 years with renewal options ranging from 5 to 25
+                years. The leases generally provide for the payment of property
+                taxes, utilities, and various other use and occupancy costs.
+                Rentals under certain leases are based on a percentage of sales
+                in excess of a certain minimum level. Certain leases provide for
+                increases based upon the changes in the consumer price index.
+                The Company is also obligated under various leases for
+                restaurant equipment and for office space and equipment.
+
+                Minimum payments under lease commitments are summarized below
+                for capital and operating leases. The imputed interest rates
+                used in the calculations for capital leases vary from 9.75% to
+                12% and are equivalent to the rates which would have been
+                incurred to borrow, over a similar term, the amounts necessary
+                to purchase the leased assets.
+
+                The amounts of operating and capital lease obligations are as
+                follows (in thousands):
+<TABLE>
+<CAPTION>
+<S>             <C>                                                        <C>                  <C>
+
+                                                                           Operating            Capital
+                                                                              Leases            Leases
+                                                                         ---------------    ---------------
+                Fiscal year ending:
+                2003                                                             $6,260               $785
+                2004                                                              6,532                458
+                2005                                                              6,426                289
+                2006                                                              6,151                 26
+                2007                                                              5,342
+                Thereafter                                                       33,042
+                                                                        ---------------    ---------------
+                Total minimum lease payments                                    $63,753             $1,558
+                                                                         ===============
+                Less amount representing interest                                                      185
+                                                                                            ---------------
+                Total obligations under capital leases                                               1,373
+                Less current maturities                                                                668
+                                                                                            ---------------
+                Long-term obligations under capitalized
+                  leases at March 31, 2002                                                          $705
+                                                                                            ===============
+</TABLE>
+
+
+
+<PAGE>
+
+
+
+
+                Rental expense consists of (in thousands):
+<TABLE>
+<CAPTION>
+<S>             <C>                                                        <C>                 <C>             <C>
+
+                                                                           March 31,           April 1,        March 26,
+                                                                              2002               2001            2000
+                                                                         ----------------------------------------------------
+
+                Minimum rental commitments                                       $7,804             $6,497            $5,665
+                Rental based on percentage of sales                               2,273              2,298             1,711
+                                                                         ----------------------------------------------------
+                                                                                $10,077             $8,795            $7,376
+                                                                         ====================================================
+</TABLE>
+
+
+                In September 1999, the Company entered into a $25,000,000 master
+                lease agreement with its principal bank lender, Wachovia Bank,
+                N.A., and two other banks, to finance land acquisition and
+                construction of new restaurants. Under the agreement, a grantor
+                trust purchases properties selected by the Company, finances all
+                of the construction costs and leases the facilities to the
+                Company upon their completion. The initial term of the lease is
+                for five years and the lease can be renewed upon approval by all
+                parties to the transaction. The Company accounts for the lease
+                as an operating lease. Upon maturity, the Company retains the
+                option to purchase all of the properties owned by the trust.
+                However, if the Company elects not to purchase the properties,
+                the Company provides a residual guaranty for the leased
+                facilities and is liable for the decline in market value of the
+                leased facilities up to 90% of the cost of the property at the
+                inception of the lease inclusive of the present value of lease
+                payments. The Company must also maintain compliance with
+                financial covenants similar to its other credit facilities as
+                described in Note 8.
+
+                On June 12, 2002, the Company terminated the arrangement using
+                financing under our bank line of credit and cash. The pro forma
+                effect of terminating this arrangement and replacing such
+                financing is as follows:
+<TABLE>
+<CAPTION>
+<S>             <C>                                                           <C>                <C>     <C>
+
+                                                                              As Reported        Pro forma
+                Balance Sheet (as of March 31, 2002):
+                    Cash                                                         $5,062             $2,062
+                    Property and Equipment, net                                 $61,971            $73,171
+                    Long-term Debt - Bank                                        $3,000            $11,200
+
+                Statement of Earnings (for the year ended March 31, 2002):
+                    Net Income                                                   $8,829             $8,730
+                    Diluted Earnings Per Common Share                            $ 1.28             $ 1.27
+
+
+8.         LONG-TERM DEBT
+
+                Long-term debt consists of (in thousands):
+                                                                                     March 31,                  April 1,
+                                                                                        2002                      2001
+                                                                                ------------------       -------------------
+                     Term loan - bank                                                     $6,000                    $8,000
+                     Revolving line of credit - bank                                                                 6,500
+                     Note obligation under terms of non-competition
+                          agreement with former shareholder of Rudy's
+                          discounted at 8%, payable in monthly
+                          installments of $17 thru December 2001                                                       145
+                                                                                ------------------       -------------------
+                                                                                           6,000                    14,645
+                Less current portion                                                       3,000                     2,145
+                                                                                ------------------
+                                                                                                         -------------------
+                                                                                          $3,000                   $12,500
+                                                                                ==================       ===================
+</TABLE>
+
+
+
+<PAGE>
+
+
+                The Company has a credit arrangement with a bank that includes a
+                term loan and a revolving line of credit under which $15,000,000
+                was available at March 31, 2002. Interest under the credit
+                arrangement accrues at the Company's option at either prime rate
+                plus a margin up to 1.0% or at LIBOR plus a margin of between
+                1.0% to 2.25%. At March 31, 2002, interest was accrued at
+                approximately 3.53% (LIBOR plus 1.0%). The applicable interest
+                rate margin varies with the Company's leverage ratio (defined as
+                earnings before interest, taxes, and depreciation and
+                amortization divided by funded indebtedness). The final maturity
+                date of both the term loan and the revolving line of credit is
+                March 31, 2004. The credit arrangement restricts the Company
+                from making cash dividend payments and purchases of the
+                Company's common equity securities and limits the amounts of
+                capital expenditures that the Company can make annually during
+                the term of the agreement. The credit arrangement also requires
+                the Company to achieve certain ratios of operating cash flow to
+                debt and other financial benchmarks. The credit agreement is
+                collateralized by a security interest in the Company's assets.
+
+                The Company had entered into an interest rate swap agreement
+                involving an exchange of floating rate interest payment
+                obligations for fixed rate payment obligations. The purpose of
+                the swap agreement was to protect against significant increases
+                in interest rates on variable rate bank indebtedness. Periodic
+                cash payments either received or paid pursuant to the swap are
+                accrued on a settlement basis as an adjustment to interest
+                expense. The agreement expired May 1, 2002 without further
+                obligation by the Company.
+
+                Principal maturities of long-term debt obligations at March 31,
+                2002 are as follows:
+
+                Fiscal year ending
+                2003                                                   $3,000
+                2004                                                    2,250
+                2005                                                      750
+                                                                      --------
+                Total                                                  $6,000
+                                                                      ========
+
+9.    INCOME TAXES
+
+           Deferred tax assets and liabilities reflect the tax effect of
+           temporary differences between amounts of assets and liabilities for
+           financial reporting purposes and the amounts of such assets and
+           liabilities as measured by income tax law. A valuation allowance is
+           recognized to reduce deferred tax assets to the amounts that are more
+           likely than not to be realized.
+
+           The net deferred tax asset balance consists of (in thousands):
+<TABLE>
+<CAPTION>
+<S>        <C>                                             <C>      <C>                <C>         <C>          <C>           <C>
+
+                                                                     March 31, 2002                             April 1, 2001
+
+                                                           Assets    Liabilities       Total        Assets      Liabilities   Total
+           -------------------------------------------------------------------------------------------------------------------------
+           Tax loss carryforwards                          $1,164        $ -          $1,164        $1,596          $ -      $1,596
+           Excess book amortization
+             for pre-opening costs
+             and capital leases                               349                        349           526                      526
+           Income tax credits                                 572                        572           392                      392
+           Gift certificates                                  343                        343           361                      361
+           Accelerated depreciation
+             for tax purposes                                  34                         34                        (104)      (104)
+           Smallware inventory                                           (523)          (523)
+           Other                                               24                         24           202                      202
+
+                                                       -----------------------------------------------------------------------------
+          Total asset (liability)                          $2,486       ($523)        $1,963        $3,077         ($104)    $2,973
+                                                       =============================================================================
+</TABLE>
+
+           In fiscal 2002, the Company elected to change its method of
+           accounting for smallwares for income tax purposes in accordance with
+           Revenue Procedure 2002-12, 2002-3 IRB 374 of the Internal Revenue
+           Code. The change enables the Company to expense for income tax
+           purposes the amount of smallware inventory.
+
+
+
+<PAGE>
+
+
+
+           As of March 31, 2002, the Company had available net operating loss
+           carryforwards as a result of the 1997 acquisition of Rudy's
+           Restaurant Group amounting to $2,911,000 for ordinary income tax
+           purposes that is available to reduce future taxable income. The net
+           operating loss carryforwards are subject to the change of control
+           provisions of the Internal Revenue Code which limit the usage of the
+           net operating loss carryforwards to approximately $1,100,000 per
+           year. All net operating loss carryforwards expire as follows (in
+           thousands):
+
+           Fiscal year ending
+           2005                                                     $2,441
+           2006                                                        470
+                                                                  -----------
+                                                                    $2,911
+                                                                  ===========
+
+
+           The income tax provision consists of (in thousands):
+<TABLE>
+<CAPTION>
+<S>        <C>                                                                            <C>             <C>             <C>
+
+                                                                                          March 31,       April 1,        March 26,
+                                                                                            2002            2001            2000
+           -------------------------------------------------------------------------------------------------------------------------
+           Current:
+               Federal                                                                     $2,069         $3,398           $3,527
+               State                                                                        1,009          1,293            1,100
+           Deferred:
+               Federal and State                                                            1,010            317               95
+                                                                                           -----------------------------------------
+
+           Income tax provision                                                            $4,088         $5,008           $4,722
+                                                                                           =========================================
+
+           The income tax provision differed from the amount computed at the
+           statutory rate as follows (in thousands):
+
+                                                                                             March 31,       April 1,     March 26,
+                                                                                               2002            2001         2000
+           -------------------------------------------------------------------------------------------------------------------------
+           Federal income tax provision at statutory rate of 34%                              $4,421         $4,835        $4,609
+           State income taxes, net of federal benefit                                            663            854           726
+           Tax credits, net                                                                     (893)          (833)         (687)
+           Change in valuation allowance                                                                                     (107)
+           Other                                                                                (103)           152           181
+                                                                                           -----------------------------------------
+
+           Income tax provision                                                                $4,088        $5,008        $4,722
+                                                                                           =========================================
+
+           Effective income tax rate                                                            31.6%         35.5%         35.1%
+                                                                                           =========================================
+</TABLE>
+
+10.   CONTINGENCIES
+
+           The Company is a defendant in an action brought by a former server at
+           a Benihana restaurant and purported to be filed on behalf of
+           similarly situated current and former employees of the Company
+           alleging violations of the minimum wage provisions applicable to
+           certain tipped employees arising from the tim pooling and
+           distribution practices at the restaurant. Plaintiffs seek damages
+           consisting of the difference between the hourly wage paid and the
+           applicable federal minimum wage rate, attorneys' fees and costs and
+           certain liquidated damages provided by statute. While the Company
+           believes the complaint has no merit, there can be no assurance that
+           the Company will not be required to pay a material amount in the
+           settlement or other disposition of this matter.
+
+           The Company is also a defendant in a related action which asserts two
+           claims: one for alleged violations of the minimum wage provisions of
+           the Federal Fair Labor Standards Act, and one for alleged violations
+           of New York State Labor Law concerning gratuities. As in the action
+           described above, certain similarly situated employees may have rights
+           to "opt in" to the federal claim, while the state claim purports to
+           be brought as a class action. No discovery has occurred or been
+           scheduled. While the Company believes that the Complaint has no
+           merit, this action is in its preliminary stages and there can be no
+           assurance that the Company will not be required to pay a material
+           amount in the settlement or other disposition of this matter.
+
+           Except for the matters described above, the Company is not a party to
+           any litigation other than routine claims which are incidental to its
+           business.
+
+
+<PAGE>
+
+
+
+11.   STOCKHOLDERS' EQUITY
+
+           Preferred Stock - The preferred stock had a liquidation preference of
+           $1,000 per share, carried a cumulative dividend of 6% and entitled
+           the holder a right to convert into shares of the Company's Class A
+           Common Stock. In fiscal 2002, the holder converted all of the
+           preferred stock to 105,263 shares of Class A Common Stock.
+
+           Common and Class A Common Stock - The Company's Common Stock is
+           convertible into Class A Common Stock on a one-for-one basis. The
+           Class A Common Stock is identical to the Common Stock except that it
+           gives the holder one-tenth (1/10) vote per share, voting together
+           with the Company's Common Stock as a single class on all matters
+           except the election of directors. For election of directors, the
+           Class A Common Stockholders vote as a class to elect 25% of the
+           members of the Board of Directors.
+
+           Stock Dividend - On June 7, 2002, the Board of Directors declared a
+           15% stock dividend in Class A stock on both the Class A and common
+           shares. The stock dividend is payable on August 12, 2002 to holders
+           of record July 15, 2002.
+
+           Stock Options - The Company has various stock option plans: a 1994
+           Employee Stock Option Plan (1994 Plan), a 1996 Class A Stock Option
+           Plan (1996 Plan), a 1997 Class A Stock Option Plan (1997 Plan), a
+           2000 Class A Stock Option Plan (2000 Plan), a Directors' Stock Option
+           Plan (Directors' Plan) and a Directors' Class A Stock Option Plan
+           (Directors' Class A Plan), under all of which a maximum of 3,285,000
+           shares of the Company's Common Stock were authorized for grant and
+           for all of which options for 1,651,493 shares remain available for
+           grant.
+
+           Options granted under the 1996, 1997 and 2000 Plans have a term of
+           ten years from date of issuance, and are exercisable ratably over a
+           three-year period commencing with the date of the grant. Options
+           granted under these plans require that the exercise price be at
+           market value on the date of the grant, or for optionees that own more
+           than 10% of the combined voting rights of the Company, at 110% of
+           market value for incentive stock options.
+
+           Options granted under the 1994 Plan have a term of ten years from
+           date of issuance and are exercisable on the date of grant. Under the
+           Directors' Plan, options to purchase 10,000 shares are automatically
+           granted to each of the Company's non-employee directors on the date
+           of the Company's annual meeting. Options granted under the Directors
+           Plan are exercisable ratably over two years commencing with the first
+           anniversary of the date of the grant.
+
+           The Company applies the intrinsic-value-based method in accounting
+           for stock-based awards to employees. Therefore, the Company generally
+           recognizes no compensation expense with respect to such awards
+           because options are generally granted at the fair market value of the
+           underlying shares on the date of the grant.
+
+           Had the Company accounted for its stock-based awards under the fair
+           value method, the table below shows the pro forma effect on net
+           income and earnings per share for the three most recent fiscal years.
+           The fair value of the Company's stock based awards to employees was
+           estimated using a Black-Scholes option- pricing model.
+
+           The pro forma information described is as follows:
+<TABLE>
+<CAPTION>
+<S>        <C>                                                    <C>                <C>           <C>
+
+                                                                  March 31,          April 1,      March 26,
+                                                                    2002               2001          2000
+                                                          --------------------------------------------------
+           Net Income
+                As reported                                         $8,829             $9,091        $8,733
+                Pro forma                                           $8,223             $8,163        $7,796
+           Diluted Earnings Per Common Share
+                As reported                                          $1.28              $1.38         $1.32
+                Pro forma                                            $1.19              $1.23         $1.17
+</TABLE>
+
+
+           As a result of the inclusion of only the grants made subsequent to
+           fiscal 1995, the effects may not be representative of the pro forma
+           impact in future years. In addition, the following weighted average
+           assumptions were used in the Black-Scholes option-pricing model: a
+           risk-free interest rate of 3.8% for fiscal year 2002, 4.7% for 2001
+           and 6.7% for 2000, respectively; an expected life of three years,
+           no expected dividend yield and a volatility factor of 50%, 53% and
+           38% for fiscal years 2002, 2001 and 2000, respectively.
+
+
+
+<PAGE>
+
+
+
+           The following table summarizes information about fixed-price stock
+           options outstanding at March 31, 2002:
+<TABLE>
+<CAPTION>
+<S>        <C>              <C>                           <C>           <C>              <C>            <C>           <C>
+
+                                                                     Options Outstanding                    Options Exercisable
+                                                           ---------------------------------------      ----------------------------
+                                                                         Weighted-
+                                                                         Average         Weighted                     Weighted
+           Ranges of                                                    Remaining         Average                     Average
+           Exercise                                                     Contractual       Exercise                    Exercise
+           Prices                                          Number          Life           Price         Number         Price
+           -------------------------------------------------------------------------------------------------------------------------
+           $ 2.88     -     $ 3.25                         14,000           2.3           $3.18         14,000         $3.18
+             6.75     -       8.56                        459,064           7.3            7.87        342,953          7.64
+             9.00     -      10.11                         94,747           4.8            9.18         91,414          9.19
+            10.25     -      12.25                        466,335           6.1           11.89        466,335         11.89
+            12.69     -      15.50                        400,900           8.1           13.91        272,267         14.11
+                                                      -----------------                            ----------------
+           $ 2.88     -     $15.50                      1,435,046                                    1,186,969
+                                                      =================                            ================
+
+           Transactions under the above plans for the years ended are as
+           follows:
+
+                                                                   March 31,       April 1,      March 26,
+                                                                     2002            2001          2000
+           ------------------------------------------------------------------------------------------------
+           Balance, beginning of year                               1,426,938      1,177,784       877,560
+           Granted                                                    220,000        276,500       322,500
+           Canceled                                                  (28,813)       (15,135)
+           Expired                                                   (29,673)                      (1,167)
+           Exercised                                                (153,406)       (12,011)      (21,109)
+                                                              ---------------------------------------------
+
+           Balance, end of year                                     1,435,046      1,426,938     1,177,784
+                                                              =============================================
+
+           Weighted average fair value of options
+               granted during year                                     $2.48           $5.07        $4.24
+
+</TABLE>
+
+           Stock Rights - The Company has a Shareholder Rights Plan under which
+           a Preferred Share Purchase Right (Right) is represented by each
+           outstanding share of the Company's Common and Class A Common Stock.
+           The Rights operate to create substantial dilution to a potential
+           acquirer who seeks to make an acquisition, the terms of which the
+           Company's Board of Directors believes is inadequate or structured in
+           a coercive manner.
+
+           The Rights become exercisable on the tenth day (or such later date as
+           the Board of Directors may determine) after public announcement that
+           a person or a group (subject to certain exceptions) has acquired 20%
+           or more of the outstanding Common Stock or an announcement of a
+           tender offer that would result in beneficial ownership by a person or
+           a group of 20% or more of the Common Stock.
+
+12.  INCENTIVE AND DEFERRED COMPENSATION PLANS
+
+           The Company has an incentive compensation plan whereby bonus awards
+           are made if the Company attains a certain targeted return on its
+           opening equity. The purpose of the plan is to improve the long-term
+           sustainable results of operations of the Company by more fully
+           aligning the interests of management and key employees with the
+           shareholders of the Company. One-third of the amounts awarded are
+           immediately made available to the employee and the remaining
+           two-thirds become available ratably over the succeeding two years.
+           Amounts allocated under the Plan may be taken in cash or deferred in
+           a non-qualified deferred compensation plan. The target rate, which
+           was 15.5% for 2002, 15.0% for 2001 and 17.5% for 2000, is approved
+           annually based upon a review of the rates of return on equity of
+           other publicly traded restaurant businesses by the Compensation
+           Committee of the Board of Directors. The amount of the awards is
+           capped at 50% of the eligible salary of the employee. The Company
+           accrued $300,000, $564,000 and $500,000 of incentive compensation for
+           fiscal years 2002, 2001 and 2000, respectively.
+
+           The Company has an executive retirement plan whereby certain key
+           employees may elect to defer up to 20% of their salary and 100% of
+           their bonus until retirement or age 55, whichever is later, or due to
+           disability or death. Employees may select from various investment
+           options for their available account balances. Investment earnings are
+           credited to their accounts.
+
+
+<PAGE>
+
+
+
+13.  QUARTERLY FINANCIAL DATA (UNAUDITED)
+
+           Quarter ended (in thousands except for per share information)
+<TABLE>
+<CAPTION>
+<S>        <C>                      <C>        <C>         <C>           <C>             <C>        <C>          <C>        <C>
+
+                                                    March 31, 2002                                      April 1, 2001
+           -------------------------------------------------------------------------------------------------------------------------
+                                       4th        3rd          2nd          1st            4th        3rd          2nd        1st
+
+           Revenues                  $42,904     $40,182      $37,486      $50,935      $42,216     $37,261      $36,697    $47,068
+           Gross profit               32,154      30,254       27,649       37,240       31,076      27,292       26,540     33,656
+           Net income                  3,661       2,339          382        2,447        2,878       2,189        1,589      2,435
+           Basic earnings
+             per share               $   .49     $   .35      $   .06      $   .39      $   .46      $  .35       $  .26     $  .39
+           Diluted earnings
+             per share               $   .46     $   .34      $   .06      $   .38      $   .45      $  .34       $  .24     $  .37
+
+</TABLE>
+
+
+
+<PAGE>
+
+
+
+
+
+                          INDEPENDENT AUDITORS' REPORT
+
+
+
+
+
+
+To the Board of Directors and Stockholders of Benihana Inc.:
+
+We have audited the accompanying consolidated balance sheets of Benihana Inc.
+and subsidiaries ("Benihana") as of March 31, 2002 and April 1, 2001, and the
+related consolidated statements of earnings, stockholders' equity and cash flows
+for each of the three years in the period ended March 31, 2002. These
+consolidated financial statements are the responsibility of Benihana's
+management. Our responsibility is to express an opinion on these consolidated
+financial statements based on our audits.
+
+We conducted our audits in accordance with auditing standards generally accepted
+in the United States of America. Those standards require that we plan and
+perform the audit to obtain reasonable assurance about whether the financial
+statements are free of material misstatement. An audit includes examining, on a
+test basis, evidence supporting the amounts and disclosures in the financial
+statements. An audit also includes assessing the accounting principles used and
+significant estimates made by management, as well as evaluating the overall
+financial statement presentation. We believe that our audits provide a
+reasonable basis for our opinion.
+
+In our opinion, such consolidated financial statements present fairly, in all
+material respects, the financial position of Benihana as of March 31, 2002 and
+April 1, 2001, and the results of its operations and its cash flows for each of
+the three years in the period ended March 31, 2002 in conformity with accounting
+principles generally accepted in the United States of America.
+
+
+
+
+
+
+
+
+Deloitte & Touche LLP
+Certified Public Accountants
+
+Miami, Florida
+May 17, 2002
+(June 7, 2002 as to the stock dividend described in Note 11 and June 12, 2002 as
+to the master lease agreement described in Note 7)
+
+
+
+
+<PAGE>
+
+
+
+
+
+
+COMMON STOCK INFORMATION
+
+The Company's Common Stock and Class A Common Stock are traded on the Nasdaq
+National Market System. There were 234 holders of record of the Company's Common
+Stock and 316 holders of record of the Class A Common Stock at March 31, 2002.
+
+The table below sets forth high and low bid prices for the Company's Common
+Stock and Class A Common Stock, which do not include commissions and mark-ups or
+mark-downs for the periods indicated. Such bid prices reflect inter-dealer
+prices without retail mark-ups, markdowns or commissions and may not necessarily
+represent actual transactions.
+
+<TABLE>
+<CAPTION>
+<S>             <C>                              <C>                   <C>               <C>               <C>
+
+                                                                       Fiscal Year Ended
+                                                                       -----------------
+                                                        March 31, 2002                       April 1, 2001
+                                                  ----------------------------------------------------------------------------
+                COMMON STOCK                      High                 Low               High              Low
+                --------------------------------------------------------------------------------------------------------------
+
+                1st Quarter                       13.00                12.75             16.00             10.56
+                2nd Quarter                       10.55                10.55             14.00             11.25
+                3rd Quarter                       15.40                15.00             13.00              9.00
+                4th Quarter                       20.24                18.25             12.13             10.25
+
+
+
+
+                                                                       Fiscal Year Ended
+                                                                       -----------------
+                CLASS A                                 March 31, 2002                       April 1, 2001
+                                                  ----------------------------------------------------------------------------
+                COMMON STOCK                      High                 Low               High              Low
+                --------------------------------------------------------------------------------------------------------------
+
+                1st Quarter                       13.05                12.90             16.00             7.75
+                2nd Quarter                       10.60                10.20             13.63             9.25
+                3rd Quarter                       15.30                14.91             11.38             6.88
+                4th Quarter                       20.40                18.35             11.63             8.13
+</TABLE>
+
+
+The Class A Common Stock is identical to the Common Stock except that it gives
+the holder one-tenth (1/10) vote per share, voting together with the Company's
+Common Stock as a single class on all matters except the election of directors.
+For election of directors, the Class A Common stockholders vote as a class to
+elect 25% of the members of the Board of Directors.
+
+The Company has not declared or paid a cash dividend on common equity since its
+organization and has no present intention of paying any such dividend in the
+foreseeable future. The Company intends to retain all available cash for the
+operation and expansion of its business. In addition, the Company's present loan
+agreement restricts the payment of cash dividends.
+
+
+
+
+<PAGE>
+
+
+                                                        EXHIBIT 23.01
+
+
+INDEPENDENT AUDITORS' CONSENT
+
+We consent to the incorporation by reference in Registration Statement No.'s
+333-33880, 333-63783 and 333-13973 of Benihana Inc. on Forms S-8 of our report
+dated May 17, 2002 (June 7, 2002 as to the stock dividend described in Note 11
+and June 12, 2002 as to the master lease agreement described in Note 7),
+incorporated by reference in the Annual Report on Form 10-K of Benihana Inc.
+for the year ended March 31, 2002.
+
+
+Deloitte & Touch LLP
+
+Miami, Florida
+June 24, 2002
+
+
+<PAGE>
+
+
+                                                        EXHIBIT 23.02
+
+
+INDEPENDENT AUDITORS' CONSENT
+
+We consent to the incorporation by reference in Registration Statement No.'s
+333-83585 and 333-13977 of Benihana Inc. on Form S-3 of our report dated
+May 17, 2002 (June 7, 2002 as to the stock dividend described in Note 11
+and June 12, 2002 as to the master lease agreement described in Note 7),
+incorporated by reference in the Annual Report on Form 10-K of Benihana Inc.
+for the year ended March 31, 2002 and to the reference to us under the heading
+"Experts" in such Registration Statements.
+
+
+Deloitte & Touch LLP
+
+Miami, Florida
+June 24, 2002
+
+</TEXT>
+</DOCUMENT>

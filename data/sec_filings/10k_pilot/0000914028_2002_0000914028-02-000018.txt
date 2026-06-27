@@ -1,0 +1,2692 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>asc10k6_02.txt
+<DESCRIPTION>TELMARK LLC 10-K PERIOD ENDING 6/30/02
+<TEXT>
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+                UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+                                    FORM 10-K
+(MARK ONE)
+X      ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+--     ACT OF 1934
+For the fiscal year ended June 30, 2002
+                                       OR
+       TRANSITION  REPORT  PURSUANT  TO  SECTION  13  OR 15(d) OF THE SECURITIES
+--     EXCHANGE ACT OF 1934
+         For the transition period from                 to
+         Commission file number 33-70732
+
+                                   TELMARK LLC
+     (EXACT NAME OF REGISTRANT AS SPECIFIED IN ITS CERTIFICATE OF FORMATION)
+
+            DELAWARE                                              16-1551523
+  (STATE OR OTHER JURISDICTION                                (I.R.S. EMPLOYER
+OF INCORPORATION OR ORGANIZATION)                            IDENTIFICATION NO.)
+
+                   333 BUTTERNUT DRIVE, DEWITT, NEW YORK 13214
+              (ADDRESS OF PRINCIPAL EXECUTIVE OFFICES AND ZIP CODE)
+
+         REGISTRANT'S TELEPHONE NUMBER, INCLUDING AREA CODE 315-449-7935
+
+SECURITIES REGISTERED PURSUANT TO SECTION 12(B) OF THE ACT:
+
+Title of each class                    Name of each exchange on which registered
+-------------------                    -----------------------------------------
+      None                                            None
+
+SECURITIES REGISTERED PURSUANT TO SECTION 12(G) OF THE ACT:
+                                      None
+
+     INDICATE  BY CHECK MARK  WHETHER THE  REGISTRANT  (1) HAS FILED ALL REPORTS
+REQUIRED TO BE FILED BY SECTION 13 OR 15(D) OF THE  SECURITIES  EXCHANGE  ACT OF
+1934  DURING  THE  PRECEDING  12 MONTHS  (OR FOR SUCH  SHORTER  PERIOD  THAT THE
+REGISTRANT WAS REQUIRED TO FILE SUCH REPORTS),  AND (2) HAS BEEN SUBJECT TO SUCH
+FILING REQUIREMENTS FOR THE PAST 90 DAYS.
+
+                                         X
+                                        ---     ---
+                                        Yes      No
+
+     INDICATE BY CHECK MARK IF DISCLOSURE OF DELINQUENT  FILERS PURSUANT TO ITEM
+405 OF REGULATION S-K IS NOT CONTAINED HEREIN, AND WILL NOT BE CONTAINED, TO THE
+BEST  OF  REGISTRANT'S   KNOWLEDGE,  IN  ANY  DEFINITIVE  PROXY  OR  INFORMATION
+STATEMENTS  INCORPORATED  BY  REFERENCE  OF PART  III OF THIS  FORM  10-K OR ANY
+AMENDMENT TO THIS FORM 10-K.  X
+                             ---
+
+     STATE THE AGGREGATE MARKET VALUE OF THE VOTING AND NON-VOTING COMMON EQUITY
+HELD BY NON-AFFILIATES OF THE REGISTRANT SEPTEMBER 27, 2002 .
+                                         --------------------
+                                                             ZERO
+
+     INDICATE  THE  NUMBER OF  SHARES  OUTSTANDING  OF EACH OF THE  REGISTRANT'S
+EQUITY SECURITIES, AS OF THE LATEST PRACTICABLE DATE.
+
+             CLASS                             OUTSTANDING AT SEPTEMBER 27, 2002
+    ----------------------                     ---------------------------------
+    MEMBERSHIP CERTIFICATE                                     ONE
+
+TELMARK IS A DIRECT WHOLLY OWNED SUBSIDIARY OF AGWAY, INC., WHICH IS A REPORTING
+COMPANY UNDER THE SECURITIES  EXCHANGE ACT OF 1934, AND MEETS THE CONDITIONS SET
+FORTH IN  GENERAL  INSTRUCTIONS  J(1)(A)  AND (B) OF FORM 10-K AND IS  THEREFORE
+FILING THIS FORM WITH THE REDUCED DISCLOSURE FORMAT.
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+<PAGE>
+                         FORM 10-K ANNUAL REPORT - 2002
+                    TELMARK LLC AND CONSOLIDATED SUBSIDIARIES
+
+                              CROSS-REFERENCE SHEET
+
+<TABLE>
+<CAPTION>
+
+                                     PART I
+                                                                                                                 Page
+<S>            <C>                                                                                                <C>
+Item 1. & 2.   Business and Properties............................................................................ 3
+Item 3.        Legal Proceedings.................................................................................. 6
+Item 4.        Submission of Matters to Vote of Security Holders.................................................. 6
+
+
+                                     PART II
+
+Item 5.        Market for the Registrant's Common Equity and Related Membership Matters........................... 7
+Item 6.        Selected Financial Data............................................................................ 7
+Item 7.        Management's Discussion and Analysis of Financial Condition and Results of Operations.............. 7
+Item 7A.       Quantitative and Qualitative Disclosures About Market Risk.........................................15
+Item 8.        Financial Statements...............................................................................16
+Item 9.        Changes in and Disagreements with Accountants on Accounting and Financial Disclosure...............30
+
+
+                                    PART III
+
+Item 10.       Directors and Executive Officers of the Registrant.................................................31
+Item 11.       Executive Compensation.............................................................................32
+Item 12.       Security Ownership of Certain Beneficial Owners and Management.....................................36
+Item 13.       Certain Relationships and Related Transactions.....................................................36
+
+
+                                     PART IV
+
+Item 14.       Exhibits, Financial Statement Schedules and Reports on Form 8-K....................................37
+
+               Signatures.........................................................................................39
+
+               Certifications Under New Exchange Act Rules 13a-14 and 15d-14 of the Exchange Act of 1934..........40
+</TABLE>
+
+                                        2
+<PAGE>
+                                     PART I
+
+ITEM 1. & 2.  BUSINESS AND PROPERTIES
+
+CAUTIONARY STATEMENT FOR PURPOSES OF THE "SAFE HARBOR" PROVISIONS OF THE PRIVATE
+SECURITIES  LITIGATION  REFORM  ACT OF  1995
+We are including the  following  cautionary  statement in this Form 10-K to make
+applicable  and take  advantage of the "safe  harbor"  provisions of the Private
+Securities Litigation Reform Act of 1995 for any forward-looking  statement made
+by, or on behalf of, Telmark. Where any such forward-looking  statement includes
+a  statement  of  the  assumptions  or  basis  underlying  such  forward-looking
+statement,  we caution that,  while we believe such  assumptions  or basis to be
+reasonable  and make them in good faith,  assumed  facts or basis almost  always
+vary from actual results, and the differences between assumed facts or basis and
+actual  results  can be  material,  depending  upon the  circumstances.  Certain
+factors  that  could  cause  actual  results  to differ  materially  from  those
+projected  have been  discussed in this report and include the factors set forth
+below.  Other  factors  that could  cause  actual  results to differ  materially
+include  uncertainties of economic,  competitive and market decisions and future
+business  decisions,  all of  which  are  difficult  or  impossible  to  predict
+accurately   and  many  of  which  are  beyond  our  control.   Where,   in  any
+forward-looking  statement,  we, or our  management,  express an  expectation or
+belief as to future  results,  such  expectation  or belief is expressed in good
+faith and believed to have a reasonable basis, but we cannot assure you that the
+statement of expectation  or belief will result or be achieved or  accomplished.
+The words "believe," "expect," "intend" and "anticipate" and similar expressions
+identify forward-looking statements.
+
+Telmark  LLC  ("Telmark,"  "we," "our," "us" or "Company") was organized in 1964
+as Telmark  Inc.  under the Business  Corporation  Law of the State of New York.
+Effective  July 1, 1998,  Telmark  Inc.  was merged into Telmark LLC, a Delaware
+limited  liability  company  that was formed  solely to carry on the business of
+Telmark in limited  liability  company,  rather than  corporate,  form. We are a
+direct  wholly  owned  subsidiary  of Agway Inc.  ("Agway"),  one of the largest
+agricultural supply and services  cooperatives in the United States, in terms of
+revenues,  based on a 1999 Co-op 100 Index produced by the National  Cooperative
+Bank.  Prior to July 1, 2001, we were a direct wholly owned  subsidiary of Agway
+Holdings Inc. ("AHI"), an indirect subsidiary of Agway.  Effective July 1, 2001,
+Agway simplified its corporate  structure by merging AHI into Agway and assuming
+all assets and liabilities of AHI.
+
+On March 6, 2002, Agway announced its intention to pursue the sale of Telmark to
+a third party as part of a plan that would have Agway focus on fewer businesses.
+On May 23, 2002, Agway announced that, after lengthy  negotiations,  Agway and a
+potential  buyer were  unable to reach  final  agreement  on a sale of  Telmark.
+Goldman  Sachs & Co.  is  continuing  to  assist  Agway in  exploring  strategic
+alternatives  involving  Telmark.  At this  stage,  we cannot  predict  with any
+certainty  when  or if any  such  strategic  alternative  will  be  consummated.
+However,  consummation of one or more strategic  alternatives  could result in a
+change of control of the Company.
+
+Agway's  membership  interest in Telmark has been  pledged to certain of Agway's
+lenders  in  order to  secure  Agway's  obligations  to  those  lenders.  Agway,
+simultaneously with this filing, will announce its intention to voluntarily file
+petitions  for  reorganization  under Chapter 11 of the U.S.  Bankruptcy Code on
+October 1, 2002. This filing WILL NOT include Telmark LLC. Telmark is separately
+financed and does not  guarantee  any debt of Agway Inc.  Telmark and Agway have
+certain  business  arrangements,  including  leases which we do not expect to be
+impacted  by this  filing.  While we have no reason to expect  Agway's  intended
+Bankruptcy  filing will have a material effect on Telmark,  the ultimate impact,
+if any, on Telmark's  business,  financial  condition,  and results of operation
+cannot  be  determined  at  this  time.  Telmark  has  had  another  financially
+successful  year. For more information on the operations of Telmark see Item 7 -
+Management's  Discussion  and  Analysis of  Financial  Condition  and Results of
+Operations.
+
+Telmark  is  subject  to certain  informational  reporting  requirements  of the
+Securities  Exchange  Act of 1934 and in  accordance  with  those  rules,  files
+reports  and other  information  with the  Commission.  Reports  filed  with the
+Commission can be inspected at the Public Reference Section of the Commission at
+450 Fifth Street N.W.,  Washington  D.C. 20549 and at the regional office of the
+Commission at 233 Broadway,  New York,  New York 10279.  Copies of the materials
+can be obtained from the Commission at prescribed rates.  Information  regarding
+the operation of the Public Reference Room may be obtained by calling the SEC at
+1-800-SEC-0330.  Alternatively,  you may access  Telmark's  reports filed on the
+Commission's Electronic Data Gathering, Analysis and Retrieval (EDGAR) system by
+going to the Commission's website at www.sec.gov.
+
+                                        3
+<PAGE>
+ITEM 1. & 2.  BUSINESS AND PROPERTIES (CONTINUED)
+
+Our operations  are comprised  almost  exclusively of direct finance  leasing of
+agricultural related equipment,  vehicles and buildings.  We also provide retail
+installment  loans to  customers  on a very  limited  basis.  Our  leases  offer
+customers an  alternative  to directly  purchasing or borrowing to purchase as a
+means of acquiring the use of equipment, vehicles or buildings.
+
+        o        We  brand  our  leasing   service  as Agrilease(R)  and Telease
+                 Financial Services(R).
+        o        We highlight our service-oriented  approach  in  advertisements
+                 and product brochures.
+
+We have over 17,000 customers,  most of whom are in the dairy, forestry,  crops,
+and  transportation  industries.  We operate  throughout the continental  United
+States  and  Canada.  Our  customers  are  primarily  farmers  and  other  rural
+businesses  as well as  manufacturers  and  independent  dealers  who  serve the
+agricultural  marketplace.  As of June 30, 2002, we had total assets of $741,819
+and an average net investment in leases and notes of $736,000 for the year ended
+June 30, 2002. See Item 8, "Financial Statements".
+
+We compete with finance  affiliates  of  equipment  manufacturers,  agricultural
+financial  institutions,  other independent  finance and leasing companies,  and
+commercial banks.  Many of these  organizations  have substantial  financial and
+other resources and consequently are able to compete on a long-term basis within
+the market segment which we serve.
+
+The sales  force are all  Telmark  employees  working  under  the  direction  of
+regional managers.  They call on customers and vendors,  solicit leads,  prepare
+documentation and close transactions. There are 84 sales representatives located
+in 33 states.  The captive sales force is the primary  distribution  channel for
+Telmark's lease finance products.
+
+We use  direct  mail,  advertisements  in trade  magazines  and  referrals  from
+equipment  retailers and building  contractors  to solicit  customers.  Our main
+competitors are  agricultural  lenders and other leasing  companies.  We believe
+that we compete effectively because of:
+
+        o        our special expertise in agricultural equipment financing;
+        o        our close relationship with the farming community;
+        o        our focus on service;
+        o        our financial strength; and
+        o        our credit management.
+
+Telmark's   business  is   concentrated  in  agriculture  in  the  New  England,
+Mid-Atlantic,  and Midwest states with  approximately 68% of its leases directly
+related to production agriculture. However, the portfolio of agricultural leases
+is diversified  into many different kinds of  agriculture.  As of June 30, 2002,
+the largest  concentration was in crops enterprises which represented 19% of the
+portfolio,   dairy   enterprises   which   represented  15%  of  the  portfolio,
+transportation  enterprises  which  represented  11% of the portfolio,  and wood
+products  enterprises which  represented 9% of the portfolio.  At June 30, 2002,
+approximately 42% of our net lease investment was in the states of Michigan, New
+York,  Ohio, and  Pennsylvania.  Adverse  developments  in any of these areas of
+concentration could have a corresponding adverse effect on the collectibility of
+our lease receivables.
+
+We offer a variety of lease financing  packages,  with varying payment schedules
+on a monthly,  quarterly,  semiannual or annual basis, depending on the expected
+timing of customer  cash flows,  customer  credit  quality,  and the  customer's
+individual preferences.
+
+With a direct finance lease,  our customers have use of the leased property over
+a  specified  term for a  periodic  rental  charge:  i.e.,  the  lease  payment.
+Customers make lease payments in advance.  In most cases, at least two months of
+the lease payments are collected before the lease starts. We require the advance
+payment to provide protection in the event of default on the lease.
+
+We offer most of the direct  finance  leases for a period which is less than our
+estimate of the useful life of the equipment, vehicle, or the building leased.
+
+        o        We typically offer equipment and vehicle leases for a period of
+                 3 to 6 years, and generally not more than 8 years.
+        o        We typically offer building leases for longer  terms  than  for
+                 equipment leases (e.g., 5 to 15 years), generally up to maximum
+                 terms of 15 years.
+
+                                        4
+
+<PAGE>
+ITEM 1. & 2.  BUSINESS AND PROPERTIES (CONTINUED)
+
+As of June 30, 2002,  our  outstanding  leases had an average  original  term of
+approximately 5.8 years and average remaining term of approximately 4.7 years.
+
+Generally,  the customer selects the supplier of the equipment or other property
+to be leased and we are not responsible for its suitability,  performance, life,
+or any other characteristics.  Our primary responsibility is to buy the property
+from the supplier,  lease it to the customers,  and collect the lease  payments.
+For a large number of our lease contracts, we have agreed to indemnify customers
+if certain  adverse tax  consequences  arise or are alleged in connection with a
+lease.  While we  cannot  predict  our  liability  under  these  indemnification
+provisions,  we believe  that our  liability is remote and the net effect of any
+liability would not be material.
+
+Telmark has internal  credit  approval  policies that must be followed  prior to
+entering into any lease  transaction.  The required  procedures vary by kind and
+size of transaction.  We set credit approval limits based on the total amount of
+leases  outstanding  with the customer.  We assign lease  approval  authority to
+members of management depending on position,  training, and experience,  as well
+as the type  and size of the  lease in  question.  However,  Telmark's  Board of
+Directors must approve all lease amounts exceeding $1.5 million. After a Telmark
+field representative  completes a financial  application,  we conduct a thorough
+credit approval process.
+
+Telmark retains title to the equipment or building  leased.  In addition,  where
+appropriate, Telmark obtains a lien on certain other property of the customer as
+collateral  for payments  under a lease (e.g. a lien on the real estate owned by
+the customer as collateral for payments under a building lease). In addition, we
+often  intervene in potential  default  scenarios  and work with the customer to
+return the lease to current status. We maintain monthly  delinquency  reports to
+monitor  leases  that  have  been  delinquent  for  over  30  days,  as  well as
+non-earning leases.  Generally,  accounts past due at least 120 days, as well as
+accounts in foreclosure or bankruptcy,  are  transferred to non-earning  status.
+The potential losses from non-earning leases are partly offset by our ability to
+repossess  leased  property and to foreclose on other  property in which we have
+been  granted a security  interest.  Accounts are  generally  written off at the
+earlier of the time they are determined to be  uncollectible or when they become
+one year past due.
+
+Although we retain title to the leased  property,  our customers are responsible
+for insurance, repairs, maintenance, service, and property taxes relating to the
+leased property.  In many cases, we pay certain costs (e.g., property taxes) and
+bill the customer for the  appropriate  amount.  At the expiration of the direct
+finance lease term, the lessee has an option to:
+
+        o        purchase the leased property,
+        o        renew the lease, or
+        o        return the leased property to us.
+
+Historically,  in most of our lease  transactions,  the lessee has purchased the
+leased  property  or  equipment  upon  termination  of the lease at the price we
+determined to constitute fair market value of the property.
+
+We may not be able to collect lease payments  under a variety of  circumstances,
+including:
+
+        o        Bankruptcy of the customer;
+        o        Defaults by customer; or
+        o        Contract disputes between customers and suppliers.
+
+The  ultimate  collectibility  of  amounts  due  under our  leases  is  directly
+dependent upon the  creditworthiness  of our customers,  the credit practices we
+use to  evaluate  that  creditworthiness,  and the steps we take to protect  our
+ability to collect amounts due and/or take back the leased property. Although we
+follow our credit policies and establish reserves for bad debts, there are other
+factors  that  could  significantly  impact  a  customer's  ability  to pay and,
+consequently,   affect  our  lease  collection   experience  and  our  earnings.
+Additional factors that might impact our ability to collect lease payments are:
+
+        o        Changes in general economic conditions;
+        o        Changes  in  the  level  of  government  expenditures  on  farm
+                 programs and  other changes in government agricultural programs
+                 that adversely  affect the level of income of our customers;
+        o        Adverse  weather-related  conditions that negatively impact the
+                 agricultural productivity and income of customers; and
+        o        Oversupply of, or reduced  demand for, agricultural commodities
+                 produced by our customers.
+                                        5
+
+<PAGE>
+
+
+
+ITEM 1. & 2.  BUSINESS AND PROPERTIES (CONTINUED)
+
+We report our financial  results in only one segment.  See Item 7,  Management's
+Discussion  and Analysis of Financial  Condition and Results of  Operations  and
+Item 8,  Financial  Statements.  We realize net  earnings  if revenues  from our
+leases exceed our operating expenses and income taxes.
+
+        o        "Revenue"  from  a lease is the sum of all  payments  due under
+                 the lease plus  the residual value of the leased property, less
+                 the cost of purchasing the leased property.
+        o        "Operating  expenses" include  interest expense,  provision for
+                 credit  losses (the dollar  amount  Telmark sets aside to cover
+                 its  estimated  losses should  a customer fail to make required
+                 payments   under  a   lease),    and   selling,   general   and
+                 administrative  expenses,  including  our payroll costs,  rent,
+                 advertising  costs and  fees paid for credit checking and legal
+                 and accounting services.
+         o       "Interest  expense"  is the single largest operating expense of
+                 Telmark  and  is  primarily  the  interest  it must  pay on the
+                 amounts  borrowed from banks and other investors to finance the
+                 leases it makes to customers.
+
+We lease  all of our  office  space  from  Agway.  We do not own any of the real
+property we use for office  facilities.  As of August 29, 2002,  Telmark had 226
+employees.
+
+As noted above,  we are a direct wholly owned  subsidiary of Agway. On September
+14,  2001,  Agway  pledged  its  membership  interest  in Telmark as  additional
+collateral under an asset-based credit agreement Agway has with certain lenders.
+In the event Agway  defaults  on its  obligations  under this credit  agreement,
+Agway lenders could choose among the remedies available to them, to foreclose on
+the Telmark  membership  interest  pledged as security,  which would result in a
+change of  control  of  Telmark.  Agway  has  previously  disclosed  that it has
+violated  certain of the  financial  covenants in that credit  agreement  and is
+likely to violate those  covenants in the future.  However,  it is expected that
+Agway's credit  agreement will be replaced with  Debtor-in-Possession  financing
+with its existing lender group pending approval of the Bankruptcy  Court.  While
+this new Agway credit  agreement  continues to include a pledge of Telmark stock
+as collateral,  Agway has indicated to Telmark that it believes the covenants as
+revised are  appropriate to Agway's  current  circumstances.  Foreclosure on the
+Telmark stock would  require a default under the new Agway  Debtor-in-Possession
+facility.  While there can be no assurances,  the  possibility of foreclosure is
+considered  remote.  Also as noted above,  Agway is currently pursuing strategic
+alternatives  involving Telmark,  which could also result in a change of control
+of Telmark. The impact of a change in control of Telmark cannot be determined at
+this time and would  depend  upon the  circumstances  relating  to the change in
+control and the  decisions  made by the future  owner and certain of the Company
+lenders and financing  sources in connection with a change in control and future
+operations of the company.  See the Liquidity and Capital  Resources  Section of
+Item 7, Management's  Discussion and Analysis of Financial Condition and Results
+of Operations.
+
+ We have three wholly owned subsidiaries:
+
+        o        Telease Financial Services, Ltd.;
+        o        Telmark Lease Funding II, LLC; and
+        o        Telmark Lease Funding III, LLC.
+
+Telease Financial  Services,  Ltd. is  a Canadian  Corporation formed to conduct
+certain lease  transactions with Canadian  customers.  Telmark Lease Funding II,
+LLC, and Telmark  Lease Funding III, LLC were  established  solely to enable the
+lease securitization financings entered into in 1999 and 2000, respectively.
+
+ITEM 3.  LEGAL PROCEEDINGS
+
+We are not a party to any  litigation or legal  proceedings  pending,  or to the
+best  of  our  knowledge  threatened,  which,  in  the  opinion  of  management,
+individually  or in the aggregate,  would have a material  adverse affect on our
+results of operations, financial position, or liquidity.
+
+ITEM 4.  SUBMISSION OF MATTERS TO VOTE OF SECURITY HOLDERS
+
+Not required.
+                                        6
+<PAGE>
+                                     PART II
+ITEM 5.  MARKET FOR THE REGISTRANT'S COMMON EQUITY AND RELATED MEMBERSHIP
+         MATTERS (THOUSANDS OF DOLLARS)
+Effective July 1, 1998,  Telmark Inc's.  common stock was cancelled by virtue of
+the merger of Telmark Inc. with and into Telmark LLC, with Telmark LLC being the
+surviving entity in the merger. We have one limited liability company membership
+interest  outstanding,  which is directly and wholly owned by Agway.  See Item 1
+and 2 for  discussion  of the merger of AHI into Agway,  the pledge of Telmark's
+membership  interest  by Agway and the  status  of  Agway's  divestment  process
+announced  on March  6,  2002.  There is no  public  market  for the  membership
+interest and we do not expect one to develop. In the fiscal years ended June 30,
+2002 and 2000,  distributions  of $10,000 and $5,000  respectively,  in member's
+equity  were  declared.  During  the year  ended  June 30,  2001,  there  was no
+distribution of member's equity declared.  Under a loan covenant,  distributions
+of member equity are  prohibited to the extent they exceed 50% of net income for
+the  period  beginning  on July 1,  2000,  through  the  date of  determination,
+inclusive.  As of June 30,  2002,  $3,100 of  member's  equity  was free of this
+restriction.  Telmark does not have a formal  distribution  policy and generally
+makes permissible distributions when and if requested by its parent, Agway.
+
+ITEM 6.  SELECTED FINANCIAL DATA
+Not required.
+
+ITEM 7.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+         OF OPERATIONS (THOUSANDS OF DOLLARS)
+Telmark  operates  in one  reportable  segment  of  direct  finance  leasing  of
+agricultural related equipment, vehicles and buildings to farmers or other rural
+businesses that serve the agricultural marketplace. Leases and notes outside the
+United States represent less than one half of 1% of the total assets of Telmark.
+
+2002 COMPARED TO 2001.
+NET INCOME
+Our net income  increased  by $2,100  (17.2%) from $12,200 in 2001 to $14,300 in
+2002.
+<TABLE>
+<CAPTION>
+                                            FY 2002           FY 2001           $ INCREASE       % INCREASE
+                                            -------           -------           ----------       ----------
+         <S>                                <C>               <C>               <C>              <C>
+         Net income                         $14,300           $12,200           2,100            17.2%
+</TABLE>
+The increase was principally due to increased revenue from a larger  outstanding
+portfolio of leases during 2002 as compared to 2001,  and overall lower interest
+rates on the  outstanding  debt  compared  to the prior  year,  all of which was
+partially offset by an increase in selling,  general and administrative expenses
+and an increase in the provision for credit losses, as discussed below.
+
+TOTAL REVENUES
+Total revenues of $90,200 in 2002  increased  $4,000 (4.6%) as compared to total
+revenues of $86,200 in 2001.
+<TABLE>
+<CAPTION>
+                                            FY 2002           FY 2001           $ INCREASE       % INCREASE
+                                            -------           -------           ----------       ----------
+         <S>                                <C>               <C>               <C>              <C>
+         Total revenues                     $90,200           $86,200           4,000            4.6%
+</TABLE>
+The increase in our total revenues this year is mostly due to an increase in our
+average  investment in leases and notes,  as compared to the prior year,  partly
+offset by a lower average income rate on the outstanding portfolio.  Average net
+investment  in leases and notes for the fiscal year ended June 30, 2002 compared
+to the prior year is as follows:
+<TABLE>
+<CAPTION>
+                                            FY 2002           FY 2001           $ INCREASE       % INCREASE
+                                            -------           -------           ----------       ----------
+         <S>                                <C>               <C>               <C>              <C>
+         Average net investment             $736,000          $691,200          44,800           6.5%
+</TABLE>
+INTEREST EXPENSE
+Total  interest  expense of  $33,900  decreased  $3,000  (8.1%) as  compared  to
+interest expense of $36,900 in 2001.
+<TABLE>
+<CAPTION>
+                                            FY 2002           FY 2001           ($ DECREASE)     (% DECREASE)
+                                            -------           -------           ------------     ------------
+         <S>                                <C>               <C>               <C>              <C>
+         Interest expense                   $33,900           $36,900           (3,000)          (8.1%)
+</TABLE>
+                                        7
+<PAGE>
+ITEM 7.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+         RESULTS OF OPERATIONS (THOUSANDS OF DOLLARS) (CONTINUED)
+INTEREST EXPENSE (CONTINUED)
+The decrease in our interest  expense is due to lower average  interest rates on
+the outstanding  debt compared to the prior year,  which was partially offset by
+an increase in the average  amount of debt  required to finance the  increase in
+the amount of net leases and notes.
+
+Average debt for the fiscal year ended June 30, 2002  compared to the prior year
+is as follows:
+<TABLE>
+<CAPTION>
+                                            FY 2002           FY 2001           $ INCREASE       % INCREASE
+                                            -------           -------           ----------       ----------
+         <S>                                <C>               <C>               <C>              <C>
+         Average debt                       $572,300          $544,700          27,600           5.1%
+</TABLE>
+SELLING, GENERAL AND ADMINISTRATIVE EXPENSES
+Selling,  general and  administrative  expenses of $21,700 in 2002  increased by
+$3,200 (17.3%) compared to expenses of $18,500 in 2001.
+<TABLE>
+<CAPTION>
+                                            FY 2002           FY 2001           $ INCREASE       % INCREASE
+                                            -------           -------           ----------       ----------
+         <S>                                <C>               <C>               <C>              <C>
+         Selling, general
+         and administrative expenses        $21,700           $18,500           3,200            17.3%
+</TABLE>
+The increase was primarily the result of higher  information  services  expenses
+due to  costs  associated  with the  implementation  of a new  lease  accounting
+system,  and  additional  personnel  and  incentive  costs  relating  to overall
+profitability, retention of business, and profitability of new business.
+
+PROVISION FOR CREDIT LOSSES
+The  provision  for credit  losses of $10,000 in 2002  represents an increase of
+$500 (5.3%) compared to a provision for credit losses of $9,500 in 2001.
+<TABLE>
+<CAPTION>
+                                            FY 2002           FY 2001           $ INCREASE       % INCREASE
+                                            -------           -------           ----------       ----------
+         <S>                                <C>               <C>               <C>              <C>
+         Provision for Credit Losses        $10,000           $9,500            500              5.3%
+</TABLE>
+This  provision  for credit  losses is based on our  analysis  of the  allowance
+required to provide  for  uncollectible  receivables.  Telmark's  allowance  for
+credit losses is based on a periodic  review of the  collection  history of past
+leases,  current  credit  practices,  an analysis of  delinquent  accounts,  and
+current  economic  conditions.  At June 30, 2002 the allowance for credit losses
+was $37,100  compared to $35,500 at June 30, 2001. In establishing our allowance
+for credit losses,  no special  consideration was given to the credit worthiness
+of Agway,  because we expect that payment on the leases will continue to be made
+in the ordinary  course.  A summary of the changes in the  allowance  for credit
+losses is as follows:
+                                            FY 2002             FY 2001
+                                            --------            --------
+         Balance, beginning of year         $ 35,500            $ 32,500
+         Provision for credit losses          10,000               9,500
+         Charge-offs                         (14,800)             (9,900)
+         Recoveries                            6,400               3,400
+                                            --------            --------
+                  Balance, end of year      $ 37,100            $ 35,500
+                                            ========            ========
+During 2002 and 2001,  the total value of  non-earning  accounts  increased from
+$6,400 in 2001 to $7,400 in 2002 which as a  percentage  of the lease  portfolio
+increased from 0.9% in 2001 to 1.0% in 2002. Additionally,  the average level of
+current  accounts for 2002 was 97.3%,  which is slightly below the average level
+of current  accounts  during 2001 of 97.4%.  Charge-offs  net of recoveries were
+$8,400 in 2002 versus $6,500 for 2001, due in part to a general weakening in the
+transportation  and  forestry  sectors.  The  allowance  for  credit  losses  is
+established  at a level  management  believes is sufficient  to cover  estimated
+losses in the portfolio.
+
+PROVISION FOR INCOME TAXES
+The  provision for income taxes of $10,300 in 2002 as compared to $9,100 in 2001
+results  in an  effective  tax of 41.7%  and  42.7%,  respectively.  Telmark  is
+currently included in consolidated federal and state tax returns filed by Agway.
+Under  Telmark's tax sharing  arrangement  with Agway,  the provision for income
+taxes and  related  credits  and carry  forwards  are  calculated  on a separate
+company basis.
+                                       8
+<PAGE>
+ITEM 7.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+         RESULTS OF OPERATIONS (THOUSANDS OF DOLLARS) (CONTINUED)
+2001 COMPARED TO 2000.
+
+NET INCOME
+Our net income increased by $500 (4.3%) from $11,700 in 2000 to $12,200 in 2001.
+<TABLE>
+<CAPTION>
+                                            FY 2001           FY 2000           $ INCREASE       % INCREASE
+                                            -------           -------           ----------       ----------
+         <S>                                <C>               <C>               <C>              <C>
+         Net income                         $12,200           $11,700           500              4.3%
+</TABLE>
+
+The increase was principally due to increased revenue from a larger  outstanding
+portfolio of leases during 2001 as compared to 2000.
+
+TOTAL REVENUES
+Total revenues of $86,200 in 2001 increased  $9,400 (12.2%) as compared to total
+revenues of $76,800 in 2000.
+<TABLE>
+<CAPTION>
+                                            FY 2001           FY 2000           $ INCREASE       % INCREASE
+                                            -------           -------           ----------       ----------
+         <S>                                <C>               <C>               <C>              <C>
+         Total revenues                     $86,200           $76,800           9,400            12.2%
+</TABLE>
+The increase in our total revenues this year is mostly due to an increase in our
+average  investment in leases and notes,  as compared to the prior year,  partly
+offset by a lower income rate on new and replacement  leases and notes.  Average
+net  investment  in leases  and notes for the fiscal  year  ended June 30,  2001
+compared to the prior year is as follows:
+<TABLE>
+<CAPTION>
+                                            FY 2001           FY 2000           $ INCREASE       % INCREASE
+                                            -------           -------           ----------       ----------
+         <S>                                <C>               <C>               <C>              <C>
+         Average net investment             $691,200          $614,400          76,800           12.5%
+</TABLE>
+INTEREST EXPENSE
+Total  interest  expense of $36,900  increased  $5,400  (17.1%) as  compared  to
+interest expense of $31,500 in 2000.
+<TABLE>
+<CAPTION>
+                                            FY 2001           FY 2000           $ INCREASE       % INCREASE
+                                            -------           -------           ----------       ----------
+         <S>                                <C>               <C>               <C>              <C>
+         Interest expense                   $36,900           $31,500           5,400            17.1%
+</TABLE>
+The increase in our interest expense is due to an increase in the average amount
+of debt  required to finance the increase in the amount of net leases and notes,
+combined with higher interest rates on new and replacement  debt compared to the
+prior year.
+
+Average debt for the fiscal year ended June 30, 2001  compared to the prior year
+is as follows:
+<TABLE>
+<CAPTION>
+                                            FY 2001           FY 2000           $ INCREASE       % INCREASE
+                                            -------           -------           ----------       ----------
+         <S>                                <C>               <C>               <C>              <C>
+         Average debt                       $544,700          $473,400          71,300           15.1%
+</TABLE>
+SELLING, GENERAL AND ADMINISTRATIVE EXPENSES
+Selling,  general and  administrative  expenses of $18,500 in 2001  increased by
+$1,200 (6.9%) compared to expenses of $17,300 in 2000.
+<TABLE>
+<CAPTION>
+                                            FY 2001           FY 2000           $ INCREASE       % INCREASE
+                                            -------           -------           ----------       ----------
+         <S>                                <C>               <C>               <C>              <C>
+         Selling, general
+         and administrative expenses        $18,500           $17,300           1,200            6.9%
+</TABLE>
+The increase was  primarily  the result of  additional  personnel  and incentive
+costs   relating  to  overall   profitability,   retention  of   business,   and
+profitability of new business.
+
+PROVISION FOR CREDIT LOSSES
+The  provision  for credit  losses of $9,500 in 2001  represents  an increase of
+$1,600 (20.2%) compared to a provision for credit losses of $7,900 in 2000.
+<TABLE>
+<CAPTION>
+                                            FY 2001           FY 2000           $ INCREASE       % INCREASE
+                                            -------           -------           ----------       ----------
+         <S>                                <C>               <C>               <C>              <C>
+         Provision for Credit Losses        $9,500            $7,900            1,600            20.2%
+</TABLE>
+                                        9
+<PAGE>
+ITEM 7.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+         RESULTS OF OPERATIONS (THOUSANDS OF DOLLARS) (CONTINUED)
+
+PROVISION FOR CREDIT LOSSES (CONTINUED)
+
+This  provision  for credit  losses is based on our  analysis  of the  allowance
+required to provide  for  uncollectible  receivables.  Telmark's  allowance  for
+credit losses is based on a periodic  review of the  collection  history of past
+leases,  current  credit  practices,  an analysis of  delinquent  accounts,  and
+current  economic  conditions.  At June 30, 2001 the allowance for credit losses
+was $35,500  compared to $32,500 at June 30,  2000.  A summary of the changes in
+the allowance for credit losses is as follows:
+
+                                            FY 2001             FY 2000
+                                            --------            --------
+         Balance, beginning of year         $ 32,500            $ 30,000
+         Provision for credit losses           9,500               7,900
+         Charge-offs                          (9,900)             (9,200)
+         Recoveries                            3,400               3,800
+                                            --------            --------
+                  Balance, end of year      $ 35,500            $ 32,500
+                                            ========            ========
+
+During 2001 and 2000,  the total value of  non-earning  accounts  increased from
+$6,000 in 2000 to $6,400 in 2001,  which as a percentage of the lease  portfolio
+remained  unchanged  at 0.9% for both 2000 and 2001.  Additionally,  the average
+level of current  accounts  for 2001 was  97.4%,  which is  consistent  with the
+average level of current accounts during 2000 of 97.5%. Reserves are established
+at a level  management  believes is sufficient to cover estimated  losses in the
+portfolio.
+
+PROVISION FOR INCOME TAXES
+The  provision  for income taxes of $9,100 in 2001 as compared to $8,400 in 2000
+results  in an  effective  tax of 42.7%  and  41.6%,  respectively.  Telmark  is
+included in a  consolidated  federal tax return  filed by Agway and through June
+30, 2001, the consolidated state tax return of AHI. In Agway's revised corporate
+structure,  Telmark  will be  included in the  consolidated  state tax return of
+Agway.  Under Telmark's tax sharing  arrangement  with Agway,  the provision for
+income taxes and related credits and carry forwards are calculated on a separate
+company basis.
+
+LIQUIDITY AND CAPITAL RESOURCES
+The ongoing  availability  of  adequate  financing  to maintain  the size of our
+portfolio  and to  permit  lease  portfolio  growth  is  key  to our  continuing
+profitability  and  stability.  We have  principally  financed  our  operations,
+including the growth of our lease portfolio,  through borrowings under our lines
+of credit, private placements of debt with institutional  investors,  other term
+debt,  subordinated  debentures,  lease-backed notes,  principal  collections on
+leases and cash provided from operations.  Total assets have grown at an average
+annual  rate of 10% over the past five  years.  Our  liability  to equity  ratio
+increased from 4.7 in 2001 to 4.8 in 2002.
+                                        FY 2002        FY 2001          FY 2000
+                                       ---------      ---------        ---------
+
+         CASH IN FLOWS
+         Cash flows from operations    $ 26,900       $ 29,700         $ 24,400
+         Cash flows from financing       12,000         42,900           59,000
+                                       ---------      ---------        ---------
+                  Total cash in flows    38,900         72,600           83,400
+                                       =========      =========        =========
+         CASH OUT FLOWS
+         Cash flows from investing      (38,900)       (72,600)         (83,400)
+                                       ---------      ---------        ---------
+
+                  Total cash out flows $(38,900)      $(72,600)        $(83,400)
+                                       =========      =========        =========
+
+Telmark  supports  a  net  lease  receivable  portfolio  of  $716,800.  We  have
+historically  generated  and expect to continue to generate  ample  earnings and
+cash flow to meet our debt service requirements. Virtually all of the cash flows
+from  operations  have  historically  been  invested  in  growth  of  the  lease
+portfolio, repayment of debt and dividends to Agway.
+
+                                       10
+<PAGE>
+ITEM 7.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+         RESULTS OF OPERATIONS (THOUSANDS OF DOLLARS) (CONTINUED)
+
+LIQUIDITY AND CAPITAL RESOURCES (CONTINUED)
+<TABLE>
+<CAPTION>
+
+At June 30,  2002,  Telmark  borrowings  under  lines of  credit,  term debt and
+subordinated debentures consisted of the following:
+<S>                                                                                                <C>
+
+Lines of credit and revolving loans payable to banks due in varying amounts and dates through
+February 13, 2006, with interest ranging from 2.53% to 7.47%.......................................$379,263
+
+Unsecured notes payable to insurance companies due in varying amounts and dates through
+December 1, 2012, with interest ranging from 6.55% to 8.72%........................................ 106,667
+
+Lease-backed notes payable to insurance companies in varying amounts and dates through
+December 15, 2008, with interest rates ranging from 6.54% to 9.05%.................................  52,909
+                                                                                                   --------
+
+Total borrowings under lines of credit and term debt............................................... 538,839
+
+Subordinated debentures due in varying amounts and dates through March 31, 2010, with interest
+ranging from 6.25% to 9.00%........................................................................  44,800
+                                                                                                   --------
+Total debt.........................................................................................$583,639
+                                                                                                   ========
+</TABLE>
+
+LINES OF CREDIT AND REVOLVING LOANS
+As of June 30, 2002,  Telmark has credit  facilities  available from banks which
+allow it to borrow up to an aggregate of $429,300.  Uncommitted  short-term line
+of credit  agreements  permit borrowing up to $54,300 on an unsecured basis with
+interest paid upon  maturity.  The lines bear interest at money market  variable
+rates.  Committed  partially  collateralized  revolving loan facilities totaling
+$375,000  permit  Telmark to draw  short-term  funds  bearing  interest at money
+market rates or draw  long-term  debt at rates  appropriate  for the term of the
+note  drawn.  The  total  amount  outstanding  as of June 30,  2002,  under  the
+short-term  lines of credit and the revolving term loan facility was $51,263 and
+$328,000, respectively.
+
+Telmark borrows under its short-term line of credit agreements and its revolving
+term agreement from time to time to fund its operations.  Short-term debt serves
+as interim  financing  between the issuances of long-term debt. In addition,  in
+consideration of the potential sale of the business,  management made a decision
+to use short-term  debt through a potential  closing date instead of pursuing an
+issuance of additional long-term debt. In May 2002, after lengthy  negotiations,
+Agway and a potential  buyer were unable to reach final  agreement  on a sale of
+Telmark.  Accordingly,  Telmark  decided  to issue  additional  senior  notes to
+insurance  companies.  On August 1, 2002,  Telmark issued  $100,000 of unsecured
+senior  notes to insurance  companies.  Proceeds of these notes were used to pay
+down the revolving term loan facility,  increasing  the  availability  under the
+lines of credit and revolving loans discussed above.
+
+Unsecured Notes Payable to Insurance Companies
+At June 30, 2002,  Telmark had  balances  outstanding  on unsecured  senior note
+private placements totaling $106,677.  Interest is payable  semiannually on each
+senior  note.  Principal  payments  are both  semiannual  and  annual.  The note
+agreements  are  similar  to each  other and each  contains  specific  financial
+covenants.  For the year ended June 30,  2002,  Telmark  has  complied  with all
+covenants contained in its borrowing agreements.
+
+Lease-Backed Notes Payable to Insurance Companies
+Telmark  has  issued  lease-backed  notes,   through  two  wholly  owned,  fully
+consolidated,  special purpose funding subsidiaries. The total outstanding under
+Telmark Lease Funding II, LLC and Telmark Lease Funding III, LLC was $13,128 and
+$39,781, respectively as of June 2002.
+
+Subordinated Debentures
+In anticipation of the possible sale of Telmark,  effective as of March 6, 2002,
+Telmark  ceased  issuing  debentures  to the public,  other than pursuant to the
+interest  reinvestment  option of the debentures.  Under that option,  debenture
+holders  may elect to receive  interest on  debentures  either in cash or in the
+form of  additional  principal  on the  debentures.  However,  once a  debenture
+reaches  maturity,  the holder will not be  permitted  to invest the proceeds in
+additional debentures.
+
+                                       11
+<PAGE>
+ITEM 7.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+         RESULTS OF OPERATIONS (THOUSANDS OF DOLLARS) (CONTINUED)
+
+LIQUIDITY AND CAPITAL RESOURCES  (CONTINUED)
+
+On March 6, 2002,  Agway, the owner of 100% of the equity of Telmark,  announced
+its  intention  to pursue the sale of Telmark to a third party as part of a plan
+that  would  have  Agway  focus on fewer  businesses.  Agway  has  retained  the
+investment  banking  firm  Goldman,  Sachs & Co. to assist  in  pursuing  a sale
+transaction.  The  impact,  if any,  of a change of  control  of  Telmark on its
+outstanding  borrowings cannot be predicted.  However, if Agway is successful in
+finding a buyer for Telmark,  a change of control of Telmark and  ownership by a
+new owner might  result in changes to the  operations  and capital  structure of
+Telmark. In particular,  a buyer may have different financing needs than Telmark
+currently has, may have available to it lower-cost  financing  alternatives than
+those currently  available to Telmark or may be required by our lenders to repay
+outstanding debt. As a result, a buyer might choose to or be required to replace
+some or all of  Telmark's  sources of  capital,  which could  involve  redeeming
+outstanding  debentures and repaying  outstanding  debt in accordance with their
+terms.  Such repayment may involve certain costs in addition to the repayment of
+principal and interest,  such as termination fees or "make whole" payments.  See
+Note 5 to the  Consolidated  Financial  Statements  "Borrowings  under  lines of
+Credit and Term Debt."
+
+In addition,  Agway's membership interest in Telmark has been pledged to General
+Electric  Capital  Corporation,  as lender  and agent on behalf of a  syndicated
+group of lenders,  as additional  collateral with respect to certain obligations
+of Agway.  While the terms of the pledge  generally  do not  restrict  Telmark's
+operations,  Telmark has  acknowledged  and agreed to the pledge,  has agreed to
+cooperate with Agway's lenders in respect to their rights under the pledge,  and
+has agreed to refrain from creating any lien or encumbrance  with respect to the
+equity of Telmark  subsidiaries.  As discussed in Agway's public filings,  Agway
+has violated the  financial  covenants in its lending  agreements on a number of
+occasions  and it is likely  that such  violations  may occur in the  future.  A
+foreclosure on the pledge following an event of default would result in a change
+of  control  of  Telmark,  giving  Telmark's  senior  lenders  rights  to demand
+repayment of existing  outstanding debt and requiring Telmark to find additional
+funding sources.  Depending upon the financial  markets and Telmark's  financial
+circumstances at that time, if the senior lenders chose to execute those rights,
+it could have a material  adverse  effect on  Telmark's  results of  operations,
+liquidity and financial position.
+
+Agway   simultaneously   with  this  filing,  will  announce  its  intention  to
+voluntarily  file  petitions  for  reorganization  under  Chapter 11 of the U.S.
+Bankruptcy  Code on October 1, 2002.  This filing WILL NOT include  Telmark LLC.
+Telmark is separately  financed,  as discussed above, and does not guarantee any
+debt of Agway Inc.  Agway Inc., in connection  with its intended  petition,  has
+agreed  to  terms  of a  $125,000  of  Debtor-in-Possession  financing  with its
+existing lender group,  pending approval of the Bankruptcy Court. While this new
+Agway  credit  arrangement  continues  to include a pledge of  Telmark  stock as
+collateral,  Agway has  indicated to Telmark  that it believes the  covenants as
+revised are appropriate to Agway's current circumstances. Foreclosure on Telmark
+stock would require a default under the new Agway Debtor-in-Possession facility.
+While there can be no assurances,  the  possibility of foreclosure is considered
+remote.
+
+As of June 30,  2002,  Telmark had entered into leases with Agway and certain of
+its subsidiaries  representing a net investment of approximately  $19,900, which
+represents  Telmark's  greatest exposure to a single customer.  The inability of
+Agway or its  subsidiaries  to pay those  leases on time  could  have a material
+adverse effect of Telmark's  operating  results and  liquidity.  Notwithstanding
+Agway's  intended  Bankruptcy  filing discussed above, it is expected that these
+leases will continue to be paid in accordance with their terms. On September 16,
+2002, subsequent to Telmark's year end, Agway's Sunflower operation sold and the
+Telmark lease obligation totaling  approximately  $3,400 was paid off as part of
+this transaction.
+
+                                       12
+<PAGE>
+ITEM 7.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+         RESULTS OF OPERATIONS (THOUSANDS OF DOLLARS) (CONTINUED)
+
+OTHER MATTERS
+
+CRITICAL ACCOUNTING POLICIES
+Critical  accounting  policies  are  those  accounting  policies  that  are very
+important to the  portrayal of the  Company's  financial  condition  and results
+which require  management's  most difficult,  subjective or complex  judgements,
+often as a result of the need to make estimates about the effect of matters that
+are inherently uncertain.  The Company believes the following to be critical and
+could result in materially different  amounts  being  reported  under  different
+conditions or using different assumptions.
+
+Lease Accounting
+   Completed lease contracts,  which qualify as direct finance leases as defined
+by Statement of Financial  Accounting  Standards ("SFAS") No. 13 "Accounting for
+Leases," are  accounted  for by recording on the balance  sheet the total future
+minimum lease  payments  receivable,  plus the estimated  unguaranteed  residual
+value of leased  equipment,  less the  unearned  interest  and finance  charges.
+Unearned  interest and finance charges  represent the excess of the total future
+minimum lease payments plus the estimated  unguaranteed  residual value expected
+to be  realized  at the end of the  lease  term  over  the  cost of the  related
+equipment. Interest and finance charge income is recognized as revenue, by using
+the interest  method over the term of the lease,  which for most  commercial and
+agricultural  leases  is 60 months or less  with a  maximum  of 180  months  for
+buildings.  Income recognition is suspended on all leases and notes which become
+past due greater than 120 days.
+
+   Initial direct costs  incurred in  consummating a lease are not expensed when
+the lease is originated.  The expense is capitalized and amortized over the life
+of the lease.  This  deferral of expenses has the effect of reducing the expense
+recorded  in the  period  the  lease  is  booked,  and  increasing  the  expense
+recognized over the remaining life of the lease.
+
+Provision for Credit Loss
+   The  provision  for credit  losses is based on our analysis of the  allowance
+required to provide  for  uncollectible  receivables.  Telmark's  allowance  for
+credit losses is based on a periodic  review of the  collection  history of past
+leases,  current  credit  practices,  an analysis of  delinquent  accounts,  and
+current economic conditions.
+
+   To  evaluate  the adequacy of the allowance for losses,  the Company utilizes
+certain  estimates  and  assumptions.   Management  bases  these  estimates  and
+assumptions  on  historical  experience  and on various  other  factors  that we
+believe to be reasonable under the circumstances applying different estimates on
+assumptions  could produce  materially  different results from those reported by
+the  Company.  At June 30,  2002 the  allowance  for credit  losses was  $37,100
+compared to $35,500 at June 30, 2001.
+
+Income Taxes
+   Telmark  provides  for income  taxes in  accordance  with the  provisions  of
+Statement of Financial  Accounting  Standards  (SFAS) No. 109,  "Accounting  for
+Income Taxes." Under the liability  method  specified by SFAS No. 109,  deferred
+tax assets and  liabilities  are based on the  difference  between the financial
+statement and tax basis of assets and  liabilities  as measured by the tax rates
+which are  anticipated  to be in effect  when  these  differences  reverse.  The
+deferred tax provision  represents the net change in the assets and  liabilities
+for deferred tax. A valuation allowance is established when it is necessary on a
+separate  company  basis to reduce  deferred  tax  assets to  amounts  for which
+realization  is  reasonably  assumed.  Realization  of  deferred  tax assets and
+payment of deferred tax  liabilities  are as a result of interaction  with Agway
+Inc.  through  the tax sharing  arrangement.  Telmark is  currently  included in
+consolidated  federal and state tax returns filed by Agway.  Under Telmark's tax
+sharing  arrangement,  the  provision  for income taxes and related  credits and
+carry forwards are calculated on a separate  company basis and billed to Telmark
+as appropriate on an interim basis.
+
+                                       13
+<PAGE>
+ITEM 7.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+         RESULTS OF OPERATIONS (THOUSANDS OF DOLLARS) (CONTINUED)
+
+OTHER MATTERS (CONTINUED)
+
+IMPACT OF RECENTLY ISSUED ACCOUNTING STANDARDS
+
+The Financial  Accounting Standards Board (FASB) has recently issued a number of
+Statements of Financial Accounting Standards (SFAS) including:
+
+   o   SFAS No. 141 - "Business Combinations"
+
+   o   SFAS No. 142 - "Goodwill and Other Intangible Assets"
+
+   o   SFAS No. 143 - "Accounting for Asset Retirement Obligations"
+
+   o   SFAS No. 144 - "Accounting  for  Impairment  or  Disposal  of  Long-Lived
+       Assets"
+
+   o   SFAS No. 146 -  "Accounting  for Costs  Associated  with Exit or Disposal
+       Activities"
+
+The  adoption  of these  standards  are not  expected  to have an  impact on the
+financial statements of the Company.
+
+                                       14
+<PAGE>
+ITEM 7A.  QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+          (THOUSANDS OF DOLLARS)
+
+The following  table provides  information  about  Telmark's debt securities and
+loans that are  sensitive  to  changes in  interest  rates.  The table  presents
+principal cash flows (in 000's) and related  weighted  average interest rates by
+contractual maturity dates.
+<TABLE>
+<CAPTION>
+
+FIXED INTEREST RATE                                                                                Fair Value
+LIABILITIES                       2003    2004     2005     2006     2007     Thereafter  Total    6/30/02
+                                 -------  -------  -------  -------  -------  ----------  -------- ----------
+<S>                              <C>      <C>      <C>      <C>      <C>      <C>         <C>      <C>
+Short Term Bank
+     and Revolving
+     Lines of Credit             $204,263 -        -        -        -        -           $204,263 $204,263
+Weighted Average
+      Interest Rate              2.79%    -        -        -        -        -
+
+Long-Term Debt,
+     including current portion   $112,626 79,248   42,279   61,217   16,873   22,333      $334,576 $349,018
+Weighted Average
+      Interest Rate              6.77%    6.75%    5.49%    6.66%    8.34%    8.52%
+
+Subordinated Debentures,
+     including current portion   $ 12,820 16,805   540      -        -        14,635      $ 44,800 $ 46,293
+Weighted Average
+     Interest Rate               8.43%    8.40%    6.25%    -        -        8.84%
+</TABLE>
+
+We do not use derivatives or other financial  instruments to hedge interest rate
+risk in our portfolio.  We try to limit the effects of changes in interest rates
+by matching as closely as possible,  on an ongoing basis,  the maturity and cost
+of the funds we borrow to finance our leasing  activities  with the maturity and
+repricing  characteristics  of our lease portfolio.  However, a rise in interest
+rates would increase the cost of funds we borrow to finance our lease portfolio,
+including  that  portion  of the debt  which  is not  precisely  matched  to the
+characteristics  of the portfolio.  Telmark has a formal risk management  policy
+which limits the  short-term  exposure to an amount which is  immaterial  to the
+results of operations or cash flows.
+
+The subordinated  debentures' interest rate is at the greater of the quoted rate
+or a rate based upon an average discount rate for U.S. Government Treasury Bills
+(T-Bill),  with maturities of 26 weeks.  Based on the T-Bill rate of 1.78% as of
+June 30, 2002,  as compared to the stated rates of the  debentures,  which range
+from 6.25% to 9.00% at June 30, 2002, we believe a reasonably possible near-term
+change in interest rates and the conversion of debt to a variable rate would not
+cause material near-term losses in future earnings or cash flows.  Finally,  for
+the portion of debt which is not  precisely  matched as of June 30, 2002,  we do
+not believe that reasonably  possible near-term increases in interest rates will
+result in a material  near-term loss in future  earnings,  fair values,  or cash
+flows of Telmark.
+
+                                       15
+<PAGE>
+ITEM 8.  FINANCIAL STATEMENTS
+
+                          INDEX TO FINANCIAL STATEMENTS
+<TABLE>
+<CAPTION>
+                                                                                                                 PAGES
+                                                                                                                 -----
+<S>                                                                                                              <C>
+TELMARK LLC AND CONSOLIDATED SUBSIDIARIES:
+         Report of Independent Accountants.......................................................................17
+
+         Consolidated Balance Sheets, June 30, 2002 and 2001.....................................................18
+
+         Consolidated Statements of Income and Member's Equity,
+                   for the years ended June 30, 2002, 2001 and 2000..............................................19
+
+         Consolidated Statements of Cash Flows for the years ended June 30, 2002, 2001 and 2000..................20
+
+         Notes to Consolidated Financial Statements..............................................................21
+</TABLE>
+
+                                       16
+<PAGE>
+                        REPORT OF INDEPENDENT ACCOUNTANTS
+
+To the Board of Directors
+ of Telmark LLC:
+
+In our opinion,  the  accompanying  consolidated  balance sheets and the related
+consolidated  statements of income and member's equity and of cash flows present
+fairly, in all material respects,  the financial position of Telmark LLC and its
+subsidiaries at June 30, 2002 and 2001, and the results of their  operations and
+their cash flows for each of the three  years in the period  ended June 30, 2002
+in conformity with accounting principles generally accepted in the United States
+of America.  These financial  statements are the responsibility of the Company's
+management;  our  responsibility  is to express  an  opinion on these  financial
+statements  based on our audits.  We conducted our audits of these statements in
+accordance with auditing  standards  generally  accepted in the United States of
+America,  which require that we plan and perform the audit to obtain  reasonable
+assurance   about  whether  the  financial   statements  are  free  of  material
+misstatement.  An audit includes examining, on a test basis, evidence supporting
+the  amounts  and  disclosures  in  the  financial  statements,   assessing  the
+accounting  principles  used and significant  estimates made by management,  and
+evaluating the overall  financial  statement  presentation.  We believe that our
+audits provide a reasonable basis for our opinion.
+
+As described in Note 1 in the financial statements,  Telmark LLC's parent, Agway
+Inc., expects to voluntarily file  petitions for reorganization under Chapter 11
+of the U.S.  Bankruptcy Code on October 1, 2002.  This bankruptcy  filing is not
+expected to include  Telmark LLC. In addition,  as further  described in Note 1,
+Agway Inc. is actively pursuing the sale of Telmark LLC.
+
+
+
+
+
+/s/PricewaterhouseCoopers LLP
+-----------------------------
+PricewaterhouseCoopers LLP
+
+Syracuse, New York
+September 27, 2002
+
+
+                                       17
+<PAGE>
+                    TELMARK LLC AND CONSOLIDATED SUBSIDIARIES
+
+                                 BALANCE SHEETS
+                             JUNE 30, 2002 AND 2001
+                             (THOUSANDS OF DOLLARS)
+
+
+                                     ASSETS
+<TABLE>
+<CAPTION>
+                                                          2002             2001
+                                                       ------------     ------------
+<S>                                                    <C>              <C>
+Restricted cash........................................$      6,014     $      8,306
+Leases and notes receivable, net.......................     716,798          688,878
+Investments............................................      15,784           14,695
+Equipment, net.........................................       1,648            1,017
+Other assets...........................................       1,575            1,700
+                                                       ------------     ------------
+
+      Total Assets.....................................$    741,819      $   714,596
+                                                       ============     ============
+
+
+                         LIABILITIES AND MEMBER'S EQUITY
+
+                                                          2002             2001
+                                                       ------------     ------------
+Accounts payable.......................................$     10,557     $      6,839
+Payable to Agway Inc...................................         674            5,652
+Accrued expenses, including interest of
+      $5,549 - 2002 and $5,562 - 2001 .................      12,363           10,315
+Deferred income taxes..................................       5,822            1,681
+Borrowings under short term bank lines of credit.......      51,263           71,138
+Borrowings under revolving loan facility...............     328,000          215,500
+Notes payable..........................................     159,576          240,260
+Subordinated debentures................................      44,800           38,772
+                                                       ------------     ------------
+
+
+      Total Liabilities................................     613,055          590,157
+
+Commitments & contingencies............................
+
+Member's equity........................................     128,764          124,439
+                                                       ------------     ------------
+
+      Total Liabilities and Member's equity............$    741,819     $    714,596
+                                                       ============     ============
+</TABLE>
+The  accompanying  notes  are an  integral  part of the  consolidated  financial
+statements.
+
+                                       18
+<PAGE>
+                    TELMARK LLC AND CONSOLIDATED SUBSIDIARIES
+                    STATEMENTS OF INCOME AND MEMBER'S EQUITY
+                FISCAL YEARS ENDED JUNE 30, 2002, 2001, AND 2000
+                             (THOUSANDS OF DOLLARS)
+<TABLE>
+<CAPTION>
+
+                                                2002           2001         2000
+                                             ---------     ----------    ---------
+<S>                                          <C>           <C>           <C>
+Revenues:
+     Interest and finance charges........    $ 88,378       $ 84,493     $ 75,131
+     Service fees and other income.......       1,785          1,700        1,654
+                                             ---------     ----------    ---------
+
+         Total revenues..................      90,163         86,193       76,785
+                                             ---------     ----------    ---------
+
+Expenses:
+     Interest expense....................      33,856         36,941       31,536
+     Provision for credit losses.........      10,049          9,461        7,899
+     Selling, general and administrative.      21,673         18,549       17,291
+                                             ---------     ----------    ---------
+
+         Total expenses..................      65,578         64,951       56,726
+                                             ---------     ----------    ---------
+
+         Income before income taxes......      24,585         21,242       20,059
+
+Provision for income taxes...............      10,260          9,076        8,352
+                                             ---------     ----------    ---------
+
+         Net income......................      14,325         12,166       11,707
+
+Member's equity, beginning of year.......     124,439        112,273      105,566
+
+Distribution of member's equity..........     (10,000)             0       (5,000)
+                                             ---------     ----------    ---------
+
+Member's equity, end of year.............    $128,764      $ 124,439     $112,273
+                                             =========     ==========    =========
+</TABLE>
+The  accompanying  notes  are an  integral  part of the  consolidated  financial
+statements.
+
+                                       19
+<PAGE>
+                    TELMARK LLC AND CONSOLIDATED SUBSIDIARIES
+                            STATEMENTS OF CASH FLOWS
+                FISCAL YEARS ENDED JUNE 30, 2002, 2001, AND 2000
+                             (THOUSANDS OF DOLLARS)
+
+INCREASE (DECREASE) IN CASH
+<TABLE>
+<CAPTION>
+
+                                                   2001          2000          1999
+                                                ---------     ----------    ----------
+<S>                                             <C>           <C>           <C>
+CASH FLOWS FROM OPERATING ACTIVITIES:
+     Net income   ............................. $  14,325     $ 12,166      $ 11,707
+     Adjustments to reconcile net income to
+       net cash from operating activities:
+         Depreciation and amortization.........       249          303           386
+         Deferred taxes........................     4,141        1,642         5,481
+         Provision for credit losses...........    10,049        9,461         7,899
+         Patronage refund received in stock....    (1,089)      (1,089)         (826)
+         Changes in assets and liabilities:
+              Other assets.....................       125           53          (408)
+              Payables.........................     3,718       (2,827)       2,974
+              Income taxes payable to Agway Inc.   (6,675)       7,750        (3,190)
+              Accrued expenses.................     2,048        2,254           403
+                                                ---------     ----------    ----------
+         Net cash flow provided by
+              operating activities.............    26,891       29,713        24,426
+                                                ---------     ----------    ----------
+
+CASH FLOWS FROM INVESTING ACTIVITIES:
+     Leases originated.........................  (252,406)    (271,216)     (272,270)
+     Leases repaid.............................   214,437      199,415       188,904
+     Purchases of equipment, net...............      (880)        (837)            0
+                                                ---------     ----------    ----------
+         Net cash flow used
+              in investing activities..........   (38,849)     (72,638)      (83,366)
+                                                ---------     ----------    ----------
+
+CASH FLOWS FROM FINANCING ACTIVITIES:
+     Net change in borrowings under
+         short term bank and revolving
+         lines of credit.......................    63,625       65,462        (3,080)
+     Proceeds from revolving loan..............    48,000      120,800       143,100
+     Repayment of revolving loan...............   (19,000)    (139,300)      (91,644)
+     Proceeds from notes payable...............         0       61,000             0
+     Repayment of notes payable................   (42,833)     (33,500)      (24,000)
+     Proceeds from lease backed notes..........         0            0        68,100
+     Repayment of lease backed notes...........   (37,851)     (27,496)       (8,645)
+     Net change in payable to Agway Inc.
+         excluding income taxes................     1,697       (2,212)      (19,033)
+     Proceeds from sale of debentures..........    13,789        5,888        18,145
+     Repayment of debentures...................    (7,761)      (4,514)      (18,380)
+     Distribution of member's equity...........   (10,000)      (5,000)            0
+     Net change in restricted cash.............     2,292        1,797        (5,623)
+                                                ---------     ----------    ----------
+         Net cash flow provided by
+                financing activities...........    11,958       42,925        58,940
+                                                ---------     ----------    ----------
+
+     Net change in cash........................         0            0             0
+     Cash at beginning of year.................         0            0             0
+                                                ---------     ----------    ----------
+     Cash at end of year....................... $       0     $      0      $      0
+                                                =========     ==========    ==========
+     Cash paid during period for:
+         Interest ............................. $  33,869     $ 35,399      $ 30,774
+         Income Taxes
+         (including amounts paid to Agway Inc.) $  13,980     $   (345)     $  6,202
+
+</TABLE>
+
+The  accompanying  notes  are an  integral  part of the  consolidated  financial
+statements.
+
+                                       20
+<PAGE>
+                    TELMARK LLC AND CONSOLIDATED SUBSIDIARIES
+                          NOTES TO FINANCIAL STATEMENTS
+                             (THOUSANDS OF DOLLARS)
+1. SIGNIFICANT ACCOUNTING POLICIES
+
+Operations
+      Telmark LLC  ("Telmark" or the "Company") was organized in 1964 as Telmark
+Inc. under the Business Corporation Law of the State of New York. Effective July
+1, 1998,  Telmark Inc. was merged into Telmark LLC, a Delaware limited liability
+company  that was formed  solely to carry on the  business of Telmark in limited
+liability  company,  rather than corporate  form.  Telmark is in the business of
+leasing  agricultural  related  equipment,  vehicles,  and buildings.  Telmark's
+customers are farmers and other rural  businesses as well as  manufacturers  and
+independent  dealers that serve the agricultural  marketplace.  Telmark operates
+throughout the continental  United States and Canada.  On July 1, 2001,  Telmark
+became a direct  wholly owned  subsidiary  of Agway Inc.  ("Agway"),  one of the
+largest  agricultural  supply and services  cooperatives  in the United  States.
+Prior to July 1, 2001,  Telmark was a direct  wholly owned  subsidiary  of Agway
+Holdings Inc. ("AHI") an indirect  subsidiary of Agway.  Effective July 1, 2001,
+Agway simplified its corporate  structure by merging AHI into Agway and assuming
+all assets and liabilities of AHI.
+
+      On March 6, 2002,  Agway  announced  its  intention  to pursue the sale of
+Telmark to a third  party as part of a plan that would have Agway focus on fewer
+businesses.  Goldman  Sachs & Co.  is  assisting  Agway in  exploring  strategic
+alternatives for Telmark.
+
+      Agway's  membership  interest  in Telmark  has been  pledged to certain of
+Agway's lenders in order to secure Agway's obligations to those lenders.  Agway,
+simultaneously with this filing, will announce its intention to voluntarily file
+petitions for  reorganization  under Chapter  11 of the U.S.  Bankruptcy Code on
+October 1, 2002. This filing WILL NOT include Telmark LLC. Telmark is separately
+financed and does not  guarantee  any debt of Agway Inc.  Telmark and Agway have
+certain  business  arrangements,  including  leases which we do not expect to be
+impacted  by this  filing.  While we have no reason to expect  Agway's  intended
+Bankruptcy  filing will have a material effect on Telmark,  the ultimate impact,
+if any, on Telmark's  business,  financial  condition,  and results of operation
+cannot  be  determined  at  this  time.  Telmark  has  had  another  financially
+successful  year. For more information on the operations of Telmark see Item 7 -
+Management's  Discussion  and  Analysis of  Financial  Condition  and Results of
+Operations.
+
+Basis of Consolidation
+      The consolidated  financial  statements include the accounts of all wholly
+owned subsidiaries.  All significant intercompany transactions and balances have
+been eliminated in consolidation.
+
+Business Segments
+      Telmark  operates in one reportable  segment of direct finance  leasing of
+agricultural related equipment, vehicles and buildings to farmers or other rural
+businesses that serve the agricultural marketplace. Leases and notes outside the
+United States represent less than one half of 1% of the total assets of Telmark.
+
+Reclassifications
+      Certain   amounts  in  prior  years'   financial   statements   have  been
+reclassified to conform to the current year's  consolidated  financial statement
+presentation.
+
+Cash and Equivalents
+      Telmark  considers all investments with a maturity of three months or less
+when purchased to be cash equivalents.
+
+Restricted Cash
+      Certain cash accounts amounting to $6,014 and $8,306 at June 30, 2002, and
+2001, respectively, collateralize lease- backed notes payable. This cash is held
+in segregated cash accounts  pending  distribution and is restricted in its use.
+See Note 5.
+
+Lease Accounting
+      Completed  lease  contracts,  which  qualify as direct  finance  leases as
+defined  by  Statement  of  Financial   Accounting  Standards  ("SFAS")  No.  13
+"Accounting for Leases," are accounted for by recording on the balance sheet the
+total future minimum lease payments receivable,  plus the estimated unguaranteed
+residual  value of leased  equipment,  less the  unearned  interest  and finance
+charges. Unearned interest and finance charges represent the excess of the total
+future  minimum lease  payments plus the estimated  unguaranteed  residual value
+expected  to be  realized  at the end of the  lease  term  over  the cost of the
+related equipment.  Interest and finance charge income is recognized as revenue,
+by  using  the  interest  method  over  the term of the  lease,  which  for most
+commercial  and  agricultural  leases is 60 months or less with a maximum of 180
+months for  buildings.  Income  recognition is suspended on all leases and notes
+which become past due greater than 120 days.  As of June 30, 2002 and 2001,  the
+recognition of interest income was suspended on leases and notes totaling $7,391
+and $6,362, respectively.
+                                       21
+<PAGE>
+                    TELMARK LLC AND CONSOLIDATED SUBSIDIARIES
+                    NOTES TO FINANCIAL STATEMENTS (CONTINUED)
+                             (THOUSANDS OF DOLLARS)
+
+1. SIGNIFICANT ACCOUNTING POLICIES (CONT.)
+
+Lease Accounting (continued)
+      Certain  initial direct costs incurred in  consummating a lease as defined
+by SFAS No. 91 "Accounting  for  Nonrefundable  Fees and Costs  Associated  with
+Originating or Acquiring  Loans and Initial Costs of Leases" are capitalized and
+amortized  over the life of the lease.  This deferral of expenses has the effect
+of  reducing  the  expense  recorded  in the  period  the lease is  booked,  and
+increasing the expense recognized over the remaining life of the lease.
+
+       Initial direct costs deferred and amortization expense recognized were as
+follows for the years ended June 30:
+<TABLE>
+<CAPTION>
+                                                          2002            2001            2000
+                                                          ----            ----            ----
+           <S>                                            <C>             <C>             <C>
+           Expenses not recognized this year
+           and deferred to later years                    7,126           7,404           7,524
+
+           Expenses from prior years recognized
+           this year                                      6,664           5,887           5,643
+</TABLE>
+      Provisions  for credit losses are charged to income in amounts  sufficient
+to maintain the allowance at a level considered  adequate to cover losses in the
+existing  portfolio.  The net  investment  in a lease  is  charged  against  the
+allowance  for credit  losses when  determined  to be  uncollectible,  generally
+within one year of becoming past due.
+
+Investments
+      Investments comprise capital stock of a cooperative bank acquired from the
+bank at par or  stated  value.  This  stock is not  traded  and is  historically
+redeemed on a periodic  basis by the bank at cost. By its nature,  this stock is
+held for redemption and is reported at cost. Patronage refunds on this stock are
+recorded as a reduction  of interest  expense and totaled  $1,785,  $1,555,  and
+$1,180 for the years ended June 30, 2002, 2001, and 2000, respectively.
+
+Equipment
+      Depreciation  is  calculated  using  the  straight-line  method  over  the
+estimated useful lives of the equipment.
+
+Impairment of Long-Lived Assets
+      Long-lived  assets  to be  held  and  used by  Telmark  are  reviewed  for
+impairment  whenever  events  or  changes  in  circumstances  indicate  that the
+carrying  amount of an asset may not be  recoverable.  There were no charges for
+impairment for the years ended June 30, 2002, 2001, and 2000.
+
+Advertising Costs
+      Advertising  costs are expensed as incurred.  Advertising  expense for the
+years ended June 30,  2002,  2001,  and 2000,  was $1,143,  $1,171,  and $1,034,
+respectively.
+
+Income Taxes
+      Telmark  provides for income taxes in  accordance  with the  provisions of
+SFAS No. 109,  "Accounting for Income Taxes" on a separate company basis.  Under
+the  liability  method  specified  by SFAS No.  109,  deferred  tax  assets  and
+liabilities are based on the difference between the financial  statement and tax
+basis  of  assets  and  liabilities  as  measured  by the tax  rates  which  are
+anticipated  to be in effect when these  differences  reverse.  The deferred tax
+provision  represents the net change in the assets and  liabilities for deferred
+tax. A valuation  allowance  is  established  when it is necessary on a separate
+company basis to reduce deferred tax assets to amounts for which  realization is
+reasonably  assumed.  Realization of deferred tax assets and payment of deferred
+tax liabilities are as a result of interaction  with Agway Inc.  through the tax
+sharing arrangement.
+
+      Telmark  is  currently  included  in  consolidated  federal  and state tax
+returns filed by Agway.  For the period July 1, 1998 through June 30, 2001,  for
+State income tax filing purposes,  Telmark is included as a business division of
+AHI.  Effective July 1, 2001, for State income tax filing  purposes,  Telmark is
+included as a business of Agway Inc.  Under  Telmark's  tax sharing  arrangement
+with  Agway,  the  provision  for income  taxes and  related  credits  and carry
+forwards are  calculated  on a separate  company  basis and billed to Telmark as
+appropriate on an interim basis.
+                                       22
+<PAGE>
+                    TELMARK LLC AND CONSOLIDATED SUBSIDIARIES
+                    NOTES TO FINANCIAL STATEMENTS (CONTINUED)
+                             (THOUSANDS OF DOLLARS)
+
+1. SIGNIFICANT ACCOUNTING POLICIES (CONT.)
+
+Use of Estimates
+      The  preparation  of financial  statements in conformity  with  accounting
+principles   generally  accepted  in  the  United  States  of  America  requires
+management to make estimates and assumptions that affect the reported amounts of
+assets and  liabilities  and disclosure of contingent  assets and liabilities at
+the date of the financial  statements,  and the reported amounts of revenues and
+expenses  during the reporting  period.  Actual  results could differ from those
+estimates.
+
+New Accounting Standards
+
+The Financial  Accounting Standards Board (FASB) has recently issued a number of
+Statements of Financial Accounting Standards (SFAS) including:
+
+      o    SFAS No. 141 - "Business Combinations"
+      o    SFAS No. 142 - "Goodwill and Other Intangible Assets"
+      o    SFAS No. 143 - "Accounting for Asset Retirement Obligations"
+      o    SFAS No. 144 - "Accounting for Impairment  or  Disposal of Long-Lived
+           Assets"
+      o    SFAS No. 146 - "Accounting for Costs Associated with Exit or Disposal
+           Activities"
+
+The  adoption  of these  standards  are not  expected  to have an  impact on the
+financial statements of the Company.
+
+2. LEASES, NOTES AND ALLOWANCE FOR CREDIT LOSSES
+
+      Leases and notes as of June 30 were as follows:
+
+<TABLE>
+<CAPTION>
+                                                       2002              2001
+                                                   -----------       -----------
+      <S>                                          <C>               <C>
+      Leases:
+         Commercial and agricultural               $  964,233        $  936,162
+         Leasing to Agway Inc. and subsidiaries        31,060            30,813
+                                                   -----------       -----------
+                                                      995,293           966,975
+      Retail installment loans                         14,651            17,562
+                                                   -----------       -----------
+            Total leases and notes                 $1,009,944          $984,537
+</TABLE>
+                                                   ===========       ===========
+
+      Net investment in leases and notes at June 30 are summarized as follows:
+<TABLE>
+<CAPTION>
+
+                                                       2002              2001
+                                                   -----------       -----------
+      <S>                                          <C>               <C>
+      Leases and notes                             $1,009,944        $  984,537
+      Unearned interest and finance charges          (271,576)         (275,228)
+      Net deferred origination costs                   15,547            15,085
+                                                   -----------       -----------
+         Net investment                               753,915           724,394
+      Allowance for credit losses                     (37,117)          (35,516)
+                                                   -----------       -----------
+         Leases and notes receivable, net          $  716,798        $  688,878
+                                                   ===========       ===========
+</TABLE>
+
+Included within the above leases and notes are unguaranteed  estimated  residual
+values of leased property  approximating $110,400 and $103,700 at June 30, 2002,
+and 2001, respectively.
+
+                                       23
+<PAGE>
+                    TELMARK LLC AND CONSOLIDATED SUBSIDIARIES
+                    NOTES TO FINANCIAL STATEMENTS (CONTINUED)
+                             (THOUSANDS OF DOLLARS)
+2. LEASES, NOTES AND ALLOWANCE FOR CREDIT LOSSES (CONTINUED)
+
+   Contractual maturities of leases and notes were as follows at June 30, 2002:
+<TABLE>
+<CAPTION>
+                                                          LEASES
+                                            -----------------------------------
+                                              COMMERCIAL           TO AGWAY                 RETAIL
+                                                  AND              INC. AND               INSTALLMENT
+                                             AGRICULTURAL         SUBSIDIARIES               LOANS              TOTAL
+                                            -------------         -------------           -----------     --------------
+      <S>                                   <C>                   <C>                     <C>             <C>
+      2003                                  $    254,189          $     4,332             $    4,037      $     262,558
+      2004                                       204,337                4,128                  3,145            211,610
+      2005                                       157,096                3,904                  1,958            162,958
+      2006                                       109,228                3,834                  1,354            114,416
+      2007                                        71,021                3,605                    939             75,565
+      Thereafter                                 168,362               11,257                  3,218            182,837
+                                            -------------         -------------           -----------     --------------
+           Leases and notes                      964,233               31,060                 14,651          1,009,944
+      Unearned interest and finance charges     (257,221)             (11,139)                (3,216)          (271,576)
+      Net deferred origination costs              15,512                   16                     19             15,547
+                                            -------------         -------------           -----------     --------------
+         Net investment                     $    722,524          $    19,937             $   11,454      $     753,915
+                                            =============         =============           ===========     ==============
+</TABLE>
+      On September 16, 2002, in  connection  with the sale of Agway's  Sunflower
+operation, leases with Agway totaling approximately $3,400 were paid off.
+
+      Changes in the  allowance  for credit  losses for the years  ended June 30
+were as follows:
+<TABLE>
+<CAPTION>
+                                                                       2002               2001                  2000
+                                                                  --------------      -------------       -------------
+              <S>                                                 <C>                 <C>                 <C>
+
+              Balance, beginning of year                          $   35,516          $   32,536          $    29,978
+              Provision for credit losses charged to operations       10,049               9,461                7,899
+              Charge-offs                                            (14,829)             (9,851)              (9,179)
+              Recoveries                                               6,381               3,370                3,838
+                                                                  --------------      -------------       -------------
+                  Balance, end of year                            $   37,117          $   35,516   $           32,536
+                                                                  ==============      =============       =============
+</TABLE>
+
+3. EQUIPMENT
+
+   Equipment, at cost, consisted of the following at June 30:
+<TABLE>
+<CAPTION>
+                                                          2002                  2001
+                                                     -------------         --------------
+      <S>                                            <C>                   <C>
+      Office and other equipment.................    $      2,457          $      1,757
+      Less accumulated depreciation..............            (809)                 (740)
+                                                     -------------         --------------
+                                                     $      1,648          $      1,017
+                                                     =============         ==============
+</TABLE>
+4. INCOME TAXES
+
+   The provision for income taxes consists of the following:
+<TABLE>
+<CAPTION>
+                                                   2002               2001                  2000
+                                              --------------      -------------       -------------
+           <S>                                <C>                 <C>                 <C>
+           Currently payable:
+                Federal..................     $       4,336       $      5,569        $      2,427
+                State....................             1,783              1,865                 444
+           Deferred......................             4,141              1,642               5,481
+                                              --------------      -------------       -------------
+                                              $      10,260       $      9,076        $      8,352
+                                              ==============      =============       =============
+</TABLE>
+                                       24
+<PAGE>
+                    TELMARK LLC AND CONSOLIDATED SUBSIDIARIES
+                    NOTES TO FINANCIAL STATEMENTS (CONTINUED)
+                             (THOUSANDS OF DOLLARS)
+4. INCOME TAXES (CONTINUED)
+
+Telmark's  effective  income tax rate on pre-tax income differs from the federal
+statutory tax rate as follows:
+<TABLE>
+<CAPTION>
+                                                                       2002               2001                  2000
+                                                                  --------------      -------------       -------------
+                <S>                                               <C>                 <C>                 <C>
+
+                Statutory federal income tax rate                     35.0%              35.0%                 34.0%
+
+                Tax effects of:
+                    State taxes, net of federal benefit                6.7                6.2                   6.4
+                    Other items                                         -                 1.5                   1.2
+                                                                  --------------      -------------       -------------
+
+                Effective income tax rate                             41.7%              42.7%                 41.6%
+                                                                  ==============      =============       =============
+</TABLE>
+The  components of the net deferred tax asset  (liability) as of June 30 were as
+follows:
+<TABLE>
+<CAPTION>
+                                                               2002                  2001
+                                                          -------------         -------------
+      <S>                                                 <C>                   <C>
+              Deferred tax assets:
+                  Allowance for credit losses....         $     14,646          $     14,046
+                  Alternative minimum tax
+                     credit carryforward.........                5,944                 5,944
+                  Other..........................                  223                   243
+                                                          -------------         -------------
+                  Total deferred tax assets                     20,813                20,233
+                                                          -------------         -------------
+
+              Deferred tax liabilities:
+                  Difference between book and
+                     tax treatment of leases.....               26,635                21,914
+                  Other..........................                    0                    0
+                                                          -------------         ------------
+                     Total deferred tax liabilities             26,635                21,914
+                                                          -------------         -------------
+                     Net deferred tax liabilities         $     (5,822)         $     (1,681)
+                                                          =============         =============
+</TABLE>
+Based on  Telmark's  history of taxable  earnings and its  expectations  for the
+future,  management has determined  that operating  income will more likely than
+not be sufficient to recognize its deferred tax assets.  Under existing  federal
+income tax laws,  there is no expiration date on the use of federal  alternative
+minimum tax credits.
+<TABLE>
+<CAPTION>
+
+5. BORROWINGS UNDER LINES OF CREDIT AND TERM DEBT
+At June 30, borrowings under lines of credit, term debt
+   and subordinated debentures consisted of the following:                              2002              2001
+                                                                                  ---------------     ---------------
+<S>                                                                               <C>                 <C>
+Lines of credit and revolving loans payable to banks due in
+   varying amount and dates through February 13, 2006 with
+   interest ranging from 2.53% to 7.47%.................................          $      379,263      $      286,638
+Unsecured notes payable to insurance companies due in varying
+   amount and dates through December 1, 2012, with interest
+   ranging from 6.55% to 8.72%..........................................                 106,667             149,500
+Lease-backed notes payable to insurance companies in varying
+   amounts and dates through December 15, 2008 with interest
+   rates ranging from 6.54% to 9.05%....................................                  52,909              90,760
+                                                                                  ---------------     ---------------
+     Total borrowings under lines of credit and Term Debt...............                 538,839             526,898
+Subordinated debentures due in varying amount and dates through
+   March 31, 2010, with interest ranging from 6.25% to 9.00%............                  44,800              38,772
+                                                                                  ---------------     ---------------
+     Total Debt.........................................................          $      583,639      $      565,670
+                                                                                  ===============     ===============
+</TABLE>
+                                       25
+<PAGE>
+                    TELMARK LLC AND CONSOLIDATED SUBSIDIARIES
+                    NOTES TO FINANCIAL STATEMENTS (CONTINUED)
+                             (THOUSANDS OF DOLLARS)
+
+5. BORROWINGS UNDER LINES OF CREDIT AND TERM DEBT (CONT.)
+
+Lines of Credit and Revolving Loans
+   As of June 30, 2002, Telmark has credit facilities available from banks which
+allow it to borrow up to an aggregate of $429,300.  Uncommitted  short-term line
+of credit  agreements  permit borrowing up to $54,300 on an unsecured basis with
+interest paid upon  maturity.  The lines bear interest at money market  variable
+rates.  The amount of short term lines  available at June  30,2002  represents a
+decrease of $35,000 from the amount  ($89,300)  available at June 30, 2001. This
+decrease  resulted  from  non-renewal  of certain  lines of credit  for  reasons
+unrelated to the Company's  financial  condition  (e.g.  based on the relatively
+small amount of related  business the company  does with the relevant  bank).  A
+committed $375,000 partially  collateralized  revolving loan facility permits us
+to draw  short-term  funds  bearing  interest  at  money  market  rates  or draw
+long-term debt at rates  appropriate for the term of the note drawn. In November
+2001, this revolving loan facility was increased from $300,000 to $375,000.  The
+total amount  outstanding  as of June 30, 2002,  under the  short-term  lines of
+credit  and  the  revolving   term  loan  facility  was  $51,263  and  $328,000,
+respectively.  The  revolving  term  loan  facility  of  $375,000  is  partially
+collateralized  by our  investment in a cooperative  bank having a book value of
+$15,784 at June 30, 2002.
+
+   Telmark  borrows  under  its  short-term  line of credit  agreements  and its
+revolving term agreement  from time to time to fund its  operations.  Short-term
+debt serves as interim  financing  between the  issuances of long-term  debt. In
+addition,  in  consideration  of the potential sale of the business,  management
+made a decision to use short term debt through a potential  closing date instead
+of pursuing an issuance of additional long-term debt. In May 2002, after lengthy
+negotiations,  Agway and a potential  buyer were unable to reach final agreement
+on a sale of Telmark.  Accordingly,  Telmark decided to issue additional  senior
+notes to insurance  companies.  On August 1, 2002,  Telmark  issued  $100,000 of
+unsecured senior notes to insurance companies. Proceeds of these notes were used
+to pay down the revolving term loan facility,  increasing the availability under
+the lines of credit and revolving loans discussed above.
+
+   Telmark  normally  renews its lines of credit  annually.  However,  since the
+previously  mentioned  announcement  of Agway's  intention to pursue the sale of
+Telmark,   continuing  lenders  under  the  uncommitted  short-term  lines  have
+shortened  their  renewal  periods  to  expire  in six  months  or less.  Due to
+uncertainty  related to the reported  financial  condition of Agway Inc., at the
+request of two banks, Telmark has paid down all amounts outstanding on a $15,000
+line,  which Telmark  expects will not renew in October 2002,  and has paid down
+$2,000 on a $6,000  line,  which is scheduled  to expire in December  2002.  The
+$300,000  portion of the revolving loan facility is available  through  December
+31, 2002. In September 2002, the bank extended $50,000 of the $75,000  remaining
+revolving term facility to December 31, 2002. Telmark has financing availability
+in excess of $86,000 to meet its needs through December 31, 2002.
+
+   The ongoing  availability  of adequate  financing to maintain the size of its
+portfolio and to permit lease  portfolio  growth is key to Telmark's  continuing
+profitability  and stability.  Telmark has been successful in arranging its past
+financing needs.  Management  conducts ongoing discussions and negotiations with
+existing and potential lenders for future financing needs. Telmark believes that
+its current financial  arrangements are adequate to meet its immediate operating
+requirements  and that its bank support will continue to be adequate to meet its
+foreseeable  needs  as  Telmark  goes  through  this  period  of  transition  in
+ownership.  There can be no  assurance,  however,  that  Telmark will be able to
+obtain future financing in amounts,  or on terms, that are favorable to Telmark.
+Telmark's  inability to obtain adequate  financing would have a material adverse
+effect on its operations.
+
+Unsecured Notes Payable to Insurance Companies
+   At June 30,  2002,  we had  balances  outstanding  on  unsecured  senior note
+private placements totaling $106,667.  Interest is payable  semiannually on each
+senior note. Principal payments are both semiannual and annual.
+
+   The note  agreements  are  similar to each other and each  contains  specific
+financial covenants, the most restrictive of which prohibit:
+      (i)   tangible net worth,  defined as  consolidated  tangible  assets less
+            total  liabilities  (excluding  notes payable to Agway),  from being
+            less than an amount  equal to or  greater  than the sum of  $85,000,
+            plus 50% of all net  income (if a  positive  number)  for all fiscal
+            years ended after January 1, 2000. As of June 30, 2002, the required
+            minimum net worth is $104,000;
+                                       26
+<PAGE>
+                    TELMARK LLC AND CONSOLIDATED SUBSIDIARIES
+                    NOTES TO FINANCIAL STATEMENTS (CONTINUED)
+                             (THOUSANDS OF DOLLARS)
+5. BORROWINGS UNDER LINES OF CREDIT AND TERM DEBT (CONT.)
+Unsecured Notes Payable to Insurance Companies (continued)
+      (ii)  the ratio of total  liabilities less  subordinated  notes payable to
+            Agway to member's  equity plus  subordinated  notes payable to Agway
+            from exceeding 5.5:1;
+      (iii) the ratio of earnings available  for fixed  charges  from being less
+            than 1.25:1,
+      (iv)  equity  distributions and restricted  investments (as defined in the
+            rate   agreements)  made  after  July  1,  2000  to  exceed  50%  of
+            consolidated  net income for the  period  beginning  on July 1, 2000
+            through the date of determination,  inclusive.  As of June 30, 2002,
+            $3,100 of member's equity is free of this restriction; and
+      (v)   entering  into  leasing  transactions  with Agway which exceed 5% of
+            total  assets.  As of  June  30,  2002,  $17,200  was  free  of this
+            restriction. However, under the terms of the revolving loan facility
+            as renewed on July 31,  2002,  Telmark  has agreed to not enter into
+            any new leasing transactions with Agway.
+For the year  ended June 30,  2002,  Telmark  has  complied  with all  covenants
+contained in its borrowing agreements.
+
+Lease-Backed Notes Payable to Insurance Companies
+     Telmark has issued  lease-backed  notes,  through two wholly  owned,  fully
+consolidated, special purpose funding subsidiaries as follows:
+<TABLE>
+<CAPTION>
+TELMARK LEASE FUNDING         YEAR ISSUED      ISSUED CLASS A    ISSUED CLASS B      RATE CLASS A    RATE CLASS B
+---------------------         -----------      --------------    --------------      ------------    ------------
+         <S>                       <C>              <C>               <C>                <C>             <C>
+         II                        1999             44,800            3,600              6.54%           7.61%
+         III                       2000             63,000            5,100              7.69%           9.05%
+</TABLE>
+      The notes are  collateralized  by leases having an aggregate present value
+of contractual  lease payments equal to or greater than the principal balance of
+the notes,  and the notes are further  collateralized  by the residual values of
+these  leases and by  segregated  cash  accounts.  The total  outstanding  under
+Telmark Lease Funding II, LLC and Telmark Lease Funding III, LLC was $13,128 and
+$39,781, respectively, as of June 30, 2002.
+
+Subordinated Debentures
+      We have historically offered  subordinated  debentures to the public.  The
+debentures  are  unsecured  and are  subordinate  to all our  senior  debt.  The
+interest on the  debentures is payable  quarterly on January 1, April 1, July 1,
+and October 1 and may, at the holder's option,  be reinvested.  Our subordinated
+debentures  bear  interest at a rate that is the greater of the stated rate or a
+rate based upon an average discount rate for U.S. Government Treasury Bills with
+a  maturity  of 26  weeks.  As of June 30,  2002,  $44,800  of  debentures  were
+outstanding.  Those  debentures  are due through  March 2010 and bear a weighted
+average interest rate of 8.40%.
+
+      In anticipation of the possible sale of Telmark,  effective as of March 6,
+2002,  Telmark ceased issuing  debentures to the public,  other than pursuant to
+the interest reinvestment option of the debentures. Under that option, debenture
+holders  may elect to receive  interest on  debentures  either in cash or in the
+form of  additional  principal  on the  debentures.  However,  once a  debenture
+reaches  maturity,  the holder will not be  permitted  to invest the proceeds in
+additional debentures.
+
+Maturities
+      The  aggregate  amounts  of notes  payable,  and  subordinated  debentures
+maturing after June 30, 2002, are as follows:
+<TABLE>
+<CAPTION>
+                                        NOTES PAYABLE                    SUBORDINATED
+     Year Ending June 30:        BANK          INS. COMPANIES             DEBENTURES             TOTAL
+                             -------------    ----------------           -------------     ----------------
+     <S>                     <C>              <C>                        <C>               <C>
+     2003                    $     265,263    $         51,626           $      12,820     $       329,709
+     2004                           40,000              39,248                  16,805              96,053
+     2005                           36,000               6,279                     540              42,819
+     2006                           38,000              23,217                       0              61,217
+     2007                                0              16,873                       0              16,873
+     Thereafter                          0              22,333                  14,635              36,968
+                             -------------    ----------------           -------------     ----------------
+                             $      379,263   $        159,576           $      44,800     $       583,639
+                             =============    ================           =============     ================
+</TABLE>
+                                       27
+<PAGE>
+                    TELMARK LLC AND CONSOLIDATED SUBSIDIARIES
+                    NOTES TO FINANCIAL STATEMENTS (CONTINUED)
+                             (THOUSANDS OF DOLLARS)
+
+5. BORROWINGS UNDER LINES OF CREDIT AND TERM DEBT (CONT.)
+Fair Value
+      The carrying  amounts and estimated  fair values of our  significant  debt
+obligations at June 30, were as follows:
+<TABLE>
+<CAPTION>
+
+                                                     2002                              2001
+                                         ---------------------------            -----------------------
+                                         CARRYING             FAIR              CARRYING            FAIR
+                                          AMOUNT             VALUE               AMOUNT            VALUE
+                                         --------           --------            --------          --------
+<S>                                      <C>                <C>                 <C>               <C>
+Lines of Credit and Term Debt            $538,839           $553,281            $526,898          $540,391
+Subordinated Debentures                    44,800             46,293              38,772            38,772
+</TABLE>
+
+6.  EMPLOYEE BENEFIT PLANS
+
+Employees  of Telmark  participate  in Agway's  employee  benefit  plans,  which
+include a defined benefit Retirement Plan, a defined contribution 401(K) plan, a
+medical and dental benefit plan, a  postretirement  medical plan, and a life and
+health  insurance  plan.  Total benefit costs under these plans are allocated by
+Agway to Telmark primarily based on payroll costs. Benefit costs for those plans
+included  in selling,  general and  administrative  expense  were  approximately
+$2,000,  $1,900, and $1,500 for the periods ended June 30, 2002, 2001, and 2000,
+respectively.
+
+7.  RELATED PARTY TRANSACTIONS
+
+Payable to Agway Inc.
+     The  payable  to  Agway  Inc.  is  principally  any  unpaid  member  equity
+distribution   and/or  any  net  income  taxes  payable  and  any   intercompany
+administrative or general expense payable.
+
+Inter-Company Transactions
+     Inter-company  transactions related to leases with Agway, income taxes, and
+Agway's  employee  benefit  plans  are  separately  disclosed  in the  financial
+statements. Other inter-company transactions with Agway for the years ended June
+30 are:
+<TABLE>
+<CAPTION>
+   (REVENUE) EXPENSE                                  2002           2001           2000
+                                                   ----------     ----------     ----------
+   <S>                                             <C>            <C>            <C>
+   Interest and finance charges..................  $  (2,477)     $ (1,325)      $  (159)
+   Administrative and general expense............      1,278         1,199         1,546
+</TABLE>
+
+Interest  and  finance  charges  are earned on  equipment  leases to Agway.  The
+administrative  and general  expense caption  described  above includes  certain
+shared expenses incurred by Agway on behalf of Telmark,  including the corporate
+insurance program,  information services,  payroll and benefits  administration,
+accounts payable administration,  and facilities management. These expenses were
+allocated  to  Telmark  based  on what  management  believes  is an  appropriate
+methodology.
+
+During the years  ended June 30,  2002 and 2000,  Telmark  declared  $10,000 and
+$5,000  distributions  of member's equity,  respectively.  During the year ended
+June 30, 2001, there was no distribution of member's equity declared.
+
+8.  COMMITMENTS & CONTINGENCIES
+
+COMMITMENTS
+
+Commitments  to extend  credit are  agreements  to lend to a customer as long as
+there is no violation of any condition established in the contract.  Commitments
+generally have fixed expiration dates or other termination  clauses.  Since some
+of the  commitments  are expected to expire  without being drawn upon, the total
+commitment  amounts  do not  necessarily  represent  future  cash  requirements.
+Outstanding  commitments to extend lease  financing at June 30, 2002 amounted to
+$14,218.
+
+                                       28
+<PAGE>
+                    TELMARK LLC AND CONSOLIDATED SUBSIDIARIES
+                    NOTES TO FINANCIAL STATEMENTS (CONTINUED)
+                             (THOUSANDS OF DOLLARS)
+
+8. COMMITMENTS & CONTINGENCIES (CONT.)
+
+LEGAL PROCEEDINGS
+
+Telmark is not a party to any litigation or legal proceedings pending, or to the
+best of its  knowledge  threatened,  which,  in the  opinion of its  management,
+individually  or in the aggregate,  would have a material  adverse affect on its
+results of operations, financial position or liquidity.
+
+9.  FINANCIAL INSTRUMENTS
+
+Off Balance-Sheet Risk
+     Telmark is a party to financial  instruments with off-balance sheet risk in
+the normal course of its business to meet the financing  needs of its customers.
+These  financial  instruments  consist  of  commitments  to  extend  credit  not
+recognized in the balance sheet.  In the event of  non-performance  by the other
+party to the  financial  instrument,  Telmark's  credit  risk is  limited to the
+contractual  amount of Telmark's  commitment to extend credit.  Telmark uses the
+same  credit  and  collateral  policies  in  making  commitments  as it does for
+on-balance sheet instruments.
+
+Credit and Market Risk
+     Telmark's  business is  concentrated  in  agriculture  in the New  England,
+Mid-Atlantic,  and Midwest states with  approximately 68% of its leases directly
+related to production agriculture. However, the portfolio of agricultural leases
+is diversified  into many different kinds of  agriculture.  As of June 30, 2002,
+the largest  concentration is in crops  enterprises  which represents 19% of the
+portfolio,   dairy   enterprises   which   represents   15%  of  the  portfolio,
+transportation  enterprises  which  represents  11% of the  portfolio,  and wood
+products  enterprises  which  represents 9% of the portfolio.  At June 30, 2002,
+approximately 42% of our net lease investment is in the states of Michigan,  New
+York,  Ohio, and  Pennsylvania.  Adverse  developments  in any of these areas of
+concentration could have a corresponding adverse effect on the collectibility of
+its lease receivables.
+
+The  ultimate  collectibility  of  amounts  due  under our  leases  is  directly
+dependent upon the  creditworthiness  of our customers,  the credit practices we
+use to  evaluate  that  creditworthiness,  and the steps we take to protect  our
+ability to collect amounts due and/or take back the leased property. Although we
+follow our credit policies and establish reserves for bad debts, there are other
+factors  that  could  significantly  impact  a  customer's  ability  to pay  and
+consequently,   affect  our  lease  collection   experience  and  our  earnings.
+Additional factors that might impact our ability to collect lease payments are:
+
+     o        Changes in general economic conditions;
+     o        Changes in the level of government  expenditures  on farm programs
+              and  other  changes  in  government   agricultural  programs  that
+              adversely affect the level of income of our customers;
+     o        Adverse  weather-related  conditions  that  negatively  impact the
+              agricultural productivity and income of customers; and
+     o        Oversupply of, or  reduced  demand for,  agricultural  commodities
+              produced by our customers.
+
+                                       29
+<PAGE>
+                    TELMARK LLC AND CONSOLIDATED SUBSIDIARIES
+
+ITEM 9.       CHANGES  IN  AND  DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+              FINANCIAL DISCLOSURE
+
+There were no changes in or  disagreements  with  accountants  on accounting and
+financial disclosure.
+
+
+                                       30
+<PAGE>
+                                    PART III
+ITEM 10.  DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+DIRECTORS AND  EXECUTIVE OFFICERS
+The  Directors of Telmark  determine our policy and are elected by the member at
+each annual meeting to serve until their successors are elected and qualified or
+until such  Director's  earlier  death,  resignation  or  removal.  The Board of
+Directors,  except for Messrs.  O'Neill and Edinger, are paid an annual retainer
+fee of $1,000 for their  services  on the Telmark  Board;  a fee of $200 is also
+earned by such directors for each day they were involved in business for Telmark
+other than days when the Agway Inc.  Board of  Directors  was in session.  These
+above fees and any other expenses of Board Members  incurred in connection  with
+Telmark  business are reimbursed by Telmarks'  parent,  Agway Inc. The executive
+officers and  significant  members of  management of Telmark  provide  operating
+control to carry out the  policies  established  by the Board of  Directors  and
+serve at the discretion of the Board with no guarantee of employment. Telmark is
+organized with nine functional  managers and five region  managers  reporting to
+the   President,   Daniel  J.   Edinger.   The   officers   with   company  wide
+responsibilities  who  report  to the  President  are the  Director  of  Credit,
+Director of Customer Operations and Collections, Chief Financial Officer and the
+Controller.  The  following  table  sets  forth  certain  information  regarding
+Telmark's Directors, executive officers and significant members of management:
+<TABLE>
+<CAPTION>
+                                                                 Years served        Year Became
+Name                           Age  Position                      as Officer         a Director
+----                           ---  --------                     ------------        ----------
+<S>                            <C>                                    <C>              <C>
+Peter J. O'Neill               55   Senior Vice President,            8                1995
+                                    Finance and Control,
+                                    Chairman of the
+                                    Board and Director
+Andrew J. Gilbert              43   Director                                           1997
+Samuel F. Minor                64   Director                                           1989
+Edwin C. Whitehead             61   Director                                           1999
+William W. Young               49   Director                                           1992
+Daniel J. Edinger              51   President and Director            14               1988
+Raymond G. Fuller              51   Director of Customer               8
+                                    Operations & Collections
+Jennifer L. Hicks              39   Chief Financial Officer            1
+Richard A. Kalin               53   Controller                         8
+Kipp R. Weaver                 52   Director of Credit                 8
+</TABLE>
+More detailed biographies of each person listed above, are set forth below.
+
+PETER J.  O'NEILL - Mr.  O'Neill's  principal  occupation  has been  Senior Vice
+President, Finance and Control of Agway for more than five years. Mr. O'Neill is
+a Board Member of Planet Polymer Technologies Inc.: Agway owns approximately 33%
+of the outstanding shares of that Company.
+
+ANDREW J. GILBERT - Mr. Gilbert is a member of the Agway Board of Directors.  He
+has been engaged in full-time farming at Adon Farms for more than five years.
+
+SAMUEL J. MINOR - Mr. Minor is a member of the Agway Board of Directors.  He has
+been engaged in full-time farming at The Spring House for more than five years.
+
+EDWIN C. WHITEHEAD - Mr.  Whitehead is a member of the Agway Board of Directors.
+He has been  engaged  in full  time  farming  at White Ayr Farms for more than 5
+years.
+
+WILLIAM W. YOUNG - Mr. Young is a member of the Agway Board of Directors. He has
+been engaged in full-time farming at Will-O-Crest Farm for more than five years.
+
+DANIEL J. EDINGER - Mr.  Edinger's  principal  occupation  has been President of
+Telmark for more than five years.
+
+RAYMOND G.  FULLER - Mr.  Fuller's  principal  occupation  has been  Director of
+Customer Operations and Collections of Telmark for more than five years.
+
+JENNIFER L. HICKS - Ms. Hicks was named Chief Financial Officer in October 2001,
+and was Treasurer of Telmark from June 2001 to October 2001.  She served as Vice
+President of Business Operations of the Country Products Group of Agway from May
+1999 to June  2001.  From  April 1995 to May 1999,  she  served as  Director  of
+Finance for Country Products Group.
+
+RICHARD A. KALIN - Mr.  Kalin's  principal  occupation  has been  Controller  of
+Telmark for more than five years.
+
+KIPP R. WEAVER - Mr. Weaver's  principal  occupation has been Director of Credit
+of Telmark for more than five years.
+                                       31
+<PAGE>
+ITEM 11.  EXECUTIVE COMPENSATION
+
+Employees  of Telmark  are  eligible  to  participate  in Agway's  benefits  and
+compensation plans. The following table sets forth information  regarding annual
+and  long-term  compensation  for services in all  capacities to Telmark for the
+fiscal years ended June 30, 2002, 2001, and 2000, of the chief executive officer
+and any of the other four most highly compensated  executive officers of Telmark
+(other than the CEO) who were serving in such capacity at June 30, 2002 and were
+compensated over $100,000 (the "Named Executive Officers").
+<TABLE>
+<CAPTION>
+                           SUMMARY COMPENSATION TABLE
+----------------------------------------------------------------------------------------------
+                                                          ANNUAL
+                                                      COMPENSATION
+                                                ---------------------------
+                                                                               ALL OTHER
+NAME AND                                                                      COMPENSATION
+PRINCIPAL POSITION                 YEAR         SALARY(1)      BONUS(2)           (3) (4)
+------------------------------ ------------  --------------- ------------  -------------------
+<S>                                <C>       <C>             <C>           <C>
+Daniel J. Edinger.............     2002      $230,022        $298,000      $  6,831
+ President                         2001       230,022         222,680         8,721
+                                   2000       224,637         184,950         8,548
+
+
+Raymond G. Fuller.............     2002      $100,022        $180,040      $  2,176
+ Director of Customer              2001        88,553         100,022         3,449
+ Operations & Collections          2000        70,018          56,804         2,852
+
+
+Jennifer L. Hicks(5)..........     2002      $ 95,406        $290,096      $  2,146
+  Chief Financial Officer          2001        n/a             n/a              n/a
+                                   2000        n/a             n/a              n/a
+
+
+Richard A. Kalin..............     2002      $ 85,020        $153,253      $  1,824
+ Controller                        2001        82,206          85,020         3,148
+                                   2000        70,018          56,804         4,042
+
+
+Kipp R. Weaver................     2002      $100,022        $180,040      $  2,176
+ Director of Credit                2001        97,316         100,022         4,272
+                                   2000        84,890          68,871         4,310
+------------------
+</TABLE>
+     (1)  Salary  and  bonus  are  used  in   determining   the  average  annual
+compensation pursuant to the Employees' Retirement Plan of Agway Inc. (see pages
+33-35).  This  amount  includes  all  deferred  amounts  under  the  Agway  Inc.
+Employees' 401(k) Thrift Investment Plan and the Agway Inc.  Employees'  Benefit
+Equalization Plan.
+     (2) Members of Agway's chief executive officer's staff and other executives
+designated by Agway's chief executive  officer are eligible for participation in
+Agway's management  incentive plan. Within Telmark,  the President qualified for
+this program.  A bonus may be paid to each eligible  executive  contingent  upon
+each  individual's  performance as determined by the President and CEO of Agway,
+Telmark's net margin, and other performance  factors.  Bonuses for other Telmark
+executive officers may be paid to each eligible  executive  contingent upon each
+individual's  performance  as determined by the President of Telmark,  Telmark's
+net margin and other  performance  factors.  Bonuses are reflected in the fiscal
+year earned  regardless  of payment  date.  Of the amount  shown for Ms.  Hicks,
+$100,000 represents a one-time bonus in recognition of her efforts in connection
+with the ongoing sale process for Telmark paid by Agway.  The  remaining  amount
+represents annual bonus.
+     (3) Amounts  shown  include  contributions  made by Agway to the Agway Inc.
+Employees' 401 Thrift  Investment  Plan and the Agway Inc.  Employees'  Benefits
+Equalization  Plan on behalf of the executive  officer and any other payment not
+appropriately characterized as salary or bonus. Additionally,  for  Mr. Edinger,
+includes  premium payment on a supplemental disability insurance policy paid for
+by Agway.
+     (4) There are no perquisites  paid by us in excess of the lesser of $50,000
+or 10% of an executives total salary and bonus for the years disclosed.
+     (5)  Ms.  Hicks  became  an  executive  officer  of  Telmark  at the end of
+Telmark's fiscal year 2001. Accordingly, no amounts are required to be disclosed
+for fiscal year 2001 or 2000.
+
+                                       32
+<PAGE>
+ITEM 11.  EXECUTIVE COMPENSATION - CONTINUED
+
+CERTAIN AGREEMENTS WITH EXECUTIVES
+
+In connection  with the  announcement by Agway of its intention to pursue a sale
+of Telmark,  the Company  entered into  retention  incentive  agreements  with a
+number of management  employees of the Company,  including  the Named  Executive
+Officers.  Those agreements  generally  provided for the payment of an incentive
+bonus to the  relevant  officer in the event  Company was sold on or before June
+30,  2002 and the  officer  was  still  employed  on the date of sale.  The sale
+deadline under those  arrangements was subsequently  extended from June 30, 2002
+to December 31, 2002. In September  2002,  those  arrangements  were replaced by
+retention  agreements  that  provided for an incentive  bonus based on continued
+employment with, but not the sale of, the Company.
+
+The retention agreements for the Named Executive Officers other than Mr. Edinger
+each provide for a payment in an amount equal to $137,500  ($122,500 in the case
+of Mr.  Kalin),  with 50% payable on March 31, 2003 and 50% payable on September
+30, 2003.  Those payments are  conditioned  upon  continued  employment on those
+dates and compliance with a confidentiality agreement. The unpaid portion of the
+foregoing incentive will be accelerated in the event of a sale of the Company to
+a third party,  and a pro rata portion of the unpaid  amount will be paid in the
+event  the  officer's  employment   terminates   involuntarily  other  than  for
+performance  reasons.  The  retention  agreements  further  provide for pro rata
+payment  of annual  bonus  accrued  through  the  earlier of the date of sale or
+termination  of employment,  as well as certain  severance  benefits  (including
+continued health coverage and outplacement services for a limited period) in the
+event the officer was not offered continued  employment with Telmark following a
+sale. The additional  severance benefits are conditioned upon the execution of a
+standard release.
+
+The current  retention  agreement with Mr.  Edinger  provides that any voluntary
+termination of his  employment in connection  with a sale of the Company will be
+considered  termination for "good reason," thereby  entitling him to a severance
+payment in an amount equal to one times base salary,  plus a pro rata portion of
+his annual bonus accrued  through the date of sale. In addition,  if Mr. Edinger
+remains  employed as President of the Company during the period ended  September
+30,  2003,  he will receive a retention  incentive  of up to $230,022,  with 50%
+payable on March 31, 2003 and 50% payable on September  30,  2003.  In the event
+Mr. Edinger is employed on the date of a sale of the Company to a third party on
+or prior to September 30, 2003,  the unpaid  portion of the foregoing  incentive
+will be  accelerated;  in addition,  Mr. Edinger will receive an incentive bonus
+payment of $985,000 in  connection  with the sale,  less any amounts  payable in
+connection with the sale or previously paid under the retention agreement.
+
+The  amount  payable  to the above  named  Executive  Officers  are  subject  to
+reduction  to the extent  necessary  to avoid  adverse  tax  consequences  under
+Section 280G and 4999 of the Internal Revenue Code of 1986, as amended.
+
+EMPLOYEES' RETIREMENT PLAN
+
+The  Employees'  Retirement  Plan of  Agway  Inc.  (the  Retirement  Plan)  is a
+non-contributory  defined  benefit  plan  covering  nearly  all  employees.  The
+Retirement Plan was amended  effective July 1, 1998, to include a pension equity
+formula,  as  well  as  to  recognize  incentive   compensation  as  pensionable
+compensation for all employees.  It provides for retirement benefits,  up to the
+limits provided by law, based upon average annual  compensation  received during
+the  highest 36  consecutive  months in the last 10 years of service and credits
+earned for years of service with Telmark. Full credits are earned for service on
+and after July 1,  1998,  and  credits  equal to  approximately  3/4 of the full
+credits are earned for service prior to July 1, 1998.  The benefit is defined as
+an account balance and can be paid out as a lump sum or an annuity.  An employee
+is 100% vested in his benefit  after  completing 5 years of service or attaining
+age 55 after completing one year of service.
+
+                                       33
+<PAGE>
+ITEM 11.  EXECUTIVE COMPENSATION - CONTINUED
+EMPLOYEES' RETIREMENT PLAN - CONTINUED
+
+The following  table shows  estimated  annual  benefits  payable upon retirement
+using the credit  formula in effect for service  after June 30,  1998,  based on
+certain 3-year average remuneration levels and years-of-service classifications.
+Under  the  formula,  base  credits  are  applied  to the total  average  annual
+compensation  and excess credits are applied to the average annual  compensation
+in excess of one-half the Social  Security Wage Base. In developing  this table,
+both base and  excess  credits  have been  applied to the total  average  annual
+compensation.  Further,  the table was developed assuming a normal retirement at
+age 65 and an annuity conversion factor based on a 6% interest rate.
+
+                               PENSION PLAN TABLE
+                                  (NEW FORMULA)
+                            YEARS OF CREDITED SERVICE
+<TABLE>
+<CAPTION>
+-----------------------------------------------------------------------------------------------------------------------------
+   3-YEAR AVERAGE
+    REMUNERATION           5             10             15              20             25             30             35
+--------------------  ------------  -------------  -------------  -------------- -------------- -------------- --------------
+      <S>                 <C>            <C>           <C>            <C>            <C>            <C>             <C>
+      $150,000            $ 10,600       $ 20,200      $ 29,700       $ 38,500       $ 47,400       $ 55,500        $ 63,600
+       200,000              14,100         26,900        39,600         51,400         63,200         74,000          84,900
+       250,000              17,700         33,600        49,500         64,200         79,000         92,500         106,100
+       300,000              21,200         40,300        59,400         77,100         94,800        111,000         127,300
+       350,000              24,800         47,000        69,300         89,900        110,600        129,500         148,500
+       400,000              28,300         53,700        79,200        102,800        126,400        148,000         169,700
+       450,000              31,800         60,500        89,100        115,600        142,100        166,500         190,900
+       500,000              35,400         67,200        99,000        128,500        157,900        185,100         212,200
+       550,000              38,900         73,900       108,900        141,300        173,700        203,600         233,400
+</TABLE>
+
+Active  participants  are  entitled  to  receive no less than the value of their
+benefits  accrued  under the old  retirement  plan benefit  formula which was in
+effect through June 30, 1998. In addition,  most active  participants  whose age
+plus  service  totaled 55 years or more as of July 1,  1998,  will  receive  the
+greater of the benefit  determined under the new formula described above, or the
+benefit determined had the old formula remained in effect (grandfathered).
+
+The  old  retirement   plan  benefit   formula  is  based  upon  average  annual
+compensation  received  during the highest 60 consecutive  months in the last 10
+years of service and credited years of service.  Optional earlier retirement and
+other  benefits are also  provided.  The old formula  pays a monthly  retirement
+benefit based on the greater amount  calculated under two formulas.  The benefit
+amount under one formula is subject to an offset for Social Security benefits.
+
+The following  table shows  estimated  annual  benefits under the old retirement
+plan formula in effect for service before July 1, 1998, upon retirement based on
+certain 5-year average remuneration levels and years-of-service classifications.
+The table was  developed  assuming  a normal  retirement  at age 65 and does not
+reflect  an offset  for up to 50% of the  Social  Security  benefit,  subject to
+certain minimum benefits.
+
+                               PENSION PLAN TABLE
+                                  (OLD FORMULA)
+                            YEARS OF CREDITED SERVICE
+<TABLE>
+<CAPTION>
+-----------------------------------------------------------------------------------------------------------------------------
+   5-YEAR AVERAGE
+    REMUNERATION           5             10             15              20             25             30             35
+--------------------  ------------  -------------  -------------  -------------- -------------- -------------- --------------
+      <S>                  <C>            <C>            <C>             <C>            <C>            <C>            <C>
+      $150,000             $ 12,000       $ 24,000       $ 36,000        $ 48,000       $ 60,000       $ 72,000       $ 84,000
+       200,000               16,000         32,000         48,000          64,000         80,000         96,000        112,000
+       250,000               20,000         40,000         60,000          80,000        100,000        120,000        140,000
+       300,000               24,000         48,000         72,000          96,000        120,000        144,000        168,000
+       350,000               28,000         56,000         84,000         112,000        140,000        168,000        196,000
+       400,000               32,000         64,000         96,000         128,000        160,000        192,000        224,000
+       450,000               36,000         72,000        108,000         144,000        180,000        216,000        252,000
+       500,000               40,000         80,000        120,000         160,000        200,000        240,000        280,000
+       550,000               44,000         88,000        132,000         176,000        220,000        264,000        308,000
+</TABLE>
+                                       34
+
+<PAGE>
+ITEM 11.  EXECUTIVE COMPENSATION - CONTINUED
+EMPLOYEES' RETIREMENT PLAN - CONTINUED
+
+Amounts  under the  Retirement  Plan may be subject to reduction  because of the
+limitations imposed under the Internal Revenue Code. The extent of any reduction
+in payments from the Retirement Plan will vary in individual  cases according to
+circumstances  existing at the time pension  payments  commence.  The Agway Inc.
+Employees'  Benefit  Equalization  Plan is a non-qualified  plan  established to
+provide that the amount of any reduction in annual  pension  benefits  under the
+Retirement  Plan will be paid by Agway Inc.  Under terms of an  amendment to the
+Retirement  Plan,  adopted by the Agway Inc.  Board of Directors on May 1, 2002,
+the Human  Resources  Committee of the Agway Inc. Board of Directors may, at its
+discretion from time to time, direct  non-discriminatory  qualified supplemental
+retirement  benefits  initially  restricted from payment by the Retirement Plan,
+and  otherwise  payable from the Benefit  Equalization  Plan,  to be paid by the
+Retirement  Plan. On August 1, 2002,  subsequent  to the  Company's  fiscal year
+ended June 30, 2002,  the Human  Resources  Committee of the Agway Inc. Board of
+Directors approved a non-discriminatory benefit.
+
+The benefits  shown are computed on a straight  life basis and do not reflect an
+offset for up to 50% of the Social Security benefit,  subject to certain minimum
+benefits.  Also,  the benefits are based on  continuing  the  Retirement  Plan's
+benefit  formulas  as in  effect  on June 30,  2002.  As of June 30,  2002,  the
+officers  and their  respective  number of credited  years of service  under the
+Retirement Plan were as follows: Messrs. Edinger, 23; Fuller, 17; Kalin, 29; and
+Weaver, 7 and Ms.  Hicks,  10.  With regard to the named  Executive  Officers of
+Telmark,  "compensation"  is defined as the regular salary or wages, as reported
+in the Salary and Bonus columns of the Summary Compensation Table, which is paid
+to an employee for services rendered to Telmark,  including  overtime,  vacation
+pay or special pay and bonuses as reported in the bonus column of the  Executive
+Compensation disclosure on page 32.
+
+COMPENSATION COMMITTEE INTERLOCKS AND INSIDER PARTICIPATION
+Telmark  has no  compensation  committee.  The  salary  of  Daniel  J.  Edinger,
+President of Telmark is determined by Donald P. Cardarelli, President and CEO of
+Agway.  The salary of the other  Executive  Officers of Telmark is determined by
+Mr.  Edinger.  Salaries of all  Executive  Officers  are  included in the annual
+operating  budget,  which budget is approved by the entire Board of Directors of
+Telmark.
+
+None of the Executive  Officers or Directors who  participated  in  establishing
+compensation  policies  had  interlocks  reportable  under  Section  402  (j) of
+Regulation S-K.
+
+                                       35
+<PAGE>
+ITEM 12.  SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+All of the  outstanding  member's  equity of Telmark,  as of June 30, 2002,  was
+directly owned by Agway. As discussed elsewhere in this report, all of Telmark's
+outstanding  member's  equity  has been  pledged  to  General  Electric  Capital
+Corporation,  as lender and agent on behalf of a syndicated group of lenders, in
+order to secure Agway's obligations to those lenders, in order to secure Agway's
+obligations  to those  lenders.  A foreclosure  on that pledge could result in a
+change of control of Telmark.  None of the executive  officers who are directors
+of Telmark own any membership  interest of Telmark or equity securities of Agway
+or Agway's  subsidiaries,  other than Agway  membership  common stock (discussed
+below).  All of the other  directors  are also  directors of Agway.  Agway is an
+agricultural cooperative and each of its members, including each Agway director,
+owns one share of $25 par value  common  stock.  None of the  Telmark  executive
+officers and directors,  either  individually  or in the aggregate,  own greater
+than 1% of any class of equity  security of Telmark,  of Agway,  or of any Agway
+subsidiaries.
+
+ ITEM 13.  CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+Agway's  members,  including  its  directors,  are customers of Agway and/or its
+subsidiaries and may be customers of Telmark.  They purchase products from Agway
+or enter into leases with Telmark in the normal  course of operating  their farm
+businesses. The price, terms and conditions of any sale or lease transaction are
+determined on the same basis for all of Agway's members.
+
+As of June 30, 2002, Telmark is a direct wholly owned subsidiary of Agway and as
+such, had intercompany  transactions,  including approximately $19,900 in leases
+to Agway.  On September  16, 2002,  subsequent  to Telmark's  year end,  Agway's
+Sunflower operation sold and the Telmark lease obligation totaling approximately
+$3,400 was paid off as part of this transaction.  See  "Management's  Discussion
+and Analysis of Financial Condition and Results of Operations" and Notes 2 and 7
+to the Financial Statement for further information.
+
+PRINCIPAL MEMBER
+
+As of June 30, 2002, Telmark is a direct wholly owned subsidiary of Agway. Agway
+is one of the  largest  agricultural  supply and  services  cooperatives  in the
+United States.
+
+                                       36
+<PAGE>
+                                     PART IV
+
+ITEM 14.      EXHIBITS, FINANCIAL STATEMENT SCHEDULES AND REPORTS ON FORM 8-K
+<TABLE>
+<CAPTION>
+                                                                                                                 PAGE
+     ITEM 14 (A)      INDEX TO DOCUMENT LIST                                                                   LOCATION
+                                                                                                               --------
+                      <S>    <C>                                                                                     <C>
+                      (1)    FINANCIAL STATEMENTS
+                             Among the responses to this Item 14(a)(1) are the following financial statements
+                             which are included in Item 8.
+                             (i)    Report of Independent Accountants................................................17
+                             (ii)   Consolidated Balance Sheets, June 30, 2002 and 2001..............................18
+                             (iii)  Consolidated Statements of  Income and Member's Equity, for the years ended
+                                    June 30, 2002, 2001, and 2000....................................................19
+                             (iv)   Consolidated Statements of Cash Flow, for the years ended June 30, 2002,
+                                     2001, and 2000..................................................................20
+                             (v)    Notes to the Consolidated Financial Statements...................................21
+                      (2)    FINANCIAL STATEMENT SCHEDULES
+                             Schedules are omitted for the reason that they are not required or are not  applicable,  or
+                             the required information is shown in the financial statements or notes thereto.
+
+     ITEM 14 (B)      REPORTS ON FORM 8-K
+
+                      The Company  filed a Current  Report on form 8-K on May 23, 2002 to  announce  that after  lengthy
+                      negotiations,  Agway and a potential  buyer were unable to reach  final  agreement  on the sale of
+                      Telmark  and that  Goldman  Sachs & Co. is  continuing  to  assist  Agway in  exploring  strategic
+                      alternatives for Telmark.
+
+     ITEM 14 (C)(1)   EXHIBITS REQUIRED BY SECURITIES AND EXCHANGE COMMISSION REGULATION S-K
+
+                      (I)  THE FOLLOWING  REQUIRED  EXHIBITS ARE HEREBY  INCORPORATED  BY REFERENCE TO PREVIOUSLY  FILED
+                           REGISTRATION  STATEMENTS  OR THE  APPLICABLE  FORM  10-K,  10-Q,  OR 8-K FILED ON THE DATE AS
+                           SPECIFIED.  THE COMPANY  UNDERTAKES TO PROVIDE TO THE  COMMISSION  UPON REQUEST COPIES OF ANY
+                           INSTRUMENT WITH RESPECT TO LONG-TERM DEBT NOT BEING REGISTERED WHERE THE AMOUNT OF SECURITIES
+                           AUTHORIZED  THEREUNDER  DOES NOT EXCEED 10 PERCENT OF THE TOTAL ASSETS OF THE COMPANY AND ITS
+                           SUBORDINATES ON A CONSOLIDATED BASIS.
+
+                      ARTICLES OF INCORPORATION
+
+                      3(a) -   Certificate of Incorporation of Telmark Inc. (predecessor to Telmark LLC)  dated  June 4,
+                               1964,  as amended  September  8, 1964;  January 15,  1975;  and June 16,  1987,  filed by
+                               reference to Exhibit 3 of the Registration Statement (Form S-1), File No. 33-70732, dated
+                               October 22, 1993.
+
+                      BY-LAWS
+                      3(b) -   By-laws of Telmark Inc.  (predecessor  to Telmark LLC) as amended   September  19,  1995,
+                               filed by reference to Exhibit 3 of the Annual Report (Form 10-K) dated August 23, 1996.
+
+                      CERTIFICATE OF FORMATION
+                      3(c) -   Certificate of formation of Telmark LLC dated June 25, 1998, filed by reference  to  Item
+                               14 of the Annual Report (Form 10-K) dated August 21, 1998.
+
+                      LIMITED LIABILITY COMPANY AGREEMENT
+                      3(d) -   Operating agreement of Telmark LLC dated July 1, 1998, filed by reference to  Item 14  of
+                               the Annual Report (Form 10-K) dated August 21, 1998.
+
+                      CERTIFICATE OF MERGER
+                      3(e) -   Certificate of Merger of Telmark Inc. into Telmark LLC effective July 1, 1998,  filed  by
+                               reference to Item 14 of the Annual Report (Form 10-K) dated August 21, 1998.
+
+                                                           37
+
+<PAGE>
+ITEM 14.      EXHIBITS, FINANCIAL STATEMENT SCHEDULES AND REPORTS ON FORM 8-K (CONTINUED)
+
+     ITEM 14 (C)(1)   EXHIBITS REQUIRED BY SECURITIES AND EXCHANGE COMMISSION REGULATION S-K (CONTINUED)
+
+                      INSTRUMENT DEFINING THE RIGHTS OF SECURITY HOLDERS, INCLUDING INDENTURES
+                      4(a) -   The Indenture  dated as of September 30, 1993,  between Telmark Inc. and OnBank  &  Trust
+                               Co. of Syracuse,  New York, Trustee,  filed by reference to Exhibit 4 of the Registration
+                               Statement (Form S-1), File No. 33-70732, dated October 22, 1993.
+
+                      4(b) -   Telmark Inc. Board of Directors resolutions dated as of June 21,  1995,  authorizing  the
+                               issuance of Debentures under the Indenture filed by reference to  Exhibit  4 of  the post
+                               effective Amendment No. 1 to the Registration Statement  (Form S-1),  File No.  33-84442,
+                               dated August 28, 1995.
+
+                      4(c) -   Supplemental Indenture dated as of June 30, 1998  between  Telmark Inc. and Manufacturers
+                               and Trust Company, filed by reference to Exhibit 4 of the Current Report (Form 8-K), File
+                               No. 33-70732, dated July 6, 1998.
+
+                      4(d) -   Supplemental  Indenture  dated as of July 1, 1998 between  Telmark Inc. and  Telmark  LLC
+                               and  Manufacturers  and Traders  Trust  Company,  filed by  reference to Exhibit 4 of the
+                               Current Report (Form 8-K), dated July 6, 1998.
+
+                      MATERIAL CONTRACTS
+
+                      10(a)-   Agway Inc.  (Commission  File Number 2-22791)  Pledge  Agreement with its  lenders  dated
+                               March 28, 2001,  filed by reference to Exhibit  10(c) of Agway Inc. Form 10-Q as of March
+                               24, 2001, dated May 8, 2001.
+
+                      10(b) -  Agway Inc.  (Commission File Number 2-22791)  Pledge  Agreement  with its lenders,  dated
+                               September  14, 2001,  filed by reference to Exhibit  10(g) of Agway Inc.  Form 10-K as of
+                               June 30, 2001, dated September 18, 2001.
+
+                      (II)     THE FOLLOWING EXHIBITS ARE FILED A SEPARATE SECTION OF THIS REPORT:
+
+                      INSTRUMENT DEFINING THE RIGHTS OF SECURITY HOLDERS,  INCLUDING  INDENTURES
+
+                      4(e) -   Telmark LLC Note Agreement dated August 1, 2002.
+
+                      MATERIAL CONTRACTS
+
+                      10(c)-   Amended and Restated Master Loan Agreement  between  CoBank,  ACB and Telmark  LLC  dated
+                               June 29, 1998 and effective July 1, 1998.
+
+                      10(d)-   Amendment dated November 19, 2001 of the Master Loan Agreement between CoBank,   ACB  and
+                               Telmark LLC.
+
+                      10(e)-   Amendment  dated July 31, 2002 of the Master Loan  Agreement  between  CoBank,   ACB  and
+                               Telmark LLC.
+
+                      10(f)-   Pay to Stay Arrangement between Daniel J. Edinger and Telmark LLC.
+
+                      10(g)-   Annual Incentive Plan for Fiscal 2002, Ending June 30, 2002 - Daniel J. Edinger
+
+                      10(h)-   Annual Incentive Plan for Fiscal 2003, Ending June 30, 2003 - Daniel J. Edinger
+
+                      10(i)-   Pay to Stay Arrangement between Raymond G. Fuller and Telmark LLC.
+
+                      10(j)-   Pay to Stay Arrangement between Jennifer L. Hicks and Telmark LLC.
+
+                      10(k)-   Pay to Stay Arrangement between Richard A. Kalin and Telmark LLC.
+
+                      10(l)-   Pay to Stay Arrangement between Kipp R. Weaver and Telmark LLC.
+
+                      10(m)-   Telmark LLC Supplemental Severance Program
+
+                      10(n)-   Amendment  dated September 27, 2002 of the Master Loan Agreement  between CoBank,  ACB and
+                               Telmark LLC.
+
+                      OTHER EXHIBITS
+                      99       Sarbanes - Oxley Act of 2002 - Certifications
+
+                      99.1     Certification of Chief Executive Officer
+
+                      99.2     Certification of Chief Financial Officer
+</TABLE>
+
+                                       38
+<PAGE>
+                                   SIGNATURES
+
+     Pursuant  to the  requirements  of  Section  13 or 15(d) of the  Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on
+its behalf by the undersigned, thereunto duly authorized.
+
+                                    TELMARK LLC
+                                    (Registrant)
+
+                                              By   /s/DANIEL J. EDINGER
+                                                   -----------------------------
+                                                   President
+                                                   (Principal Executive Officer)
+
+                                            Date   9/27/02
+
+      Pursuant to the requirements of the Securities  Exchange Act of 1934, this
+report  has  been  signed  below  by the  following  persons  on  behalf  of the
+registrant and in the capacities and on the date indicated.
+
+
+      SIGNATURE              TITLE                                        DATE
+      ---------              -----                                       -------
+
+
+/s/ Daniel J. Edinger        President                                   9/27/02
+    --------------------      (Principal Executive Officer)
+
+
+ /s/ Peter J. O'Neill        Senior Vice President, Finance and Control  9/27/02
+    --------------------     Chairman of the Board and Director
+                              (Principal Financial Officer
+                              & Principal Accounting Officer)
+
+
+/s/ Jennifer L. Hicks        Chief Financial Officer                     9/27/02
+    --------------------
+
+
+/s/ Andrew J. Gilbert        Director                                    9/27/02
+    --------------------
+
+
+/s/ Samuel F. Minor          Director                                    9/27/02
+    --------------------
+
+
+/s/ Edwin C. Whitehead       Director                                    9/27/02
+    --------------------
+
+
+/s/ William W. Young         Director                                    9/27/02
+    --------------------
+
+                                       39
+<PAGE>
+CERTIFICATIONS  UNDER NEW  EXCHANGE  ACT RULES 13A-14 AND 15D-14 OF THE EXCHANGE
+ACT OF 1934
+
+
+I, Daniel J. Edinger, certify that:
+
+1.   I have reviewed this annual report on Form 10-K of Telmark LLC;
+
+2.   Based on my  knowledge,  this  annual  report  does not  contain any untrue
+     statement of a material fact or omit to state a material fact  necessary to
+     make the statements  made, in light of the  circumstances  under which such
+     statements  were made, not misleading with respect to the period covered by
+     this annual report;
+
+3.   Based on my  knowledge,  the  financial  statements,  and  other  financial
+     information included in this annual report,  fairly present in all material
+     respects the financial  condition,  results of operations and cash flows of
+     the registrant as of, and for, the periods presented in this annual report;
+
+Date:    September 30, 2002
+         --------------------------------------------
+
+         /s/Daniel J. Edinger
+         --------------------------------------------
+         Daniel J. Edinger
+         President
+         (Principal Executive Officer)
+
+
+
+                                       40
+
+<PAGE>
+CERTIFICATIONS  UNDER NEW  EXCHANGE  ACT RULES 13A-14 AND 15D-14 OF THE EXCHANGE
+ACT OF 1934
+
+
+I, Peter J. O'Neill, certify that:
+
+1.   I have reviewed this annual report on Form 10-K of Agway Inc.;
+
+2.   Based on my  knowledge,  this  annual  report  does not  contain any untrue
+     statement of a material fact or omit to state a material fact  necessary to
+     make the statements  made, in light of the  circumstances  under which such
+     statements  were made, not misleading with respect to the period covered by
+     this annual report;
+
+3.   Based on my  knowledge,  the  financial  statements,  and  other  financial
+     information included in this annual report,  fairly present in all material
+     respects the financial  condition,  results of operations and cash flows of
+     the registrant as of, and for, the periods presented in this annual report;
+
+
+
+Date:    September 30, 2002
+         --------------------------------------------
+
+         /s/Peter J. O'Neill
+         --------------------------------------------
+         Peter J. O'Neill
+         Senior Vice President, Finance and Control
+         Chairman of the Board and Director
+         (Principal Financial Officer)
+
+                                       41
+<PAGE>
+
+</TEXT>
+</DOCUMENT>

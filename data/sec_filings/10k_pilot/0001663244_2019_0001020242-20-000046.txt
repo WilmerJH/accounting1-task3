@@ -1,0 +1,1228 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>comm2016dc210k.htm
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="margin: 0"></P>
+
+<P STYLE="font: bold 17pt Times New Roman,serif; margin: 6pt 0 0; text-align: center"></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin-top: 12pt; margin-bottom: 3pt; width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 2pt solid; border-bottom: Black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: bold 17pt Times New Roman,serif; margin: 6pt 0 0; text-align: center">UNITED STATES<BR>
+SECURITIES AND EXCHANGE COMMISSION</P>
+
+<P STYLE="font: bold 12pt Times New Roman,serif; margin: 3pt 0 0; text-align: center">Washington, D.C. 20549</P>
+
+<P STYLE="font: bold 17pt Times New Roman,serif; margin: 6pt 0 0; text-align: center">FORM 10-K</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 0 0 0 0.25in; text-indent: -0.25in">(Mark One)</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: bold 12pt Times New Roman,serif; margin-top: 12pt; margin-bottom: 6pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.25in">&#9745;</TD><TD>ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934</TD></TR></TABLE>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0; text-align: center">For the fiscal year ended December 31, 2019<BR>
+<BR>
+or</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: bold 12pt Times New Roman,serif; margin-top: 6pt; margin-bottom: 6pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.25in">&#9744;</TD><TD><FONT STYLE="font-size: 11.5pt">TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934</FONT></TD></TR></TABLE>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0; text-align: center">For the transition period from _____ to _____<BR>
+<BR>
+Commission file number of the issuing entity: 333-206705-02</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0; text-align: center">Central Index Key Number of the issuing entity:
+0001663244</P>
+
+<P STYLE="font: bold 20pt Times New Roman,serif; margin: 0; text-align: center">COMM 2016-DC2 Mortgage Trust</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0; text-align: center">(exact name of the issuing entity as specified in
+its charter)</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0; text-align: center">Central Index Key Number of the depositor: 0001013454</P>
+
+<P STYLE="font: bold 20pt Times New Roman,serif; margin: 0; text-align: center">Deutsche Mortgage &amp; Asset Receiving Corporation</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0; text-align: center">(exact name of the depositor as specified in its
+charter)</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0; text-align: center">Central Index Key Number of the sponsor: 0001541294</P>
+
+<P STYLE="font: bold 20pt Times New Roman,serif; margin: 0; text-align: center">German American Capital Corporation</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0; text-align: center">(exact name of the sponsor as specified in its charter)</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0; text-align: center">Central Index Key Number of the sponsor: 0001089877</P>
+
+<P STYLE="font: bold 20pt Times New Roman,serif; margin: 0; text-align: center">KeyBank National Association</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0; text-align: center">(exact name of the sponsor as specified in its charter)</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0; text-align: center">Central Index Key Number of the sponsor: 0001555524</P>
+
+<P STYLE="font: bold 20pt Times New Roman,serif; margin: 0; text-align: center">LoanCore Capital Markets LLC</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0; text-align: center">(exact name of the sponsor as specified in its charter)</P>
+
+<P STYLE="font: bold 20pt Times New Roman,serif; margin: 0; text-align: center">(formerly known as Jefferies LoanCore LLC)</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0; text-align: center">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; border-collapse: collapse">
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="width: 50%; padding-right: 5.75pt; padding-left: 5.75pt">
+        <P STYLE="font: bold 9pt Times New Roman,serif; margin: 0; text-align: center">New York<BR>
+        <FONT STYLE="font-size: 8pt">(State or other jurisdiction of<BR>
+        incorporation or organization of</FONT></P>
+        <P STYLE="font: bold 8pt Times New Roman,serif; margin: 0; text-align: center">the issuing entity)</P></TD>
+    <TD STYLE="width: 50%; padding-right: 5.75pt; padding-left: 5.75pt">
+        <P STYLE="font: bold 9pt Times New Roman,serif; margin: 0; text-align: center">81-1634426</P>
+        <P STYLE="font: bold 9pt Times New Roman,serif; margin: 0; text-align: center">81-1758688</P>
+        <P STYLE="font: bold 9pt Times New Roman,serif; margin: 0; text-align: center">81-6375604</P>
+        <P STYLE="font: bold 8pt Times New Roman,serif; margin: 0; text-align: center">(I.R.S. Employer</P>
+        <P STYLE="font: bold 8pt Times New Roman,serif; margin: 0; text-align: center">Identification Numbers)</P></TD></TR>
+</TABLE>
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0; text-align: center"><BR>
+c/o Deutsche Bank Trust Company Americas</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0; text-align: center">as Certificate Administrator</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0; text-align: center">1761 East St. Andrew Place</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0; text-align: center">Santa Ana, CA</P>
+
+<P STYLE="font: bold 8pt Times New Roman,serif; margin: 0; text-align: center">(Address of principal executive offices of the issuing
+entity)</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 12pt 0 0; text-align: center">92705</P>
+
+<P STYLE="font: bold 8pt Times New Roman,serif; margin: 0; text-align: center">(Zip Code)</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 12pt 0 0; text-align: center">Registrant&rsquo;s telephone number, including
+area code:</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0; text-align: center">(212) 250-2500</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Securities registered pursuant to Section 12(b) of the Act:</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 33%; border-bottom: Black 1pt solid; font: 9pt Times New Roman,serif; border-right: Black 1pt solid; padding-top: 10pt; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">Title of each class</TD>
+    <TD STYLE="width: 34%; border-bottom: Black 1pt solid; font: 9pt Times New Roman,serif; border-right: Black 1pt solid; padding-top: 10pt; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">Trading Symbol(s)</TD>
+    <TD STYLE="width: 33%; border-bottom: Black 1pt solid; font: 9pt Times New Roman,serif; padding-top: 10pt; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">Name of each exchange on which registered</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; font: 9pt Times New Roman,serif; padding-top: 10pt; padding-right: 5.4pt; padding-left: 5.4pt">None</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; font: 9pt Times New Roman,serif; padding-top: 10pt; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; font: 9pt Times New Roman,serif; padding-top: 10pt; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+</TABLE>
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Securities registered pursuant to Section 12(g) of the Act: None.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Indicate by check mark if the registrant is a well-known seasoned
+issuer, as defined in Rule 405 of the Securities Act. &#9744; Yes <FONT STYLE="font-family: Cambria Math,serif">&#8999;
+</FONT>No</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Indicate by check mark if the registrant is not required to file reports
+pursuant to Section 13 or Section 15(d) of the Act. &#9744; Yes <FONT STYLE="font-family: Cambria Math,serif">&#8999;
+</FONT>No</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such
+shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for
+the past 90 days. <FONT STYLE="font-family: Cambria Math,serif">&#8999; </FONT>Yes &#9744;
+No</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Indicate by check mark whether the registrant has submitted electronically
+and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule
+405 of Regulation S-T (Section 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant
+was required to submit and post such files).</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 12pt 0 0; text-align: center">Not applicable.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Indicate by check mark if disclosure of delinquent filers pursuant
+to Item 405 of Regulation S-K (Section 229.405 of this chapter) is not contained herein, and will not be contained, to the best
+of registrant&rsquo;s knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form
+10-K or any amendment to this Form 10-K.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 12pt 0 0; text-align: center">Not applicable.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Indicate by check mark whether the registrant is a large accelerated
+filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions
+of &ldquo;large accelerated filer,&rdquo; &ldquo;accelerated filer,&rdquo; &ldquo;smaller reporting company,&rdquo; and &ldquo;emerging
+growth company&rdquo; in Rule 12b-2 of the Exchange Act.</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; border-collapse: collapse; font-size: 9pt">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 17%; padding-top: 10pt; font-family: Times New Roman,serif">Large accelerated filer</TD>
+    <TD STYLE="width: 46%; padding-top: 10pt; font-family: Times New Roman,serif">&#9744;</TD>
+    <TD STYLE="width: 26%; padding-top: 10pt; font-family: Times New Roman,serif">Accelerated filer</TD>
+    <TD STYLE="width: 11%; padding-top: 10pt; font-family: Times New Roman,serif">&#9744;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-top: 10pt; font-family: Times New Roman,serif">Non-accelerated filer</TD>
+    <TD STYLE="padding-top: 10pt; font-family: Times New Roman,serif"><FONT STYLE="font-family: Cambria Math,serif">&#8999;</FONT>&nbsp;&nbsp;(Do not check if a smaller reporting company) </TD>
+    <TD STYLE="padding-top: 10pt; font-family: Times New Roman,serif">Smaller reporting company</TD>
+    <TD STYLE="padding-top: 10pt; font-family: Times New Roman,serif">&#9744;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-top: 10pt; font-family: Times New Roman,serif">&nbsp;</TD>
+    <TD STYLE="padding-top: 10pt; font-family: Times New Roman,serif">&nbsp;</TD>
+    <TD STYLE="padding-top: 10pt; font-family: Times New Roman,serif">Emerging growth company</TD>
+    <TD STYLE="padding-top: 10pt; font-family: Times New Roman,serif">&#9744;</TD></TR>
+</TABLE>
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">If an emerging growth company, indicate by check mark if the registrant
+has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided
+pursuant to Section 13(a) of the Exchange Act. &#9744;</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Indicate by check mark whether the registrant is a shell company (as
+defined in Rule 12b-2 of the Act). &#9744; Yes <FONT STYLE="font-family: Cambria Math,serif">&#8999;
+</FONT>No</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">State the aggregate market value of the voting and non-voting common
+equity held by non-affiliates computed by reference to the price at which the common equity was last sold, or the average bid and
+asked price of such common equity, as of the last business day of the registrant&rsquo;s most recently completed second fiscal
+quarter.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 12pt 0 0; text-align: center">Not applicable.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Indicate by check mark whether the registrant has filed all documents
+and reports required to be filed by Section 12, 13 or 15(d) of the Securities Exchange Act of 1934 subsequent to the distribution
+of securities under a plan confirmed by a court. &#9744; Yes &#9744;
+No</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 12pt 0 0; text-align: center">Not applicable.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Indicate the number of shares outstanding of each of the registrant&rsquo;s
+classes of common stock, as of the latest practicable date.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 12pt 0 0; text-align: center">Not applicable.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 12pt 0 0; text-align: center"><B>DOCUMENTS INCORPORATED BY REFERENCE</B></P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">List hereunder the following documents if incorporated by reference
+and the Part of the Form 10-K (e.g., Part I, Part II, etc.) into which the document is incorporated: (1) Any annual report to security
+holders; (2) Any proxy or information statement; and (3) Any prospectus filed pursuant to Rule 424(b) or (c) under the Securities
+Act of 1933. The listed documents should be clearly described for identification purposes (e.g., annual report to security holders
+for fiscal year ended December 24, 1980).</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0; text-align: center">Not applicable.</P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin-top: 3pt; margin-bottom: 12pt; width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid; border-bottom: Black 2pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-bottom: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 12pt 0 0; text-align: center"><B>EXPLANATORY NOTES</B></P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin-right: 0; margin-left: 0">The Sun MHC Portfolio Mortgage Loan, the Intercontinental
+Kansas City Hotel Mortgage Loan and the Columbus Park Crossing Mortgage Loan, which constituted approximately 9.3%, 5.6% and 5.0%,
+respectively, of the asset pool of the issuing entity as of its cut-off date, are each an asset of the issuing entity and are each
+part of a loan combination that includes the Sun MHC Portfolio Mortgage Loan, the Intercontinental Kansas City Hotel Mortgage Loan
+or the Columbus Park Crossing Mortgage Loan which are assets of the issuing entity and one other <I>pari passu</I> loan, which
+is not an asset of the issuing entity. These loan combinations, including the Sun MHC Portfolio Mortgage Loan, the Intercontinental
+Kansas City Hotel Mortgage Loan and the Columbus Park Crossing Mortgage Loan, are being serviced and administered pursuant to the
+Pooling and Servicing Agreement, which is incorporated by reference as Exhibit 4.1 to this Annual Report on Form 10-K.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">The Exhibit Index describes exhibits provided by certain parties (in
+their capacities indicated on the Exhibit Index) with respect to the Promenade Gateway Mortgage Loan and the Santa Monica Multifamily
+Portfolio Mortgage Loan, which constituted approximately 3.7% and 2.5%, respectively, of the asset pool of the issuing entity as
+of its cut-off date.&nbsp; The Promenade Gateway Mortgage Loan and the Santa Monica Multifamily Portfolio Mortgage Loan are each
+an asset of the issuing entity and are each part of a loan combination that includes the Promenade Gateway Mortgage Loan or the
+Santa Monica Multifamily Portfolio Mortgage Loan and one other <I>pari passu</I> loan, which is not an asset of the issuing entity.
+The other <I>pari passu</I> portion of each loan combination was securitized in the COMM 2016-CCRE28 Mortgage Trust transaction,
+Commission File Number 333-206705-01 (the &ldquo;<U>COMM 2016-CCRE28 Transaction</U>&rdquo;). These loan combinations, including
+the Promenade Gateway Mortgage Loan and the Santa Monica Multifamily Portfolio Mortgage Loan, are being serviced and administered
+pursuant to the pooling and servicing agreement for the COMM 2016-CCRE28 Transaction, which is incorporated by reference as Exhibit
+4.2 to this Annual Report on Form 10-K.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">The Exhibit Index describes exhibits provided by certain parties (in
+their capacities indicated on the Exhibit Index) with respect to the Williamsburg Premium Outlets Mortgage Loan, which constituted
+approximately 6.2% of the asset pool of the issuing entity as of its cut-off date.&nbsp; The Williamsburg Premium Outlets Mortgage
+Loan is an asset of the issuing entity and is part of a loan combination that includes the Williamsburg Premium Outlets Mortgage
+Loan and four other <I>pari passu</I> loans, which are not assets of the issuing entity. This loan combination, including the Williamsburg
+Premium Outlets Mortgage Loan, was serviced under the Pooling and Servicing Agreement for the issuing entity prior to the closing
+of the securitization of a <I>pari passu</I> portion of the Williamsburg Premium Outlets loan combination in the DBJPM 2016-C1
+Mortgage Trust transaction, Commission File Number 333-206705-03 (the &ldquo;<U>DBJPM 2016-C1 Transaction</U>&rdquo;). After the
+closing of the DBJPM 2016-C1 Transaction on April 19, 2016, this loan combination, including the Williamsburg Premium Outlets Mortgage
+Loan was, and will continue to be, serviced and administered pursuant to the pooling and servicing agreement with respect to the
+DBJPM 2016-C1 Transaction, which is incorporated by reference as Exhibit 4.3 to this Annual Report on Form 10-K.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">The Exhibit Index describes exhibits provided by certain parties (in
+their capacities indicated on the Exhibit Index) with respect to the Birch Run Premium Outlets Mortgage Loan, which constituted
+approximately 2.5% of the asset pool of the issuing entity as of its cut-off date.&nbsp; The Birch Run Premium Outlets Mortgage
+Loan is an asset of the issuing entity and is part of a loan combination that includes the Birch Run Premium Outlets Mortgage Loan
+and four other <I>pari passu</I> loans, which are not assets of the issuing entity. This loan combination, including the Birch
+Run Premium Outlets Mortgage Loan, was serviced under the Pooling and Servicing Agreement for the issuing entity prior to the closing
+of the securitization of a <I>pari passu</I> portion of the Birch Run Premium Outlets loan combination in the CD 2016-CD2 Mortgage
+Trust transaction, Commission File Number 333-206705-07 (the &ldquo;<U>CD 2016-CD2 Transaction</U>&rdquo;). After the closing of
+the CD 2016-CD2 Transaction on December 8, 2016, this loan combination, including the Birch Run Premium Outlets Mortgage Loan was,
+and will continue to be, serviced and administered pursuant to the pooling and servicing agreement with respect to the CD 2016-CD2
+Transaction, which is incorporated by reference as Exhibit 4.4 to this Annual Report on Form 10-K.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">The master servicer of a pooling and servicing agreement or trust
+and servicing agreement also functions as the primary servicer of the related mortgage loans serviced and administered pursuant
+to such agreement unless a separate primary servicer is identified herein. If this report does not identify a separate primary
+servicer, the servicer compliance statement provided by the master servicer under any such agreement also encompasses its responsibilities
+as primary servicer of the related mortgage loan or mortgage loans.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Wells Fargo Bank, National Association is the master servicer of the
+mortgage loans serviced under the Pooling and Servicing Agreement and the primary servicer of the Williamsburg Premium Outlets
+Mortgage Loan, the Promenade Gateway Mortgage Loan, the Birch Run Premium Outlets Mortgage Loan and the Santa Monica Multifamily
+Portfolio Mortgage Loan. As a result, Wells Fargo Bank, National Association is a &ldquo;servicer&rdquo; as defined in Item 1108(a)(2)(iii)
+of Regulation AB, in the capacities described above, because it is servicing mortgage loans that constituted 10% or more of the
+assets of the issuing entity as of its cut-off date. The assessments of compliance with applicable servicing criteria, accountants&rsquo;
+attestation reports and servicer compliance statements delivered by Wells Fargo Bank, National Association in the capacities described
+above are listed in the Exhibit Index.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Wells Fargo Bank, National Association is the custodian of the Williamsburg
+Premium Outlets Mortgage Loan, the Promenade Gateway Mortgage Loan, the Birch Run Premium Outlets Mortgage Loan and the Santa Monica
+Multifamily Portfolio Mortgage Loan. As a result, Wells Fargo Bank, National Association is a servicing function participant in
+the capacities described above, because it is servicing mortgage loans that constituted 5% or more of the assets of the issuing
+entity as of its cut-off date. The assessments of compliance with applicable servicing criteria and accountants&rsquo; attestation
+reports delivered by Wells Fargo Bank, National Association in the capacities described above are listed in the Exhibit Index.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">CWCapital Asset Management LLC is the special servicer of the mortgage
+loans serviced under the Pooling and Servicing Agreement, the Promenade Gateway Mortgage Loan on and after May 14, 2019 and the
+Santa Monica Multifamily Portfolio Mortgage Loan on and after May 14, 2019. As a result, CWCapital Asset Management LLC is a &ldquo;servicer&rdquo;
+as defined in Item 1108(a)(2)(iii) of Regulation AB, in the capacities described above, because it is servicing mortgage loans
+that constituted 10% or more of the assets of the issuing entity as of its cut-off date. The assessments of compliance with applicable
+servicing criteria, accountants&rsquo; attestation reports and servicer compliance statements delivered by CWCapital Asset Management
+LLC in the capacities described above are listed in the Exhibit Index.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Park Bridge Lender Services LLC is the operating advisor of the mortgage
+loans serviced under the Pooling and Servicing Agreement, the Williamsburg Premium Outlets Mortgage Loan, the Promenade Gateway
+Mortgage Loan, the Birch Run Premium Outlets Mortgage Loan and the Santa Monica Multifamily Portfolio Mortgage Loan. As a result,
+Park Bridge Lender Services LLC is a servicing function participant in the capacities described above, because it is servicing
+mortgage loans that constituted 5% or more of the assets of the issuing entity as of its cut-off date. The assessments of compliance
+with applicable servicing criteria and accountants&rsquo; attestation reports delivered by Park Bridge Lender Services LLC in the
+capacities described above are listed in the Exhibit Index.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">KeyBank National Association is the primary servicer of the mortgage
+loans serviced under the Pooling and Servicing Agreement and the special servicer of the Birch Run Premium Outlets Mortgage Loan.
+As a result, KeyBank National Association is a &ldquo;servicer&rdquo; as defined in Item 1108(a)(2)(iii) of Regulation AB, in the
+capacities described above, because it is servicing mortgage loans that constituted 10% or more of the assets of the issuing entity
+as of its cut-off date. The assessments of compliance with applicable servicing criteria, accountants&rsquo; attestation reports
+and servicer compliance statements delivered by KeyBank National Association in the capacities described above are listed in the
+Exhibit Index.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Midland Loan Services, a Division of PNC Bank, National Association
+is the special servicer of the Williamsburg Premium Outlets Mortgage Loan, the Santa Monica Multifamily Portfolio Mortgage Loan
+prior to May 14, 2019 and the Promenade Gateway Mortgage Loan prior to May 14, 2019 and which constituted approximately 6.2%, 3.7%
+and 2.5%, respectively, of the asset pool of the issuing entity as of its cut-off date. In accordance with the Compliance and Disclosure
+Interpretations, Section 200.03 (Rules 13a-18 and 15d-18, Servicer&rsquo;s Assessment of Compliance), this percentage must be reduced
+<I>pro rata </I>because it was only acting as special servicer of the Santa Monica Multifamily Portfolio Mortgage Loan and the
+Promenade Gateway Mortgage Loan from January 1, 2019 to May 13, 2019. It is an unaffiliated party that, as a result of such <I>pro
+rata</I> reduction of such percentage, is not a &ldquo;servicer&rdquo; that meets the criteria in Item 1108(a)(2)(i) through (iii)
+of Regulation AB and so no servicer compliance statement is required.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Wilmington Trust, National Association acts as trustee of the mortgage
+loans serviced under the Pooling and Servicing Agreement, the Promenade Gateway Mortgage Loan, the Santa Monica Multifamily Portfolio
+Mortgage Loan, the Williamsburg Premium Outlets Mortgage Loan and the Birch Run Premium Outlets Mortgage Loan. Pursuant to the
+Pooling and Servicing Agreement, the pooling and servicing agreement for the COMM 2016-CCRE28 Transaction, the pooling and servicing
+agreement for the DBJPM 2016-C1 Transaction and the pooling and servicing agreement for the CD 2016-CD2 Transaction, the trustee
+is required to provide an assessment of compliance with applicable servicing criteria solely with respect to Item 1122(d)(2)(iii)
+of Regulation AB (regarding advances of funds or guarantees regarding collections, cash flows or distributions, and any interest
+or other fees charged for such advances, are made, reviewed and approved as specified in the transaction agreements). However,
+during the reporting period, the trustee did not perform any servicing function with respect to the servicing criteria specified
+in Item 1122(d)(2)(iii) of Regulation AB. The master servicer or the special servicer, to the extent required, performed the servicing
+function identified with respect to Item 1122(d)(2)(iii) of Regulation AB, and each such party included Item 1122(d)(2)(iii) of
+Regulation AB in the assessment of compliance with applicable servicing criteria and accountant&rsquo;s attestation report for
+the subject transaction.&nbsp; As a result, this Annual Report on Form 10-K does not include an assessment of compliance with applicable
+servicing criteria of the trustee. One or more other servicers of the mortgage loans serviced under the Pooling and Servicing Agreement,
+the Promenade Gateway Mortgage Loan, the Santa Monica Multifamily Portfolio Mortgage Loan, the Williamsburg Premium Outlets Mortgage
+Loan and the Birch Run Premium Outlets Mortgage Loan have delivered one or more assessments of compliance with respect to Item
+1122(d)(2)(iii) of Regulation AB.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">This Annual Report on Form 10-K includes assessments of compliance
+with applicable servicing criteria and accountants&rsquo; attestation reports from CoreLogic Commercial Real Estate Services, Inc.
+and National Tax Search, LLC.&nbsp; These entities were engaged by the master servicer under the Pooling and Servicing Agreement
+(except with respect to those mortgage loans for which KeyBank National Association is the primary servicer) and the primary servicer
+of the Promenade Gateway Mortgage Loan, the Santa Monica Multifamily Portfolio Mortgage Loan, the Williamsburg Premium Outlets
+Mortgage Loan and the Birch Run Premium Outlets Mortgage Loan to remit tax payments received from the escrow accounts of borrowers
+to local taxing authorities, to report tax amounts due, to verify tax parcel information, and to verify non-escrow tax payments.
+These servicing functions are included within the servicing criteria set forth in Items 1122(d)(4)(xi) and 1122(d)(4)(xii) of Regulation
+AB.&nbsp; Therefore, under the principles-based definition of &ldquo;servicer&rdquo; set forth in Item 1101(j) of Regulation AB
+that looks to the functions that an entity performs, these vendors are &ldquo;servicers&rdquo; for the purposes of Item 1122 of
+Regulation AB.&nbsp; <I>See</I> Compliance and Disclosure Interpretations, Section 301.01 (Item 1101(j)).</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">The assessments of compliance with applicable servicing criteria,
+accountants&rsquo; attestation reports and servicer compliance statements of the certificate administrator of the Promenade Gateway
+Mortgage Loan, the Santa Monica Multifamily Portfolio Mortgage Loan, the Williamsburg Premium Outlets Mortgage Loan and the Birch
+Run Premium Outlets Mortgage Loan listed on the Exhibit Index are omitted from this Annual Report on Form 10-K as the certificate
+administrator pursuant to the related pooling and servicing agreement or trust and servicing agreement does not perform any activities
+that address servicing criteria with respect to the issuing entity and because they are each not a &ldquo;servicer&rdquo; that
+meets the criteria in Item 1108(a)(2)(i) through (iii) of Regulation AB.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">With respect to the <I>pari passu</I> loan combinations that include
+the Williamsburg Premium Outlets Mortgage Loan, the Santa Monica Multifamily Portfolio Mortgage Loan and the Promenade Gateway
+Mortgage Loan, the servicer compliance statement of Midland Loan Services, a Division of PNC Bank, National Association as special
+servicer of the Williamsburg Premium Outlets Mortgage Loan, the Santa Monica Multifamily Portfolio Mortgage Loan prior to May 14,
+2019 and the Promenade Gateway Mortgage Loan prior to May 14, 2019, listed on the Exhibit Index is omitted from this Annual Report
+on From 10-K for the reasons set forth in the Explanatory Notes above.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 12pt 0 0; text-align: center"><B>PART I</B></P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0.25in 0 0">Item 1. Business.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Omitted.</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0.25in 0 0">Item 1A. Risk Factors.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Omitted.</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0.25in 0 0">Item 1B. Unresolved Staff Comments.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">None.</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0.25in 0 0">Item 2. Properties.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Omitted.</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0.25in 0 0">Item 3. Legal Proceedings.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Omitted.</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0.25in 0 0">Item 4. Mine Safety Disclosures.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Not applicable.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 12pt 0 0; text-align: center"><B>PART II</B></P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0.25in 0 0">Item 5. Market for Registrant&rsquo;s Common Equity, Related
+Stockholder Matters and Issuer Purchases of Equity Securities.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Omitted.</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0.25in 0 0">Item 6. Selected Financial Data.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Omitted.</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0.25in 0 0">Item 7. Management&rsquo;s Discussion and Analysis of Financial
+Condition and Results of Operations.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Omitted.</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0.25in 0 0">Item 7A. Quantitative and Qualitative Disclosures About Market
+Risk.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Omitted.</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0.25in 0 0">Item 8. Financial Statements and Supplementary Data.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Omitted.</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0.25in 0 0">Item 9. Changes in and Disagreements With Accountants on Accounting
+and Financial Disclosure.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Omitted.</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0.25in 0 0">Item 9A. Controls and Procedures.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Omitted.</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0.25in 0 0">Item 9B. Other Information.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">None.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 12pt 0 0; text-align: center"><B>PART III</B></P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0.25in 0 0">Item 10. Directors, Executive Officers and Corporate Governance.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Omitted.</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0.25in 0 0">Item 11. Executive Compensation.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Omitted.</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0.25in 0 0">Item 12. Security Ownership of Certain Beneficial Owners and
+Management and Related Stockholder Matters.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Omitted.</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0.25in 0 0">Item 13. Certain Relationships and Related Transactions, and
+Director Independence.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Omitted.</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0.25in 0 0">Item 14. Principal Accounting Fees and Services.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Omitted.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 12pt 0 0; text-align: center"><B>ADDITIONAL DISCLOSURE ITEMS FOR REGULATION
+AB</B></P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0.25in 0 0">Item 1112(b) of Regulation AB, Significant Obligor Financial
+Information.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">No single obligor represents 10% or more of the pool assets held by
+the issuing entity.</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0.25in 0 0">Item 1114(b)(2) of Regulation AB, Significant Enhancement Provider
+Financial Information.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 0.25in 0 0"><FONT STYLE="font-weight: normal">No entity or group of affiliated
+entities provides any external credit enhancement or other support for the certificates within this transaction as described under
+Item 1114(a) of Regulation AB.</FONT></P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0.25in 0 0">Item 1115(b) of Regulation AB, Certain Derivatives Instruments
+(Financial Information).</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">No entity or group of affiliated entities provides any derivative
+instruments or other support for the certificates within this transaction as described under Item 1115 of Regulation AB.</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0.25in 0 0">Item 1117 of Regulation AB, Legal Proceedings.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">The registrant knows of no material pending legal proceeding involving the trust or any party related to the trust, other than routine litigation
+incidental to the duties of those respective parties, and the following, with respect to Deutsche Bank Trust Company Americas, as certificate
+administrator, as trustee and as custodian, and Wells Fargo Bank, National Association, as certificate administrator and as custodian.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Deutsche Bank Trust Company Americas ("DBTCA") and Deutsche Bank National Trust Company ("DBNTC") have been sued by investors in civil
+litigation concerning their role as trustees of certain RMBS trusts. </P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">On June 18, 2014, a group of investors, including funds managed by Blackrock Advisors, LLC, PIMCO-Advisors, L.P., and others, filed an action
+against DBNTC and DBTCA in New York State Supreme Court alleging that DBNTC and DBTCA failed to perform purported duties, as trustees for
+544 private-label RMBS trusts, to enforce breaches of representations and warranties as to mortgage loans held by the trusts and to enforce breaches
+by servicers of their mortgage loan servicing obligations for the trusts.  During the course of the litigation, plaintiffs dismissed the case from New
+York State Supreme Court and refiled two separate cases, one in the U.S. District Court for the Southern District of New York (the "BlackRock
+SDNY Case") and the other in the Superior Court of California, Orange County (the "BlackRock California Case").  Pursuant to a settlement among
+the parties, the BlackRock SDNY Case was dismissed on December 6, 2018 and the BlackRock California Case was dismissed on January 11, 2019.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">On September 27, 2017, DBTCA was added as a defendant to a case brought by certain special purpose entities including Phoenix Light SF Limited
+in the U.S. District Court for the Southern District of New York, in which the plaintiffs previously alleged incorrectly that DBNTC served as trustee
+for all 43 of the trusts at issue.  On September 27, 2017, plaintiffs filed a third amended complaint that names DBTCA as a defendant in addition to
+DBNTC.  DBTCA serves as trustee for one of the 43 trusts at issue.  DBNTC serves as trustee for the other 42 trusts at issue.  Plaintiffs' third
+amended complaint brings claims for violation of the U.S. Trust Indenture Act of 1939 ("TIA"); breach of contract; breach of fiduciary duty;
+negligence and gross negligence; violation of New York's Streit Act; and breach of the covenant of good faith.  However, in the third amended
+complaint, plaintiffs acknowledge that, before DBTCA was added to the case, the court dismissed plaintiffs' TIA Act claims, negligence and gross
+negligence claims, Streit Act claims, claims for breach of the covenant of good faith, and certain theories of plaintiffs' breach of contract claims, and
+plaintiffs only include these claims to preserve any rights on appeal.  Plaintiffs allege damages of "hundreds of millions of dollars."  On November
+13, 2017, DBNTC and DBTCA filed an answer to the third amended complaint.  On December 7, 2018, DBNTC and DBTCA filed a motion for
+summary judgment.  Also on December 7, 2018, plaintiffs, jointly with Commerzbank AG (see description of Commerzbank case below), filed a
+motion for partial summary judgment.  As of March 1, 2020, both motions for summary judgment have been briefed and are awaiting decision by the
+court.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">On November 30, 2017, DBTCA was added as a defendant to a case brought by Commerzbank AG ("Commerzbank") in the U.S. District Court for
+the Southern District of New York, in which Commerzbank previously alleged incorrectly that DBNTC served as trustee for all 50 of the trusts at
+issue.  On November 30, 2017, Commerzbank filed a second amended complaint that names DBTCA as a defendant in addition to DBNTC.
+DBTCA serves as trustee for 1 of the 50 trusts at issue.  DBNTC serves as trustee for the other 49 trusts at issue.  Commerzbank's second amended
+complaint brings claims for violation of the TIA; breach of contract; breach of fiduciary duty; negligence; violation of the Streit Act; and breach of
+the covenant of good faith.  However, in the second amended complaint, Commerzbank acknowledges that, before DBTCA was added to the case,
+the court dismissed Commerzbank's TIA claims for the trusts governed by pooling and servicing agreements, as well as its Streit Act claims and
+claims for breach of the covenant of good faith, and Commerzbank only includes these claims to preserve any rights on appeal.  The second amended
+complaint alleges that DBNTC and DBTCA caused Commerzbank to suffer "hundreds of millions of dollars in losses," but the complaint does not
+include a demand for money damages in a sum certain.  On January 29, 2018, DBNTC and DBTCA filed an answer to the second amended
+complaint.  On December 7, 2018, DBNTC and DBTCA filed a motion for summary judgment.  Also on December 7, 2018, Commerzbank, jointly
+with the Phoenix Light plaintiffs, filed a motion for partial summary judgment.  As of March 1, 2020, both motions for summary judgment have been
+briefed and are awaiting decision by the court.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">On December 30, 2015, IKB International, S.A. in Liquidation and IKB Deutsche Industriebank A.G. (collectively, "IKB"), as an investor in 37
+RMBS trusts, filed a summons with notice in the Supreme Court of the State of New York, New York County, against DBNTC and DBTCA as
+trustees of the trusts.  On May 27, 2016, IKB served its complaint asserting claims for breach of contract, breach of fiduciary duty, breach of duty to
+avoid conflicts of interest, violation of the Streit Act, violation of the TIA, violation of Regulation AB, and violation of Section 9 of the Uniform
+Commercial Code.  IKB alleges that DBNTC and DBTCA are liable for over U.S. $268 million in damages.  On October 5, 2016, DBNTC and
+DBTCA, together with several other trustees defending lawsuits by IKB, filed a joint motion to dismiss.  On January 6, 2017 and June 20, 2017, IKB
+voluntarily dismissed with prejudice all claims as to seven trusts.  As of March 1, 2020, DBNTC and DBTCA's motion to dismiss has been briefed
+and is awaiting decision by the court.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">It is DBTCA's belief that it has no pending legal proceedings (including, based on DBTCA's present evaluation, the litigation disclosed in the
+foregoing paragraphs) that would materially affect its ability to perform its duties under the related servicing agreement for this transaction.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Beginning on June 18, 2014, a group of institutional investors filed civil complaints in the Supreme Court of the State of New York, New York
+County, and later the U.S. District Court for the Southern District of New York, against Wells Fargo Bank, N.A., ("Wells Fargo Bank") in its
+capacity as trustee for certain residential mortgage backed securities ("RMBS") trusts.  The complaints against Wells Fargo Bank alleged that the
+trustee caused losses to investors and asserted causes of action based upon, among other things, the trustee's alleged failure to: (i) notify and enforce
+repurchase obligations of mortgage loan sellers for purported breaches of representations and warranties, (ii) notify investors of alleged events of
+default, and (iii) abide by appropriate standards of care following alleged events of default. Relief sought included money damages in an unspecified
+amount, reimbursement of expenses, and equitable relief. In November 2018, Wells Fargo Bank reached an agreement, in which it denied any
+wrongdoing, to resolve such claims on a classwide basis for the 271 RMBS trusts at issue.  On May 6, 2019, the court entered an order approving the
+settlement agreement.  Separate lawsuits against Wells Fargo Bank making similar allegations filed by certain other institutional investors concerning
+several RMBS trusts in New York federal and state court are not covered by the agreement.  With respect to such litigations, Wells Fargo Bank
+believes plaintiffs' claims are without merit and intends to contest the claims vigorously, but there can be no assurances as to the outcome of the
+litigations or the possible impact of the litigations on Wells Fargo Bank or the RMBS trusts.
+</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0.25in 0 0">Item 1119 of Regulation AB, Affiliations and Certain Relationships
+and Related Transactions.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">The information regarding this Item has been previously provided in
+the prospectus of the Registrant relating to the issuing entity filed on March 16, 2016 pursuant to Rule 424(b)(2).</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0.25in 0 0">Item 1122 of Regulation AB, Compliance with Applicable Servicing
+Criteria.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">The reports on assessments of compliance with the servicing criteria
+for asset-backed securities and related attestation reports on such assessments of compliance with respect to the mortgage loans
+are attached hereto under Item 15 to this Annual Report on Form 10-K. Attached as Schedule II to the Pooling and Servicing Agreement
+incorporated by reference as Exhibit 4.1 to this Annual Report on Form 10-K is a chart identifying the entities participating in
+a servicing function for the transaction responsible for each applicable servicing criteria set forth in Item 1122(d).</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">The reports on assessments of compliance with the servicing criteria
+for asset-backed securities and related attestation reports on such assessments of compliance with respect to the Promenade Gateway
+Mortgage Loan and the Santa Monica Multifamily Portfolio Mortgage Loan, which are being serviced and administered pursuant to the
+pooling and servicing agreement for the COMM 2016-CCRE28 Transaction, are attached hereto under Item 15 to this Annual Report on
+Form 10-K. Attached as Schedule II to the pooling and servicing agreement for the COMM 2016-CCRE28 Transaction incorporated by
+reference as Exhibit 4.2 to this Annual Report on Form 10-K is a chart identifying the entities participating in a servicing function
+for the COMM 2016-CCRE28 Transaction responsible for each applicable servicing criteria set forth in Item 1122(d).</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">The reports on assessments of compliance with the servicing criteria
+for asset-backed securities and related attestation reports on such assessments of compliance with respect to the Williamsburg
+Premium Outlets Mortgage Loan, which is being serviced and administered pursuant to the pooling and servicing agreement for the
+DBJPM 2016-C1 Transaction, are attached hereto under Item 15 to this Annual Report on Form 10-K. Attached as Schedule II to the
+pooling and servicing agreement for the DBJPM 2016-C1 Transaction incorporated by reference as Exhibit 4.3 to this Annual Report
+on Form 10-K is a chart identifying the entities participating in a servicing function for the DBJPM 2016-C1 Transaction responsible
+for each applicable servicing criteria set forth in Item 1122(d).</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">The reports on assessments of compliance with the servicing criteria
+for asset-backed securities and related attestation reports on such assessments of compliance with respect to the Birch Run Premium
+Outlets Mortgage Loan, which is being serviced and administered pursuant to the pooling and servicing agreement for the CD 2016-CD2
+Transaction, are attached hereto under Item 15 to this Annual Report on Form 10-K. Attached as Schedule II to the pooling and servicing
+agreement for the CD 2016-CD2 Transaction incorporated by reference as Exhibit 4.4 to this Annual Report on Form 10-K is a chart
+identifying the entities participating in a servicing function for the CD 2016-CD2 Transaction responsible for each applicable
+servicing criteria set forth in Item 1122(d).</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">The report on assessment of compliance with applicable servicing criteria furnished pursuant to Item 1122 of Regulation AB by Midland Loan
+Services, a Division of PNC Bank National Association ("Midland") discloses that a material instance of noncompliance occurred, as described
+below:</P>
+
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Material Instance of Noncompliance</P>
+
+
+<P STYLE="font: 9pt Times New Roman,serif; margin-left: 25px">In certain instances, the Schedule AL Files (Item 1125 of Regulation AB) were not reported in accordance with the terms specified in the
+	transaction agreements, in conflict with Item 1122(d)(3)(i): "Reports to investors, including those to be filed with the Commission, are
+	maintained in accordance with the transaction agreements and applicable Commission requirements. Specifically, such reports: (A) Are
+	prepared in accordance with timeframes and other terms set forth in the transaction agreements".  The noncompliance consisted of omitted
+	or inaccurately reported fields as described in (1) and (2) below.  (1) In connection with other enhancements Midland made to its manual
+	Schedule AL process, starting in April 2019, Midland developed and implemented new Schedule AL reporting templates for each
+	applicable CMBS transaction that closed prior to April 2019 and for each applicable CMBS transaction going forward.  Related to this,
+	Midland made certain template setup errors, along with related and other manual inputting of information errors, and the errors were not
+	identified prior to submission of the applicable Schedule AL Files in certain cases due to breakdowns in quality control.  (2) In one
+	applicable transaction, the related Schedule AL File for a given month was not saved properly resulting in the prior month's Schedule AL
+	File being submitted for the given month instead of the correct Schedule AL File.</P>
+
+
+<P STYLE="font: 9pt Times New Roman,serif; margin-left: 25px">The identified instances did not involve the servicing of assets included in this securitization.</P>
+
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Steps Taken to Remedy the Material Instance of Noncompliance</P>
+
+
+<P STYLE="font: 9pt Times New Roman,serif; margin-left: 25px">Midland's Schedule AL reporting process was enhanced in April of 2019, however, the process remained manual throughout the 2019
+	calendar year.  Errors relating to certain Schedule AL Files during 2019 were identified during the related audit.  Following identification,
+	Midland made staffing changes and additional enhancements and improvements to its processes and procedures to support its Schedule AL
+	reporting obligations and expects to move to an automated solution for this process.</P>
+
+
+<P STYLE="font: 9pt Times New Roman,serif; margin-left: 25px">Midland is currently remediating the Schedule AL reporting for certain of the CMBS transactions found to be incorrect.</P>
+
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0.25in 0 0">Item 1123 of Regulation AB, Servicer Compliance Statement.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">The servicer compliance statements are attached as Exhibits to this
+Annual Report on Form 10-K.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 12pt 0 0; text-align: center"><B>PART IV</B></P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0.25in 0 0">Item 15. Exhibits, Financial Statement Schedules</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">(a) The following is a list of documents filed as part of this Annual
+Report on Form 10-K:</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0 0.75in; text-indent: -0.5in">(1) Not applicable</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0 0.75in; text-indent: -0.5in">(2) Not applicable</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0 0.75in; text-indent: -0.5in">(3) See below</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">4.1</TD><TD><A HREF="http://www.sec.gov/Archives/edgar/data/1663244/000153949716003012/exh_4-1.htm">Pooling and Servicing Agreement, dated as of March 1, 2016, by and among Deutsche Mortgage &amp; Asset Receiving Corporation, as Depositor, Wells Fargo Bank, National Association, as Master Servicer, CWCapital Asset Management LLC, as Special Servicer, Wilmington Trust, National Association, as Trustee, Deutsche Bank Trust Company Americas, as Certificate Administrator, Paying Agent and Custodian, Park Bridge Lender Services LLC, as Operating Advisor, and Park Bridge Lender Services LLC, as Asset Representations Reviewer (filed as Exhibit 4.1 to the registrant&rsquo;s Current Report on Form 8-K/A filed on May 23, 2016 under Commission File No. 333-206705-02 and incorporated by reference herein).</A></TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">4.2</TD><TD><A HREF="http://www.sec.gov/Archives/edgar/data/1663244/000153949716002633/exh_99-5.htm">Pooling and Servicing Agreement, dated as of February 1, 2016, by and among Deutsche Mortgage &amp; Asset Receiving Corporation, as Depositor, Wells Fargo Bank, National Association, as Master Servicer, Midland Loan Services, a Division of PNC Bank, National Association, as Special Servicer, Wilmington Trust, National Association, as Trustee, Wells Fargo Bank, National Association, as Certificate Administrator, Paying Agent and Custodian, Park Bridge Lender Services LLC, as Operating Advisor, and Park Bridge Lender Services LLC, as Asset Representations Reviewer (filed as 99.5 to the registrant&rsquo;s Current Report on Form 8-K filed on March 16, 2016 under Commission File No. 333-206705-02 and incorporated by reference herein).</A></TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">4.3</TD><TD><A HREF="http://www.sec.gov/Archives/edgar/data/1663244/000153949716002842/exh99-1.htm">Pooling and Servicing Agreement, dated as of April 1, 2016, by and among Deutsche Mortgage &amp; Asset Receiving Corporation, as Depositor, Wells Fargo Bank, National Association, as Master Servicer, Midland Loan Services, a Division of PNC Bank, National Association, as Special Servicer, Wilmington Trust, National Association, as Trustee, Wells Fargo Bank, National Association, as Certificate Administrator, Paying Agent and Custodian, Park Bridge Lender Services LLC, as Operating Advisor, and Park Bridge Lender Services LLC, as Asset Representations Reviewer (filed as Exhibit 99.1 to the registrant&rsquo;s Current Report on Form 8-K filed on April 28, 2016 under Commission File No. 333-206705-02 and incorporated by reference herein).</A></TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">4.4</TD><TD><A HREF="http://www.sec.gov/Archives/edgar/data/1663244/000153949716004332/exh_99-2cd2psa.htm">Pooling and Servicing Agreement, dated as of December 1, 2016, by and among Deutsche Mortgage &amp; Asset Receiving Corporation, as Depositor, Wells Fargo Bank, National Association, as Master Servicer, KeyBank National Association, as Special Servicer, Wilmington Trust, National Association, as Trustee, Wells Fargo Bank, National Association, as Certificate Administrator, Paying Agent and Custodian, Park Bridge Lender Services LLC, as Operating Advisor, and Park Bridge Lender Services LLC, as Asset Representations Reviewer (filed as Exhibit 99.2 to the registrant&rsquo;s Current Report on Form 8-K filed on December 14, 2016 under Commission File No. 333-206705-02 and incorporated by reference herein).</A></TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">31</TD><TD><a STYLE="-sec-extract:exhibit" href="ex31.htm">Rule 13a-14(d)/15d-14(d) Certifications.</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33</TD><TD>Reports on assessment of compliance with servicing criteria for asset-backed securities.</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.1</TD><TD><a STYLE="-sec-extract:exhibit" href="ex331.htm">Wells Fargo Bank, National Association, as Master Servicer</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.2</TD><TD><a STYLE="-sec-extract:exhibit" href="ex332.htm">CWCapital Asset Management LLC, as Special Servicer</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.3</TD><TD>Wilmington Trust, National Association, as Trustee (Omitted. See Explanatory Notes.)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.4</TD><TD><a STYLE="-sec-extract:exhibit" href="ex334.htm">Deutsche Bank Trust Company Americas, as Certificate Administrator and Custodian</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.5</TD><TD><a STYLE="-sec-extract:exhibit" href="ex335.htm">Park Bridge Lender Services LLC, as Operating Advisor</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.6</TD><TD><a STYLE="-sec-extract:exhibit" href="ex336.htm">CoreLogic Commercial Real Estate Services, Inc., as Servicing Function Participant</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.7</TD><TD><a STYLE="-sec-extract:exhibit" href="ex337.htm">National Tax Search, LLC, as Servicing Function Participant</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.8</TD><TD><a STYLE="-sec-extract:exhibit" href="ex338.htm">KeyBank National Association, as Primary Servicer</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.9</TD><TD><a STYLE="-sec-extract:exhibit" href="ex331.htm">Wells Fargo Bank, National Association, as Primary Servicer of the Sun MHC Portfolio Mortgage Loan (see Exhibit 33.1)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.10</TD><TD><a STYLE="-sec-extract:exhibit" href="ex332.htm">CWCapital Asset Management LLC, as Special Servicer of the Sun MHC Portfolio Mortgage Loan (see Exhibit 33.2)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.11</TD><TD>Wilmington Trust, National Association, as Trustee of the Sun MHC Portfolio Mortgage Loan (Omitted. See Explanatory Notes.)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.12</TD><TD><a STYLE="-sec-extract:exhibit" href="ex3312.htm">Deutsche Bank Trust Company Americas, as Custodian of the Sun MHC Portfolio Mortgage Loan</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.13</TD><TD><a STYLE="-sec-extract:exhibit" href="ex335.htm">Park Bridge Lender Services LLC, as Operating Advisor of the Sun MHC Portfolio Mortgage Loan (see Exhibit 33.5)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.14</TD><TD><a STYLE="-sec-extract:exhibit" href="ex336.htm">CoreLogic Commercial Real Estate Services, Inc., as Servicing Function Participant of the Sun MHC Portfolio Mortgage Loan (see
+Exhibit 33.6)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.15</TD><TD><a STYLE="-sec-extract:exhibit" href="ex337.htm">National Tax Search, LLC, as Servicing Function Participant of the Sun MHC Portfolio Mortgage Loan (see Exhibit 33.7)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.16</TD><TD><a STYLE="-sec-extract:exhibit" href="ex331.htm">Wells Fargo Bank, National Association, as Primary Servicer of the Intercontinental Kansas City Hotel Mortgage Loan (see Exhibit
+33.1)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.17</TD><TD><a STYLE="-sec-extract:exhibit" href="ex332.htm">CWCapital Asset Management LLC, as Special Servicer of the Intercontinental Kansas City Hotel Mortgage Loan (see Exhibit 33.2)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.18</TD><TD>Wilmington Trust, National Association, as Trustee of the Intercontinental Kansas City Hotel Mortgage Loan (Omitted. See Explanatory
+Notes.)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.19</TD><TD><a STYLE="-sec-extract:exhibit" href="ex3312.htm">Deutsche Bank Trust Company Americas, as Custodian of the Intercontinental Kansas City Hotel Mortgage Loan (see Exhibit 33.12)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.20</TD><TD><a STYLE="-sec-extract:exhibit" href="ex335.htm">Park Bridge Lender Services LLC, as Operating Advisor of the Intercontinental Kansas City Hotel Mortgage Loan (see Exhibit
+33.5)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.21</TD><TD><a STYLE="-sec-extract:exhibit" href="ex336.htm">CoreLogic Commercial Real Estate Services, Inc., as Servicing Function Participant of the Intercontinental Kansas City Hotel
+Mortgage Loan (see Exhibit 33.6)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.22</TD><TD><a STYLE="-sec-extract:exhibit" href="ex337.htm">National Tax Search, LLC, as Servicing Function Participant of the Intercontinental Kansas City Hotel Mortgage Loan (see Exhibit
+33.7)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.23</TD><TD><a STYLE="-sec-extract:exhibit" href="ex331.htm">Wells Fargo Bank, National Association, as Primary Servicer of the Columbus Park Crossing Mortgage Loan (see Exhibit 33.1)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.24</TD><TD><a STYLE="-sec-extract:exhibit" href="ex332.htm">CWCapital Asset Management LLC, as Special Servicer of the Columbus Park Crossing Mortgage Loan (see Exhibit 33.2)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.25</TD><TD>Wilmington Trust, National Association, as Trustee of the Columbus Park Crossing Mortgage Loan (Omitted. See Explanatory Notes.)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.26</TD><TD><a STYLE="-sec-extract:exhibit" href="ex3312.htm">Deutsche Bank Trust Company Americas, as Custodian of the Columbus Park Crossing Mortgage Loan (see Exhibit 33.12)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.27</TD><TD><a STYLE="-sec-extract:exhibit" href="ex335.htm">Park Bridge Lender Services LLC, as Operating Advisor of the Columbus Park Crossing Mortgage Loan (see Exhibit 33.5)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.28</TD><TD><a STYLE="-sec-extract:exhibit" href="ex336.htm">CoreLogic Commercial Real Estate Services, Inc., as Servicing Function Participant of the Columbus Park Crossing Mortgage Loan
+(see Exhibit 33.6)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.29</TD><TD><a STYLE="-sec-extract:exhibit" href="ex337.htm">National Tax Search, LLC, as Servicing Function Participant of the Columbus Park Crossing Mortgage Loan (see Exhibit 33.7)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.30</TD><TD><a STYLE="-sec-extract:exhibit" href="ex331.htm">Wells Fargo Bank, National Association, as Primary Servicer of the Promenade Gateway Mortgage Loan (see Exhibit 33.1)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.31</TD><TD><a STYLE="-sec-extract:exhibit" href="ex3331.htm">Midland Loan Services, a Division of PNC Bank, National Association, as Special Servicer of the Promenade Gateway Mortgage
+Loan prior to May 14, 2019</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.32</TD><TD><a STYLE="-sec-extract:exhibit" href="ex332.htm">CWCapital Asset Management LLC, as Special Servicer of the Promenade Gateway Mortgage Loan on and after May 14, 2019 (see Exhibit
+33.2)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.33</TD><TD>Wilmington Trust, National Association, as Trustee of the Promenade Gateway Mortgage Loan (Omitted. See Explanatory Notes.)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.34</TD><TD><a STYLE="-sec-extract:exhibit" href="ex3334.htm">Wells Fargo Bank, National Association, as Custodian of the Promenade Gateway Mortgage Loan</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.35</TD><TD><a STYLE="-sec-extract:exhibit" href="ex335.htm">Park Bridge Lender Services LLC, as Operating Advisor of the Promenade Gateway Mortgage Loan (see Exhibit 33.5)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.36</TD><TD><a STYLE="-sec-extract:exhibit" href="ex336.htm">CoreLogic Commercial Real Estate Services, Inc., as Servicing Function Participant of the Promenade Gateway Mortgage Loan (see
+Exhibit 33.6)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.37</TD><TD><a STYLE="-sec-extract:exhibit" href="ex337.htm">National Tax Search, LLC, as Servicing Function Participant of the Promenade Gateway Mortgage Loan (see Exhibit 33.7)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.38</TD><TD><a STYLE="-sec-extract:exhibit" href="ex331.htm">Wells Fargo Bank, National Association, as Primary Servicer of the Santa Monica Multifamily Portfolio Mortgage Loan (see Exhibit
+33.1)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.39</TD><TD><a STYLE="-sec-extract:exhibit" href="ex3331.htm">Midland Loan Services, a Division of PNC Bank, National Association, as Special Servicer of the Santa Monica Multifamily Portfolio
+Mortgage Loan prior to May 14, 2019 (see Exhibit 33.31)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.40</TD><TD><a STYLE="-sec-extract:exhibit" href="ex332.htm">CWCapital Asset Management LLC, as Special Servicer of the Santa Monica Multifamily Portfolio Mortgage Loan on and after May
+14, 2019 (see Exhibit 33.2)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.41</TD><TD>Wilmington Trust, National Association, as Trustee of the Santa Monica Multifamily Portfolio Mortgage Loan (Omitted. See Explanatory
+Notes.)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.42</TD><TD><a STYLE="-sec-extract:exhibit" href="ex3334.htm">Wells Fargo Bank, National Association, as Custodian of the Santa Monica Multifamily Portfolio Mortgage Loan (see Exhibit 33.34)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.43</TD><TD><a STYLE="-sec-extract:exhibit" href="ex335.htm">Park Bridge Lender Services LLC, as Operating Advisor of the Santa Monica Multifamily Portfolio Mortgage Loan (see Exhibit
+33.5)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.44</TD><TD><a STYLE="-sec-extract:exhibit" href="ex336.htm">CoreLogic Commercial Real Estate Services, Inc., as Servicing Function Participant of the Santa Monica Multifamily Portfolio
+Mortgage Loan (see Exhibit 33.6)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.45</TD><TD><a STYLE="-sec-extract:exhibit" href="ex337.htm">National Tax Search, LLC, as Servicing Function Participant of the Santa Monica Multifamily Portfolio Mortgage Loan (see Exhibit
+33.7)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.46</TD><TD><a STYLE="-sec-extract:exhibit" href="ex331.htm">Wells Fargo Bank, National Association, as Primary Servicer of the Williamsburg Premium Outlets Mortgage Loan (see Exhibit
+33.1)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.47</TD><TD><a STYLE="-sec-extract:exhibit" href="ex3331.htm">Midland Loan Services, a Division of PNC Bank, National Association, as Special Servicer of the Williamsburg Premium Outlets
+Mortgage Loan (see Exhibit 33.31)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.48</TD><TD>Wilmington Trust, National Association, as Trustee of the Williamsburg Premium Outlets Mortgage Loan (Omitted. See Explanatory
+Notes.)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.49</TD><TD><a STYLE="-sec-extract:exhibit" href="ex3334.htm">Wells Fargo Bank, National Association, as Custodian of the Williamsburg Premium Outlets Mortgage Loan (see Exhibit 33.34)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.50</TD><TD><a STYLE="-sec-extract:exhibit" href="ex335.htm">Park Bridge Lender Services LLC, as Operating Advisor of the Williamsburg Premium Outlets Mortgage Loan (see Exhibit 33.5)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.51</TD><TD><a STYLE="-sec-extract:exhibit" href="ex336.htm">CoreLogic Commercial Real Estate Services, Inc., as Servicing Function Participant of the Williamsburg Premium Outlets Mortgage
+Loan (see Exhibit 33.6)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.52</TD><TD><a STYLE="-sec-extract:exhibit" href="ex337.htm">National Tax Search, LLC, as Servicing Function Participant of the Williamsburg Premium Outlets Mortgage Loan (see Exhibit
+33.7)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.53</TD><TD><a STYLE="-sec-extract:exhibit" href="ex331.htm">Wells Fargo Bank, National Association, as Primary Servicer of the Birch Run Premium Outlets Mortgage Loan (see Exhibit 33.1)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.54</TD><TD><a STYLE="-sec-extract:exhibit" href="ex338.htm">KeyBank National Association, as Special Servicer of the Birch Run Premium Outlets Mortgage Loan (see Exhibit 33.8)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.55</TD><TD>Wilmington Trust, National Association, as Trustee of the Birch Run Premium Outlets Mortgage Loan (Omitted. See Explanatory
+Notes.)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.56</TD><TD><a STYLE="-sec-extract:exhibit" href="ex3334.htm">Wells Fargo Bank, National Association, as Custodian of the Birch Run Premium Outlets Mortgage Loan (see Exhibit 33.34)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.57</TD><TD><a STYLE="-sec-extract:exhibit" href="ex335.htm">Park Bridge Lender Services LLC, as Operating Advisor of the Birch Run Premium Outlets Mortgage Loan (see Exhibit 33.5)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.58</TD><TD><a STYLE="-sec-extract:exhibit" href="ex336.htm">CoreLogic Commercial Real Estate Services, Inc., as Servicing Function Participant of the Birch Run Premium Outlets Mortgage
+Loan (see Exhibit 33.6)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.59</TD><TD><a STYLE="-sec-extract:exhibit" href="ex337.htm">National Tax Search, LLC, as Servicing Function Participant of the Birch Run Premium Outlets Mortgage Loan (see Exhibit 33.7)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34</TD><TD>Attestation reports on assessment of compliance with servicing criteria for asset-backed securities.</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.1</TD><TD><a STYLE="-sec-extract:exhibit" href="ex341.htm">Wells Fargo Bank, National Association, as Master Servicer</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.2</TD><TD><a STYLE="-sec-extract:exhibit" href="ex342.htm">CWCapital Asset Management LLC, as Special Servicer</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.3</TD><TD>Wilmington Trust, National Association, as Trustee (Omitted. See Explanatory Notes.)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.4</TD><TD><a STYLE="-sec-extract:exhibit" href="ex344.htm">Deutsche Bank Trust Company Americas, as Certificate Administrator and Custodian</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.5</TD><TD><a STYLE="-sec-extract:exhibit" href="ex345.htm">Park Bridge Lender Services LLC, as Operating Advisor</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.6</TD><TD><a STYLE="-sec-extract:exhibit" href="ex346.htm">CoreLogic Commercial Real Estate Services, Inc., as Servicing Function Participant</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.7</TD><TD><a STYLE="-sec-extract:exhibit" href="ex347.htm">National Tax Search, LLC, as Servicing Function Participant</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.8</TD><TD><a STYLE="-sec-extract:exhibit" href="ex348.htm">KeyBank National Association, as Primary Servicer</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.9</TD><TD><a STYLE="-sec-extract:exhibit" href="ex341.htm">Wells Fargo Bank, National Association, as Primary Servicer of the Sun MHC Portfolio Mortgage Loan (see Exhibit 34.1)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.10</TD><TD><a STYLE="-sec-extract:exhibit" href="ex342.htm">CWCapital Asset Management LLC, as Special Servicer of the Sun MHC Portfolio Mortgage Loan (see Exhibit 34.2)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.11</TD><TD>Wilmington Trust, National Association, as Trustee of the Sun MHC Portfolio Mortgage Loan (Omitted. See Explanatory Notes.)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.12</TD><TD><a STYLE="-sec-extract:exhibit" href="ex3412.htm">Deutsche Bank Trust Company Americas, as Custodian of the Sun MHC Portfolio Mortgage Loan</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.13</TD><TD><a STYLE="-sec-extract:exhibit" href="ex345.htm">Park Bridge Lender Services LLC, as Operating Advisor of the Sun MHC Portfolio Mortgage Loan (see Exhibit 34.5)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.14</TD><TD><a STYLE="-sec-extract:exhibit" href="ex346.htm">CoreLogic Commercial Real Estate Services, Inc., as Servicing Function Participant of the Sun MHC Portfolio Mortgage Loan (see
+Exhibit 34.6)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.15</TD><TD><a STYLE="-sec-extract:exhibit" href="ex347.htm">National Tax Search, LLC, as Servicing Function Participant of the Sun MHC Portfolio Mortgage Loan (see Exhibit 34.7)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.16</TD><TD><a STYLE="-sec-extract:exhibit" href="ex341.htm">Wells Fargo Bank, National Association, as Primary Servicer of the Intercontinental Kansas City Hotel Mortgage Loan (see Exhibit
+34.1)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.17</TD><TD><a STYLE="-sec-extract:exhibit" href="ex342.htm">CWCapital Asset Management LLC, as Special Servicer of the Intercontinental Kansas City Hotel Mortgage Loan (see Exhibit 34.2)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.18</TD><TD>Wilmington Trust, National Association, as Trustee of the Intercontinental Kansas City Hotel Mortgage Loan (Omitted. See Explanatory
+Notes.)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.19</TD><TD><a STYLE="-sec-extract:exhibit" href="ex3412.htm">Deutsche Bank Trust Company Americas, as Custodian of the Intercontinental Kansas City Hotel Mortgage Loan (see Exhibit 34.12)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.20</TD><TD><a STYLE="-sec-extract:exhibit" href="ex345.htm">Park Bridge Lender Services LLC, as Operating Advisor of the Intercontinental Kansas City Hotel Mortgage Loan (see Exhibit
+34.5)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.21</TD><TD><a STYLE="-sec-extract:exhibit" href="ex346.htm">CoreLogic Commercial Real Estate Services, Inc., as Servicing Function Participant of the Intercontinental Kansas City Hotel
+Mortgage Loan (see Exhibit 34.6)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.22</TD><TD><a STYLE="-sec-extract:exhibit" href="ex347.htm">National Tax Search, LLC, as Servicing Function Participant of the Intercontinental Kansas City Hotel Mortgage Loan (see Exhibit
+34.7)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.23</TD><TD><a STYLE="-sec-extract:exhibit" href="ex341.htm">Wells Fargo Bank, National Association, as Primary Servicer of the Columbus Park Crossing Mortgage Loan (see Exhibit 34.1)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.24</TD><TD><a STYLE="-sec-extract:exhibit" href="ex342.htm">CWCapital Asset Management LLC, as Special Servicer of the Columbus Park Crossing Mortgage Loan (see Exhibit 34.2)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.25</TD><TD>Wilmington Trust, National Association, as Trustee of the Columbus Park Crossing Mortgage Loan (Omitted. See Explanatory Notes.)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.26</TD><TD><a STYLE="-sec-extract:exhibit" href="ex3412.htm">Deutsche Bank Trust Company Americas, as Custodian of the Columbus Park Crossing Mortgage Loan (see Exhibit 34.12)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.27</TD><TD><a STYLE="-sec-extract:exhibit" href="ex345.htm">Park Bridge Lender Services LLC, as Operating Advisor of the Columbus Park Crossing Mortgage Loan (see Exhibit 34.5)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.28</TD><TD><a STYLE="-sec-extract:exhibit" href="ex346.htm">CoreLogic Commercial Real Estate Services, Inc., as Servicing Function Participant of the Columbus Park Crossing Mortgage Loan
+(see Exhibit 34.6)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.29</TD><TD><a STYLE="-sec-extract:exhibit" href="ex347.htm">National Tax Search, LLC, as Servicing Function Participant of the Columbus Park Crossing Mortgage Loan (see Exhibit 34.7)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.30</TD><TD><a STYLE="-sec-extract:exhibit" href="ex341.htm">Wells Fargo Bank, National Association, as Primary Servicer of the Promenade Gateway Mortgage Loan (see Exhibit 34.1)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.31</TD><TD><a STYLE="-sec-extract:exhibit" href="ex3431.htm">Midland Loan Services, a Division of PNC Bank, National Association, as Special Servicer of the Promenade Gateway Mortgage
+Loan prior to May 14, 2019</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.32</TD><TD><a STYLE="-sec-extract:exhibit" href="ex342.htm">CWCapital Asset Management LLC, as Special Servicer of the Promenade Gateway Mortgage Loan on and after May 14, 2019 on and
+after May 14, 2019 (see Exhibit 34.2)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.33</TD><TD>Wilmington Trust, National Association, as Trustee of the Promenade Gateway Mortgage Loan (Omitted. See Explanatory Notes.)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.34</TD><TD><a STYLE="-sec-extract:exhibit" href="ex3434.htm">Wells Fargo Bank, National Association, as Custodian of the Promenade Gateway Mortgage Loan</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.35</TD><TD><a STYLE="-sec-extract:exhibit" href="ex345.htm">Park Bridge Lender Services LLC, as Operating Advisor of the Promenade Gateway Mortgage Loan (see Exhibit 34.5)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.36</TD><TD><a STYLE="-sec-extract:exhibit" href="ex346.htm">CoreLogic Commercial Real Estate Services, Inc., as Servicing Function Participant of the Promenade Gateway Mortgage Loan (see
+Exhibit 34.6)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.37</TD><TD><a STYLE="-sec-extract:exhibit" href="ex347.htm">National Tax Search, LLC, as Servicing Function Participant of the Promenade Gateway Mortgage Loan (see Exhibit 34.7)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.38</TD><TD><a STYLE="-sec-extract:exhibit" href="ex341.htm">Wells Fargo Bank, National Association, as Primary Servicer of the Santa Monica Multifamily Portfolio Mortgage Loan (see Exhibit
+34.1)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.39</TD><TD><a STYLE="-sec-extract:exhibit" href="ex3431.htm">Midland Loan Services, a Division of PNC Bank, National Association, as Special Servicer of the Santa Monica Multifamily Portfolio
+Mortgage Loan prior to May 14, 2019 (see Exhibit 34.31)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.40</TD><TD><a STYLE="-sec-extract:exhibit" href="ex342.htm">CWCapital Asset Management LLC, as Special Servicer of the Santa Monica Multifamily Portfolio Mortgage Loan on and after May
+14, 2019 (see Exhibit 34.2)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.41</TD><TD>Wilmington Trust, National Association, as Trustee of the Santa Monica Multifamily Portfolio Mortgage Loan (Omitted. See Explanatory
+Notes.)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.42</TD><TD><a STYLE="-sec-extract:exhibit" href="ex341.htm">Wells Fargo Bank, National Association, as Custodian of the Santa Monica Multifamily Portfolio Mortgage Loan (see Exhibit 34.34)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.43</TD><TD><a STYLE="-sec-extract:exhibit" href="ex345.htm">Park Bridge Lender Services LLC, as Operating Advisor of the Santa Monica Multifamily Portfolio Mortgage Loan (see Exhibit
+34.5)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.44</TD><TD><a STYLE="-sec-extract:exhibit" href="ex346.htm">CoreLogic Commercial Real Estate Services, Inc., as Servicing Function Participant of the Santa Monica Multifamily Portfolio
+Mortgage Loan (see Exhibit 34.6)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.45</TD><TD><a STYLE="-sec-extract:exhibit" href="ex347.htm">National Tax Search, LLC, as Servicing Function Participant of the Santa Monica Multifamily Portfolio Mortgage Loan (see Exhibit
+34.7)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.46</TD><TD><a STYLE="-sec-extract:exhibit" href="ex341.htm">Wells Fargo Bank, National Association, as Primary Servicer of the Williamsburg Premium Outlets Mortgage Loan (see Exhibit
+34.1)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.47</TD><TD><a STYLE="-sec-extract:exhibit" href="ex3431.htm">Midland Loan Services, a Division of PNC Bank, National Association, as Special Servicer of the Williamsburg Premium Outlets
+Mortgage Loan (see Exhibit 34.31)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.48</TD><TD>Wilmington Trust, National Association, as Trustee of the Williamsburg Premium Outlets Mortgage Loan (Omitted. See Explanatory
+Notes.)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.49</TD><TD><a STYLE="-sec-extract:exhibit" href="ex3434.htm">Wells Fargo Bank, National Association, as Custodian of the Williamsburg Premium Outlets Mortgage Loan (see Exhibit 34.34)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.50</TD><TD><a STYLE="-sec-extract:exhibit" href="ex345.htm">Park Bridge Lender Services LLC, as Operating Advisor of the Williamsburg Premium Outlets Mortgage Loan (see Exhibit 34.5)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.51</TD><TD><a STYLE="-sec-extract:exhibit" href="ex346.htm">CoreLogic Commercial Real Estate Services, Inc., as Servicing Function Participant of the Williamsburg Premium Outlets Mortgage
+Loan (see Exhibit 34.6)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.52</TD><TD><a STYLE="-sec-extract:exhibit" href="ex347.htm">National Tax Search, LLC, as Servicing Function Participant of the Williamsburg Premium Outlets Mortgage Loan (see Exhibit
+34.7)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.53</TD><TD><a STYLE="-sec-extract:exhibit" href="ex341.htm">Wells Fargo Bank, National Association, as Primary Servicer of the Birch Run Premium Outlets Mortgage Loan (see Exhibit 34.1)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.54</TD><TD><a STYLE="-sec-extract:exhibit" href="ex348.htm">KeyBank National Association, as Special Servicer of the Birch Run Premium Outlets Mortgage Loan (see Exhibit 34.8)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.55</TD><TD>Wilmington Trust, National Association, as Trustee of the Birch Run Premium Outlets Mortgage Loan (Omitted. See Explanatory
+Notes.)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.56</TD><TD><a STYLE="-sec-extract:exhibit" href="ex3434.htm">Wells Fargo Bank, National Association, as Custodian of the Birch Run Premium Outlets Mortgage Loan (see Exhibit 34.34)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.57</TD><TD><a STYLE="-sec-extract:exhibit" href="ex345.htm">Park Bridge Lender Services LLC, as Operating Advisor of the Birch Run Premium Outlets Mortgage Loan (see Exhibit 34.5)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.58</TD><TD><a STYLE="-sec-extract:exhibit" href="ex346.htm">CoreLogic Commercial Real Estate Services, Inc., as Servicing Function Participant of the Birch Run Premium Outlets Mortgage
+Loan (see Exhibit 34.6)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.59</TD><TD><a STYLE="-sec-extract:exhibit" href="ex347.htm">National Tax Search, LLC, as Servicing Function Participant of the Birch Run Premium Outlets Mortgage Loan (see Exhibit 34.7)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">35</TD><TD>Servicer compliance statements.</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">35.1</TD><TD><a STYLE="-sec-extract:exhibit" href="ex351.htm">Wells Fargo Bank, National Association, as Master Servicer</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">35.2</TD><TD><a STYLE="-sec-extract:exhibit" href="ex352.htm">CWCapital Asset Management LLC, as Special Servicer</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">35.3</TD><TD><a STYLE="-sec-extract:exhibit" href="ex353.htm">Deutsche Bank Trust Company Americas, as Certificate Administrator</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">35.4</TD><TD><a STYLE="-sec-extract:exhibit" href="ex354.htm">KeyBank National Association, as Primary Servicer</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">35.5</TD><TD><a STYLE="-sec-extract:exhibit" href="ex351.htm">Wells Fargo Bank, National Association, as Primary Servicer of the Sun MHC Portfolio Mortgage Loan (see Exhibit 35.1)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">35.6</TD><TD><a STYLE="-sec-extract:exhibit" href="ex352.htm">CWCapital Asset Management LLC, as Special Servicer of the Sun MHC Portfolio Mortgage Loan (see Exhibit 35.2)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">35.7</TD><TD><a STYLE="-sec-extract:exhibit" href="ex351.htm">Wells Fargo Bank, National Association, as Primary Servicer of the Intercontinental Kansas City Hotel Mortgage Loan (see Exhibit
+35.1)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">35.8</TD><TD><a STYLE="-sec-extract:exhibit" href="ex352.htm">CWCapital Asset Management LLC, as Special Servicer of the Intercontinental Kansas City Hotel Mortgage Loan (see Exhibit 35.2)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">35.9</TD><TD><a STYLE="-sec-extract:exhibit" href="ex351.htm">Wells Fargo Bank, National Association, as Primary Servicer of the Columbus Park Crossing Mortgage Loan (see Exhibit 35.1)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">35.10</TD><TD><a STYLE="-sec-extract:exhibit" href="ex352.htm">CWCapital Asset Management LLC, as Special Servicer of the Columbus Park Crossing Mortgage Loan (see Exhibit 35.2)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">35.11</TD><TD><a STYLE="-sec-extract:exhibit" href="ex351.htm">Wells Fargo Bank, National Association, as Primary Servicer of the Promenade Gateway Mortgage Loan (see Exhibit 35.1)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">35.12</TD><TD>Midland Loan Services, a Division of PNC Bank, National Association, as Special Servicer of the Promenade Gateway Mortgage
+Loan prior to May 14, 2019 (Omitted. See Explanatory Notes.)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">35.13</TD><TD><a STYLE="-sec-extract:exhibit" href="ex352.htm">CWCapital Asset Management LLC, as Special Servicer of the Promenade Gateway Mortgage Loan on and after May 14, 2019 (see Exhibit
+35.2)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">35.14</TD><TD><a STYLE="-sec-extract:exhibit" href="ex351.htm">Wells Fargo Bank, National Association, as Primary Servicer of the Santa Monica Multifamily Portfolio Mortgage Loan (see Exhibit
+35.1)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">35.15</TD><TD>Midland Loan Services, a Division of PNC Bank, National Association, as Special Servicer of the Santa Monica Multifamily Portfolio
+Mortgage Loan prior to May 14, 2019 (Omitted. See Explanatory Notes.)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">35.16</TD><TD><a STYLE="-sec-extract:exhibit" href="ex352.htm">CWCapital Asset Management LLC, as Special Servicer of the Santa Monica Multifamily Portfolio Mortgage Loan on and after May
+14, 2019 (see Exhibit 35.2)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">35.17</TD><TD><a STYLE="-sec-extract:exhibit" href="ex351.htm">Wells Fargo Bank, National Association, as Primary Servicer of the Williamsburg Premium Outlets Mortgage Loan (see Exhibit 35.1)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">35.18</TD><TD>Midland Loan Services, a Division of PNC Bank, National Association, as Special Servicer of the Williamsburg Premium Outlets
+Mortgage Loan (Omitted. See Explanatory Notes.)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">35.19</TD><TD><a STYLE="-sec-extract:exhibit" href="ex351.htm">Wells Fargo Bank, National Association, as Primary Servicer of the Birch Run Premium Outlets Mortgage Loan (see Exhibit 35.1)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">35.20</TD><TD><a STYLE="-sec-extract:exhibit" href="ex354.htm">KeyBank National Association, as Special Servicer of the Birch Run Premium Outlets Mortgage Loan (see Exhibit 35.4)</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">99.1</TD><TD><A HREF="http://www.sec.gov/Archives/edgar/data/1663244/000153949716003012/exh_99-1.htm">Mortgage Loan Purchase Agreement, dated as of March 3, 2016, between Deutsche Mortgage &amp; Asset Receiving Corporation and German American Capital Corporation (filed as Exhibit 99.1 to the registrant&rsquo;s Current Report on Form 8-K/A filed on May 23, 2016 under Commission File No. 333-206705-02 and incorporated by reference herein)</A></TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">99.2</TD><TD><A HREF="http://www.sec.gov/Archives/edgar/data/1663244/000153949716003012/exh_99-2.htm">Mortgage Loan Purchase Agreement, dated as of March 3, 2016, between Deutsche Mortgage &amp; Asset Receiving Corporation and KeyBank National Association (filed as Exhibit 99.2 to the registrant&rsquo;s Current Report on Form 8-K/A filed on May 23, 2016 under Commission File No. 333-206705-02 and incorporated by reference herein)</A></TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">99.3</TD><TD><A HREF="http://www.sec.gov/Archives/edgar/data/1663244/000153949716003012/exh_99-3.htm">Mortgage Loan Purchase Agreement, dated as of March 3, 2016, between Deutsche Mortgage &amp; Asset Receiving Corporation and Jefferies LoanCore LLC (filed as Exhibit 99.3 to the registrant&rsquo;s Current Report on Form 8-K/A filed on May 23, 2016 under Commission File No. 333-206705-02 and incorporated by reference herein)</A></TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">99.4</TD><TD><A HREF="http://www.sec.gov/Archives/edgar/data/1663244/000153949716002633/exh_99-4.htm">Primary Servicing Agreement, dated as of March 1, 2016, between Wells Fargo Bank, National Association and KeyBank National Association (filed as Exhibit 99.4 to the registrant&rsquo;s Current Report on Form 8-K filed on March 16, 2016 under Commission File No. 333-206705-02 and incorporated by reference herein)</A></TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">99.5</TD><TD><A HREF="http://www.sec.gov/Archives/edgar/data/1663244/000153949716002633/exh_99-8sunmhc.htm">Co-Lender Agreement, dated as of March 16, 2016, between German American Capital Corporation, as Note A-1 Holder, and German American Capital Corporation, as Note A-2 Holder (filed as Exhibit 99.8 to the registrant&rsquo;s Current Report on Form 8-K filed on March 16, 2016 under Commission File No. 333-206705-02 and incorporated by reference herein).</A></TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">99.6</TD><TD><A HREF="http://www.sec.gov/Archives/edgar/data/1663244/000153949716002633/exh_99-10intercon.htm">Co-Lender Agreement, dated as of March 16, 2016, between German American Capital Corporation, as Note A-1 Holder, and German American Capital Corporation, as Note A-2 Holder (filed as Exhibit 99.10 to the registrant&rsquo;s Current Report on Form 8-K filed on March 16, 2016 under Commission File No. 333-206705-02 and incorporated by reference herein).</A></TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">99.7</TD><TD><A HREF="http://www.sec.gov/Archives/edgar/data/1663244/000153949716002633/exh_99-11columbus.htm">Co-Lender Agreement, dated as of March 16, 2016, between German American Capital Corporation, as Note A-1 Holder, and German American Capital Corporation, as Note A-2 Holder (filed as Exhibit 99.11 to the registrant&rsquo;s Current Report on Form 8-K filed on March 16, 2016 under Commission File No. 333-206705-02 and incorporated by reference herein).</A></TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">99.8</TD><TD><A HREF="http://www.sec.gov/Archives/edgar/data/1663244/000153949716002633/exh_99-6promgtwy.htm">Co-Lender Agreement, dated as of December 4, 2015, between Jefferies LoanCore LLC, as Note A-1 Holder, and Jefferies LoanCore LLC, as Note A-2 Holder (filed as Exhibit 99.6 to the registrant&rsquo;s Current Report on Form 8-K filed on March 16, 2016 under Commission File No. 333-206705-02 and incorporated by reference herein).</A></TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">99.9</TD><TD><A HREF="http://www.sec.gov/Archives/edgar/data/1663244/000153949716002633/exh_99-7stmonica.htm">Co-Lender Agreement, dated as of February 10, 2016, between German American Capital Corporation, as Note A-1 Holder, and German American Capital Corporation, as Note A-2 Holder (filed as Exhibit 99.7 to the registrant&rsquo;s Current Report on Form 8-K filed on March 16, 2016 under Commission File No. 333-206705-02 and incorporated by reference herein).</A></TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">99.10</TD><TD><A HREF="http://www.sec.gov/Archives/edgar/data/1663244/000153949716002633/exh_99-9williams.htm">Co-Lender Agreement, dated as of March 16, 2016, between German American Capital Corporation, as Note A-1 Holder, and German American Capital Corporation, as Note A-2 Holder, and German American Capital Corporation, as Note A-3 Holder, and German American Capital Corporation, as Note A-4 Holder, and German American Capital Corporation, as Note A-5 Holder, and German American Capital Corporation, as Note A-6 Holder (filed as Exhibit 99.9 to the registrant&rsquo;s Current Report on Form 8-K filed on March 16, 2016 under Commission File No. 333-206705-02 and incorporated by reference herein).</A></TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">99.11</TD><TD><A HREF="http://www.sec.gov/Archives/edgar/data/1663244/000153949716002633/exh_99-12birch.htm">Co-Lender Agreement, dated as of March 16, 2016, between German American Capital Corporation, as Note A-1-A Holder, and German American Capital Corporation, as Note A-1-B Holder, and German American Capital Corporation, as Note A-2 Holder, and German American Capital Corporation, as Note A-3 Holder, and German American Capital Corporation, as Note A-4 Holder (filed as Exhibit 99.12 to the registrant&rsquo;s Current Report on Form 8-K filed on March 16, 2016 under Commission File No. 333-206705-02 and incorporated by reference herein).</A></TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">99.12</TD><TD><A HREF="http://www.sec.gov/Archives/edgar/data/1663244/000153949716004332/exh_99-1birchrun.htm">Second Amended and Restated Co-Lender Agreement, dated as of October 20, 2016, among Wilmington Trust, National Association, as Trustee, for the benefit of the holders of the COMM 2016-DC2 Mortgage Trust Commercial Mortgage Pass-Through Certificates Series 2016-DC2, as Note A-1-A Holder, and German American Capital Corporation, as Note A-1-B1 Holder, and German American Capital Corporation, as Note A-1-B2 Holder, and Wells Fargo Bank, National Association, as Trustee, for the benefit of the holders of the COMM 2016-DC1 Mortgage Trust Commercial Mortgage Pass-Through Certificates Series 2016-DC1, as Note A-2-A Holder and Note A-4 Holder, and German American Capital Corporation, as Note A-2-B Holder, and German American Capital Corporation, as Note A-3 Holder (filed as Exhibit 99.1 to the registrant&rsquo;s Current Report on Form 8-K filed on December 14, 2016 under Commission File No. 333-206705-02 and incorporated by reference herein).</A></TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">(b)</TD><TD>The exhibits required to be filed by the Registrant pursuant to Item 601 of Regulation S-K are listed above and in the Exhibit
+Index that immediately follows the signature page hereof.</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">(c)</TD><TD>Not Applicable.</TD></TR></TABLE>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">&nbsp;</P>
+
+
+<!-- Field: Page; Sequence: 2 -->
+    <DIV STYLE="margin-bottom: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0.25in 0 0">SIGNATURES</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly
+authorized.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 12pt 4.5in 0 0">Deutsche Mortgage &amp; Asset Receiving Corporation<BR>
+(Depositor)</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 12pt 0 0; border-bottom: Black 0.5pt solid; width:3in">/s/ Helaine M. Kaplan</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 0 4.5in 0 0">Helaine M. Kaplan, President</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 0 4.5in 0 0">(senior officer in charge of securitization of the depositor)</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 12pt 4.5in 0 0">Date: March 19, 2020</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 12pt 0 0; border-bottom: Black 0.5pt solid; width:3in">/s/ Matt Smith</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 0 4.5in 0 0">Matt Smith, Director</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 12pt 0 0">Date: March 19, 2020</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 12pt 0 0">&nbsp;</P>
+
+
+
+<P STYLE="margin: 0"></P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>

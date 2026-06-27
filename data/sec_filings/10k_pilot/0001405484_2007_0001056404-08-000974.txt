@@ -1,0 +1,604 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>hbv07006_10k-2007.txt
+<TEXT>
+
+                                UNITED STATES
+                     SECURITIES AND EXCHANGE COMMISSION
+                            WASHINGTON, D.C. 20549
+
+                                  FORM 10-K
+
+
+  (Mark one)
+
+  /X/ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+      EXCHANGE ACT OF 1934
+      For the fiscal year ended December 31, 2007
+
+      OR
+
+
+  / / TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+      EXCHANGE ACT OF 1934
+      For the transition period from ____________ to ____________
+
+
+
+      Commission file number: 333-140279-09
+
+      HarborView Mortgage Loan Trust 2007-6
+      (exact name of issuing entity as specified in its charter)
+
+      Greenwich Capital Acceptance, Inc. (depositor)
+      (exact name of the registrant as specified in its charter)
+
+      Greenwich Capital Financial Products, Inc.
+      (exact name of the sponsor as specified in its charter)
+
+
+
+  Delaware                                06-1199884
+  (State or other jurisdiction of         (I.R.S. Employer
+  incorporation or organization)          Identification No.)
+
+
+
+  600 Steamboat Road
+   Greenwich, CT                                06830
+  (Address of principal executive             (Zip Code)
+  offices)
+
+
+ Registrant's telephone number, including area code: (203) 625-2700
+
+
+
+  Securities registered pursuant to Section 12(b) of the Act:
+
+    NONE.
+
+
+
+  Securities registered pursuant to Section 12(g) of the Act:
+
+    NONE.
+
+
+
+  Indicate by check mark if the registrant is a well-known seasoned issuer, as
+  defined in Rule 405 of the Securities Act.
+
+    Yes ___     No  X
+
+
+
+  Indicate by check mark if the registrant is not required to file reports
+  pursuant to Section 13 or Section 15(d) of the Act.
+
+    Yes ___     No  X
+
+
+
+
+  Indicate by check mark whether the registrant (1) has filed all reports
+  required to be filed by Section 13 or 15(d) of the Securities Exchange Act
+  of 1934 during the preceding 12 months (or for such shorter period that the
+  registrant was required to file such reports), and (2) has been subject to
+  such filing requirements for the past 90 days.
+
+    Yes  X      No ___
+
+
+
+  Indicate by check mark if disclosure of delinquent filers pursuant to Item
+  405 of Regulation S-K (Section 229.405 of this chapter) is not contained
+  herein, and will not be contained, to the best of registrant's knowledge, in
+  definitive proxy or information statements incorporated by reference in Part
+  III of this Form 10-K or any amendment to this Form 10-K.
+
+       X
+
+
+
+  Indicate by check mark whether the registrant is a large accelerated filer,
+  an accelerated filer, a non-accelerated filer, or a smaller reporting
+  company.  See the definitions of "large accelerated filer", "accelerated
+  filer" and "smaller reporting company" in Rule 12b-2 of the Exchange Act.
+
+   Large accelerated filer ___
+   Accelerated filer ___
+   Non-accelerated filer     X
+   Smaller reporting company ___
+
+  Indicate by check mark whether the registrant is a shell company (as defined
+  in Rule 12b-2 of the Act).
+
+    Yes ___     No  X
+
+
+
+  State the aggregate market value of the voting and non-voting common equity
+  held by non-affiliates computed by reference to the price at which the
+  common equity was last sold, or the average bid and asked price of such
+  common equity, as of the last business day of the registrant's most recently
+  completed second fiscal quarter.
+
+    Not applicable.
+
+
+
+  Indicate by check mark whether the registrant has filed all documents and
+  reports required to be filed by Section 12, 13 or 15(d) of the Securities
+  Exchange Act of 1934 subsequent to the distribution of securities under a
+  plan confirmed by a court.
+
+    Not applicable.
+
+
+
+  Indicate the number of shares outstanding of each of the registrant's
+  classes of common stock, as of the latest practicable date.
+
+    Not applicable.
+
+
+
+  DOCUMENTS INCORPORATED BY REFERENCE
+
+  List hereunder the following documents if incorporated by reference and the
+  Part of the Form 10-K (e.g., Part I, Part II, etc.) into which the document
+  is incorporated: (1)Any annual report to security holders; (2) Any proxy or
+  information statement; and (3)Any prospectus filed pursuant to Rule 424(b)
+  or (c) under the Securities Act of 1933. The listed documents should be
+  clearly described for identification purposes (e.g., annual report to
+  security holders for fiscal year ended December 24, 1980).
+
+    Not applicable.
+
+
+
+
+
+                                     PART I
+
+  Item 1.      Business.
+
+               Not applicable.
+
+
+  Item 1A.     Risk Factors.
+
+               Not applicable.
+
+
+  Item 1B.     Unresolved Staff Comments.
+
+               None.
+
+
+  Item 2.      Properties.
+
+               Not applicable.
+
+
+  Item 3.      Legal Proceedings.
+
+               None.
+
+
+  Item 4.      Submission of Matters to a Vote of Security Holders.
+
+               Not applicable.
+
+
+
+
+                                     PART II
+
+  Item 5.      Market for Registrant's Common Equity, Related Stockholder
+               Matters and Issuer Purchases of Equity Securities.
+
+               Not applicable.
+
+
+  Item 6.      Selected Financial Data.
+
+               Not applicable.
+
+
+  Item 7.      Management's Discussion and Analysis of Financial Condition and
+               Results of Operation.
+
+               Not applicable.
+
+
+  Item 7A.     Quantitative and Qualitative Disclosures About Market Risk.
+
+               Not applicable.
+
+
+  Item 8.      Financial Statements and Supplementary Data.
+
+               Not applicable.
+
+
+  Item 9.      Changes in and Disagreements With Accountants on Accounting and
+               Financial Disclosure.
+
+               Not applicable.
+
+
+  Item 9A.     Controls and Procedures.
+
+               Not applicable.
+
+
+  Item 9A(T).  Controls and Procedures.
+
+               Not applicable.
+
+
+  Item 9B.     Other Information.
+
+               None.
+
+
+
+
+                                    PART III
+
+  Item 10.     Directors, Executive Officers and Corporate Governance.
+
+               Not applicable.
+
+
+  Item 11.     Executive Compensation.
+
+               Not applicable.
+
+
+  Item 12.     Security Ownership of Certain Beneficial Owners and Management
+               and Related Stockholder Matters.
+
+               Not applicable.
+
+
+  Item 13.     Certain Relationships and Related Transactions, and Director
+               Independence.
+
+               Not applicable.
+
+
+  Item 14.     Principal Accounting Fees and Services.
+
+               Not applicable.
+
+
+
+
+  ADDITIONAL DISCLOSURE ITEMS PURSUANT TO GENERAL INSTRUCTION J
+
+
+Item 1112(b) of Regulation AB, Significant Obligor Financial Information.
+
+No single obligor represents 10% or more of the pool assets held by the issuing
+entity.
+
+
+
+Item 1114(b)(2) of Regulation AB, Significant Enhancement  Provider Financial
+Information.
+
+No entity or group of affiliated entities provides any external credit
+enhancement or other support for the certificates within this transaction as
+described under Item 1114 (a) of Regulation AB.
+
+
+
+Item 1115(b) of Regulation AB, Certain Derivatives Instruments (Financial
+Information).
+
+Bear Stearns Financial Products Inc. provides a yield maintenance agreement and
+a  basis risk cap agreement for the trust as disclosed in the 424 Prospectus.
+No additional disclosure is necessary because the aggregate significance
+percentage for the yield maintenance agreement and the basis risk cap agreement
+is less than 10%.
+
+
+
+Item 1117 of Regulation AB, Legal Proceedings.
+
+On August 6, 2007, American Home Mortgage Holdings, Inc. and seven
+affiliates, including American Home Mortgage Corp., which is an originator of
+certain of the mortgage loans, and American Home Mortgage Servicing, Inc.,
+which is a servicer of the mortgage loans (collectively, the "Debtors"), each
+filed voluntary petitions for relief under Chapter 11 of Title 11 of the
+United States Code in the United States Bankruptcy Court for the District of
+Delaware (the "Bankruptcy Court"). Judge Christopher S. Sontchi is presiding
+over the Debtors' Chapter 11 bankruptcy cases, which are being jointly
+administered under Case Number 07-11047. The Debtors are at this time
+operating their businesses as "debtors-in-possession" under the jurisdiction
+of the Bankruptcy Court.
+
+On October 23, 2007, the Bankruptcy Court approved AH Mortgage Acquisition
+Co., Inc., an entity formed by Wilbur L. Ross (the "Purchaser"), entering
+into an agreement to acquire substantially all of the servicing assets of
+American Home Mortgage Servicing, Inc. On November 15, 2007, the financial
+closing of the transaction, the Purchaser invested over $500 million in these
+servicing assets. American Home Mortgage Servicing, Inc.'s management
+believes that the legal closing of the acquisition will occur during the
+second quarter of 2008. After the legal closing, the new servicing company
+will conduct business as AH Mortgage Acquisition Co., Inc. doing business as
+American Home Mortgage Servicing, Inc.
+
+
+
+Item 1119 of Regulation AB, Affiliations and Certain Relationships and Related
+Transactions.
+
+Information required by item 1119 has been omitted from this annual
+report on Form 10-K because it is materially the same information as has been
+provided previously in a prospectus timely filed pursuant to Rule 424
+promulgated under the Securities Act of 1933 under the same Central Index Key
+(CIK) code as this annual report on Form 10-K.
+
+Bear Stearns Financial Products Inc.:
+
+     On March 16, 2008, JPMorgan Chase & Co. ("JPMorgan Chase") announced
+     that it had entered into an Agreement and Plan of Merger, dated March
+     16, 2008 (the "Agreement and Plan of Merger"), and subsequently amended
+     by Amendment No. 1 to the Agreement and Plan of Merger, dated as of
+     March 24, 2008 (such amendment, together with the Agreement and Plan of
+     Merger, the "Merger Agreement"), with The Bear Stearns Companies Inc.,
+     the parent company of Bear Stearns Financial Products Inc. The Merger
+     Agreement provides that, upon the terms and subject to the conditions
+     set forth in Merger Agreement, a wholly-owned subsidiary of JPMorgan
+     Chase will merge with and into The Bear Stearns Companies Inc. with The
+     Bear Stearns Companies Inc. continuing as the surviving corporation and
+     as a wholly-owned subsidiary of JPMorgan Chase. The Merger Agreement has
+     been approved by the Boards of Directors of The Bear Stearns Companies
+     Inc. and JPMorgan Chase and is subject to customary closing conditions,
+     including stockholder approval. The Federal Reserve, the Office of the
+     Comptroller of the Currency and other federal agencies have given all
+     necessary approvals for the merger. The merger is expected to be
+     completed by the end of the second calendar year quarter of 2008,
+     however there can be no assurance that the merger will close as
+     contemplated.
+
+     In connection with the Merger Agreement, JPMorgan Chase issued an
+     Amended and Restated Guaranty Agreement, effective as of March 16, 2008
+     (the "Guaranty"), guaranteeing the obligations and liabilities of The
+     Bear Stearns Companies Inc. and certain of its affiliates, including
+     Bear Stearns Financial Products Inc.'s obligations under the yield
+     maintenance agreement and the basis risk cap agreement. A copy of the
+     Guaranty is filed as Exhibit 99.1 to this Form 10-K. Except with respect
+     to the addition of this Guaranty, the terms and conditions of the yield
+     maintenance agreement and the basis risk cap agreement remain unchanged.
+
+     JPMorgan Chase is a financial holding company incorporated under
+     Delaware law, whose principal office is located in New York, New York.
+     JPMorgan Chase services include investment banking, financial services
+     for consumers, small business and commercial banking, financial
+     transaction processing, asset management, and private equity. A
+     component of the Dow Jones Industrial Average, JPMorgan Chase serves
+     millions of consumers in the United States and many of the world's
+     corporate, institutional and government clients under its JPMorgan and
+     Chase brands. Information about JPMorgan Chase is available at
+     www.jpmorganchase.com.
+
+
+
+Item 1122 of Regulation AB, Compliance with Applicable Servicing Criteria.
+
+The reports on assessment of compliance with the servicing criteria for
+asset-backed securities are attached hereto under Item 15.
+
+The assessment of compliance for GMAC Mortgage, LLC disclosed the following
+material noncompliance, as applicable during the twelve months ended
+December 31, 2007:
+
+Certain custodial account reconciliations were not reviewed within timelines
+outlined in the GMACM's policies and procedures, as required by criteria
+1122 (d)(2)(vii)(C).  Certain custodial accounts had reconciling items which
+were not resolved within 90 calendar days of original identification, as
+required by criteria 1122(d)(2)(vii)(D).
+
+
+The assessment of compliance for Paul Financial, LLC disclosed the following
+material noncompliance, as applicable during the twelve months ended
+December 31, 2007:
+
+Our assessment of compliance disclosed the following material noncompliance
+with servicing criterion 1122(d)(1)(i), as applicable to the Company for the
+year ended December 31, 2007. The Company did not monitor and notify parties
+as required in the transactions agreements that an event of default had
+occurred with respect to the Company.
+
+Although each servicing criterion required by Item 1122(d) of Regulation AB is
+addressed in one or more of the Assessments of Compliance with Servicing
+Criteria and related Attestation Reports included with this report, the
+Servicers', Paul Financial, LLC and GMAC Mortgage, LLC, Assessments of
+Compliance and related Attestation Reports did not address each of the servicing
+criteria that the Servicers were required to address under the terms of the
+related Servicing Agreements.  The Servicers have not identified such failure to
+provide an Assessment and Attestation for these items as a material failure to
+fulfill its obligations under the related servicing agreements in the Servicer
+Compliance Statements provided under Item 1123 of Regulation AB, because the
+Servicers assert that those items are not applicable to the Servicers.
+
+
+
+Item 1123 of Regulation AB, Servicer Compliance Statement.
+
+The servicer compliance statements are attached hereto under Item 15.
+
+
+
+                               Part IV
+
+  Item 15. Exhibits, Financial Statement Schedules.
+
+  (a) Exhibits.
+
+  (4.1) Amended and Restated Pooling and Servicing Agreement dated as of July
+  1, 2007, among Greenwich Capital Acceptance, Inc., as Depositor, Greenwich
+  Capital Financial Products, Inc., as Seller, Wells Fargo Bank, N.A., as
+  Master Servicer and Securities Administrator, Clayton Fixed Income Services
+  Inc., as Credit Risk Manager and Deutsche Bank National Trust Company, as
+  Trustee and a Custodian, originally filed on Form 8K on August 15, 2007, and
+  amended and restated and filed on Form 8-K/A on October 4, 2007, Commission
+  File Number 333-140279-09, CIK Number 0001405484.
+
+  (10.1) Incorporated by reference as Exhibit (4.1).
+
+  (31) Rule 13a-14(d)/15d-14(d) Certification.
+
+  (33) Reports on assessment of compliance with servicing criteria for
+  asset-backed securities.
+
+
+    <TABLE>
+    <s>      <c>
+
+    33.1 Deutsche Bank National Trust Company as Trustee and as Custodian
+    33.2 GMAC Bank as Sub-Contractor for GMAC Mortgage, LLC f/k/a GMAC Mortgage Corporation
+    33.3 GMAC Mortgage, LLC f/k/a GMAC Mortgage Corporation as Servicer
+    33.4 Paul Financial, LLC as Servicer
+    33.5 The Bank of New York Trust Company, National Association as Custodian
+    33.6 Wells Fargo Bank, N.A. as Master Servicer and Securities Administrator
+
+    </TABLE>
+
+
+  (34) Attestation reports on assessment of compliance with servicing criteria
+  for asset-backed securities.
+
+
+    <TABLE>
+    <s>      <c>
+
+    34.1 Deutsche Bank National Trust Company as Trustee and as Custodian
+    34.2 GMAC Bank as Sub-Contractor for GMAC Mortgage, LLC f/k/a GMAC Mortgage Corporation
+    34.3 GMAC Mortgage, LLC f/k/a GMAC Mortgage Corporation as Servicer
+    34.4 Paul Financial, LLC as Servicer
+    34.5 The Bank of New York Trust Company, National Association as Custodian
+    34.6 Wells Fargo Bank, N.A. as Master Servicer and Securities Administrator
+
+    </TABLE>
+
+
+   (35) Servicer compliance statements.
+
+
+    <TABLE>
+    <s>       <c>
+
+    35.1 GMAC Mortgage, LLC f/k/a GMAC Mortgage Corporation as Servicer
+    35.2 Wells Fargo Bank, N.A. as Master Servicer and Securities Administrator
+
+    </TABLE>
+
+
+   (99.1) Amended and Restated Guaranty Agreement effective March 16, 2008 by
+   JPMorgan Chase & Co.
+
+   (b) Exhibits identified in paragraph (a) above.
+
+   (c) Not applicable.
+
+
+
+                          SIGNATURES
+
+
+  Pursuant to the requirements of Section 13 or 15(d) of the Securities
+  Exchange Act of 1934, the registrant has duly caused this report to be
+  signed on its behalf by the undersigned, thereunto duly authorized.
+
+
+   HarborView Mortgage Loan Trust 2007-6
+   (Issuing Entity)
+
+   Wells Fargo Bank, N.A.
+   (Master Servicer)
+
+   /s/ Diane Courtney
+   Diane Courtney, Vice President
+   (Senior Officer in charge of the servicing function of Wells Fargo Bank,
+    N.A., in its capacity as Master Servicer)
+
+
+    Date:   March 26, 2008
+
+
+
+  Exhibit Index
+
+  Exhibit No.
+
+
+   (4.1) Amended and Restated Pooling and Servicing Agreement dated as of July
+   1, 2007, among Greenwich Capital Acceptance, Inc., as Depositor, Greenwich
+   Capital Financial Products, Inc., as Seller, Wells Fargo Bank, N.A., as
+   Master Servicer and Securities Administrator, Clayton Fixed Income Services
+   Inc., as Credit Risk Manager and Deutsche Bank National Trust Company, as
+   Trustee and a Custodian, originally filed on Form 8K on August 15, 2007,
+   and amended and restated and filed on Form 8-K/A on October 4, 2007,
+   Commission File Number 333-140279-09, CIK Number 0001405484.
+
+   (10.1) Incorporated by reference as Exhibit (4.1).
+
+   (31) Rule 13a-14(d)/15d-14(d) Certification.
+
+   (33) Reports on assessment of compliance with servicing criteria for
+   asset-backed securities.
+
+
+    <TABLE>
+
+    <s>      <c>
+    33.1 Deutsche Bank National Trust Company as Trustee and as Custodian
+    33.2 GMAC Bank as Sub-Contractor for GMAC Mortgage, LLC f/k/a GMAC Mortgage Corporation
+    33.3 GMAC Mortgage, LLC f/k/a GMAC Mortgage Corporation as Servicer
+    33.4 Paul Financial, LLC as Servicer
+    33.5 The Bank of New York Trust Company, National Association as Custodian
+    33.6 Wells Fargo Bank, N.A. as Master Servicer and Securities Administrator
+
+    </TABLE>
+
+   (34) Attestation reports on assessment of compliance with servicing
+   criteria for asset-backed securities.
+
+
+    <TABLE>
+
+    <s>      <c>
+    34.1 Deutsche Bank National Trust Company as Trustee and as Custodian
+    34.2 GMAC Bank as Sub-Contractor for GMAC Mortgage, LLC f/k/a GMAC Mortgage Corporation
+    34.3 GMAC Mortgage, LLC f/k/a GMAC Mortgage Corporation as Servicer
+    34.4 Paul Financial, LLC as Servicer
+    34.5 The Bank of New York Trust Company, National Association as Custodian
+    34.6 Wells Fargo Bank, N.A. as Master Servicer and Securities Administrator
+
+    </TABLE>
+
+   (35) Servicer compliance statements.
+
+
+    <TABLE>
+
+    <s>       <c>
+    35.1 GMAC Mortgage, LLC f/k/a GMAC Mortgage Corporation as Servicer
+    35.2 Wells Fargo Bank, N.A. as Master Servicer and Securities Administrator
+
+    </TABLE>
+
+   (99.1) Amended and Restated Guaranty Agreement effective March 16, 2008 by
+   JPMorgan Chase & Co.
+
+
+
+</TEXT>
+</DOCUMENT>

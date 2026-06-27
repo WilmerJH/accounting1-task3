@@ -1,0 +1,1943 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>aev10k.htm
+<DESCRIPTION>FORM10K
+<TEXT>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+<head>
+
+<title>Form 10-K</title>
+</head>
+
+<body style="font-size: 10pt; font-family: Times New Roman; margin-left: 7%; text-indent: 0pt; margin-right: 7%">
+<p align="center"><strong>U.S. SECURITIES AND EXCHANGE COMMISSION<br />
+  Washington, D.C. 20549</strong></p>
+<p align="center"><strong> FORM 10-K</strong><br />
+<br />
+</p>
+<p align="left">(Mark One)</p>
+<p align="left"><strong>[ X ] ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934</strong><BR />
+For the fiscal year ended August 31, 2010, or</p>
+<p align="left"><strong>[ ] TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934</strong><BR />
+For the transition period from _____________________ to ____________________</p>
+<p align="center">Commission File Number<BR />
+000-53787</p>
+<p align="center">Assured Equities V Corporation<br />
+(Exact name of Company as specified in its charter)</p>
+<p align="center">&nbsp;</p>
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+        <p align="center"><strong>Florida</strong><br />
+          (State or other jurisdiction of<br />
+          incorporation or formation)
+          <br />
+      </p></td>
+    <td width="50%" valign="top"><p align="center"><strong>27-0611384</strong><br />
+      (I.R.S. Employer<br />
+      Identification Number) </p></td>
+  </tr>
+  <tr>
+    <td valign="top"><p align="center">2211 12th Avenue East<br />
+      Seattle, WA<br />
+      (Address of principal executive offices)</p></td>
+    <td valign="top"><p align="center">
+      98102<br />
+      (Zip Code) </p></td>
+  </tr>
+</table>
+<p align="center">Registrant's telephone number, including area code: (206) 422-6677<br />
+</p>
+<p align="center">  Securities registered pursuant to  Section 12(b) of the Act: none</p>
+<p align="center">  Securities  registered under Section 12(g) of the  Act:<br />
+  <br />
+  Common Stock, par value $0.001<br />
+  (Title of class)</p>
+<p>&nbsp;</p>
+<p>Indicate by check mark whether the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes [ ] No [X ].</p>
+<p>Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 12(d) of the Act. Yes [ ] No [X ].</p>
+<p>Note - Checking the box above will not relieve any registrant required to file reports pursuant to Section 13 or 15(d) of the Exchange Act from their obligations under those Sections.</p>
+<p>Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes [X] No [ ].</p>
+<p>Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K (&sect; 229.405 of this chapter) is not contained herein, and will not be contained, to the best of registrant's knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form 10-K or any amendment to this Form 10-K.</p>
+<p>Indicate by check mark wither the registrant is a large accelerated filer, an accelerated filer, or a non-accelerated filer. See definition of accelerated filer and large accelerated filer in Rule 12b2 of the Exchange Act. (Check one):</p>
+<table width="490" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="131">Large accelerated filer</td>
+    <td width="6">&nbsp;</td>
+    <td width="99">Accelerated filer</td>
+    <td width="7">&nbsp;</td>
+    <td width="125">Non-accelerated filer</td>
+    <td width="81">X</td>
+  </tr>
+</table>
+<p>Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes [X] No [ ].</p>
+<p>The aggregate market value of the voting and non-voting common equity held by non-affiliates computed by reference to the price at which the common equity was last sold, or the average bid and asked price of such common equity, as of the last business day of the registrant's most recently completed fourth fiscal quarter: $0.00. </p>
+<p>As of November 13, 2010, 100,000 shares of Common Stock were issued and outstanding.</p>
+<p>Portions of the Company's 2010 annual report to  shareholders are incorporated by reference into Part III of this Form 10-K.</p>
+<p align="center">Copies to:<br />
+  M&amp;K CPAS, PLLC<br />
+  13831 Northwest Frwy, Suite 575 <br />
+  Houston, TX 77040<br />
+  (832) 242-9950</p>
+<hr style="color: black;" noshade="noshade" size="2" />
+
+<table width="825" border="0" align="center" cellpadding="0" cellspacing="0">
+
+    <tr>
+      <td><p>&nbsp;</p></td>
+      <td><p align="center"><strong>Table of Contents</strong></p></td>
+      <td><p>&nbsp;</p></td>
+    </tr>
+
+    <tr>
+      <td width="82"><p align="center"><strong>ITEM</strong></p></td>
+      <td width="653"><p align="center"><strong>DESCRIPTION</strong></p></td>
+      <td width="53"><p align="center"><strong>PAGE</strong></p></td>
+  </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td><div align="center"><strong>PART I</strong></div></td>
+      <td><div align="center"></div></td>
+  </tr>
+    <tr>
+      <td><a href="#item1">ITEM   1</a></td>
+      <td><a href="#item1"> Business</a></td>
+      <td><div align="center"><a href="#item1">3</a></div></td>
+    </tr>
+    <tr>
+      <td><a href="#item1a">ITEM   1A</a></td>
+      <td><a href="#item1a">Risk   Factors</a></td>
+      <td><div align="center"><a href="#item1a">5</a></div></td>
+    </tr>
+    <tr>
+      <td><a href="#item1b">ITEM I B</a></td>
+      <td><a href="#item1b">Unresolved Staff Comments</a></td>
+      <td><div align="center"><a href="#item1b">6</a></div></td>
+    </tr>
+    <tr>
+      <td><a href="#item2">ITEM   2</a></td>
+      <td><a href="#item2">Properties</a></td>
+      <td><div align="center"><a href="#item2">7</a></div></td>
+    </tr>
+    <tr>
+      <td><a href="#item3">ITEM   3</a></td>
+      <td><a href="#item3">Legal Proceedings</a></td>
+      <td><div align="center"><a href="#item3">7</a></div></td>
+    </tr>
+    <tr>
+      <td><a href="#item4">ITEM   4</a></td>
+      <td><a href="#item4">Results of Security Holder Vote</a></td>
+      <td><div align="center"><a href="#item4">7</a></div></td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td><div align="center"><strong>PART II</strong></div></td>
+      <td><div align="center"></div></td>
+    </tr>
+    <tr>
+      <td><a href="#item5">ITEM   5</a></td>
+      <td><a href="#item5">Market for Registrant's Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities</a></td>
+      <td><div align="center"><a href="#item5">8</a></div></td>
+    </tr>
+    <tr>
+      <td><a href="#item6">ITEM   6</a></td>
+      <td><a href="#item6">Selected Financial Data</a></td>
+      <td><div align="center"><a href="#item6">8</a></div></td>
+    </tr>
+    <tr>
+      <td><a href="#item7">ITEM   7</a></td>
+      <td><a href="#item7">Management's Discussion and Analysis of Financial Condition and Results of Operation</a></td>
+      <td><div align="center"><a href="#item7">9</a></div></td>
+    </tr>
+    <tr>
+      <td><a href="#item7a">ITEM 7A</a></td>
+      <td><a href="#item7a">Quantitative and Qualitative Disclosures About Market Risk</a></td>
+      <td><div align="center"><a href="#item7a">10</a></div></td>
+    </tr>
+    <tr>
+      <td><a href="#item8">ITEM   8</a></td>
+      <td><a href="#item8">Financial Statements and Supplementary Data</a></td>
+      <td><div align="center"><a href="#item8">10</a></div></td>
+    </tr>
+    <tr>
+      <td><a href="#item9">ITEM   9</a></td>
+      <td><a href="#item9">Changes in and Disagreements with Accountants on Accounting and Financial Disclosure</a></td>
+      <td><div align="center"><a href="#item9">13</a></div></td>
+    </tr>
+    <tr>
+      <td><a href="#item9a">ITEM 9A</a></td>
+      <td><a href="#item9a">Controls and Procedures</a></td>
+      <td><div align="center"><a href="#item9a">13</a></div></td>
+    </tr>
+    <tr>
+      <td><a href="#item9b">ITEM 9B</a></td>
+      <td><div align="left"><a href="#item9b">Other Information</a></div></td>
+      <td><div align="center"><a href="#item9b">13</a></div></td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td><div align="center"><strong>PART III</strong></div></td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td><a href="#item10">ITEM   10</a></td>
+      <td><a href="#item10">Directors, Executive Officers and Corporate Governance</a></td>
+      <td><div align="center"><a href="#item10">13</a></div></td>
+    </tr>
+    <tr>
+      <td><a href="#item11">ITEM   11</a></td>
+      <td><a href="#item11">Executive Compensation</a></td>
+      <td><div align="center"><a href="#item11">14</a></div></td>
+    </tr>
+    <tr>
+      <td><a href="#item12">ITEM   12</a></td>
+      <td><a href="#item12">Security Ownership of Certain Beneficial Owners and Management</a></td>
+      <td><div align="center"><a href="#item12">14</a></div></td>
+    </tr>
+    <tr>
+      <td><a href="#item13">ITEM   13</a></td>
+      <td><a href="#item13">Certain Relationships and Related Transactions, and Director Independence</a></td>
+      <td><div align="center"><a href="#item13">14</a></div></td>
+    </tr>
+    <tr>
+      <td><a href="#item14">ITEM 14</a></td>
+      <td><a href="#item14">Principal Accounting Fees and Services</a></td>
+      <td><div align="center"><a href="#item14">14</a></div></td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td><div align="center"><strong>PART IV</strong></div></td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td><a href="#item15">ITEM 15</a></td>
+      <td><a href="#exhibits">Exhibit, Financial Statement Schedules</a></td>
+      <td><div align="center"><a href="#exhibits">15</a></div></td>
+    </tr>
+</table>
+</div>
+<p align="center">&nbsp;</p>
+<p align="center"><strong>EXPLANATORY NOTE</strong><br />
+</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Unless otherwise noted, references in this registration statement to &quot;Assured Equities V Corporation,&quot;&nbsp; the &quot;Company,&quot; &quot;we,&quot; &quot;our&quot; or &quot;us&quot; means Assured Equities V Corporation.</p>
+<p align="center"><br />
+  <strong>FORWARD LOOKING STATEMENTS</strong> </p>
+<p><br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; There are statements in this Annual Report on Form 10-K that are not historical facts. These &quot;forward-looking statements&quot; can be identified by use of terminology such as &quot;believe,&quot; &quot;hope,&quot; &quot;may,&quot; &quot;might,&quot; &quot;anticipate,&quot; &quot;should,&quot; &quot;intend,&quot; &quot;plan,&quot; &quot;will,&quot; &quot;expect,&quot; &quot;estimate,&quot; &quot;project,&quot; &quot;positioned,&quot; &quot;strategy&quot; and similar expressions.&nbsp; You should be aware that these forward-looking statements are subject to risks and uncertainties that are beyond our control.&nbsp;For a discussion of these risks, you should read this entire Form 10-K carefully, especially the risks discussed under &quot;Risk Factors.&quot; Although management believes that the assumptions underlying the forward looking statements included in this Form 10-K are reasonable, they do not guarantee our future performance and actual results could differ from those contemplated by these forward looking statements. The assumptions used for purposes of the forward-looking statements specified in the following information represent estimates of future events and are subject to uncertainty as to possible changes in economic, legislative, industry and other circumstances.&nbsp; As a result, the identification and interpretation of data and other information and their use in developing and selecting assumptions from and among reasonable alternatives require the exercise of judgment.&nbsp; To the extent that the assumed events do not occur, the outcome may vary substantially from anticipated or projected results, and, accordingly, no opinion is expressed on the achievability of those forward-looking statements.&nbsp; In the light of these risks and uncertainties, there can be no assurance that the results and events contemplated by the forward-looking statements contained in this Form 10-K will in fact transpire.&nbsp; You are cautioned not to place undue reliance on these forward-looking statements, which speak only as of their dates.&nbsp; We do not undertake any obligation to update or revise any forward-looking statements.</p>
+<p align="center"><br />
+  2</p>
+</p>
+<hr style="color: black;" noshade="noshade" size="2" />
+<p align="center"><strong>PART I</strong></p>
+<p><strong><a name="item1" id="item1"></a>Item 1.  Business</strong></p>
+<p><strong>Assured Equities V Corporation</strong> (the &quot;Company&quot; or the &quot;Corporation&quot;) was incorporated in the State of Florida on August 10, 2009.&nbsp;The Company was formed to pursue a business combination with a target business opportunity yet to be finalized and to provide a method for a domestic or foreign private company to become a reporting company whose securities would be qualified for trading in the United States secondary market. As of this date the company has not identified a possible business combination opportunity, has not reached terms with a possible business combination and has not issued nor entered into a letter of intent with any target business opportunity. The Company has been in the developmental stage since inception and has no other operations to date other than issuing shares to our original shareholder and incorporator, Assured Equities, LLC. The Company  has generated no revenue, has generated no income or cash flow and lacks committed funding: these factors raise substantial doubt about the Company's ability to continue as a going concern.</p>
+<p>Assured Equities V Corporation is a &quot;blank check&quot; company within the meaning of Section 3(a)(51) of the Exchange Act of 1934, as amended, (the &quot;Exchange Act&quot;). The U.S. Securities and Exchange Commission (&quot;SEC&quot;) defines such a company as &quot;a development stage company that has no specific business plan or purpose, or has indicated that its business plan is to merge with an unidentified company or companies, other equity, or person.&quot;&nbsp; The Company also qualifies as a &quot;shell company&quot;, further to SEC Rule 12b-2 of the Securities Act of 1933, as amended (the &quot;Securities Act&quot;), because it has no or nominal operations and no or nominal assets and its assets consist solely of cash and cash equivalents.</p>
+<p>The Company does not meet the test of &quot;going concern&quot; and the Company's independent auditor has expressed substantial doubt about the Company's ability to continue as a going concern (see the notes to the financial statements).  This substantial doubt is due to the Company's lack of committed funding and lack of revenue.</p>
+<p> The Company's fiscal year ends August 31.&nbsp; For the 12 month period of this Form 10-K report, which is the period August 31, 2009  and ending August 31, 2010, the Company had:</p>
+<blockquote>
+  <p>    (a) Generated no revenues or earnings from operations, <br />
+  (b) Had no profit,<BR />
+  (c) A Net Loss of $5,150,<BR />
+    (d) Possessed assets of only $100 cash.<BR />
+  </p>
+</blockquote>
+<p>  The Company has not been involved in any bankruptcy, receivership or similar proceeding.</p>
+<p>The Company has no operations. The Company has no employees. Company management volunteers its time to Company matters.<br />
+  <br />
+  The Company was organized to provide a method for a foreign or domestic private company to become a reporting (&quot;public&quot;) company whose securities are qualified for trading in the United States secondary market such as the New York Stock Exchange (NYSE), NASDAQ, NYSE Amex Equities, formerly known as the American Stock Exchange (AMEX), and the OTC Bulletin Board, and, as a vehicle to investigate and, if such investigation warrants, acquire a target company or business seeking the perceived advantages of being a publicly held corporation. The Company's principal business objective for the next 12 months and beyond such time will be to achieve long-term growth  through  business combinations rather than immediate, short-term earnings. The Company will not restrict its potential candidate target companies to any specific business, industry or geographical location and, thus, may acquire any type of business.
+The Company will not retain an equity interest (common stock) in any private company with which we engage in a business combination. Our desire is that the value of such consideration paid to us would be beneficial economically to our shareholders though there is no assurance of that happening.</p>
+<p><strong> Our Business Strategies</strong></p>
+<p>
+  The analysis of potential new business opportunities, suitable for completing a business combination, will be undertaken by or under the supervision of the officers and directors of the Company. The Company has unrestricted flexibility in seeking, analyzing and participating in potential business opportunities. In its efforts to analyze potential targets, the Company will consider the following kinds of factors:</p>
+<ul>
+  <li>Potential      for growth, indicated by new technology, anticipated market expansion or      new products and/or services.</li>
+  <li>Competitive      position as compared to other firms of similar size and experience within      the industry segment as well as within the industry as a whole.</li>
+  <li>Strength      and diversity of management, either in place or scheduled for recruitment.</li>
+  <li>Capital      requirements and anticipated availability of required funds, to be      provided by the Company or from operations, through the sale of additional      securities, through joint ventures or similar arrangements or from other      sources.</li>
+  <li>The      cost of participation by the Company as compared to the perceived tangible      and intangible values and potentials.</li>
+  <li>The      extent to which the business opportunity can be advanced.</li>
+  <li>The      accessibility of required management expertise, personnel, raw materials,      services, professional assistance and other required items.</li>
+  <li>Other      relevant factors.</li>
+</ul>
+<p>In applying the foregoing criteria, no one of which will be controlling, management will attempt to analyze all factors and circumstances and make a determination based upon reasonable investigative measures and available data.</p>
+<p>  Potentially available business opportunities may occur in many different industries, many different market segments and at various stages of development, all of which may make the task of comparative investigation and analysis of such business opportunities extremely difficult and complex. Due to the Company's limited capital available for investigation, the Company may not discover or adequately evaluate adverse facts about the opportunity to be acquired.</p>
+<p>    Any private company could seek to become a public company by filing their own registration statement with the Securities and Exchange Commission and avoid compensating us in any manner and therefore there may be no perceived benefit to any private company seeking a business combination with us as we are obligated under SEC Rules to file a Form 8-K with the SEC within four (4) days of completing a business combination; the Form 8-K would include information required by a Form 10 on the private company. It is possible that, prior to the Company successfully consummating a business combination with an unaffiliated entity, that entity may desire to employ or retain one or a number of members of our management for the purposes of providing services to the surviving entity.&nbsp; However, the offer of any post-transaction employment to members of management will not be a consideration in our decision whether to undertake any proposed transaction.&nbsp; As a result we may not be able to complete a business combination.</p>
+  <p>&nbsp;</p>
+  <p align="center"> 3   </p>
+  <hr style="color: black;" noshade="noshade" size="2" />
+  <p>    The manner in which the Company participates in a business combination will depend upon the nature of the opportunity, the respective needs and desires of the Company and the negotiating strength of the Company.</p>
+  <p>    It is likely that the Company will acquire its participation in a business opportunity through the issuance of common stock or other securities of the Company. Although the terms of any such transaction cannot be predicted, it should be noted that in certain circumstances the criteria for determining whether or not an acquisition is a so-called &quot;tax free&quot; reorganization under Section 368(a)(1) of the Internal Revenue Code of 1986, as amended (the &quot;Code&quot;), depends upon whether the owners of the acquired business own 80% or more of the voting stock of the surviving entity. If a transaction were structured to take advantage of these provisions rather than other &quot;tax free&quot; provisions provided under the Code, all prior stockholders would in such circumstances retain 20% or less of the total issued and outstanding shares. Under other circumstances, depending upon the relative negotiating strength of the parties, prior stockholders may retain substantially less than 20% of the total issued and outstanding shares of the surviving entity. This could result in substantial additional dilution to the equity of those who were stockholders of the Company prior to such reorganization.</p>
+  <p>    The present stockholder of the Company will likely not have control of a majority of the voting shares of the Company following a business combination or reorganization transaction. As part of such a transaction, all or a majority of the Company's directors may resign and new directors may be appointed without any vote by stockholders.</p>
+  <p>    In the case of an acquisition, the transaction may be accomplished upon the sole determination of management without any vote or approval by stockholders. In the case of a statutory merger or consolidation directly involving the Company, it will likely be necessary to call a stockholders' meeting and obtain the approval of the holders of a majority of the outstanding shares. The necessity to obtain such stockholder approval may result in a delay and additional expense in the consummation of any proposed transaction and will also give rise to certain appraisal rights to dissenting stockholders. Most likely, management will seek to structure any such transaction so as not to require stockholder approval.</p>
+  <p>The Company may seek to locate a  company for business acquisition through referrals of potential target companies by consultants or other professionals in the business and financial communities, through a solicitation program that might include newspaper or magazine advertisements, mailings and other distributions to law firms, accounting firms, investment bankers, financial advisors and similar persons, the use of one or more web sites and/or similar methods, or through other, yet to be identified methods. The Company has no solicitation program and its present advertising costs are zero. If the Company decides to locate a target company through a solicitation program, the Company might incur advertising or other costs. The advertising and other costs, if incurred, would be paid with money in our treasury. If sufficient funds were not available in our treasury to pay advertising or other costs of a solicitation program, the Company may decide not to implement such a solicitation program and  incur these costs; or, the Company may seek additional funds, in the form of loans, grants, additional investments or other yet to be identified financing methods, from our stockholders, management or other investors, to pay these costs. The Company has had no discussions with stockholders, management or other investors regarding funding.&nbsp;Whatever efforts the Company expends to locate a target company will be in full compliance with national and state laws and regulations. No assurances can be given that the Company may seek or will be successful in locating a  target company by referrals from consultants or other professionals in the business and financial communities, through a solicitation program, or through other, yet to be identified methods. No assurances can be given that the Company would be successful in developing an advertising program to support a spoliation program, that the Company would have sufficient funds to pay any advertising costs or that the Company would be successful in raising funds to pay advertising costs.</p>
+  <p>    It is anticipated that the investigation of specific business opportunities and the negotiation, drafting and execution of relevant agreements, disclosure documents and other instruments may require substantial management time and attention and  unknown costs for accountants, attorneys and others. These costs, if incurred, would be paid with money in our treasury. If sufficient funds were not available in our treasury to pay these costs, the Company may seek additional funds, in the form of loans, grants, additional investments or other yet to be identified financing methods, from our stockholders, management or other investors, to pay these costs. The Company has had no discussions with stockholders, management or other investors regarding funding. If a decision is made not to participate in a specific business opportunity, the costs theretofore, if incurred in the related investigation, may not be recoverable. Furthermore, even if an agreement is reached for the participation in a specific business opportunity, the failure to consummate that transaction  may result in the loss to the Company of the related costs incurred. No assurances can be given that the Company would be successful in  negotiating, drafting and executing relevant agreements, disclosure documents and other instruments or having or raising sufficient funds to pay any of these costs that may be incurred.</p>
+  <p>    Management does not intend to undertake any efforts to cause a market to develop in our securities, either debt or equity, until we have successfully combined with a business opportunity. </p>
+<p>    We have no employees. Our officers and directors are not full-time or part-time employees of the Company because they are not in the service of the Company under any contract for hire, expressed or implied, oral or written. Further, the Company does not have the power or right to control and direct our officers or directors in the material details of how work is to be performed and our officers and directors do not receive any compensation from the Company. Our officers and directors are engaged in outside business activities and we anticipate that they will devote very limited time to our business until the identification of a successful business opportunity occurs.  Our officers and directors volunteer their time to business for the Company and are not compensated in any manner for their volunteer services. We expect no  changes in the number of our employees other than such changes, if any, as are incidental to a business combination.</p>
+<p>    The Company was organized as a vehicle to investigate and combine with a target business opportunity seeking the perceived advantages of being a publicly held corporation. The Company's principal business objective for the next 12 months will be to achieve a combination with a yet to be identified business opportunity. The Company will not restrict its potential candidate target business opportunity to any specific business, market segment, industry or geographical location and, thus, may acquire any type of business. The Company may investigate and ultimately acquire a venture that is in its preliminary or development stage, is already in operation, or in various stages of its corporate existence and development. However, there can be no assurance that the Company will have the ability to combine with an operating business, business opportunity, or property that will be of benefit to the Company. The analysis of new business opportunities will be undertaken by or under the supervision of the officers and directors of the Company who are not professional business analysts and in all likelihood will not be experienced in matters relating to the target business opportunity.</p>
+<p>    The public may read and copy any materials the Company files with the SEC at the SEC's Public Reference Room at 100 F Street N.E., Washington, D. C. 20549.&nbsp; The public my obtain information on the operation of the Public Reference Room by calling the SEC at 1-800-SEC-0330.&nbsp; Additionally, the SEC maintains an Internet site that contains reports, proxy and information statements, and other information regarding issuers that file electronically with the SEC, which can be found at http://www/sec.gov.</p>
+  <p align="center">
+    4</p>
+  <hr style="color: black;" noshade="noshade" size="2" />
+  <p align="left"><a name="item1a" id="item1a"></a><strong>Item 1A. Risk Factors</strong> </p>
+  <p align="left">      AN INVESTMENT IN THE COMPANY IS HIGHLY SPECULATIVE IN NATURE AND INVOLVES AN EXTREMELY HIGH DEGREE OF RISK.</p>
+  <p align="left">    1. WE HAVE NO OPERATING HISTORY.</p>
+  <p align="left">    We have no operations and no operating history. We have no revenues or earnings from operations. We have no significant assets or financial resources. It is highly likely that we will sustain expenses while endeavoring to identify a target business opportunity. Although our target business evaluation will seek to combine with a business opportunity that generates revenue, profits and immediate cash flow, there can be no assurance that if and when we identify and consummate a business combination with a target business opportunity that we will be able to generate revenue, profits or cash flow.</p>
+<p align="left">2. WE HAVE NO PROFITABLE OPERATIONS.</p>
+  <p align="left">We have no operations. We have no revenues or earnings. We do not meet the test of &quot;going concern&quot; and our independent auditor has expressed substantial doubt about our ability to continue as a going concern due to our lack of committed funding and lack of revenue. Further, it is highly likely that we will sustain expenses while endeavoring to identify a target business opportunity. Although our target business evaluation will seek to combine with a business opportunity that generates revenue, profits and immediate cash flow, there can be no assurance that if and when we identify and consummate a business combination with a target business opportunity that we will be able to generate revenue, profits or cash flow.</p>
+<p align="left">    3. WE HAVE NO EXISTING AGREEMENT FOR A BUSINESS COMBINATION OR OTHER TRANSACTION.</p>
+  <p align="left">    As of August 31, 2010, we have no arrangements or agreement or understanding with respect to a combination, acquisition or merger with a private or public business opportunity and no assurances can be given that we will successfully conclude any sort of business combination. If we are unable to negotiate and finalize a business combination on favorable terms, there is consequently a risk that future funds allocated to the purchase of our shares will not be invested in a company with active business operations.</p>
+  <p align="left">    The Company has not identified any particular industry, market segment or specific business within an industry for evaluation. We have not discovered, identified or evaluated any potential business opportunity  for a business combination; therefore, the Company is currently unable to ascertain the merits or risks of the potential business'  operations. We have no arrangement, agreement or understanding with respect to engaging in a merger with, joint venture with or acquisition of a private or public entity. If we can not successfully identify and evaluate a suitable business opportunity, we will be unable to negotiate a business combination on favorable terms thus posing a risk that funds allocated to the purchase of our shares will not be invested in a company with active business operations.</p>
+  <p align="left">    The Company has neither conducted nor have others made available to us results of market research concerning prospective business opportunities. Therefore, the market demand for a merger or acquisition as contemplated by us may not exist or materialize. Our management has not identified any specific business combination or other transactions for formal evaluation by us, such that it may be expected that any such target business or transaction will present such a level of risk that conventional private or public offerings of securities or conventional bank financing will not be available. We may be unable to acquire a business opportunity on terms favorable to us.</p>
+  <p align="left">    4. OUR FUTURE SUCCESS IS HIGHLY DEPENDENT ON THE ABILITY OF MANAGEMENT TO LOCATE AND ATTRACT A SUITABLE ACQUISITION.</p>
+  <p align="left">    The nature of our operations is highly speculative and there is a consequent risk of loss of your investment. The success of our plan of operation  depends to a great extent on the operations, financial condition and management of an identified business opportunity. While our management is proactively seeking business combination(s) with entities having established operating histories, we may be unable to reach terms with candidates meeting our criteria. In the event we complete a business combination, the success of our operations may be dependent upon management of the successor business or joint venture partner and numerous other factors beyond our control.</p>
+  <p align="left">    5. MANAGEMENT INTENDS TO DEVOTE ONLY A LIMITED AMOUNT OF TIME TO SEEKING A TARGET COMPANY WHICH MAY ADVERSELY IMPACT OUR ABILITY TO IDENTIFY A SUITABLE ACQUISITION CANDIDATE.</p>
+  <p align="left">    While seeking a business combination, management anticipates devoting no more than a few hours per week to the Company's affairs, in total. Our officers and directors are not employees of the Company, have not entered into any written employment agreements with the Company and are not expected to do so in the foreseeable future. Our officers and directors volunteer their time and volunteer their services to the Company and they receive no compensation whatsoever. This limited commitment by our management may adversely impact our ability to identify and consummate a successful business combination.</p>
+  <p align="left">    6. THE COMPANY HAS CONDUCTED NO MARKET RESEARCH OR IDENTIFICATION OF BUSINESS OPPORTUNITIES, WHICH MAY AFFECT OUR ABILITY TO IDENTIFY A BUSINESS TO MERGE WITH OR ACQUIRE.</p>
+  <p align="left">    We have neither conducted nor have others made available to us results of market research concerning prospective business opportunities. Therefore, the market demand for a merger or acquisition of a business opportunity as contemplated by us may not exist. Our management has not identified any specific business combination or other transactions for formal evaluation by us, such that it may be expected that any such target business opportunity or transaction will present such a level of risk that conventional private or public offerings of securities or conventional bank financing will not be available. We may not be able to combine with, acquire, or merger with a business opportunity on terms favorable to us. Decisions as to which business opportunity to participate in will be made unilaterally by our management who may act without the consent, vote or approval of our stockholders.</p>
+  <p align="left">    7. THERE MAY BE CONFLICTS OF INTEREST BETWEEN OUR MANAGEMENT AND OUR NON-MANAGEMENT STOCKHOLDERS.</p>
+  <p align="left">    Conflicts of interest create the risk that management may have an incentive to act adversely to the interests of other investors. A conflict of interest may arise between our management's personal pecuniary interest and its fiduciary duty to our stockholders. Furthermore, our management's own pecuniary interest may at some point compromise its fiduciary duty to our stockholders. To help minimize an possible conflict of interest,   the Company plans to call a meeting of our shareholders whereby our shareholders will vote upon the business combination opportunity. The necessity to obtain such stockholder approval may result in a delay and additional expense in the consummation of any proposed transaction. </p>
+<p align="left">    8. THE TIME AND COST OF PREPARING A PRIVATE COMPANY TO BECOME A PUBLIC REPORTING COMPANY MAY PRECLUDE US FROM ENTERING INTO A MERGER OR ACQUISITION WITH THE MOST ATTRACTIVE PRIVATE COMPANIES.</p>
+  <p align="left">    Target companies that fail to comply with the SEC reporting requirements may delay or preclude a business combination, acquisition or merger with a business opportunity. Sections 12 and 15(d) of the Exchange Act require reporting companies to provide certain information about significant acquisitions, including certified financial statements of the company acquired, possibly covering one, two or three years, depending on the relative size of the acquisition. The time and additional costs that may be incurred by some target entities to prepare those statements may significantly delay or essentially preclude a business combination, acquisition merger. Consequently, otherwise suitable acquisition prospects that do not have or unable to obtain the required audited statements may be inappropriate for acquisition as long as the reporting requirements of the Exchange Act remain applicable.</p>
+  <p align="left">    9. THERE IS COMPETITION FOR THOSE PRIVATE COMPANIES SUITABLE FOR A MERGER TRANSACTION OF THE TYPE CONTEMPLATED BY MANAGEMENT.</p>
+  <p align="left">    We are in a highly competitive market for a small number of business opportunities which could reduce the likelihood of consummating a successful business combination.&nbsp; We are and will continue to be an insignificant participant in the business of seeking business combinations, acquisitions, mergers, joint ventures or acquisitions of small private and public entities. A large number of established and well-financed entities, including small public companies and venture capital firms, are active in mergers and acquisitions of companies that may be desirable target candidates for us. Nearly all these entities have significantly greater financial resources, technical expertise and managerial capabilities than we do; consequently, we will be at a competitive disadvantage in identifying possible business opportunities and successfully completing a business combination. These competitive factors may reduce the likelihood of our identifying and consummating a successful business combination.</p>
+  <p align="left">    10. THE COMPANY MAY BE SUBJECT TO FURTHER GOVERNMENT REGULATION WHICH WOULD ADVERSELY AFFECT OUR OPERATIONS.</p>
+  <p align="left">    Although we will be subject to the reporting requirements under the Exchange Act, management believes we will not be subject to regulation under the Investment Company Act of 1940, as amended (the &quot;Investment Company Act&quot;), since we will not be engaged in the business of investing or trading in securities. If we engage in business combinations which result in our holding passive investment interests in a number of entities, we could be subject to regulation under the Investment Company Act. If so, we would be required to register as an investment company and could be expected to incur significant registration and compliance costs. We have obtained no formal determination from the SEC as to our status under the Investment Company Act and, consequently, violation of the Investment Company Act could subject us to material adverse consequences.</p>
+  <p align="center"> 5   </p>
+  <hr style="color: black;" noshade="noshade" size="2" />
+  <p>11. ANY POTENTIAL ACQUISITION OR MERGER WITH A FOREIGN COMPANY MAY SUBJECT US TO ADDITIONAL RISKS.</p>
+  <p>    If we enter into a business combination, acquisition or merger with a foreign concern, we will be subject to risks inherent in business operations outside of the United States. These risks include, for example, currency fluctuations, regulatory problems, punitive tariffs, unstable local tax policies, trade embargoes, risks related to shipment of raw materials and finished goods across national borders and cultural and language differences. Foreign economies may differ favorably or unfavorably from the United States economy in growth of gross national product, rate of inflation, market development, rate of savings, capital investment, resource self sufficiency and balance of payments positions and in other respects. </p>
+  <p>    12. THERE IS CURRENTLY NO TRADING MARKET FOR OUR COMMON STOCK.</p>
+  <p>    Our outstanding shares of our common stock cannot be offered, sold, pledged or otherwise transferred unless subsequently registered pursuant to, or exempt from registration under the Securities Act and any other applicable federal or state securities laws or regulations. These restrictions will limit the ability of our stockholders to liquidate their investment. </p>
+  <p>    13. THE COMPANY MAY BE SUBJECT TO CERTAIN TAX CONSEQUENCES IN OUR BUSINESS, WHICH MAY INCREASE OUR COST OF DOING BUSINESS. </p>
+  <p>    We may not be able to structure our acquisition to result in tax-free treatment for the companies or their stockholders, which could deter third parties from entering into certain business combinations with us or result in being taxed on consideration received in a transaction. Currently, a transaction may be structured so as to result in tax-free treatment to both companies, as prescribed by various federal and state tax provisions. We intend to structure any business combination so as to minimize the federal and state tax consequences to both us and the target entity. We cannot guarantee however that the business combination will meet the statutory requirements of a tax-free reorganization or that the parties will obtain the intended tax-free treatment upon a transfer of stock or assets. A non-qualifying reorganization could result in the imposition of both federal and state taxes that may have an adverse effect on both parties to the transaction. </p>
+  <p>    14. THE COMPANY MAY ISSUE MORE SHARES IN A MERGER OR ACQUISITION, WHICH WILL RESULT IN SUBSTANTIAL DILUTION.</p>
+  <p>    Our certificate of Incorporation authorizes the issuance of a maximum of 100,000,000 shares of common stock and a maximum of 50,000,000 shares of preferred stock. Any merger or acquisition with a business opportunity effected by us may result in the issuance of additional securities without stockholder approval and may result in substantial dilution in the percentage of our common stock held by our then existing stockholders. Moreover, the common stock issued in any such merger or acquisition transaction may be valued on an arbitrary or non-arms-length basis by our management resulting in an additional reduction in the percentage of common stock held by our then existing stockholders. Our Board of Directors has the power to issue any or all of such authorized but un-issued shares without stockholder approval. To the extent that additional shares of common stock or preferred stock are issued in connection with a business combination or otherwise, dilution of the interests of our stockholders will occur and the rights of the holders of common stock may be materially and adversely affected. </p>
+  <p>    15. BECAUSE WE MAY SEEK TO COMPLETE A BUSINESS COMBINATION THROUGH A &quot;REVERSE MERGER&quot;, FOLLOWING SUCH A TRANSACTION WE MAY NOT BE ABLE TO ATTRACT THE ATTENTION OF MAJOR BROKERAGE FIRMS. </p>
+  <p>    Additional risks may exist since we will assist a privately held business to become public through a &quot;reverse merger&quot;.&nbsp; Securities analysts of major brokerage firms may not provide coverage of our Company since there is no incentive for brokerage firms to recommend the purchase of our common stock. No assurance can be given that brokerage firms will want to conduct any secondary offerings on behalf of our post-merger company in the future. </p>
+  <p>    16.&nbsp; WE CANNOT ASSURE YOU THAT FOLLOWING A BUSINESS COMBINATION WITH AN OPERATING BUSINESS THAT OUR COMMON STOCK WILL BE LISTED ON NASDAQ OR ANY OTHER SECURITIES EXCHANGE.</p>
+  <p>    Following a business combination, we may seek the listing of our common stock on NASDAQ or NYSE Amex Equities, formerly known as the American Stock Exchange (AMEX). However, we cannot assure you that following such a transaction we will be able to meet the initial listing standards of either of those or any other stock exchange, or that we will be able to maintain a listing of our common stock on either of those or any other stock exchange. After completing a business combination, we expect that our common stock would be eligible to trade on the OTC Bulletin Board, another over-the-counter quotation system or on the Pink OTC Market where our stockholders may find it more difficult to dispose of shares or obtain accurate quotations as to the market value of our common stock. There can be no assurance that the Company will find a market maker or that an active market may develop for the Company's stock. In addition, we would be subject to a SEC rule that if it failed to meet the criteria set forth in such rule, imposes various practice requirements on broker-dealers who sell securities governed by the rule to persons other than established customers and accredited investors. Consequently, such rule may deter broker-dealers from recommending or selling our common stock, which may further affect its liquidity. This would also make it more difficult for us to raise additional capital following a business combination.</p>
+<p>    17. WE MAY INCUR ADDITIONAL COSTS OF BEING A PUBLIC COMPANY DUE TO THE DIFFICULTIES OF ESTABLISHING AND MAINTAINING ACCEPTABLE INTERNAL CONTROLS OVER FINANCIAL REPORTING WITH NO FULL TIME OR PART-TIME EMPLOYEES, THE EXPENSES OF BEING A REPORTING COMPANY PURSUANT TO THE EXCHANGE ACT OF 1934 AND THE LIABILITY PROVISIONS OF THE EXCHANGE ACT OF 1934.</p>
+  <p> The Company is a development stage company, with no operations and no revenues from operations. We may never realize any revenues unless and until we successfully merge with or acquire an operating business.</p>
+  <p>Because the Company has no operations and no revenues from operations, the Company has not established sufficient internal controls over financial reporting; therefore these costs are estimated to be zero as we do not currently plan to implement a robust control initiative given our lack of positive cash flow from operations and inherent lack of segregation of duties. If the Company were to attempt to mediate some of our segregation of duties issues and achieve effective internal controls we currently do not have adequate funding to implement such an initiative and therefore do not plan to implement this initiative.</p>
+  <p>The expenses of periodic reporting requirements, such as audits and reviews, are estimated at $5,000.00 annually.
+If necessary, the Company will consider various options for paying these expenses, including payment from funds in our treasury, but no certain funding for these expenses has been obtained. Among  possible funding options the Company may consider, if necessary, are loans or investments in the Company by our stockholders, management or other investors. The Company has had no discussions with stockholders, management or other investors regarding funding.&nbsp;If necessary, the Company will consider these and other yet to be identified various options for raising funds and paying these expenses. No assurances can be given that the Company will be successful in raising funds, if fundraising becomes necessary.</p>
+<p>    18. CURRENT ECONOMIC CONDITIONS MAY PRECLUDE US FROM ENTERING INTO A MERGER OR ACQUISITION AND OBTAINING FUNDING.&nbsp; </p>
+  <p>Current economic and financial
+    conditions are volatile. Business and consumer concerns over the economy,
+    geopolitical issues, the availability and cost of credit, the U.S. financial
+    markets and the national debt have contributed to this volatility. These
+    factors, combined with declining and failing businesses, reduced consumer
+    confidence and increased unemployment, have caused a global economic slow-down. We can
+    not accurately predict how long these current economic conditions will persist,
+  whether the economy will deteriorate further and how we will be affected.    </p>
+  <p>We have no operating history, no revenue and lack profitable operations. We will,
+    in all likelihood, sustain expenses and costs related to accounting, the filing
+    of Exchange Ace reports and consummating a business combination without corresponding
+    revenues, at least until the consummation of a business combination. This lack
+    of operations and revenues may result in our incurring a net loss that will
+    increase continuously until we can consummate a business combination with a
+    profitable business opportunity. Because of our lack of profits and possible
+    increasing net losses and lacking operations, target business opportunities may
+  decide to forgo a business combination with us.    </p>
+  <p>Our financial position, having
+    no significant assets, financial resources and no revenues, raises substantial
+    doubt about our ability to continue as a going concern. The lack of a market
+    for our common equity securities precludes us from raising capital, in the
+    equity markets, until shares of our common stock are registered pursuant to, or
+    exempt from registration under the Securities Act; and, any other applicable
+    federal or state securities laws or regulations may also preclude us from
+    successfully raising capital and improving our financial position. Target firms
+    that might consider a merger or acquisition with us, to gain the advantages and
+    perceived benefits of becoming a public corporation, may decide to forgo a such
+    a business combination with us because of our lack of operations and access to
+    affordable capital. Our financial position and current economic volatility may
+    prevent us from identifying and pursuing a business combination with a target
+    company seeking these benefits and funding sources, such as our shareholders,
+    management or others, may decide to defer loans or investments to the Company.  </p>
+  <p><strong><a name="item1b" id="item1b"></a>Item 1B.  Unresolved Staff Comments</strong></p>
+  <p>There are no unresolved staff comments.</p>
+<p align="center"> 6   </p>
+  <hr style="color: black;" noshade="noshade" size="2" />
+  <p><a name="item2" id="item2"></a><strong>Item 2. Properties</strong> </p>
+  <p>The Company has no properties and has no agreements to acquire any properties. The Company uses the offices of management at no cost to the Company. The Company currently has no policy with respect to investments or interests in real estate, real estate mortgages or securities of or interests in persons primarily engaged in real estate activities. </p>
+  <p><a name="item3" id="item3"></a><strong>Item 3. Legal Proceedings</strong> </p>
+  <p>There are no pending legal proceedings to which the Company is a party or to which any of its property is subject, and the Company does not know nor is aware of any legal proceedings threatened or contemplated against it.</p>
+<p><a name="item4" id="item4"></a><strong>Item 4. Results of Security Holder Vote</strong></p>
+<p>The Annual Meeting of the Shareholders of the Company was held at the principal office of the Company, 2211 12th Avenue East, Seattle, Wa., 98102, on April 27, 2010. Mr. William D. Kyle, sole managing member of Assured Equities, LLC, the sole shareholder of the Company, was in attendance in person. Also in attendance in person were Mr. William D. Kyle and Ms. Anne M. Kyle, Directors and Officers of the Company as listed in the Company's Articles of Incorporation. At the Annual Meeting of the Shareholders, the following matters were submitted to a vote of the Company's shareholders:</p>
+<ol>
+  <li>Nominations for Directorship Positions on the Board of Directors for the remainder of the year 2010 and the year 2011, and    </li>
+  <li>Reappointment of M&amp;K CPAs As The Company's Auditors For The Year 2010.</li>
+</ol>
+<blockquote>
+  <p><u><strong>Results of Security Holder Voting</strong></u></p>
+  <p>1. Nominations for Directorship Positions on the Board of Directors for the remainder of the year 2010 and the year 2011.</p>
+  <blockquote>
+    <p>Nominees for Directorship Positions on The Board of Directors for the remainder of the year 2010 and the year 2011 were Mr. William D. Kyle, presently Director, President and Treasurer and Ms. Anne M. Kyle, presently Director and Secretary.</p>
+    <blockquote>Upon a unanimous  vote of the shareholders entitled to vote and the shares voting,  Mr. William D. Kyle and Ms. Anne M. Kyle were elected to the Board of Directors for the remainder of the year 2010 and the year 2011. </blockquote>
+  </blockquote>
+  </blockquote>
+<p align="center">William D. Kyle
+</p>
+<table width="1000" border="1" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <th scope="col">Number of Shareholders Entitled To Vote</th>
+    <th scope="col">Number of Shareholders Voting</th>
+    <th scope="col">Number of Shares of Common Stock Entitled to Vote</th>
+    <th scope="col">Number of Shares of Common Stock Voting</th>
+    <th scope="col">Number of Votes in Favor Of William D. Kyle as Director for the remainder of 2010 and 2011</th>
+    <th scope="col">Number of Votes Opposed To William D. Kyle as Director for the remainder of 2010 and 2011</th>
+  </tr>
+  <tr>
+    <td><div align="center">1</div></td>
+    <td><div align="center">1</div></td>
+    <td><div align="center">100,000</div></td>
+    <td><div align="center">100,000</div></td>
+    <td><div align="center">100,000</div></td>
+    <td><div align="center">-0-</div></td>
+  </tr>
+</table><BR /><BR />
+
+<p align="center">Anne M. Kyle</p>
+<table width="1000" border="1" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <th scope="col">Number of Shareholders Entitled To Vote</th>
+    <th scope="col">Number of Shareholders Voting</th>
+    <th scope="col">Number of Shares of Common Stock Entitled to Vote</th>
+    <th scope="col">Number of Shares of Common Stock Voting</th>
+    <th scope="col">Number of Votes in Favor Of Anne M. Kyle as Director for the remainder of 2010 and 2011</th>
+    <th scope="col">Number of Votes Opposed To Anne M. Kyle as Director for the remainder of 2010 and 2011</th>
+  </tr>
+  <tr>
+    <td><div align="center">1</div></td>
+    <td><div align="center">1</div></td>
+    <td><div align="center">100,000</div></td>
+    <td><div align="center">100,000</div></td>
+    <td><div align="center">100,000</div></td>
+    <td><div align="center">-0-</div></td>
+  </tr>
+</table>
+
+  <p>&nbsp;</p>
+  <blockquote>
+    <p>2. Reappointment of M&amp;K CPAs As The Company's Auditors For The Year 2010.</p>
+    <p>Upon a unanimous vote of the shareholders entitled to vote and the shares voting,  M&amp;K CPAs were reappointed as the Company's auditors for the year 2010.</p>
+  </blockquote>
+  <p align="center">Reappointment of M&amp;K CPAs As The Company's Auditors For The Year 2010</p>
+    <table width="1000" border="1" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <th scope="col">Number of Shareholders Entitled To Vote</th>
+        <th scope="col">Number of Shareholders Voting</th>
+        <th scope="col">Number of Shares of Common Stock Entitled to Vote</th>
+        <th scope="col">Number of Shares of Common Stock Voting</th>
+        <th scope="col">Number of Votes in Favor Of Reappointing M&amp;K CPAs as The Company's Auditors for 2010</th>
+        <th scope="col">Number of Votes Opposing The Reappointment of M&amp;K CPAs as The Company's Auditors for 2010</th>
+      </tr>
+      <tr>
+        <td><div align="center">1</div></td>
+        <td><div align="center">1</div></td>
+        <td><div align="center">100,000</div></td>
+        <td><div align="center">100,000</div></td>
+        <td><div align="center">100,000</div></td>
+        <td><div align="center">-0-</div></td>
+      </tr>
+    </table>
+
+
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center">7</p>
+<hr style="color: black;" noshade="noshade" size="2" /><p align="center"><strong>PART II</strong><br />
+<p><strong><a name="item5" id="item5"></a>Item 5. Market for Registrant's Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities</strong></p>
+<p>(a) Market Information: The Company's Common Stock is not trading on any exchange. The Company is not aware of any market activity in its stock since its inception and through the date of this filing. As of August 31, 2010 there was one (1)  holder of record of 100,000 (100%) shares of the Company's issued and outstanding Common Stock. The one  holder of record was Assured Equities, LLC, incorporator. The Company has not paid any dividends to date and does not anticipate or contemplate paying dividends in the foreseeable future. The Company does not have any equity compensation plan and no stock has been issued as compensation.</p>
+<p>(b) Recent Sales of Unregistered Securities: The Company issued 100,000 shares of Common Stock on August 17, 2009, to Assured Equities, LLC, the incorporator, for an aggregate purchase price of $100.00 in cash or cash equivalents, with $100.00 received and deposited into the Company's bank account. The Company sold these shares of Common Stock under the exemption from registration provided by Section 4(2) of the Securities Act. No securities have been issued for services rendered. Neither the Company nor any person acting on its behalf offered or sold the securities by means of any form of general solicitation or general advertising. No services were performed by a purchaser as consideration for the shares issued. </p>
+<p> (c) Equity Repurchases: The Company has not repurchased any equity security.</p>
+<p><strong><a name="item6" id="item6"></a>Item 6. Selected Financial Data</strong></p>
+<p>The selected financial data (Statement of Operations and Balance Sheet) for the fiscal years ending August 31, 2009 and August 31, 2010 are derived from the Company's audited financial statements included elsewhere in this Annual Report. The following data should be read in conjunction with our consolidated financial statements and the related notes thereto and with &quot;Management's Discussion and Analysis of Financial Condition and Results of Operations&quot; included below in this Annual Report.</p>
+<p align="center"><strong>Assured Equities V Corporation<BR />(A Development Stage Company)<BR />
+Statement of Operations Data</strong></p>
+<table width="850" border="1" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="500"></td>
+    <td width="190"></td>
+    <td width="190"></td>
+    <td width="206"></td>
+  </tr>
+  <tr bgcolor="#CCFFFF">
+    <td>&nbsp;</td>
+    <td><div align="center"><strong>Year Ended August 31, 2009</strong></div></td>
+    <td><div align="center"><strong>Year Ended August 31, 2010 </strong></div></td>
+    <td><div align="center"><strong>August 10, 2009 (Inception) through August 31, 2010</strong></div></td>
+  </tr>
+  <tr>
+    <td colspan="4">&nbsp;</td>
+  </tr>
+  <tr bgcolor="#CCFFFF">
+    <td><strong>TOTAL REVENUE</strong></td>
+    <td><div align="center">$0</div></td>
+    <td><div align="center">$0</div></td>
+    <td><div align="center">$0</div></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr bgcolor="#CCFFFF">
+    <td><strong>OPERATING EXPENSES</strong></td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td><strong>&nbsp;&nbsp;&nbsp;PROFESSIONAL FEES</strong></td>
+    <td><div align="center">-0-</div></td>
+    <td><div align="center"><u>$5,150</u></div></td>
+    <td><div align="center"><u>$5,150</u></div></td>
+  </tr>
+
+  <tr bgcolor="#CCFFFF">
+    <td><strong>TOTAL EXPENSES</strong></td>
+    <td><div align="center"><u>$0</u></div></td>
+    <td><div align="center"><u>$5,150</u></div></td>
+    <td><div align="center"><u>$5,150</u></div></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr bgcolor="#CCFFFF">
+    <td><strong>NET PROFIT OR (LOSS)</strong></td>
+    <td><div align="center"><u>$0</u></div></td>
+    <td><div align="center"><u>($5,150)</u></div></td>
+    <td><div align="center">($5,150)</div></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+
+  <tr bgcolor="#CCFFFF">
+    <td><strong>PER SHARE INFORMATION</strong></td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Weighted Average Number of Shares of Common Stock Outstanding: Basic and Diluted</td>
+    <td><div align="center">100,000</div></td>
+    <td><div align="center">100,000</div></td>
+    <td><div align="center">-</div></td>
+  </tr>
+  <tr bgcolor="#CCFFFF">
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Earnings per Share:</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr bgcolor="#CCFFFF">
+    <td>&nbsp;&nbsp;&nbsp;Basic and Diluted</td>
+    <td><div align="center">($0.00)</div></td>
+    <td><div align="center">($0.00)</div></td>
+    <td><div align="center">-</div></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+</table>
+<p align="center">&nbsp;</p>
+<p align="center"><strong>Assured Equities V Corporation<BR />(A Development Stage Company)<BR />Balance Sheet Data</strong></p>
+<table width="1026" border="1" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td><div align="center"><strong>August 31, 2010</strong></div></td>
+    <td><div align="center"><strong>August 31, 2009</strong></div></td>
+  </tr>
+  <tr>
+    <td width="263">&nbsp;</td>
+    <td width="427" align="center"><blockquote>
+      <blockquote>
+        <blockquote>
+          <blockquote>
+            <p><strong><u>ASSETS</u></strong></p>
+          </blockquote>
+        </blockquote>
+      </blockquote>
+    </blockquote></td>
+    <td width="171">&nbsp;</td>
+    <td width="165">&nbsp;</td>
+  </tr>
+  <tr>
+    <td><strong>ASSETS</strong></td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr bgcolor="#CCFFFF">
+    <td>&nbsp;&nbsp;&nbsp;Current Assets </td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      Cash </td>
+    <td></td>
+    <td><div align="right">$100</div></td>
+    <td><div align="right">$100</div></td>
+  </tr>
+  <tr bgcolor="#CCFFFF">
+    <td>&nbsp;&nbsp;&nbsp;Total Current Assets</td>
+    <td></td>
+    <td><div align="right"><u>$100</u></div></td>
+    <td><div align="right"><u>$100</u></div></td>
+  </tr>
+  <tr>
+    <td><strong>TOTAL ASSETS</strong></td>
+    <td></td>
+    <td><div align="right"><u>$100</u></div></td>
+    <td><div align="right"><u>$100</u></div></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td align="center"><div align="left">
+      <p align="center"><strong><u>LIABILITIES AND STOCKHOLDERS' EQUITY</u></strong></p>
+    </div></td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td><strong>LIABILITIES</strong></td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr bgcolor="#CCFFFF">
+    <td>&nbsp;&nbsp;&nbsp;Current Liabilities</td>
+    <td>&nbsp;</td>
+    <td><div align="right">$0</div></td>
+    <td><div align="right">$0</div></td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;Long Term Liabilities</td>
+    <td>&nbsp;</td>
+    <td><div align="right"><u>$0</u></div></td>
+    <td><div align="right"><u>$0</u></div></td>
+  </tr>
+  <tr bgcolor="#CCFFFF">
+    <td><strong>TOTAL LIABILITIES</strong></td>
+    <td>&nbsp;</td>
+    <td><div align="right"><u>$0</u></div></td>
+    <td><div align="right"><u>$0</u></div></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr bgcolor="#CCFFFF">
+    <td><strong>STOCKHOLDERS' EQUITY</strong></td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;Preferred Stock, $0.001 par value; 50,000,000 shares authorized, 0 shares issued and outstanding. </td>
+    <td><div align="right">$0</div></td>
+    <td><div align="right">$0</div></td>
+  </tr>
+  <tr bgcolor="#CCFFFF">
+    <td colspan="2">&nbsp;&nbsp;&nbsp;Common Stock, $0.001 par value; 100,000,000 shares authorized, 100,000 shares issued and outstanding. </td>
+    <td><div align="right"><u>$100</u></div></td>
+    <td><div align="right">$100</div></td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;Additional Paid-in Capital</td>
+    <td>&nbsp;</td>
+    <td><div align="right"><u>$5,150</u></div></td>
+    <td><div align="right"><u>$0</u></div></td>
+  </tr>
+  <tr>  <tr bgcolor="#CCFFFF">
+
+    <td>&nbsp;&nbsp;&nbsp;Retained Earnings</td>
+    <td>&nbsp;</td>
+    <td><div align="right"><u>($5,150)</u></div></td>
+    <td><div align="right"><u>$0</u></div></td>
+  </tr>
+  <tr>
+    <td><strong>TOTAL STOCKHOLDERS' EQUITY</strong></td>
+    <td>&nbsp;</td>
+    <td><div align="right"><u>$100</u></div></td>
+    <td><div align="right"><u>$100</u></div></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>TOTAL LIABILITIES AND STOCKHOLDERS' EQUITY</strong></td>
+    <td><div align="right"><u>$100</u></div></td>
+    <td><div align="right"><u>$100</u></div></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+</table>
+<p align="center">&nbsp;</p>
+<p>&nbsp;</p>
+<p align="center">8</p>
+<hr style="color: black;" noshade="noshade" size="2" />
+<p align="left"><strong><a name="item7" id="item7"></a>Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operation</strong></p>
+<p>Management's Discussion and Analysis of Financial Condition and Results of Operations (&quot;MD&amp;A&quot;) is intended to provide investors and others with information we believe is necessary to understand our financial condition, changes in financial condition, results of operations and cash flows. This MD&amp;A should be read in conjunction with our Consolidated Financial Statements and related Notes to Financial Statements and other information included in &quot;Item 8. Financial Statements and Supplementary Data&quot; in this 2010 Form 10-K.</p>
+<p>The Company was formed to pursue a business combination with a target company  yet to be identified and to provide a method for a domestic or foreign private company to become a reporting company whose securities would be qualified for trading in the United States secondary market. We were organized to provide a method for a foreign or domestic private company to become a reporting (&quot;public&quot;) company whose securities are qualified for trading in the United States secondary market such as the New York Stock Exchange (NYSE), NASDAQ, NYSE Amex Equities, formerly known as the American Stock Exchange (AMEX), and the OTC Bulletin Board, and, as a vehicle to investigate and, if such investigation warrants, acquire a target company or business seeking the perceived advantages of being a publicly held corporation. The Company's principal business objective for the next 12 months and beyond such time will be to achieve long-term growth  through  business combinations rather than immediate, short-term earnings. </p>
+<p align="left">We have no operations and no operating history. We have no revenues or earnings from operations. We have no significant assets or financial resources.</p>
+<p align="left"><strong>Summary of Results</strong></p>
+<p align="left">During the period of this Form 10-K, August 31, 2009 - August 31, 2010, the Company was engaged in identifying and analyzing potential new business opportunities suitable for completing a business combination. These activities were undertaken by or under the supervision of officers and directors of the Company who volunteer their time to the affairs of the Company. Throughout this reporting period, the Company incurred expenses associated with audits and reviews associated with reporting requirements of the Exchange Act of 1934, as amended and for filing of the annual report with the state of incorporation, Florida. These expenses are described in Item 14, Principal Accounting Fees and Services, herein below. These expenses were paid by Driver Tools, LLC, a Utah LLC whose sole Managing Member, William D. Kyle, is also a Director, President and Treasurer of the Company. Driver Tools made an unsolicited gift of the payment of these expenses to the Company with no expectation of remuneration or compensation; the gifting of these payments is also described in the Form 10-Q filings, for the Company, incorporated herein by reference.</p>
+<p align="left">We have no operations. We have no revenues or earnings. We do not meet the test of &quot;going concern&quot; and our independent auditor has expressed substantial doubt about our ability to continue as a going concern due to our lack of committed funding and lack of revenue. Further, it is highly likely that we will continue to sustain expenses while endeavoring to identify a target business opportunity. Although our target business evaluation will seek to combine with a business opportunity that generates revenue, profits and immediate cash flow, there can be no assurance that if and when we identify and consummate a business combination with a target business opportunity that we will be able to generate revenue, profits or cash flow<br />
+</p>
+<p><strong>Looking Ahead</strong></p>
+<p>Our strategy continues to center on identifying a suitable target business opportunity and consummating a business combination. The analysis of potential new business opportunities, suitable for completing a business combination, will continue to be undertaken by or under the supervision of the officers and directors of the Company.  In its efforts to analyze potential targets, the Company will consider the following kinds of factors, no one of which will be controlling. The Company's  management will attempt to analyze all factors and circumstances and make a determination based upon reasonable investigative measures and available data.</p>
+<ul>
+  <li>Potential      for growth, indicated by new technology, anticipated market expansion or      new products.</li>
+  <li>Competitive      position as compared to other firms of similar size and experience within      the industry segment as well as within the industry as a whole.</li>
+  <li>Strength      and diversity of management, either in place or scheduled for recruitment.</li>
+  <li>Capital      requirements and anticipated availability of required funds, to be      provided by the Company or from operations, through the sale of additional      securities, through joint ventures or similar arrangements or from other      sources.</li>
+  <li>The      cost of participation by the Company as compared to the perceived tangible      and intangible values and potentials.</li>
+  <li>The      extent to which the business opportunity can be advanced.</li>
+  <li>The      accessibility of required management expertise, personnel, raw materials,      services, professional assistance and other required items.</li>
+  <li>Other      relevant factors.</li>
+</ul>
+<p><strong>Liquidity and Capital Resources</strong></p>
+<p>On August 17, 2009,  the Company issued 100,000 shares of its Common Stock, par value $0.001, to the Company's incorporator, Assured Equities, LLC, in exchange for $100. Assured Equities LLC is the sole owner of all (100%) of the Common Stock issued and outstanding by the Company. During the next 12 months, we anticipate incurring $5,000
+  (an average of approximately $415 per month) for accounting and auditing related expenses (including fees to review interim financial information), costs of filing Exchange Act reports and costs
+  related to consummating a business combination. At the Company's present 'quarterly burn
+  rate' we will be out of money next quarter without additional
+funding. Further,  we have no operating history, no revenue and lack profitable operations.  This lack
+  of operations and revenues may result in our incurring a net loss that will
+  increase continuously until we can consummate a business combination with a
+  profitable business opportunity. Because of our lack of profits and possible
+  increasing net losses and lacking operations, target business opportunities may
+decide to forgo a business combination with us placing further strain upon our liquidity and ability to raise capital. </p>
+<p>To  meet its future financial needs, the Company will aggressively seek to obtain capital either through loans, notes payable, through the issuance of shares of its common or preferred stock or other yet to be identified options. We have had no discussions with internal or external sources of liquidity or capital including stockholders, management or other investors
+  regarding funding and no funding commitment has been
+  obtained. The Company has not negotiated the terms of any capital raising activity; at the present time, the terms, conditions, amounts, price, and other details relating to potential sources of capital  cannot be determined. Future capital raising activity will be substantially limited given current market conditions and will in all likelihood be restricted to existing stockholders, management or other individuals or entities. </p>
+<p>Regardless of any terms agreed upon between the Company and any investor, the need for future capital in order for the Company to continue its plan of operations is inevitable. Current  economic conditions will impact the Company's ability to  raise capital. Business and consumer concerns over the economy,
+  geopolitical issues, the availability and cost of credit, the U.S. financial
+  markets and the national debt have contributed to the volatility in the financial and economic environments. These
+  factors, combined with declining and failing businesses, reduced consumer
+  confidence and increased unemployment, have caused a global economic slow-down. Changes in national as well as global economic conditions, including changes in financial and equity markets, interest rates, and investors' perception of the economy may impede the Company's access to, or increase the cost of financing activities. </p>
+<p>The Company will be in competition for capital with other entities that have identifiable assets, liquidity and revenue producing operations. Our financial position, having
+  no significant assets, financial resources and no revenues, raises substantial
+  doubt about our ability to raise capital and continue as a going concern. The lack of a market
+  for our common equity securities precludes us from raising capital in the
+  equity markets until shares of our common stock are registered pursuant to or
+  exempt from registration under the Securities Act; and, any other applicable
+  federal or state securities laws or regulations may also preclude us from
+  successfully raising capital and improving our financial position. Target firms
+  that might consider a merger or acquisition with us, to gain the advantages and
+  perceived benefits of becoming a public corporation, may decide to forgo such
+  a business combination with us because of our lack of operations and access to
+  affordable capital. Our financial position and current economic volatility may
+  prevent us from identifying and pursuing a business combination with a target
+  company seeking these benefits and funding sources, such as our shareholders,
+  management or others, may decide to defer loans or investments to the Company. </p>
+<p>The financial statements contained in this interim report have been prepared assuming that the Company will continue as a going concern; however, the Company has not engaged in any operations that have produced revenue and, as a result, the possibility exists that the Company will not be able to continue as a going concern. Nevertheless, management believes that sufficient funding is available to meet the Company's  needs during the next twelve months. The financial statements included in this interim report do not include any adjustments that might result from an unfavorable outcome of this uncertainty.</p>
+<p>The Company has no material commitments for capital expenditures as of   August 31, 2010, the latest fiscal period. The Company has no requirement for funds to fulfill such commitments. </p>
+<strong>Results of Operations</strong>
+<p>During the twelve month period ending August 31, 2010 the Company had no operations, generated no revenue, generated no cash flow and had professional services fees and other expenses of $5,150. The Company does not currently engage in any business activity that
+provides or produces revenues or cash flow. The Company has no employees; our officers and directors volunteer their time to the Company. </p>
+<p>During this reporting period (August 31, 2009 - August 31, 2010), management's efforts were devoted to identifying and pursuing a possible business combination with a target business opportunity. As of this date, the company has not identified a target business opportunity and has not issued nor entered into a letter of intent concerning any target business opportunity.</p>
+<strong>Off-balance Sheet Arrangements</strong>
+<p>The Company has not been involved in any transaction, agreement or other contractual arrangement (<em>off balance sheet arrangement</em>) and it is not anticipated that the Company will enter into an off balance sheet arrangement. The Company has not undergone any material reclassification, merger, consolidation or purchase or sale of a significant amount of assets not in the ordinary course of business.</p>
+<strong>Tabular Disclosure of Contractual Obligations</strong>
+<p>Assured Equities V Corporation has no contractual obligations.</p>
+<table width="750" border="1" align="center" cellpadding="0" cellspacing="0">
+  <tr></tr>
+  <tr bgcolor="#CCFFFF">
+    <td class="style1171"><div align="center">Contractual obligations</div></td>
+    <td colspan="4" class="style1171"><div align="center">Payments due by period</div></td>
+  </tr>
+  <tr>
+    <td><div align="center">Total</div></td>
+    <td><div align="center">Less than 1 year</div></td>
+    <td><div align="center">1-3 years</div></td>
+    <td><div align="center">3-5 years</div></td>
+    <td><div align="center">More than 5 years</div></td>
+  </tr>
+  <tr></tr>
+  <tr bgcolor="#CCFFFF">
+    <td>Long-Term Debt Obligations</td>
+    <td><div align="center">$0</div></td>
+    <td><div align="center">$0</div></td>
+    <td><div align="center">$0</div></td>
+    <td><div align="center">$0</div></td>
+  </tr>
+  <tr>
+    <td>Capital   Lease Obligations</td>
+    <td><div align="center">$0</div></td>
+    <td><div align="center">$0</div></td>
+    <td><div align="center">$0</div></td>
+    <td><div align="center">$0</div></td>
+  </tr>
+  <tr></tr>
+  <tr bgcolor="#CCFFFF">
+    <td>Operating   Lease Obligations</td>
+    <td><div align="center">$0</div></td>
+    <td><div align="center">$0</div></td>
+    <td><div align="center">$0</div></td>
+    <td><div align="center">$0</div></td>
+  </tr>
+  <tr>
+    <td>Purchase Obligations</td>
+    <td><div align="center">$0</div></td>
+    <td><div align="center">$0</div></td>
+    <td><div align="center">$0</div></td>
+    <td><div align="center">$0</div></td>
+  </tr>
+  <tr></tr>
+  <tr bgcolor="#CCFFFF">
+    <td>Other Long-Term Liabilities Reflected on the Registrant's Balance Sheet under GAAP</td>
+    <td><div align="center">$0</div></td>
+    <td><div align="center">$0</div></td>
+    <td><div align="center">$0</div></td>
+    <td><div align="center">$0</div></td>
+  </tr>
+  <tr>
+    <td><div align="right">Total</div></td>
+    <td><div align="center">$0</div></td>
+    <td><div align="center">$0</div></td>
+    <td><div align="center">$0</div></td>
+    <td><div align="center">$0</div></td>
+  </tr>
+</table>
+<p><strong>Short Term Debt</strong></p>
+<p>The Company has no short term debt.</p>
+<p><strong>Long Term Debt</strong></p>
+<p>The Company has no long term debt.</p>
+<p align="center">9</p>
+<hr style="color: black;" noshade="noshade" size="2" />
+<p><strong><a name="item7a" id="item7a"></a>Item 7A. Quantitative and Qualitative Disclosures About Market Risk</strong></p>
+<p>Assured Equities V Corporation is a smaller reporting company and is not required to provide information required by this item. Nevertheless, there have been no material changes in the quantitative and qualitative disclosures about market risk from the information provided in Assured Equities V Corporation's Form 10-12(g) filings.</p>
+<p align="left"><strong>Interest Rates</strong></p>
+<p align="left">One principal market risk exposure relates to the impact of changes in short-term interest rates that may result from activities by the Federal Reserve and current economic conditions (see Risk Item 18, above) and the impact short term interest rates may have upon a target business opportunity. Interest rate changes impact the level of earnings while changes in long-term interest rates also affect the measure of liabilities. These changes may also impact a target business opportunity.</p>
+<p align="left"><strong>Foreign Currency Exchange Rates</strong></p>
+<p align="left">Because the Company has on operations and generates no revenues, we foresee minimum market risk caused by foreign currency exchange rates.</p>
+<p align="left"><strong>Commodity Prices</strong></p>
+<p align="left">Because the Company has no operations and generates no revenues, we foresee minimum market risk caused by commodity prices.</p>
+<p align="left"><strong>Other Relevant Market Rates or Prices</strong></p>
+<p align="left">Because the Company has no operations and generates no revenues, we can not predict the impact of any other relevant market rates or prices upon our financial performance.</p>
+<p align="left">&nbsp;</p>
+<p align="left"><strong><a name="item8" id="item8"></a>Item 8. Financial Statements and Supplementary Data</strong></p>
+<p align="center"><strong>REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM</strong></p>
+<p align="left"> To the Board of Directors<br />
+  Assured Equities V Corporation <br />
+  (A Development Stage Company)</p>
+<p align="left"> We have audited the accompanying balance sheets of Assured Equities V Corporation (A Development Stage Company) as of August 31, 2010 and 2009, and the related statements of expenses, stockholders' equity and cash flows for the years then ended and from Inception, August 10, 2009 through August 31, 2010. These financial statements are the responsibility of the Company's management.&nbsp; Our responsibility is to express an opinion on these financial statements based on our audits.</p>
+<p align="left"> We conducted our audits in accordance with standards of the Public Company Accounting Oversight Board (United States). Those standards require that we plan and perform the audits to obtain reasonable assurance about whether the financial statements are free of material misstatement.&nbsp; The Company is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. Our audit included consideration on internal control over financial reporting as a basis for designing audit procedures that are appropriate in the circumstances, but not for the purpose of expressing an opinion on the effectiveness of the Company's internal control over financial reporting. Accordingly, we express no such opinion. An audit includes examining, on a test basis, evidence supporting the amounts and disclosures in principles used and significant estimates made by management, as well as evaluating the overall financial statement presentation.&nbsp; We believe that our audits provide a reasonable basis for our opinion.</p>
+<p align="left"> In our opinion, the financial statements referred to above present fairly in all material respects, the financial position of Assured Equities V Corporation (A Development Stage Company) as of August 31, 2010 and 2009 and the results of its operations and its cash flows for the periods described above in conformity with accounting principles generally accepted in the United States of America.</p>
+<p align="left"> The accompanying financial statements have been prepared assuming that the Company will continue as a going concern.&nbsp; As discussed in Note 4 to the financial statements, the Company has generated no operations, no revenue and no cash flow as of August 31, 2010 and 2009, which raises substantial doubt about its ability to continue as a going concern.&nbsp; The financial statements do not include any adjustments that might result from the outcome of this uncertainty.</p>
+<p>/s/ M&amp;K CPAS, PLLC<br />
+  www.mkacpas.com&nbsp;&nbsp; <br />
+  Houston, Texas &nbsp; <br />
+  October 26, 2010</p>
+<p align="center"><strong>ASSURED EQUITIES V CORPORATION</strong><strong><br />
+  (A Development Stage Company)<br />
+  BALANCE SHEETS<br />
+  AS OF AUGUST 31, 2009 AND AUGUST 31, 2010</strong> </p>
+<table width="1000" border="1" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td><div align="center"><strong>August 31, 2010</strong></div></td>
+    <td><div align="center"><strong>August 31, 2009</strong></div></td>
+  </tr>
+  <tr>
+    <td width="263">&nbsp;</td>
+    <td width="427" align="center"><blockquote>
+      <blockquote>
+        <blockquote>
+          <blockquote>
+            <p align="center"><strong><u>ASSETS</u></strong></p>
+          </blockquote>
+        </blockquote>
+      </blockquote>
+    </blockquote></td>
+    <td width="171">&nbsp;</td>
+    <td width="165">&nbsp;</td>
+  </tr>
+  <tr>
+    <td><strong>ASSETS</strong></td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr bgcolor="#CCFFFF">
+    <td>&nbsp;&nbsp;&nbsp;Current Assets </td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      Cash </td>
+    <td></td>
+    <td><div align="right">$100</div></td>
+    <td><div align="right">$100</div></td>
+  </tr>
+  <tr bgcolor="#CCFFFF">
+    <td>&nbsp;&nbsp;&nbsp;Total Current Assets</td>
+    <td></td>
+    <td><div align="right"><u>$100</u></div></td>
+    <td><div align="right"><u>$100</u></div></td>
+  </tr>
+  <tr>
+    <td><strong>TOTAL ASSETS</strong></td>
+    <td></td>
+    <td><div align="right">$100</div></td>
+    <td><div align="right">$100</div></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td align="center"><div align="left">
+
+        <p align="center"><strong><u>LIABILITIES AND STOCKHOLDERS' EQUITY</u></strong></p>
+
+    </div></td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td><strong>LIABILITIES</strong></td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr bgcolor="#CCFFFF">
+    <td>&nbsp;&nbsp;&nbsp;Current Liabilities</td>
+    <td>&nbsp;</td>
+    <td><div align="right">$0</div></td>
+    <td><div align="right">$0</div></td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;Long Term Liabilities</td>
+    <td>&nbsp;</td>
+    <td><div align="right"><u>$0</u></div></td>
+    <td><div align="right"><u>$0</u></div></td>
+  </tr>
+  <tr bgcolor="#CCFFFF">
+    <td><strong>TOTAL LIABILITIES</strong></td>
+    <td>&nbsp;</td>
+    <td><div align="right">$0</div></td>
+    <td><div align="right">$0</div></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr bgcolor="#CCFFFF">
+    <td><strong>STOCKHOLDERS' EQUITY</strong></td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;Preferred Stock, $0.001 par value; 50,000,000 shares authorized, 0 shares issued and outstanding. </td>
+    <td><div align="right">$0</div></td>
+    <td><div align="right">$0</div></td>
+  </tr>
+  <tr bgcolor="#CCFFFF">
+    <td colspan="2">&nbsp;&nbsp;&nbsp;Common Stock, $0.001 par value; 100,000,000 shares authorized, 100,000 shares issued and outstanding. </td>
+    <td><div align="right">$100</div></td>
+    <td><div align="right">$100</div></td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;Additional Paid-in Capital</td>
+    <td>&nbsp;</td>
+    <td><div align="right"><u>$5,150</u></div></td>
+    <td><div align="right">$0</div></td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp; Deficit accumulated during the development stage</td>
+    <td><div align="right"><u>($5,150)</u></div></td>
+    <td><div align="right">$0</div></td>
+  </tr>
+  <tr>
+    <td><strong>TOTAL STOCKHOLDERS' EQUITY</strong></td>
+    <td>&nbsp;</td>
+    <td><div align="right"><u>$100</u></div></td>
+    <td><div align="right"><u>$100</u></div></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td><div align="right"></div></td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>TOTAL LIABILITIES AND STOCKHOLDERS' EQUITY</strong></td>
+    <td><div align="right"><u>$100</u></div></td>
+    <td><div align="right"><u>$100</u></div></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="4"><div align="center"><a href="#notes">See the accompanying summary of accounting policies and notes to the financial statements.</a></div></td>
+  </tr>
+</table>
+<p align="center">&nbsp;</p>
+<p align="center">10</p>
+<hr style="color: black;" noshade="noshade" size="2" />
+<p align="center">&nbsp;</p>
+<p align="center"><strong>ASSURED EQUITIES V CORPORATION</strong><strong><br />
+  (A Development Stage Company)<br />
+  STATEMENTS OF INCOME AND EXPENSES<br />
+FOR THE YEARS ENDED AUGUST 31, 2009 AND AUGUST 31, 2010 AND<BR />
+THE PERIOD FROM AUGUST 10, 2009 (INCEPTION) TO AUGUST 31, 2010</strong></p>
+<table width="762" border="1" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="502">&nbsp;</td>
+    <td width="130"><div align="center"><strong>August 31, 2010</strong></div></td>
+    <td width="130"><div align="center"><strong>August 31, 2009</strong></div></td>
+    <td width="130"><div align="center"><strong>August 10, 2009 (Inception) through August 31, 2010</strong></div></td>
+  </tr>
+  <tr>
+    <td><strong>TOTAL REVENUE</strong></td>
+    <td><div align="right"><u>$0</u></div></td>
+    <td><div align="right"><u>$0</u></div></td>
+    <td><div align="right"><u>$0</u></div></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td><strong>OPERATING EXPENSE</strong></td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr bgcolor="#CCFFFF">
+    <td><strong>&nbsp;&nbsp;&nbsp;Professional Fees</strong></td>
+    <td><div align="right"><u>$5,150</u></div></td>
+    <td><div align="right"><u>$0</u></div></td>
+    <td><div align="right"><u>$5,150</u></div></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr bgcolor="#CCFFFF">
+    <td><strong>TOTAL EXPENSES</strong></td>
+    <td><div align="right"><u>$5,150</u></div></td>
+    <td><div align="right"><u>$0</u></div></td>
+    <td><div align="right"><u>$5,150</u></div></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr bgcolor="#CCFFFF">
+    <td><strong>NET PROFIT OR (LOSS)</strong></td>
+    <td><div align="right">($5,150)</div></td>
+    <td><div align="right">$0</div></td>
+    <td><div align="right">($5,150)</div></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+
+  <tr bgcolor="#CCFFFF">
+    <td><strong>PER SHARE INFORMATION</strong></td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Weighted Average Number of Shares of Common Stock Outstanding - Basic and Diluted</td>
+    <td><div align="right">100,000</div></td>
+    <td><div align="right">100,000</div></td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr bgcolor="#CCFFFF">
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Earnings per Share:</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;Basic and Diluted</td>
+    <td><div align="right"><u>($0.05)</u></div></td>
+    <td><div align="right"><u>($0.00)</u></div></td>
+    <td><u></u></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="4"><div align="center">
+      <p align="center"><a href="#notes">See the accompanying summary of accounting policies and notes to the financial statements</a>.</p>
+    </div></td>
+  </tr>
+</table>
+<p align="center"><br />
+</p>
+<p>&nbsp;</p>
+<p align="center"><strong>ASSURED EQUITIES V CORPORATION</strong><strong><br />
+  (A Development Stage Company)<br />
+  STATEMENT OF CHANGES IN STOCKHOLDERS' EQUITY<br />
+  FOR THE PERIOD FROM INCEPTION (AUGUST 10, 2009) TO AUGUST 31, 2010</strong> </p>
+<table width="1000" border="1" align="center" cellpadding="0" cellspacing="0">
+
+  <tr>
+    <td width="399">&nbsp;</td>
+    <td colspan="3"><div align="center">Preferred Stock</div></td>
+    <td width="8">&nbsp;</td>
+    <td colspan="3"><div align="center">Common Stock</div></td>
+    <td width="8">&nbsp;</td>
+    <td width="77">&nbsp;</td>
+    <td width="10">&nbsp;</td>
+    <td width="98">&nbsp;</td>
+    <td width="10">&nbsp;</td>
+    <td width="85">&nbsp;</td>
+  </tr>
+  <tr valign="bottom">
+    <td>&nbsp;</td>
+    <td width="98"><div align="center">Number of Shares</div></td>
+    <td width="7">&nbsp;</td>
+    <td width="98"><div align="center">Amount</div></td>
+    <td>&nbsp;</td>
+    <td width="98"><div align="center">Number of Shares</div></td>
+    <td width="8">&nbsp;</td>
+    <td width="98"><div align="center">Amount</div></td>
+    <td>&nbsp;</td>
+    <td><div align="center">Additional Paid-in Capital</div></td>
+    <td>&nbsp;</td>
+    <td><div align="center">Accumulated Deficit During The Development Stage</div></td>
+    <td>&nbsp;</td>
+    <td><div align="center">Total Stockholders' Equity</div></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr bgcolor="#CCFFFF">
+    <td>August 10, 2009 (Inception)</td>
+    <td><div align="center">-0-</div></td>
+    <td>&nbsp;</td>
+    <td><div align="center">$0</div></td>
+    <td>&nbsp;</td>
+    <td><div align="center">100,000</div></td>
+    <td>&nbsp;</td>
+    <td><div align="center">$100</div></td>
+    <td>&nbsp;</td>
+    <td><div align="center">$0</div></td>
+    <td>&nbsp;</td>
+    <td><div align="center">$0</div></td>
+    <td>&nbsp;</td>
+    <td><div align="center">$100</div></td>
+  </tr>
+
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr bgcolor="#CCFFFF">
+    <td>Net profit (loss) for the period</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td><div align="center">$0</div></td>
+    <td>&nbsp;</td>
+    <td><div align="center">$0</div></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+
+  <tr bgcolor="#CCFFFF">
+    <td>Balance - August 31, 2009</td>
+    <td><div align="center">-0-</div></td>
+    <td>&nbsp;</td>
+    <td><div align="center">$0</div></td>
+    <td>&nbsp;</td>
+    <td><div align="center">100,000</div></td>
+    <td>&nbsp;</td>
+    <td><div align="center">$100</div></td>
+    <td>&nbsp;</td>
+    <td><div align="center">$0</div></td>
+    <td>&nbsp;</td>
+    <td><div align="center">$0</div></td>
+    <td>&nbsp;</td>
+    <td><div align="center"> $100</div></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr bgcolor="#CCFFFF">
+    <td>Contributed Capital</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td><div align="center">$5,150</div></td>
+    <td><u></u></td>
+    <td><div align="center"></div></td>
+    <td><u></u></td>
+    <td><div align="center">$5,150</div></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td><div align="center"></div></td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+
+  <tr bgcolor="#CCFFFF">
+    <td>Net profit (loss) for the period</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td><div align="center">($5,150)</div></td>
+    <td><u></u></td>
+    <td><div align="center">($5,150)</div></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr bgcolor="#CCFFFF">
+    <td bgcolor="#CCFFFF">Balance - August 31, 2010</td>
+    <td><div align="center">-0-</div></td>
+    <td>&nbsp;</td>
+    <td><div align="center">$0</div></td>
+    <td>&nbsp;</td>
+    <td><div align="center">100,000</div></td>
+    <td>&nbsp;</td>
+    <td><div align="center">$100</div></td>
+    <td>&nbsp;</td>
+    <td><div align="center">$5,150</div></td>
+    <td>&nbsp;</td>
+    <td><div align="center">($5,150)</div></td>
+    <td><u></u></td>
+    <td><div align="center">$100</div></td>
+  </tr>
+
+
+  <tr>
+    <td colspan="14">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td colspan="14"><div align="center"><a href="#notes">See the accompanying summary of accounting policies and notes to the financial statements.</a></div></td>
+  </tr>
+</table>
+<p align="center">&nbsp;</p>
+<p align="center"><strong>ASSURED EQUITIES V CORPORATION</strong><strong><br />
+  (A Development Stage Company)<br />
+  STATEMENT OF CASH FLOWS<br />
+  FOR THE YEARS ENDED AUGUST 31, 2009 AND AUGUST 31, 2010 AND<br />
+  THE PERIOD FROM AUGUST 10, 2009 (INCEPTION) TO AUGUST 31, 2010<BR />
+</strong> </p>
+<table width="1000" border="1" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="568">&nbsp;</td>
+    <td width="97"><div align="center"><strong>August 31, 2010</strong></div></td>
+    <td width="97"><div align="center"><strong>August 31, 2009</strong></div></td>
+    <td width="97"><div align="center"><strong>August 10, 2009 (Inception) through August 31, 2010</strong></div></td>
+  </tr>
+  <tr>
+    <td>Profit or (Loss)</td>
+    <td><div align="right">($5,150)</div></td>
+    <td><div align="right">$0</div></td>
+    <td><div align="right">($5,150)</div></td>
+  </tr>
+
+
+  <tr bgcolor="#CCFFFF">
+    <td>Cash flows from Operating Activities</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;Expenses Paid by Related Party</td>
+    <td><div align="right"><u>$0</u></div></td>
+    <td><div align="right"><u>$0</u></div></td>
+    <td><div align="right"><u>$0</u></div></td>
+  </tr>
+
+  <tr bgcolor="#CCFFFF">
+    <td>Net Cash Flow from Operating Activities</td>
+    <td><div align="right"><u>($5,150)</u></div></td>
+    <td><div align="right"><u>$0</u></div></td>
+    <td><div align="right"><u>($5,150)</u></div></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td><div align="right"></div></td>
+  </tr>
+  <tr bgcolor="#CCFFFF">
+    <td>Cash flow from Financing Activities</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td><div align="right"></div></td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;Cash proceeds from issuance of Common Stock to Incorporator</td>
+    <td><div align="right"><u>$0</u></div></td>
+    <td><div align="right"><u>$100</u></div></td>
+    <td><div align="right"><u>$100</u></div></td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;Expenses Paid by Related Party</td>
+    <td><div align="right"><u>$5,150</u></div></td>
+    <td><div align="right"><u>$0</u></div></td>
+    <td><div align="right"><u>$5,150</u></div></td>
+  </tr>
+  <tr bgcolor="#CCFFFF">
+    <td>Net Cash Provided by Financing Activities</td>
+    <td><div align="right"><u>$0</u></div></td>
+    <td><div align="right"><u>$100</u></div></td>
+    <td><div align="right"><u>$5,250</u></div></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td><div align="right"></div></td>
+  </tr>
+  <tr bgcolor="#CCFFFF">
+    <td>Net Increase (Decrease) in Cash</td>
+    <td><div align="right"><u>$0</u></div></td>
+    <td><div align="right"><u>$100</u></div></td>
+    <td><div align="right"><u>$100</u></div></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td><div align="right"></div></td>
+  </tr>
+  <tr bgcolor="#CCFFFF">
+    <td>Cash and cash equivalent - Beginning of Period</td>
+    <td><div align="right"><u>$100</u></div></td>
+    <td><div align="right"><u>$0</u></div></td>
+    <td><div align="right"><u>$0</u></div></td>
+  </tr>
+  <tr>
+    <td>Cash at Year End</td>
+    <td><div align="right"><u>$100</u></div></td>
+    <td><div align="right"><u>$100</u></div></td>
+    <td><div align="right"><u>$100</u></div></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td><div align="right"></div></td>
+    <td><div align="right"></div></td>
+    <td><div align="right"></div></td>
+  </tr>
+  <tr bgcolor="#CCFFFF">
+    <td>Supplemental Information</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td><div align="right"></div></td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;Interest Paid</td>
+    <td><div align="right"><u>$0</u></div></td>
+    <td><div align="right"><u>$0</u></div></td>
+    <td><div align="right"><u>$0</u></div></td>
+  </tr>
+  <tr bgcolor="#CCFFFF">
+    <td>&nbsp;&nbsp;&nbsp;Taxes Paid</td>
+    <td><div align="right"><u>$0</u></div></td>
+    <td><div align="right"><u>$0</u></div></td>
+    <td><div align="right"><u>$0</u></div></td>
+  </tr>
+
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td><div align="right"></div></td>
+  </tr>
+  <tr>
+    <td colspan="4"><div align="center"><a href="#notes">See the accompanying summary of accounting policies and notes to the financial statements.</a></div></td>
+  </tr>
+</table>
+<p align="center">&nbsp;</p>
+<p>&nbsp;</p>
+<p align="center">11</p>
+<hr style="color: black;" noshade="noshade" size="2" />
+<p align="center">&nbsp;</p>
+<p align="center"><strong><a name="notes" id="notes"></a>Assured Equities V Corporation</strong><br />
+    <strong>(A Development Stage Company)</strong><br />
+    <strong>Notes to Financial Statements</strong><br />
+    <strong>August 31, 2010</strong></p>
+<p><strong>Note 1- Description of Business</strong></p>
+<p> Assured Equities V Corporation (the &quot;Company&quot;), a Florida &quot;blank check&quot; Company, was incorporated on August 10, 2009. The Company is actively seeking a merger candidate and currently has no operations and no employees. </p>
+<p><strong>Note 2 - Preparation and Basis of Financial Statements</strong></p>
+<p> The Company follows the accrual basis of accounting in accordance with accounting principles generally accepted in the United States of America (&quot;GAAP&quot;). The preparation of financial statements in conformity with GAAP requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during the reporting period. Actual results could differ from those estimates.</p>
+<p> Management further acknowledges that it is solely responsible for adopting sound accounting practices, establishing and maintaining a system of internal accounting control and preventing and detecting fraud. The Company's system of internal accounting control is designed to assure, among other items, that 1) recorded transactions are valid; 2) valid transactions are recorded; and 3) transactions are recorded in the proper period in a timely manner to produce financial statements which present fairly the financial condition, results of operations and cash flows of the Company for the respective periods being presented.</p>
+<p> The Company's fiscal year-end is August 31.</p>
+<p><strong>Note 3 - Summary of Significant Accounting Policies</strong></p>
+<p><em><strong>Use of Estimates</strong></em></p>
+<p> The preparation of financial statements in conformity with generally accepted accounting principles requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and reported amounts of revenues and expenses during the reporting period. Actual results could differ from those estimates.</p>
+<p><em><strong>Cash and Equivalents</strong></em></p>
+<p> The Company considers all highly liquid investments with original maturities from date of purchase of three months or less to be cash equivalents. Cash and equivalents consist of cash on deposit with domestic banks and, at times, may exceed federally insured limits. As of August 31, 2010 and 2009, there was $100 in the Company's checking account and no cash equivalents.</p>
+<p><em><strong>Income Taxes</strong></em></p>
+<p> The Company recognizes deferred tax assets and liabilities based on differences between the financial reporting and tax basis of assets and liabilities using the enacted tax rates and laws that are expected to be in effect when the differences are expected to be recovered. Assured Equities V Corporation provides a valuation allowance for deferred tax assets for which it does not consider realization of such assets to be more likely than not.</p>
+<p><em><strong>Net Income Per Share</strong></em></p>
+<p> Basic net income (loss) per common share amounts is computed using the weighted average number of common shares outstanding during the year. Diluted per common share amounts are computed using the weighted average number of common shares outstanding during the year and dilutive potential common shares. Dilutive potential common shares consist of stock options, stock warrants and redeemable convertible stock and are calculated using the treasury stock method. As of August 31, 2010 and 2009 there were no dilutive convertible common shares outstanding.</p>
+<p><em><strong>Development Stage - Assured Equities V Corporation</strong></em></p>
+<p> As a result of the Company's limited operating history and lack of current revenue stream we report our financial statements pursuant to FASB guidelines, which focuses on development stage companies. Users of the financial statements should be familiar with these statements and its effect on the financial statements.</p>
+<p><em><strong>Recent Accounting Pronouncements</strong></em></p>
+<p> The Company does not expect that adoption of recently issued accounting pronouncements will have a material impact on its financial position, results of operations or cash flows.</p>
+<p><strong>Note 4 - Going Concern</strong></p>
+<p> Assured Equities V Corporation does not meet the test of &quot;going concern.&quot; The Company was formed to pursue a business combination with target business opportunity yet to be finalized and to provide a method for a domestic or foreign private company to become a reporting company whose securities would hope to be qualified for trading in the United States secondary market. As of this date the Company has not finalized a business combination and there can be no assurances that we will be successful in locating or negotiating with any target business opportunity and, as such, the Company has been in the developmental stage since inception and have no other operations to date other than issuing shares to our original shareholders. Assured Equities V Corporation's financial statements have been prepared on a development stage company basis. Because the Company has no operations, no revenue and no cash flow, substantial doubt exists as to Assured Equities V Corporation's ability to continue as a going concern. No adjustment has been made to these financial statements for the outcome of this uncertainty.</p>
+<p><strong>Note 5 - Income Tax</strong></p>
+<p> Deferred income taxes are determined using the liability method for the temporary differences between the financial reporting basis and income tax basis of the Company's assets and liabilities. Deferred income taxes are measured based on the tax rates expected to be in effect when the temporary differences are included in the Company's tax return. Deferred tax assets and liabilities are recognized based on anticipated future tax consequences attributable to differences between financial statement carrying amounts of assets and liabilities and their respective tax bases.</p>
+<p>As of August 31, 2010, there is no provision for income taxes, current or deferred.</p>
+<table width="750" border="1" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <th scope="col">&nbsp;</th>
+    <th scope="col">2010</th>
+    <th scope="col">2009</th>
+  </tr>
+  <tr>
+    <td>Deferred Tax Asset Arising From Net Operating Loss Carry-Forward</td>
+    <td><div align="right">$1,803</div></td>
+    <td><div align="right">$0</div></td>
+  </tr>
+  <tr>
+    <td>Valuation Allowance</td>
+    <td><div align="right">($1,803)</div></td>
+    <td><div align="right">($0)</div></td>
+  </tr>
+  <tr>
+    <td>Net Deferred Tax Asset</td>
+    <td><div align="right">$0</div></td>
+    <td><div align="right">$0</div></td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+<p> At August 31, 2010, the Company had  a net operating loss of $5,150 carry forward for federal income tax purposes and Florida currently imposes no state corporate income tax. The Company established valuation allowances equal to the full amount of the deferred tax assets due to the uncertainty of the utilization of the operating losses in future periods.</p>
+<p><strong>Note 6 - Share Capital</strong></p>
+<p> On August 17, 2009, Assured Equities V Corporation issued 100,000 shares of its Common Stock to the Incorporator, Assured Equities LLC, in exchange for $100. </p>
+<p> On August 31, 2009, the Company's stock register reports a total 100,000 shares of Common Stock outstanding, with all 100,000 shares held and owned by Assured Equities LLC, Incorporator.</p>
+<p> On August 31, 2010, the Company's stock register reports a total 100,000 shares of Common Stock outstanding with all 100,000 shares issued on August 10, 2009, held and owned by Assured Equities, LLC, Incorporator.</p>
+<p><strong>Note 7 - Related Party Transactions</strong></p>
+<p>On August 17, 2009, Assured Equities V Corporation issued 100,000 shares of its Common Stock to the Incorporator, Assured Equities LLC, in exchange for $100. Assured   Equities, LLC, a Utah Limited Liability Company and active with the State of Utah, is the incorporator-founder   and the only shareholder of the Company.  Mr. William D. Kyle, President,   Treasurer and Director of the Company is the sole Managing Member and owner of Assured   Equities, LLC. Mr. William D. Kyle, as the sole Managing Member and owner of Assured   Equities, LLC, has voting and dispositive power with regard to all of the shares of the Company held by Assured Equities, LLC.</p>
+<p>On October 1, 2009, the Company was notified that Driver Tools, LLC (&quot;donor&quot;), a privately held company, wished to voluntarily make an unrestricted gift to the Company without any expectation of compensation or other consideration.&nbsp; Driver Tools, LLC is a Utah Limited Liability Company and active with the State of Utah. Mr. William D. Kyle, President,   Treasurer and Director of the Company is the sole Managing Member and owner of Driver Tools, LLC. On August 28, 2009, the donor paid the fees (the 'transaction') of two-thousand and 00/100 ($2,000) USD associated with the PCAOB audit of the Company's financial records and on October 1, 2009 asked that the Company accept this transaction as an unrestricted gift. On October 2, 2009, the Company accepted this unrestricted gift and recorded this gift on the Company's accounting records on October 2, 2009 as additional paid-in capital.</p>
+<p>On January 30, 2010, the Company was notified that Driver Tools, LLC (&quot;donor&quot;), a privately held company, wished to voluntarily make an unrestricted gift of one-thousand and 00/100 ($1,000) USD (the 'transaction') associated with the PCAOB review of the Company's financial records, in preparation for the Company's Form 10-Q filing, to the Company without any expectation of compensation or other consideration. Driver Tools, LLC is a Utah Limited Liability Company and active with the State of Utah. Mr. William D. Kyle, President,   Treasurer and Director of the Company is the sole Managing Member and owner of Driver Tools, LLC. On January 30, 2010, the donor  asked that the Company accept this transaction as an unrestricted gift. On January 30, 2010, the President accepted this unrestricted gift and instructed the Treasurer to record this gift on the Company's accounting records pursuant to and in accordance with GAAP. On February15, 2010, the donor paid the transaction fees  of $1,000, notified the Company of this payment and on February 25, 2010, the Treasurer recorded this gift on the Company's accounting records  as additional paid-in capital.</p>
+<p>On April 2, 2010 and April 12, 2010, respectively, the Company was notified that Driver Tools, LLC ("donor"), a privately held company, wished to voluntarily make two unrestricted gifts totaling one-thousand one-hundred fifty and 00/100 ($1,150) for (a) one-thousand and 00/100 ($1,000) USD associated with the PCAOB review of the Company's financial records, in preparation for the Company's Form 10-Q filing, and (b) one-hundred fifty and 00/100 ($150) USD associated with the annual report fee payable to the State of Florida (the "transactions"), to the Company without any expectation of compensation or other consideration.  Driver Tools, LLC is a Utah Limited Liability Company and active with the State of Utah. Mr. William D. Kyle, President, Treasurer and Director of the Company is the sole Managing Member and owner of Driver Tools, LLC. On April 2, 2010 and April 12, 2010, respectively, the donor asked that the Company accept these transactions as an unrestricted gift. On April 12, 2010, the President accepted these two unrestricted gifts and instructed the Treasurer to record these gifts on the Company's accounting records pursuant to and in accordance with GAAP. On April 29, 2010, the donor paid the transaction fees of $1,150, notified the Company of this payment and on April 30, 2010, the Treasurer recorded this gift on the Company's accounting records as additional paid-in capital.</p>
+<p>On June 26, 2010, the Company was notified that Driver Tools, LLC (&quot;donor&quot;), a privately held company, wished to voluntarily make an unrestricted gift of one-thousand and 00/100 ($1,000) USD (the 'transaction') associated with the PCAOB review of the Company's financial records, in preparation for the Company's Form 10-Q filing, to the Company without any expectation of compensation or other consideration. Driver Tools, LLC is a Utah Limited Liability Company and active with the State of Utah. Mr. William D. Kyle, President,   Treasurer and Director of the Company is the sole Managing Member and owner of Driver Tools, LLC. On January 30, 2010, the donor  asked that the Company accept this transaction as an unrestricted gift. On June 26, 2010, the President accepted this unrestricted gift and instructed the Treasurer to record this gift on the Company's accounting records pursuant to and in accordance with GAAP. </p>
+<p><strong>Note 8 - Preferred Stock</strong></p>
+<p> The Company's Articles of Incorporation authorize 50,000,000 shares of Preferred Stock, par value $0.001. The Company's Preferred Stock has not been registered with the SEC. No shares are issued and outstanding at August 31, 2010 and 2009.</p>
+<p><strong>Note 9 - Subsequent Events</strong></p>
+<p>There are no subsequent events from August 31, 2010 to the date of this report.</p>
+<p align="center">12</p>
+<hr style="color: black;" noshade="noshade" size="2" />
+<p>&nbsp;</p>
+<p align="left"><a name="item9" id="item9"></a><strong>Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure </strong></p>
+<p> There are not and have not been any disagreements between the Company and its accountants on any matter of accounting principles, practices or financial statement disclosure. M&amp;K CPAS, PLLC has been engaged by the Company to audit the period ended August 31, 2010. The decision to hire M&amp;K CPAS, PLLC was approved by the Company's Board of Directors. </p>
+<p><strong><a name="item9a" id="item9a"></a>Item 9A. Controls and Procedures</strong></p>
+<p>We maintain disclosure controls and procedures that are designed to ensure that information required to be disclosed in our reports made pursuant to the Securities Exchange Act of 1934, as amended (the &quot;Exchange Act&quot;) is recorded, processed, summarized and reported within the timelines specified in the Securities and Exchange Commission's rules and forms, and that such information is accumulated and communicated to our management, including our Chief Executive Officer and Principal Financial Officer, as appropriate, to allow timely decisions regarding required disclosure. In designing and evaluating the disclosure controls and procedures, management recognized that any controls and procedures, no matter how well designed and operated, can only provide reasonable assurance of achieving the desired control objectives, and in reaching a reasonable level of assurance, management necessarily was required to apply its judgment in evaluating the cost-benefit relationship of possible controls and procedures.</p>
+<p>As required by Rule 13a-15(b) under the Exchange Act, we carried out an evaluation, under the supervision and with the participation of our management, including our Chief Executive Officer and Principal Financial Officer, of the effectiveness of the design and operation of our disclosure controls and procedures as of the end of the fiscal year covered by this report. Based on the foregoing, our Chief Executive Officer and Principal Financial Officer concluded that our disclosure controls and procedures were not effective as of the end of period covered by this report in timely alerting them to material information relating to Assured Equities V Corporation required to be disclosed in our periodic reports with the Securities and Exchange Commission. The management of the company is required to maintain disclosure controls and procedures that are designed to ensure that information required to be disclosed in our reports under the Securities Exchange Act of 1934, as amended (the &quot;Exchange Act&quot;), is recorded, processed, summarized and reported within the time periods specified in the Commission's rules and forms, and that such information is accumulated and communicated to our management, including our Chief Executive Officer and Chief Financial Officer (one individual) as appropriate, to allow timely decisions regarding required disclosure.</p>
+<p>In designing and evaluating disclosure controls and procedures, management recognizes that any controls and procedures, no matter how well designed and operated, can provide only reasonable, not absolute assurance of achieving the desired objectives. Also, the design of a control system must reflect the fact that there are resource constraints and the benefits of controls must be considered relative to their costs. Because of the inherent limitations in all control systems, no evaluation of controls can provide absolute assurance that all control issues and instances of fraud, if any, have been detected. These inherent limitations include the realities that judgments in decision-making can be faulty and that breakdowns can occur because of simple error or mistake. The design of any system of controls is based, in part, upon certain assumptions about the likelihood of future events and there can be no assurance that any design will succeed in achieving its stated goals under all potential future conditions.</p>
+<p>As of the end of the period covered by this report, the Company conducted an evaluation, under the supervision and with the participation of its principal executive officer and principal financial officer, of the Company's disclosure controls and procedures. Based on their evaluation, the principal executive officer and principal financial officer concluded that the Company's disclosure controls and procedures need improvement and were not adequately effective as of August 31, 2010 to cause the information required to be disclosed in reports that the Company files or submits under the Exchange Act to be recorded, processed, summarized and reported within the time periods prescribed by the SEC, and that such information is accumulated and communicated to management, including the principal executive officer and principal financial officer, as appropriate, to ensure timely decisions regarding required disclosure. Management is in the process of identifying deficiencies with respect to the Company's disclosure controls and procedures and implementing corrective measures.</p>
+<p>There have been no changes in the Company's internal control over financial reporting during the last quarterly period covered by this report that have materially affected, or are reasonably likely to materially affect, the Company's internal control over financial reporting.</p>
+<p>Management's Report on Internal Control Over Financial Reporting</p>
+<p>Our Chief Executive Officer and Principal Financial Officer are responsible for establishing and maintaining adequate internal control over financial reporting, as such term is defined in Rule 13a-15(f) of the Exchange Act.</p>
+<p>Internal control over financial reporting is promulgated under the Exchange Act as a process designed by, or under the supervision of, our Chief Executive Officer and Principal Financial Officer and effected by our board of directors, management and other personnel, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles and includes those policies and procedures that:</p>
+<ul>
+  <li>  Pertain to the maintenance of records that in reasonable detail accurately and fairly reflect the transactions and dispositions of our assets;</li>
+  <li>Provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with accounting principles generally accepted in the United States and that our receipts and expenditures are being made only in accordance with authorizations of our management and directors; and</li>
+  <li>Provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition or disposition of our assets that could have a material effect on the financial statements.</li>
+</ul>
+<p>  Readers are cautioned that internal control over financial reporting, no matter how well designed, has inherent limitations and may not prevent or detect misstatements. Therefore, even effective internal control over financial reporting can only provide reasonable assurance with respect to the financial statement preparation and presentation.</p>
+<p>Our management, under the supervision and with the participation of our Chief Executive Officer and Principal Financial Officer, has evaluated the effectiveness of our internal controls over financial reporting as of the end of the period covered by this report based upon the framework in Internal Control - Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (COSO). Based on our evaluation, management concluded that our internal control over financial reporting was not effective as of August 31, 2010 due to the following material weaknesses in the company&rsquo;s internal control over financial reporting:</p>
+<ul>
+  <li>  A system of internal controls (including policies and procedures) has neither been designed nor implemented.</li>
+  <li>A formal, internal accounting system has not been implemented.</li>
+  <li>Segregation of duties in the handling of cash, cash receipt, and cash disbursement is not formalized.</li>
+  <li>A number of journal entries.</li>
+</ul>
+<p>  Management is evaluating plans on a cost benefit basis to remedy the above weaknesses and we continue the process to complete a thorough review of our internal controls as part of our preparation for compliance with the requirements of Section 404 of the Sarbanes-Oxley Act of 2002. Section 404 requires our management to report on, and our external auditors to attest to, the effectiveness of our internal control structure and procedures for financial reporting. As a non-accelerated filer under Rule 12b-2 of the Exchange Act, our first report under Section 404 as a smaller reporting company will be contained in our Form 10-K for the year ended August 31, 2010.</p>
+<p>This annual report does not include an attestation report of the company's independent registered public accounting firm regarding internal control over financial reporting. Management's report was not subject to attestation by the company's registered public accounting firm pursuant to temporary rules of the Securities and Exchange Commission that permit the company to provide only management's report.</p>
+<p><strong><a name="item9b" id="item9b"></a>Item 9B. Other Information</strong></p>
+<p>None</p>
+<p><strong><a name="item10" id="item10"></a>Item 10. Directors, Executive Officers and Corporate Governance</strong></p>
+<blockquote>
+  <p>  (a) Our directors and officers and additional information concerning them are as follows:</p>
+</blockquote>
+<p align="center"><strong>Assured Equities V Corporation</strong><strong><br />
+      Directors And  Executive Officers<br />
+      August 31, 2010</strong> </p>
+<table width="725" border="1" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="267"><div align="center"><br />
+    Name </div></td>
+    <td width="153"><p align="center">Age</p></td>
+    <td width="277"><p align="center">Position</p></td>
+  </tr>
+
+  <tr>
+    <td><div align="center">William D. Kyle</div></td>
+    <td><div align="center">65</div></td>
+    <td>Director, President and Treasurer</td>
+  </tr>
+  <tr>
+    <td><div align="center">Anne M. Kyle</div></td>
+    <td><div align="center">64</div></td>
+    <td>Director, Secretary</td>
+  </tr>
+
+  <tr>
+    <td colspan="3"><p>The term of office of Director(s) expires at our annual meeting of stockholders or until   successor(s) is/are duly elected and qualified.</p></td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+<p><strong>William D. Kyle, President, Treasurer and Director</strong></p>
+<p>Mr. William D. Kyle possesses over thirty years experience in business development, marketing and sales. Mr. Kyle's most recent experiences include:</p>
+<table width="1100" border="1" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="176"><div align="center"><u>Dates</u></div></td>
+    <td width="197"><div align="center"><u>Company</u></div></td>
+    <td width="513"><div align="center"><u>Position</u></div></td>
+    <td width="314"><div align="center"><u>Comments</u></div></td>
+  </tr>
+  <tr>
+    <td>01/00 - 07/04</td>
+    <td><div align="left">N/A</div></td>
+    <td><div align="left">N/A</div></td>
+    <td>Mr. Kyle was retired during this period</td>
+  </tr>
+  <tr>
+    <td>07/04 - Present</td>
+    <td>Driver Tools, LLC</td>
+    <td>Founder, Managing Member, Mr. Kyle remains active with Driver Tools, LLC</td>
+    <td>Reseller of engineering test products</td>
+  </tr>
+  <tr>
+    <td>07/07 - Present</td>
+    <td>BANDE Holdings, LLC</td>
+    <td>Founder, Managing Member, Mr. Kyle remains active with BANDE Holdings, LLC</td>
+    <td>Business developing and consulting company</td>
+  </tr>
+  <tr>
+    <td>08/08 - Present</td>
+    <td>Assured Equities, LLC</td>
+    <td>Founder, Managing Member, Mr. Kyle remains active with Assured Equities, LLC</td>
+    <td>Business developing and consulting company</td>
+  </tr>
+  <tr>
+    <td>04/09 - Present</td>
+    <td>Enterprise Creations, LLC</td>
+    <td>Founder, Managing Member, Mr. Kyle remains active with Enterprise Creations, LLC</td>
+    <td>Business developing and consulting company</td>
+  </tr>
+</table>
+<p><strong>Anne M. Kyle, Director and Secretary</strong></p>
+<p> Anne M. Kyle possesses twenty years of administrative, organizational and customer relations experience within the retail and transportation market segments. Ms. Kyle's most recent experiences include:</p>
+<table width="1100" border="1" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="183"><div align="center"><u>Dates</u></div></td>
+    <td width="226"><div align="center"><u>Company</u></div></td>
+    <td width="515"><div align="center"><u>Position</u></div></td>
+    <td width="326"><div align="center"><u>Comments</u></div></td>
+  </tr>
+  <tr>
+    <td>01/00 - 07/07</td>
+    <td><div align="left">N/A</div></td>
+    <td><div align="left">N/A</div></td>
+    <td>Ms. Kyle was not employed during this period</td>
+  </tr>
+  <tr>
+    <td>07/07 - Present</td>
+    <td>BANDE Holdings, LLC</td>
+    <td>Secretary, Ms. Kyle remains active with BANDE Holdings, LLC</td>
+    <td>Business developing and consulting company</td>
+  </tr>
+  <tr>
+    <td>08/08 - Present</td>
+    <td>Assured Equities, LLC</td>
+    <td>Secretary, Ms. Kyle remains active with Assured Equities, LLC</td>
+    <td>Business developing and consulting company</td>
+  </tr>
+  <tr>
+    <td>04/09 - Present</td>
+    <td>Enterprise Creations, LLC</td>
+    <td>Secretary, Ms. Kyle remains active with Enterprise Creations, LLC</td>
+    <td>Business developing and consulting company</td>
+  </tr>
+</table>
+<p>(b) Significant Employees. None</p>
+<p> (c) Family Relationships. William D. Kyle, President, Treasurer and Director of the Company and Anne M. Kyle, Secretary and Director of the Company, are husband and wife.</p>
+<p> (d) Involvement in Certain Legal Proceedings. There have been no events under any bankruptcy act, no criminal proceedings and no judgments, injunctions, orders or decrees material to the evaluation of the ability and integrity of any director, executive officer, promoter or control person of Company during the past five years.</p>
+<p> (e) The Board of Directors acts as the Audit Committee and the Board has no separate committees. The Company has no qualified financial expert at this time because it has not been able to hire a qualified candidate.&nbsp; Further, the Company believes that it has inadequate financial resources at this time to hire such an expert. The Company intends to continue to search for a qualified individual for hire.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+<p align="center">13</p>
+<hr style="color: black;" noshade="noshade" size="2" />
+<p><strong><a name="item11" id="item11"></a>Item 11.  Executive Compensation</strong> </p>
+<p>  The Company's officers and directors have not received any cash remuneration since inception. Officers and directors will not receive any remuneration until the consummation of a business combination, acquisition or merger acquisition of a business opportunity and then only with approval of the Company's Board of Directors. No remuneration of any nature has been paid to any officer or director on account of services rendered by such in those capacitates. The Company's officers and directors continue to devote their time, on a voluntary and uncompensated basis, to the affairs of the Company. </p>
+<p>  It is possible that after the Company successfully consummates a business combination, acquisition or merger with an unaffiliated entity that entity may desire to employ or retain one or more members of our management for the purposes of providing services to the surviving entity. However, the Company has adopted a policy whereby the offer of any post-transaction employment to members of management will not be a consideration in our decision whether to undertake any proposed transaction. </p>
+<p>  No retirement, pension, profit sharing, stock option or insurance programs or other similar programs have been adopted by the Company for the benefit of its officers, directors or future employees.</p>
+
+<p>There are no understandings or agreements regarding compensation our management will receive after a business combination that is required to be included in this table or otherwise.</p>
+<p align="center"><strong>Assured Equities V Corporation</strong><strong><br />
+      Executive Compensation<br />
+August 31, 2010</strong></p>
+<table width="750" border="1" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="168"><div align="center"><u>Name</u></div></td>
+    <td width="408"><div align="center"><u>Position / Title</u></div></td>
+    <td width="154"><div align="center"><u>Compensation</u></div></td>
+  </tr>
+
+  <tr>
+    <td>William D. Kyle</td>
+    <td><div>Director, President, and Treasurer </div></td>
+    <td><div align="center">$0.00</div></td>
+  </tr>
+  <tr>
+    <td>Anne M. Kyle</td>
+    <td>Director and Secretary</td>
+    <td><div align="center">$0.00</div></td>
+  </tr>
+</table>
+<p align="left"><strong><a name="item12" id="item12"></a>Item 12. Security Ownership</strong></p>
+<p>The following table sets forth, as of August 31, 2010, the number of shares of Common Stock owned of record and beneficially by executive officers, directors and persons who hold 5% or more of the outstanding Common Stock of the Company.</p>
+<p align="center"><strong>Assured Equities V Corporation</strong><strong><br />
+  Security Ownership of Certain Beneficial Owners and Management<br />
+  August 31, 2010</strong> </p>
+<table width="725" border="1" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="221"><p align="center">Name and Address<br />
+      of Beneficial Owner</p></td>
+    <td width="282"><p align="center">Amount and Nature<br />
+      of Beneficial Ownership</p></td>
+    <td width="194"><p align="center">Percentage (%)<br />
+      of Class</p></td>
+  </tr>
+  <tr>
+    <td>Assured Equities, LLC*</td>
+    <td><div align="center">100,000</div></td>
+    <td><div align="center">100%</div></td>
+  </tr>
+  <tr>
+    <td>2211 12th Avenue East</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Seattle, WA 98102</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>All Officers and   Directors</td>
+    <td><div align="center">-0-</div></td>
+    <td><div align="center">0%</div></td>
+  </tr>
+  <tr>
+    <td><p>&nbsp;</p></td>
+    <td><p>&nbsp;</p></td>
+    <td><p>&nbsp;</p></td>
+  </tr>
+  <tr>
+    <td colspan="3">* Assured Equities, LLC,  a State of Utah Limited Liability Company  and active with the State of Utah, is the  only shareholder of the Company.&nbsp; Mr. William D. Kyle, Director, President and Treasurer of the Company, as the sole Managing Member of Assured Equities, LLC has voting and dispositive power with regard to all of the shares of the Company held by Assured Equities, LLC.</td>
+  </tr>
+</table>
+<p>
+<p align="left"><a name="item13" id="item13"></a><strong>Item 13.  Certain Relationships and Related Transactions</strong></p>
+<p>  The Company utilizes the office space and equipment of its management at no cost.</p>
+<p>  The Company has not issued any promissory notes or other evidence of indebtedness.</p>
+<p>  There have been no transactions since the beginning of the Company's fiscal year (date of inception, August 10, 2009), or any currently proposed transaction, in which the Company was or is to be a participant and the amount involved exceeds $120,000 and in which any related person had or will have a direct or indirect material interest. </p>
+<p>  A single transaction occurred on August 17, 2009, when the Company issued 100,000 shares of its Common Stock, par value $0.001, to the Company's sole incorporator, Assured Equities, LLC, in exchange for $100.00 US Dollars. Assured Equities LLC is the  owner of all 100,000 shares (100%) of the Common Stock issued and outstanding by the Company.</p>
+<p>  As of August 31, 2010, the sole shareholder of the Company is Assured Equities, LLC. Mr. William D. Kyle is the sole Managing Member of Assured Equities, LLC and has voting and dispositive power with regard to all of the shares of the Company held by Assured Equities, LLC.</p>
+<p>  The Company has not had a promoter at anytime.</p>
+<p>  The Company has not:</p>
+<ul type="disc">
+  <li>Established      its own definition for determining whether its directors and nominees for      directors are &quot;independent&quot; nor has it adopted any other      standard of independence employed by any national securities exchange or      inter-dealer quotation system, though our current directors would not be      deemed to be &quot;independent&quot; under any applicable definition given      that they are officers of the Company; nor,</li>
+  <li>Established      any committees of the Board of Directors.</li>
+</ul>
+<p>Given the nature of the Company's business, its limited shareholder base and the current composition of management, the Board of Directors does not believe that the Company requires any corporate governance committees at this time. However, the Board of Directors takes the position that it   will establish:</p>
+<ul type="disc">
+  <li>Its own definition of 'independent&quot; as related to directors and      nominees for directors,</li>
+  <li>Committees that will be suitable for its operations once operations commence.</li>
+</ul>
+<p><strong><a name="item14" id="item14"></a>Item 14. Principal Accounting Fees and Services.</strong></p>
+<p>The Company was billed audit fees, by the Company's PCAOB Member firm, M&amp;K CPAs, during the Company's single fiscal year, as follows:</p>
+<table width="1000" border="1" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <th width="174" scope="col">Fiscal Year</th>
+    <th width="247" scope="col">Audit Fees Billed For The Annual Financial Statement and Review Audit</th>
+    <th width="351" scope="col">Other Audit Fees Billed </th>
+    <th width="119" scope="col">Tax Fees Billed</th>
+    <th width="75" scope="col">All Other Fees</th>
+  </tr>
+  <tr>
+    <td>August 10, 2009 (Inception) - August 31, 2010</td>
+    <td><div align="center">$5,000</div></td>
+    <td><div align="center">-0-</div></td>
+    <td><div align="center">-0-</div></td>
+    <td><div align="center">-0-</div></td>
+  </tr>
+</table>
+<p align="center">14</p>
+<hr style="color: black;" noshade="noshade" size="2" />
+<p align="center"><strong>PART IV</strong></p>
+<p><strong><a name="item15" id="item15"></a>Item 15. Exhibits, Financial Statement Schedules.</strong></p>
+<p align="left">a.1. The consolidated financial statements (and report thereon) listed below are included in &quot;Item 8. Financial Statements and Supplemental Data&quot; of this 2010 Form 10-K.</p>
+<p align="left">Report of M&amp;K CPAs, Independent Registered Public Accounting Firm<BR />
+Balance Sheets at August 31, 2009 and August 31, 2010<BR />
+Statement of Income and Expenses for the fiscal years ended  August 31, 2009 and August 31, 2010<BR />
+Statement of Changes in Stockholder's Equity for the fiscal years ended August 31, 2009 and August 31, 2010<BR />
+Statement of Cash Flows for the fiscal years ended August 31, 2009 and August 31, 2010.</p>
+<p align="left">a.2. Financial Statement Schedules: All schedules for which provision is made in the applicable accounting regulations of the SEC are omitted because of the absence of the conditions under which they are required or because the required information is presented in the financial statements included in &quot;Item 8. Financial Statements and Supplemental Data&quot; of this 2010 Form 10-K.</p>
+<p align="left">a.3 and b Exhibits:</p>
+<p>The exhibits listed on the &ldquo;Index to Exhibits&rdquo; beginning on page E-1 of this 2010 Form 10-K are filed with this 2010 Form 10-K or incorporated herein by reference as noted in the &ldquo;Index to Exhibits&rdquo;. The &ldquo;Index to Exhibits&rdquo; specifically identifies each management contract or compensatory plan or arrangement required to be filed as an exhibit to this 2010 Form 10-K or incorporated herein by reference. </p>
+<p>c. Financial Statement Schedule: None</p>
+<p align="center"><strong>SIGNATURES</strong></p>
+<p align="left"> In accordance with Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.</p>
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="0" width="100%" bgcolor="white">
+    <tr>
+      <td width="50%" valign="top"><br />
+        &nbsp; </td>
+      <td width="49%" valign="top"><p align="left">ASSURED EQUITIES V CORPORATION </p></td>
+    </tr>
+    <tr>
+      <td valign="top"><p>&nbsp; </p></td>
+      <td valign="top"><p>&nbsp;<br />
+        &nbsp; </p></td>
+    </tr>
+    <tr>
+      <td valign="top">Date: October 28, 2010 </td>
+      <td valign="top"><div align="left">By: /s/ <em>William D. Kyle</em><br />
+        Name: William D. Kyle<br />
+        Title: President </div></td>
+    </tr>
+  </table>
+</div>
+<p>&nbsp;</p>
+<table width="1000" border="0" align="left" cellpadding="0" cellspacing="0">
+  <tr>
+    <td colspan="3"><div align="center"><strong><a name="exhibits" id="exhibits"></a>Index to Exhibits</strong></div></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="292"><div align="center"><u>Exhibit Number</u></div></td>
+    <td width="315"><div align="left"><u>Description</u></div></td>
+    <td width="361"><u>Location</u></td>
+  </tr>
+  <tr>
+    <td><div align="center">3.1</div></td>
+    <td>Articles of Incorporation</td>
+    <td>Incorporated herein by reference to Registrant's Form 10-12G/A</td>
+  </tr>
+  <tr>
+    <td><div align="center">3.2</div></td>
+    <td>ByLaws</td>
+    <td>Incorporated herein by reference to Registrant's Form 10-12G/A</td>
+  </tr>
+</table>
+<p align="center">&nbsp; </p>
+<p>&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center">15</p>
+<p>&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>

@@ -1,0 +1,1822 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>retro_10k-123108.txt
+<DESCRIPTION>FORM 10-K
+<TEXT>
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                                Washington, D.C.
+
+
+                                    FORM 10-K
+
+[X]  ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+     ACT OF 1934
+
+                   For the fiscal year ended December 31, 2008
+
+|_|  TRANSITION REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT
+     OF 1934
+
+                   For the transition period from ____ to ____
+
+                        Commission file number 333-29295
+
+                               RETROSPETTIVA, INC.
+                               -------------------
+             (Exact name of registrant as specified in its charter)
+
+           California                                            95-4298051
+           ----------                                            ----------
+(State or other jurisdiction of                               (I.R.S. Employer
+ incorporation or organization)                             Identification No.)
+
+
+112 West 9th Street, Suite 518, Los Angeles, CA                    90015
+-----------------------------------------------                    -----
+  (Address of principal executive offices)                       (Zip Code)
+
+                                 (213) 623-9216
+                                 --------------
+              (Registrant's telephone number, including area code)
+
+
+           Securities registered pursuant to Section 12(b) of the Act:
+
+        None                                            N/A
+Title of each class                   Name of each exchange on which registered
+
+
+           Securities registered pursuant to Section 12(g) of the Act:
+
+                            No Par Value Common Stock
+                            -------------------------
+                                (Title of class)
+
+
+Indicate by check mark if the registrant is a well-known seasoned issuer, as
+defined in Rule 405 of the Securities Act. Yes |_| No [X]
+
+Indicate by check mark if the registrant is not required to file reports
+pursuant to Section 13 or Section 15(d) of the Act. Yes [X] No |_|
+
+Indicate by check mark whether the issuer (1) filed all reports required to be
+filed by Sections 13 or 15(d) of the Securities Exchange Act of 1934 during the
+past 12 months (or for such shorter period that the registrant was required to
+file such reports), and (2) has been subject to such filing requirements for the
+past 90 days. Yes [X] No |_|
+
+<PAGE>
+
+
+Indicate by checkmark if disclosure of delinquent filers pursuant to Item 405 of
+Regulation S-K (ss. 229.405 of this chapter) is not contained herein, and will
+not be contained, to the best of registrant's knowledge, in definitive proxy or
+information statements incorporated by reference in Part III of this Form 10-KS
+or any amendment to this Form 10-K.  [X]
+
+
+Indicate by check mark whether the registrant is a large accelerated filer, an
+accelerated filer, a non-accelerated filer or a smaller reporting company. See
+the definitions of "large accelerated filer," "accelerated filer" and "smaller
+reporting company" in Rule 12b-2 of the Exchange Act.
+
+         Large accelerated filer  |_|       Accelerated filer  |_|
+
+         Non-accelerated filer  |_|     Smaller reporting company  [X]
+
+Indicate by check mark whether the registrant is a shell company (as defined in
+Rule 12b-2 of the Exchange Act). Yes |X| No [_]
+
+The aggregate market value of the Common Stock of Retrospettiva, Inc. by
+non-affiliates as of the last business day of the registrant's most recently
+completed second fiscal quarter was $152,000.
+
+As of April 13, 2009, there were 14,425,903 shares of Common Stock outstanding.
+
+
+                   DOCUMENTS INCORPORATED BY REFERENCE: None.
+
+
+<PAGE>
+                               TABLE OF CONTENTS
+
+PART I
+------
+
+ITEM 1:         BUSINESS                                                      1
+ITEM 1A         RISK FACTORS                                                  6
+ITEM 1B         UNRESOLVED STAFF COMMENTS                                     6
+ITEM 2:         PROPERTIES                                                    6
+ITEM 3:         LEGAL PROCEEDINGS                                             7
+ITEM 4:         SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS           7
+
+PART II
+-------
+
+ITEM 5:         MARKET FOR COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND
+                PURCHASES OF EQUITY SECURITIES                                7
+ITEM 6:         SELECTED FINANCIAL DATA                                       8
+ITEM 7:         MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL
+                CONDITION AND RESULTS OF OPERATION                            8
+ITEM 8:         FINANCIAL STATEMENTS                                         12
+ITEM 9:         CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON
+                ACCOUNTING AND FINANCIAL DISCLOSURE                          24
+ITEM 9A(T):     CONTROLS AND PROCEDURES                                      24
+ITEM 9B:        OTHER INFORMATION                                            25
+
+PART III
+--------
+
+ITEM 10:        DIRECTORS, EXECUTIVE OFFICERS, AND CORPORATE GOVERNANCE      26
+ITEM 11:        EXECUTIVE COMPENSATION                                       27
+ITEM 12:        SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND
+                MANAGEMENT AND RELATED STOCKHOLDER MATTERS                   28
+ITEM 13:        CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND
+                DIRECTOR INDEPENDENCE                                        28
+ITEM 14:        PRINCIPAL ACCOUNTING FEES AND SERVICES                       29
+
+PART IV
+
+ITEM 15:        EXHIBITS                                                     29
+
+SIGNATURES                                                                   30
+
+
+                             ADDITIONAL INFORMATION
+
+     Descriptions of agreements or other documents contained in this report are
+intended as summaries and are not necessarily complete. Please refer to the
+agreements or other documents filed or incorporated herein by reference as
+exhibits. Please see the exhibit index at the end of this report for a complete
+list of those exhibits.
+
+
+<PAGE>
+                SPECIAL NOTE REGARDING FORWARD-LOOKING STATEMENTS
+
+     This report contains "forward-looking statements" within the meaning of the
+Private Securities Litigation Reform Act of 1995. These statements are subject
+to risks and uncertainties and are based on the beliefs and assumptions of
+management and information currently available to management. The use of words
+such as "believes", "expects", "anticipates", "intends", "plans", "estimates",
+"should", "likely" or similar expressions, indicates a forward-looking
+statement.
+
+     The identification in this report of factors that may affect future
+performance and the accuracy of forward-looking statements is meant to be
+illustrative and by no means exhaustive. All forward-looking statements should
+be evaluated with the understanding of their inherent uncertainty.
+
+     Factors that could cause actual results to differ materially from those
+expressed or implied by forward-looking statements include, but are not limited
+to:
+
+     o    The worldwide economic situation;
+     o    Any change in interest rates or inflation;
+     o    The willingness and ability of third parties to honor their
+          contractual commitments;
+     o    The Company's ability to raise additional capital, as it may be
+          affected by current conditions in the stock market and competition for
+          risk capital;
+     o    The Company's capital costs, as they may be affected by delays or cost
+          overruns;
+     o    The Company's costs of production;
+     o    Environmental and other regulations, as the same presently exist or
+          may later be amended;
+     o    The Company's ability to identify, finance and integrate any future
+          acquisitions; and
+     o    The volatility of the Company's stock price.
+
+
+
+<PAGE>
+                                     PART I
+
+ITEM 1.   BUSINESS.
+
+Overview
+
+Retrospettiva, Inc. was organized under the laws of the State of California in
+November, 1990 for the purpose of manufacturing and importing textile products,
+including finished garments and fabrics. Our manufacturing facilities and
+inventories were primarily located in Europe. Our European operations were based
+in and around Macedonia. On July 2, 2001, we announced that the civil war in
+Macedonia rendered it impossible to continue operations. We ceased operations
+and liquidated all of our assets.
+
+From 2002 until 2006, the Company was dormant. Effective October 11, 2006
+(commencement of new development stage), the Company commenced activities to
+become current in reporting with the SEC with the intention to become a publicly
+trading company. Retrospettiva intends to evaluate, structure and complete a
+merger with, or acquisition of, one or a small number of private companies,
+partnerships or sole proprietorships. Retrospettiva may seek to acquire a
+controlling interest in one or more private companies in contemplation of later
+completing an acquisition.
+
+Retrospettiva believes that there is a demand by non-public corporations for
+shell corporations that have a public distribution of securities, such as
+Retrospettiva. Retrospettiva believes that demand for shell corporations has
+increased dramatically since the Securities and Exchange Commission, or the SEC,
+imposed additional requirements upon "blank check" companies pursuant to Reg.
+419 of the Securities Act of 1933, as amended. According to the SEC, Rule 419
+was designed to strengthen regulation of securities offerings by blank check
+companies, which Congress has found to have been a common vehicle for fraud and
+manipulation in the penny stock market. See Securities Act Releases No. 6891
+(April 17, 1991), 48 SEC Docket 1131 and No. 6932 (April 13, 1992) 51 Docket
+0382, SEC Docket 0382. The foregoing regulation has substantially decreased the
+number of "blank check" offerings filed with the SEC, and as a result has
+stimulated an increased demand for shell corporations. While Retrospettiva has
+made the foregoing assumption, there is no assurance that the same is accurate
+or correct and, accordingly, no assurance that Retrospettiva will merge with or
+acquire an existing private entity.
+
+General
+
+Retrospettiva proposes to seek, investigate and, if warranted, acquire an
+interest in one or more business opportunity ventures. As of the date hereof,
+Retrospettiva has no business opportunities or ventures under contemplation for
+acquisition or merger but proposes to investigate potential opportunities with
+investors or entrepreneurs with a concept which has not yet been placed in
+operation, or with firms which are developing companies. Retrospettiva may seek
+established businesses which may be experiencing financial or operational
+difficulties and are in need of the limited additional capital Retrospettiva
+could provide. After Retrospettiva has completed a merger or acquisition, the
+surviving entity would be Retrospettiva; however, management from the acquired
+entity would in all likelihood be retained to operate Retrospettiva. Due to the
+absence of capital available for investment by Retrospettiva, the types of
+business seeking to be acquired by Retrospettiva will invariably be small and
+high risk types of businesses. In all likelihood, a business opportunity will
+involve the acquisition of or merger with a corporation which does not need
+additional cash but which desires to establish a public trading market for its
+common stock.
+
+                                       1
+<PAGE>
+Retrospettiva does not propose to restrict its search for investment
+opportunities to any particular industry or geographical location and may,
+therefore, engage in essentially any business, anywhere, to the extent of its
+limited resources.
+
+It is anticipated that business opportunities will be available to Retrospettiva
+and sought by Retrospettiva from various sources throughout the United States,
+including its officers and directors, professional advisors such as attorneys
+and accountants, securities broker dealers, venture capitalists, members of the
+financial community, other businesses and others who may present solicited and
+unsolicited proposals. Management believes that business opportunities and
+ventures will become available to it due to a number of factors, including,
+among others: (1) management's willingness to enter into unproven, speculative
+ventures; (2) management's contacts and acquaintances; and (3) Retrospettiva's
+flexibility with respect to the manner in which it may structure potential
+financing, mergers or acquisitions. However, there is no assurance that
+Retrospettiva will be able to structure, finance, merge with or acquire any
+business opportunity or venture.
+
+Operation of Retrospettiva
+
+Retrospettiva intends to search throughout the United States for a merger or
+acquisition candidate; however, because of its lack of capital, Retrospettiva
+believes that the merger or acquisition candidate will be conducting business
+within limited geographical area.
+
+Retrospettiva's executive officers will seek acquisition/merger candidates or
+orally contact individuals or broker dealers and advise them of the availability
+of Retrospettiva as an acquisition candidate. Retrospettiva's executive officers
+will review material furnished to them by the proposed merger or acquisition
+candidates and will ultimately decide if a merger or acquisition is in the best
+interests of Retrospettiva and its shareholders.
+
+Retrospettiva may employ outside consultants until a merger or acquisition
+candidate has been targeted by Retrospettiva, however, management believes that
+it is impossible to consider the criteria that will be used to hire such
+consultants. While Retrospettiva may hire independent consultants, it has not
+considered any criteria regarding their experience, the services to be provided,
+or the term of service. As of the date hereof, Retrospettiva has not had any
+discussions with any consultants and there are no agreements or understandings
+with any consultants. Other than as disclosed herein, there are no other plans
+for accomplishing the business purpose of Retrospettiva.
+
+Selection of Opportunities
+
+The analysis of new business opportunities will be undertaken by or under the
+supervision of Retrospettiva's executive officers and directors who are not
+professional business analysts and have had little previous training or
+experience in business analysis. In as much as Retrospettiva will have no funds
+available to it in its search for business opportunities and ventures,
+Retrospettiva will not be able to expend significant funds on a complete and
+exhaustive investigation of such business or opportunity. Retrospettiva will,
+however, investigate, to the extent believed reasonable by its management, such
+potential business opportunities or ventures.
+
+                                       2
+<PAGE>
+As part of Retrospettiva's investigation, representatives of Retrospettiva will
+meet personally with management and key personnel of the firm sponsoring the
+business opportunity, visit and inspect plants and facilities, obtain
+independent analysis or verification of certain information provided, check
+references of management and key personnel, and conduct other reasonable
+measures, to the extent of Retrospettiva's limited financial resources and
+management and technical expertise.
+
+Prior to making a decision to recommend to shareholders participation in a
+business opportunity or venture, Retrospettiva will generally request that it be
+provided with written materials regarding the business opportunity containing
+such items as a description of products, services and company history,
+management resumes, financial information, available projections with related
+assumptions upon which they are based, evidence of existing patents, trademarks
+or service marks or rights thereto, current and proposed forms of compensation
+to management, a description of transactions between the prospective entity and
+its affiliates during relevant periods, a description of current and required
+facilities, an analysis of risks and competitive conditions, and other
+information deemed relevant.
+
+It is anticipated that the investigation of specific business opportunities and
+the negotiation, drafting and execution of relevant agreements, disclosure
+documents and other instruments will require substantial management time and
+attention and costs for accountants, attorneys and others. Retrospettiva's
+executive officers anticipate funding Retrospettiva's operations, including
+providing funds necessary to search for acquisition candidates, until an
+acquisition candidate is found, without regard to the amount involved.
+Accordingly, no alternative cash resources have been explored.
+
+Retrospettiva will have unrestricted flexibility in seeking, analyzing and
+participating in business opportunities. In its efforts, Retrospettiva will
+consider the following kinds of factors:
+
+     o    Potential for growth, indicated by new technology, anticipated market
+          expansion or new products;
+     o    Competitive position as compared to other firms engaged in similar
+          activities;
+     o    Strength of management;
+     o    Capital requirements and anticipated availability of required funds
+          from future operations, through the sale of additional securities,
+          through joint ventures or similar arrangements or from other sources;
+          and
+     o    Other relevant factors.
+
+Potentially available business opportunities may occur in many different
+industries and at various stages of development, all of which will make the task
+of comparative investigation and analysis of such business opportunities
+extremely difficult and complex. Potential investors must recognize that due to
+Retrospettiva's limited capital available for investigation and management's
+limited experience in business analysis, Retrospettiva may not discover or
+adequately evaluate adverse facts about the opportunity to be acquired.
+
+Retrospettiva is unable to predict when it may participate in a business
+opportunity. It expects, however, that the analysis of specific proposals and
+the selection of a business opportunity may take several months or more.
+Retrospettiva does not plan to raise any capital at the present time, by private
+placements; public offerings, pursuant to Regulation S promulgated under the
+Securities Act, or by any means whatsoever. Further, there are no plans,
+proposals, arrangements or understandings with respect to the sale or issuance
+of additional securities prior to the identification of an acquisition or merger
+candidate.
+
+                                       3
+<PAGE>
+Form of Merger or Acquisition
+
+The manner in which Retrospettiva participates in an opportunity will depend
+upon the nature of the opportunity, the respective needs and desires of
+Retrospettiva and the merger or acquisition candidate, and the relative
+negotiating strength of Retrospettiva and such merger or acquisition candidate.
+The exact form or structure of Retrospettiva's participation in a business
+opportunity or venture will be dependent upon the needs of the particular
+situation. Retrospettiva's participation may be structured as an asset purchase,
+a lease, a license, a joint venture, a partnership, a merger or an acquisition
+of securities.
+
+As set forth above, Retrospettiva may acquire its participation in a business
+opportunity through the issuance of common stock or other securities in
+Retrospettiva. Although the terms of any such transaction cannot be predicted,
+it should be noted that in certain circumstances the criteria for determining
+whether or not an acquisition is a so-called "tax free" reorganization under
+Section 368(a)(1) of the Internal Revenue Code of 1954, as amended, may depend
+upon the issuance to the shareholders of the acquired company of at least 80% of
+the common stock of the combined entities immediately following the
+reorganization. If a transaction were structured to take advantage of these
+provisions rather than other "tax free" provisions provided under the Internal
+Revenue Code, all prior shareholders may, in such circumstances, retain 20% or
+less of the total issued and outstanding common stock. If such a transaction
+were available to Retrospettiva, it will be necessary to obtain shareholder
+approval to effectuate a reverse stock split or to authorize additional shares
+of common stock prior to completing such acquisition. This could result in
+substantial additional dilution to the equity of those who were shareholders of
+Retrospettiva prior to such reorganization. Further, extreme caution should be
+exercised by any investor relying upon any tax benefits in light of the proposed
+new tax laws. It is possible that no tax benefits will exist at all. Prospective
+investors should consult their own legal, financial and other business advisors.
+
+The present management and shareholders of Retrospettiva will in all likelihood
+not have control of a majority of the voting shares of Retrospettiva following a
+reorganization transaction. In fact, it is probable that the shareholders of the
+acquired entity will gain control of Retrospettiva. The terms of sale of the
+shares presently held by management of Retrospettiva may not be afforded to
+other shareholders of Retrospettiva. As part of any transaction, Retrospettiva's
+directors may resign and new directors may be appointed without any vote by the
+shareholders.
+
+Retrospettiva has an unwritten policy that it will not acquire or merge with a
+business or company in which Retrospettiva's management or their affiliates or
+associates directly or indirectly have an ownership interest. Management is not
+aware of any circumstances under which the foregoing policy will be changed and
+management, through their own initiative, will not change said policy.
+
+Pursuant to regulations promulgated under the Securities Exchange Act of1934, as
+amended, Retrospettiva will be required to obtain and file with the SEC audited
+financial statements of an acquisition candidate not later than 60 days from the
+date the Form 8-K is due at the SEC disclosing the merger or acquisition.
+
+Rights of Dissenting Shareholders
+
+Under the Colorado Business Corporation Act, a business combination typically
+requires the approval of a majority of the outstanding shares of both
+participating companies. Shareholders who vote against any business combination
+in certain instances may be entitled to dissent and to obtain payment for their
+shares pursuant to Sections 7-113-102 and 7-113-103 of the Colorado Business
+Corporation Act. The requirement of approval of Retrospettiva's shareholders in
+any business combination is limited to those transactions identified as a merger
+or a consolidation. A business combination identified as a share exchange under
+which Retrospettiva would be the survivor does not require the approval of
+Retrospettiva's shareholders, nor does it entitle shareholders to dissent and
+obtain payment for their shares. Accordingly, unless the acquisition is a
+statutory merger, requiring shareholder approval, Retrospettiva will not provide
+shareholders with a disclosure document containing audited or unaudited
+financial statements, prior to such acquisition.
+
+                                       4
+<PAGE>
+Prior to any business combination for which shareholder approval is required,
+Retrospettiva intends to provide its shareholders complete disclosure
+documentation concerning the business opportunity or target company and its
+business. Such disclosure will in all likelihood be in the form of a proxy
+statement which will be distributed to shareholders at least 20 days prior to
+any shareholder meeting.
+
+None of Retrospettiva's officers, directors, promoters, their affiliates or
+associates have had any preliminary contact or discussions with, and there are
+no present plans, proposals, arrangements or understandings with, any
+representatives of the owners of any business or company regarding the
+possibility of an acquisition or merger transaction contemplated in this report.
+
+Not an "Investment Adviser"
+
+Retrospettiva is not an "investment adviser" under the Federal Investment
+Advisers Act of 1940, which classification would involve a number of negative
+considerations. Accordingly, Retrospettiva will not furnish or distribute
+advice, counsel, publications, writings, analysis or reports to anyone relating
+to the purchase or sale of any securities within the language, meaning and
+intent of Section 2(a)(11) of the Investment Advisers Act (15 U.S.C.
+80b2(a)(11)).
+
+Not an "Investment Company"
+
+Retrospettiva may become involved in a business opportunity through purchasing
+or exchanging the securities of such business. Retrospettiva does not intend,
+however, to engage primarily in such activities and is not registered as an
+"investment company" under the Federal Investment Company Act of 1940.
+Retrospettiva believes such registration is not required.
+
+Retrospettiva must conduct its activities so as to avoid becoming inadvertently
+classified as a transient "investment company" under the Federal Investment
+Company Act, which classification would affect Retrospettiva adversely in a
+number of respects. Section 3(a) of the Investment Company Act provides the
+definition of an "investment company" which excludes an entity which does not
+engage primarily in the business of investing, reinvesting or trading in
+securities, or which does not engage in the business of investing, owning,
+holding or trading "investment securities" (defined as "all securities other
+than United States government securities or securities of majority-owned
+subsidiaries",) the value of which exceeds 40% of the value of its total assets
+(excluding government securities, cash or cash items). Retrospettiva intends to
+implement its business plan in a manner which will result in the availability of
+this exemption from the definition of "investment company." Retrospettiva
+proposes to engage solely in seeking an interest in one or more business
+opportunities or ventures.
+
+                                       5
+<PAGE>
+Effective January 14, 1981, the SEC adopted Rule 3a-2 which deems that an issuer
+is not engaged in the business of investing, reinvesting, owning, holding or
+trading in securities for purposes of Section 3(a)(1) cited above if, during
+period of time not exceeding one year, the issuer has a bona fide intent to be
+engaged primarily, or as soon as reasonably possible (in any event by the
+termination of a one year period of time), in a business other than that of
+investing, reinvesting, owning, holding or trading in securities and such intent
+is evidenced by Retrospettiva's business activities and appropriate resolution
+of Retrospettiva's Board of Directors duly adopted and duly recorded in the
+minute book of Retrospettiva. The Rule 3a-2 "safe harbor" may not be relied on
+more than one single time.
+
+Reports to Security Holders.
+
+Retrospettiva is subject to reporting obligations under the Exchange Act. These
+obligations include an annual report under cover of Form 10-K, with audited
+financial statements, unaudited quarterly reports and the requisite proxy
+statements with regard to annual shareholder meetings. The public may read and
+copy any materials Retrospettiva files with the SEC at the SEC's Public
+Reference Room at 100 F Street, NE, Washington, DC 20549. The public may obtain
+information of the operation of the Public Reference Room by calling the SEC at
+1-800-SEC-0030.The SEC maintains an Internet site (http://www.sec.gov) that
+contains reports, proxy and information statements and other information
+regarding issuers that file electronically with the SEC.
+
+Office
+
+Our principal executive offices are located at 112 West 9th Street, Suite 518,
+Los Angeles 90015, and our telephone number is (213) 623-9216. We share office
+space with our President. Our office needs are minimal and we do not pay rent
+for the shared office space. We expect to share office space with our officers
+or directors until we complete a business combination.
+
+Employees
+
+We currently have no salaried employees and none of our officers, directors or
+principle stockholders are currently receiving any compensation for their
+services. Management expects to use consultants, attorneys and accountants as
+necessary, and does not anticipate a need to engage any full-time employees so
+long as it is seeking and evaluating business opportunities. The need for
+employees and their availability will be addressed in connection with the
+decision whether or not to acquire or participate in a specific business
+opportunity.
+
+ITEM 1A. RISK FACTORS
+
+Not required.
+
+ITEM 1B.    UNRESOLVED STAFF COMMENTS
+
+None.
+
+ITEM 2.    PROPERTIES
+
+Retrospettiva owns no property.
+
+Retrospettiva uses the offices of its President for its minimal office facility
+needs for no consideration. No provision for these costs has been provided since
+it has been determined that they are immaterial.
+
+                                       6
+<PAGE>
+ITEM 3.  LEGAL PROCEEDINGS
+
+We are not currently subject to any legal proceedings, and to the best of our
+knowledge, no such proceeding is threatened, the results of which would have a
+material impact on our results of operation or financial condition. Nor, to the
+best of our knowledge, are any of our officers or directors involved in any
+legal proceedings in which we are an adverse party.
+
+ITEM 4.  SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+None.
+
+                                     PART II
+
+ITEM 5.   MARKET FOR COMMON EQUITY. RELATED STOCKHOLDER MATTERS AND PURCHASES OF
+EQUITY SECURITIES
+
+Market Information
+
+ Information about our common stock is reported by Pink Sheets LLC at
+www.pinksheets.com. Pink Sheets LLC is a provider of trading systems, pricing,
+and financial information for over the counter (OTC) markets. Pink Sheets LLC
+provides broker-dealers, market data providers, issuers and investors with
+software and information services that improve the transparency and efficiency
+of the OTC markets. The table below sets forth the high and low prices of our
+common stock as reflected by Pink Sheets LLC for the period from January 1, 2007
+to date. Quotations represent prices between dealers, do not include retail
+markups, markdowns or commissions, and do not necessarily represent prices at
+which actual transactions were effected.
+
+Year Ending
+December 31, 2009                          High            Low
+-----------------                       ---------      ---------
+First Quarter                           $   0.025      $   0.020
+
+December 31, 2008
+-----------------
+First Quarter                           $   0.030      $   0.010
+Second Quarter                          $   0.080      $   0.021
+Third Quarter                           $   0.080      $   0.050
+Fourth Quarter                          $   0.070      $   0.025
+
+December 31, 2007
+-----------------
+First Quarter                           $   0.006      $   0.006
+Second Quarter                          $   0.006      $   0.006
+Third Quarter                           $   0.110      $   0.010
+Fourth Quarter                          $   0.030      $   0.015
+
+
+On April 9, 2009, the "best bid" and "best ask" quotations by Pink Sheets LLC
+were $0.020 and $0.020, respectively, and no trades were reported.
+
+Holders
+
+As of April 13, 2009, a total of 14,425,903 shares of our common stock were
+outstanding and there were approximately 72 holders of record.
+
+
+                                       7
+<PAGE>
+Penny Stock Rules
+
+Due to the price of our common stock, as well as the fact that we are not listed
+on Nasdaq or a national securities exchange, our stock is characterized as
+"penny stocks" under applicable securities regulations. Our stock will therefore
+be subject to rules adopted by the Securities and Exchange Commission ("SEC")
+regulating broker-dealer practices in connection with transactions in penny
+stocks. The broker or dealer proposing to effect a transaction in a penny stock
+must furnish his customer a document containing information prescribed by the
+SEC and obtain from the customer an executed acknowledgment of receipt of that
+document. The broker or dealer must also provide the customer with pricing
+information regarding the security prior to the transaction and with the written
+confirmation of the transaction. The broker or dealer must also disclose the
+aggregate amount of any compensation received or receivable by him in connection
+with such transaction prior to consummating the transaction and with the written
+confirmation of the trade. The broker or dealer must also send an account
+statement to each customer for which he has executed a transaction in a penny
+stock each month in which such security is held for the customer's account. The
+existence of these rules may have an effect on the price of our stock, and the
+willingness of certain brokers to effect transactions in our stock.
+
+Transfer Agent
+
+We have appointed Corporate Stock Transfer, Inc. ("CST") as the transfer agent
+for our common stock. The principal office of CST is located at 3200 Cherry
+Creek Drive South, Suite 430, Denver, CO 80209 and its telephone number is (303)
+282-4800.
+
+Dividend Policy
+
+We have never declared or paid dividends on our common stock. Payment of future
+dividends, if any, will be at the discretion of our Board of Directors after
+taking into account various factors, including the terms of any credit
+arrangements, our financial condition, operating results, current and
+anticipated cash needs and plans for expansion. At the present time, we intend
+to retain any earning in our business, and therefore do not anticipate paying
+dividends in the foreseeable future.
+
+Recent Sales of Unregistered Securities; Use of Proceeds From Unregistered
+Securities
+
+None.
+
+ITEM 6.  SELECTED FINANCIAL DATA
+
+Not required.
+
+ITEM 7.  MANAGEMENTS'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+RESULTS OF OPERATION
+
+Introduction
+
+The following discussion updates our plan of operation for the next twelve
+months. This discussion also analyzes our financial condition at December 31,
+2008 and compares it to our financial condition at December 31, 2007. This
+discussion summarizes the results of our operations for the year ended December
+31, 2008 and compares those results to the year ended December 31, 2007.
+
+Plan of Operation
+
+Retrospettiva, Inc. (the "Company") was organized under the laws of the State of
+California in November, 1990. Prior to 2002, our business was to manufacture and
+import textile products, including both finished garments and fabrics. Our
+manufacturing facilities and inventories were primarily located in Europe. Our
+European operations were based in and around Macedonia. On July 2, 2001, we
+announced that the civil war in Macedonia rendered it impossible to continue
+operations. We ceased operating and liquidated all of our assets.
+
+                                       8
+<PAGE>
+On August 2, 2004, the Company was terminated, by administrative action of the
+State of California as a result of non-filing of required documents with the
+State of California. Effective February 15, 2007, the Company reinstated it
+charter.
+
+We have updated our affairs and become current in our various reporting
+obligations. We intend to combine the Company with another entity in a merger,
+acquisition, or similar transaction and are seeking potential candidates. Our
+plan is to evaluate prospects, structure a transaction, and ultimately combine
+with another entity. We are unable, at this time, to predict when, if ever, our
+objectives will be achieved.
+
+Capital Investment
+
+We do not anticipate any significant capital expenditures for at least the next
+twelve months.
+
+Liquidity and Capital Resources
+
+As of December 31, 2008, we had a working capital deficit of $(139,297). We had
+no current assets and current liabilities were $139,297. This represents a
+$36,277 increase in the deficit from the working capital deficit of $(103,020)
+reported at December 31, 2007. During the year ended December 31, 2008, our
+working capital deficit increased because of costs incurred to revive our
+business and to meet the ongoing reporting requirements for a public company.
+These costs were funded by an increase in current liabilities.
+
+On September 22, 2008, our stockholders approved an increase in authorized
+shares of no par value common stock from 15,000,000 shares to 100,000,000
+shares. The increase in the number of authorized shares of common stock may
+assist us in future financing and will provide sufficient authorized shares of
+common stock to permit conversion of our shares of preferred stock, and our
+convertible note payable into common stock.
+
+We will need additional funding to achieve our ultimate goals. We do not believe
+we are a candidate for conventional debt financing and in the past we have
+relied on loans and advances from stockholders to fund our operations; however
+we have no guarantee that our stockholders will be willing and able to fund all
+of our future financing needs.
+
+We entered into a note payable agreement with one of our stockholders effective
+July 2, 2007. The note provides for borrowings up to the principal amount of
+$64,871, is uncollateralized, and bears interest at an annual rate of 8%. We
+issued 945,987 shares of our common stock as additional consideration for the
+loan agreement. During 2007 we received proceeds of $64,871 under this
+agreement. The stockholder has agreed to extend the due date of the note from
+June 30, 2008 to June 30, 2009.
+
+On November 14, 2007, we entered into a loan agreement with our President and a
+stockholder. The principal maximum amount that can be borrowed is $133,333. The
+loan is due on demand, is uncollateralized, bears interest at 8% per annum, and
+is convertible into restricted common stock at $0.10 per share. We issued
+10,000,000 shares of common stock as additional consideration for the note
+payable. As of December 31, 2008, we had borrowed $52,288 under this arrangement
+and the amount available for future borrowings was $81,045.
+
+                                       9
+<PAGE>
+Our President has periodically advanced funds to us to meet our working capital
+needs. As of December 31, 2008, we owe our President $5,334 for advances which
+are uncollateralized, non-interest bearing and due on demand. During 2008 we
+incurred other obligations and liabilities which are reflected in the
+accompanying balance sheet as accounts payable and accrued liabilities.
+
+Net cash used in operating activities was $24,457 during the year ended December
+31, 2008, compared to $82,479 used during 2007. For both years, all of our
+expenses were funded by related parties.
+
+Results of Operations - Year Ended December 31, 2008 Compared to Year Ended
+December 31, 2007
+
+We are considered a development stage company for accounting purposes, since we
+are working to revive the Company and to implement our plan of operations. We
+are unable to predict with any degree of accuracy when this classification will
+change. We expect to incur losses until such time, if ever, we begin generating
+revenue from operations.
+
+For the year ended December 31, 2008, we recorded a net loss of $(36,277), or
+$(0.00) per share, compared to net income for 2007 of $91,889 or $0.02 per
+share. In neither period did we report any revenue.
+
+During 2007, we recorded a gain from the settlement of litigation. We negotiated
+a settlement with Emeryworld, a company which, on May 20, 2002, obtained a
+judgment against us in the amount of $165,060. On October 26, 2007, we reached a
+settlement agreement with them under which they agreed to accept a cash payment
+of $27,750. The settlement resulted in a gain of $137,310.
+
+Operating expenses decreased to $27,044 for the year ended December 31, 2008,
+compared to $43,655 for 2007, a difference of $16,611. Legal fees decreased by
+$17,674 from 2007 to 2008 because substantial fees were incurred during 2007 to
+defend a stockholder lawsuit which was settled during 2007. No litigation
+occurred during 2008. Consulting fees of $8,000 were incurred in 2007 related to
+reactivation of the company and commencing activities. They were paid in the
+form of stock issued for entering a note payable agreement. Also during 2007, we
+incurred fees to engage our stock transfer agent. Accounting and auditing fees
+increased by $17,400 during 2008 as we updated our affairs and became current in
+our various reporting obligations. During both years, we incurred taxes and
+governmental fees associated with our corporate status.
+
+Off-Balance Sheet Arrangements
+
+As of and subsequent to December 31, 2008, we have no off-balance sheet
+arrangements.
+
+Forward-Looking Statements
+
+This Form 10-K contains or incorporates by reference "forward-looking
+statements," as that term is used in federal securities laws, about our
+financial condition, results of operations and business. These statements
+include, among others:
+
+         - statements concerning the benefits that we expect will result from
+         our business activities and results of business development that we
+         contemplate or have completed, such as increased revenues; and
+
+
+                                       10
+<PAGE>
+         - statements of our expectations, beliefs, future plans and strategies,
+         anticipated developments and other matters that are not historical
+         facts.
+
+These statements may be made expressly in this document or may be incorporated
+by reference to other documents that we will file with the SEC. You can find
+many of these statements by looking for words such as "believes," "expects,"
+"anticipates," "estimates" or similar expressions used in this report or
+incorporated by reference in this report.
+
+These forward-looking statements are subject to numerous assumptions, risks and
+uncertainties that may cause our actual results to be materially different from
+any future results expressed or implied in those statements. Because the
+statements are subject to risks and uncertainties, actual results may differ
+materially from those expressed or implied. We caution you not to put undue
+reliance on these statements, which speak only as of the date of this report.
+Further, the information contained in this document or incorporated herein by
+reference is a statement of our present intention and is based on present facts
+and assumptions, and may change at any time and without notice, based on changes
+in such facts or assumptions.
+
+
+
+
+
+                                       11
+
+<PAGE>
+
+
+ITEM 8.    FINANCIAL STATEMENTS
+
+     Index to Financial Statements:
+
+     Report of Independent Registered Public Accounting Firm
+
+     Balance Sheets as of December 31, 2008 and 2007
+
+     Statements of Operations for the years ended December 31, 2008 and 2007,
+          and for the Development Period from October 11, 2006
+          to December 31, 2008
+
+     Statement of Changes in Stockholders' (Deficit) for the Development Period
+          from October 11, 2006 to December 31, 2008
+
+     Statements of Cash Flows for the years ended December 31, 2008 and
+          2007, and for the Development Period from October 11, 2006 to
+          December 31, 2008
+
+     Notes to Financial Statements
+
+
+
+                                       12
+<PAGE>
+
+
+             REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+
+
+
+Board of Directors and Shareholders
+Retrospettiva, Inc.
+Los Angeles, California
+
+We have audited the accompanying balance sheets of Retrospettiva, Inc. as of
+December 31, 2008 and 2007 and the related statements of operations, changes in
+stockholders' (deficit) and cash flows for the years ended December 31, 2008 and
+2007, and for the period from October 11, 2006 (commencement of development
+stage) to December 31, 2008. These financial statements are the responsibility
+of the Company's management. Our responsibility is to express an opinion on
+these financial statements based upon our audits.
+
+We conducted our audits in accordance with the standards of the Public Company
+Accounting Oversight Board (United States). Those standards require that we plan
+and perform the audits to obtain reasonable assurance about whether the
+financial statements are free of material misstatement. An audit includes
+examining, on a test basis, evidence supporting the amounts and disclosures in
+the financial statements. The Company is not required to have, nor were we
+engaged to perform, an audit of its internal control over financial reporting.
+Our audit included consideration of internal control over financial reporting as
+a basis for designing audit procedures that are appropriate in the
+circumstances, but not for the purpose of expressing an opinion on the
+effectiveness of the Company's internal control over financial reporting.
+Accordingly, we express no such opinion. An audit also includes assessing the
+accounting principles used and significant estimates made by management, as well
+as evaluating the overall financial statement presentation. We believe that our
+audits provide a reasonable basis for our opinion.
+
+In our opinion, the financial statements referred to above present fairly, in
+all material respects, the financial position of Retrospettiva, Inc. as of
+December 31, 2008 and 2007, and the results of its operations and its cash flows
+for the years ended December 31, 2008 and 2007 and for the period from October
+11, 2006 (commencement of development stage) to December 31, 2008, in conformity
+with accounting principles generally accepted in the United States of America.
+
+The accompanying financial statements have been prepared assuming that the
+Company will continue as a going concern. As described in Note 2, the Company
+has no business operations and has negative working capital and stockholders'
+(deficits), which raise substantial doubt about its ability to continue as a
+going concern. Management's plan in regard to this matter is also discussed in
+Note 2. The financial statements do not include any adjustments that might
+result from the outcome of these uncertainties.
+
+
+/s/ Schumacher & Associates, Inc.
+---------------------------------
+April 13, 2009
+Denver, Colorado
+
+                                       13
+<PAGE>
+<TABLE>
+<CAPTION>
+
+                                  RETROSPETTIVA, INC.
+                             (A Development Stage Company)
+                                    BALANCE SHEETS
+
+                                                                    December 31,   December 31,
+                                                                        2008          2007
+                                                                    -----------    -----------
+                                        ASSETS
+
+Current assets:
+<S>                                                                 <C>            <C>
+     Cash and cash equivalents                                      $      --      $       500
+                                                                    -----------    -----------
+            Total current assets                                    $      --      $       500
+                                                                    ===========    ===========
+
+
+
+
+                       LIABILITIES AND STOCKHOLDERS' (DEFICIT)
+
+Current liabilities:
+     Accounts payable                                               $     6,395    $     2,418
+     Accrued expenses                                                       800          1,600
+     Advances payable - officer                                           5,334          5,613
+     Notes payable - stockholders                                       117,159         92,923
+     Accrued interest - stockholders                                      9,609            966
+                                                                    -----------    -----------
+            Total current liabilities                                   139,297        103,520
+                                                                    -----------    -----------
+
+Commitments and contingencies (Notes 1, 2, 3, 5 and 6)
+
+Stockholders' (deficit):
+     Preferred stock - no par value, authorized 1,000,000 shares:
+            No shares issued or outstanding                                --             --
+     Common stock - no par value, 100,000,000 shares authorized:
+            14,425,903 shares issued and outstanding                  6,903,766      6,903,766
+     Additional paid-in capital                                         230,000        230,000
+     Accumulated deficit through October 11, 2006                    (7,302,235)    (7,302,235)
+     Retained earnings during development period                         29,172         65,449
+                                                                    -----------    -----------
+            Total stockholders' (deficit)                              (139,297)      (103,020)
+                                                                    -----------    -----------
+
+            Total liabilities and stockholders' (deficit)           $      --      $       500
+                                                                    ===========    ===========
+
+
+
+         The accompanying notes are an integral part of these financial statements.
+
+                                          14
+</TABLE>
+
+
+<PAGE>
+<TABLE>
+<CAPTION>
+
+                               RETROSPETTIVA, INC.
+                          (A Development Stage Company)
+                            STATEMENTS OF OPERATIONS
+               for the years ended December 31, 2008 and 2007 and
+      for the Development Period from October 11, 2006 to December 31, 2008
+
+
+                                                                     Development Period
+                                                                      October 11, 2006
+                                                                       to December 31,
+                                            2008           2007             2008
+                                       ------------    ------------    ----------------
+<S>                                    <C>             <C>             <C>
+Revenues                               $         --    $         --    $             --
+                                       ------------    ------------    ----------------
+Expenses:
+     General and administrative:
+         Financing costs                         --           2,917               2,917
+         Consulting fees                         --           8,029               8,029
+         Accounting and legal                22,220          22,636              69,871
+         Investor relations                   4,824          10,073              15,522
+                                       ------------    ------------    ----------------
+            Total expenses                   27,044          43,655              96,339
+                                       ------------    ------------    ----------------
+
+Operating (loss)                            (27,044)        (43,655)            (96,339)
+                                       ------------    ------------    ----------------
+
+Other income (expense):
+     Gain from litigation settlement             --         137,310             137,310
+     Interest (expense)                      (8,643)           (966)             (9,609)
+                                       ------------    ------------    ----------------
+                                             (8,643)        136,344             127,701
+                                       ------------    ------------    ----------------
+
+Income (loss) before income taxes           (35,687)         92,689              31,362
+
+Provision for income taxes                      590             800               2,190
+                                       ------------    ------------    ----------------
+
+Net income (loss)                      $    (36,277)   $     91,889    $         29,172
+                                       ============    ============    ================
+
+Net (loss) per common share:
+         Basic and Diluted             $        Nil    $       0.02    $            Nil
+                                       ============    ============    ================
+Weighted average shares outstanding:
+         Basic and Diluted               14,425,903       5,239,285           9,204,548
+                                       ============    ============    ================
+
+
+      The accompanying notes are an integral part of these financial statements.
+
+                                         15
+</TABLE>
+
+<PAGE>
+<TABLE>
+<CAPTION>
+                                             RETROSPETTIVA, INC.
+                                        (A Development Stage Company)
+                                STATEMENT OF CHANGES IN STOCKHOLDERS' EQUITY
+                   for the Development Period from October 11, 2006 to December 31, 2008
+
+                                                                                                       Retained
+                                                                                                       Earnings
+                                                                                      Accumulated    (Accumulated
+                                                                                        Deficit         Deficit)
+                                                                          Additional    through        During the       Total
+                                                   Common Stock           Paid - in    October 11,    Development   Stockholders'
+                                                Shares        Amount       Capital        2006           Stage        (Deficit)
+                                             -----------   -----------   -----------   -----------    -----------    -----------
+<S>                                            <C>         <C>           <C>           <C>            <C>            <C>
+ Balance, October 11, 2006                     3,479,916   $ 6,892,820   $   230,000   $(7,302,235)   $        --    $  (179,415)
+
+Net (loss)                                            --            --            --            --        (26,440)       (26,440)
+                                             -----------   -----------   -----------   -----------    -----------    -----------
+ Balance, December 31, 2006                    3,479,916     6,892,820       230,000    (7,302,235)       (26,440)      (205,855)
+
+Shares issued for loan fees at
+       $0.001 per share, July 2, 2007            945,987           946            --            --             --            946
+
+Shares issued for loan fees at
+       $0.001 per share, November 14, 2007    10,000,000        10,000            --            --             --         10,000
+
+Net income                                            --            --            --            --         91,889         91,889
+                                             -----------   -----------   -----------   -----------    -----------    -----------
+ Balance, December 31, 2007                   14,425,903     6,903,766       230,000    (7,302,235)        65,449       (103,020)
+
+Net (loss)                                            --            --            --            --        (36,277)       (36,277)
+                                             -----------   -----------   -----------   -----------    -----------    -----------
+ Balance, December 31, 2008                   14,425,903   $ 6,903,766   $   230,000   $(7,302,235)   $    29,172    $  (139,297)
+                                             ===========   ===========   ===========   ===========    ===========    ===========
+
+
+                  The accompanying notes are an integral part of these financial statements.
+
+                                                  16
+</TABLE>
+
+
+<PAGE>
+<TABLE>
+<CAPTION>
+
+                                 RETROSPETTIVA, INC.
+                              (A Development Stage Company)
+                                STATEMENTS OF CASH FLOWS
+                     for the years ended December 31, 2008 and 2007,
+         and for the Development Period from October 11, 2006 to December 31, 2008
+
+
+                                                                                   Development Period
+                                                                                    October 11, 2006
+                                                                                     to December 31,
+                                                              2008        2007            2008
+                                                           ---------    ---------    ---------------
+<S>                                                        <C>          <C>          <C>
+ Cash flows from operating activities:
+      Net income (loss)                                    $ (36,277)   $  91,889    $        29,172
+                                                           ---------    ---------    ---------------
+      Adjustments to reconcile net income (loss)
+      to net cash used by operating activities:
+         Gain from litigation settlement                          --     (137,310)          (137,310)
+         Shares issued for loan fees and consulting fees          --       10,946             10,946
+        Changes in operating assets and liabilities:
+         Decrease (increase) in prepaid expenses                  --        2,461                 --
+         Increase (decrease) in accounts payable and
+                   accrued expenses                            3,177      (23,681)            (7,160)
+         (Decrease) in judgement payable                          --      (27,750)           (27,750)
+         Increase in accrued interest                          8,643          966              9,609
+                                                           ---------    ---------    ---------------
+      Total adjustments                                       11,820     (174,368)          (151,665)
+                                                           ---------    ---------    ---------------
+
+        Net cash (used in) operating activities              (24,457)     (82,479)          (122,493)
+                                                           ---------    ---------    ---------------
+
+ Cash flows from investing activities:
+        Net cash (used in) investing activities                   --           --                 --
+                                                           ---------    ---------    ---------------
+
+Cash flows from financing activities:
+        Proceeds from notes payable - stockholders            24,236       92,923            117,159
+        Advances from related party                             (279)      (9,944)             5,334
+                                                           ---------    ---------    ---------------
+        Net cash provided by financing activities             23,957       82,979            122,493
+                                                           ---------    ---------    ---------------
+
+Net increase in cash and equivalents                            (500)         500                 --
+
+Cash and equivalents at beginning of year                        500           --                 --
+
+                                                           ---------    ---------    ---------------
+Cash and equivalents at end of year                        $      --    $     500    $            --
+                                                           =========    =========    ===============
+
+
+Supplemental Cash Flow Information
+     Interest paid                                         $      --    $      --    $            --
+                                                           =========    =========    ===============
+     Income taxes paid                                     $   1,390    $   5,952    $         7,342
+                                                           =========    =========    ===============
+
+
+       The accompanying notes are an integral part of these financial statements.
+
+
+                                          17
+</TABLE>
+
+<PAGE>
+
+                               RETROSPETTIVA, INC.
+                          (A Development Stage Company)
+                          NOTES TO FINANCIAL STATEMENTS
+                                December 31, 2008
+
+1.   Overview and Summary of Significant Accounting Policies
+
+     Basis of Presentation:   Retrospettiva, Inc. (the "Company") was organized
+under the laws of the State of California in November, 1990 to manufacture and
+import textile products, including both finished garments and fabrics. The
+Company's manufacturing facilities and inventories were primarily located in
+Europe. The Company ceased operations in 2001 and has been inactive since 2002.
+Effective August 2, 2004, the Company was terminated, by administrative action
+of the State of California as a result of non-filing of required documents with
+the State of California. Effective February 15, 2007, the Company reinstated its
+charter.
+
+     Effective October 11, 2006 (commencement of the development stage) efforts
+commenced to revive the Company. Legal counsel was hired to address litigation
+involving the Company and activities were undertaken to prepare and file
+delinquent tax and financial reports. Furthermore, a financial judgment against
+the Company dating back to 2002 was addressed and a final settlement was reached
+in October, 2007. The Company filed various delinquent reports to become current
+in its reporting obligations to the Securities and Exchange Commission ("SEC")
+and various taxing authorities.
+
+     The Company intends to evaluate, structure and complete a merger with, or
+acquisition of, prospects consisting of private companies, partnerships or sole
+proprietorships. The Company may seek to acquire a controlling interest in such
+entities in contemplation of later completing an acquisition.
+
+     Development Stage Company:   Based on the Company's business plan, it is a
+development stage company since planned principle operations have not yet
+commenced. Accordingly, the Company presents its financial statements in
+conformity with the accounting principles generally accepted in the United
+States of America that apply to developing enterprises. As a development stage
+enterprise, the Company discloses its retained earnings (or deficit accumulated)
+during the development stage and the cumulative statements of operations and
+cash flows from commencement of development stage to the current balance sheet
+date. The development stage began on October 11, 2006, when management
+commenced its efforts to revive the Company.
+
+     Revenue Recognition:   The Company has not generated any revenues since
+entering the development stage. It is the Company's policy that revenues will be
+recognized in accordance with SEC Staff Bulletin (SAB) 104, "Revenue
+Recognition". Under SAB 104, product revenues (or service revenues) are
+recognized when persuasive evidence of an arrangement exists, delivery has
+occurred (or service has been performed), the sales price is fixed and
+determinable, and collectability is reasonably assured.
+
+     Cash and Cash Equivalents:   The Company considers cash in banks, deposits
+in transit, and highly liquid debt instruments purchased with original
+maturities of three months or less to be cash and cash equivalents.
+
+
+                                       18
+<PAGE>
+     Stock Based Compensation:   The Company accounts for stock based
+compensation in accordance with SFAS 123(R), "Share Based Payment," requiring
+the Company to record compensation costs in accordance with the fair value based
+method prescribed in SFAS 123(R).
+
+     The Company accounts for common stock issued to employees for services
+based on the fair value of the instruments issued, and accounts for common stock
+issued to other than employees based on the fair value of the consideration
+received or the fair value of the equity instruments, whichever is more reliably
+measurable.
+
+     The Company has no stock option plan and did not make any option grants
+during 2008 or 2007, and, accordingly, has not recognized any stock based
+compensation expense related to options. During 2007, the Company issued common
+shares in exchange for services and recorded an expense based upon the fair
+market value of the shares issued.
+
+     Per Share Amounts:   SFAS 128, "Earnings Per Share," provides for the
+calculation of "Basic" and "Diluted" earnings per share. Basic earnings per
+share includes no dilution and is computed by dividing net income (or loss) by
+the weighted-average number of shares outstanding during the period. Diluted
+earnings per share reflect the potential dilution of securities that could share
+in the earnings of the Company, similar to fully diluted earnings per share.
+During 2008 and 2007, the Company has not issued any potentially dilutive
+securities.
+
+     Income Taxes:   The Company accounts for income taxes in accordance with
+SFAS 109, "Accounting for Income Taxes", which requires the use of the asset and
+liability method of computing deferred income taxes. The objective of the asset
+and liability method is to establish deferred tax assets and liabilities for the
+temporary differences between the book basis and the tax basis of the Company's
+assets and liabilities at enacted tax rates expected to be in effect when such
+amounts are realized or settled.
+
+     FIN 48 is an interpretation of SFAS 109 and clarifies the accounting for
+uncertainty in income taxes recognized in an entity's financial statements in
+accordance with SFAS 109, and prescribes a recognition threshold and measurement
+attributes for financial statement disclosure of tax positions taken or expected
+to be taken on a tax return. Under FIN 48, the impact of an uncertain income tax
+position on the income tax return must be recognized at the largest amount that
+is more-likely-than-not to be sustained upon audit by the relevant taxing
+authority. An uncertain income tax position will not be recognized if it has
+less than a 50% likelihood of being sustained. Additionally, FIN 48 provides
+guidance on derecognition, classification, interest and penalties, accounting in
+interim periods, disclosure and transition. The Company adopted the provisions
+of FIN 48 on January 1, 2007, which did not have any impact on the financial
+statements.
+
+     Use of Estimates:   The preparation of financial statements in conformity
+with US GAAP requires management to make estimates and assumptions that affect
+the reported amount of assets and liabilities and disclosure of contingent
+assets and liabilities at the date of the financial statements and the reported
+amounts of revenues and expenses during the reporting period. Management
+routinely makes judgments and estimates about the effects of matters that are
+inherently uncertain. Estimates that are critical to the accompanying financial
+statements include the identification and valuation of assets and liabilities,
+valuation of deferred tax assets, and the likelihood of loss contingencies.
+Management bases its estimates and judgments on historical experience and on
+various other factors that are believed to be reasonable under the
+circumstances, the results of which form the basis for making judgments about
+the carrying values of assets and liabilities that are not readily apparent from
+other sources. Actual results could differ from these estimates. Estimates and
+assumptions are revised periodically and the effects of revisions are reflected
+in the financial statements in the period it is determined to be necessary.
+
+     Fair Value of Financial Instruments: SFAS 107, "Disclosures About Fair
+Value of Financial Instruments," requires disclosure of fair value information
+about financial instruments. Fair value estimates discussed herein are based
+upon certain market assumptions and pertinent information available to
+management as of December 31, 2008.
+
+                                       19
+<PAGE>
+     The respective carrying value of certain on-balance-sheet financial
+instruments approximate their fair values. These financial instruments include
+cash, accounts payable, advances payable and notes payable. Fair values were
+assumed to approximate carrying values for these financial instruments since
+they are short term in nature and their carrying amounts approximate fair value,
+or they are receivable or payable on demand.
+
+     Concentrations:   The Company is not currently a party to any financial
+instruments that potentially subject it to concentrations of credit risk.
+
+     Recent Pronouncements:   In December 2007 the FASB issued FAS No. 141
+(revised 2007), Business Combinations ("SFAS 141(R)"). This statement replaces
+SFAS 141, Business Combinations. The statement provides guidance for how the
+acquirer recognizes and measures the identifiable assets acquired, liabilities
+assumed and any non-controlling interest in the acquiree. SFAS 141(R) provides
+for how the acquirer recognizes and measures the goodwill acquired in the
+business combination or a gain from a bargain purchase. The statement determines
+what information to disclose to enable users to be able to evaluate the nature
+and financial effects of the business combination. The provisions of SFAS 141(R)
+are effective for the first annual reporting period beginning on or after
+December 15, 2008, and do not allow early adoption. Management is currently
+evaluating the impact of adopting this statement.
+
+     In December 2007, the FASB issued FAS No. 160, "Noncontrolling Interests in
+Consolidated Financial Statements," (SFAS 160), which becomes effective for
+annual periods beginning after December 15, 2008. This standard establishes
+accounting and reporting standards for ownership interests in subsidiaries held
+by parties other than the parent, the amount of consolidated net income
+attributable to the parent and to the noncontrolling interest, changes in a
+parent's ownership interest and the valuation of retained non-controlling equity
+investments when a subsidiary is deconsolidated. The Statement also establishes
+reporting requirements that provide sufficient disclosures that clearly identify
+and distinguish between the interests of the parent and the interests of the
+non-controlling owners. Management is currently evaluating the impact of
+adopting this statement.
+
+     In March 2008, the FASB issued SFAS No. 161, "Disclosures about Derivative
+Instruments and Hedging Activities - an Amendment of FASB Statement No. 133,"
+(SFAS 161), which becomes effective for periods beginning after November 15,
+2008. This standard changes the disclosure requirements for derivative
+instruments and hedging activities. Entities are required to provide enhanced
+disclosures about (a) how and why an entity uses derivative instruments, (b) how
+derivative instruments and related hedged items are accounted for under SFAS 133
+and its related interpretations, and (c) how derivative instruments and related
+hedged items affect an entity's financial position, financial performance, and
+cash flows. Management is currently evaluating the impact of adopting this
+statement.
+
+     There were various other accounting standards and interpretations issued
+during 2008 and 2007, none of which are expected to have a material impact on
+the Company's financial position, operations, or cash flows.
+
+
+                                       20
+<PAGE>
+2.   Going Concern
+
+     The Company's financial statements are prepared on a going concern basis,
+which contemplates the realization of assets and the satisfaction of obligations
+in the normal course of business. However, the Company has no business
+operations and has negative working capital and stockholders' (deficits). These
+conditions raise substantial doubt about the ability of the Company to continue
+as a going concern.
+
+     In view of these matters, continuation as a going concern is dependent upon
+continued operations of the Company, which in turn is dependent upon the
+Company's ability to meets its financial requirements, raise additional capital,
+and the success of its future operations. The financial statements do not
+include any adjustments to the amount and classification of assets and
+liabilities that may be necessary should the Company not continue as a going
+concern.
+
+     Management has opted to file the Company's delinquent financial reports
+with the Securities and Exchange Commission (SEC) and then to raise funds
+through a private placement. Management believes that this plan provides an
+opportunity for the Company to continue as a going concern.
+
+3.   Income Taxes
+
+     Deferred income taxes arise from temporary timing differences in the
+recognition of income and expenses for financial reporting and tax purposes. The
+Company's deferred tax assets consist entirely of the benefit from net operating
+loss (NOL) carry forwards. The net operating loss carry forward, if not used,
+will expire in various years through 2028, and is severely restricted as per the
+Internal Revenue code if there is a change in ownership. The Company's deferred
+tax assets are offset by a valuation allowance due to the uncertainty of the
+realization of the net operating loss carry forwards. Net operating loss
+carryforwards may be further limited by other provisions of the tax laws.
+
+     The Company's deferred tax assets, valuation allowance, and change in
+valuation allowance are as follows:
+<TABLE>
+<CAPTION>
+
+                          Estimated                 Estimated                      Change in
+                             NOL           NOL      Tax Benefit     Valuation      Valuation    Net Tax
+    Period Ending       Carry-forward   Expires     from NOL        Allowance      Allowance    Benefit
+  -----------------     -------------   -------     --------        ---------      ---------    -------
+<S>                       <C>                       <C>            <C>                <C>        <C>
+  December 31, 2008       $500,000      Various     $113,250       $(113,250)         $ --         --
+  December 31, 2007       $500,000      Various     $113,250       $(113,250)         $ --         --
+</TABLE>
+     Income taxes at the statutory rate are reconciled to the Company's actual
+income taxes as follows:
+
+    Income tax benefit at statutory rate resulting
+    from net operating loss carryforward                         (15.00%)
+    State tax (benefit) net of federal benefit                    (7.65%)
+    Deferred income tax valuation allowance                       22.65%
+                                                              ------------
+    Actual tax rate                                                   0%
+                                                              ============
+
+                                       21
+<PAGE>
+The Company also paid franchise taxes and related fees totaling $1,390 in 2008
+and $5,952 in 2007 to the state of California. At December 31, 2008 and 2007,
+the Company owed franchise taxes and related fees totaling $800 and $1,600,
+respectively, to the state of California.
+
+4.   Capital Stock
+
+     Preferred Stock    The Company has authorized 1,000,000 shares of no par
+value preferred stock. These shares may be issued in series with such rights and
+preferences as may be determined by the Board of Directors. The Company has not
+issued any preferred shares.
+
+     Common Stock    The Company has authorized 100,000,000 shares of no par
+value common stock. On September 22, 2008, the stockholders approved an increase
+in the authorized shares of common stock from 15,000,000 shares to 100,000,000
+shares. As of December 31, 2008, there were 14,425,903 shares issued and
+outstanding.
+
+     During 2007, the Company issued 10,945,987 shares of common stock as
+additional consideration under loan arrangements provided by the President and a
+stockholder. The shares were valued by the Company at $0.001 per share, and the
+Company recorded financing costs and consulting fees totaling $10,945 related to
+this stock issuance.
+
+5.   Related Party Transactions
+
+     Effective July 2, 2007, the Company entered into a note payable agreement
+with a related party that provides for borrowings up to the principal amount of
+$64,871. The note is uncollateralized and bears interest at an annual rate of
+8%. The Company issued 945,987 shares of its common stock as additional
+consideration for the note payable. During 2007, the Company received proceeds
+of $64,871 under this borrowing arrangement. The stockholder has agreed to
+extend the due date of the note from June 30, 2008 to June 30, 2009.
+
+     Effective November 14, 2007, the Company entered into a revolving
+convertible loan agreement with the President and a stockholder. The agreement
+provides for borrowings up to the principal amount of $133,333. The note is due
+on demand, is uncollateralized, bears interest at an annual rate of 8%, and is
+convertible into restricted common stock at $0.10 per share. The Company issued
+10,000,000 shares of its common stock as additional consideration for the note
+payable. The stock was valued at $10,000 and the Company recorded the $10,000
+expense as financing costs of $1,971 and consulting fees of $8,029. As of
+December 31, 2008, outstanding borrowings under the agreement totaled $52,288,
+including $24,236 borrowed during 2008. The amount available for future
+borrowings was $81,045 at December 31, 2008.
+
+     The Company accrued interest expense of $8,643 on the two notes payable to
+stockholders during 2008.
+
+     The Company's President periodically advances funds to the company so that
+it can meet its financial obligations. During 2008, the President advanced an
+additional $232 to the Company and the Company repaid $511 to the President. The
+advances payable totaled $5,334 and $5,613 at December 31, 2008 and 2007,
+respectively. These advances are due on demand, are uncollateralized and bear no
+interest.
+
+     The Company uses the offices of its President for its minimal office
+facility needs for no consideration. No provision for these costs has been
+provided since it has been determined that they are immaterial.
+
+                                       22
+<PAGE>
+6.   Commitment and Contingencies
+
+     During 2007, the Company recorded a gain of $137,310 from the settlement of
+litigation. On May 20, 2002, Emeryworld, a supplier of transportation services,
+obtained a judgment against the Company in the amount of $165,060. The entire
+amount of the judgment was recorded in the Company's financial statements as a
+liability. On October 26, 2007, the Company reached a settlement agreement under
+which Emeryworld agreed to accept a cash payment of $27,750 as payment in full.
+The $27,750 was paid in October 2007, and the judgment was released.
+
+     In October 2006, the Company received notice that they were the defendant
+in a lawsuit. On March 13, 2007, the lawsuit was dismissed.
+
+
+
+
+                                       23
+<PAGE>
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+FINANCIAL DISCLOSURE
+
+There were no changes in or disagreements with our accountants during the two
+years ended December 31, 2008.
+
+
+ITEM 9A(T).    CONTROLS AND PROCEDURES
+
+(a) Evaluation of Disclosure Controls and Procedures. Our management, with the
+participation of our President, evaluated the effectiveness of our disclosure
+controls and procedures as of the end of the period covered by this report.
+Based on that evaluation, our President concluded that our disclosure controls
+and procedures as of the end of the period covered by this report were effective
+such that the information required to be disclosed by us in reports filed under
+the Securities Exchange Act of 1934 is (i) recorded, processed, summarized and
+reported within the time periods specified in the SEC's rules and forms and (ii)
+accumulated and communicated to our management, including our President, as
+appropriate to allow timely decisions regarding disclosure. A controls system
+cannot provide absolute assurance, however, that the objectives of the controls
+system are met, and no evaluation of controls can provide absolute assurance
+that all control issues and instances of fraud, if any, within a company have
+been detected.
+
+     Management's Annual Report on Internal Control over Financial Reporting.
+Our management is responsible for establishing and maintaining adequate internal
+control over financial reporting (as defined in Rule 13a-15(f) under the
+Exchange Act). Our internal control over financial reporting is a process
+designed to provide reasonable assurance regarding the reliability of financial
+reporting and the preparation of financial statements for external purposes in
+accordance with accounting principles generally accepted in the United States.
+
+     Because of its inherent limitations, internal control over financial
+reporting may not prevent or detect misstatements. Therefore, even those systems
+determined to be effective can provide only reasonable assurance of achieving
+their control objectives. Furthermore, smaller reporting companies face
+additional limitations. Smaller reporting companies employ fewer individuals and
+find it difficult to properly segregate duties. Often, one or two individuals
+control every aspect of the Company's operation and are in a position to
+override any system of internal control. Additionally, smaller reporting
+companies tend to utilize general accounting software packages that lack a
+rigorous set of software controls.
+
+     Our management, with the participation of the President, evaluated the
+effectiveness of the Company's internal control over financial reporting as of
+December 31, 2008. In making this assessment, our management used the criteria
+set forth by the Committee of Sponsoring Organizations of the Treadway
+Commission (COSO) in Internal Control -- Integrated Framework. Based on this
+evaluation, our management, with the participation of the President, concluded
+that, as of December 31, 2008, our internal control over financial reporting was
+not effective due to material weaknesses in the system of internal control.
+
+
+                                       24
+<PAGE>
+     Specifically, management identified the following control deficiencies. (1)
+The Company has not properly segregated duties as one or two individuals
+initiate, authorize, and complete all transactions. The Company has not
+implemented measures that would prevent the individuals from overriding the
+internal control system. The Company does not believe that this control
+deficiency has resulted in deficient financial reporting because the Chief
+Executive Officer and Chief Financial Officer is aware of his responsibilities
+under the SEC's reporting requirements and personally certifies the financial
+reports. (2) The Company has installed accounting software that does not prevent
+erroneous or unauthorized changes to previous reporting periods and does not
+provide an adequate audit trail of entries made in the accounting software. The
+Company does not think that this control deficiency has resulted in deficient
+financial reporting because the Company has implemented a series of manual
+checks and balances to verify that previous reporting periods have not been
+improperly modified and that no unauthorized entries have been made in the
+current reporting period.
+
+     Accordingly, while the Company has identified certain material weaknesses
+in its system of internal control over financial reporting, it believes that it
+has taken reasonable steps to ascertain that the financial information contained
+in this report is in accordance with generally accepted accounting principles.
+Management has determined that current resources would be appropriately applied
+elsewhere and when resources permit, they will alleviate material weaknesses
+through various steps.
+
+     (b) Changes in Internal Control over Financial Reporting. During 2008,
+there were no changes in the Company's internal controls over financial
+reporting, known to the Chief Executive Officer and the Chief Financial Officer,
+that have materially affected, or are reasonably likely to materially affect,
+the Company's internal control over financial reporting.
+
+ITEM 9B.    OTHER INFORMATION
+
+None.
+
+
+
+
+                                       25
+
+<PAGE>
+                                    PART III
+
+ITEM 10. DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE
+
+Directors and Executive Officers
+
+The following individual presently serves as our sole officer and director:
+
+                                                                    Board
+Name and                                                           Position
+Municipality of Residence    Age    Positions With the Company    Held Since
+-------------------------    ---    --------------------------    ----------
+
+Borivoje Vukadinovic
+Los Angeles, CA               49   President, Chief Executive        1991
+                                   Officer, Chief Financial
+                                   Officer and Director
+
+Our director is serving a term which expires at the next annual meeting of
+shareholders and until his or her successor is elected and qualified or until he
+or she resigns or is removed. Our officer serves at the will of our Board of
+Directors.
+
+The following information summarizes the business experience of each of our
+officer and directors for at least the last five years:
+
+Borivoje Vukadinovic.   Mr. Vukadinovic has served as a director and executive
+officer since 1991 and has been our Chief Executive Officer since January 1993.
+From June 1990 to August 1993, he was Vice President and a principal stockholder
+of Celtex ENT, a Los Angeles, California based company that established and
+administered production of yarns and raw textiles in Yugoslavia, Turkey, and
+Macedonia. From May 1988 to June 1990, he was founder, owner, and President of
+DUTY OFF, Inc., a Los Angeles, California based company that produced young
+men's apparel. He earned a Bachelor of Arts degree in Business from the
+University of Banja Luka in Yugoslavia and a Bachelor of Arts degree in Art from
+Bern University in Switzerland.
+
+Board Committees
+
+Our Board of Directors has not established a standing Audit, Compensation and
+Nominating Committee during 2008.
+
+Section 16(a) Beneficial Ownership Reporting Compliance
+
+We are not registered under the Securities Exchange Act of 1934, as amended, and
+are not subject to the reporting requirements of Section 16(a).
+
+                                       26
+<PAGE>
+Code of Ethics
+
+We have not yet adopted a written Code of Ethics, however, we believe our Chief
+Executive Officer and Chief Financial Officer conducts himself honestly and
+ethically with respect to our business affairs. As the company is still in the
+process of putting its formal corporate governance structure into place, we plan
+to adopt a formal Code of Ethics in the future.
+
+ITEM 11.    EXECUTIVE COMPENSATION
+
+The following table summarizes the total compensation for the last two years of
+all persons who served as our chief executive officer ("Named Executive
+Officers") Our company did not award cash bonuses, stock awards, stock options
+or non-equity incentive plan compensation to any Named Executive Officer during
+the past two fiscal years, thus these items are omitted from the table below:
+
+                           Summary Compensation Table
+
+
+                                               All
+Name and                                      Other
+Principal Position          Year   Salary   Compensation  Total
+------------------          ----   ------  ------------   -----
+Borivoje Vukadinovic        2008   $  0        $ 0        $  0
+Director, C.E.O., and       2007   $  0        $ 0        $  0
+C.F.O.
+
+
+As of December 31, 2008, and for the two years ended December 31, 2008, we did
+not have an employment agreement with our executive officer.
+
+                           Director Compensation Table
+
+                                                    All
+                       Fees Earned or    Stock    Option       Other
+      Name              Paid in Cash    Awards    Awards   Compensation   Total
+---------------------  --------------   ------    ------   ------------   -----
+ Borivoje Vukadinovic      $   0         $ 0      $  0        $   0        $ 0
+
+
+All officers and directors are reimbursed for reasonable and necessary expenses
+incurred in their capacities as such.
+
+Outstanding Equity Awards at Fiscal Year-End
+
+As of December 31, 2008, there were no outstanding equity awards. During the two
+years ended December 31, 2008, we did not grant any equity awards.
+
+
+                                       27
+
+<PAGE>
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND
+RELATED STOCKHOLDER MATTERS
+
+As of April 13, 2009, there are a total of 14,425,903 shares of our common stock
+outstanding, our only class of voting securities currently outstanding. The
+following table describes the ownership of our voting securities by: (i) each of
+our officers and directors; (ii) all of our officers and directors as a group;
+and (iii) each shareholder known to us to own beneficially more than 5% of our
+common stock. All ownership is direct, unless otherwise stated.
+
+
+Name and Address of                 Shares Beneficially Owned
+Beneficial Owner                    Number                        Percentage (%)
+--------------------------------------------------------------------------------
+Borivoje Vukadinovic(1)             5,945,987                     41.1%
+112 West 9th Street, Suite 518
+Los Angeles, CA 90015
+
+Gary Agron                          5,945,987                     41.1%
+5445 DTC Parkway, Suite 520
+Englewood, CO 80111
+
+All officers and directors
+as a group (1 persons)              5,945,987                     41.1%
+--------------------
+(1) Officer and director.
+
+
+Changes in Control
+
+Our two principal stockholders own 11,891,974 shares, or 82% of our outstanding
+common stock. One of the principal stockholders serves as our sole officer and
+director. They exercise significance influence over the control of our Company
+and may be able to cause or prevent a change in control.
+
+Equity Incentive Plan
+
+We do not have an equity incentive plan.
+
+ITEM 13.   CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR
+INDEPENDENCE
+
+During 2008, 2007, and 2006, Borivoje Vukadinovic advanced $29,741 to us so that
+we could meet our financial obligations. We have repaid $24,407 of these
+advances and the balance owed at December 31, 2008 is $5,334. In addition,
+effective July 2, 2007, we entered into a note payable agreement with Gary Agron
+that provides for maximum borrowings up to $64,871. The note is due June 30,
+2009, as extended, is uncollateralized, and bears interest at an annual rate of
+8%. The Company issued 945,987 shares of its common stock as additional
+consideration for the note payable. During 2007, we received proceeds of $64,871
+under the terms of this note. Effective November 14, 2007, we entered into a
+revolving convertible loan agreement with Borivoje Vukadinovic and Gary Agron
+that provides for maximum borrowings up to $133,333. The note is due on demand,
+is uncollateralized, bears interest at an annual rate of 8%, and is convertible
+into restricted common stock at $0.10 per share. The Company issued 10,000,000
+shares of its common stock as additional consideration for the note payable.
+During 2008 and 2007, we received proceeds of $52,288 under the terms of this
+note.
+
+
+                                       28
+<PAGE>
+
+ITEM 14.  PRINCIPAL ACCOUNTING FEES AND SERVICES
+
+The following table sets forth fees billed by our principal accounting firm of
+Schumacher & Associates, Inc. in the last two years ended December 31, 2008:
+
+                                                    2008     2007
+                                                  -------   -------
+             Audit Fees                           $13,100   $ 2,500
+             Audit Related Fees                         0         0
+             Tax Fees                                   0         0
+             All Other Fees                             0         0
+                                                  -------   -------
+             Total Fees                           $13,100   $ 2,500
+                                                  =======   =======
+
+     It is the policy of our Board of Directors to engage the principal
+accounting firm selected to conduct the financial audit for our company and to
+confirm, prior to such engagement, that such principal accounting firm is
+independent of our company. All services of the principal accounting firm
+reflected above were approved by the Board of Directors.
+
+                                    PART IV
+
+ITEM 15. EXHIBITS
+
+The following exhibits are filed with or incorporated by referenced in this
+report:
+
+31.1 Certification pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 for
+     Borivoje Vukadinovic .
+
+32.1 Certification pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 for
+     Borivoje Vukadinovic.
+
+
+
+                                       29
+<PAGE>
+
+
+
+                                   SIGNATURES
+
+     In accordance with Section 13 or 15(d) of the Exchange Act of 1934, the
+registrant caused this report to be signed on its behalf by the undersigned,
+thereunto duly authorized.
+
+
+                                     RETROSPETTIVA, INC.
+
+
+                                     /s/ Borivoje Vukadinovic
+                                     -----------------------------------
+Dated: April 13, 2009                By: Borivoje Vukadinovic, Director,
+                                     Chief Executive Officer, and
+                                     Chief Financial Officer
+
+
+     In accordance with the Exchange Act, this Report has been signed below by
+the following persons on behalf of the Company and in the capacities and on the
+dates indicated.
+
+                                     RETROSPETTIVA, INC.
+
+
+
+                                     /s/ Borivoje Vukadinovic
+                                     -----------------------------------
+Dated: April 13, 2009                By: Borivoje Vukadinovic, Director,
+                                     Chief Executive Officer, and
+                                     Chief Financial Officer
+
+
+
+                                       30
+<PAGE>
+</TEXT>
+</DOCUMENT>

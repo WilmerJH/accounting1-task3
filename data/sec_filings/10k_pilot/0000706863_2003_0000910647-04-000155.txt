@@ -1,0 +1,1176 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>uni-10k.txt
+<DESCRIPTION>BODY OF 10-K
+<TEXT>
+
+                                UNITED STATES
+                     SECURITIES AND EXCHANGE COMMISSION
+
+                           Washington, D.C. 20549
+
+                                  FORM 10-K
+
+          (X) ANNUAL REPORT PURSUANT TO SECTION 13 OR 15 (d) OF THE
+                       SECURITIES EXCHANGE ACT OF 1934
+
+For the fiscal year ended December 31, 2003    Commission file number 000-28449
+
+
+                           UNION BANKSHARES, INC.
+                        VERMONT           03-0283552
+                                P.O. BOX 667
+                                 MAIN STREET
+                            MORRISVILLE, VT 05661
+
+                 Registrant's telephone number: 802-888-6600
+
+             Former name, former address and former fiscal year,
+                if changed since last report: Not applicable
+
+         Securities registered pursuant to section 12(b) of the Act:
+
+                        Common Stock, $2.00 par value
+                        -----------------------------
+                              (Title of class)
+
+Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act
+of 1934 during the preceding 12 months (or for such shorter period that the
+Registrant was required to file such reports), and (2) has been subject to
+such filing requirements for the past 90 days. Yes   X      No
+                                                   -----       -----
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item
+405 of Regulation S-K is not contained herein, and will not be contained,
+to the best of registrant's knowledge, in definitive proxy or information
+statements incorporated by reference in Part III of this Form 10-K or any
+amendment to this Form 10-K.
+
+Indicate by check mark whether the registrant is an accelerated filer (as
+defined in Rule 12b-2 of the Act). Yes          No   X
+                                       -----       -----
+
+The aggregate market value of the common stock held by non-affiliates of
+the registrant on June 30, 2003, based on the last closing price on the
+American Stock Exchange of $30.55 (not restated for the 3-for-2 stock split
+effective 8/8/04) was $65,714,333. For purposes of this calculation, all
+directors and executive officers of the Registrant are assumed to be
+affiliates. Such assumptions, however, shall not be deemed to be an
+admission of such status as to any such individual.
+
+As of March 17, 2004, there were 4,550,313 shares of the registrant's $2
+par value common stock issued and outstanding.
+
+                     DOCUMENTS INCORPORATED BY REFERENCE
+
+Specifically designated portions of the following documents are
+incorporated by reference in the indicated Part of this Annual Report on
+Form 10-K:
+
+                             Document                                  Part
+                             --------                                  ----
+
+Annual Report to Shareholders for the year ended December 31, 2003    I, II
+Proxy Statement for the 2004 Annual Meeting of Shareholders            III
+
+
+<PAGE>  1
+
+
+                           UNION BANKSHARES, INC.
+                              Table of Contents
+
+Part I
+Item 1 -Business                                                            3
+Item 2 -Properties                                                          8
+Item 3 -Legal Proceedings                                                   9
+Item 4 -Submission of Matters to a Vote of Security Holders                 9
+
+Part II
+Item 5 -Market for Registrant's Common Equity, Related Stockholder
+        Matters and Issuer Purchases of Equity Securities (a)               9
+Item 6 -Selected Financial Data                                            10
+Item 7 -Management's Discussion and Analysis of Financial Condition
+        and Results of Operations (a)                                      11
+Item 7A-Quantitative and Qualitative Disclosures about Market Risk (a)     11
+Item 8 -Financial Statements and Supplementary Data (a)                    11
+Item 9 -Changes in and Disagreements with Accountants on Accounting
+        and Financial Disclosures                                          11
+Item 9A-Controls and Procedures (a)                                        11
+
+Part III
+Item 10-Directors and Executive Officers of Registrant (a) (b)             11
+Item 11-Executive Compensation (b)                                         11
+Item 12-Security Ownership of Certain Beneficial Owners and
+        Management and Related Stockholder Matters (b)                     12
+Item 13-Certain Relationships and Related Transactions (b)                 12
+Item 14-Principal Accountant Fees and Services (b)                         12
+
+Part IV
+Item 15-Exhibits, Financial Statement Schedules and Reports on Form 8-K    12
+
+Signatures                                                                 14
+Exhibit Index                                                              15
+
+<FN>
+--------------------
+(a)   The information required by Part II, Items 5, 7, 7A, 8 and 9A is
+      incorporated herein by reference from the 2003 Annual Report to
+      Shareholders
+(b)   The information required by Part III Items 10, 11, 12, 13 and 14 is
+      incorporated herein by reference from the Company's Proxy Statement for
+      the Annual Meeting of Shareholders to be held on May 19, 2004. The
+      incorporation by reference herein of portions of the Proxy Statement
+      shall not be deemed to specifically incorporate by reference the
+      information referred to in Items 306(c), 306(d) and 402 (a)(8) and
+      (9) of Regulation S-K.
+</FN>
+
+
+<PAGE>  2
+
+
+Part I-Item 1 Business
+
+General: Union Bankshares, Inc. (the "Company") is a one-bank
+holding company whose subsidiary is Union Bank ("Union"). It was
+incorporated in the State of Vermont in 1982. On May 16, 2003, the two
+subsidiaries (Union Bank and Citizens Savings Bank and Trust Company
+[Citizens]) of Union Bankshares, Inc. were successfully merged together
+with the surviving, state chartered bank being Union Bank headquartered in
+Morrisville, Vermont. Union Bank was organized and chartered as a State
+bank in 1891 and became a wholly owned subsidiary of the Company in 1982
+upon its formation. Both Union Bankshares, Inc. and Union Bank are
+headquartered in Morrisville, Vermont.
+
+After the merger of the two subsidiaries the Company had one definable
+business segment, Union, which is a commercial bank in Northern
+Vermont. Union is a community bank that provides a full range of
+commercial and retail banking services. At December 31, 2003, Union
+maintained 12 branch offices, a loan production office in Littleton, New
+Hampshire, 28 ATMs, and also provided many of its services via the phone
+and the internet. Union has 155 full time equivalent employees. The
+Company, itself, does not have any paid employees.
+
+The Company's income is derived principally from interest on loans and
+earnings on other investments. Its primary expenses arise from interest
+paid on deposits and borrowings and general overhead expenses. The
+consolidated assets of the Company have grown from $290 million to $357
+million over the last five years or 23.1% while our total consolidated
+deposits have grown from $249 million to $305 million or 22.5% during that
+same period. Please refer to our schedule of Selected Financial Data, which
+has been restated for all periods for the pooling of interest acquisition
+of Citizens in 1999 and the 3 for 2 stock split in 2003, at Item 6 of this
+annual report for further details.
+
+The deposits of Union are insured by the Bank Insurance Fund of the
+Federal Deposit Insurance Corporation ("FDIC") up to legal limits
+(generally $100,000 per depositor).
+
+In addition to its commercial banking business, Union offers a full
+line of personal trust services to its customers. Assets held in fiduciary
+capacity by Union's trust department are not included in the Company's
+consolidated balance sheet for financial reporting purposes other than
+trust cash on deposit with Union Bank.
+
+Competition: The Company and its subsidiary face substantial competition
+for loans and deposits in their market area from local commercial banks,
+savings banks, tax-exempt credit unions, and financial services affiliates of
+bank holding companies, as well as from national financial service providers
+such as mutual funds, brokerage houses, consumer finance companies and
+internet banks. The Company anticipates continued strong competition from such
+financial institutions for the foreseeable future. Within the Company's market
+area are branches of several commercial and savings banks that are
+substantially larger than the Company. Union focuses on its community banking
+niche and on providing convenient hours and modes of delivery to provide
+superior customer service. In order to compete with the larger financial
+institutions in its service area, Union uses the flexibility and local
+autonomy which is accorded by its independent status. This includes an
+emphasis on personal service, local promotional activity, and personal
+contacts and community service by Union's officers, directors and
+employees.
+
+The Company competes for checking, savings, money market accounts and other
+deposits by offering depositors competitive rates, personal service, local
+area expertise, convenient locations and access, and an array of financial
+services and products.
+
+The competition in originating real estate and other loans comes
+principally from commercial banks, mortgage banking companies and credit
+unions. The Company competes for loan originations primarily through the
+interest rates and loan fees it charges, the types of loans it offers, and the
+efficiency and quality of services it provides. In addition to residential
+mortgage lending and municipal loans, the Company also emphasizes commercial
+real estate, construction, and both conventional and Small Business
+Administration ("SBA") guaranteed commercial lending. Union is a
+preferred SBA lender. Factors that affect the Company's ability to compete for
+loans include general and local economic conditions, prevailing interest
+rates including the "prime" rate, and pricing volatility of the secondary
+loan markets. The Company attempts to promote an increased level of personal
+service and expertise within the community to position itself as a lender
+to small to middle market business and residential customers, which tend to
+be under-served by larger institutions.
+
+The Company competes for personal trust business with trust companies,
+commercial banks having trust departments, investment advisory firms,
+brokerage firms, mutual funds and insurance companies. It is the intention
+of the Company to continue this business strategy.
+
+Management's operational strategy includes continued evaluation of changing
+market needs and design and implementation of products and services to meet
+those needs. The directors and management of the Company intend to continue to
+offer products and services that will allow the Company to manage responsibly
+the growth of its assets, while building and enhancing stockholder value and
+preserve Union Bank's image as a premiere Vermont community bank.
+
+
+<PAGE>  3
+
+
+The competitive environment for financial institutions has undergone
+significant change in recent years and that trend is likely to continue in
+light of changes in applicable law (see "Financial Services Modernization"
+below) which permit the integration of the historically separate banking,
+insurance and securities industries. Tax-exempt credit unions are becoming an
+increasingly significant source of competition. Credit union common bond
+requirements and the definition of a credit union "member" have been
+interpreted liberally by federal and state credit union regulators,
+allowing greater penetration into traditional banking markets. In February
+of 2003, the SBA expanded the eligibility of certain lenders programs to
+include all credit unions. Competitive change is also occurring due to
+rapid technological advances which increasingly permit the delivery of
+financial products and services without the need for a physical presence in
+the market area served and which also are likely to diminish the importance
+of financial intermediaries, such as banks, in the transfer of funds
+between parties.
+
+Regulation and Supervision: The following discussion describes certain
+material elements of an extensive regulatory framework applicable to bank
+holding companies and their subsidiaries and provides certain information
+specific to the Company. This regulatory framework is intended primarily
+for the protection of depositors, federal deposit insurance funds and the
+banking system as a whole, and not for the protection of security holders.
+To the extent that this information describes statutory and regulatory
+provisions, it is qualified in its entirety by reference to those
+provisions.
+
+As a Vermont-chartered commercial bank, Union is subject to
+regulation, examination, and supervision by the Vermont Banking Department
+and the FDIC. Regular examinations of Union by the Vermont Banking
+Department and the FDIC include examination of the bank's financial
+condition and operations, including but not limited to its capital
+adequacy, loan reserves, loans, investments, earnings, liquidity,
+compliance with laws and regulations, record of performance under the
+federal Community Reinvestment Act of 1997 ("CRA"), and the performance of
+its management.
+
+In addition the Company, as a bank holding company, is subject to regulation,
+examination and supervision by the Federal Reserve Board ("FRB"). The
+regulations of these authorities govern certain of the operations of the
+Company and its subsidiary. The following discussion summarizes the material
+aspects of various federal and state banking laws and regulations that
+apply to the Company and Union.
+
+The Company is also under the jurisdiction of the Securities and Exchange
+Commission ("SEC") for matters relating to the offering and sale of its
+securities as well as investor reporting requirements. The Company's common
+stock is listed on the American Stock Exchange ("AMEX") under the trading
+symbol "UNB" and is therefore subject to the rules of AMEX for listed
+companies.
+
+Bank Holding Company Acquisitions and Activities. As a bank holding
+company, the Company is subject to supervision and regulation by the Board of
+Governors of the Federal Reserve System (the "Federal Reserve Board") under
+the Bank Holding Company Act of 1956, as amended (the "BHC Act"). Under the
+BHC Act, the activities of bank holding companies, such as Union Bankshares,
+and those of companies that they control, such as Union, or in which they
+hold more than 5% of the voting stock, are limited to banking, managing or
+controlling banks, furnishing services to or performing services for their
+subsidiaries, or certain activities that the FRB has determined to be so
+closely related to banking, managing or controlling banks as to be a
+proper incident thereto. As described below, a bank holding company that
+has elected to become a "financial holding company" under the federal
+Gramm-Leach-Bliley Financial Modernization Act of 1999 ("Gramm-Leach-Bliley
+Act") may engage in certain additional activities. Bank holding companies
+such as Union Bankshares that have not elected to become financial holding
+companies, are required to obtain the prior approval of the FRB to engage in
+any new activity or to acquire more than 5% of any class of voting stock of
+any bank or other company. Satisfactory capital ratios, CRA ratings and anti-
+money laundering policies are generally prerequisites to obtaining Federal
+regulatory approval to make acquisitions.
+
+The FRB has authority to issue cease and desist orders to prevent or
+terminate unsafe or unsound banking practices or violations of law or
+regulations and to assess civil money penalties against bank holding
+companies and their subsidiaries and other affiliates. The FRB also has the
+authority to remove officers, directors and other institution-affiliated
+parties.
+
+Financial Services Modernization. The Gramm-Leach-Bliley Act permits
+eligible bank holding companies to elect to become financial holding
+companies and thereby engage in a broader range of financial and other
+activities than is permitted to bank holding companies generally. Under the
+Gramm-Leach-Bliley Act, a financial holding company may engage in
+activities that are "financial in nature," which includes securities
+underwriting, dealing and market making, sponsoring mutual funds and
+investment companies, insurance underwriting, merchant banking and
+additional activities that the FRB, in consultation with the Secretary of
+the Treasury, determines to be financial in nature, or incident or
+complementary to such financial activities, provided that such activities
+do not pose a substantial risk to the safety and soundness of depository
+institutions or the financial system generally. The Gramm-Leach-Bliley Act
+effectively permits the integration, under a financial holding company
+umbrella, of firms engaged in banking, insurance and securities activities,
+and preempts state laws that purport to limit or prohibit such
+affiliations. No regulatory approval is required for a financial holding
+company to acquire a company, other than a bank or savings association,
+engaged in permitted activities.
+
+
+<PAGE>  4
+
+
+In order to become a financial holding company, all of the bank holding
+company's bank subsidiaries must be well-capitalized and well-managed under
+applicable regulatory guidelines, and each of such banks must have been
+rated "Satisfactory" or better in its most recent evaluation under the
+federal CRA. Once a bank holding company has elected to be treated as a
+financial holding company, it may face significant consequences if it
+subsequently fails to meet one or more of the criteria for eligibility. For
+example, it may be required to enter into an agreement with the FRB
+imposing limitations on its operations and requiring divestitures. In
+addition, the need to maintain eligibility could hamper a financial holding
+company's ability to expand or to acquire financial institutions that do
+not meet the required criteria.
+
+As of the date of this report, the Company had not elected to become a
+financial holding company.
+
+Source of Strength. Under FRB policy, bank holding companies, such as
+Union Bankshares, are expected to act as a source of financial and management
+strength to their subsidiary banks, such as Union, and to commit resources to
+support them. This support may be called for at times when a bank holding
+company may not have the required resources to do so.
+
+Interstate Banking. Under the Riegle-Neal Interstate Banking and Branching
+Efficiency Act of 1994 an adequately capitalized and managed bank holding
+company is permitted to acquire banks based outside their home states,
+generally without regard to whether the state's law would permit the
+acquisition. The Act also authorizes banks to merge across state lines
+thereby creating interstate branches. In addition, the Act permits banks to
+acquire existing interstate branches (short of merger) or to establish new
+interstate branches. States were given the right, exercisable before June
+1, 1997, to prohibit altogether or impose certain limitations on interstate
+mergers and the acquisition or establishment of interstate branches. None
+of the states contiguous to Vermont (New Hampshire, New York and
+Massachusetts) has in effect any statute which would substantially impede
+the ability of a Vermont bank to acquire or create interstate branches
+directly or through an interstate merger. Similarly, Vermont law does not
+limit the ability of out-of-state banks to acquire or create branches in
+Vermont. Although interstate banking and branching may result in increased
+competitive pressures in the markets in which the Company operates, interstate
+branching may present competitive opportunities for locally-owned and
+managed banks, such as Union, that are familiar with the local markets
+and that emphasize personal service and prompt, local decision-making.
+
+Affiliate Restrictions. Bank holding companies and their affiliates are
+subject to certain restrictions under the Federal Reserve Act in their
+dealings with each other, such as in connection with extensions of credit,
+transfers of assets, and purchase of services among affiliated parties.
+Generally, loans or extensions of credit, investments or purchases of
+assets by a subsidiary bank from a bank holding company or its affiliates
+are limited to 10% of the bank's capital and surplus with respect to each
+affiliate and to 20% in the aggregate for all affiliates, and borrowings
+are also subject to certain collateral requirements. These transactions, as
+well as other transactions between a subsidiary bank and its holding
+company or other affiliates must generally be on arms-length terms, that
+is, on terms comparable to those involving nonaffiliated companies.
+Further, under the Federal Reserve Act and FRB regulations, a bank holding
+company and its subsidiaries are prohibited from engaging in certain tie-
+in-arrangements in connection with extensions of credit or furnishing of
+property or services to third parties. The Company and Union are subject to
+these restrictions in their intercompany transactions.
+
+Bank. The various laws and regulations applicable to Union that are
+administered by the FDIC and the Vermont Banking Commissioner affect the
+bank's corporate practices, such as payment of dividends, incurring of debt
+and acquisition of financial institutions and other companies. These laws
+also affect its business practices, such as payment of interest on
+deposits, the charging of interest on loans, privacy issues and the
+location of offices. There are no outstanding regulatory orders resulting
+from regulatory examinations of the Company or Union.
+
+Dividend Limitations. As a holding company, Union Bankshares' ability to pay
+dividends to its stockholders is largely dependent on the ability of its
+subsidiary to pay dividends to it. Payment of dividends by Vermont-
+chartered banks, such as Union, is subject to applicable state and
+federal laws. Under Vermont banking laws, a Vermont-chartered bank may not
+authorize dividends or other distributions which would reduce the bank's
+capital below the amount of capital required in the bank's Certificate of
+General Good or under any capital or surplus standards established by the
+Vermont Banking Commissioner. Union does not have any capital
+restrictions in its Certificate of General Good and, to date, the Vermont
+Banking Commissioner has not adopted capital or surplus standards.
+Nevertheless, the capital standards established by the FDIC, described
+below under "Capital Requirements," apply to Union, and the capital
+standards of the FRB apply to the Company on a consolidated basis. In addition,
+the FRB, the FDIC and the Vermont Banking Commissioner are authorized under
+applicable federal and state laws to prohibit payment of dividends that
+they determine would be an unsafe or unsound practice. Payment of dividends
+that deplete the capital of a bank or a bank holding company, or render it
+illiquid, could be found to be an unsafe or unsound practice.
+
+Loans to Related Parties. The Company's and Union's authority to extend credit
+to its directors, executive officers and 10 percent stockholders, as well
+as to entities controlled by such persons, is currently governed by the
+requirements of the Sarbanes-Oxley Act and Regulation O of the FRB
+thereunder. Among other things, these provisions require that extensions of
+credit to insiders (i) be made on terms that are substantially the same as,
+and follow credit underwriting procedures that are not less stringent than,
+those prevailing for comparable transactions with unaffiliated persons and
+that do not involve more than the normal risk of repayment or present other
+unfavorable features and (ii) not exceed certain limitations on the amount
+of credit extended to such
+
+
+<PAGE>  5
+
+
+persons, individually and in the aggregate, which limits are based in part,
+on the amount of the Bank's capital. Under American Stock Exchange (AMEX)
+guidelines, any related party transaction including loans must be approved
+by the Company's Audit Committee. Under the Sarbanes-Oxley Act, the Company,
+itself, may not extend or arrange for any personal loans to its directors
+and executive officers.
+
+Capital Requirements. The FRB, the FDIC and other federal banking
+regulators have issued substantially similar risk-based and leverage
+capital guidelines for United States Banking organizations. Those
+regulatory agencies are also authorized to require that a banking
+organization maintain capital above the minimum levels, whether because of
+its financial condition or actual or anticipated growth. The FRB's risk-
+based capital guidelines define a three-tier capital framework and specify
+three relevant capital ratios: Tier 1 Capital Ratio, a Total Capital Ratio
+and a "Leverage Ratio." Tier 1 Capital consists of common and qualifying
+preferred shareholders' equity, less certain intangibles and other
+adjustments. The remainder (Tier 2 and Tier 3 Capital) consists of
+subordinate and other qualifying debt, preferred stock that does not
+qualify as Tier 1 Capital, and the allowance of credit losses up to 1.25%
+of risk-weighted assets.
+
+The sum of Tier 1, Tier 2 and Tier 3 Capital, less investments in
+unconsolidated subsidiaries, represents qualifying "Total Capital," at
+least 50% of which must consist of Tier 1 Capital. Risk-based capital
+ratios are calculated by dividing Tier 1 Capital and Total Capital by risk-
+weighted assets. Assets and off-balance sheet exposures are assigned to one
+of four categories or risk weights, based primarily on relative credit
+risk. The minimum Tier 1 Capital Ratio is 4% and the minimum Total Capital
+Ratio is 8%. The Leverage Ratio is determined by dividing Tier 1 Capital by
+adjusted average total assets. Although the minimum Leverage Ratio is 3%,
+most banking organizations are required to maintain Leverage Ratios of at
+least 1 to 2 percentage points above 3%.
+
+Federal bank regulatory agencies require banking organizations that engage
+in significant trading activity to calculate a capital charge for market
+risk. Significant trading activity means trading activity of at least 10%
+of total assets or $1 billion, whichever is smaller, calculated on a
+consolidated basis for bank holding companies. Federal bank regulators may
+apply the market risk measure to other bank holding companies, as the
+agency deems necessary or appropriate for safe and sound banking practices.
+Each agency may exclude organizations that it supervises that otherwise
+meet the criteria under certain circumstances. The market risk charge will
+be included in the calculation of an organization's risk-based capital
+ratio. Neither the Company's nor Union is currently subject to this special
+capital charge.
+
+FRB policy provides that banking organizations generally, and, in
+particular, those that are experiencing internal growth or actively making
+acquisitions, will be expected to maintain strong capital positions
+substantially above the minimum supervisory levels, without significant
+reliance on intangible assets, such as goodwill. Furthermore, the capital
+guidelines indicate that the FRB will continue to consider a "Tangible Tier
+1 Leverage Ratio" in evaluating proposals for expansion or new activities.
+The Tangible Tier 1 Leverage Ratio is calculated by dividing a banking
+organization's Tier 1 Capital less all intangible assets by its total
+consolidated quarterly average assets less all intangible assets.
+
+The FRB's capital adequacy guidelines generally provide that bank holding
+companies with a ratio of intangible assets to tangible Tier 1 Capital in
+excess of 25% will be subject to close scrutiny for certain purposes,
+including the FRB's evaluation of acquisition proposals. The Company does not
+have a material amount of intangibles in its capital base.
+
+Prompt Corrective Action. At December 31, 2003, the Company's consolidated
+Total and Tier I Risk-Based Capital Ratios were 17.67% and 16.39%,
+respectively, and its Leverage Capital Ratio was 11.16%, and is considered
+well-capitalized under the above regulatory guidelines. In addition, Union
+is considered well-capitalized under such guidelines.
+
+The Federal Deposit Insurance Corporation Improvement Act of 1991
+("FDICIA"), among other things, identifies five capital categories for
+insured depository institutions (well capitalized, adequately capitalized,
+undercapitalized, significantly undercapitalized, and critically
+undercapitalized) and requires the respective federal banking agencies to
+implement systems for "prompt corrective action" for insured depository
+institutions that do not meet minimum capital requirements. FDICIA imposes
+progressively more restrictive constraints on operations, management and
+capital distributions, depending on the category in which an institution is
+classified. Failure to meet the capital guidelines could also subject a
+banking institution to capital raising requirements. An "undercapitalized"
+bank must develop a capital restoration plan and its parent holding company
+must guarantee that bank's compliance with the plan. The liability of the
+parent holding company under any such guarantee is limited to the lesser of
+5% of the bank's assets at the time it became undercapitalized or the
+amount needed to comply with the plan. Furthermore, in the event of the
+bankruptcy of the parent holding company, such guarantee would take
+priority over the parent's general unsecured creditors. In addition, FDICIA
+requires the various federal banking agencies to prescribe certain
+noncapital standards for safety and soundness related generally to
+operations and management, asset quality and executive compensation, and
+permits regulatory action against a financial institution that does not
+meet such standards.
+
+The various federal banking agencies have adopted substantially similar
+regulations that define the five capital categories identified by FDICIA,
+using the Total Capital, Tier 1 Ratio and the Leverage Ratio as the
+relevant capital measures. Such regulations establish various degrees of
+corrective action to be taken when an institution is considered
+undercapitalized. Under
+
+
+<PAGE>  6
+
+
+the regulations, a "well capitalized" institution must have a Tier 1
+capital ratio of at least 6%, a total capital ratio of at least 10% and a
+leverage ratio of at least 5% and not be subject to a capital directive
+order. An "adequately capitalized" institution must have a Tier 1 capital
+ratio of at least 4%, a total capital ratio of at least 8% and a leverage
+ratio of at least 4%, or 3% in some cases.
+
+Community Reinvestment Act. Union is subject to the federal CRA, which
+requires banks to demonstrate their commitment to serving the credit needs
+of low and moderate income residents of their communities. The bank
+participates in a variety of direct and indirect lending programs and other
+investments for the benefit of the low and moderate income residents in our
+communities. The FDIC conducts examinations of insured banks' compliance
+with CRA requirements and rates institutions as "Outstanding,"
+"Satisfactory," "Needs to Improve," and "Substantial Non-Compliance."
+Failure of an institution to receive at least a "Satisfactory" CRA rating
+could adversely affect its ability to undertake certain activities, such as
+acquisitions of other financial institutions, which require regulatory
+approval based, in part, on the institution's record of CRA compliance. In
+addition, failure of a bank subsidiary to receive at least a "Satisfactory"
+rating would disqualify a bank holding company from eligibility to become
+or remain a financial holding company under the Gramm-Leach-Bliley Act.
+(See "Financial Modernization" above.) At its last CRA compliance examination
+by the FDIC, Union received a rating of "Outstanding."
+
+Deposit Insurance Premium Assessments. Under applicable federal laws and
+regulations, deposit insurance premium assessments to the Bank Insurance
+Fund ("BIF") and the Savings Association Insurance Fund ("SAIF") are based
+on a supervisory risk rating system, with the most favorably rated
+institutions paying the lowest premiums. The deposits of Union are
+insured under the BIF. As a "well capitalized" institution, the bank is
+presently in the most favorable deposit insurance assessment category, and
+pays the minimum deposit premium assessment.
+
+Brokered Deposits. FDICIA restricts the ability of an FDIC-insured bank to
+accept brokered deposits unless it is a well-capitalized institution under
+FDICIA's prompt corrective action guidelines. Although eligible to do so,
+Union has not accepted brokered deposits.
+
+Consumer Protection Laws. In connection with its lending activities, Union
+is subject to a variety of federal and state laws designed to protect
+borrowers and to promote lending to various sectors of the economy and
+population. In addition to the provisions of the CRA (discussed above),
+Union is subject to, among other laws, the federal Home Mortgage
+Disclosure Act, the federal Real Estate Settlement Procedures Act, the
+federal Truth-in-Lending Act, the federal and Vermont Equal Credit
+Opportunity Acts, and the federal and Vermont Fair Credit Reporting Acts.
+
+Union is subject to the provisions of Title V of the Gramm-Leach-
+Bliley Act, which requires it to notify their consumer customers of its
+information collection and sharing practices and restrict those practices
+in certain respects. In addition, the bank is subject to similar but more
+restrictive, requirements of the Vermont Banking Department. Generally
+those Vermont requirements prohibit the disclosure of consumer information
+to nonaffiliated third parties without the express written consent of the
+consumer, except for disclosures permitted under specified regulatory
+exceptions.
+
+The deposit taking activities of Union is subject to various federal
+and state requirements, including those mandating uniform disclosures to
+depositors with respect to rates of interest, fees and other terms of
+consumer deposit accounts, and disclosure of their policy on the
+availability of deposited funds.
+
+Bank Secrecy Act. Union is subject to federal laws establishing
+certain record keeping, customer identification and reporting requirements
+pertaining to large cash transactions, sales of travelers checks and other
+monetary instruments and the international transfer of cash or monetary
+instruments. New provisions, designed to help combat international
+terrorism, were added in 2001 to the Bank Secrecy Act by the USA Patriot
+Act. These provisions require banks to avoid establishing or maintaining
+correspondent accounts of foreign off-shore banks and banks in
+jurisdictions that have been found to fall significantly below
+international anti-money laundering standards. In addition, U.S. banks are
+prohibited from opening correspondent accounts for off-shore shell banks,
+defined as banks that have no physical presence and that are not part of a
+regulated and recognized banking company. The USA Patriot Act requires all
+financial institutions to adopt an anti-money laundering program. The act
+requires banks to establish due diligence policies, procedures and controls
+that are reasonably designed to detect and report instances of money
+laundering in United States private banking accounts and correspondent
+accounts maintained for non-U.S. persons or their representatives.
+
+The Department of Treasury has issued regulations implementing the due
+diligence requirements. These regulations require minimum standards to
+verify customer identity and maintain accurate records, encourages
+cooperation among financial institutions, federal banking agencies and law
+enforcement authorities regarding possible money laundering or terrorist
+activities, prohibits the anonymous use of "concentrations accounts" and
+requires all covered financial institutions to have in place an anti-money
+laundering compliance program. In addition, the USA Patriot Act amended
+certain provisions of the federal Right to Financial Privacy Act to
+facilitate the access of law enforcement to bank customer records in
+connection with investigating international terrorism.
+
+
+<PAGE>  7
+
+
+The Act also amends the Bank Holding Company Act and the Bank Merger Act to
+require the federal banking agencies to consider the effectiveness of a
+financial institution's anti-money laundering program when reviewing an
+application under these acts.
+
+Sarbanes-Oxley Act of 2002. In 2002, legislation known as the "Sarbanes-
+Oxley Act of 2002" (the "Act") was enacted. This far reaching legislation
+was generally intended to protect investors by strengthening corporate
+governance and improving the accuracy and reliability of corporate
+disclosures made pursuant to securities law. The Sarbanes-Oxley Act
+provides for, among other things:
+
+   *  a prohibition on personal loans made or arranged by the issuer to its
+      directors and executive officers (except for loans made by a bank
+      subject to Regulation O);
+   *  independence requirements for audit committee members;
+   *  corporate governance requirements;
+   *  independence requirements for company auditors;
+   *  enhanced disclosure requirements pertaining to corporate operations
+      and internal controls;
+   *  certification of financial statements on Forms 10-K and 10-Q reports
+      by the chief executive officer and the chief financial officer;
+   *  the forfeiture by the chief executive officer and the chief financial
+      officer of bonuses or other incentive-based compensation and profits
+      from the sale of an issuer's securities by such officers in the
+      twelve month period following initial publication of any financial
+      statements that later require restatement due to corporate
+      misconduct;
+   *  disclosure of off-balance sheet transactions;
+   *  two-business day filing requirements for insiders filing Form 4s;
+   *  accelerated filing requirements for Forms 10-k and 10-Q by public
+      companies which qualify as "accelerated filers;"
+   *  disclosure of a code of ethics for principal financial officers and
+      filing a Form 8-K for a change in or waiver of such code;
+   *  the reporting of securities violations "up the ladder" by both
+      in-house and outside attorneys;
+   *  restrictions on the use of non-GAAP financial measures in press
+      releases and SEC filings;
+   *  the formation of a public accounting oversight board; and
+   *  various increased criminal penalties for violations of securities
+      laws.
+
+Not all of the final rules under the Act have been promulgated or have gone
+into effect.
+
+AMEX. The AMEX where the Company's common stock is listed, has implemented new
+corporate governance listing standards, including rules strengthening
+director independence requirements for boards and committees of the board,
+the director nomination process and shareholder communication avenues.
+These rules require the Company to certify to the AMEX under Sections 121 and
+132(e) of the AMEX Company Guide that the Company complies and will
+continue to comply with AMEX corporate governance requirements. The
+certification has to be filed immediately following the Company's first
+annual shareholders meeting after March 15, 2004. The Company's Chief Executive
+Officer and Chief Financial Officer have also filed certifications
+regarding the quality of the Company's public disclosure with the Securities
+and Exchange Commission.
+
+Certain legislative and regulatory proposals that could affect the Company
+or Union and the financial services business in general are periodically
+introduced before the United States Congress, the Vermont State Legislature
+and federal and state government agencies. It is not known to what extent,
+if any, legislative proposals will be enacted and what effect such
+legislation would have on the structure, regulation and competitive
+relationships of financial institutions. It is likely, however, that such
+legislation could subject the Company and Union to increases in
+regulation, disclosure and reporting requirements, competition and the cost
+of doing business.
+
+In addition to legislative changes, the various federal and state financial
+institution regulatory agencies frequently propose rules and regulations to
+implement and enforce already existing legislation. It cannot be predicted
+whether or in what form any such rules or regulations will be enacted or
+the effect that such enactment may have on the Company or Union.
+
+Part I-Item 2 Properties
+
+As of December 31, 2003, the Company's subsidiary operated 12 community-banking
+locations which are in Lamoille, Caledonia and Franklin counties of
+Vermont. Union also has a loan production office in Littleton, New
+Hampshire, opened in May of 2001. Union also operates 28 automated
+teller machines (ATM's) in northern Vermont. Union owns nine of its
+branch locations and leases the other branches, the Littleton Loan Center
+and certain ATM premises from third parties under terms and conditions
+considered by management to be favorable to the Bank.
+
+Additional information relating to the Company's properties is set forth in
+Note 9 to the consolidated financial statements and incorporated herein by
+reference.
+
+
+<PAGE>  8
+
+
+Part I-Item 3 Legal Proceedings
+
+There are no known pending legal proceedings to which the Company or its
+subsidiary is a party, or to which any of their properties is subject,
+other than ordinary litigation arising in the normal course of business
+activities. Although the amount of any ultimate liability with respect to
+such proceedings cannot be determined, in the opinion of management, based
+upon the opinion of counsel, any such liability will not have a material
+effect on the consolidated financial position of the Company and its
+subsidiary.
+
+Part I-Item 4 Submission of Matters to a Vote of Security Holders
+
+There were no matters submitted to a vote of security holders through a
+solicitation of proxies or otherwise during the fourth quarter of 2003.
+
+Part II-Item 5 Market for Registrant's Common Equity, Related
+               Stockholder Matters and Issuer Purchases of Equity Securities.
+
+Please refer to page 59 of the Company's 2003 Annual Report to
+Shareholders, which information is incorporated herein by reference.
+
+
+<PAGE>  9
+
+
+Part II-Item 6 Selected Financial Data
+
+<TABLE>
+<CAPTION>
+
+                                                  At or For The Years Ended December 31 (4)
+                                           --------------------------------------------------------
+                                             2003        2002        2001        2000        1999
+                                           --------------------------------------------------------
+                                                 (Dollars in thousands except per share data)
+
+<s>                                        <c>         <c>         <c>         <c>         <c>
+Balance Sheet Data:
+  Total Assets                             $356,650    $343,492    $337,475    $303,394    $295,476
+  Investment Securities                      44,370      45,824      49,610      56,642      60,441
+  Loans Held for Sale                        18,524      17,139      16,333       9,153       8,102
+  Loans, net of unearned income             253,037     238,768     234,610     215,642     201,251
+  Allowance for loan losses                  (3,029)     (2,908)     (2,801)     (2,863)     (2,870)
+  Total nonperforming loans                   3,305       2,272       4,864       4,398       4,123
+  Total nonperforming assets                  3,315       3,074       6,160       4,514       4,150
+  Other real estate owned                        10         784       1,296         116          27
+  Deposits                                  305,379     293,004     285,722     258,737     257,593
+  Borrowed funds                              7,223       7,536      10,344       6,382       2,872
+  Stockholders' equity (1)                   40,987      39,169      37,215      35,157      32,220
+Income Statement Data:
+  Net interest and dividend income         $ 16,163    $ 15,805    $ 14,559    $ 14,249    $ 13,747
+  Provision for loan losses                     114         356         320         250         359
+  Noninterest income                          3,603       3,560       3,073       2,569       2,568
+  Noninterest expense                        12,060      11,761      10,496       9,944      10,065
+  Net income                                  5,387       5,180       4,832       4,800       4,075
+Per Common Share Data:
+  Net income (2)(5)                        $   1.18    $   1.14    $   1.06    $   1.05    $   0.90
+  Cash dividends paid(5)                       0.82        0.76        0.71        0.65        0.60
+  Book value (1)(5)                            9.01        8.62        8.19        7.73        7.09
+Selected Ratios:
+  Return on average assets                     1.56%       1.52%       1.51%       1.61%       1.39%
+  Return on average equity                    13.50%      13.74%      13.34%      14.54%      12.70%
+  Dividend payout (3)                         69.49%      66.67%      66.67%      62.03%      66.67%
+  Interest rate spread                         4.91%       4.75%       4.29%       4.40%       4.41%
+  Net interest margin                          5.21%       5.14%       4.99%       5.19%       5.13%
+  Operating expenses to average assets         3.49%       3.46%       3.29%       3.32%       3.42%
+  Efficiency ratio                            61.01%      60.73%      60.06%      59.21%      61.70%
+  Average interest earning assets to
+   average interest bearing liabilities      122.33%     120.59%     122.11%     122.26%     121.58%
+  Average stockholders' equity to
+   average assets                             11.56%      11.10%      11.35%      11.01%      10.92%
+  Tier 1 leverage capital ratio               11.38%      11.03%      11.06%      11.74%      11.35%
+  Tier 1 risk-based capital ratio             16.70%      16.74%      15.59%      16.27%      17.27%
+  Total risk-based capital ratio              17.99%      17.99%      16.83%      17.62%      18.55%
+Asset Quality Ratios:
+  Nonperforming loans to total loans           1.22%        .89%       1.94%       1.96%       1.97%
+  Nonperforming assets to total assets          .93%        .89%       1.83%       1.49%       1.40%
+  Allowance for loan losses to
+   nonperforming loans                        91.65%     127.99%      57.59%      65.10%      69.61%
+  Allowance for loan losses to
+  loans not held for sale                      1.20%       1.22%       1.19%       1.33%       1.42%
+
+<FN>
+--------------------
+<F1>  Stockholders' equity includes unrealized gains or losses, net of
+      applicable income taxes, on investment securities classified as
+      "available-for-sale."
+<F2>  Computed using the weighted average number of shares outstanding for
+      the period.
+<F3>  Cash dividend declared and paid per share for the holding company
+      divided by consolidated net income per share.
+<F4>  Restated for 1999 to reflect the acquisition of Citizens accounted
+      for as a pooling of interest.
+<F5>  Per common share data for all periods have been restated to reflect
+      the three for two stock split effected in the form of a 50% stock
+      dividend to shareholders of record on July 26, 2003.
+</FN>
+</TABLE>
+
+
+<PAGE>  10
+
+
+Part II-Item 7 Management's Discussion and Analysis of Financial Condition
+               and Results of Operations
+
+Please refer to pages 42 to 53 of the Company's 2003 Annual Report to
+Shareholders section entitled "Management's Discussion and Analysis of
+Financial Condition and Results of Operations", which information is
+incorporated herein by reference.
+
+Part II-Item 7A Quantitative and Qualitative Disclosures About Market Risk
+
+Please refer to pages 53 to 58 of the Company's 2003 Annual Report to
+Shareholders section entitled "Other Financial Considerations", which
+information is incorporated herein by reference.
+
+Part II-Item 8 Financial Statements and Supplementary Data
+
+The consolidated balance sheet of Union Bankshares, Inc. as of December
+31, 2003 and 2002, and the related consolidated statements of income,
+changes in stockholders' equity and cash flows for each of the years
+in the three year period ended December 31, 2003, together with related notes
+and the report of Urbach Kahn & Werlin LLP, independent public accountants, all
+as contained on pages 12 to 41 of the Company's 2003 Annual Report to
+Shareholders, are incorporated herein by reference.
+
+Part II-Item 9 Changes in and Disagreements with Accountants on Accounting
+               and Financial Disclosure
+
+There were no changes in accountants, nor were there any disagreements with
+the accountants on accounting or financial disclosures.
+
+Part II - Item 9A Controls and Procedures
+
+The Company's chief executive officer and chief financial officer evaluated
+the effectiveness of the design and operation of the Company's disclosure
+controls and procedures (as defined in Rule 13a-15(e) and Rule 15d-15(e)
+under the Exchange Act) as of December 31, 2003. Based on this evaluation
+they concluded that those disclosure controls and procedures are effective
+in alerting them in a timely manner to material information about the
+Company and its consolidated subsidiary required to be disclosed in the
+Company's periodic reports filed with the Securities and Exchange
+Commission.
+
+There have been no changes in the Company's internal controls or in other
+factors known to the Company that could significantly affect these controls
+subsequent to their evaluation. While the Company believes that its
+existing disclosure controls and procedures have been effective to
+accomplish these objectives, the Company intends to continue to examine,
+refine and formalize its disclosure controls and procedures and to monitor
+ongoing developments in this area.
+
+Part III-Item 10 Directors and Executive Officers of Registrant
+
+The following information from the Company's Proxy Statement for the 2004
+Annual Meeting of Shareholders is hereby incorporated by reference:
+
+Listing of the names, ages, principal occupations and business experience
+of the directors under the caption "PROPOSAL I: TO ELECT DIRECTORS"
+
+Listing of the names, ages, titles and business experience of the executive
+officers under the caption "EXECUTIVE OFFICERS"
+
+Information regarding compliance with Section 16(a) of the Securities
+Exchange Act of 1934 under the caption "SHARE OWNERSHIP INFORMATION -
+Section 16(a) Beneficial Ownership Reporting Compliance"
+
+Information regarding the Company's Audit Committee under the caption
+"Board Committees"
+
+Part III-Item 11 Executive Compensation
+
+The following information from the Company's Proxy Statement for the 2004
+Annual Meeting of Shareholders is hereby incorporated by reference:
+
+Information regarding compensation of directors under the caption "PROPOSAL
+I: TO ELECT DIRECTORS - Directors' Compensation"
+
+Information regarding executive compensation and benefit plans under the
+caption "EXECUTIVE OFFICERS - Executive Compensation and Benefit Plans"
+
+
+<PAGE>  11
+
+
+Information regarding the stock performance graph under the caption "Stock
+Performance Graph"
+
+Information regarding management interlocks and certain transactions under
+the caption "PROPOSAL I: TO ELECT DIRECTORS - Compensation Committee
+Interlocks and Insider Participation"
+
+Information set forth under the caption "COMPENSATION COMMITTEE REPORT"
+
+Part III-Item 12 Security Ownership of Certain Beneficial Owners and
+         Management and Related Stockholder Matters
+
+The following information from the Company's Proxy Statement for the 2004
+Annual Meeting of Shareholders is hereby incorporated by reference:
+
+Information regarding the share ownership of management and principal
+shareholders under the caption "SHARE OWNERSHIP INFORMATION - Share
+Ownership of Management and Principal holders"
+
+The following table summarizes equity compensation under the Company's
+Incentive Stock Option Plan, the only equity compensation plan of the
+company.
+
+Equity Compensation Plan Information as of December 31, 2003:
+
+<TABLE>
+<CAPTION>
+
+                                                                                                  Number of securities
+                                                                                                  remaining available for future
+                                 Number of securities to be                                       issuance under equity
+                                 issued upon exercise of          Weighted-average exercise       compensation plans
+                                 outstanding options, warrants    price of outstanding options,   (excluding securities reflected
+                                 and rights                       warrants and rights             in column (a)
+                                 -----------------------------    -----------------------------   --------------------------
+Plan Category                              Column a                         Column b                        Column c
+-------------                              --------                         --------                        --------
+
+<s>                                         <c>                              <c>                             <c>
+Equity compensation plans
+ approved by security holders               13,675                           $16.61                          55,700
+Equity compensation plans
+ not approved by security
+ holders                                         -                                -                               -
+                                            ------                           ------                          ------
+Total                                       13,675                           $16.61                          55,700
+                                            ======                           ======                          ======
+</TABLE>
+
+Part III-Item 13 Certain Relationships and Related Party Transactions
+
+The following information from the Company's Proxy Statement for the 2004
+Annual Meeting of Shareholders is hereby incorporated by reference:
+
+Information regarding transactions with management under the caption
+"PROPOSAL I: TO ELECT DIRECTORS - Transactions with Management and
+Directors"
+
+Part III-Item 14 Principal Accountant Fees and Services
+
+The following information from the Company's Proxy Statement for the 2004
+Annual Meeting of Shareholders is hereby incorporated by reference:
+
+Information on fees paid to the Independent Auditors set forth under the
+caption "Independent Auditors" and "Appendix B. Guidelines of Union Bankshares,
+Inc. Audit Committee for Pre-Approval of Audit Related Services and Non-Audit
+Services"
+
+Part IV-Item 15 Exhibits, Financial Statement Schedules and Reports on Form 8-K
+
+A.    Documents Filed as Part of this Report:
+
+      (1)   The following consolidated financial statements, as included in
+            the 2003 Annual Report to Shareholders, are incorporated herein
+            by reference (see Exhibit 13.1):
+
+            1)    Consolidated Balance Sheet at December 31, 2003 and 2002
+            2)    Consolidated Income Statement for the years ended
+                  December 31, 2003, 2002 and 2001
+            3)    Consolidated Statement of Changes in Stockholders' Equity
+                  for the years ended December 31, 2003, 2002 and 2001
+            4)    Consolidated Statement of Cash Flows for the years ended
+                  December 31, 2003, 2002 and 2001
+            5)    Notes to the Consolidated Financial Statements
+
+
+<PAGE>  12
+
+
+      (2)   The following exhibits are either filed herewith as part of
+            this report, or are incorporated herein by reference.
+
+Item No:
+   3.1      Amended and Restated Articles of Incorporation of Union
+            Bankshares, Inc. (as of May 7, 1997), previously filed with the
+            Commission as Exhibit 3.1 to the Company's Registration
+            Statement on Form S-4 (#333-82709) and incorporated herein by
+            reference.
+   3.2      Amendment filed May 19, 1998 to Amended and Restated Articles
+            of Association of Union Bankshares, Inc., adding new sections 8
+            and 9, previously filed with the Commission as Exhibit 3.1 to
+            the Company's Registration Statement on Form S-4 (#333-82709)
+            and incorporated herein by reference.
+   3.3      Amendment filed November 24, 1999 to Amended and Restated
+            Articles of Association of Union Bankshares, Inc. increasing
+            the authorized common shares to 5,000,000, previously filed
+            with the Commission on December 10, 1999 as Exhibit 3.3 to the
+            Company's Current Report on Form 8-K 12g3, and incorporated
+            herein by reference.
+   3.4      Bylaws of Union Bankshares, Inc., as amended, previously filed
+            with the Commission as Exhibit 3.1 to the Company's
+            Registration Statement on Form S-4 (#333-82709) and
+            incorporated herein by reference.
+  10.1      Stock Registration Agreement dated as of February 16, 1999,
+            among Union Bankshares, Inc., Genevieve L. Hovey, individually
+            and as Trustee of the Genevieve L. Hovey Trust (U.A. dated
+            8/22/89), and Franklin G. Hovey, II, individually, previously
+            filed with the Commission as Exhibit 3.1 to the Company's
+            Registration Statement on Form S-4 (#333-82709) and
+            incorporated herein by reference.
+  10.2      1998 Incentive Stock Option Plan of Union Bankshares, Inc. and
+            Subsidiary, previously filed with the Commission as Exhibit 3.1
+            to the Company's Registration Statement on Form S-4 (#333-
+            82709) and incorporated herein by reference.*
+  10.3      Form of Union Bankshares, Inc. Deferred Compensation Plan and
+            Agreement, previously filed with the Commission as Exhibit 10.3
+            to the Company's 2001 Form 10-K and incorporated here in by
+            reference.*
+  11        Statement re: Computation of per share earnings: See Note 1 to
+            the consolidated financial statements for details on earnings
+            per share computations for 2003, 2002 and 2001
+  13.1      The following specifically designated portions of Union's 2003
+            Annual Report to Shareholders have been incorporated by
+            reference in this Report on Form 10-K, is filed herewith: pages
+            11 to 58
+  14        Code of Ethics for Senior Financial Officers and the Chief
+            Executive Officer
+  21        Subsidiary of Union Bankshares, Inc.
+                Union Bank, Morrisville, Vermont
+  31.1      Certifications of Chief Executive Officer pursuant to Section
+            302 of the Sarbanes-Oxley Act of 2002
+  31.2      Certifications of Chief Financial Officer pursuant to Section
+            302 of the Sarbanes-Oxley Act of 2002
+  32.1      Certification of the Chief Executive Officer pursuant to
+            Section 906 of the Sarbanes-Oxley Act of 2002.
+  32.2      Certification of the Chief Financial Officer pursuant to
+            Section 906 of the Sarbanes-Oxley Act of 2002.
+
+      (3)   Reports on Form 8-K
+
+            a)    Form 8-K filed on October 17, 2003 to report third
+                  quarter and year-to-date earnings and the declaration of
+                  a dividend.
+            b)    Form 8-K filed on October 31, 2003 to report we mailed
+                  our internal, unaudited Third Quarter 2003 Report to our
+                  shareholders.
+
+<FN>
+*  denotes management contract or compensatory plan.
+</FN>
+
+
+<PAGE>  13
+
+
+                                 SIGNATURES
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be
+signed on its behalf by the undersigned thereunto duly authorized, as of
+March 30, 2004.
+
+Union Bankshares, Inc.
+By: /s/ Kenneth D. Gibbons             By: /s/ Marsha A. Mongeon
+    -------------------------              -----------------------------
+    Kenneth D. Gibbons                     Marsha A. Mongeon
+    President and Chief                    Treasurer and Chief Financial/
+    Executive Officer                      Accounting Officer
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this
+report has been signed below by the following persons on behalf of the
+registrant and in the capacities indicated as of March 30, 2004.
+
+            Name                 Title
+/s/   Richard C. Sargent         Director, Chairman of the Board
+-----------------------------
+      Richard C. Sargent
+
+/s/   Kenneth D. Gibbons         Director, President and Chief Executive
+-----------------------------    Officer (Principal Executive Officer)
+      Kenneth D. Gibbons
+
+/s/   Marsha A. Mongeon          Treasurer and Chief Financial/Accounting
+-----------------------------    Officer (Principal Financial/Accounting
+      Marsha A. Mongeon          Officer)
+
+/s/   Cynthia D. Borck           Director and Vice President
+-----------------------------
+      Cynthia D. Borck
+
+/s/   William T. Costa Jr.       Director
+-----------------------------
+      William T. Costa Jr.
+
+/s/   Franklin G. Hovey II       Director
+-----------------------------
+      Franklin G. Hovey II
+
+/s/   Richard C. Marron          Director
+-----------------------------
+      Richard C. Marron
+
+/s/   Robert P. Rollins          Director
+-----------------------------
+      Robert P. Rollins
+
+/s/   W. Arlen Smith             Director
+-----------------------------
+      W. Arlen Smith
+
+/s/   John H. Steele             Director
+-----------------------------
+      John H. Steele
+
+
+<PAGE>  14
+
+
+                                EXHIBT INDEX
+
+14     Code of Ethics for Senior Financial Officers and the Chief
+       Executive Officer.
+
+31.1   Certifications of Chief Executive Officer pursuant to Section 302 of
+       the Sarbanes-Oxley Act of 2002.
+
+31.2   Certifications of Chief Financial Officer pursuant to Section 302 of
+       the Sarbanes-Oxley Act of 2002.
+
+32.1   Certification of the Chief Executive Officer pursuant to Section 906
+       of the Sarbanes-Oxley Act of 2002.
+
+32.2   Certification of the Chief Financial Officer pursuant to Section 906
+       of the Sarbanes-Oxley Act of 2002.
+
+
+<PAGE> 15
+
+
+</TEXT>
+</DOCUMENT>

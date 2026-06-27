@@ -1,0 +1,354 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>n2002-2.txt
+<TEXT>
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                                    FORM 10-K
+
+(Mark One)
+
+[X]  ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+     ACT OF 1934
+                 For the fiscal year ended December 31, 2005 OR
+
+[ ]  TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+     EXCHANGE ACT OF 1934
+        For the transition period from .............. to ..............
+
+                       Commission file number 333-82280
+
+                        NELNET STUDENT LOAN FUNDING, LLC
+                                   SPONSOR FOR
+                    NELNET STUDENT LOAN FUNDING TRUST 2002-2
+             (Exact name of registrant as specified in its charter)
+
+               Delaware                                  75-2997993
+   (State or other jurisdiction of                    (I.R.S. Employer
+    incorporation or organization)                   Identification No.)
+
+
+  121 South 13th Street, Suite 201
+         Lincoln, Nebraska                                  68508
+(Address of principal executive offices)                 (Zip Code)
+
+                                 (402) 458-2370
+              (Registrant's telephone number, including area code)
+
+           SECURITIES REGISTERED PURSUANT TO SECTION 12(B) OF THE ACT:
+
+                                      None
+
+           SECURITIES REGISTERED PURSUANT TO SECTION 12(G) OF THE ACT:
+
+                                      None
+
+        INDICATE BY CHECK MARK IF THE REGISTRANT IS A WELL-KNOWN SEASONED
+ISSUER, AS DEFINED IN RULE 405 OF THE SECURITIES ACT.  YES __  NO X
+
+        INDICATE BY CHECK MARK IF THE REGISTRANT IS NOT REQUIRED TO FILE REPORTS
+PURSUANT TO SECTION 13 OR SECTION 15(D) OF THE ACT.  YES __  NO X
+
+        INDICATE BY CHECK MARK WHETHER THE REGISTRANT: (1) HAS FILED ALL REPORTS
+REQUIRED TO BE FILED BY SECTION 13 OR 15(D) OF THE SECURITIES EXCHANGE ACT OF
+1934 DURING THE PRECEDING 12 MONTHS (OR FOR SUCH SHORTER PERIOD THAT THE
+REGISTRANT WAS REQUIRED TO FILE SUCH REPORTS), AND (2) HAS BEEN SUBJECT TO SUCH
+FILING REQUIREMENTS FOR THE PAST 90 DAYS.  YES X  NO ___
+
+        INDICATE BY CHECK MARK IF DISCLOSURE OF DELINQUENT FILERS PURSUANT TO
+ITEM 405 OF REGULATION S-K IS NOT CONTAINED HEREIN, AND WILL NOT BE CONTAINED,
+TO THE BEST OF REGISTRANT'S KNOWLEDGE, IN DEFINITIVE PROXY OR INFORMATION
+STATEMENTS INCORPORATED BY REFERENCE IN PART III OF THIS FORM 10-K OR ANY
+AMENDMENT TO THIS FORM 10-K. [X]
+
+        INDICATE BY CHECK MARK WHETHER THE REGISTRANT IS A LARGE ACCELERATED
+FILER, AN ACCELERATED FILER, OR A NON-ACCELERATED FILER (AS DEFINED IN RULE
+12B-2 OF THE EXCHANGE ACT).
+ LARGE ACCELERATED FILER __   ACCELERATED FILER __   NON-ACCELERATED FILER  X
+
+        INDICATE BY CHECK MARK WHETHER THE REGISTRANT IS A SHELL COMPANY (AS
+DEFINED IN RULE 12B-2 OF THE ACT). YES__ NO X
+
+        STATE THE AGGREGATE MARKET VALUE OF THE VOTING AND NON-VOTING COMMON
+EQUITY HELD BY NON-AFFILIATES COMPUTED BY REFERENCE TO THE PRICE AT WHICH THE
+COMMON EQUITY WAS LAST SOLD, OR THE AVERAGE BID AND ASKED PRICE OF SUCH COMMON
+EQUITY, AS OF THE LAST BUSINESS DAY OF THE REGISTRANT'S MOST RECENTLY COMPLETED
+SECOND FISCAL QUARTER: NONE
+
+                       DOCUMENTS INCORPORATED BY REFERENCE
+                                      None
+<PAGE>
+
+
+                                TABLE OF CONTENTS
+
+
+                                                                            Page
+
+PART I
+      ITEM 1.    BUSINESS......................................................2
+      ITEM 1A.   RISK FACTORS..................................................2
+      ITEM 1B.   UNRESOLVED STAFF COMMENTS.....................................2
+      ITEM 2.    PROPERTIES....................................................2
+      ITEM 3.    LEGAL PROCEEDINGS.............................................2
+      ITEM 4.    SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS...........2
+
+PART II
+      ITEM 5.    MARKET FOR REGISTRANT'S COMMON EQUITY, RELATED STOCKHOLDER
+                      MATTERS, AND ISSUER PURCHASES OF EQUITY SECURITIES.......2
+      ITEM 6.    SELECTED FINANCIAL DATA.......................................2
+      ITEM 7.    MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+                      AND RESULTS OF OPERATION.................................2
+      ITEM 7A.   QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT
+                      MARKET RISK..............................................3
+      ITEM 8.    FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA...................3
+      ITEM 9.    CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON
+                      ACCOUNTING AND FINANCIAL DISCLOSURE......................3
+      ITEM 9A.   CONTROLS AND PROCEDURES.......................................3
+      ITEM 9B.   OTHER INFORMATION.............................................3
+
+PART III
+      ITEM 10.   DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT............3
+      ITEM 11.   EXECUTIVE COMPENSATION........................................3
+      ITEM 12.   SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND
+                      MANAGEMENT AND RELATED STOCKHOLDER MATTERS...............3
+      ITEM 13.   CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS................3
+      ITEM 14.   PRINCIPAL ACCOUNTING FEES AND SERVICES........................3
+
+PART IV
+      ITEM 15.   EXHIBITS AND FINANCIAL STATEMENT SCHEDULES....................3
+
+SIGNATURES.....................................................................4
+
+CERTIFICATIONS.................................................................5
+
+
+
+<PAGE>
+
+
+    Certain information otherwise required to be included in this Report by the
+Instructions to Form 10-K has been omitted in reliance on the letter relief
+granted by the staff of SEC to other companies in similar circumstances,
+including Key Bank USA (pub. avail. May 9, 1997) and SMS Student Loan Trust
+1994-A (pub. avail. March 1, 1995) (collectively, the "Relief Letters").
+
+                                     PART I
+
+ITEM 1.  BUSINESS
+
+     Nelnet Student Loan Trust 2002-2 (the "Trust") has been established as a
+Delaware statutory trust pursuant to a trust agreement by and between Nelnet
+Student Loan Funding, LLC, as sponsor and initial certificateholder, and a
+Delaware trustee. The Trust issued notes in one or more series, and in one or
+more classes. The trust agreement limits the operations of the Trust to the
+following activities: to acquire, hold, manage and sell student loans, other
+assets of the Trust and any proceeds therefrom; to issue notes; to make payments
+of principal and interest on the notes; and, to engage in any incidental or
+related activities.
+
+ITEM 1A.  RISK FACTORS
+
+   Not applicable.
+
+ITEM 1B.  UNRESOLVED STAFF COMMENTS
+
+   The Trust has no unresolved comments from the SEC staff regarding its
+periodic or current reports under the Securities Exchange Act of 1934.
+
+ITEM 2.  PROPERTIES
+
+   The property of the Trust consists of a pool of education loans to students
+and parents of students made under the Federal Family Education Loan Program,
+all funds collected in respect thereof, and monies on deposit in certain trust
+accounts together with rights to receive payments under certain swap
+transactions.
+
+   Annual Statements of Compliance with loan servicing and other administrative
+requirements relating to the Trust's assets are attached as Exhibit 99.1 and
+99.2 hereto. These statements are required by:
+
+   -Section 4.04(g) of the Indenture of Trust dated as of September 1, 2002.
+   -Section 3(a) of the Administration Agreement dated as of September 1, 2002.
+
+ITEM 3.  LEGAL PROCEEDINGS
+
+   There were no material pending legal proceedings relating to the Trust to
+which the Trust, the Indenture Trustee, the Eligible Lender Trustee, National
+Education Loan Network, Inc., as Master Servicer, or Nelnet, Inc., as
+Subservicer, was a party or which any of their respective properties was the
+subject during the fiscal year covered by this Report, nor is the Registrant
+aware of any such proceedings contemplated by governmental authorities.
+
+ITEM 4.  SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+   No matters were submitted to a vote of security holders during the fiscal
+year ended December 31, 2005.
+
+
+                                     PART II
+
+ITEM 5. MARKET FOR REGISTRANT'S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND
+ISSUER PURCHASES OF EQUITY SECURITIES
+
+   At December 31, 2005, the Trust had issued one certificate representing an
+undivided beneficial ownership interest in the Trust (the "Certificate"). Nelnet
+Student Loan Funding, LLC is the sole owner of the Certificate. There is no
+established trading market for the Certificate.
+
+ITEM 6.  SELECTED FINANCIAL DATA
+
+   Omitted.
+
+ITEM 7.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+OF OPERATION
+
+   Omitted.
+
+                                       2
+<PAGE>
+
+ITEM 7A.  QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+   Omitted.
+
+ITEM 8.  FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+   Omitted.
+
+ITEM 9.  CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+FINANCIAL DISCLOSURE
+
+   None.
+
+ITEM 9A.  CONTROLS AND PROCEDURES
+
+   Not applicable.
+
+ITEM 9B.  OTHER INFORMATION
+
+   During the fourth quarter of 2005, no information was required to be
+disclosed in a report on Form 8-K, but not reported.
+
+
+                                    PART III
+
+ITEM 10.  DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+   Omitted.
+
+ITEM 11.  EXECUTIVE COMPENSATION
+
+   Omitted.
+
+ITEM 12.  SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND
+RELATED STOCKHOLDER MATTERS
+
+   Nelnet Student Loan Funding, LLC is the sole owner of the Certificate issued
+by the Trust.
+
+ITEM 13.  CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+   The Trust has no knowledge of any transaction or series of transactions to
+which the Trust is a party with any holder of the notes issued by the Trust who
+owns of record or beneficially more than 5% of the Notes.
+
+ITEM 14.  PRINCIPAL ACCOUNTING FEES AND SERVICES
+
+   Not applicable.
+
+                                     PART IV
+
+ITEM 15.  EXHIBITS AND FINANCIAL STATEMENT SCHEDULES
+
+EXHIBITS
+
+   The following documents are filed as part of this Annual Report on Form 10-K.
+
+
+   EXHIBIT NO.    DESCRIPTION
+   -----------    -----------
+
+   31.1           Rule 15d - 14(d) Certification
+
+   99.1           Annual Statement of Compliance - Officer's Certificate of the
+                  Servicer  (National Education Loan Network, Inc.) - Nelnet
+                  Student Loan Trust 2002-2
+
+   99.2           Annual Statement of Compliance - Officer's Certificate of the
+                  Administrator - Nelnet Student Loan Trust 2002-2
+
+   99.3           Servicer Compliance Audit - Year Ended December 31, 2005
+
+                                      3
+<PAGE>
+
+                                   SIGNATURES
+
+
+   Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on
+its behalf by the undersigned, thereunto duly authorized.
+
+   Dated:  March 31, 2006
+
+                                      NELNET STUDENT LOAN FUNDING, LLC
+                                      By: Nelnet Student Loan Funding Management
+                                      Corporation, as Manager and Special Member
+
+
+
+                                      By:  /s/ Michael S. Dunlap
+                                          --------------------------------------
+                                         Michael S. Dunlap, President
+                                         (Principal Executive Officer)
+
+
+   Pursuant to the requirements of the Securities Exchange Act of 1934, this
+report has been signed below by the following persons on behalf of the
+registrant and in the capacities and on the dates indicated.
+
+                 Signature                Title                      Date
+                 ---------                -----                      ----
+
+By:   /s/ Michael S. Dunlap         President (Principal          March 31, 2006
+    ----------------------------    Executive Officer)
+    Michael S. Dunlap
+
+By:   /s/ Jim Kruger                Secretary, Treasurer, and     March 31, 2006
+    ----------------------------    Director (Principal
+    Jim Kruger                      Financial and Accounting
+                                    Officer)
+
+By:   /s/ Terry J. Heimes           Vice President and            March 31, 2006
+    ----------------------------    Director
+    Terry J. Heimes
+
+By:   /s/ Jeffery R. Noordhoek      Vice President and            March 31, 2006
+    ----------------------------    Director
+    Jeffery R. Noordhoek
+
+By:   /s/ Del Cochran               Director                      March 31, 2006
+    ----------------------------
+    Del Cochran
+
+By:                                 Director
+    ----------------------------
+    Mark Whitehead
+
+SUPPLEMENTAL INFORMATION TO BE FURNISHED WITH REPORTS FILED PURSUANT TO SECTION
+15(d) OF THE ACT BY REGISTRANTS WHICH HAVE NOT REGISTERED SECURITIES PURSUANT TO
+SECTION 12 OF THE ACT.
+
+   The registrant has not sent to security holders any annual report for its
+last fiscal year or any proxy material with respect to a meeting of
+shareholders.
+
+
+                                       4
+
+</TEXT>
+</DOCUMENT>

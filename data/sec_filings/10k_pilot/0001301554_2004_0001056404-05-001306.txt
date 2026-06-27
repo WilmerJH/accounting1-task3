@@ -1,0 +1,827 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>baa04008_2004.txt
+<TEXT>
+
+                                       UNITED STATES
+                             SECURITIES AND EXCHANGE COMMISSION
+                                   WASHINGTON, D.C. 20549
+
+
+
+                                          FORM 10-K
+
+
+  (Mark one)
+
+  /X/ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+      EXCHANGE ACT OF 1934
+      For the fiscal year ended December 31, 2004
+
+      OR
+
+
+
+  / / TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+      EXCHANGE ACT OF 1934
+
+
+      Commission File Number:  333-105940-43
+
+
+        Banc of America Alternative Loan Trust
+        Mortgage Pass-Through Certificates
+        Series 2004-8
+
+     (Exact name of registrant as specified in its charter)
+
+
+   New York                                         54-6636502
+  (State or other jurisdiction of                   (I.R.S. Employer
+  incorporation or organization)                    Identification No.)
+
+
+   c/o Wells Fargo Bank, N.A.
+   9062 Old Annapolis Road
+   Columbia, MD                                21045
+  (Address of principal executive offices)     (Zip Code)
+
+
+  Registrant's telephone number, including area code: (410) 884-2000
+
+
+  Securities registered pursuant to Section 12(b) of the Act:
+
+        NONE.
+
+
+  Securities registered pursuant to Section 12(g) of the Act:
+
+        NONE.
+
+
+  Indicate by check mark whether the registrant (1) has filed all reports
+  required to be filed by Section 13 or 15(d) of the Securities Exchange
+  Act of 1934 during the preceding 12 months (or for such shorter period
+  that the registrant was required to file such reports), and (2) has been
+  subject to such filing requirements for the past 90 days.
+
+        Yes  X       No ___
+
+
+  Indicate by check mark if disclosure of delinquent filers pursuant to
+  Item 405 of Regulation S-K ( 229.405 of this chapter) is not contained
+  herein, and will not be contained, to the best of registrant's knowledge,
+  in definitive proxy or information statements incorporated by reference
+  in Part III of this Form 10-K or any amendment to this Form 10-K.
+
+        Not applicable.
+
+
+  Indicate by check mark whether the registrant is an accelerated filer
+  (as defined in Exchange Act Rule 12b-2).
+
+        Yes  ___     No  X
+
+
+  State the aggregate market value of the voting and non-voting common
+  equity held by non-affiliates computed by reference to the price at which
+  the common equity was last sold, or the average bid and asked price of
+  such common equity, as of the last business day of the registrant's most
+  recently completed second fiscal quarter.
+
+        Not applicable.
+
+
+  Indicate the number of shares outstanding of each of the registrant's
+  classes of common stock, as of the latest practicable date.
+
+        Not applicable.
+
+
+     Documents Incorporated by Reference
+
+  List hereunder the following documents if incorporated by reference and
+  the Part of the Form 10-K (e.g. Part I, Part II, etc.) into which the
+  document is incorporated: (1)Any annual report to security holders; (2)
+  Any proxy or information statement; and (3)Any prospectus filed pursuant
+  to Rule 424(b) or (c) under the Securities Act of 1933. The listed
+  documents should be clearly described for identification purposes (e.g.
+  annual report to security holders for fiscal year ended December 24, 1980).
+
+        Not applicable.
+
+                          Introductory Note
+
+  This Annual Report on Form 10-K is prepared in reliance on the no-action
+  letter dated March 26, 1993 issued by the Securities and Exchange Commission
+  to Nomura Asset Securities Corporation.
+
+
+
+                                   PART I
+
+  Item 1.  Business.
+
+            Omitted.
+
+  Item 2.  Properties.
+
+            Not applicable.
+
+
+  Item 3.  Legal Proceedings.
+
+            The registrant knows of no material pending legal proceedings
+            involving the trust created under the Pooling and Servicing
+            Agreement (the Trust), the Trustee, the Servicer or the
+            registrant with respect to the Trust other than routine
+            litigation incidental to the duties of the respective parties.
+
+
+  Item 4.  Submission of Matters to a Vote of Security Holders.
+
+            None.
+
+
+                                PART II
+
+  Item 5.  Market for registrant's Common Equity and Related Stockholder
+           Matters and Issuer Purchases of Equity Securities.
+
+            No established public trading market for the Certificates exists.
+
+            Records provided to the Trust by the DTC and the Trustee
+            indicate that as of December 31, 2004, the total number of holders
+            of record for the Series of Certificates is 25.
+
+
+  Item 6.  Selected Financial Data.
+
+            Omitted.
+
+
+  Item 7.  Management's Discussion and Analysis of Financial Condition and
+           Results of Operation.
+
+            Omitted.
+
+
+  Item 7A. Quantitative and Qualitative Disclosures about Market Risk.
+
+            Not applicable.
+
+
+  Item 8.  Financial Statements and Supplementary Data.
+
+            Omitted.
+
+
+  Item 9.  Changes in and Disagreements with Accountants on Accounting and
+           Financial Disclosure.
+
+            None.
+
+
+  Item 9A. Controls and Procedures.
+
+            Not applicable.
+
+
+  Item 9B. Other Information.
+
+            None.
+
+
+                                PART III
+
+  Item 10. Directors and Executive Officers of the Registrant.
+
+            Not applicable.
+
+
+  Item 11. Executive Compensation.
+
+            Not applicable.
+
+
+  Item 12. Security Ownership of Certain Beneficial Owners and Management.
+
+            Not applicable.
+
+  Item 13. Certain Relationships and Related Transactions.
+
+            Not applicable.
+
+
+  Item 14. Principal Accounting Fees and Services.
+
+            Not applicable.
+
+
+                                PART IV
+
+  Item 15. Exhibits, Financial Statement Schedules.
+
+   (a) The following is a list of documents filed as part of this Annual
+          Report on Form 10-K:
+
+     (4.1) Pooling and Servicing Agreement (filed as an exhibit to Form
+           8-K on December 30, 2004).
+
+     (31.1) Rule 13a-14(a)/15d-14(a) Certification.
+
+     (99.1) Annual Independent Accountants' Servicing Reports concerning
+            servicing activities for the year ended December 31, 2004.
+
+     (99.2) Annual Statements of Compliance under the Pooling and Servicing
+            Agreement for the year ended December 31, 2004.
+
+     (99.3) Schedule of Year-To-Date Principal and Interest Distributions to
+            Certificateholders.
+
+    (b) The exhibits required to be filed by Registrant pursuant to Item 601
+     of Regulation S-K are listed above and in the Exhibit Index that
+     immediately follows the signature page hereof.
+
+    (c) Not Applicable.
+
+                                SIGNATURES
+
+  Pursuant to the requirements of Section 13 or 15(d) of the Securities
+  Exchange Act of 1934, the registrant has duly caused this report to be
+  signed on its behalf by the undersigned, thereunto duly authorized:
+
+
+
+    Banc of America Alternative Loan Trust
+    Mortgage Pass-Through Certificates
+    Series 2004-8
+    (Registrant)
+
+
+  Signed: Bank of America, N.A. as Servicer
+
+  By:     Robert Caruso, Senior Vice President
+
+  By: /s/ Robert Caruso, Senior Vice President
+
+  Dated: March 23, 2005
+
+
+  SUPPLEMENTAL INFORMATION TO BE FURNISHED WITH REPORTS FILED PURSUANT TO
+  SECTION 15(d) OF THE ACT BY REGISTRANTS WHICH HAVE NOT REGISTERED
+  SECURITIES PURSUANT TO SECTION 12 OF THE ACT.
+
+
+  (a)(i) No annual report is provided to the Certificateholders other than
+  with respect to aggregate principal and interest distributions.
+
+
+  (a)(ii) No proxy statement, form of proxy or other proxy soliciting
+  material has been sent to any Certificateholder with respect to any
+  annual or other meeting of Certificateholders.
+
+
+
+  Exhibit Index
+
+  Exhibit No.
+
+
+     (4.1) Pooling and Servicing Agreement (filed as an exhibit to Form
+           8-K on December 30, 2004).
+
+     (31.1) Rule 13a-14(a)/15d-14(a) Certification
+
+     (99.1) Annual Independent Accountants' Servicing Reports concerning
+            servicing activities for the year ended December 31, 2004.
+
+     (99.2) Annual Statements of Compliance under the Pooling and Servicing
+            Agreement for the year ended December 31, 2004.
+
+     (99.3) Schedule of Year-To-Date Principal and Interest Distributions to
+            Certificateholders
+
+
+
+                                                                    Exhibit 31.1
+
+                                  Certification
+
+I, Robert Caruso, a Senior Vice President of Bank of America, N.A., certify
+that:
+
+1.    I have reviewed this annual report on Form 10-K, and all monthly current
+      reports on Form 8-K containing distribution or servicing reports filed in
+      respect of periods included in the year covered by this annual report of
+      the Banc of America Alternative Loan Trust 2004-8 (the "Trust") formed
+      pursuant to the Pooling and Servicing Agreement, dated August 26, 2004,
+      among Banc of America Mortgage Securities, Inc., Bank of America, N.A. and
+      Wells Fargo Bank, N.A. (the "Agreement");
+
+2.    Based on my knowledge, the information in these reports, taken as a whole,
+      does not contain any untrue statement of a material fact or omit to state
+      a material fact necessary to make the statements made, in light of the
+      circumstances under which such statements were made, not misleading as of
+      the last day of the period covered by this annual report;
+
+3.    Based on my knowledge, the distribution or servicing information required
+      to be provided to the trustee by the servicer under the Agreement for
+      inclusion in these reports is included in these reports;
+
+4.    I am responsible for reviewing the activities performed by the servicer
+      under the Agreement and based upon my knowledge and the annual compliance
+      review required under the Agreement, and except as disclosed in the
+      reports, the servicer has fulfilled its obligations under the Agreement;
+      and
+
+5.    The reports disclose all significant deficiencies relating to the
+      servicer's compliance with the minimum servicing standards, based upon the
+      report provided by an independent public accountant after conducting a
+      review in compliance with the Uniform Single Attestation Program for
+      Mortgage Bankers or similar procedure as set forth in the Agreement that
+      is included in these reports.
+
+In giving the certifications above, I have reasonably relied on information
+provided to me by the following unaffiliated party: Wells Fargo Bank, N.A.
+
+
+                                          By:   /s/ Robert Caruso
+                                          Name:  Robert Caruso
+                                          Title: Senior Vice President
+					  Date: March 8, 2005
+
+<PAGE>
+
+EX-99.1
+
+
+  (Logo) PricewaterhouseCoopers
+
+
+  PricewaterhouseCoopers LLP
+  214 N. Tryon Street
+  Ste 3600
+  Charlotte NC 28202
+
+  Telephone (704) 344 7500
+  Facsimile (704) 344 4100
+
+
+  Report of Independent Accountants
+
+  To the Board of Directors and Shareholder of Bank of America, N.A.
+
+  We have examined management's assertion concerning the mortgage division of
+  Bank of America, N.A.'s (the "Company"), an operating division of
+  Bank of America, N.A., compliance with the minimum servicing standards
+  identified in the Mortgage Bankers Association of America's Uniform Single
+  Attestation Program for Mortgage Bankers ("USAP") as of and for the year ended
+  December 31, 2004 included in the accompanying management assertion (see
+  Exhibit 1). Management is responsible for the Company's compliance with those
+  minimum servicing standards. Our responsibility is to express an opinion on
+  management's assertion about the Company's compliance based on our
+  examination.
+
+  Our examination was made in accordance with standards established by the
+  American Institute of Certified Public Accountants and, accordingly, included
+  examining, on a test basis, evidence about the Company's compliance with the
+  minimum servicing standards and performing such other procedures as we
+  considered necessary in the circumstances. We believe that our examination
+  provides a reasonable basis for our opinion. Our examination does not provide
+  a legal determination on the Company's compliance with the minimum servicing
+  standards.
+
+  In our opinion, management's assertion that the Company complied with the
+  aforementioned minimum servicing standards as of and for the year ended
+  December 31, 2004 is fairly stated, in all material respects.
+
+
+  /s/ PriceWaterhouseCoopers LLP
+  March 11, 2005
+
+                                                                 Exhibit 1
+
+  Bank of America
+  (Logo)
+
+  Bank of America
+  475 CrossPoint Parkway
+  PO Box 9000
+  Getzville, NY 14068-9000
+
+  Management's Assertion Concerning Compliance
+  with USAP Minimum Servicing Standards
+
+
+  March 11, 2005
+
+  As of and for the year ended December 31, 2004, Bank of America, N.A. (the
+  "Company"), has complied in all material respects with the minimum servicing
+  standards set forth in the Mortgage Bankers Association of America's Uniform
+  Single Attestation Program for Mortgage Bankers ("USAP").
+
+  As of and for this same period, the Company had in effect a fidelity bond and
+  errors and omissions policy in the amounts of $325,000,000 and $180,000,000,
+  respectively.
+
+
+  /s/ Floyd S. Robinson
+  Floyd S. Robinson
+  Senior Vice President
+  President Consumer Real Estate
+  Bank of America, N.A.
+
+  /s/ H. Randall Chestnut
+  H. Randall Chestnut
+  Senior Vice President
+  Bank of America, N.A.
+
+  /s/ Mike Kula
+  Mike Kula
+  Senior Vice President
+  Finance Executive
+  Bank of America, N.A.
+
+  /s/ Robert Caruso
+  Robert Caruso
+  Senior Vice President
+  National Servicing Executive
+  Bank of America, N.A.
+
+  /s/ J. Mark Hanson
+  J. Mark Hanson
+  Senior Vice President
+  Bank of America, N.A.
+
+
+
+
+
+EX-99.2
+
+
+                    BANC OF AMERICA MORTGAGE SECURITIES, INC.
+                       MORTGAGE PASS-THROUGH CERTIFICATES,
+                      SERIES SET FORTH ON EXHIBIT I HERETO
+
+                 OFFICER'S CERTIFICATE PURSUANT TO SECTION 3.18
+                  OF THE AGREEMENTS LISTED ON EXHIBIT I HERETO
+                  --------------------------------------------
+
+            I, H. Randall Chestnut, Senior Vice President of Bank of America,
+N.A., as servicer (the "Servicer"), hereby certify pursuant to Section 3.18 of
+the Pooling and Servicing Agreements listed on Exhibit I hereto (collectively,
+the "Agreements") that: (a) a review of the activities of the Servicer during
+calendar year 2004 and of the performance of the Servicer under the Agreements
+has been made under my supervision, and (b) to the best of my knowledge, based
+on such review, the Servicer has fulfilled all its obligations under the
+Agreements throughout calendar year 2004.
+
+Dated:  March 12, 2005
+
+
+                                       BANK OF AMERICA, N.A.,
+                                          as Servicer
+
+
+                                       By:   /s/ H. Randall Chestnut
+                                       Name:  H. Randall Chestnut
+                                       Title: Senior Vice President
+
+
+<PAGE>
+
+
+                                                                     EXHIBIT I
+
+
+                PARTIES                    DATE OF POOLING         SERIES
+                                              AGREEMENT
+===============================================================================
+
+Banc of America Mortgage Securities,    December 19, 2002, as   BoAMS 2002-L
+Inc., Bank of America, N.A. and Wells   amended by Amendment
+Fargo Bank, N.A.                        No. 1, dated January
+                                        30, 2004
+
+Banc of America Mortgage Securities,    January 28, 2003, as    BoALT 2003-1
+Inc., Bank of America, N.A. and Wells   amended by Amendment
+Fargo Bank, N.A.                        No. 1, dated January
+                                        30, 2004
+
+Banc of America Mortgage Securities,    January 28, 2003, as       2003-A
+Inc., Bank of America, N.A. and Wells   amended by Amendment
+Fargo Bank, N.A.                        No. 1, dated January
+                                        30, 2004
+
+Banc of America Mortgage Securities,    January 28, 2003 (as       2003-1
+Inc., Bank of America, N.A. and Wells   amended, January 30,
+Fargo Bank, N.A.                        2004)
+
+Banc of America Mortgage Securities,    February 25, 2003, as      2003-B
+Inc., Bank of America, N.A. and Wells   amended by Amendment
+Fargo Bank, N.A.                        No. 1, dated January
+                                        30, 2004
+
+Banc of America Mortgage Securities,    March 24, 2003, as         2003-2
+Inc., Bank of America, N.A. and Wells   amended by Amendment
+Fargo Bank, N.A.                        No. 1, dated January
+                                        30, 2004
+
+Banc of America Mortgage Securities,    March 25, 2003, as         2003-C
+Inc., Bank of America, N.A. and Wells   amended by Amendment
+Fargo Bank, N.A.                        No. 1, dated January
+                                        30, 2004
+
+Banc of America Mortgage Securities,    March 25, 2003, as      BoALT 2003-2
+Inc., Bank of America, N.A. and Wells   amended by Amendment
+Fargo Bank, N.A.                        No. 1, dated January
+                                        30, 2004
+
+<PAGE>
+
+
+Banc of America Mortgage Securities,    April 23, 2003, as         2003-3
+Inc., Bank of America, N.A. and Wells   amended by Amendment
+Fargo Bank, N.A.                        No. 1, dated January
+                                        30, 2004
+
+Banc of America Mortgage Securities,    April 24, 2003, as      BoALT 2003-3
+Inc., Bank of America, N.A. and Wells   amended by Amendment
+Fargo Bank, N.A.                        No. 1, dated January
+                                        30, 2004
+
+Banc of America Mortgage Securities,    April 24, 2003, as         2003-D
+Inc., Bank of America, N.A. and Wells   amended by Amendment
+Fargo Bank, N.A.                        No. 1, dated January
+                                        30, 2004
+
+Banc of America Mortgage Securities,    May 22, 2003, as           2003-4
+Inc., Bank of America, N.A. and Wells   amended by Amendment
+Fargo Bank, N.A.                        No. 1, dated January
+                                        30, 2004
+
+Banc of America Mortgage Securities,    May 22, 2003, as        BoALT 2003-4
+Inc., Bank of America, N.A. and Wells   amended by Amendment
+Fargo Bank, N.A.                        No. 1, dated January
+                                        30, 2004
+
+Banc of America Mortgage Securities,    May 22, 2003, as           2003-E
+Inc., Bank of America, N.A. and Wells   amended by Amendment
+Fargo Bank, N.A.                        No. 1, dated January
+                                        30, 2004
+
+Banc of America Mortgage Securities,    June 24, 2003 (as          2003-F
+Inc., Bank of America, N.A. and Wells   amended, January 30,
+Fargo Bank, N.A.                        2004)
+
+Banc of America Mortgage Securities,    June 24, 2003, as       BoALT 2003-5
+Inc., Bank of America, N.A. and Wells   amended by Amendment
+Fargo Bank, N.A.                        No. 1, dated January
+                                        30, 2004
+
+Banc of America Mortgage Securities,    July 24, 2003, as          2003-G
+Inc., Bank of America, N.A. and Wells   amended by Amendment
+Fargo Bank, N.A.                        No. 1, dated January
+                                        30, 2004
+
+<PAGE>
+
+
+Banc of America Mortgage Securities,    July 24, 2003, as          2003-6
+Inc., Bank of America, N.A. and Wells   amended by Amendment
+Fargo Bank, N.A.                        No. 1, dated January
+                                        30, 2004
+
+Banc of America Mortgage Securities,    July 24, 2003, as       BoALT 2003-6
+Inc., Bank of America, N.A. and Wells   amended by Amendment
+Fargo Bank, N.A.                        No. 1, dated January
+                                        30, 2004
+
+Banc of America Mortgage Securities,    August 27, 2003, as        2003-7
+Inc., Bank of America, N.A. and Wells   amended by Amendment
+Fargo Bank, N.A.                        No. 1, dated January
+                                        30, 2004
+
+Banc of America Mortgage Securities,    August 27, 2003, as        2003-H
+Inc., Bank of America, N.A. and Wells   amended by Amendment
+Fargo Bank, N.A.                        No. 1, dated January
+                                        30, 2004
+
+Banc of America Mortgage Securities,    August 27, 2003, as     BoALT 2003-7
+Inc., Bank of America, N.A. and Wells   amended by Amendment
+Fargo Bank, N.A.                        No. 1, dated January
+                                        30, 2004
+
+Banc of America Mortgage Securities,    September 25, 2003,        2003-I
+Inc., Bank of America, N.A. and Wells   as amended by
+Fargo Bank, N.A.                        Amendment No. 1,
+                                        dated January 30, 2004
+
+Banc of America Mortgage Securities,    September 25, 2003,     BoALT 2003-8
+Inc., Bank of America, N.A. and Wells   as amended by
+Fargo Bank, N.A.                        Amendment No. 1,
+                                        dated January 30, 2004
+
+Banc of America Mortgage Securities,    October 23, 2003           2003-8
+Inc., Bank of America, N.A. and Wells
+Fargo Bank, N.A.
+
+Banc of America Mortgage Securities,    October 27, 2003        BoALT 2003-9
+Inc., Bank of America, N.A. and Wells
+Fargo Bank, N.A.
+
+Banc of America Mortgage Securities,    October 27, 2003           2003-J
+Inc., Bank of America, N.A. and Wells
+Fargo Bank, N.A.
+
+<PAGE>
+
+
+Banc of America Mortgage Securities,    November 25, 2003          2003-K
+Inc., Bank of America, N.A. and Wells
+Fargo Bank, N.A.
+
+Banc of America Mortgage Securities,    November 25, 2003          2003-9
+Inc., Bank of America, N.A. and Wells
+Fargo Bank, N.A.
+
+Banc of America Mortgage Securities,    November 26, 2003       BoALT 2003-10
+Inc., Bank of America, N.A. and Wells
+Fargo Bank, N.A.
+
+Banc of America Mortgage Securities,    December 23, 2003          2003-10
+Inc., Bank of America, N.A. and Wells
+Fargo Bank, N.A.
+
+Banc of America Mortgage Securities,    December 23, 2003          2003-L
+Inc., Bank of America, N.A. and Wells
+Fargo Bank, N.A.
+
+Banc of America Mortgage Securities,    December 23, 2003       BoALT 2003-11
+Inc., Bank of America, N.A. and Wells
+Fargo Bank, N.A.
+
+Banc of America Mortgage Securities,    January 29, 2004        BoALT 2004-1
+Inc., Bank of America, N.A. and Wells
+Fargo Bank, N.A.
+
+Banc of America Mortgage Securities,    January 29, 2004           2004-A
+Inc., Bank of America, N.A. and Wells
+Fargo Bank, N.A.
+
+Banc of America Mortgage Securities,    January 29, 2004           2004-1
+Inc., Bank of America, N.A. and Wells
+Fargo Bank, N.A.
+
+Banc of America Mortgage Securities,    February 26, 2004          2004-B
+Inc., Bank of America, N.A. and Wells
+Fargo Bank, N.A.
+
+Banc of America Mortgage Securities,    February 26, 2004          2004-2
+Inc., Bank of America, N.A. and Wells
+Fargo Bank, N.A.
+
+Banc of America Mortgage Securities,    February 26, 2004       BoALT 2004-2
+Inc., Bank of America, N.A. and Wells
+Fargo Bank, N.A.
+
+<PAGE>
+
+
+Banc of America Mortgage Securities,    March 30, 2004             2004-C
+Inc., Bank of America, N.A. and Wells
+Fargo Bank, N.A.
+
+Banc of America Mortgage Securities,    March 30, 2004          BoALT 2004-3
+Inc., Bank of America, N.A. and Wells
+Fargo Bank, N.A.
+
+Banc of America Mortgage Securities,    March 30, 2004             2004-3
+Inc., Bank of America, N.A. and Wells
+Fargo Bank, N.A.
+
+Banc of America Mortgage Securities,    April 29, 2004          BoALT 2004-4
+Inc., Bank of America, N.A. and Wells
+Fargo Bank, N.A.
+
+Banc of America Mortgage Securities,    April 29, 2004             2004-D
+Inc., Bank of America, N.A. and Wells
+Fargo Bank, N.A.
+
+Banc of America Mortgage Securities,    April 29, 2004             2004-4
+Inc., Bank of America, N.A. and Wells
+Fargo Bank, N.A.
+
+Banc of America Mortgage Securities,    May 27, 2004               2004-5
+Inc., Bank of America, N.A. and Wells
+Fargo Bank, N.A.
+
+Banc of America Mortgage Securities,    May 27, 2004            BoALT 2004-5
+Inc., Bank of America, N.A. and Wells
+Fargo Bank, N.A.
+
+Banc of America Mortgage Securities,    May 27, 2004               2004-E
+Inc., Bank of America, N.A. and Wells
+Fargo Bank, N.A.
+
+Banc of America Mortgage Securities,    June 28, 2004              2004-F
+Inc., Bank of America, N.A., Wachovia
+Bank, National Association and Wells
+Fargo Bank, N.A.
+
+Banc of America Mortgage Securities,    June 28, 2004           BoALT 2004-6
+Inc., Bank of America, N.A. and Wells
+Fargo Bank, N.A.
+
+<PAGE>
+
+
+Banc of America Mortgage Securities,    June 28, 2004, as          2004-6
+Inc., Bank of America, N.A. and Wells   amended by Amendment
+Fargo Bank, N.A.                        No. 1 thereto, dated
+                                        December 10, 2004
+
+Banc of America Mortgage Securities,    July 29, 2004              2004-G
+Inc., Bank of America, N.A., Wachovia
+Bank, National Association and Wells
+Fargo Bank, N.A.
+
+Banc of America Mortgage Securities,    July 29, 2004, as          2004-7
+Inc., Bank of America, N.A. and Wells   amended by Amendment
+Fargo Bank, N.A.                        No. 1 thereto, dated
+                                        November 5, 2004
+
+Banc of America Mortgage Securities,    July 29, 2004           BoALT 2004-7
+Inc., Bank of America, N.A. and Wells
+Fargo Bank, N.A.
+
+Banc of America Mortgage Securities,    August 26, 2004            2004-H
+Inc., Bank of America, N.A. and Wells
+Fargo Bank, N.A.
+
+Banc of America Mortgage Securities,    August 26, 2004         BoALT 2004-8
+Inc., Bank of America, N.A. and Wells
+Fargo Bank, N.A.
+
+Banc of America Mortgage Securities,    September 28, 2004         2004-8
+Inc., Bank of America, N.A. and Wells
+Fargo Bank, N.A.
+
+Banc of America Mortgage Securities,    September 28, 2004         2004-I
+Inc., Bank of America, N.A. and Wells
+Fargo Bank, N.A.
+
+Banc of America Mortgage Securities,    September 28, 2004      BoALT 2004-9
+Inc., Bank of America, N.A. and Wells
+Fargo Bank, N.A.
+
+Banc of America Mortgage Securities,    October 28, 2004           2004-9
+Inc., Bank of America, N.A. and Wells
+Fargo Bank, N.A.
+
+Banc of America Mortgage Securities,    October 28, 2004        BoALT 2004-10
+Inc., Bank of America, N.A. and Wells
+Fargo Bank, N.A.
+
+<PAGE>
+
+
+
+
+  EX-99.3
+
+   Schedule of Year-To-Date Principal and Interest Distributions to
+   Certificateholders
+
+
+   <TABLE>
+
+   Class                              Interest             Principal               Losses             Ending Balance
+   <s>                       <c>                    <c>                  <c>                 <c>
+   15-B-1                            18,910.72             14,781.98                 0.00               1,022,218.03
+   15-B-2                             2,899.52              2,266.48                 0.00                 156,733.53
+   15-B-3                             2,917.76              2,280.72                 0.00                 157,719.27
+   15-B-4                             1,933.02              1,510.98                 0.00                 104,489.02
+   15-B-5                               966.50                755.50                 0.00                  52,244.51
+   15-B-6                             1,949.58              1,523.87                 0.00                 105,384.13
+   15-IO                             37,986.58                  0.00                 0.00               1,953,502.45
+   15-PO                                  0.00             34,247.02                 0.00                 442,266.98
+   1-CB-1                         2,163,044.07          4,881,786.92                 0.00             104,419,213.09
+   1-CB-R                                 0.71                100.00                 0.00                       0.00
+   2-CB-1                         2,003,155.75          5,203,835.50                 0.00              96,096,164.51
+   30-B-1                            88,459.46             16,165.28                 0.00               4,412,834.73
+   30-B-2                            39,805.75              7,274.19                 0.00               1,985,725.81
+   30-B-3                            22,129.84              4,044.07                 0.00               1,103,955.94
+   30-B-4                            22,109.87              4,040.40                 0.00               1,102,959.59
+   30-B-5                            13,281.91              2,427.17                 0.00                 662,572.84
+   30-B-6                            19,905.55              3,637.52                 0.00                 992,996.48
+   3-A-1                            911,943.71          3,999,914.41                 0.00              47,035,085.58
+   CB-IO                            245,023.80                  0.00                 0.00              11,725,537.62
+   X-PO                                   0.00             15,822.42                 0.00                 569,530.58
+   </TABLE>
+</TEXT>
+</DOCUMENT>

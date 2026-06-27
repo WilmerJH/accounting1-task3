@@ -1,0 +1,893 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>sdc113.txt
+<DESCRIPTION>10-K ANNUAL REPORT - EDISON CONTROL CORP
+<TEXT>
+--------------------------------------------------------------------------------
+                       SECURITIES AND EXCHANGE COMMISSION
+                              Washington, DC 20549
+
+                                    FORM 10-K
+
+[x]  ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+     ACT OF 1934 FOR THE FISCAL YEAR ENDED JANUARY 31, 2002
+                                       or
+[ ]  TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+     EXCHANGE ACT OF 1934 Commission
+                              File Number 0-14812
+
+                           EDISON CONTROL CORPORATION
+             (Exact name of registrant as specified in its charter)
+
+                              New Jersey 22-2716367
+                  (State or other jurisdiction of (IRS Employer
+               incorporation or organization) Identification No.)
+
+           777 Maritime Drive                              53074-0308
+               PO Box 308                                  (Zip Code)
+       Port Washington, Wisconsin
+(Address of principal executive offices)
+
+                  Registrant's telephone number, including area code:
+                                  262-268-6800
+           SECURITIES REGISTERED PURSUANT TO SECTION 12(b) OF THE ACT
+                                      None
+           SECURITIES REGISTERED PURSUANT TO SECTION 12(g) OF THE ACT
+                     Common stock, par value $.01 per share
+                                (Title of class)
+
+     Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days. [x] Yes [ ] No
+     Indicate by check mark if disclosure of delinquent filers pursuant to Item
+405 of Regulation S-K is not contained herein, and will not be contained, to the
+best of registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K. [X]
+     Aggregate market value of Edison Control Corporation common stock, held by
+non-affiliates as of March 31, 2002 was $3,033,343.
+     Indicate the number of shares outstanding of each of the issuer's classes
+of common stock as of March 31, 2002: 1,785,721, shares of common stock, par
+value $.01 per share.
+
+                       Documents Incorporated by Reference
+
+1.   Portions of Edison Control Corporation's 2001 Annual Report to Shareholders
+     are incorporated by reference into Parts I, II and IV of this Form 10-K.
+2.   Portions of Edison Control Corporation's Definitive Proxy Statement for the
+     Registrant's 2002 Annual Meeting to be held on June 20, 2002 are
+     incorporated by reference into Part III of this Form 10-K.
+
+--------------------------------------------------------------------------------
+
+<PAGE>
+
+                                     PART I
+
+                Special Note Regarding Forward-Looking Statements
+
+Certain matters discussed in this Annual Report on Form 10-K are
+"forward-looking statements" intended to qualify for the safe harbors from
+liability established by the Private Securities Litigation Reform Act of 1995.
+These forward-looking statements can generally be identified as such because the
+context of the statement will include words such as the Company "believes",
+"anticipates", "expects", or words of similar import. Similarly, statements that
+describe the Company's future plans, objectives or goals are also
+forward-looking statements. Such forward-looking statements are subject to
+certain risks and uncertainties, including, but not limited to, new product
+advancements by competition, significant changes in industry technology,
+economic or political conditions in the countries in which the Company does
+business, the continued availability of sources of supply, the availability and
+consummation of favorable acquisition opportunities, increasing competitive
+pressures on pricing and other contract terms and economic factors affecting the
+Company's security trading portfolio. These factors could cause actual results
+to differ materially from those anticipated as of the date of this report.
+Shareholders, potential investors and other readers are urged to consider these
+factors in evaluating the forward-looking statements and are cautioned not to
+place undue reliance on such forward-looking statements. The forward-looking
+statements included herein are only made as of the date of this report and the
+Company undertakes no obligation to publicly update such forward-looking
+statements to reflect subsequent events or circumstances.
+
+ITEM 1.  BUSINESS
+
+Edison Control Corporation (the "Company") was incorporated under the laws of
+the State of New Jersey on June 18, 1986 to succeed a limited partnership
+organized on October 31, 1979. Until June 21, 1996, the principal operating
+business was the design, development, manufacture and sale of electronic fault
+indicators. On June 21, 1996, the Company purchased, from unaffiliated persons,
+all of the issued and outstanding stock of Construction Forms, Inc.
+("ConForms"), CF Ultra Tech, Inc. ("Ultra Tech") and CF Gilco, Inc. ("Gilco")
+and all of the issued and outstanding units of another affiliate, JABCO, LLC. On
+October 31, 1996, the Company sold certain net assets of the electronic fault
+indicators business to the manager of that operation. On February 1, 1998, Ultra
+Tech and Gilco were merged into ConForms. On September 29, 2000, ConForms sold
+certain assets and the business of Gilco to another party. On November 1, 2001,
+ConForms acquired the remaining 50% of the outstanding common stock of South
+Houston Hose Company, Inc. ("South Houston Hose").
+
+The Company conducts its business through its divisions. ConForms, the Company's
+principal operating unit, designs, manufactures and distributes concrete pumping
+systems and accessories. Ultra Tech is engaged in the manufacturing and
+marketing of abrasion resistant piping systems. Abrasion resistant piping
+systems are used extensively in mining, pulp and paper mills, wastewater
+treatment plants and coal-fired electric utility plants, as well as in concrete
+pumping applications. South Houston Hose is engaged in the distribution of
+industrial hose and fittings.
+
+                                    CONFORMS
+
+Most of ConForms' manufacturing operations and all of its administrative
+functions are located at the Company's headquarters in Port Washington,
+Wisconsin, which is approximately 25 miles north of Milwaukee. ConForms also
+operates four branch warehouses for light manufacturing and distribution of its
+products. The warehouses are located in Gardena, California; Houston, Texas;
+Newport, Wales, United Kingdom; and Johor Bahru, Malaysia.
+
+ConForms produces a standardized line of concrete pumping components and
+accessories compatible with many different types of concrete pumps. This puts
+ConForms in a position to provide concrete pumpers and distributors with a
+complete, high quality line of components and accessories priced lower than if
+each
+
+                                       1
+<PAGE>
+
+component were purchased individually. ConForms believes that a pumping
+system designed as a package helps improve the reliability and output of the
+pump.
+
+In the 1970s, as concrete pumps became more reliable, available and acceptable
+in the United States as the most efficient method of placing concrete, ConForms
+worked closely with pump manufacturers and contractors to develop better
+engineered products for the rapidly changing industry. The Company believes that
+industry standards were largely established based on ConForms' designs.
+ConForms' objective was, and continues to be, to provide high quality components
+and a superior level of service to stay at the forefront of the concrete pumping
+market. As ConForms continued to grow by utilizing quality engineering, patent
+protection, tooling and fixtures, manufacturing methods and distribution, it
+became difficult for smaller manufacturers to match ConForms' total service
+level. The Company believes this strategy has allowed ConForms to increase its
+market share to over 50% of the North American market.
+
+ConForms manufactures concrete pumping systems and accessories for many
+applications, including use in residential construction, high-rise construction,
+airport and parking structures, and bridge and tunnel construction. In addition,
+ConForms' products are used extensively on mobile, truck-mounted concrete pumps
+equipped with articulating booms. Because of the inherent abrasiveness of
+concrete being conveyed under pressure, ConForms' products need to be replaced
+periodically and the end-user usually contacts ConForms or one of its
+distributors for high-quality, in-stock replacement components.
+
+ConForms manufactures over 7,000 finished products, although approximately 500
+products constitute approximately 80% of ConForms' sales. To its knowledge,
+ConForms is the only complete source of piping system components and accessories
+needed to pump and place concrete. ConForms' products include straight pipe
+sections in a variety of lengths, diameters, wall thicknesses, degrees of
+hardness, and fittings. In addition, ConForms' products include couplings,
+reducers, bends, elbows and valves in various sizes and styles. ConForms'
+product base also includes specially made rubber hose in a variety of sizes and
+configurations. ConForms' product line also includes equipment, which is
+tailor-made for particular applications, such as bridge-deck spreaders,
+krete-placers, hydraulic diversion discharge valves, and customized equipment
+used in tunnel construction.
+
+Marketing
+
+ConForms' products, which account for approximately 82% of the Company's sales,
+are marketed principally through its own sales personnel and distributors.
+Besides contact from sales personnel, ConForms also attempts to maintain a
+prominent level of market visibility through active membership in the American
+Concrete Pumping Association, exhibits at industry trade shows, direct mail
+publications to end users and conducting industry safety seminars. A majority of
+all orders are received over the telephone.
+
+Export sales accounted for approximately 18.3% of ConForms' business for the
+year ended January 31, 2002, compared to 20.6% in the prior year. International
+markets are expected to be an increasing part of the business in future years.
+
+Customers
+
+ConForms' customer base consists of pumper/dealers (organizations which run a
+concrete pumping operation but also act as dealers of concrete pumps and
+systems) (38.5%), dealers (23.5%), concrete pump manufacturers (15.5%), pumping
+contractors (14.5%) and various other businesses such as rental yards, general
+contractors, pool contractors, ready mix operations, mines, fireproofers and
+precast companies (8.0%).
+
+No customer exceeded 10% of the Company's consolidated net sales for the year
+ended January 31, 2002.
+
+Competition
+
+ConForms competes with a number of manufacturers in the concrete pumping
+components and accessories industry. However, the Company believes that this
+competition is very fragmented, with most competitors offering only a limited
+selection of concrete pumping components and mainly selling against ConForms on
+
+                                       2
+<PAGE>
+
+price. ConForms competes by providing a complete line of products, quality,
+first class service and engineering assistance. Moreover, the Company believes
+that ConForms' patents, manufacturing methods and inventory stocking strategy
+provide it with a competitive advantage. Pump manufacturers also compete by
+actively promoting their internal wear parts and piping systems. Also, some
+customers develop their own in-house capability to produce some of the products.
+
+Miscellaneous Data
+
+ConForms' principal manufacturing operations include machining, welding,
+burning, bending, heat-treating, painting, sawing, hose coupling, assembly and
+fixture and tool making.
+
+Raw materials principally include steel pipe and tubing, rubber hose and
+castings. ConForms has long-term relationships with a select group of suppliers
+to control costs and ensure material quality and availability. ConForms does not
+have any written contractual agreements with any of its suppliers. If necessary,
+ConForms would be able to find other sources for raw material and supplies
+without a material delay or adverse effect on its business.
+
+The business typically has marginally lower sales volume in the fourth quarter;
+however, working capital requirements are not significantly impacted. Terms of
+sale are generally net 30 days.
+
+ConForms has several patents and trademarks; however, only one, the method of
+heat-treating pipe with a wall thickness of under .200 inches, is considered of
+significant importance to the Company.
+
+ConForms order backlogs on March 31, 2002 and 2001 were approximately $750,000
+and $1,135,000, respectively; all of which should be completed prior to the end
+of the current fiscal year.
+
+                                   ULTRA TECH
+
+Ultra Tech was formed in 1989 to help assure ConForms an in-house supply of high
+quality, induction-hardened pipe for its concrete pumping systems. The Company
+believes its induction-hardened pipe will typically last 3 to 8 or more times
+longer than non-hardened pipe. Since its formation, Ultra Tech has attempted to
+establish its own identity in many other markets, primarily throughout the
+United States, including the mining industry to carry phosphate and coal
+slurries, the pulp and paper industry to carry various slurry mixes, the power
+industry to convey fly ash and coal and the waste treatment industry to convey
+sludge.
+
+Ultra Tech has developed a line of hardened and overlay pipe products that are
+available in varying diameters, lengths and configurations which prolong the
+life of a piping system, regardless of particular wear characteristics found in
+the pumping system. The Company uses low alloy steel pipe, advanced
+heat-treating technology and metallurgical principles to produce both UT600 and
+UT500 induction-hardened pipe. Both of these products have a hard, abrasion
+resistant inner wall and a more ductile outer layer. For pure abrasion
+applications, UT600 provides outstanding wear resistance. UT600
+induction-hardened pipe is made from a raw steel pipe of a proprietary
+chemistry. The pipe is induction heated, then water quenched on the inner wall.
+In applications involving impact or shock loading, UT500 offers more ductility
+while maintaining a hard innerwear surface. For applications where abrasion from
+shear and erosion are extreme, UltraWeld Overlay is considered for superior wear
+resistance. The result is a surface possessing an excellent combination of high
+resistance to erosion, severe abrasion and moderate impact strength. Recently,
+Ultra Tech has broadened its line of abrasion resistant products to include
+ceramic, chrome carbide and basalt products.
+
+Marketing
+
+Ultra Tech products, which account for approximately 16% of the Company's net
+sales, are marketed through Company sales and marketing personnel and
+distributors. Ultra Tech advertises regularly in various trade journals.
+
+                                       3
+<PAGE>
+
+Ultra Tech's export sales for the year ended January 31, 2002 and 2001 accounted
+for approximately 12.9% and 22.5% of Ultra Tech's net sales, respectively.
+
+Customers
+
+The market for Ultra Tech's products is primarily resource-based industries such
+as mining, paper and energy. Ultra Tech's products are also used in processing
+industries such as dredging, foundries, steel, cement, sludge and grain
+handling. In addition, any pneumatic or hydraulic pipeline transporting solids
+is a potential customer for Ultra Tech.
+
+No customer exceeded 10% of the Company's consolidated net sales for the year
+ended January 31, 2002.
+
+Competition
+
+There are a number of competitors in the piping industry, including producers of
+mild steel, duplex steel, plastic pipe, rubber lined pipe, basalt lined pipe,
+ceramic lined pipe and cast alloy pipe. Ultra Tech is one of only two North
+American competitors that manufactures induction-hardened pipe. Ultra Tech
+relies on its efficient manufacturing processes, superior value, quality,
+variety of products and engineering assistance to compete.
+
+Miscellaneous Data
+
+Ultra Tech's principal manufacturing operations include machining, welding,
+burning, bending, heat-treating and sawing.
+
+Raw materials principally include steel pipe in lengths up to 50 feet and
+diameters from 2 1/2 to 40 inches. Ultra Tech does not have any written
+contractual agreements with any of its suppliers. Raw materials are readily
+available from various sources.
+
+Ultra Tech's business is not seasonal. Working capital requirements may be
+significant depending on the size of the order. Terms of sale are generally net
+30 days.
+
+Ultra Tech does not depend on patents and trademarks.
+
+Ultra Tech's order backlogs on March 31, 2002 and 2001 were approximately
+$720,000 and $340,000, respectively; all of which should be completed prior to
+the end of the current fiscal year.
+
+                               SOUTH HOUSTON HOSE
+
+South Houston Hose has been supplying its customers with industrial rubber hose
+and fittings since 1980. In December of 1985, ConForms acquired 50% ownership of
+South Houston Hose. This purchase led to South Houston Hose becoming ConForms'
+stocking distributor for the Texas region. In May of 1987, South Houston Hose
+purchased the assets of a company, which added hydraulic hose, flexible
+stainless steel hose and Teflon lined hose to its product line. On November 1,
+2001, ConForms purchased the remaining fifty percent of the common stock of
+South Houston Hose and became its sole owner. On February 1, 2002, South Houston
+Hose was merged into ConForms and now operates as a division of ConForms. South
+Houston Hose's mission is to continue to offer its customers the same dedicated
+service and outstanding commitment to quality that has made it one of the most
+competitive hose distributors in the Texas region.
+
+The strength of South Houston Hose is the ability to supply their customers with
+hose assemblies ranging from 1/2" PVC suction hose to 18" large bore oil suction
+and discharge hose and from 150 PSI red air hose to 20,000 PSI water-blast hose.
+Stainless steel hose assemblies are fabricated in-house and hydraulic hoses are
+assembled to order. A complete line of fittings, adaptors and hose accessories
+are stocked or sourced locally.
+
+                                       4
+<PAGE>
+
+Marketing
+
+South Houston Hose products, which account for approximately 2% of the Company's
+net sales, are principally marketed through Company sales personnel. Export
+sales are not a significant part of the business.
+
+Customers
+
+Equipment rental, water pump, construction, chemical, liquid hauling and oil
+well drilling companies are a sample of South Houston Hose's diverse customer
+base. No customer exceeded 10% of the Company's consolidated net sales for the
+year ended January 31, 2002.
+
+Competition
+
+There are numerous competitors in the industrial hose and fittings marketplace.
+South Houston Hose relies on service and competitive pricing to remain
+competitive in the marketplace.
+
+Miscellaneous Data
+
+South Houston Hose operates from a 16,500 sq. ft. office and warehouse in
+Houston, Texas. Principal manufacturing operations include assembly, welding and
+sawing. Raw materials are available from a variety of sources. South Houston
+Hose does not have any contractual agreements with its suppliers.
+
+The business is not seasonal and working capital requirements are not
+significantly impacted. Terms of sale are generally net 30 days.
+
+South Houston Hose does not depend on patents and trademarks.
+
+South Houston Hose's order backlog on March 31, 2002 was approximately $50,000;
+all of which should be completed prior to the end of the current fiscal year.
+
+                                 GENERAL MATTERS
+
+Research and development expenditures are a part of the engineering department's
+budget and are expensed as incurred. The estimated total amount spent on
+research and development during the years ended January 31, 2002, 2001 and 2000
+totaled approximately $207,000, $215,000 and $223,000, respectively.
+
+The Company believes that compliance with Federal, state and local environmental
+regulations will not require significant capital expenditures or materially
+affect future earnings in fiscal 2002.
+
+No portion of the business is subject to renegotiation of profits or termination
+of contracts at the election of the United States government.
+
+                                INDUSTRY SEGMENTS
+
+Information on industry segments is incorporated by reference to footnote 15 of
+the consolidated financial statements contained in the Company's 2001 Annual
+Report to Shareholders.
+
+                               FOREIGN OPERATIONS
+
+Information on foreign operations is incorporated by reference to footnote 14 of
+the consolidated financial statements contained in the Company's 2001 Annual
+Report to Shareholders.
+
+                                    EMPLOYEES
+
+As of January 31, 2002, the Company had 118 active full-time employees.
+
+                                       5
+<PAGE>
+
+
+ITEM 2.  PROPERTIES
+
+The following table sets forth certain information with respect to the Company's
+principal facilities as of January 31, 2002:
+
+                            Square Feet of
+Location                     Floor Space        Description and Principal Use
+--------                    --------------      -----------------------------
+
+Port Washington, WI (1)         95,000       One-story and partial mezzanine,
+                                             masonry and metal clad, steel frame
+                                             office and manufacturing facility
+                                             on 15 acres used mainly for
+                                             manufacturing of ConForms and Ultra
+                                             Tech products and headquarters for
+                                             all office personnel.
+
+Grafton, WI (1)                 42,000       One and part two-story, masonry and
+                                             metal clad, steel and wood framed
+                                             office and manufacturing facility
+                                             on 2.2 acres used mainly for
+                                             manufacturing ConForms and Ultra
+                                             Tech products.
+
+Gardena, CA (2)                 10,000       One-story office and manufacturing
+                                             facility used for the distribution
+                                             and light manufacturing of ConForms
+                                             products.
+
+Houston, TX (3)                 16,500       One-story office and manufacturing
+                                             facility used for the distribution
+                                             and light manufacturing of ConForms
+                                             products and South Houston Hose
+                                             industrial hose and fittings.
+
+Newport, Wales, United          17,500       One-story office and manufacturing
+Kingdom (4)                                  facility used for the distribution
+                                             and light manufacturing of ConForms
+                                             products.
+
+Johor Bahru, Malaysia (5)       10,000       One-story office and manufacturing
+                                             facility used for the distribution
+                                             and light manufacturing of ConForms
+                                             products.
+
+------------------
+(1)  The Company owns these facilities, all of which are mortgaged under debt
+     agreements.
+(2)  The Company leases this facility.  The lease expires November 30, 2003.
+(3)  The Company leases this facility.  The lease expires November 30, 2006.
+(4)  The Company leases this facility.  The lease expires July 6, 2010.
+(5)  The Company leases this facility.  The lease expires January 31, 2004.
+
+The Company believes that all of its facilities are in good condition and are
+adequate for their intended uses.
+
+ITEM 3.  LEGAL PROCEEDINGS
+
+The Company is party to routine legal proceedings, involving product liability
+and environmental matters, incidental to its business. There are currently no
+material legal proceedings pending to which the Company is a party nor were any
+material legal proceedings concluded during the fourth quarter of fiscal 2001.
+
+ITEM 4.  SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+No matters were submitted to a vote of security holders during the fourth
+quarter of fiscal 2001.
+
+                                        6
+<PAGE>
+
+                                     PART II
+
+ITEM 5.  MARKET FOR THE COMPANY'S STOCK AND RELATED STOCKHOLDER MATTERS
+
+The Company's Common Stock trades on OTC Bulletin Board under the symbol EDCO.
+The following table sets forth the high and low bid quotation for the fiscal
+quarter shown. The prices quoted represent prices between dealers in securities
+without adjustments for mark-ups, markdowns or commissions and do not
+necessarily reflect actual transactions.
+
+                                   Fiscal 2000
+                   Quarter             High               Low
+                   -------            ------            -------
+                     1st              10 3/8            7 1/2
+                     2nd               8 3/4            5 11/16
+                     3rd               9                5 3/8
+                     4th               9 5/8            3 7/8
+
+                                   Fiscal 2001
+                   Quarter             High               Low
+                   -------            ------            -------
+                     1st               6 1/8            3 1/4
+                     2nd               5 1/2            3 1/4
+                     3rd               5 2/5            4
+                     4th               8                4 3/4
+
+
+The approximate number of shareholders of record and beneficial shareholders of
+the Company's $.01 par value Common Stock as of January 31, 2002 were 30 and
+250, respectively.
+
+In November 2001, the Company announced that its Board of Directors had
+authorized the repurchase of up to 750,000 shares of its outstanding common
+stock. Repurchases are to be effected from time to time in the open market,
+pursuant to privately negotiated transactions or otherwise. The repurchased
+shares will be held in the Company's treasury pending potential future issuance
+in connection with employee stock option plans, potential future acquisitions or
+other general corporate purposes. The Company intends to fund its repurchases
+from its available cash resources, together with any potential liquidation of
+some or all of its securities investment portfolio and necessary borrowings
+under the Company's existing or new bank credit facilities. As of March 31,
+2002, Edison had repurchased 579,502 shares for $4,056,514.
+
+The Company has not previously paid any dividends on its Common Stock. The
+Company intends to follow a policy of retaining all of its earnings to finance
+its business and any future acquisitions.
+
+THE FOLLOWING INFORMATION FOR THIS PART II IS INCORPORATED BY REFERENCE TO THE
+COMPANY'S 2001 ANNUAL REPORT TO SHAREHOLDERS, AS FOLLOWS:
+
+                                                      INFORMATION INCORPORATED
+ITEM     CAPTION                                          BY REFERENCE TO:
+----     -------                                     --------------------------
+
+ 6.      SUMMARY OF SELECTED FINANCIAL DATA          Annual Report, page 7
+
+ 7.      MANAGEMENT'S DISCUSSION AND                 Annual Report, pages 2 - 6
+         ANALYSIS OF FINANCIAL CONDITION
+         AND RESULTS OF OPERATIONS
+
+ 7A.     QUANTITATIVE AND QUALITATIVE                Annual Report, page 5
+         DISCLOSURES ABOUT MARKET RISK
+
+ 8.      AUDITED FINANCIAL STATEMENTS AND            Annual Report, pages 8 - 31
+         SUPPLEMENTAL DATA
+
+                                       7
+<PAGE>
+
+ITEM  9.  CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+          FINANCIAL DISCLOSURE.
+
+Not applicable.
+
+                                    PART III
+
+ITEM 10.  DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+At March 31, 2002, the names and ages of all executive officers and directors of
+the Company and all positions and offices held with the Company are listed
+below. There are no family relationships between such persons. All officers are
+elected annually by the Board of Directors at the first Board meeting following
+each annual meeting of the shareholders. There are no agreements between any of
+the officers and any other person pursuant to election as an officer.
+
+                                                                First
+         Name                         Office                   Elected     Age
+         ----                         ------                   -------     ---
+
+William B. Finneran      Chairman of the Board and Director      1991       61
+
+John J. Delucca          Director                                1991       58
+
+Mary E. McCormack        Director                                1995       48
+
+Alan J. Kastelic         President and Chief Executive
+                         Officer of Edison Control
+                         Corporation and Director                1996       58
+
+Jay R. Hanamann          Secretary, Treasurer and Chief          1996       42
+                         Financial Officer
+
+Robert L. Cooney         Director                                1997       68
+
+William C. Scott         Director                                1997       67
+
+Norman Eig               Director                                1999       61
+
+William B. Finneran is a Managing Director of First Union Securities, an
+investment-banking firm. Prior to joining First Union in 1999, Mr. Finneran was
+a Managing Director at CIBC Oppenheimer Corp., an investment-banking firm, and
+had been employed with Oppenheimer since 1972. Mr. Finneran is a Director of
+National Planning Association, a non-profit advisory board. He serves on the
+Board of Operation Smile and Villanova University and is a former Board Member
+of Covenant House, a non-profit charitable institution. Mr. Finneran also
+currently serves on the Executive Committee of the New York Archdiocesan Patrons
+Program.
+
+John J. Delucca is Executive Vice President, Finance and Administration, and CFO
+of Coty, Inc., a cosmetics and fragrance company. Previously, Mr. Delucca served
+as Senior Vice President and Treasurer of RJR Nabisco from September 1993 to
+December 1998, Chief Financial Officer of the Hascoe Association, a private
+investment company from January 1991 to September 1993, President and Chief
+Financial Officer for The Lexington Group from October 1990 to January 1991,
+Senior Vice President of Finance and Managing Director of the Trump Group from
+May 1988 to October 1990, and Senior Vice President of Finance for International
+Controls Corporation from April 1986 to May 1988. In addition, Mr. Delucca is a
+director of Enzo Biochem, Inc., a genetic research/testing company and Elliot
+Company, a manufacturer of turbines and related equipment.
+
+Mary E. McCormack is Director of Acquisitions of McCann-Erickson Worldwide.
+Prior to joining McCann, she was Director of Acquisitions of The Hertz
+Corporation. She was President and Chief Executive Officer of Edison Control
+Corporation from February 1995 to February 1998. Prior to working
+
+
+                                       8
+<PAGE>
+
+with the Company, Ms. McCormack was a Managing Director of Beechtree Capital
+Partners, Inc., a boutique merchant-banking firm, which she co-founded in 1989.
+From 1983 to 1989, she served in a variety of capacities for the investment
+banking and brokerage firm of Advest, Inc., most recently as Vice
+President-Corporate Finance. Ms. McCormack is a Director of Star International
+Holdings, Inc., a manufacturer of commercial cooking appliances.
+
+Alan J. Kastelic was appointed President and Chief Executive Officer of Edison
+Control Corporation in June 1998 and President and Chief Executive Officer of
+Construction Forms, Inc. in June 1996 when the Company acquired Construction
+Forms, Inc. Mr. Kastelic had previously been Executive Vice President and Chief
+Operating Officer of Construction Forms, Inc., which he joined in 1977. Prior to
+joining Construction Forms, Mr. Kastelic was Manufacturing Manager at Badger
+Dynamics and Chief Cost Accountant, Material Control Manager and Manager of
+Manufacturing at the PCM division of Koehring Corporation.
+
+Jay R. Hanamann was appointed Treasurer and Chief Financial Officer on July 1,
+1996. Mr. Hanamann is the Chief Financial Officer of Construction Forms, Inc. He
+has served in various financial and management functions with ConForms since
+July 1990. From 1981 to 1990 he was employed by the international accounting
+firm of Deloitte & Touche LLP.
+
+Robert L. Cooney is a Partner of Cooney, Schroeder & Co., a consulting firm
+which he co-founded in February 1997. Mr. Cooney was a Managing Director-Equity
+Capital Markets at Credit Suisse First Boston from 1977 to January 1997. Mr.
+Cooney also serves as a director of Hoenig Group Inc., a Nasdaq-listed global
+securities brokerage firm located in Rye Brook, New York and Equity One, Inc., a
+NYSE-listed real estate investment trust located in Miami, Florida.
+
+William C. Scott was the Chairman and Chief Executive Officer of Panavision Inc.
+from 1988 to 1999, the leading designer and manufacturer of high-precision film
+camera systems for the motion picture and television industries. From 1972 until
+1987, Mr. Scott was President and Chief Operating Officer of Western Pacific
+Industries Inc., a manufacturer of industrial products. Prior to 1972 Mr. Scott
+was a Group Vice President of Cordura Corporation (a business information
+company) for three years and Vice President of Booz, Allen & Hamilton (a
+management-consulting firm) for five years. He is currently a director of Audio
+Visual Services Corporation and Vari-Lite, Inc.
+
+Norman Eig is Vice-Chairman of Lazard LLC and has over 33 years of investment
+experience. Prior to joining Lazard in 1982, Mr. Eig served as a General Partner
+of Oppenheimer & Company and as a Managing Director of Oppenheimer Capital Corp.
+Mr. Eig has a M.B.A. from Columbia University Graduate School of Business and a
+B.S. from Ohio State University.
+
+Certain other information is incorporated by reference to "Election of
+Directors" and "Executive Compensation-Section 16(a) Beneficial Ownership
+Reporting Compliance" in the Company's Proxy Statement for its 2002 Annual
+Meeting of Shareholders.
+
+ITEM 11. EXECUTIVE COMPENSATION
+
+All information is incorporated by reference to "Executive Compensation" in the
+Company's Proxy Statement for its 2002 Annual Meeting of Shareholders.
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+All information is incorporated by reference to "Share Ownership of Directors,
+Officers and Certain Beneficial Owners" in the Company's Proxy Statement for its
+2002 Annual Meeting of Shareholders.
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+All information is incorporated by reference to "General-Certain Transactions"
+in the Company's Proxy Statement for its 2002 Annual Meeting of Shareholders.
+
+                                       9
+<PAGE>
+
+
+                                     PART IV
+
+ITEM 14.  EXHIBITS, FINANCIAL STATEMENT SCHEDULES, AND REPORTS ON FORM 8-K
+
+(a)(1)  Financial Statements:
+
+The consolidated financial statements of the Company, together with the report
+thereon of Deloitte & Touche, LLP appear on pages 8 through 31 of the Company's
+2001 Annual Report to Shareholders, and are incorporated herein by reference.
+
+(a)(2)  Financial Statement Schedules:
+
+Schedules not included have been omitted because they are either not applicable
+or the information is presented in the consolidated financial statements or
+notes thereto.
+
+(b)  Reports on Form 8-K:
+
+On November 7, 2001, the Company issued a Form 8-K announcing that its Board of
+Directors had authorized the repurchase of up to 750,000 shares of its
+outstanding common stock. There were no other reports on Form 8-K filed during
+the fourth quarter.
+
+(c)      Exhibits:
+
+The Exhibits filed or incorporated by reference herein are as specified in the
+Exhibit Index.
+
+
+                                       10
+<PAGE>
+
+
+                                   SIGNATURES
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange
+Act of 1934, the Company has duly caused this report to be signed on its behalf
+by the undersigned, thereunto duly authorized.
+
+By: /s/ Alan J. Kastelic
+   ----------------------------------------
+    Alan J. Kastelic
+    President and Chief Executive Officer (Principal Executive Officer)
+    April 19, 2002
+
+By: /s/ Jay R. Hanamann
+   ----------------------------------------
+    Jay R. Hanamann
+    Secretary, Treasurer and Chief Financial Officer
+    (Principal Financial and Accounting Officer)
+    April 19, 2002
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this Form
+10-K has been signed below by the following persons on behalf of Edison Control
+Corporation and in the capacities and on the dates indicated:
+
+/s/  William B. Finneran
+----------------------------------------
+William B. Finneran
+Chairman of the Board and Director
+April 19, 2002
+
+/s/  Mary E. McCormack
+----------------------------------------
+Mary E. McCormack
+Director
+April 19, 2002
+
+/s/  Norman Eig
+----------------------------------------
+Norman Eig
+Director
+April 19, 2002
+
+/s/  John J. Delucca
+----------------------------------------
+John J. Delucca
+Director
+April 19, 2002
+
+/s/  Alan J. Kastelic
+----------------------------------------
+Alan J. Kastelic
+Director, President and Chief Executive Officer
+April 19, 2002
+
+/s/  Robert L. Cooney
+----------------------------------------
+Robert L. Cooney
+Director
+April 19, 2002
+
+/s/  William C. Scott
+----------------------------------------
+William C. Scott
+Director
+April 19, 2002
+
+
+                                       11
+<PAGE>
+
+
+                                 EXHIBIT INDEX
+                                 -------------
+
+
+Exhibit No.       Description
+-----------       -----------
+
+   3.1            Certificate of Incorporation (incorporated by reference to the
+                  Company's Form 10-Q for the quarter ended July 31, 1998).
+
+   3.2            By-laws of the Company (incorporated by reference to the
+                  Company's Registration Statements on Form S-18 (File No.
+                  33-6736-NY) filed on June 24, 1986).
+
+   4.1            Master Credit Agreement dated June 21, 1996 between
+                  Construction Forms, Inc., CF Ultra Tech, Inc., CF Gilco, Inc.,
+                  and LaSalle National Bank (incorporated by reference to the
+                  Company's Form 8-K dated July 8, 1996).
+
+   4.2            Loan Agreement dated June 21, 1996 between Construction Forms,
+                  Inc., CF Ultra Tech, Inc., CF Gilco, Inc., and Bank Audi USA
+                  (incorporated by reference to the Company's Form 8-K dated
+                  July 8, 1996).
+
+   10.1     *     1986 Stock Option Plan of Company (incorporated by reference
+                  to the Company's Registration Statement on Form S-18 (File No.
+                  33-6736-NY) filed June 24, 1986).
+
+   10.2     *     Stock Warrant issued to William Finneran (incorporated by
+                  reference to the Company's 1997 Proxy Statement Exhibit 2).
+
+   10.3     *     Edison Control Corporation 1999 Equity Incentive Plan
+                  (incorporated by reference to the Company's 1999 Proxy
+                  Statement Appendix A).
+
+   10.4           Stock and Unit Purchase Agreement dated June 21, 1996 by and
+                  among Registrant, Construction Forms Acquisition Inc. and the
+                  Shareholders of Construction Forms, Inc., CF Gilco, Inc., and
+                  JABCO, LLC (incorporated by reference to Form 8-K dated July
+                  8, 1996).
+
+   10.5     *     Employment Agreement dated June 21, 1996 between the Company
+                  and Alan J. Kastelic (incorporated by reference to the
+                  Company's Form 10-K dated April 25, 1997).
+
+   10.6     *     Employment Agreement dated June 21, 1996 between the Company
+                  and Jay R. Hanamann (incorporated by reference to the
+                  Company's Form 10-K dated April 25, 1997).
+
+   10.7     *     Stock Option Plan dated June 21, 1996 between the Company
+                  and Alan J. Kastelic (incorporated by reference to the
+                  Company's Form 10-K dated April 25, 1997).
+
+   10.8     *     Stock Option Plan dated June 21, 1996 between the Company
+                  and Jay R. Hanamann (incorporated by reference to the
+                  Company's Form 10-K dated April 25, 1997).
+
+   10.9     *     Nonqualified Stock Option Agreement dated May 29, 1997,
+                  between the Company and Robert Cooney (incorporated by
+                  reference to the Company's Registration Statement on Form S-8
+                  (File No. 333-41483) filed December 4, 1997).
+
+   10.10    *     Nonqualified Stock Option Agreement dated October 15, 1997,
+                  between the Company and William Scott (incorporated by
+                  reference to the Company's Registration Statement on Form S-8
+                  (File No. 333-41483) filed December 4, 1997).
+
+   13             Pages from 2001 Annual Report to shareholders, which are
+                  incorporated by reference to Form 10-K.
+
+                                       12
+<PAGE>
+
+   21             Subsidiaries of Edison Control Corporation.
+
+   23             Consent of Independent Auditors.
+
+   99             Definitive Proxy Statement for 2002 Annual Meeting of
+                  Shareholders (to be filed within 120 days of January 31,
+                  2002).
+
+
+*    Represents a management compensation plan.
+
+
+
+                                       13
+
+</TEXT>
+</DOCUMENT>

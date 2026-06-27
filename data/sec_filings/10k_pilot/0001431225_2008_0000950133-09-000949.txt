@@ -1,0 +1,1273 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>w7224406e10vk.htm
+<DESCRIPTION>10-K
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>e10vk</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt">ANNUAL
+REPORT PURSUANT TO SECTION 13 OR 15(D)</DIV>
+
+
+<DIV style="width: 100%; border-bottom: 2pt solid black; font-size: 1pt">&nbsp;</DIV>
+<DIV style="width: 100%; border-bottom: 1pt solid black; font-size: 1pt">&nbsp;</DIV>
+
+
+
+
+<DIV align="center" style="font-size: 14pt; margin-top: 12pt"><B>UNITED
+STATES SECURITIES AND EXCHANGE COMMISSION</B>
+</DIV>
+
+<DIV align="center" style="font-size: 12pt"><B>Washington, DC 20549</B>
+</DIV>
+
+
+<DIV align="Center" style="font-size: 10pt; margin-top: 6pt"><DIV align="center"><DIV style="font-size: 3pt; margin-top: 6pt; width: 26%; border-bottom: 1px solid #000000">&nbsp;</DIV></DIV>
+
+</DIV>
+<DIV align="center" style="font-size: 18pt; margin-top: 6pt"><B>FORM 10-K</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt"><B>(Mark One)</B>
+
+</DIV>
+<DIV align="center">
+<TABLE cellspacing="0" border="0" cellpadding="0" width="100%" style="font-size: 12pt">
+<TR style="font-size: 6pt">
+    <TD width="7%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="88%">&nbsp;</TD>
+</TR>
+<TR valign="top">
+    <TD align="center"><FONT face="Wingdings">&#254;</FONT></TD>
+    <TD>&nbsp;</TD>
+    <TD><B>Annual report pursuant to Section&nbsp;13 or 15(d) of the Securities
+Exchange Act of 1934</B></TD>
+</TR>
+</TABLE>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 12%"><B><B>For
+the fiscal year ended December&nbsp;31, 2008 or</B>
+</B>
+</DIV>
+
+<DIV align="center">
+<TABLE cellspacing="0" border="0" cellpadding="0" width="100%" style="font-size: 12pt">
+<TR style="font-size: 6pt">
+    <TD width="7%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="88%">&nbsp;</TD>
+</TR>
+<TR valign="top">
+    <TD align="center"><FONT face="Wingdings">&#111;</FONT></TD>
+    <TD>&nbsp;</TD>
+    <TD><B>Transition report pursuant to Section&nbsp;13 or 15(d) of the Securities
+Exchange Act of 1934</B></TD>
+</TR>
+</TABLE>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 12%"><B><B>For the transition period from <U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U> to </B><U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U>
+</B>
+</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt"><B>Commission
+File Number of issuing entity: 333-141930-10</B></DIV>
+
+<DIV align="center" style="font-size: 24pt; margin-top: 12pt"><B>SLM
+STUDENT LOAN TRUST 2008-6</B></DIV>
+<DIV align="center" style="font-size: 10pt">(Exact name of issuing
+entity as specified in its charter)</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt"><B>Commission
+File Number of depositor: 333-141930</B></DIV>
+
+<DIV align="center" style="font-size: 24pt; margin-top: 12pt"><B>SLM FUNDING LLC</B>
+</DIV>
+<DIV align="center" style="font-size: 10pt">(Exact name of depositor as specified in its charter)</DIV>
+
+<DIV align="center" style="font-size: 24pt; margin-top: 12pt"><B>SALLIE
+MAE, INC.</B>
+</DIV>
+ <DIV align="center" style="font-size: 10pt">
+(Exact name of sponsor as specified in its charter)
+</DIV>
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="31%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="31%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="31%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="center" valign="bottom"><B>DELAWARE</B><BR>
+(State or other Jurisdiction of Incorporation)
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="bottom">&nbsp;<BR>
+&nbsp;
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><B>61-1466416<BR>
+04-3480392<BR>
+54-1843973</B><BR>
+(I.R.S. Employer Identification Nos.)</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+<DIV align="Center" style="font-size: 10pt; margin-top: 6pt"><B>c/o
+The Bank of New York Mellon<BR>
+Trust Company, National Association<BR>
+10161 Centurion Parkway<BR>
+Jacksonville, Florida 32256</B><BR>
+(Address of principal executive offices of issuing entity)
+</DIV>
+
+<DIV align="Center" style="font-size: 10pt; margin-top: 6pt"><B>(703)&nbsp;984-6419</B><BR>
+Registrant&#146;s telephone number, including area code
+
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Securities registered pursuant to Section 12(b) of the Act: None
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Securities registered pursuant to Section 12(g) of the Act: None
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Indicate by check mark if registrant is a well-known seasoned issuer, as defined in Rule&nbsp;405
+of the Securities Act. Yes <FONT face="Wingdings">&#111;</FONT> No <FONT face="Wingdings">&#254;</FONT>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Indicate by check mark if registrant is not required to file reports pursuant to Section&nbsp;13 or
+15(d) of the Act. Yes <FONT face="Wingdings">&#111;</FONT> No <FONT face="Wingdings">&#254;</FONT>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Indicate by check mark whether the registrant: (1)&nbsp;has filed all reports required to be filed
+by Section&nbsp;13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12&nbsp;months (or
+for such shorter period that the registrant was required to file such reports), and (2)&nbsp;has been
+subject to such filing requirements for the past 90&nbsp;days. Yes <FONT face="Wingdings">&#254;</FONT> No <FONT face="Wingdings">&#111;</FONT>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Indicate by check mark if disclosure of delinquent filers pursuant to Item&nbsp;405 of Regulation&nbsp;S-K
+(&#167;229.405 of this chapter) is not contained herein, and will not be contained, to the best of
+registrant&#146;s knowledge, in definitive proxy or information statements incorporated by reference in
+Part&nbsp;III of this Form 10-K or any amendment to this Form 10-K. <FONT face="Wingdings">&#111;</FONT>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Indicate by check mark whether the registrant is a large accelerated filer, an accelerated
+
+filer, or a non-accelerated filer. See definition of &#147;accelerated filer and large accelerated
+filer&#148; in Rule&nbsp;12b-2 of the Exchange Act.
+</DIV>
+
+<TABLE border="0" width="100%" align="center" cellpadding="0" cellspacing="0" style="font-size: 10pt; font-family: 'Times New Roman', Times; color: #000000; background: #FFFFFF">
+<!-- Table Width Row BEGIN -->
+<TR style="font-size: 1pt" valign="bottom">
+    <TD width="23%">&nbsp;</TD>         <!-- colindex=01 type=maindata -->
+    <TD width="2%">&nbsp;</TD>  <!-- colindex=02 type=gutter -->
+    <TD width="14%">&nbsp;</TD>         <!-- colindex=02 type=maindata -->
+    <TD width="2%">&nbsp;</TD>  <!-- colindex=03 type=gutter -->
+    <TD width="35%">&nbsp;</TD>         <!-- colindex=03 type=maindata -->
+    <TD width="2%">&nbsp;</TD>  <!-- colindex=04 type=gutter -->
+    <TD width="22%">&nbsp;</TD>         <!-- colindex=04 type=maindata -->
+</TR>
+<!-- Table Width Row END -->
+<TR valign="bottom">
+<TD align="center" valign="top">
+<DIV style="text-indent: -10pt; margin-left: 10pt">
+    Large Accelerated
+    Filer&#160;<FONT style="font-family: Wingdings; font-variant: normal">&#111;
+    </FONT>
+</DIV>
+</TD>
+<TD>
+&nbsp;
+</TD>
+<TD nowrap align="center" valign="top">
+    Accelerated
+    Filer&#160;<FONT style="font-family: Wingdings; font-variant: normal">&#111;
+    </FONT>
+</TD>
+<TD>
+&nbsp;
+</TD>
+<TD align="center" valign="top">
+    Non-Accelerated
+
+Filer&#160;<FONT style="font-family: Wingdings; font-variant: normal">&#254;</FONT><BR>
+    (Do not check if a smaller reporting company)
+</TD>
+<TD>
+&nbsp;
+</TD>
+<TD align="center" valign="top">
+    Smaller Reporting
+
+Company&#160;<FONT style="font-family: Wingdings; font-variant: normal">&#111;</FONT>
+</TD>
+</TR>
+</TABLE>
+
+
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Indicate
+by check mark whether the registrant is a shell company (as defined in Rule&nbsp;12b-2 of
+the Exchange Act). Yes <FONT face="Wingdings">&#111;</FONT> No <FONT face="Wingdings">&#254;</FONT>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;State the aggregate market value of the voting and non-voting common equity held by non-affiliates
+computed by reference to the price at which the common equity was last sold, or the average bid and
+asked price of such common equity, as of the last business day of the registrant&#146;s most recently
+completed second fiscal quarter.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not applicable.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Indicate by check mark whether the registrant has filed all documents and reports required to be filed by section 12, 13, or 15(d) of the Securities Exchange Act of 1934
+subsequent to the distribution of securities under a plan confirmed by a court.</div>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not applicable.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Indicate the number of shares outstanding of each of the registrant&#146;s class of common stock, as of
+the latest practicable date.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not applicable.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;List hereunder the following documents if incorporated by reference and the Part of the Form&nbsp;10-K
+(e.g. Part&nbsp;I, Part&nbsp;II, etc.) into which the document is incorporated: (1)&nbsp;Any annual report to
+security holders; (2)&nbsp;Any proxy or information statement; and (3)&nbsp;Any prospectus filed pursuant to
+Rule&nbsp;424(b) or (c)&nbsp;under the Securities Act of 1933. The listed documents should be clearly
+described for identification purposes (e.g. annual report to security holders for fiscal year ended
+December&nbsp;24, 1980).
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not
+applicable.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This Annual Report on Form 10-K (the &#147;Report&#148;) is filed with respect to SLM Student Loan Trust
+2008-6 (the &#147;Issuing Entity&#148;). Certain information requested by this Report is omitted pursuant to
+Regulation&nbsp;AB (17 CFR 229.1101) and SEC Releases 33-8518;
+34-50905; December&nbsp;24, 2004 (&#147;Regulation&nbsp;AB&#148;) and
+General Instruction J to Form 10-K.
+</DIV>
+
+<DIV style="width: 100%; border-bottom: 1pt solid black; margin-top: 10pt; font-size: 1pt">&nbsp;</DIV>
+<DIV style="width: 100%; border-bottom: 2pt solid black; font-size: 1pt">&nbsp;</DIV>
+
+
+
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+
+
+
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><B>PART I</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Item&nbsp;1. Business</B>
+</DIV>
+
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 42px">Omitted.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Item&nbsp;1A. Risk Factors</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 42px">Omitted.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Item&nbsp;1B.
+Unresolved Staff Comments</B>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 42px">Not
+Applicable.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Item&nbsp;2. Properties</B>
+</DIV>
+
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 42px">Omitted.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Item&nbsp;3. Legal Proceedings</B>
+</DIV>
+
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 42px">Omitted.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Item&nbsp;4. Submission of Matters to a Vote of Security Holders</B>
+</DIV>
+
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 42px">Omitted.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 16pt">
+The following is substitute information provided in accordance with General Instruction J to Form&nbsp;10-K:
+</DIV>
+
+
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 16pt"><B>Item&nbsp;1112(b)
+of Regulation AB. Significant Obligor Financial Information</B>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No
+single obligor represents more than 10% of the pool assets held by
+the Issuing Entity.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Items
+1114(b)(2) and 1115(b) of Regulation AB. Significant Enhancement
+Provider Financial Information</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No entity
+or group of affiliated entities provides external credit enhancement
+or other support with respect to payments on the notes issued by the
+Issuing Entity.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Item&nbsp;1117
+of Regulation AB. Legal Proceedings</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No legal
+proceedings are pending against the Issuing Entity, Sallie Mae, Inc., as the
+Sponsor, the Servicer and
+the Administrator, SLM Funding LLC, as the Depositor (the
+&#147;Depositor&#148;) and registrant under Registration Statement
+Number 333-141930 (the &#147;Registrant&#148;) or Deutsche Bank
+Trust Company Americas, as the Indenture Trustee, that are or
+would be material to the holders of the notes issued by the Issuing
+Entity.
+</DIV>
+
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->2<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><B>PART II</B>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt"><B>Item&nbsp;5. Market for Registrant&#146;s Common Equity, Related Stockholder Matters and Issuer Purchases of
+Equity Securities</B>
+</DIV>
+
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 42px">Omitted.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Item&nbsp;6. Selected Financial Data</B>
+</DIV>
+
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 42px">Omitted.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Item&nbsp;7. Management&#146;s Discussion and Analysis of Financial Condition and Results of Operation</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 42px">Omitted.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Item&nbsp;7A. Quantitative and Qualitative Disclosures about Market Risk</B>
+</DIV>
+
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 42px">Omitted.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Item&nbsp;8. Financial Statements and Supplementary Data</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 42px">Omitted.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Item&nbsp;9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure</B>
+</DIV>
+
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 42px">Omitted.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Item&nbsp;9A. Controls and Procedures</B>
+</DIV>
+
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 42px">Omitted.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Item&nbsp;9B. Other Information</B>
+</DIV>
+
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 42px">Nothing to report.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 16pt">
+The following is substitute information provided in accordance with General Instruction J to Form&nbsp;10-K:
+</DIV>
+
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 16pt"><B>Item&nbsp;1119
+of Regulation AB. Affiliations and Certain Relationships and Related Transactions</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuant
+to the Instruction to Item 1119 of Regulation AB, information required
+by Item 1119 has been omitted from this Report because substantially the same information related to affiliates of
+the Issuing Entity and certain relationships and related transactions is
+provided in the section titled &#147;The Sponsor, Servicer and Administrator&#148; of the base prospectus,
+previously filed with the SEC on June&#160;5, 2008 pursuant to Securities Act Rule&nbsp;424, file number
+333-141930.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Item&nbsp;1122
+of Regulation AB. Compliance with Applicable Servicing Criteria</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Sallie Mae, Inc., as the Servicer, Sallie Mae, Inc., as the Administrator and Deutsche Bank Trust Company Americas, as the Indenture Trustee (collectively,
+the &#147;Servicing Parties&#148;) have each been identified by the Depositor as parties participating in the servicing
+function with respect to the asset pool held by the Issuing Entity.
+Each of the Servicing Parties has completed a report on assessment of compliance with the servicing criteria applicable to it
+(each a &#147;Servicing Report&#148;), which Servicing Reports are attached as exhibits to this Form 10-K. Each of the
+Servicing Parties have provided an attestation report (each an &#147;Attestation Report&#148;) by one or more public accounting firms,
+which reports are also attached as exhibits to this Report. None of the Servicing Reports or Attestation Reports has
+identified any material instance of noncompliance with the servicing criteria as applicable to the respective Servicing Party.
+There have been no material instances of noncompliance
+with the servicing criteria for the period of
+this Report.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Item&nbsp;1123
+of Regulation AB. Servicer Compliance Statement</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A
+Servicer Compliance Statement for each of Sallie Mae, Inc., as
+Servicer and Sallie Mae, Inc., as
+Administrator, is included as an exhibit to this Report.
+</DIV>
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->3<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><B>PART III</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Item&nbsp;10.
+Directors, Executive Officers, and Corporate Governance</B>
+</DIV>
+
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 48px">Omitted.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Item&nbsp;11. Executive Compensation</B>
+</DIV>
+
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 48px">Omitted.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Item&nbsp;12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters</B>
+</DIV>
+
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 48px">Omitted.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Item&nbsp;13.
+Certain Relationships, Related Transactions, and Director Independence</B>
+</DIV>
+
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 48px">Omitted.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Item&nbsp;14.
+Principal Accountant Fees and Services</B>
+</DIV>
+
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 48px">Omitted.
+</DIV>
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->4<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><B>PART IV</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Item&nbsp;15.
+Exhibits and Financial Statement Schedules</B>
+</DIV>
+
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="2%" nowrap align="left">(a)</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>List of Documents Filed as Part of this Annual Report on Form&nbsp;10-K</TD>
+</TR>
+
+</TABLE>
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left">(1)</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Not applicable.</TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left">(2)</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Not applicable.</TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left">(3)</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>See Item&nbsp;15 (b) below.</TD>
+</TR>
+
+</TABLE>
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="2%" nowrap align="left">(b)</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Exhibits Required by Item&nbsp;601 of Regulation&nbsp;S-K</TD>
+</TR>
+
+</TABLE>
+</DIV>
+
+
+
+<DIV align="right">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="95%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="5%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="90%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="center" style="border-bottom: 1px solid #000000"><B>EXHIBIT</B></TD>
+    <TD style="border-bottom: 1px solid #000000">&nbsp;</TD>
+    <TD nowrap align="left" style="border-bottom: 1px solid #000000"><B>DESCRIPTION</B></TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom"><!-- Blank Space -->
+    <TD align="center" valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top"><DIV style="margin-left:0px; text-indent:-0px">4.1
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Indenture dated as of June 12,
+2008 among SLM Student Loan Trust 2008-6, The Bank of New York Mellon Trust
+Company, National Association and Deutsche Bank Trust Company Americas incorporated by
+reference from Exhibit 4.4 of the Current Report on Form 8-K of the
+registrant, as filed with the Commission on June 16, 2008.</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD align="center" valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top"><DIV style="margin-left:0px; text-indent:-0px">10.1
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Incorporated by reference as Exhibit 4.1</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD align="center" valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top"><DIV style="margin-left:0px; text-indent:-0px">31.1
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Rule&nbsp;13a-14(d)/15d-14(d) Certification. (Section&nbsp;302 Certification)</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD align="center" valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top"><DIV style="margin-left:0px; text-indent:-0px">33.1
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Report on Assessment of Compliance with Servicing Criteria concerning
+servicing activities of Sallie Mae, Inc., as Servicer, as of and for the year
+ended December&nbsp;31, 2008.</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD align="center" valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+<TD align="center" valign="top"><DIV style="margin-left:0px; text-indent:-0px">33.2
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Report on Assessment of Compliance with Servicing Criteria concerning
+servicing activities of Sallie Mae, Inc., as Administrator, as of and for the
+year ended December&nbsp;31, 2008.</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD align="center" valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+
+<TD align="center" valign="top"><DIV style="margin-left:0px; text-indent:-0px">33.3
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Report on Assessment of Compliance with Servicing Criteria concerning
+servicing activities of Deutsche Bank Trust Company Americas, as
+Indenture Trustee, as of and for the year ended December&nbsp;31, 2008.</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD align="center" valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD align="center" valign="top"><DIV style="margin-left:0px; text-indent:-0px">34.1
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Independent Accountants&#146; Attestation Report concerning servicing
+activities of Sallie Mae, Inc., as Servicer, as of and for the year ended
+December&nbsp;31, 2008.</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD align="center" valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+
+<TD align="center" valign="top"><DIV style="margin-left:0px; text-indent:-0px">34.2
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Independent Accountants&#146; Attestation Report concerning servicing
+activities of Sallie Mae, Inc., as Administrator, as of and for the year ended
+December&nbsp;31, 2008.</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD align="center" valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+
+<TD align="center" valign="top"><DIV style="margin-left:0px; text-indent:-0px">34.3
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Independent Accountants&#146; Attestation Report concerning servicing
+activities of Deutsche Bank Trust Company Americas, as Indenture
+Trustee, as of and for the year ended December&nbsp;31, 2008.</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD align="center" valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top"><DIV style="margin-left:0px; text-indent:-0px">35.1
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Statement of Compliance of Sallie Mae, Inc. under the Servicing
+Agreement for the year ended December&nbsp;31, 2008.</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD align="center" valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+
+
+<TR valign="bottom">
+    <TD align="center" valign="top"><DIV style="margin-left:0px; text-indent:-0px">35.2
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Statement of Compliance of Sallie Mae, Inc. under the Administration
+Agreement for the year ended December&nbsp;31, 2008.</TD>
+</TR>
+
+
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left">(c)</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Omitted.</TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR>
+ <TR><TD colspan="2">                                                       </TD></TR>
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+<TD colspan="4">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(d)&nbsp;&nbsp;&nbsp;&nbsp;<I>Reports
+on </I><I>Form 8-K</I><I>. </I>The Administrator, on behalf of the
+SLM Student Loan Trust 2008-6, filed two
+(2)&nbsp;Current Reports on Form 8-K with the SEC during the
+period covered by this Report. They
+are:</TD>
+</TR>
+ <TR><TD colspan="2">                                                        </TD></TR>
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR>
+ <TR><TD colspan="2">                                                       </TD></TR>
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>On June&nbsp;12, 2008, certain legal opinions in
+connection with the issuance by SLM Student Loan Trust 2008-6 of its
+Student Loan-Backed Notes.</TD>
+</TR>
+<TR><TD colspan="2">                                                        </TD></TR>
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR>
+ <TR><TD colspan="2">                                                       </TD></TR>
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>On June&nbsp;16, 2008, in connection with the closing of
+the issuance by SLM Student Loan Trust 2008-6 of its Student
+Loan-Backed Notes.</TD>
+</TR>
+<TR><TD colspan="2">                                                        </TD></TR>
+ <TR><TD colspan="2">                                                        </TD></TR>
+</TABLE>
+</DIV>
+
+
+
+
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->5<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><B>SIGNATURES</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuant to the requirements of Section&nbsp;13 or 15(d) of the Securities Exchange Act of 1934, as
+amended, the Registrant has duly caused this report to be signed, on its behalf
+by the undersigned hereunto duly authorized.
+</DIV>
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="45%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="35%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="15%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+ <TR><TD colspan="2">                                                       </TD></TR>
+<TR valign="bottom">
+    <TD valign="top">Dated: March&nbsp;30, 2009</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" valign="top" align="left">SLM FUNDING LLC,</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="5" valign="top" align="left" nowrap>the Depositor
+for itself as Registrant and on behalf
+of the SLM Student Loan Trust 2008-6</TD>
+</TR>
+ <TR><TD colspan="2">                                                        </TD></TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">By:
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">/s/ JONATHAN C. CLARK
+<DIV style="font-size: 1pt; border-top: 1px solid #000000">&nbsp;</DIV>
+Name: Jonathan C. Clark<br>
+Title: Executive Vice President and Treasurer<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Senior Securitization
+Officer)
+</td>
+    <Td>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->6<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><B>INDEX TO EXHIBITS</B>
+</DIV>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="5%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="85%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="center"><B>Exhibit</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="center" style="border-bottom: 1px solid #000000"><B>Number</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" style="border-bottom: 1px solid #000000"><B>Exhibit</B></TD>
+    <TD style="border-bottom: 1px solid #000000">&nbsp;</TD>
+    <TD style="border-bottom: 1px solid #000000">&nbsp;</TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom"><!-- Blank Space -->
+    <TD align="center" valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top"><DIV style="margin-left:0px; text-indent:-0px">4.1
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Indenture dated as of June 12,
+2008 among SLM Student Loan Trust 2008-6, The Bank of New York Mellon Trust
+Company, National Association and Deutsche Bank Trust Company Americas incorporated by
+reference from Exhibit 4.4 of the Current Report on Form 8-K of the
+registrant, as filed with the Commission on June 16, 2008.</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD align="center" valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top"><DIV style="margin-left:0px; text-indent:-0px">10.1
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Incorporated by reference as Exhibit 4.1</TD>
+</TR>
+
+<TR valign="bottom"><!-- Blank Space -->
+    <TD align="center" valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top"><DIV style="margin-left:0px; text-indent:-0px">31.1
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Rule&nbsp;13a-14(d)/15d-14(d) Certification. (Section&nbsp;302 Certification)</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD align="center" valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top"><DIV style="margin-left:0px; text-indent:-0px">33.1
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Report on Assessment of Compliance with Servicing Criteria concerning
+servicing activities of Sallie Mae, Inc., as Servicer, as of and for the year ended
+December&nbsp;31, 2008.</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD align="center" valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top"><DIV style="margin-left:0px; text-indent:-0px">33.2
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Report on Assessment of Compliance with Servicing Criteria concerning
+servicing activities of Sallie Mae, Inc., as Administrator, as of and for the year
+ended December&nbsp;31, 2008.</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD align="center" valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top"><DIV style="margin-left:0px; text-indent:-0px">33.3
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Report on Assessment of Compliance with Servicing Criteria concerning
+servicing activities of Deutsche Bank Trust Company Americas, as
+Indenture Trustee, as of and for the year ended December&nbsp;31, 2008.</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD align="center" valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top"><DIV style="margin-left:0px; text-indent:-0px">34.1
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Independent Accountants&#146; Attestation Report concerning servicing
+activities of Sallie Mae, Inc., as Servicer, as of and for the year ended December
+31, 2008.</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD align="center" valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top"><DIV style="margin-left:0px; text-indent:-0px">34.2
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Independent Accountants&#146; Attestation Report concerning servicing
+activities of Sallie Mae, Inc., as Administrator, as of and for the year ended
+December&nbsp;31, 2008.</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD align="center" valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top"><DIV style="margin-left:0px; text-indent:-0px">34.3
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Independent Accountants&#146; Attestation Report concerning servicing
+activities of Deutsche Bank Trust Company Americas, as Indenture Trustee,
+as of and for the year ended December&nbsp;31, 2008.</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD align="center" valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top"><DIV style="margin-left:0px; text-indent:-0px">35.1
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Statement of Compliance of Sallie Mae, Inc. under the Servicing Agreement
+for the year ended December&nbsp;31, 2008.</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD align="center" valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top"><DIV style="margin-left:0px; text-indent:-0px">35.2
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Statement of Compliance of Sallie Mae, Inc. under the Administration
+Agreement for the year ended December&nbsp;31, 2008.</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->7<!-- /Folio -->
+</DIV>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>

@@ -1,0 +1,522 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>group_05-04.htm
+<DESCRIPTION>ANNUAL REPORT
+<TEXT>
+
+<HTML>
+<HEAD>
+   <TITLE>group_05-04.htm - SC Financial Printing</TITLE>
+</HEAD>
+
+<BODY bgcolor="#ffffff">
+
+<A name="page_1"></A>
+<DIV>
+<P style="MARGIN: 0pc 0pc 0pt; mso-pagination: none"><FONT lang=EN-US style="FONT-SIZE: 12pt" face="Times New Roman"></FONT>&nbsp;</P>
+</DIV>
+<P style="MARGIN: 0pc 0pc 0pt"><FONT lang=EN-US style="FONT-SIZE: 12pt" face="Times New Roman"></FONT>&nbsp;</P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: center" align=center><FONT style="FONT-SIZE: 12pt" face="Times New Roman"><B><FONT style="FONT-SIZE: 10pt">UNITED STATES</FONT></B></FONT></P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: center" align=center><B><FONT lang=EN-US style="FONT-SIZE: 10pt" face="Times New Roman">SECURITIES AND EXCHANGE COMMISSION</FONT></B></P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: center" align=center><B><FONT lang=EN-US style="FONT-SIZE: 10pt" face="Times New Roman">WASHINGTON, D.C. 20549</FONT></B></P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: center" align=center><B><FONT lang=EN-US style="FONT-SIZE: 10pt" face="Times New Roman">FORM 10&#8209;K</FONT></B></P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: center" align=center><FONT lang=EN-US style="FONT-SIZE: 10pt" face="Times New Roman"></FONT>&nbsp;</P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: center" align=center><B><FONT lang=EN-US style="FONT-SIZE: 10pt" face="Times New Roman">ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE</FONT></B></P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: center" align=center><B><FONT lang=EN-US style="FONT-SIZE: 10pt" face="Times New Roman">SECURITIES EXCHANGE ACT OF 1934</FONT></B></P>
+<P style="MARGIN: 0pc 0pc 0pt"><FONT lang=EN-US style="FONT-SIZE: 10pt" face="Times New Roman"></FONT>&nbsp;</P>
+<P style="MARGIN: 0pc 0pc 0pt"><FONT lang=EN-US style="FONT-SIZE: 10pt" face="Times New Roman">(Mark One)</FONT></P>
+<P style="MARGIN: 0pc 0pc 0pt"><FONT lang=EN-US style="FONT-SIZE: 10pt" face="Times New Roman"></FONT>&nbsp;</P>
+<P style="MARGIN: 0pc 0pc 0pt 3pc; TEXT-INDENT: -3pc"><FONT lang=EN-US style="FONT-SIZE: 10pt" face="Times New Roman">[X]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES AND EXCHANGE ACT OF 1934</FONT></P>
+<P style="MARGIN: 0pc 0pc 0pt"><FONT lang=EN-US style="FONT-SIZE: 10pt" face="Times New Roman"></FONT>&nbsp;</P>
+<P style="MARGIN: 0pc 0pc 0pt"><FONT lang=EN-US style="FONT-SIZE: 10pt" face="Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For the fiscal year ended December 31, 2011</FONT></P>
+<P style="MARGIN: 0pc 0pc 0pt"><FONT lang=EN-US style="FONT-SIZE: 10pt" face="Times New Roman"></FONT>&nbsp;</P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: center" align=center><FONT lang=EN-US style="FONT-SIZE: 10pt" face="Times New Roman">or</FONT></P>
+<P style="MARGIN: 0pc 0pc 0pt"><FONT lang=EN-US style="FONT-SIZE: 10pt" face="Times New Roman"></FONT>&nbsp;</P>
+<P style="MARGIN: 0pc 0pc 0pt 3pc; TEXT-INDENT: -3pc"><FONT lang=EN-US style="FONT-SIZE: 10pt" face="Times New Roman">[&nbsp;&nbsp; ] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITES AND EXCHANGE ACT OF 1934</FONT></P>
+<P style="MARGIN: 0pc 0pc 0pt"><FONT lang=EN-US style="FONT-SIZE: 10pt" face="Times New Roman"></FONT>&nbsp;</P>
+<P style="MARGIN: 0pc 0pc 0pt"><FONT lang=EN-US style="FONT-SIZE: 10pt" face="Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For the transition period from ____ to ____</FONT></P>
+<P style="MARGIN: 0pc 0pc 0pt"><FONT lang=EN-US style="FONT-SIZE: 10pt" face="Times New Roman"></FONT>&nbsp;</P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: center" align=center><FONT lang=EN-US style="FONT-SIZE: 10pt" face="Times New Roman">Commission File Number 001-32013</FONT></P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: center" align=center><FONT lang=EN-US style="FONT-SIZE: 10pt" face="Times New Roman"></FONT>&nbsp;</P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: center" align=center><FONT lang=EN-US style="FONT-SIZE: 10pt" face="Times New Roman">STRUCTURED OBLIGATIONS CORPORATION,</FONT><U><FONT lang=EN-US style="FONT-SIZE: 10pt" face="Times New Roman"> </FONT></U></P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: center" align=center><FONT lang=EN-US style="FONT-SIZE: 10pt" face="Times New Roman">(Exact name of registrant as specified in its charter)</FONT></P>
+<P style="MARGIN: 0pc 0pc 0pt"><FONT lang=EN-US style="FONT-SIZE: 10pt" face="Times New Roman"></FONT>&nbsp;</P>
+<DIV align=center>
+<TABLE style="MARGIN-LEFT: 0pt; WIDTH: 521.25pt; BORDER-COLLAPSE: collapse" cellSpacing=0 cellPadding=0 border=0>
+<TR>
+     <TD style="PADDING-RIGHT: 0.45pc; PADDING-LEFT: 0.45pc; PADDING-BOTTOM: 0pc; PADDING-TOP: 0pc" vAlign=top width="41%">
+<P style="MARGIN: 0pc 0pc 0.25pc; TEXT-ALIGN: center" align=center><FONT style="FONT-SIZE: 10pt" face="Times New Roman">Delaware</FONT></P>
+</TD>
+     <TD style="PADDING-RIGHT: 0.45pc; PADDING-LEFT: 0.45pc; PADDING-BOTTOM: 0pc; PADDING-TOP: 0pc" vAlign=top width="16%">
+<P style="MARGIN: 0pc 0pc 0.25pc; TEXT-ALIGN: center" align=center><FONT style="FONT-SIZE: 10pt" face="Times New Roman"></FONT>&nbsp;</P>
+</TD>
+     <TD style="PADDING-RIGHT: 0.45pc; PADDING-LEFT: 0.45pc; PADDING-BOTTOM: 0pc; PADDING-TOP: 0pc" vAlign=top width="43%">
+<P style="MARGIN: 0pc 0pc 0.25pc; TEXT-ALIGN: center" align=center><FONT style="FONT-SIZE: 10pt" face="Times New Roman">13-3692801</FONT></P>
+</TD></TR>
+<TR>
+     <TD style="PADDING-RIGHT: 0.45pc; PADDING-LEFT: 0.45pc; PADDING-BOTTOM: 0pc; PADDING-TOP: 0pc" vAlign=top width="41%">
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: center" align=center><B><FONT style="FONT-SIZE: 10pt" face="Times New Roman">(</FONT></B><FONT style="FONT-SIZE: 10pt" face="Times New Roman">State or other jurisdiction of incorporation)</FONT></P>
+</TD>
+     <TD style="PADDING-RIGHT: 0.45pc; PADDING-LEFT: 0.45pc; PADDING-BOTTOM: 0pc; PADDING-TOP: 0pc" vAlign=top width="16%">
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: center" align=center><FONT style="FONT-SIZE: 10pt" face="Times New Roman"></FONT>&nbsp;</P>
+</TD>
+     <TD style="PADDING-RIGHT: 0.45pc; PADDING-LEFT: 0.45pc; PADDING-BOTTOM: 0pc; PADDING-TOP: 0pc" vAlign=top width="43%">
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: center" align=center><FONT style="FONT-SIZE: 10pt" face="Times New Roman">(I.R.S. employer identification no.)</FONT></P>
+</TD></TR>
+<TR>
+     <TD style="PADDING-RIGHT: 0.45pc; PADDING-LEFT: 0.45pc; PADDING-BOTTOM: 0pc; PADDING-TOP: 0pc" vAlign=top width="41%">
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: center" align=center><FONT style="FONT-SIZE: 10pt" face="Times New Roman"></FONT>&nbsp;</P>
+</TD>
+     <TD style="PADDING-RIGHT: 0.45pc; PADDING-LEFT: 0.45pc; PADDING-BOTTOM: 0pc; PADDING-TOP: 0pc" vAlign=top width="16%">
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: center" align=center><FONT style="FONT-SIZE: 10pt" face="Times New Roman"></FONT>&nbsp;</P>
+</TD>
+     <TD style="PADDING-RIGHT: 0.45pc; PADDING-LEFT: 0.45pc; PADDING-BOTTOM: 0pc; PADDING-TOP: 0pc" vAlign=top width="43%">
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: center" align=center><FONT style="FONT-SIZE: 10pt" face="Times New Roman"></FONT>&nbsp;</P>
+</TD></TR>
+<TR>
+     <TD style="PADDING-RIGHT: 0.45pc; PADDING-LEFT: 0.45pc; PADDING-BOTTOM: 0pc; PADDING-TOP: 0pc" vAlign=top width="41%">
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: center" align=center><FONT style="FONT-SIZE: 10pt" face="Times New Roman"></FONT>&nbsp;</P>
+</TD>
+     <TD style="PADDING-RIGHT: 0.45pc; PADDING-LEFT: 0.45pc; PADDING-BOTTOM: 0pc; PADDING-TOP: 0pc" vAlign=top width="16%">
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: center" align=center><FONT style="FONT-SIZE: 10pt" face="Times New Roman"></FONT>&nbsp;</P>
+</TD>
+     <TD style="PADDING-RIGHT: 0.45pc; PADDING-LEFT: 0.45pc; PADDING-BOTTOM: 0pc; PADDING-TOP: 0pc" vAlign=top width="43%">
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: center" align=center><FONT style="FONT-SIZE: 10pt" face="Times New Roman"></FONT>&nbsp;</P>
+</TD></TR>
+<TR>
+     <TD style="PADDING-RIGHT: 0.45pc; PADDING-LEFT: 0.45pc; PADDING-BOTTOM: 0pc; PADDING-TOP: 0pc" vAlign=top width="41%">
+<P style="MARGIN: 0pc 0pc 0.25pc; TEXT-ALIGN: center" align=center><FONT style="FONT-SIZE: 10pt" face="Times New Roman">270 Park Avenue, New York, New York </FONT></P>
+</TD>
+     <TD style="PADDING-RIGHT: 0.45pc; PADDING-LEFT: 0.45pc; PADDING-BOTTOM: 0pc; PADDING-TOP: 0pc" vAlign=top width="16%">
+<P style="MARGIN: 0pc 0pc 0.25pc; TEXT-ALIGN: center" align=center><FONT style="FONT-SIZE: 10pt" face="Times New Roman"></FONT>&nbsp;</P>
+</TD>
+     <TD style="PADDING-RIGHT: 0.45pc; PADDING-LEFT: 0.45pc; PADDING-BOTTOM: 0pc; PADDING-TOP: 0pc" vAlign=top width="43%">
+<P style="MARGIN: 0pc 0pc 0.25pc; TEXT-ALIGN: center" align=center><FONT style="FONT-SIZE: 10pt" face="Times New Roman">10013</FONT></P>
+</TD></TR>
+<TR>
+     <TD style="PADDING-RIGHT: 0.45pc; PADDING-LEFT: 0.45pc; PADDING-BOTTOM: 0pc; PADDING-TOP: 0pc" vAlign=top width="41%">
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: center" align=center><FONT style="FONT-SIZE: 10pt" face="Times New Roman">(Address of principal executive offices)</FONT></P>
+</TD>
+     <TD style="PADDING-RIGHT: 0.45pc; PADDING-LEFT: 0.45pc; PADDING-BOTTOM: 0pc; PADDING-TOP: 0pc" vAlign=top width="16%">
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: center" align=center><FONT style="FONT-SIZE: 10pt" face="Times New Roman"></FONT>&nbsp;</P>
+</TD>
+     <TD style="PADDING-RIGHT: 0.45pc; PADDING-LEFT: 0.45pc; PADDING-BOTTOM: 0pc; PADDING-TOP: 0pc" vAlign=top width="43%">
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: center" align=center><FONT style="FONT-SIZE: 10pt" face="Times New Roman">(Zip code)</FONT></P>
+</TD></TR></TABLE></DIV>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: center" align=center><FONT lang=EN-US style="FONT-SIZE: 10pt" face="Times New Roman"></FONT>&nbsp;</P>
+<P style="MARGIN: 0pc 0pc 0pt"><FONT lang=EN-US style="FONT-SIZE: 10pt" face="Times New Roman">Registrant's telephone number, including area code: (212) 270-2353</FONT></P>
+<P style="MARGIN: 0pc 0pc 0pt"><FONT lang=EN-US style="FONT-SIZE: 10pt" face="Times New Roman"></FONT>&nbsp;</P>
+<P style="MARGIN: 0pc 0pc 0pt"><FONT lang=EN-US style="FONT-SIZE: 10pt" face="Times New Roman">Securities registered pursuant to Section 12(b) of the Act:</FONT></P>
+<P style="MARGIN: 0pc 0pc 0pt"><FONT lang=EN-US style="FONT-SIZE: 10pt" face="Times New Roman"></FONT>&nbsp;</P>
+<DIV align=center>
+<TABLE style="WIDTH: 513pt; BORDER-COLLAPSE: collapse" cellSpacing=0 cellPadding=0 border=0>
+<TR>
+     <TD style="PADDING-RIGHT: 0.45pc; PADDING-LEFT: 0.45pc; PADDING-BOTTOM: 0pc; PADDING-TOP: 0pc" vAlign=top width="50%">
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: center" align=center><B><FONT style="FONT-SIZE: 10pt" face="Times New Roman">Title of Each Class</FONT></B></P>
+<P style="MARGIN: 0pc 0pc 0pt"><FONT style="FONT-SIZE: 10pt" face="Times New Roman"></FONT>&nbsp;</P>
+</TD>
+     <TD style="PADDING-RIGHT: 0.45pc; PADDING-LEFT: 0.45pc; PADDING-BOTTOM: 0pc; PADDING-TOP: 0pc" vAlign=top width="50%">
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: center" align=center><B><FONT style="FONT-SIZE: 10pt" face="Times New Roman">Name of Each Exchange on Which Registered</FONT></B></P>
+</TD></TR>
+<TR>
+     <TD style="PADDING-RIGHT: 0.45pc; PADDING-LEFT: 0.45pc; PADDING-BOTTOM: 0pc; PADDING-TOP: 0pc" vAlign=top width="50%">
+<P style="MARGIN: 0pc 0pc 0pt"><FONT style="FONT-SIZE: 10pt" face="Times New Roman">Select Notes Trust Long Term Certificates, Series 2003-3</FONT></P>
+<P style="MARGIN: 0pc 0pc 0pt"><FONT style="FONT-SIZE: 10pt" face="Times New Roman"></FONT>&nbsp;</P>
+</TD>
+     <TD style="PADDING-RIGHT: 0.45pc; PADDING-LEFT: 0.45pc; PADDING-BOTTOM: 0pc; PADDING-TOP: 0pc" vAlign=top align=center width="50%">
+<P style="MARGIN: 0pc 0pc 0pt 1.65pc" align=center><FONT style="FONT-SIZE: 10pt" face="Times New Roman">American Stock Exchange</FONT></P>
+</TD></TR></TABLE></DIV>
+<P style="MARGIN: 0pc 0pc 0pt"><FONT lang=EN-US style="FONT-SIZE: 10pt" face="Times New Roman">Securities registered pursuant to Section 12(g) of the Act:&nbsp;&nbsp; None</FONT></P>
+<P style="MARGIN: 0pc 0pc 0pt"><FONT lang=EN-US style="FONT-SIZE: 10pt" face="Times New Roman"></FONT>&nbsp;</P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: justify"><FONT lang=EN-US style="FONT-SIZE: 10pt" face="Times New Roman">Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act.</FONT></P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: justify"><FONT lang=EN-US style="FONT-SIZE: 10pt" face="Times New Roman"></FONT>&nbsp;</P>
+<DIV align=left>
+<TABLE style="MARGIN-LEFT: 175.5pt; WIDTH: 180pt; BORDER-COLLAPSE: collapse" cellSpacing=0 cellPadding=0 border=0>
+<TR>
+     <TD style="PADDING-RIGHT: 0.45pc; PADDING-LEFT: 0.45pc; PADDING-BOTTOM: 0pc; PADDING-TOP: 0pc" vAlign=top width="23%">
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: right" align=right><FONT style="FONT-SIZE: 10pt" face="CG Times">Yes </FONT></P>
+</TD>
+     <TD style="PADDING-RIGHT: 0.45pc; PADDING-LEFT: 0.45pc; PADDING-BOTTOM: 0pc; PADDING-TOP: 0pc" vAlign=top width="21%">
+<P style="MARGIN: 0pc 0pc 0pt"><FONT style="FONT-SIZE: 10pt" face="CG Times">__</FONT></P>
+</TD>
+     <TD style="PADDING-RIGHT: 0.45pc; PADDING-LEFT: 0.45pc; PADDING-BOTTOM: 0pc; PADDING-TOP: 0pc" vAlign=top width="14%">
+<P style="MARGIN: 0pc 0pc 0pt"><FONT style="FONT-SIZE: 10pt" face="CG Times"></FONT>&nbsp;</P>
+</TD>
+     <TD style="PADDING-RIGHT: 0.45pc; PADDING-LEFT: 0.45pc; PADDING-BOTTOM: 0pc; PADDING-TOP: 0pc" vAlign=top width="21%">
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: right" align=right><FONT style="FONT-SIZE: 10pt" face="CG Times">No</FONT></P>
+</TD>
+     <TD style="PADDING-RIGHT: 0.45pc; PADDING-LEFT: 0.45pc; PADDING-BOTTOM: 0pc; PADDING-TOP: 0pc" vAlign=top width="21%">
+<P style="MARGIN: 0pc 0pc 0pt"><U><FONT style="FONT-SIZE: 10pt" face="CG Times">X</FONT></U></P>
+</TD></TR></TABLE></DIV>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: justify"><FONT lang=EN-US style="FONT-SIZE: 10pt" face="Times New Roman"></FONT>&nbsp;</P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: justify"><FONT lang=EN-US style="FONT-SIZE: 10pt" face="Times New Roman">Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act.</FONT></P>
+<DIV align=left>
+<TABLE style="MARGIN-LEFT: 175.5pt; WIDTH: 180pt; BORDER-COLLAPSE: collapse" cellSpacing=0 cellPadding=0 border=0>
+<TR>
+     <TD style="PADDING-RIGHT: 0.45pc; PADDING-LEFT: 0.45pc; PADDING-BOTTOM: 0pc; PADDING-TOP: 0pc" vAlign=top width="23%">
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: right" align=right><FONT style="FONT-SIZE: 10pt" face="CG Times">Yes </FONT></P>
+</TD>
+     <TD style="PADDING-RIGHT: 0.45pc; PADDING-LEFT: 0.45pc; PADDING-BOTTOM: 0pc; PADDING-TOP: 0pc" vAlign=top width="21%">
+<P style="MARGIN: 0pc 0pc 0pt"><FONT style="FONT-SIZE: 10pt" face="CG Times">__</FONT></P>
+</TD>
+     <TD style="PADDING-RIGHT: 0.45pc; PADDING-LEFT: 0.45pc; PADDING-BOTTOM: 0pc; PADDING-TOP: 0pc" vAlign=top width="14%">
+<P style="MARGIN: 0pc 0pc 0pt"><FONT style="FONT-SIZE: 10pt" face="CG Times"></FONT>&nbsp;</P>
+</TD>
+     <TD style="PADDING-RIGHT: 0.45pc; PADDING-LEFT: 0.45pc; PADDING-BOTTOM: 0pc; PADDING-TOP: 0pc" vAlign=top width="21%">
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: right" align=right><FONT style="FONT-SIZE: 10pt" face="CG Times">No</FONT></P>
+</TD>
+     <TD style="PADDING-RIGHT: 0.45pc; PADDING-LEFT: 0.45pc; PADDING-BOTTOM: 0pc; PADDING-TOP: 0pc" vAlign=top width="21%">
+<P style="MARGIN: 0pc 0pc 0pt"><U><FONT style="FONT-SIZE: 10pt" face="CG Times">X</FONT></U></P>
+</TD></TR></TABLE></DIV>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: justify"><FONT lang=EN-US style="FONT-SIZE: 10pt" face="Times New Roman"></FONT>&nbsp;</P>
+<DIV>
+<P style="MARGIN: 0pc 0pc 0pt; mso-pagination: none"><FONT lang=EN-US style="FONT-SIZE: 12pt" face="Times New Roman"></FONT>&nbsp;</P>
+</DIV>
+<HR align=center width="100%" noShade SIZE=2>
+<DIV style="PAGE-BREAK-BEFORE: always"></DIV>
+<A name="page_2"></A>
+<DIV>
+<P style="MARGIN: 0pc 0pc 0pt; mso-pagination: none"><FONT lang=EN-US style="FONT-SIZE: 12pt" face="Times New Roman"></FONT>&nbsp;</P>
+</DIV>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: justify"><FONT lang=EN-US style="FONT-SIZE: 10pt" face="Times New Roman"></FONT>&nbsp;</P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: justify"><FONT lang=EN-US style="FONT-SIZE: 10pt" face="Times New Roman">Indicate by check mark whether the Registrant has (1) filed all reports required to be filed by section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the Registrant was required to have filed such reports) and (2) has been subject to such filing requirements for the past 90 days.&nbsp; </FONT></P>
+<DIV align=left>
+<TABLE style="MARGIN-LEFT: 175.5pt; WIDTH: 180pt" cellSpacing=0 cellPadding=0 border=0>
+<TR>
+     <TD style="PADDING-RIGHT: 0.45pc; PADDING-LEFT: 0.45pc; PADDING-BOTTOM: 0pc; PADDING-TOP: 0pc" vAlign=bottom width="23%">
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: right" align=right><FONT style="FONT-SIZE: 10pt" face="CG Times">Yes </FONT></P>
+</TD>
+     <TD style="PADDING-RIGHT: 0.45pc; PADDING-LEFT: 0.45pc; PADDING-BOTTOM: 0pc; PADDING-TOP: 0pc" vAlign=bottom width="21%">
+<P style="MARGIN: 0pc 0pc 0pt"><FONT style="FONT-SIZE: 10pt" face="CG Times">X<SUP>
+<A href="#_ftn1" name=_ftnref1></A></SUP></FONT>
+<A href="#_ftn1" name=_ftnref1><FONT style="VERTICAL-ALIGN: super"><FONT style="VERTICAL-ALIGN: super"><FONT style="FONT-SIZE: 10pt; LETTER-SPACING: 0pt" face="CG Times">[1]</FONT></FONT></FONT></A></P>
+</TD>
+     <TD style="PADDING-RIGHT: 0.45pc; PADDING-LEFT: 0.45pc; PADDING-BOTTOM: 0pc; PADDING-TOP: 0pc" vAlign=bottom width="14%">
+<P style="MARGIN: 0pc 0pc 0pt"><FONT style="FONT-SIZE: 10pt" face="CG Times"></FONT>&nbsp;</P>
+</TD>
+     <TD style="PADDING-RIGHT: 0.45pc; PADDING-LEFT: 0.45pc; PADDING-BOTTOM: 0pc; PADDING-TOP: 0pc" vAlign=bottom width="21%">
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: right" align=right><FONT style="FONT-SIZE: 10pt" face="CG Times">No</FONT></P>
+</TD>
+     <TD style="PADDING-RIGHT: 0.45pc; PADDING-LEFT: 0.45pc; PADDING-BOTTOM: 0pc; PADDING-TOP: 0pc" vAlign=bottom width="21%">
+<P style="MARGIN: 0pc 0pc 0pt"><FONT style="FONT-SIZE: 10pt; TEXT-DECORATION: none" face="CG Times"></FONT>&nbsp;</P>
+</TD></TR></TABLE></DIV>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: justify"><FONT lang=EN-US style="FONT-SIZE: 10pt" face="Times New Roman"></FONT>&nbsp;</P>
+<P style="MARGIN: 0pc 0pc 0pt; LINE-HEIGHT: 95%; TEXT-ALIGN: justify"><FONT style="LINE-HEIGHT: 95%" face="Times New Roman"><FONT lang=EN-US style="FONT-SIZE: 10pt" face="Times New Roman">Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Website, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T <FONT lang=EN-US style="FONT-SIZE: 10pt" face="Times New Roman">(&#167;232.405 of this chapter) </FONT>during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files). </FONT></FONT></P>
+<P style="MARGIN: 0pc 0pc 0pt; LINE-HEIGHT: 95%; TEXT-ALIGN: justify"><FONT style="LINE-HEIGHT: 95%" face="Times New Roman"><FONT lang=EN-US style="FONT-SIZE: 10pt" face="Times New Roman"></FONT></FONT>&nbsp;</P>
+<DIV align=left>
+<TABLE style="MARGIN-LEFT: 175.5pt; WIDTH: 180pt" cellSpacing=0 cellPadding=0 border=0>
+<TR>
+     <TD style="PADDING-RIGHT: 0.45pc; PADDING-LEFT: 0.45pc; PADDING-BOTTOM: 0pc; PADDING-TOP: 0pc" vAlign=top width="23%">
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: right" align=right><FONT style="FONT-SIZE: 10pt" face="CG Times">Yes </FONT></P>
+</TD>
+     <TD style="PADDING-RIGHT: 0.45pc; PADDING-LEFT: 0.45pc; PADDING-BOTTOM: 0pc; PADDING-TOP: 0pc" vAlign=top width="21%">
+<P style="MARGIN: 0pc 0pc 0pt"><U>&nbsp;&nbsp; </U><FONT style="FONT-SIZE: 10pt" face="CG Times"><U>X&nbsp;&nbsp; </U></FONT></P>
+</TD>
+     <TD style="PADDING-RIGHT: 0.45pc; PADDING-LEFT: 0.45pc; PADDING-BOTTOM: 0pc; PADDING-TOP: 0pc" vAlign=top width="14%">
+<P style="MARGIN: 0pc 0pc 0pt"><FONT style="FONT-SIZE: 10pt" face="CG Times"></FONT>&nbsp;</P>
+</TD>
+     <TD style="PADDING-RIGHT: 0.45pc; PADDING-LEFT: 0.45pc; PADDING-BOTTOM: 0pc; PADDING-TOP: 0pc" vAlign=top width="21%">
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: right" align=right><FONT style="FONT-SIZE: 10pt" face="CG Times">No</FONT></P>
+</TD>
+     <TD style="PADDING-RIGHT: 0.45pc; PADDING-LEFT: 0.45pc; PADDING-BOTTOM: 0pc; PADDING-TOP: 0pc" vAlign=top width="21%">
+<P style="MARGIN: 0pc 0pc 0pt"><U><FONT style="FONT-SIZE: 10pt" face="CG Times">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </FONT></U></P>
+</TD></TR></TABLE></DIV>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: justify"><FONT lang=EN-US style="FONT-SIZE: 10pt; LETTER-SPACING: 0pt; TEXT-DECORATION: none" face="Times New Roman" color=windowtext></FONT>&nbsp;</P>
+<P style="MARGIN: 0pc 0pc 0pt; LINE-HEIGHT: 95%; TEXT-ALIGN: right" align=right><FONT lang=EN-US style="FONT-SIZE: 10pt; LETTER-SPACING: 0pt; TEXT-DECORATION: none" face="Times New Roman" color=windowtext>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </FONT><FONT style="LINE-HEIGHT: 95%" face="Times New Roman"><FONT lang=EN-US style="FONT-SIZE: 10pt" face="Times New Roman">[Rule 405 of Regulation S-T is not applicable.]</FONT></FONT></P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: justify"><FONT lang=EN-US style="FONT-SIZE: 10pt; LETTER-SPACING: 0pt; TEXT-DECORATION: none" face="Times New Roman" color=windowtext></FONT>&nbsp;</P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: justify"><FONT lang=EN-US style="FONT-SIZE: 10pt; LETTER-SPACING: 0pt; TEXT-DECORATION: none" face="Times New Roman" color=windowtext>Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K <FONT color=#000000>(</FONT><FONT face=Courier color=#000000>&#167;</FONT><FONT color=#000000>229.405 of this chapter) </FONT>is not contained herein, and will not be contained, to the best of Registrant's knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form 10-K or any amendment to this Form 10-K. [ X]</FONT></P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: justify"><FONT lang=EN-US style="FONT-SIZE: 10pt" face="Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </FONT></P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: right"><FONT lang=EN-US style="FONT-SIZE: 10pt" face="Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Item 405 of Regulation S-K is not applicable.]</FONT></P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: justify"><FONT lang=EN-US style="FONT-SIZE: 10pt" face="Times New Roman"></FONT>&nbsp;</P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: justify"><FONT lang=EN-US style="FONT-SIZE: 10pt; LETTER-SPACING: 0pt; TEXT-DECORATION: none" face="Times New Roman" color=windowtext></FONT>&nbsp;</P>
+<P style="TEXT-JUSTIFY: inter-ideograph; MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: justify"><FONT lang=EN-US style="FONT-SIZE: 10pt; LETTER-SPACING: 0pt" face="Times New Roman" color=#000000>Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company.&nbsp; See definition of &#147;accelerated filer, large accelerated filer and smaller reporting company&#148; in Rule 12b-2 of the Exchange Act. (check one)</FONT></P>
+<P style="TEXT-JUSTIFY: inter-ideograph; MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: justify">&nbsp;</P>
+<P style="TEXT-JUSTIFY: inter-ideograph; MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: justify"><FONT lang=EN-US style="FONT-SIZE: 10pt; LETTER-SPACING: 0pt" face="Times New Roman" color=#000000>Large accelerated filer ____&nbsp; Accelerated filer ____&nbsp; Non-accelerated filer __X__&nbsp; Smaller reporting company ____</FONT></P>
+<P style="TEXT-JUSTIFY: inter-ideograph; MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: justify">&nbsp;</P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: justify"><FONT lang=EN-US style="FONT-SIZE: 10pt; LETTER-SPACING: 0pt; TEXT-DECORATION: none" face="Times New Roman" color=windowtext>Indicate by check mark whether the registrant is shell company (as defined in Rule 12b-2 of the Act).</FONT></P>
+<DIV align=left>
+<TABLE style="MARGIN-LEFT: 175.5pt; WIDTH: 180pt" cellSpacing=0 cellPadding=0 border=0>
+<TR>
+     <TD style="PADDING-RIGHT: 0.45pc; PADDING-LEFT: 0.45pc; PADDING-BOTTOM: 0pc; PADDING-TOP: 0pc" vAlign=top width="23%">
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: right" align=right><FONT style="FONT-SIZE: 10pt" face="CG Times">Yes </FONT></P>
+</TD>
+     <TD style="PADDING-RIGHT: 0.45pc; PADDING-LEFT: 0.45pc; PADDING-BOTTOM: 0pc; PADDING-TOP: 0pc" vAlign=top width="21%">
+<P style="MARGIN: 0pc 0pc 0pt"><FONT style="FONT-SIZE: 10pt" face="CG Times"></FONT>&nbsp;</P>
+</TD>
+     <TD style="PADDING-RIGHT: 0.45pc; PADDING-LEFT: 0.45pc; PADDING-BOTTOM: 0pc; PADDING-TOP: 0pc" vAlign=top width="14%">
+<P style="MARGIN: 0pc 0pc 0pt"><FONT style="FONT-SIZE: 10pt" face="CG Times"></FONT>&nbsp;</P>
+</TD>
+     <TD style="PADDING-RIGHT: 0.45pc; PADDING-LEFT: 0.45pc; PADDING-BOTTOM: 0pc; PADDING-TOP: 0pc" vAlign=top width="21%">
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: right" align=right><FONT style="FONT-SIZE: 10pt" face="CG Times">No</FONT></P>
+</TD>
+     <TD style="PADDING-RIGHT: 0.45pc; PADDING-LEFT: 0.45pc; PADDING-BOTTOM: 0pc; PADDING-TOP: 0pc" vAlign=top width="21%">
+<P style="MARGIN: 0pc 0pc 0pt"><FONT style="FONT-SIZE: 10pt" face="CG Times">X</FONT></P>
+</TD></TR></TABLE></DIV>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: justify"><FONT lang=EN-US style="FONT-SIZE: 10pt; LETTER-SPACING: 0pt; TEXT-DECORATION: none" face="Times New Roman" color=windowtext></FONT>&nbsp;</P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: justify"><FONT lang=EN-US style="FONT-SIZE: 10pt; LETTER-SPACING: 0pt; TEXT-DECORATION: none" face="Times New Roman" color=windowtext>State the aggregate market value of the voting and non-voting common equity held by non-affiliates computed by reference to the price at which the common equity was last sold, or the average bid and asked price of such common equity, as of the last business day of the registrant&#146;s most recently completed second fiscal quarter.</FONT></P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: justify"><FONT lang=EN-US style="FONT-SIZE: 10pt; LETTER-SPACING: 0pt; TEXT-DECORATION: none" face="Times New Roman" color=windowtext></FONT>&nbsp;</P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: justify"><FONT lang=EN-US style="FONT-SIZE: 10pt; LETTER-SPACING: 0pt; TEXT-DECORATION: none" face="Times New Roman" color=windowtext>As of the date of this report, all of the common stock of the Registrant is held by J. P. Morgan Securities Holdings Inc.</FONT></P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: justify"><FONT lang=EN-US style="FONT-SIZE: 10pt; LETTER-SPACING: 0pt; TEXT-DECORATION: none" face="Times New Roman" color=windowtext></FONT>&nbsp;</P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: justify"><FONT lang=EN-US style="FONT-SIZE: 10pt; LETTER-SPACING: 0pt; TEXT-DECORATION: none" face="Times New Roman" color=windowtext></FONT>&nbsp;</P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: justify"><FONT lang=EN-US style="FONT-SIZE: 10pt; LETTER-SPACING: 0pt; TEXT-DECORATION: none" face="Times New Roman" color=windowtext></FONT>&nbsp;</P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: justify"><FONT lang=EN-US style="FONT-SIZE: 10pt; LETTER-SPACING: 0pt; TEXT-DECORATION: none" face="Times New Roman" color=windowtext></FONT>&nbsp;</P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: justify"><FONT lang=EN-US style="FONT-SIZE: 10pt; LETTER-SPACING: 0pt; TEXT-DECORATION: none" face="Times New Roman" color=windowtext></FONT>&nbsp;</P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: justify"><FONT lang=EN-US style="FONT-SIZE: 10pt" face="Times New Roman"></FONT>&nbsp;</P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: center"><B><FONT lang=EN-US style="FONT-SIZE: 12pt" face="Times New Roman"><BR>
+</FONT></B>&nbsp;</P>
+<HR align=left width="33%" SIZE=1>
+<DIV id=ftn1><FONT lang=EN-US></FONT>
+<P style="MARGIN: 0pc 0pc 0pt"><FONT style="VERTICAL-ALIGN: super"><FONT lang=EN-US style="FONT-SIZE: 10pt; LETTER-SPACING: 0pt" face=Courier>&nbsp;</FONT><FONT style="VERTICAL-ALIGN: super"><FONT lang=EN-US style="FONT-SIZE: 10pt; LETTER-SPACING: 0pt" face=Courier>[1]</FONT></FONT></FONT><FONT lang=EN-US style="FONT-SIZE: 10pt" face=Courier> </FONT><FONT lang=EN-US style="FONT-SIZE: 10pt" face="Times New Roman">Pursuant to staff administrative positions established in the no-action letter </FONT><FONT lang=EN-US style="FONT-SIZE: 10pt" face="Times New Roman">Corporate Asset Backed Corporatio</FONT><FONT lang=EN-US style="FONT-SIZE: 10pt" face="Times New Roman">n (&#147;CABCO&#148;) (available August 9, 1995), the Depositor is not required to respond to various items of Form 10-K.&nbsp; Such items are designated herein as &#147;Not Applicable&#148;.</FONT></P>
+<FONT lang=EN-US></FONT></DIV></HR>
+<DIV>
+<P style="MARGIN: 0pc 0pc 0pt; mso-pagination: none"><FONT lang=EN-US style="FONT-SIZE: 12pt" face="Times New Roman"></FONT>&nbsp;</P>
+</DIV>
+<HR align=center width="100%" noShade SIZE=2>
+<DIV style="PAGE-BREAK-BEFORE: always"></DIV>
+<A name="page_3"></A>
+<DIV>
+<P style="MARGIN: 0pc 0pc 0pt; mso-pagination: none"><FONT lang=EN-US style="FONT-SIZE: 12pt" face="Times New Roman"></FONT>&nbsp;</P>
+</DIV>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: center"><U><FONT lang=EN-US style="FONT-SIZE: 11pt" face="Times New Roman">DOCUMENTS INCORPORATED BY REFERENCE</FONT></U></P>
+<P style="MARGIN: 0pc 0pc 0pt"><FONT lang=EN-US style="FONT-SIZE: 11pt" face="Times New Roman"></FONT>&nbsp;</P>
+<P style="MARGIN: 0pc 0pc 1pc"><FONT lang=EN-US style="FONT-SIZE: 12pt" face="Times New Roman">&nbsp;<FONT lang=EN-US style="FONT-SIZE: 12pt" face="Times New Roman">The distribution reports to security holders filed on Form 8-K during the fiscal year in lieu of reports on Form 10-Q which includes the reports filed on Form 8-K listed in Item 15(b) hereto.</FONT></FONT></P>
+<P style="MARGIN: 0pc 0pc 1pc" align=center><U><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">Introductory Note</FONT></U></P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: justify"><FONT lang=EN-US style="FONT-SIZE: 12pt" face="Times New Roman">&nbsp;<FONT lang=EN-US style="FONT-SIZE: 12pt" face="Times New Roman">Structured Obligations Corporation (the &#147;Trustor&#148;) is the Trustor under the Base Trust Agreement between the Trustor and U.S. Bank National Association, as Trustee (the &#147;Trustee&#148;), as supplemented by the Select Notes Trust Supplement LT 2003-3 by and between the Trustor and the Trustee, providing for the issuance of the Select Notes Trust Long Term Certificates Series 2003-3 (the &#147;Certificates&#148;) and is the Trustor for the Certificates (the &#147;Registrant&#148;).&nbsp; The Certificates do not represent obligations of or interests in the Trustor or the Trustee.</FONT></FONT></P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: justify">&nbsp;</P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: justify"><FONT lang=EN-US style="FONT-SIZE: 12pt" face="CG Times \(W1\)" color=black>&nbsp;<FONT lang=EN-US style="FONT-SIZE: 12pt" face="CG Times \(W1\)" color=black>Each issuer of an underlying security, or guarantor thereof, or successor thereto, as applicable, which represents ten percent (10%) or more of the trust is subject to the information reporting requirements of the Securities Exchange Act of 1934, as amended (the "Exchange Act"). For information on any such issuer of underlying securities, or guarantor thereof, or successor thereto, as applicable, please see its periodic and current reports filed with the Securities and Exchange Commission (the &#147;Commission&#148;). Such reports and other information required to be filed pursuant to the Exchange Act, by such issuer of underlying securities, or guarantor thereof, or successor thereto, as applicable, may be inspected and copied at the public reference facilities maintained by the Commission at 450 Fifth Street, N.W., Washington, D.C. 20549. The Commission also maintains a site on the World Wide Web at &#147;http://www.sec.gov&#148; at which users can view and download copies of reports, proxy and information statements and other information filed electronically through the Electronic Data Gathering, Analysis and Retrieval system, or &#147;EDGAR.&#148; Neither the Depositor nor the Trustee has participated in the preparation of such reporting documents, or made any due diligence investigation with respect to the information provided therein. Neither the Depositor nor the Trustee has verified the accuracy or completeness of such documents or reports. There can be no assurance that events affecting any such issuer of underlying securities, or guarantor thereof, or successor thereto, as applicable, or the underlying securities have not occurred or have not yet been publicly disclosed that would affect the accuracy or completeness of the publicly available documents described above. The chart below lists each such issuer or guarantor, or successor thereto, of the underlying securities, that reports and its respective Exchange Act file number.</FONT></FONT><FONT color=#000000></FONT></P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: justify"><FONT lang=EN-US style="FONT-SIZE: 10pt" face=Courier></FONT>&nbsp;</P>
+<P style="MARGIN: 0pc 0pc 0pt" align=center><FONT lang=EN-US style="FONT-SIZE: 10pt" face=Courier>
+<TABLE style="BORDER-RIGHT: medium none; BORDER-TOP: medium none; MARGIN-LEFT: 6.75pt; BORDER-LEFT: medium none; WIDTH: 405pt; MARGIN-RIGHT: 6.75pt; BORDER-BOTTOM: medium none" cellSpacing=0 cellPadding=0 border=0>
+<TR>
+     <TD style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 0.45pc; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 0.45pc; PADDING-BOTTOM: 0pc; BORDER-LEFT: windowtext 1pt solid; PADDING-TOP: 0pc; BORDER-BOTTOM: windowtext 1pt solid" vAlign=top width="61%">
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: center" align=center><U><FONT style="FONT-SIZE: 12pt" face="Times New Roman">Underlying Securities Issuer or Guarantor, or Successor thereto</FONT></U></P>
+</TD>
+     <TD style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 0.45pc; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 0.45pc; PADDING-BOTTOM: 0pc; PADDING-TOP: 0pc; BORDER-BOTTOM: windowtext 1pt solid" vAlign=top width="39%">
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: center" align=center><U><FONT style="FONT-SIZE: 12pt" face="Times New Roman">Commission File Number</FONT></U></P>
+</TD></TR>
+<TR>
+     <TD style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 0.45pc; PADDING-LEFT: 0.45pc; PADDING-BOTTOM: 0pc; BORDER-LEFT: windowtext 1pt solid; PADDING-TOP: 0pc; BORDER-BOTTOM: windowtext 1pt solid" vAlign=top width="61%">
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: center" align=center><FONT style="FONT-SIZE: 12pt" face="Times New Roman">Nordstrom, Inc.</FONT></P>
+</TD>
+     <TD style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 0.45pc; PADDING-LEFT: 0.45pc; PADDING-BOTTOM: 0pc; PADDING-TOP: 0pc; BORDER-BOTTOM: windowtext 1pt solid" vAlign=bottom width="39%">
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: center" align=center><FONT style="FONT-SIZE: 12pt" face="Times New Roman">001-15059</FONT></P>
+</TD></TR>
+<TR>
+     <TD style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 0.45pc; PADDING-LEFT: 0.45pc; PADDING-BOTTOM: 0pc; BORDER-LEFT: windowtext 1pt solid; PADDING-TOP: 0pc; BORDER-BOTTOM: windowtext 1pt solid" vAlign=bottom width="61%">
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: center" align=center><FONT style="FONT-SIZE: 12pt" face="Times New Roman">The Dow Chemical Company</FONT></P>
+</TD>
+     <TD style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 0.45pc; PADDING-LEFT: 0.45pc; PADDING-BOTTOM: 0pc; PADDING-TOP: 0pc; BORDER-BOTTOM: windowtext 1pt solid" vAlign=bottom width="39%">
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: center" align=center><FONT style="FONT-SIZE: 12pt" face="Times New Roman">001-03433</FONT></P>
+</TD></TR>
+<TR>
+     <TD style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 0.45pc; PADDING-LEFT: 0.45pc; PADDING-BOTTOM: 0pc; BORDER-LEFT: windowtext 1pt solid; PADDING-TOP: 0pc; BORDER-BOTTOM: windowtext 1pt solid" vAlign=bottom width="61%">
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: center" align=center><FONT style="FONT-SIZE: 12pt" face="Times New Roman">General Electric Capital Corporation</FONT></P>
+</TD>
+     <TD style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 0.45pc; PADDING-LEFT: 0.45pc; PADDING-BOTTOM: 0pc; PADDING-TOP: 0pc; BORDER-BOTTOM: windowtext 1pt solid" vAlign=bottom width="39%">
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: center" align=center><FONT style="FONT-SIZE: 12pt" face="Times New Roman">001-06461</FONT></P>
+</TD></TR>
+<TR>
+     <TD style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 0.45pc; PADDING-LEFT: 0.45pc; PADDING-BOTTOM: 0pc; BORDER-LEFT: windowtext 1pt solid; PADDING-TOP: 0pc; BORDER-BOTTOM: windowtext 1pt solid" vAlign=bottom width="61%">
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: center" align=center><FONT style="FONT-SIZE: 12pt" face="Times New Roman">The Goldman Sachs Group, Inc.</FONT></P>
+</TD>
+     <TD style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 0.45pc; PADDING-LEFT: 0.45pc; PADDING-BOTTOM: 0pc; PADDING-TOP: 0pc; BORDER-BOTTOM: windowtext 1pt solid" vAlign=bottom width="39%">
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: center"><FONT style="FONT-SIZE: 12pt" face="Times New Roman">001-14965</FONT></P>
+</TD></TR>
+<TR>
+     <TD style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 0.45pc; PADDING-LEFT: 0.45pc; PADDING-BOTTOM: 0pc; BORDER-LEFT: windowtext 1pt solid; PADDING-TOP: 0pc; BORDER-BOTTOM: windowtext 1pt solid" vAlign=bottom width="61%">
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: center" align=center><FONT style="FONT-SIZE: 12pt" face="Times New Roman">Citigroup Inc.</FONT></P>
+</TD>
+     <TD style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 0.45pc; PADDING-LEFT: 0.45pc; PADDING-BOTTOM: 0pc; PADDING-TOP: 0pc; BORDER-BOTTOM: windowtext 1pt solid" vAlign=bottom width="39%">
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: center" align=center><FONT style="FONT-SIZE: 12pt" face="Times New Roman">001-09924</FONT></P>
+</TD></TR>
+<TR>
+     <TD style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 0.45pc; PADDING-LEFT: 0.45pc; PADDING-BOTTOM: 0pc; BORDER-LEFT: windowtext 1pt solid; PADDING-TOP: 0pc; BORDER-BOTTOM: windowtext 1pt solid" vAlign=bottom width="61%">
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: center" align=center><FONT style="FONT-SIZE: 12pt" face="Times New Roman">Limited Brands, Inc.</FONT></P>
+</TD>
+     <TD style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 0.45pc; PADDING-LEFT: 0.45pc; PADDING-BOTTOM: 0pc; PADDING-TOP: 0pc; BORDER-BOTTOM: windowtext 1pt solid" vAlign=bottom width="39%">
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: center" align=center><FONT style="FONT-SIZE: 12pt" face="Times New Roman">001-08344</FONT></P>
+</TD></TR></TABLE></FONT><FONT lang=EN-US style="FONT-SIZE: 12pt" face="Times New Roman"></FONT></P>
+<HR align=center width="100%" noShade SIZE=2>
+<DIV style="PAGE-BREAK-BEFORE: always"></DIV>
+<A name="page_4"></A>
+<DIV>
+<P style="MARGIN: 0pc 0pc 0pt; mso-pagination: none"><FONT lang=EN-US style="FONT-SIZE: 12pt" face="Times New Roman"></FONT>&nbsp;</P>
+</DIV>
+<DIV align=left>&nbsp;</DIV>
+<P style="MARGIN: 0pc 0pc 0pt 6pc; TEXT-INDENT: -6pc; TEXT-ALIGN: center" align=center><B><U><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">PART I</FONT></U></B></P>
+<P style="MARGIN: 0pc 0pc 0pt 6pc; TEXT-INDENT: -6pc; TEXT-ALIGN: justify"><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman"></FONT>&nbsp;</P>
+<P style="MARGIN: 0pc 0pc 0pt 6pc; TEXT-INDENT: -6pc; TEXT-ALIGN: justify"><U><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">Item 1.</FONT></U><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </FONT><U><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">Business</FONT></U><I><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </FONT></I></P>
+<P style="MARGIN: 0pc 0pc 0pt 6pc; TEXT-INDENT: -6pc; TEXT-ALIGN: justify"><I><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </FONT></I><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">Not Applicable</FONT></P>
+<P style="MARGIN: 0pc 0pc 0pt 6pc; TEXT-INDENT: -6pc; TEXT-ALIGN: justify"><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman"></FONT>&nbsp;</P>
+<P style="MARGIN: 0pc 0pc 0pt 6pc; TEXT-INDENT: -6pc; TEXT-ALIGN: justify"><U><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">Item 1A.</FONT></U><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </FONT><U><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">Risk Factors</FONT></U></P>
+<P style="MARGIN: 0pc 0pc 0pt 6pc; TEXT-INDENT: -6pc; TEXT-ALIGN: justify"><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Not Applicable</FONT></P>
+<P style="MARGIN: 0pc 0pc 0pt 6pc; TEXT-INDENT: -6pc; TEXT-ALIGN: justify"><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman"></FONT>&nbsp;</P>
+<P style="MARGIN: 0pc 0pc 0pt 6pc; TEXT-INDENT: -6pc; TEXT-ALIGN: justify"><U><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">Item 1B.</FONT></U><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </FONT><U><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">Unresolved Staff Comments</FONT></U></P>
+<P style="MARGIN: 0pc 0pc 0pt 6pc; TEXT-INDENT: -6pc; TEXT-ALIGN: justify"><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Not Applicable</FONT></P>
+<P style="MARGIN: 0pc 0pc 0pt 6pc; TEXT-INDENT: -6pc; TEXT-ALIGN: justify"><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman"></FONT>&nbsp;</P>
+<P style="MARGIN: 0pc 0pc 0pt 6pc; TEXT-INDENT: -6pc; TEXT-ALIGN: justify"><U><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">Item 2.</FONT></U><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </FONT><U><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">Properties</FONT></U><I><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </FONT></I></P>
+<P style="MARGIN: 0pc 0pc 0pt 6pc; TEXT-INDENT: -6pc; TEXT-ALIGN: justify"><I><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </FONT></I><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">Not Applicable</FONT></P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: justify"><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman"></FONT>&nbsp;</P>
+<P style="MARGIN: 0pc 0pc 0pt 6pc; TEXT-INDENT: -6pc; TEXT-ALIGN: justify"><U><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">Item 3.</FONT></U><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </FONT><U><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">Legal Proceedings</FONT></U><I><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </FONT></I></P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: justify"><I><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </FONT></I><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">The Registrant is not subject to any material pending legal proceedings.</FONT></P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: justify"><B><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </FONT></B></P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: justify"><U><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">Item 4.</FONT></U><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </FONT><U><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman"><U><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">Mine Safety Disclosures.</FONT></U></FONT></U></P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: justify"><I><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </FONT></I><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">None</FONT></P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: center" align=center><B><U><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">PART II</FONT></U></B></P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: justify"><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman"></FONT>&nbsp;</P>
+<P style="MARGIN: 0pc 0pc 0pt 6pc; TEXT-INDENT: -6pc; TEXT-ALIGN: justify"><U><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">Item 5.</FONT></U><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </FONT><U><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">Market for Registrant&#146;s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities</FONT></U><I><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </FONT></I></P>
+<P style="MARGIN: 0pc 0pc 0pt 6pc; TEXT-ALIGN: justify"><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">The Certificates issued by and representing investors&#146; interest in the Select Notes Trust LT 2003-3 (the &#147;Trust&#148;) are represented by one or more physical Certificates registered in the name of &#147;Cede &amp; Co., the nominee of The Depository Trust Company.&nbsp; </FONT></P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: justify"><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman"></FONT>&nbsp;</P>
+<DIV align=left>
+<TABLE style="MARGIN-LEFT: 4.5pc; WIDTH: 451.799pt" cellSpacing=0 cellPadding=0 border=0>
+<TR>
+     <TD style="PADDING-RIGHT: 0.45pc; PADDING-LEFT: 0.45pc; PADDING-BOTTOM: 0pc; PADDING-TOP: 0pc" vAlign=top width="100%">
+<P style="MARGIN: 0pc 0pc 0pt"><FONT style="FONT-SIZE: 12pt" face="Times New Roman">The following Certificates are listed on the exchange identified below:</FONT></P>
+</TD></TR></TABLE></DIV>
+<P style="MARGIN: 0pc 0pc 0pt"><FONT lang=EN-US style="FONT-SIZE: 12pt" face="Times New Roman"></FONT>&nbsp;</P>
+<DIV align=left>
+<TABLE style="WIDTH: 513pt" cellSpacing=0 cellPadding=0 border=0>
+<TR>
+     <TD style="PADDING-RIGHT: 0.45pc; PADDING-LEFT: 0.45pc; PADDING-BOTTOM: 0pc; PADDING-TOP: 0pc" vAlign=top width="50%">
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: center" align=center><B><FONT style="FONT-SIZE: 12pt" face="Times New Roman">Title of Each Class</FONT></B></P>
+<P style="MARGIN: 0pc 0pc 0pt"><FONT style="FONT-SIZE: 12pt" face="Times New Roman"></FONT>&nbsp;</P>
+</TD>
+     <TD style="PADDING-RIGHT: 0.45pc; PADDING-LEFT: 0.45pc; PADDING-BOTTOM: 0pc; PADDING-TOP: 0pc" vAlign=top width="50%">
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: center" align=center><B><FONT style="FONT-SIZE: 12pt" face="Times New Roman">Name of Each Exchange on Which Registered</FONT></B></P>
+</TD></TR>
+<TR>
+     <TD style="PADDING-RIGHT: 0.45pc; PADDING-LEFT: 0.45pc; PADDING-BOTTOM: 0pc; PADDING-TOP: 0pc" vAlign=top width="50%">
+<P style="MARGIN: 0pc 0pc 0pt"><FONT style="FONT-SIZE: 12pt" face="Times New Roman">Select Notes Trust Long Term Certificates, Series 2003-3 </FONT></P>
+</TD>
+     <TD style="PADDING-RIGHT: 0.45pc; PADDING-LEFT: 0.45pc; PADDING-BOTTOM: 0pc; PADDING-TOP: 0pc" vAlign=top width="50%">
+<P style="MARGIN: 0pc 0pc 0pt"><FONT style="FONT-SIZE: 12pt" face="Times New Roman">American Stock Exchange</FONT></P>
+</TD></TR></TABLE></DIV>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: justify"><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman"></FONT>&nbsp;</P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: justify"><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman"></FONT>&nbsp;</P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: justify"><U><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">Item 6.</FONT></U><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </FONT><U><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">Selected Financial Data</FONT></U></P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: justify"><I><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </FONT></I><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">Not Applicable</FONT></P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: justify"><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman"></FONT>&nbsp;</P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: justify"><B><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </FONT></B></P>
+<P style="MARGIN: 0pc 0pc 0pt 6pc; TEXT-INDENT: -6pc; TEXT-ALIGN: justify"><U><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">Item 7.</FONT></U><I><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </FONT></I><U><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">Management&#146;s Discussion and Analysis of Financial Condition and Results of Operations</FONT></U></P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: justify"><I><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </FONT></I><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">Not Applicable</FONT></P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: justify"><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman"></FONT>&nbsp;</P>
+<P style="MARGIN: 0pc 0pc 0pt 6pc; TEXT-INDENT: -6pc; TEXT-ALIGN: justify"><U><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: 0pt" face="Times New Roman" color=windowtext>Item 7A. </FONT></U><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: 0pt; TEXT-DECORATION: none" face="Times New Roman" color=windowtext>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </FONT><U><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: 0pt" face="Times New Roman" color=windowtext>Quantitative and Qualitative Disclosures About Market Risk</FONT></U></P>
+<P style="MARGIN: 0pc 0pc 0pt"><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: 0pt; TEXT-DECORATION: none" face="Times New Roman" color=windowtext>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Not Applicable </FONT> </P>
+<DIV>
+<P style="MARGIN: 0pc 0pc 0pt; mso-pagination: none"><FONT lang=EN-US style="FONT-SIZE: 12pt" face="Times New Roman"></FONT>&nbsp;</P>
+</DIV>
+<HR align=center width="100%" noShade SIZE=2>
+<DIV style="PAGE-BREAK-BEFORE: always"></DIV>
+<A name="page_5"></A>
+<DIV>
+<P style="MARGIN: 0pc 0pc 0pt; mso-pagination: none"><FONT lang=EN-US style="FONT-SIZE: 12pt" face="Times New Roman"></FONT>&nbsp;</P>
+</DIV>
+<P style="MARGIN: 0pc 0pc 0pt"> <U><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">Item 8.</FONT></U><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT><U><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">Financial Statements and Supplementary Data</FONT></U></P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: justify"><I><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </FONT></I><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">None</FONT></P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: justify"><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman"></FONT>&nbsp;</P>
+<P style="MARGIN: 0pc 0pc 0pt 6pc; TEXT-INDENT: -6pc; TEXT-ALIGN: justify"><U><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">Item 9.</FONT></U><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </FONT><U><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">Changes In and Disagreements With Accountants on Accounting and Financial Disclosure</FONT></U></P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: justify"><I><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </FONT></I><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">None</FONT></P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: justify"><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman"></FONT>&nbsp;</P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: justify"><U><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">Item 9A.</FONT></U><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </FONT><U><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">Controls and Procedures</FONT></U></P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: justify"><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Not Applicable</FONT></P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: justify"><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman"></FONT>&nbsp;</P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: justify"><U><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">Item 9B.</FONT></U><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </FONT><U><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">Other Information</FONT></U></P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: justify"><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; None</FONT></P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: center" align=center><B><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman"></FONT></B>&nbsp;</P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: center" align=center><B><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">PART III</FONT></B></P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: justify"><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman"></FONT>&nbsp;</P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: justify"><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman"></FONT>&nbsp;</P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: justify"><U><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">Item 10.</FONT></U><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </FONT><U><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman"><U><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">Directors, Executive Officers and Corporate Governance</FONT></U></FONT></U></P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: justify"><I><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </FONT></I><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">None</FONT></P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: justify"><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman"></FONT>&nbsp;</P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: justify"><U><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">Item 11.</FONT></U><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </FONT><U><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">Executive Compensation</FONT></U></P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: justify"><I><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </FONT></I><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">Not Applicable</FONT></P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: justify"><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman"></FONT>&nbsp;</P>
+<P style="MARGIN: 0pc 0pc 0pt 6pc; TEXT-INDENT: -6pc"><U><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">Item 12.</FONT></U><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </FONT><U><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters</FONT></U></P>
+<P style="MARGIN: 0pc 0pc 0pt"><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Information required by Item 201(d) of Regulation S-X:&nbsp; Not Applicable</FONT></P>
+<P style="MARGIN: 0pc 0pc 0pt"><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Information required by Item 403 of Regulation S-X:&nbsp; None</FONT></P>
+<P style="MARGIN: 0pc 0pc 0pt"><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman"></FONT>&nbsp;</P>
+<P style="MARGIN: 0pc 0pc 0pt"><U><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">Item 13.</FONT></U><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<U><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">Certain Relationships and Related Transactions, and Director Independence.</FONT></U></FONT><I><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </FONT></I><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">None</FONT></P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: justify"><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman"></FONT>&nbsp;</P>
+<P style="MARGIN: 0pc 0pc 0pt"><U><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">Item 14.</FONT></U><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </FONT><U><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">Principal Accounting Fees and Services</FONT></U></P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: justify"><I><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </FONT></I><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">Not Applicable</FONT></P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: justify"><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman"></FONT>&nbsp;</P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: center" align=center><B><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">PART IV</FONT></B></P>
+<P style="MARGIN: 0pc 0pc 0pt"><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman"></FONT>&nbsp;</P>
+<P style="MARGIN: 0pc 0pc 0pt"><U><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">Item 15.</FONT></U><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </FONT><U><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">Exhibits, Financial Statement Schedules</FONT></U></P>
+<P style="MARGIN: 0pc 0pc 0pt"><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </FONT></P>
+<P style="MARGIN: 0pc 0pc 0pt"><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (a) </FONT><FONT lang=EN-US style="FONT-SIZE: 12pt" face="Times New Roman">The following documents have been filed as part of this Report.</FONT></P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: justify"><FONT lang=EN-US style="FONT-SIZE: 12pt" face="Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. None</FONT></P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: justify">&nbsp;</P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. None</P>
+<P style="MARGIN: 0pc 0pc 0pt"><FONT lang=EN-US style="FONT-SIZE: 12pt" face="Times New Roman"></FONT>&nbsp;</P>
+<P style="MARGIN: 0pc 0pc 0pt"><FONT lang=EN-US style="FONT-SIZE: 12pt" face="Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.&nbsp; Exhibits:</FONT></P>
+<P style="MARGIN: 0pc 0pc 0pt"><FONT lang=EN-US style="FONT-SIZE: 12pt" face="Times New Roman"></FONT>&nbsp;</P>
+<P style="MARGIN: 0pc 0pc 0pt 121.5pt; TEXT-ALIGN: justify"><FONT lang=EN-US style="FONT-SIZE: 12pt" face="Times New Roman">31.1 &#150; Certification by the President of the Registrant pursuant to 15 U.S.C. Section 7241, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.</FONT></P>
+<P style="MARGIN: 0pc 0pc 0pt"><FONT lang=EN-US style="FONT-SIZE: 12pt" face="Times New Roman"></FONT>&nbsp;</P>
+<DIV>
+<P style="MARGIN: 0pc 0pc 0pt; mso-pagination: none"><FONT lang=EN-US style="FONT-SIZE: 12pt" face="Times New Roman"></FONT>&nbsp;</P>
+</DIV>
+<HR align=center width="100%" noShade SIZE=2>
+<DIV style="PAGE-BREAK-BEFORE: always"></DIV>
+<A name="page_6"></A>
+<DIV>
+<P style="MARGIN: 0pc 0pc 0pt; mso-pagination: none"><FONT lang=EN-US style="FONT-SIZE: 12pt" face="Times New Roman"></FONT>&nbsp;</P>
+</DIV>
+<P style="MARGIN: 0pc 0pc 0pt 121.5pt"><FONT lang=EN-US style="FONT-SIZE: 12pt" face="Times New Roman"></FONT>&nbsp;</P>
+<P style="MARGIN: 0pc 0pc 0pt 121.5pt"><FONT lang=EN-US style="FONT-SIZE: 12pt" face="Times New Roman">99.1 &#150; Annual Compliance Report by Trustee.</FONT></P>
+<P style="MARGIN: 0pc 0pc 0pt 121.5pt"><FONT lang=EN-US style="FONT-SIZE: 12pt" face="Times New Roman"></FONT>&nbsp;</P>
+<P style="MARGIN: 0pc 0pc 0pt 121.5pt"><FONT lang=EN-US style="FONT-SIZE: 12pt" face="Times New Roman">99.2 &#150; Report of RubinBrown LLP</FONT></P>
+<P style="MARGIN: 0pc 0pc 0pt"><FONT lang=EN-US style="FONT-SIZE: 12pt" face="Times New Roman"></FONT>&nbsp;</P>
+<P style="MARGIN: 0pc 0pc 0.5pc; TEXT-ALIGN: justify"><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman"><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">(b) The Form 8-Ks of the Select Notes Trust LT 2003-3 (the &#147;Trust&#148;) which relate to periods covered by this annual report include (i) the Trust&#146;s Current Report on Form 8-K for the distribution date occurring on January 18, 2011 and filed on January 20, 2011, (ii) the Trust&#146;s Current Report on Form 8-K for the distribution date occurring on February 15, 2011 and filed on February 23, 2011, (iii) the Trust&#146;s Current Report on Form 8-K for the distribution date occurring on March 15, 2011 and filed on March 23, 2011, (iv) the Trust&#146;s Current Report on Form 8-K for the distribution date occurring on April 15, 2011 and filed on April 28, 2011, (v) the Trust&#146;s Current Report on Form 8-K for the distribution date occurring on May 16, 2011 and filed on May 20, 2011, (vi) the Trust&#146;s Current Report on Form 8-K for the distribution date occurring on June 15, 2011 and filed on June 22, 2011, (vii) the Trust&#146;s Current Report on Form 8-K for the distribution date occurring on July 15, 2011 and filed on July 26, 2011, (viii) the Trust&#146;s Current Report on Form 8-K for the distribution date occurring on August 15, 2011 and filed on August 24, 2011, (ix) the Trust&#146;s Current Report on Form 8-K for the distribution date occurring on September 15, 2011 and filed on September 20, 2011, (x) the Trust&#146;s Current Report on Form 8-K for the distribution date occurring on October 17, 2011 and filed on October 25, 2011, (xi) the Trust&#146;s Current Report on Form 8-K for the distribution date occurring on November 15, 2011 and filed on November 17, 2011, and (xii) the Trust&#146;s Current Report on Form 8-K for the distribution date occurring on December 15, 2011 and filed on December 28, 2011.</FONT></FONT></FONT></P>
+<P style="MARGIN: 0pc 0pc 0.5pc; TEXT-ALIGN: justify"><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (c)&nbsp; See Item 15(a) above.</FONT></P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: justify"><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman"></FONT>&nbsp;</P>
+<DIV>
+<P style="MARGIN: 0pc 0pc 0pt; mso-pagination: none"><FONT lang=EN-US style="FONT-SIZE: 12pt" face="Times New Roman"></FONT>&nbsp;</P>
+</DIV>
+<HR align=center width="100%" noShade SIZE=2>
+<DIV style="PAGE-BREAK-BEFORE: always"></DIV>
+<A name="page_7"></A>
+<DIV>
+<P style="MARGIN: 0pc 0pc 0pt; mso-pagination: none"><FONT lang=EN-US style="FONT-SIZE: 12pt" face="Times New Roman"></FONT>&nbsp;</P>
+</DIV>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: justify"><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman"></FONT>&nbsp;</P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: justify"><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman"></FONT>&nbsp;</P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: center"><B><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">SIGNATURES</FONT></B></P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: justify"><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman"></FONT>&nbsp;</P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: justify"><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman"></FONT>&nbsp;</P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: justify"><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman"></FONT>&nbsp;</P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: justify"><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.</FONT></P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: justify">&nbsp;</P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: justify">&nbsp;</P>
+<P style="MARGIN: 0pc 0pc 0pt 18pc"><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">STRUCTURED OBLIGATIONS CORPORATION,<BR>
+as trustor for the Trust Registrant</FONT></P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: justify"><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</FONT></P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: justify"><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </FONT></P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: justify"><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman"></FONT>&nbsp;</P>
+<P style="MARGIN: 0pc 0pc 0pt 18pc; TEXT-ALIGN: justify"><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </FONT></P>
+<P style="MARGIN: 0pc 0pc 0pt 18pc; TEXT-ALIGN: justify"><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">By</FONT><U><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; /s/ Chadwick S. Parson&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </FONT></U></P>
+<P style="MARGIN: 0pc 0pc 0pt 18pc; TEXT-ALIGN: justify"><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">Name:&nbsp; Chadwick S. Parson</FONT></P>
+<P style="MARGIN: 0pc 0pc 0pt 18pc; TEXT-ALIGN: justify"><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">Title:&nbsp;&nbsp;&nbsp;&nbsp; Managing Director and President</FONT></P>
+<P style="MARGIN: 0pc 0pc 0pt 18pc"><FONT lang=EN-US style="FONT-SIZE: 12pt" face="Times New Roman">(senior officer in charge of securitization <BR>
+function of the Depositor)</FONT></P>
+<P style="MARGIN: 0pc 0pc 0pt 18pc; TEXT-ALIGN: justify"><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman"></FONT>&nbsp;</P>
+<P style="MARGIN: 0pc 0pc 0pt 18pc; TEXT-ALIGN: justify"><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman"></FONT>&nbsp;</P>
+<P style="MARGIN: 0pc 0pc 0pt 18pc; TEXT-ALIGN: justify"><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman"></FONT>&nbsp;</P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: justify"><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman">Dated:&nbsp; March&nbsp;13, 2012</FONT></P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: justify"><FONT lang=EN-US style="FONT-SIZE: 12pt; LETTER-SPACING: -0.15pt" face="Times New Roman"></FONT>&nbsp;</P>
+<P style="MARGIN: 0pc 0pc 0pt; TEXT-ALIGN: right" align=right><FONT lang=EN-US style="FONT-SIZE: 10pt" face=Courier></FONT>&nbsp;</P>
+<DIV><FONT lang=EN-US><BR clear=all>
+</FONT></DIV>
+<DIV>
+<P style="MARGIN: 0pc 0pc 0pt; mso-pagination: none"><FONT lang=EN-US style="FONT-SIZE: 12pt" face="Times New Roman"></FONT>&nbsp;</P>
+</DIV>
+<HR align=center width="100%" noShade SIZE=2>
+<DIV style="PAGE-BREAK-BEFORE: always"></DIV>
+</BODY>
+
+</HTML>
+
+</TEXT>
+</DOCUMENT>

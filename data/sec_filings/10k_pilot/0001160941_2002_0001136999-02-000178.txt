@@ -1,0 +1,206 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>form_10.htm
+<DESCRIPTION>10 K ANNUAL FILING
+<TEXT>
+<html>
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+
+
+FORM 10-K
+
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+ACT OF 1934
+
+For the fiscal year ended December 31, 2001
+
+Commission file number 333-67584-02
+
+ABN AMRO Mortgage Corporation (as depositor under the Pooling and Servicing Agreement,
+Dated as of October 1, 2001 providing for, inter alia, the issuance of ABN AMRO Mortgage
+Corporation Mortgage Pass-Through Certificates Series 2001-1A)
+(Exact name of registrant as specified in its charter)
+
+Delaware
+(State or other jurisdiction of  incorporation or organization)
+
+363886007
+(I.R.S. Employer  Identification No.)
+
+181 West Madison Street, Chicago, Illinois  60602
+(Address of principal executive offices)
+
+60602
+(Zip Code)
+
+Registrant's telephone number, including area code:  (248)  643-2530
+
+Securities registered pursuant to Section 12(b) of the Act: None
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months (or for such shorter period that the registrant was
+required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days.
+           Yes [X]       No  [ ]
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405
+of Regulation S-K is not contained herein, and will not be contained, to the best
+of registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K.
+
+	Not Applicable
+
+State the aggregate market value of the voting and non-voting common equity held
+by non-affiliates of the registrant. The aggregate market value shall be
+computed by reference to the price at which the common equity was sold, or the
+average bid and asked prices of such common equity, as of a specified date
+within 60 days prior to the date of filing.
+
+	Not Applicable
+
+
+
+(APPLICABLE ONLY TO CORPORATE REGISTRANTS)
+Indicate the number of shares outstanding of each of the registrant's classes of
+common stock, as of the latest practicable date.
+
+	Not Applicable
+
+
+      					PART I
+
+
+     Item 1.	Business.
+
+		Not applicable
+
+
+      Item 2.	Properties.
+
+		Not applicable
+
+
+      Item 3.	Legal Proceedings.
+		The registrant knows of no material pending legal proceedings involving
+		the trust created under the Pooling and Servicing Agreement (the Trust),
+		the Trustee, the Servicer or the registrant with respect to the Trust
+		other than routine litigation incidental to the duties of the respective
+		parties.
+
+
+      Item 4.	Submission of Matters to a Vote of Security Holders.
+
+      		None.
+
+
+
+      					PART II
+
+      Item 5.	Market for Registrant's Common Equity and Related Stockholder
+      Matters.
+
+      		Not applicable.
+
+
+      Item 6.	Selected Financial Data.
+
+      		Not applicable.
+
+
+      Item 7.	Management's Discussion and Analysis of Financial Condition and
+      		Results of Operation.
+
+      		Not applicable.
+
+
+      Item 7A.	Quantitative and Qualitative Disclosures About Market Risk.
+
+      		Not applicable.
+
+
+      Item 8.	Financial Statements and Supplementary Data.
+
+       		Not applicable.
+
+
+      Item 9.	Changes in and Disagreements With Accountants on Accounting and
+      		Financial Disclosure.
+
+      		None.
+
+
+
+     				 PART III
+
+
+      Item 10.	Directors and Executive Officers of the Registrant.
+
+      		Not applicable.
+
+
+      Item 11.	Executive Compensation.
+
+      		Not applicable.
+
+
+      Item 12.	Security Ownership of Certain Beneficial Owners and Management.
+
+      		Not applicable.
+
+
+      Item 13.	Certain Relationships and Related Transactions.
+
+      		Not applicable.
+
+
+
+				PART IV
+
+
+      Item 14.	Exhibits, Financial Statement Schedules, and Reports on Form 8-K.
+
+	(a)	Exhibits
+
+		(99.1)	Annual Independent Accountant's Servicing Report
+
+		(99.2)	Annual Statement of Compliance
+
+	(b) 	Reports on Form 8-K were filed during the last quarter of 2001 in order to provide
+statements for the monthly distributions to investors on November 27, 2001, and January 8, 2002.  Computational materials and an opinion letter issued by Mayer, Brown & Platt with respect to tax matters and legality were filed on Form 8-K on October 25, 2001.  The Terms Agreement, Pooling and Servicing Agreement, and the Mortgage Loan Purchase Agreement were filed on Form 8-K on November 8, 2001.
+
+Exhibits 99.1 and 99.2 are not filed herewith since documents were not received at least
+three business days prior to the due date of this report.  The documents will be included in the
+Form 10-K/A to be filed within 30 days of the receipt of such documents.
+
+
+
+				SIGNATURES
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange
+Act of 1934, the registrant has duly caused this report to be signed on its
+behalf by the undersigned, thereunto duly authorized.
+
+LaSalle Bank National Association, in its
+capacity as Agent for the Trustee under the Pooling and
+Servicing Agreement on behalf of  ABN AMRO Mortgage
+Corporation, Registrant
+
+
+By:	/s/  	Cynthia Reis
+	---------------------------
+		Cynthia Reis
+		First Vice President
+
+Date:	March 25, 2002
+
+</html>
+
+</TEXT>
+</DOCUMENT>

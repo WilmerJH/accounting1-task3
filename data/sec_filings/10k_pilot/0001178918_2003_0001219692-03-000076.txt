@@ -1,0 +1,1844 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>wmms2002ms5_f10k.htm
+<DESCRIPTION>WMMS 2002-MS5
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE>WMMS 2002-MS5_Form10-K</TITLE>
+</HEAD>
+<BODY>
+
+
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold 1-TNR" FSL="Workstation" -->
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>United States </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold-TNR" FSL="Workstation" -->
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>SECURITIES AND
+EXCHANGE COMMISSION </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold 1-TNR" FSL="Workstation" -->
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Washington, D.C. 20549 </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold 1-TNR" FSL="Workstation" -->
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Form 10-K </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Head Left-TNR" FSL="Workstation" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B><I>ANNUAL REPORT PURSUANT TO
+SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 FOR THE FISCAL YEAR ENDED
+DECEMBER 31, 2002</I></B> </FONT> </P>
+
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center-TNR" FSL="Workstation" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>WASHINGTON MUTUAL
+MORTGAGE SECURITIES CORP. <BR>(Exact name of registrant as specified in its charter) </FONT></P>
+
+<TABLE WIDTH="100%" BORDER=0 CELLSPACING=0 CELLPADDING=0>
+<TR VALIGN="TOP">
+<TD WIDTH="32%" ALIGN="CENTER"><FONT SIZE=2><B>Delaware</B></FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="32%" ALIGN="CENTER"><FONT SIZE=2><B>333-77026-17</B></FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="32%" ALIGN="CENTER"><FONT SIZE=2><B>94-2528990</B></FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="32%" ALIGN="CENTER"><FONT SIZE=2>(State or other jurisdiction<BR>
+of incorporation)</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="32%" ALIGN="CENTER"><FONT SIZE=2>(Commission File Number)</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="32%" ALIGN="CENTER"><FONT SIZE=2>(I.R.S. Employer<BR>
+Identification No.)</FONT></TD>
+</TR>
+</TABLE>
+
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center-TNR" FSL="Workstation" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1201 THIRD AVENUE, WMT
+1706 <BR>SEATTLE, WASHINGTON 98101 <BR>(206) 377-8555 <BR>(Address, including zip code, and telephone number, including area code, of registrant&#146;s
+principal executive offices) </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Large Indent Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Securities registered pursuant to Section 12(b) of the Act: None
+<BR>Securities registered pursuant to Section 12(g) of the Act: None</FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Large Indent Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Indicate
+by check mark whether the registrant (1) has filed all reports required to be filed by
+Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months
+(or for such shorter period that the registrant was required to file such reports), and
+(2) has been subject to such filing requirements for the past 90 days. Yes [X] No [ ] </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Large Indent Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Indicate
+by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K is
+not contained herein, and will not be contained, to the best of registrant&#146;s
+knowledge, in definitive proxy or information statements incorporated by reference in Part
+III of this Form 10-K or any amendment to this Form 10-K. [ ] Not applicable. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Large Indent Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;State
+the aggregate market value of the voting and non-voting common equity held by
+non-affiliates of the registrant: None. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Large Indent Lv 0-TNR" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Indicate
+the number of shares outstanding of each of the registrant&#146;s classes of common stock,
+as of the latest practicable date: Not applicable. </FONT></P>
+
+
+<!-- MARKER PAGE="sheet: 1; page: 1" -->
+<HR SIZE=5 COLOR=GRAY NOSHADE>
+
+
+
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center-TNR" FSL="Workstation" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>DOCUMENTS INCORPORATED
+BY REFERENCE</B> </FONT> </P>
+
+<!-- MARKER FORMAT-SHEET="Para Large Indent Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The
+registrant&#146;s Reports on Form 8-K concerning the registrant&#146;s Washington Mutual Mortgage Securities Corp.
+Mortgage Pass-Through Certificates, Series 2002-MS5 (&#147;Certificates&#148;) issued pursuant to
+the Pooling and Servicing Agreement dated as of January 1, 2002 (the &#147;Pooling
+Agreement&#148;) are incorporated by reference as set forth in Part IV, Item 15.
+Capitalized terms used herein but not otherwise defined shall have the meanings assigned
+to them in the Pooling Agreement. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Left-TNR" FSL="Workstation" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>Part I</B> </FONT> </P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>Item 1. Business.</B> </FONT> </P>
+
+<!-- MARKER FORMAT-SHEET="Head Sub 2 Left-TNR" FSL="Workstation" -->
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not
+applicable.</FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>Item 2. Properties.</B> </FONT> </P>
+
+<!-- MARKER FORMAT-SHEET="Head Sub 2 Left-TNR" FSL="Workstation" -->
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not applicable.</FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>Item 3. Legal Proceedings.</B> </FONT> </P>
+
+<!-- MARKER FORMAT-SHEET="Para Large Indent Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;There
+are no material pending legal proceedings involving the mortgage loans related to the
+Certificates, the trustee under the Pooling Agreement or the registrant with respect to
+the mortgage loans, other than ordinary routine litigation incidental to the
+trustee&#146;s or the registrant&#146;s duties under the Pooling Agreement. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>Item 4. Submission of Matters to a
+Vote of Security Holders.</B> </FONT> </P>
+
+<!-- MARKER FORMAT-SHEET="Para Large Indent Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No
+vote or consent of holders of Certificates has been solicited for any purpose during 2002. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Left-TNR" FSL="Workstation" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>Part II</B> </FONT> </P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>Item 5. Market for Registrant&#146;s
+Common Equity and Related Stockholder Matters.</B> </FONT> </P>
+
+<!-- MARKER FORMAT-SHEET="Head Sub 2 Left-TNR" FSL="Workstation" -->
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not
+applicable.</FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>Item 6. Selected Financial Data.</B> </FONT> </P>
+
+<!-- MARKER FORMAT-SHEET="Head Sub 2 Left-TNR" FSL="Workstation" -->
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not applicable.</FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>Item 7. Management&#146;s Discussion
+and Analysis of Financial Condition and Results of Operations.</B> </FONT> </P>
+
+<!-- MARKER FORMAT-SHEET="Head Sub 2 Left-TNR" FSL="Workstation" -->
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not
+applicable.</FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>Item 7A. Quantitative and Qualitative
+Disclosures About Market Risk.</B> </FONT> </P>
+
+<!-- MARKER FORMAT-SHEET="Head Sub 2 Left-TNR" FSL="Workstation" -->
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not
+applicable.</FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>Item 8. Financial Statements and
+Supplementary Data.</B> </FONT> </P>
+
+<!-- MARKER FORMAT-SHEET="Head Sub 2 Left-TNR" FSL="Workstation" -->
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not
+applicable.</FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>Item 9. Changes in and Disagreements
+With Accountants on Accounting and Financial Disclosure.</B> </FONT> </P>
+
+<!-- MARKER FORMAT-SHEET="Para Large Indent Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No
+material disagreement concerning accounting procedures or change of accountants has
+occurred. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Left-TNR" FSL="Workstation" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>Part III</B> </FONT> </P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>Item 10. Directors and Executive
+Officers of the Registrant.</B> </FONT> </P>
+
+<!-- MARKER FORMAT-SHEET="Head Sub 2 Left-TNR" FSL="Workstation" -->
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not
+applicable.</FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>Item 11. Executive Compensation.</B> </FONT> </P>
+
+<!-- MARKER FORMAT-SHEET="Head Sub 2 Left-TNR" FSL="Workstation" -->
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not applicable.</FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>Item 12. Security Ownership of
+Certain Beneficial Owners and Management.</B> </FONT> </P>
+
+<!-- MARKER FORMAT-SHEET="Head Sub 2 Left-TNR" FSL="Workstation" -->
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not
+applicable.</FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>Item 13. Certain Relationships and
+Related Transactions.</B> </FONT> </P>
+
+<!-- MARKER FORMAT-SHEET="Head Sub 2 Left-TNR" FSL="Workstation" -->
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not
+applicable.</FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>Item 14. Controls and Procedures.</B> </FONT> </P>
+
+<!-- MARKER FORMAT-SHEET="Head Sub 2 Left-TNR" FSL="Workstation" -->
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not
+applicable.</FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Left-TNR" FSL="Workstation" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>Part IV</B> </FONT> </P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>Item 15. Exhibits, Financial
+Statement Schedules, and Reports on Form 8-K.</B> </FONT> </P>
+
+<!-- MARKER FORMAT-SHEET="Para Large Indent Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The
+Pooling Agreement requires an officer&#146;s certificate to be delivered to the Trustee on
+or before April 30, 2003 stating as to the signer thereof, that (i) a review of the
+activities of the Master Servicer during the calendar year ended December 31, 2002 and
+performance under the Pooling Agreement has been made under such officer&#146;s
+supervision, and (ii) to the best of such officer&#146;s knowledge, based on such review,
+the Master Servicer has fulfilled all its obligations under the Pooling Agreement
+throughout such year, or if there has been a default in the fulfillment of any such
+obligation, specifying each such default known to such officer and the nature and status
+thereof. Such officer&#146;s certificate dated as of March 21<SUP>st</SUP>, 2003 is
+attached hereto as Exhibit 99.1. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Large Indent Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Attached hereto
+as Exhibit 99.2 is the Certification of Disclosure for this Form 10-K.  </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Large Indent Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The
+Pooling Agreement requires a statement from a firm of independent public accountants to be
+furnished to the Trustee on or before April 30, 2003, conducted in accordance with
+attestation standards established by the American Institute of Certified Public
+Accountants on the Master Servicer&#146;s minimum servicing standards as a master servicer
+as of and for the year ended December 31, 2002.  Such independent public accountant&acute;s statement, dated February 20, 2003
+is attached hereto as Exhibit 99.3.  The management&acute;s assetrtion concerning compliance with Washington Mutual
+Mortgage Securities Corp.&#146;s minimum servicing standards referenced therein is attached hereto as Exhibit 99.4.
+</FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Large Indent Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The
+registrant filed Reports on Form 8-K that described distributions made to
+Certificateholders on the Distribution Date occurring in the month preceding the month in
+which such Report on Form 8-K was filed and also provided certain information regarding
+delinquent Mortgage Loans and credit enhancements as of such Distribution Date. Such
+Reports on Form 8-K are incorporated by reference as follows: </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Washington Mutual Mortgage Securities Corp. Mortgage Pass-Through
+Certificates, Series 2002-MS5</FONT></P>
+
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=80%>
+<TR VALIGN=Bottom>
+     <TH><FONT FACE="Times New Roman, Times, Serif" SIZE=2></FONT></TH>
+     <TH><FONT FACE="Times New Roman, Times, Serif" SIZE=2></FONT></TH></TR>
+<TR VALIGN=Bottom>
+     <TD WIDTH=20% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>Monthly Distribution Report <BR>for month indicated - 2002</B> </FONT></TD>
+     <TD WIDTH=40% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>Date Filed</B> </FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TH><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TH>
+     <TH><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TH></TR>
+<TR VALIGN=Bottom>
+     <TH><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TH>
+     <TH><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TH></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>September</FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>September 10, 2002</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>October</FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>October 7, 2002</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>November</FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>November 8, 2002</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>December</FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>December 9, 2002</FONT></TD></TR>
+</TABLE>
+
+
+<!-- MARKER PAGE="sheet: 2; page: 2" -->
+<HR SIZE=5 COLOR=GRAY NOSHADE>
+
+
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center-TNR" FSL="Workstation" -->
+<A NAME=A028></A>
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>SIGNATURES </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Large Indent Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuant
+to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the undersigned,
+thereunto duly authorized. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Left-TNR" FSL="Workstation" -->
+<A NAME=A029></A>
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Dated:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+March 26, 2003 </FONT></P>
+
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+<TR VALIGN="BOTTOM">
+     <TH><FONT FACE="Times New Roman" SIZE="2"></FONT></TH>
+     <TH><FONT FACE="Times New Roman" SIZE="2"></FONT></TH></TR>
+<TR VALIGN="TOP">
+     <TD WIDTH="50%"><FONT FACE="Times New Roman" SIZE="2"></FONT></TD>
+     <TD WIDTH="50%"><FONT FACE="Times New Roman"SIZE="2">WASHINGTON MUTUAL MORTGAGE SECURITIES CORP.<BR>
+<BR>
+By: /s/ Thomas G. Lehmann<BR>
+------------------------------------------------<BR>
+Thomas G. Lehmann<BR>
+First Vice President and Sr. Counsel<BR>
+</FONT></TD></TR>
+</TABLE>
+
+<!-- MARKER FORMAT-SHEET="Para Large Indent Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuant
+to the requirements of the Securities Exchange Act of 1934, this report has been signed
+below by the following persons on behalf of the registrant and in the capacities and on
+the dates indicated. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Left-TNR" FSL="Workstation" -->
+<A NAME=A030></A>
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>By: /s/ Megan M. Davidson<BR>
+----------------------------------------------------------------------------------<BR>
+Megan M. Davidson, Senior Vice President and Director <BR>Date: March 20, 2003 </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Left-TNR" FSL="Workstation" -->
+<A NAME=A032></A>
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>By: /s/ Craig S. Davis<BR>
+----------------------------------------------------------------------------------<BR>
+Craig S. Davis, Director <BR>Date: March 21, 2003 </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Left-TNR" FSL="Workstation" -->
+<A NAME=A034></A>
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>By: /s/ Marangal I. Domingo<BR>
+----------------------------------------------------------------------------------<BR>
+Marangal I. Domingo, Chief Executive Officer and Director <BR>Date: March 21, 2003 </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Left-TNR" FSL="Workstation" -->
+<A NAME=A036></A>
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>By: /s/ Michael J. Kula<BR>
+----------------------------------------------------------------------------------<BR>
+Michael J. Kula, Senior Vice President and Director <BR>Date: March 21, 2003 </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Left-TNR" FSL="Workstation" -->
+<A NAME=A038></A>
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>By: /s/ Lehr Stuart<BR>
+----------------------------------------------------------------------------------<BR>
+Lehr Stuart, Director <BR>Date: March 24, 2003 </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Left-TNR" FSL="Workstation" -->
+<A NAME=A040></A>
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>By: /s/ Robert H. Miles<BR>
+----------------------------------------------------------------------------------<BR>
+Robert H. Miles, Senior Vice President and Director <BR>Date: March 21, 2003 </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Left-TNR" FSL="Workstation" -->
+<A NAME=A042></A>
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>By: /s/ Michael L. Parker<BR>
+----------------------------------------------------------------------------------<BR>
+Michael L. Parker, President and Director <BR>Date: March 21, 2003 </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Left-TNR" FSL="Workstation" -->
+<A NAME=A044></A>
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>By: /s/ Marc K. Malone<BR>
+----------------------------------------------------------------------------------<BR>
+Marc K. Malone, First Vice President and Controller <BR>Date: March 26, 2003 </FONT></P>
+
+
+
+<!-- MARKER PAGE="sheet: 3; page: 3" -->
+<HR SIZE=5 COLOR=GRAY NOSHADE>
+
+
+
+
+<!-- MARKER FORMAT-SHEET="Para Large Hang Lv 3-TNR" FSL="Workstation" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0 BORDER=0>
+<TR VALIGN=TOP>
+<TD WIDTH=15%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Exhibit 99.1 </FONT></TD>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH=75%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>
+Officer&#146;s Certificate as to Compliance for the Washington Mutual Mortgage Securities Corp. Mortgage Pass-Through
+Certificates, Series 2002-MS5 dated as of March 21<SUP>st</SUP>, 2003 </FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center-TNR" FSL="Workstation" -->
+<A NAME=A046></A>
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>WASHINGTON MUTUAL
+MORTGAGE SECURITIES CORP. <BR>OFFICER&#146;S CERTIFICATE </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Large Indent Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The
+undersigned officer of Washington Mutual Mortgage Securities Corp., a Delaware corporation
+(the &#147;Company&#148;) hereby certifies on behalf of the Company and on his own behalf
+for purposes of the Washington Mutual Mortgage Securities Corp. Mortgage Pass-Through Certificates, Series 2002-MS5, as follows: </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Hang Lv 2 -TNR" FSL="Workstation" -->
+               <TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0 BORDER=0>
+                    <TR VALIGN=TOP>
+                    <TD WIDTH=10%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+                    <TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1. </FONT></TD>
+                    <TD WIDTH=85%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>
+                    I am the duly appointed, qualified and acting President of the Company. </FONT></TD>
+                    </TR>
+                    </TABLE>
+                    <BR>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Hang Lv 2 -TNR" FSL="Workstation" -->
+               <TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0 BORDER=0>
+                    <TR VALIGN=TOP>
+                    <TD WIDTH=10%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+                    <TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>2. </FONT></TD>
+                    <TD WIDTH=85%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>
+                    Capitalized terms used and not defined herein shall have the meanings ascribed
+                    to such terms in the Pooling and Servicing Agreement related to the
+                    above-referenced series of Certificates. </FONT></TD>
+                    </TR>
+                    </TABLE>
+                    <BR>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Hang Lv 2 -TNR" FSL="Workstation" -->
+               <TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0 BORDER=0>
+                    <TR VALIGN=TOP>
+                    <TD WIDTH=10%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+                    <TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>3. </FONT></TD>
+                    <TD WIDTH=85%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>
+                    I am duly authorized to execute and deliver this Officer&#146;s Certificate on
+                    behalf of the Company. </FONT></TD>
+                    </TR>
+                    </TABLE>
+                    <BR>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Hang Lv 2 -TNR" FSL="Workstation" -->
+               <TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0 BORDER=0>
+                    <TR VALIGN=TOP>
+                    <TD WIDTH=10%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+                    <TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>4. </FONT></TD>
+                    <TD WIDTH=85%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>
+                    A review of the activities of the Master Servicer during the preceding calendar
+                    year and performance under this Agreement has been made under my supervision. </FONT></TD>
+                    </TR>
+                    </TABLE>
+                    <BR>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Hang Lv 2 -TNR" FSL="Workstation" -->
+               <TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0 BORDER=0>
+                    <TR VALIGN=TOP>
+                    <TD WIDTH=10%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+                    <TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>5. </FONT></TD>
+                    <TD WIDTH=85%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>
+                    To the best of my knowledge, based on such review, the Master Servicer has
+                    fulfilled all its obligations under the Agreement throughout such year. </FONT></TD>
+                    </TR>
+                    </TABLE>
+                    <BR>
+
+<!-- MARKER FORMAT-SHEET="Para Large Indent Lv 0-TNR" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IN
+WITNESS WHEREOF, I have signed my name as of March 21<SUP>st</SUP>, 2003. </FONT></P>
+
+
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+<TR VALIGN="BOTTOM">
+     <TH><FONT FACE="Times New Roman" SIZE="2"></FONT></TH>
+     <TH><FONT FACE="Times New Roman" SIZE="2"></FONT></TH></TR>
+<TR VALIGN="TOP">
+     <TD WIDTH="50%"><FONT FACE="Times New Roman" SIZE="2"></FONT></TD>
+     <TD WIDTH="50%"><FONT FACE="Times New Roman"SIZE="2">WASHINGTON MUTUAL MORTGAGE SECURITIES CORP.<BR>
+<BR>
+By: /s/ Michael L. Parker<BR>
+------------------------------------------------<BR>
+Michael L. Parker<BR>
+President and Director<BR>
+</FONT></TD></TR>
+</TABLE>
+
+
+
+<!-- MARKER PAGE="sheet: 4; page: 4" -->
+<HR SIZE=5 COLOR=GRAY NOSHADE>
+
+
+
+<!-- MARKER FORMAT-SHEET="Head Left-TNR" FSL="Workstation" -->
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Exhibit 99.2 </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center-TNR" FSL="Workstation" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>WASHINGTON MUTUAL MORTGAGE SECURITIES CORP. MORTGAGE
+PASS-THROUGH CERTIFICATES, <BR>SERIES 2002-MS5 </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Large Indent Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I,
+Michael L. Parker, a President and Director of Washington Mutual Mortgage Securities
+Corp., certify that: </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Indent Lv 0- TNR" FSL="Workstation" -->
+     <P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          I have reviewed this annual report on Form 10-K, and all reports on Form 8-K
+          containing distribution or servicing reports filed in respect of periods
+          included in the year covered by this annual report, of Washington Mutual Mortgage Securities Corp. Mortgage
+          Pass-Through Certificates, Series 2002-MS5; </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Indent Lv 0- TNR" FSL="Workstation" -->
+     <P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          Based on my knowledge, the information in these reports, taken as a whole, does
+          not contain any untrue statement of a material fact or omit to state a material
+          fact necessary to make the statements made, in light of the circumstances under
+          which such statements were made, not misleading as of the last day of the period
+          covered by this annual report; </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Indent Lv 0- TNR" FSL="Workstation" -->
+     <P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          Based on my knowledge, the distribution or servicing information required to be
+          provided to the trustee by the servicer under the pooling and servicing, or
+          similar, agreement, for inclusion in these reports is included in these reports; </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Indent Lv 0- TNR" FSL="Workstation" -->
+     <P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          I am responsible for reviewing the activities performed by the servicer under
+          the pooling and servicing, or similar, agreement and based upon my knowledge and
+          the annual compliance review required under that agreement, and except as
+          disclosed in the reports, the servicer has fulfilled its obligations under that
+          agreement; and </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Indent Lv 0- TNR" FSL="Workstation" -->
+     <P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          The reports disclose all significant deficiencies relating to the
+          servicer&#146;s compliance with the minimum servicing standards based upon the
+          report provided by an independent public accountant, after conducting a review
+          in compliance with the Uniform Single Attestation Program for Mortgage Bankers
+          or similar procedure, as set forth in the pooling and servicing, or similar,
+          agreement, that is included in these reports. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In
+giving the certifications above, I have reasonably relied on information provided to me by
+unaffiliated third parties acting as servicers and sub-servicers. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Left-TNR" FSL="Default" -->
+
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Dated: March
+21<SUP>st</SUP>, 2003 </FONT></P>
+
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+<TR VALIGN="BOTTOM">
+     <TH><FONT FACE="Times New Roman" SIZE="2"></FONT></TH>
+     <TH><FONT FACE="Times New Roman" SIZE="2"></FONT></TH></TR>
+<TR VALIGN="TOP">
+     <TD WIDTH="50%"><FONT FACE="Times New Roman" SIZE="2"></FONT></TD>
+     <TD WIDTH="50%"><FONT FACE="Times New Roman"SIZE="2">
+<BR>
+By: /s/ Michael L. Parker<BR>
+------------------------------------------------<BR>
+Michael L. Parker<BR>
+President and Director<BR>
+</FONT></TD></TR>
+</TABLE>
+
+<!-- MARKER PAGE="sheet: 5; page: 5" -->
+<HR SIZE=5 COLOR=GRAY NOSHADE>
+
+<!-- MARKER FORMAT-SHEET="Head Left-TNR" FSL="Workstation" -->
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Exhibit 99.3 </FONT></P>
+
+
+<!-- MARKER FORMAT-SHEET="Head Left-TNR" FSL="Workstation" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>[LETTERHEAD OF DELOITTE &amp; TOUCHE] </FONT></P>
+<BR>
+
+<!-- MARKER FORMAT-SHEET="Head Major Left Bold-TNR" FSL="Workstation" -->
+<H1 ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>INDEPENDENT
+ACCOUNTANTS&#146; REPORT </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Head Left-TNR" FSL="Workstation" -->
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Board of Directors and
+StockholderWashington <BR>Mutual Mortgage Securities Corp. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>We have examined management&#146;s
+assertion, included in the accompanying Management&#146;s Assertion Concerning Compliance
+with Washington Mutual Mortgage Securities Corp.&#145;s Minimum Servicing Standards, that
+Washington Mutual Mortgage Securities Corp. (WMMSC) complied with the minimum servicing
+standards in its role as Master Servicer as of and for the year ended December 31, 2002.
+Such assertions were examined relating to those series of certificates included in the
+attached Exhibit 1. Management is responsible for WMMSC&#146;s compliance with those
+minimum servicing standards. Our responsibility is to express an opinion on
+management&#146;s assertion about WMMSC&#146;s compliance based on our examination. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Our examination was conducted in
+accordance with attestation standards established by the American Institute of Certified
+Public Accountants and, accordingly, included examining, on a test basis, evidence about
+WMMSC&#146;s compliance with its minimum servicing standards and performing such other
+procedures as we considered necessary in the circumstances. Series of certificates subject
+to such procedures were selected using sampling methods, and accordingly, we make no
+representations that our examination procedures were performed on a specific series of
+certificates as listed in the attached Exhibit I. We believe that our examination provides
+a reasonable basis for our opinion. Our examination does not provide a legal determination
+on WMMSC&#146;s compliance with its minimum servicing standards. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>In our opinion, management&#146;s
+assertion that WMMSC complied with the aforementioned minimum servicing standards as of
+and for the year ended December 31, 2002, is fairly stated, in all material respects. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Left-TNR" FSL="Default" -->
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>/s/  Deloitte &amp; Touche LLP </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Left-TNR" FSL="Default" -->
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>February 20, 2003 </FONT></P>
+
+
+<!-- MARKER PAGE="sheet: 5; page: 5" -->
+<HR SIZE=5 COLOR=GRAY NOSHADE>
+
+
+
+<!-- MARKER FORMAT-SHEET="Head Major Left Bold-TNR" FSL="Workstation" -->
+<H1 ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>WASHINGTON MUTUAL
+MORTGAGE SECURITIES CORP. </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Head Left-TNR" FSL="Default" -->
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Exhibit I </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Page Rule Single" FSL="Default" -->
+     <HR ALIGN=LEFT WIDTH=100% SIZE=1 NOSHADE>
+
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=60%>
+<TR VALIGN=Bottom>
+     <TH COLSPAN="2" ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>POOL <BR>NUMBER</FONT></TH>
+     <TH COLSPAN="2" ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>SERIES <BR>NAME</FONT></TH></TR>
+<TR VALIGN=Bottom>
+     <TD WIDTH=13% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1990</FONT></TD>
+     <TD WIDTH=2% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD WIDTH="13%" ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Sasco 2002-26</FONT></TD>
+     <TD WIDTH="2%" ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1663</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>2000-CMC-01</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1700</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>CFSB 2001-1</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1707</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>CSFB 2001-2</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1783</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>CSFB 2001-26</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1795</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>CSFB 2001-28</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1807</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>CSFB 2001-33</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1709</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>CSFB 2001-4</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1723</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>CSFB 2001-9</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1710</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>CSFB 2001-AR7</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1523</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>FNT 1999-2</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1681</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>FNT 2000-1</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1535</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>FNT 99-3</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1655</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>PNCMT 2000-01</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1445</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1998-2</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1507</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1999-A1 INDYMAC</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1508</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1999-A2 INDYMAC</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1546</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>INMC - RAST -A5</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1522</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>INMC RAST A3</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1776</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Thornburg 2001-1 &amp; 2</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1773</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>CHASE 2001-S5</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1797</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>CHASE 2001-S7</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1855</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Chase 2002-S6</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1732</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>CSFB 2001-11</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1738</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>CSFB 2001-AR14</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1867</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>CSFB 2002-19</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1875</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>CSFB 2002-22</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1898</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>CSFB 2002-24</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1935</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>CSFB 2002-26</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1949</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>CSFB 2002-29</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1976</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>CSFB 2002-30</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1992</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>CSFB 2002-34</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>2009</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>CSFB 2002-34</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1828</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>CSFB 2002-5</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1831</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>CSFB 2002-7</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1836</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>CSFB 2002-9</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1823</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>CSFB 2002-AR2</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1870</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>CSFB 2002-AR21</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1896</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>CSFB 2002-AR25</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1939</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>CSFB 2002-AR27</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1952</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>CSFB 2002-AR28</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1971</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>CSFB 2002-AR31</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>2001</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>CSFB 2002-AR33</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1842</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>CSFB 2002-AR8</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>2030</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>CSFB 2003-1</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>2033</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>CSFB 2003-AR2</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1765</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>CSFB2001-AR19</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1851</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>CSFB2002-10</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1861</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>CSFB2002-18</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1857</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>CSFB2002-AR13</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1677</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>DLJ ABS-2000-2</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1740</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>FNT 2001-2</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1764</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>FNT 2001-4</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1705</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>SASCO 2001-8A</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1946</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>SBMSI 2002-HYB1</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1001</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1982-2</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1003</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1982-3</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1007</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1982-4 (FSLIC)</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1124</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1984 ARM I-2-2</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1122</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1984 ARM S-1-1</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1119</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1984 ARM-I-1-1</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1120</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1984 ARM-I-1-2</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1123</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1984 ARM-S-2-1</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1104</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1984-1 (FSLIC)</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1111</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1984-2 (FSLIC)</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1112</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1984-3 (FSLIC)</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1133</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1985 PA-1 ARM</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1126</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1985-1 ARM</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1136</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1985-10 ARM</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1138</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1985-11 ARM</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1139</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1985-12 ARM</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1140</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1985-13 ARM</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1146</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1985-15 ARM</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1145</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1985-16 ARM</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1147</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1985-17 ARM</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1149</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1985-18 ARM</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1150</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1985-19 ARM</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1127</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1985-2 ARM</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1152</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1985-20 ARM</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1157</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1985-22 ARM</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1158</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1985-23 ARM</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1128</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1985-4 ARM</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1130</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1985-5 ARM</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1125</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1985-6 ARM</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1132</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1985-7 ARM</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1134</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1985-8 ARM</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1135</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1985-9 ARM</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1156</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1985-PR3</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1163</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1986 PA-1 ARM</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1159</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1986-1 ARM</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1167</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1986-2 ARM</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1168</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1986-3 ARM</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1165</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1986-PA3 ARM</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1166</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1986-PA4 ARM</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1170</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1986-PA6</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1160</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1986-PR1</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1217</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1987-1 ARM</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1218</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1987-2 ARM</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1228</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1987-B</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1252</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1987-C</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1216</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1987-PA1</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1258</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1987-PA10</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1256</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1987-PA12 ARM</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1259</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1987-PA13 ARM</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1263</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1987-PA14 ARM</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1221</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1987-PA2 ARM</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1224</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1987-PA5</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1225</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1987-PA6 ARM</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1229</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1987-PA7 ARM</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1248</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1987-PA8</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1254</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1987-PA9 ARM</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1233</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1987-PR1</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1242</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1987-PR10</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1243</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1987-PR11</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1245</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1987-PR13</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1241</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1987-PR9</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1283</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1988-A</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1253</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1988-PA1 ARM</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1276</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1988-PA10 ARM</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1279</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1988-PA12 ARM</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1280</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1988-PA13 ARM</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1281</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1988-PA14 ARM</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1286</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1988-PA16 ARM</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1287</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1988-PA17 ARM</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1288</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1988-PA18</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1290</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1988-PA19</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1251</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1988-PA2 A ARM</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1262</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1988-PA2 B ARM</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1269</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1988-PA4 ARM</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1270</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1988-PA6 ARM</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1273</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1988-PA7 ARM</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1275</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1988-PA9 ARM</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1272</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1988-PR1</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1294</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1989-A</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1257</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1989-PA1 ARM</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1295</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1989-PA2</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1293</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1989-PR1</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1308</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1990-6</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1297</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1990-PR1</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1312</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1991-D</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1324</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1992-2</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1349</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1993-1</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1360</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1993-11</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1351</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1993-3</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1354</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1993-6</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1355</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1993-7</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1356</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1993-9</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1359</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1993-PA1</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1370</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1995-PA1</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1376</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1996-PA2</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1116</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>84 ARM P-1-1-4</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1323</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1992-1</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1470</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1998-3 IMPAC</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1545</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1999-7</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1775</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>2001-AR2</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1788</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>2001-AR3</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1782</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>2001-AR4</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1800</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>2001-AR6</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1817</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>2002-AR1</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1813</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>2002-AR2</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1824</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>2002-AR3</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1844</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>2002-AR4</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1853</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>2002-AR5</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1863</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>2002-AR6</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1864</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>2002-S3</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1811</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Thornburg 2001-2</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1799</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>WAMMS 2001-AR1</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1931</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Wamu 2002-AR10</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1932</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Wamu 2002-AR11</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1938</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Wamu 2002-AR12</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1943</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Wamu 2002-AR13</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1944</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Wamu 2002-AR14</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1958</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Wamu 2002-AR15</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1959</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Wamu 2002-AR16</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1956</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Wamu 2002-AR17</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1981</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Wamu 2002-AR18</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>2011</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Wamu 2002-AR19</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1848</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Wamu 2002-AR7</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1888</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Wamu 2002-AR8</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1889</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Wamu 2002-AR9</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1960</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Wamu 2002-S7</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>2006</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Wamu 2002-S8</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1317</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1991-I</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1318</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1991-J LIBOR</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1319</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1991-K</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1321</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1991-M MC</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1334</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1992-12</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1340</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1992-18</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1343</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1992-20</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1345</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1992-21</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1330</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1992-8</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1342</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1992-PR1</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1353</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1993-5</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1380</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1996-1</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1412</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1997 BPA2</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1458</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1998-7</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1471</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1998-10</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1475</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1998-11</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1488</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1998-12</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1494</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1998-14</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1462</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1998-8</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1466</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1998-9</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1538</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1999-5</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1502</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1999-1</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1569</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1999-10</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1632</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1999-11</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1641</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1999-12</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1510</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1999-2</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1517</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1999-3</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1528</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1999-4</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1547</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1999-6</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1549</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1999-8</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1563</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1999-9</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1562</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1999-A-PAMEX</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1659</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>2000-02</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1650</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>2000-1</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1664</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>2000-3</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1671</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>2000-4</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1678</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>2000-5</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1682</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>2000-6</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1680</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>2000-7</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1689</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>2000-8</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1694</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>2000-9</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1696</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>2001-1</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1699</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>2001-2</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1727</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>2001-3</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1734</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>2001-4</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1729</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>2001-5</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1746</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>2001-6</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1743</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>2001-7</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1750</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>2001-8</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1753</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>2001-9</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1759</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>2001-MS10</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1772</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>2001-MS11</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1779</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>2001-MS12</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1790</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>2001-MS14</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1802</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>2001-MS15</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1777</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>2001-S10</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1796</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>2001-S11</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1749</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>2001-S8</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1758</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>2001-S9</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1818</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>2002-MS1</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1833</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>2002-MS2</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1846</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>2002-MS3</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1858</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>2002-MS4</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1814</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>2002-S1</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1825</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>2002-S2</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1843</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>2002-WH4</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1726</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>ABNMC 2001-1</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1748</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>ABNMC 2001-4</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1984</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>AMAC 2002-9</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>6215</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>MLCC 96-PA4</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>6216</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>MLCC 96-PA5</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1945</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>UBS Mstr 2002-6</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1839</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>WAMMS 2002-AR1</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1882</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Wamms 2002-AR2</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1979</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Wamms 2002-AR3</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>2003</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Wamms 2002-MS10</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1987</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Wamms 2002-MS11</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1991</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Wamms 2002-MS12</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1878</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Wamms 2002-MS5</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1893</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Wamms 2002-MS6</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1947</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Wamms 2002-MS7</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1967</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Wamms 2002-MS8</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1965</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Wamms 2002-MS9</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>2023</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Wamms 2003-AR1</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>2021</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Wamms 2003-MS1</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>2016</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Wamms 2003-MS2</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>2020</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Wamms 2003-MS6</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1762</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>WAMU 2001-AR1</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1886</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Wamu 2002-S5</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1942</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Wamu 2002-S6</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1995</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1984-2 (FSLIC)</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1996</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1984-3 (FSLIC)</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1933</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>UBS Mastr 2002-5</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1363</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1993-12</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1361</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1993-PA2A</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1362</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1993-PA2B</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1364</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1994-1</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1366</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1994-2</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1367</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1994-3</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1368</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1994-4</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1365</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1994-PA1</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1369</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1995-1</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1372</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1995-2</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1374</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1995-3</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1373</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1995-PA2</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1371</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1995-PR1</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1381</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1996-2</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1385</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1996-3</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1426</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1996-4</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1377</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1996-GROUP-1</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1375</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1996-PA1</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1384</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1996-PA10</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>6028</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1996-PA2</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>6023</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1996-PA4</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1378</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1996-PA5</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1379</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1996-PA6</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1383</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1996-PA9</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1391</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1997 PR-1</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1387</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1997-1</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1388</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1997-2</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1428</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1997-3</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1430</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1997-4</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1394</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1997-5</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1432</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1997-6</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1402</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1997-8</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1405</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1997-H</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1397</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1997-MS1</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1406</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1998-1</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1416</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1998-2</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1437</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1998-3</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1440</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1998-4</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1448</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1998-5</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1452</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1998-6</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1434</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>CMC 1997-2</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1683</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>DLJ ABS 2000-3</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1757</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>MLMI 2001-WM1</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1982</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>UBS MALT 2002-3</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1978</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>UBS Mstr 2002-8</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1154</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1985-21 ARM</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>6517</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1996-PA4</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>6515</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1999-FSB1</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>6516</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1999-FSB1</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1704</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>2001-FL1</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>6217</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>2001-MS1</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1701</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>2001-RP1</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1702</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>2001-RP2</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1492</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>CHASE 98S7</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN="BOTTOM" BGCOLOR="#CCEEFF">
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1711</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>PNC TRUST</FONT></TD><TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+</TABLE>
+
+
+
+<!-- MARKER PAGE="sheet: 3; page: 3" -->
+<HR SIZE=5 COLOR=GRAY NOSHADE>
+
+<!-- MARKER FORMAT-SHEET="Head Left-TNR" FSL="Workstation" -->
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Exhibit 99.4 </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Major Left Bold-TNR" FSL="Workstation" -->
+<H1 ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Management&#146;s
+Assertion Concerning Compliance with Washington Mutual Mortgage
+Securities Corp.&#146;s Minimum Servicing Standards </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Head Left-TNR" FSL="Workstation" -->
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>February 20, 2003 </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Left-TNR" FSL="Workstation" -->
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Deloitte &amp; Touche LLP<BR>700
+Fifth Avenue <BR>Suite 4500 <BR>Seattle, Washington 98104 </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>For the year ended December 31, 2002,
+Washington Mutual Mortgage Securities Corp. (WMMSC) has complied in all material respects
+with our minimum servicing standards set forth below under master servicing arrangements.
+Primary servicing functions are performed by various subservicers. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Our minimum standards are: </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Flush Lv 0- TNR" FSL="Workstation" -->
+     <P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>I.&nbsp;&nbsp;&nbsp;&nbsp;
+          RECONCILIATIONS </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Flush Lv 0- TNR" FSL="Workstation" -->
+     <P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>A.&nbsp;&nbsp;&nbsp;&nbsp;
+          Reconciliations shall be prepared on a monthly basis for all clearing accounts.
+          These reconciliations shall: </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Indent Lv 0- TNR" FSL="Workstation" -->
+     <P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          Be mathematically accurate. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Indent Lv 0- TNR" FSL="Workstation" -->
+     <P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ Be prepared within forty-five (45) calendar days after each clearing
+                    account&#146;s statement cutoff date. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Indent Lv 0- TNR" FSL="Workstation" -->
+     <P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ Be reviewed and approved by someone other than the person who prepared the reconciliation, and document explanations for reconciling items.  </FONT></P>
+
+
+<!-- MARKER FORMAT-SHEET="Para (List) Flush Lv 0- TNR" FSL="Workstation" -->
+     <P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>B.&nbsp;&nbsp;&nbsp;&nbsp;
+          Reconciling items shall be resolved within ninety (90) calendar days of their
+          original identification. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Flush Lv 0- TNR" FSL="Workstation" -->
+     <P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>C.&nbsp;&nbsp;&nbsp;&nbsp;
+          Each clearing account shall be maintained as prescribed by applicable pooling
+          and servicing agreements. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2><U>Exception</U> &#151; During the
+year, certain reconciliations were not completed within our minimum servicing standards
+and contained items that were not resolved within 90 calendar days of their original
+identification. These occurrences did not adversely impact trustees, paying agents, or
+investors. The reconciliation process has since been enhanced and the December 31, 2002
+reconciliations were in compliance with the minimum servicing standards in all material
+respects. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Flush Lv 0- TNR" FSL="Workstation" -->
+     <P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>II.&nbsp;&nbsp;&nbsp;&nbsp;
+          SUBSERVICER REMITTANCES </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Flush Lv 0- TNR" FSL="Workstation" -->
+     <P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>A.&nbsp;&nbsp;&nbsp;&nbsp;
+          Remittances for mortgage payments and payoffs received from subservicers shall
+          be deposited into the applicable clearing account within one business day of
+          receipt. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Flush Lv 0- TNR" FSL="Workstation" -->
+     <P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>B.&nbsp;&nbsp;&nbsp;&nbsp;
+          Remittances from subservicers shall be reconciled to applicable loan records
+          maintained by WMMSC during the appropriate accounting cycle. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Flush Lv 0- TNR" FSL="Workstation" -->
+     <P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>C.&nbsp;&nbsp;&nbsp;&nbsp;
+          Reconciliations shall be performed monthly for each subservicer remittance.
+          These reconciliations shall: </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Indent Lv 0- TNR" FSL="Workstation" -->
+     <P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          Be mathematically accurate. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Indent Lv 0- TNR" FSL="Workstation" -->
+     <P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          Be prepared within thirty (30) calendar days after the cutoff date. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Flush Lv 0- TNR" FSL="Workstation" -->
+     <P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>III.&nbsp;&nbsp;&nbsp;&nbsp;
+          DISBURSEMENTS </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Flush Lv 0- TNR" FSL="Workstation" -->
+     <P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>A.&nbsp;&nbsp;&nbsp;&nbsp;
+          Disbursements to trustees, paying agents, and investors shall be made in
+          accordance with the applicable pooling and servicing agreements and/or the
+          prospectus indicating how cash flows are to be allocated. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Flush Lv 0- TNR" FSL="Workstation" -->
+     <P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>B.&nbsp;&nbsp;&nbsp;&nbsp;
+          Disbursements from the clearing accounts for amounts remitted to trustees,
+          paying agents and investors, per our monthly reports to those entities, shall
+          agree with the bank statements for the clearing accounts. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Flush Lv 0- TNR" FSL="Workstation" -->
+     <P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>C.&nbsp;&nbsp;&nbsp;&nbsp;
+          Only permitted withdrawals, per our interpretation of the applicable pooling and
+          servicing agreements, shall be made from the clearing accounts. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Flush Lv 0- TNR" FSL="Workstation" -->
+     <P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>D.&nbsp;&nbsp;&nbsp;&nbsp;
+          Disbursements to trustees, paying agents and investors from clearing accounts,
+          made via wire transfer, shall be made only by authorized personnel. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Flush Lv 0- TNR" FSL="Workstation" -->
+     <P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>IV.&nbsp;&nbsp;&nbsp;&nbsp;
+          INVESTOR ACCOUNTING AND REPORTING </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Flush Lv 0- TNR" FSL="Workstation" -->
+     <P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>A.&nbsp;&nbsp;&nbsp;&nbsp;
+          Statements to the trustees, paying agents and investors shall be provided with
+          each monthly distribution, in accordance with applicable pooling and servicing
+          agreements, detailing the applicable distribution activity and effect on the
+          unpaid principal balance of the mortgage loans. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Flush Lv 0- TNR" FSL="Workstation" -->
+     <P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>V.&nbsp;&nbsp;&nbsp;&nbsp;
+          MORTGAGOR LOAN ACCOUNTING </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Flush Lv 0- TNR" FSL="Workstation" -->
+     <P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>A.&nbsp;&nbsp;&nbsp;&nbsp;
+          Loan records maintained by WMMSC shall agree with, or reconcile within material
+          amounts to, the mortgage loan records maintained by the subservicer with respect
+          to unpaid principal balance on a monthly basis. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Flush Lv 0- TNR" FSL="Workstation" -->
+     <P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>VI.&nbsp;&nbsp;&nbsp;&nbsp;
+          DELIQUENCIES </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Flush Lv 0- TNR" FSL="Workstation" -->
+     <P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>A.&nbsp;&nbsp;&nbsp;&nbsp;
+          Reports from subservicers identifying delinquent loans shall be received and
+          reviewed monthly. The number and aggregate principal balances of delinquent
+          mortgage loans contained in these reports shall be included in our monthly
+          statements to the trustees, paying agents and investors </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Flush Lv 0- TNR" FSL="Workstation" -->
+     <P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>VII.&nbsp;&nbsp;&nbsp;&nbsp;
+          INSURANCE POLICIES </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>As of and for this same period,
+Washington Mutual, Inc. (the ultimate parent of WMMSC) maintained a fidelity bond in the
+amount $110,000,000 and a mortgage impairment/mortgagees errors and omissions and
+professional liability insurance policy in the amount of $20,000,000. </FONT></P><BR>
+
+
+<!-- MARKER FORMAT-SHEET="Head Left-TNR" FSL="Workstation" -->
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>/s/ Michael L. Parker <BR>
+____________________________________<BR>Michael L. Parker<BR>President <BR>Washington Mutual
+Mortgage Securities Corp. </FONT></P><BR>
+
+<!-- MARKER FORMAT-SHEET="Head Left-TNR" FSL="Workstation" -->
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>/s/ Marangal I. Domingo <BR>
+____________________________________<BR>Marangal I. Domingo<BR>Director
+and Chief Executive Officer<BR>Washington Mutual Mortgage Securities Corp. </FONT></P>
+
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
