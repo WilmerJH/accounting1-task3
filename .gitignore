@@ -6,7 +6,13 @@ secrets.env
 # Generated data and output
 data/pulled/
 data/generated/
+data/generated/10k_texts_full/
+data/generated/10k_texts/
+data/generated/sec_filings/
 output/
+*.html
+*.htm
+*.tmp
 
 # Big files which have download links
 data/external/cik_to_permno.csv
