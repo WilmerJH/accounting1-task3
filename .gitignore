@@ -11,6 +11,8 @@ output/
 # Big files which have download links
 data/external/cik_to_permno.csv
 data/external/cik_to_permno.csv.gz
+data/external/ret_all.csv
+data/external/ret_all.csv.gz
 
 # R / Quarto
 .Rproj.user
