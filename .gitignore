@@ -5,8 +5,12 @@ secrets.env
 
 # Generated data and output
 data/pulled/
-data/generated/
 output/
+
+# DuckDB temporary files
+data/generated/duckdb_temp/
+*.tmp
+*.wal
 
 # Big files which have download links
 data/external/cik_to_permno.csv
