@@ -8,29 +8,54 @@ library(tidyverse)
 
 # ------------------------------------------------------------
 # Step 1: Read Compustat annual data
-# 这一步：读取 Compustat 年度财务数据
-#
-# Required raw variables:
-# gvkey, fyear, sic, at, ceq, ni, dltt, dlc, prcc_f, csho
+# 这一步：读取从 WRDS 下载的 Compustat 年度财务数据
+# 注意：这个原始数据不要上传到 public GitHub
 # ------------------------------------------------------------
 
 comp <- read_csv("data/external/compustat_annual.csv")
 
-# 把所有列名转成小写，避免 WRDS 下载后大小写不一致
+# 把列名统一成小写，避免大小写问题
 names(comp) <- tolower(names(comp))
 
-# 看看文件里有哪些列
-names(comp)
-
 
 # ------------------------------------------------------------
-# Step 2: Construct control variables
-# 这一步：从 Compustat 原始财务变量生成回归控制变量
+# Step 2: Clean identifiers and remove duplicate firm-years
+# 这一步：整理公司 ID，并确保每个 gvkey-fyear 只保留一行
 # ------------------------------------------------------------
 
-controls <- comp %>%
+comp_clean <- comp %>%
   mutate(
-    # 如果债务变量缺失，先当作 0 处理，避免 leverage 直接变成 NA
+    gvkey = str_pad(as.character(gvkey), width = 6, pad = "0"),
+
+    cik = as.character(cik),
+    cik = str_replace(cik, "\\.0$", ""),
+    cik = if_else(is.na(cik) | cik == "NA", NA_character_, str_pad(cik, width = 10, pad = "0")),
+
+    # 如果同一个 firm-year 同时有 INDL 和 FS，优先保留 INDL
+    indfmt_priority = case_when(
+      indfmt == "INDL" ~ 1,
+      indfmt == "FS" ~ 2,
+      TRUE ~ 3
+    )
+  ) %>%
+  arrange(
+    gvkey,
+    fyear,
+    indfmt_priority
+  ) %>%
+  group_by(gvkey, fyear) %>%
+  slice(1) %>%
+  ungroup()
+
+
+# ------------------------------------------------------------
+# Step 3: Construct control variables
+# 这一步：从 Compustat 原始变量生成回归需要的控制变量
+# ------------------------------------------------------------
+
+controls <- comp_clean %>%
+  mutate(
+    # 如果债务变量缺失，先当作 0 处理
     dltt = replace_na(dltt, 0),
     dlc = replace_na(dlc, 0),
 
@@ -43,7 +68,7 @@ controls <- comp %>%
     size = log(at),
 
     # Book-to-market = common equity / market equity
-    # 账面市值比 = 普通股账面价值 / 股票市值
+    # 账面市值比 = 普通股权益 / 股票市值
     bm = ceq / market_equity,
 
     # Leverage = total debt / total assets
@@ -55,20 +80,28 @@ controls <- comp %>%
     roa = ni / at,
 
     # Loss dummy = 1 if net income is negative, otherwise 0
-    # 是否亏损：如果净利润小于 0，则为 1，否则为 0
+    # 是否亏损：净利润小于 0 时为 1，否则为 0
     loss = if_else(ni < 0, 1, 0),
 
     # Two-digit SIC industry code
-    # 二位数行业代码，用来做 industry fixed effects
+    # 二位数行业代码，用于 industry fixed effects
     sic2 = floor(as.numeric(sic) / 100)
   ) %>%
   filter(
     at > 0,
-    market_equity > 0
+    market_equity > 0,
+    fyear >= 2001,
+    fyear <= 2024
   ) %>%
   select(
     gvkey,
     fyear,
+    costat,
+    indfmt,
+    conm,
+    tic,
+    cusip,
+    cik,
     sic,
     sic2,
     size,
@@ -76,12 +109,19 @@ controls <- comp %>%
     leverage,
     roa,
     loss,
-    market_equity
+    market_equity,
+    at,
+    ceq,
+    dlc,
+    dltt,
+    ni,
+    csho,
+    prcc_f
   )
 
 
 # ------------------------------------------------------------
-# Step 3: Check the controls dataset
+# Step 4: Check the controls dataset
 # 这一步：检查生成的控制变量是否合理
 # ------------------------------------------------------------
 
@@ -93,6 +133,7 @@ controls %>%
     n_firms = n_distinct(gvkey),
     min_year = min(fyear, na.rm = TRUE),
     max_year = max(fyear, na.rm = TRUE),
+    duplicate_firm_years = sum(duplicated(paste(gvkey, fyear))),
     missing_size = sum(is.na(size)),
     missing_bm = sum(is.na(bm)),
     missing_leverage = sum(is.na(leverage)),
@@ -102,7 +143,7 @@ controls %>%
 
 
 # ------------------------------------------------------------
-# Step 4: Save controls
+# Step 5: Save controls
 # 这一步：保存控制变量，后面主回归会直接读取这个文件
 # ------------------------------------------------------------
 
