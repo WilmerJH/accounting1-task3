@@ -403,7 +403,7 @@ def main() -> None:
         raise SystemExit(
             "错误: 下载 SEC 文件必须传入 --user-agent。\n"
             "请填写你自己的真实姓名和邮箱，例如:\n"
-            'D:\\users\\anaconda3\\python.exe code\\tone\\04_download_pilot_10k_texts.py '
+            'python code\\tone\\04_download_pilot_10k_texts.py '
             '--limit 5 --user-agent "Your Name your.email@example.com"\n'
             "不要使用假的邮箱。"
         )
