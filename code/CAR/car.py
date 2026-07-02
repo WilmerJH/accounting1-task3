@@ -1,14 +1,14 @@
 # Build Y: market-adjusted CAR around 10-K filing dates
 # -----------------------------------------------------
 # Input:
-#   data/generated/full_10k_sample_dedup_stratified_1500_per_year.csv
+#   data/generated/tone/full_10k_sample_dedup_stratified_1500_per_year.csv
 #   data/external/cik_to_permno.csv.gz
 #   data/external/ret_all.csv.gz
 #   data/external/index.csv
 #
 # Output:
-#   data/generated/10k_sample_with_car.csv
-#   data/generated/analysis_sample_car_m1_p1.csv
+#   data/generated/CAR/10k_sample_with_car.csv
+#   data/generated/CAR/analysis_sample_car_m1_p1.csv
 
 from pathlib import Path
 import duckdb
@@ -38,15 +38,15 @@ con.execute("SET threads=1")
 con.execute("SET preserve_insertion_order=false")
 con.execute(f"SET temp_directory='{duckdb_temp}'")
 
-sample_path = ROOT / "data/generated/full_10k_sample_dedup_stratified_1500_per_year.csv"
+sample_path = ROOT / "data/generated/tone/full_10k_sample_dedup_stratified_1500_per_year.csv"
 ret_path = ROOT / "data/external/ret_all.csv.gz"
 index_path = ROOT / "data/external/index.csv"
 link_path = ROOT / "data/external/cik_to_permno.csv.gz"
 
-out_path = ROOT / "data/generated/10k_sample_with_car.csv"
-analysis_path = ROOT / "data/generated/analysis_sample_car_m1_p1.csv"
+out_path = ROOT / "data/generated/CAR/10k_sample_with_car.csv"
+analysis_path = ROOT / "data/generated/CAR/analysis_sample_car_m1_p1.csv"
 
-ret_filtered_parquet = ROOT / "data/generated/ret_filtered.parquet"
+ret_filtered_parquet = ROOT / "data/generated/CAR/ret_filtered.parquet"
 
 required_files = [sample_path, ret_path, index_path, link_path]
 for p in required_files:
