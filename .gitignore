@@ -8,7 +8,8 @@ data/pulled/
 data/generated/
 data/generated/10k_texts_full/
 data/generated/10k_texts/
-data/generated/sec_filings/
+data/pulled/sec_filings/
+
 output/
 *.html
 *.htm

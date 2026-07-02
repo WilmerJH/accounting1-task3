@@ -8,7 +8,7 @@ data/generated/pilot_10k_sample_500.csv
 data/generated/pilot_10k_sample_500_with_paths.csv
 
 下载目录:
-data/sec_filings/10k_pilot/
+data/pulled/sec_filings/10k_pilot/
 
 注意:
 1. 本脚本会访问 SEC 网站，请务必传入真实的 User-Agent，例如:
@@ -40,7 +40,7 @@ if hasattr(sys.stdout, "reconfigure"):
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
 DEFAULT_INPUT = PROJECT_ROOT / "data" / "generated" / "pilot_10k_sample_500.csv"
 DEFAULT_OUTPUT = PROJECT_ROOT / "data" / "generated" / "pilot_10k_sample_500_with_paths.csv"
-DEFAULT_DOWNLOAD_DIR = PROJECT_ROOT / "data" / "sec_filings" / "10k_pilot"
+DEFAULT_DOWNLOAD_DIR = PROJECT_ROOT / "data" / "pulled" / "sec_filings" / "10k_pilot"
 DEFAULT_NEGTONE_OUTPUT = PROJECT_ROOT / "data" / "generated" / "tone" / "pilot_lm_negtone.csv"
 
 DIRECT_DOCUMENT_EXTENSIONS = {".txt", ".htm", ".html"}
