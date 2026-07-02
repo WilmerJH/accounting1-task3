@@ -5,6 +5,7 @@ secrets.env
 
 # Generated data and output
 data/pulled/
+data/generated/
 output/
 
 # DuckDB temporary files
