@@ -22,7 +22,10 @@ RUN apt-get update \
  && rm -rf /var/lib/apt/lists/* /var/cache/apt/archives/*
 
 RUN install2.r --error --skipinstalled \
+      tidyverse \
       ggplot2 \
+      fixest \
+      modelsummary \
       knitr \
       rmarkdown \
       tinytex \
