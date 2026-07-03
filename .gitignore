@@ -15,6 +15,10 @@ output/
 *.htm
 *.tmp
 
+# Python cache
+__pycache__/
+*.py[cod]
+
 # DuckDB temporary files
 data/generated/duckdb_temp/
 *.tmp
