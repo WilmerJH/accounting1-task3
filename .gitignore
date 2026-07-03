@@ -6,7 +6,14 @@ secrets.env
 # Generated data and output
 data/pulled/
 data/generated/
+data/generated/10k_texts_full/
+data/generated/10k_texts/
+data/pulled/sec_filings/
+
 output/
+*.html
+*.htm
+*.tmp
 
 # DuckDB temporary files
 data/generated/duckdb_temp/
