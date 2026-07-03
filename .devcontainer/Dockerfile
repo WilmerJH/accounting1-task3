@@ -24,11 +24,12 @@ RUN apt-get update \
 RUN install2.r --error --skipinstalled \
       tidyverse \
       ggplot2 \
+      fixest \
+      modelsummary \
       knitr \
       rmarkdown \
       tinytex \
       duckdb \
-      DBI \
       gt \
       httr \
       htmltools \
