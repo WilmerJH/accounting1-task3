@@ -1,2 +1,28 @@
 /.quarto/
 paper_files/
+
+# Quarto / Beamer render artifacts
+*.html
+*.pdf
+*.tex
+*.log
+*.aux
+*.out
+*.toc
+*.nav
+*.snm
+*.vrb
+*.bbl
+*.blg
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# Quarto cache/support folders
+*_files/
+*_cache/
+.quarto/
+
+# R / knitr cache if generated inside doc/
+cache/
+figure/
