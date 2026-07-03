@@ -1,20 +1,21 @@
 """
-下载 pilot 样本对应的 10-K 文本文件，并生成带本地路径的新 pilot CSV。
+Download 10-K text files for the pilot sample and create a new pilot CSV with local paths.
 
-默认输入:
+Default input:
 data/generated/pilot_10k_sample_500.csv
 
-默认输出:
+Default output:
 data/generated/pilot_10k_sample_500_with_paths.csv
 
-下载目录:
+Download directory:
 data/pulled/sec_filings/10k_pilot/
 
-注意:
-1. 本脚本会访问 SEC 网站，请务必传入真实的 User-Agent，例如:
+Notes:
+1. This script accesses the SEC website, so pass a real User-Agent, for example:
    --user-agent "Your Name your.email@example.com"
-2. 默认每次请求后等待 1 秒，以遵守 SEC fair access。
-3. 下载结束后默认自动调用 03_lm_negtone_pilot.py 重新计算 LM negative tone。
+2. By default, the script waits 1 second after each request to follow SEC fair access.
+3. After downloads finish, the script automatically calls 03_lm_negtone_pilot.py
+   to recalculate LM negative tone.
 """
 
 import argparse
@@ -31,7 +32,7 @@ import requests
 from bs4 import BeautifulSoup
 
 
-# Windows 终端有时会使用非 UTF-8 编码；这里尽量保证中文进度信息正常显示。
+# Some Windows terminals use non-UTF-8 encodings; keep progress messages readable.
 if hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(encoding="utf-8")
     sys.stderr.reconfigure(encoding="utf-8")
@@ -50,50 +51,50 @@ MAX_RETRIES = 3
 
 
 def parse_args() -> argparse.Namespace:
-    """解析命令行参数。"""
-    parser = argparse.ArgumentParser(description="下载 pilot 样本中的 10-K 文本文件。")
+    """Parse command-line arguments."""
+    parser = argparse.ArgumentParser(description="Download 10-K text files in the pilot sample.")
     parser.add_argument(
         "--input",
         default=str(DEFAULT_INPUT),
-        help="pilot CSV 路径，默认 data/generated/pilot_10k_sample_500.csv",
+        help="Pilot CSV path; default is data/generated/pilot_10k_sample_500.csv",
     )
     parser.add_argument(
         "--output",
         default=str(DEFAULT_OUTPUT),
-        help="带本地路径的新 CSV 路径，默认 data/generated/pilot_10k_sample_500_with_paths.csv",
+        help="New CSV path with local file paths; default is data/generated/pilot_10k_sample_500_with_paths.csv",
     )
     parser.add_argument(
         "--download-dir",
         default=str(DEFAULT_DOWNLOAD_DIR),
-        help="10-K 文本保存目录，默认 data/sec_filings/10k_pilot/",
+        help="Directory for saved 10-K text files; default is data/sec_filings/10k_pilot/",
     )
     parser.add_argument(
         "--user-agent",
         default=None,
-        help='SEC 请求 User-Agent，请填写真实姓名和邮箱，例如 "Your Name your.email@example.com"',
+        help='SEC request User-Agent; use a real name and email, for example "Your Name your.email@example.com"',
     )
     parser.add_argument(
         "--sleep",
         type=float,
         default=1.0,
-        help="每次 SEC 请求后的等待秒数，默认 1.0",
+        help="Seconds to wait after each SEC request; default is 1.0",
     )
     parser.add_argument(
         "--limit",
         type=int,
         default=None,
-        help="只处理前 N 条记录，用于测试，例如 --limit 5",
+        help="Process only the first N records for testing, for example --limit 5",
     )
     parser.add_argument(
         "--skip-negtone",
         action="store_true",
-        help="只下载并生成带路径 CSV，不自动运行 03_lm_negtone_pilot.py",
+        help="Only download and create the CSV with paths; do not automatically run 03_lm_negtone_pilot.py",
     )
     return parser.parse_args()
 
 
 def resolve_project_path(path_value: str) -> Path:
-    """将命令行路径解析为绝对路径。"""
+    """Resolve a command-line path to an absolute path."""
     path = Path(path_value)
     if path.is_absolute():
         return path
@@ -101,7 +102,7 @@ def resolve_project_path(path_value: str) -> Path:
 
 
 def make_sec_headers(user_agent: str) -> dict[str, str]:
-    """构造 SEC 请求 headers。"""
+    """Build SEC request headers."""
     return {
         "User-Agent": user_agent,
         "Accept-Encoding": "gzip, deflate",
@@ -110,7 +111,7 @@ def make_sec_headers(user_agent: str) -> dict[str, str]:
 
 
 def is_valid_sec_url(url: str) -> bool:
-    """检查 URL 是否是可请求的 SEC URL。"""
+    """Check whether the URL is a requestable SEC URL."""
     parsed = urlparse(url)
     return parsed.scheme in {"http", "https"} and parsed.netloc.lower().endswith("sec.gov")
 
@@ -121,7 +122,7 @@ def request_with_retries(
     headers: dict[str, str],
     sleep_seconds: float,
 ) -> tuple[requests.Response | None, str, int | None]:
-    """请求 URL；遇到 429/403/503 时最多重试 3 次并递增等待。"""
+    """Request a URL, retrying 429/403/503 responses up to 3 times with increasing waits."""
     last_status = None
 
     for attempt in range(1, MAX_RETRIES + 1):
@@ -136,8 +137,8 @@ def request_with_retries(
             if response.status_code in TRANSIENT_HTTP_STATUS and attempt < MAX_RETRIES:
                 wait_seconds = sleep_seconds * attempt * 2
                 print(
-                    f"提示: HTTP {response.status_code}，第 {attempt} 次请求失败，"
-                    f"等待 {wait_seconds:.1f} 秒后重试。"
+                    f"Note: HTTP {response.status_code}; request attempt {attempt} failed. "
+                    f"Waiting {wait_seconds:.1f} seconds before retrying."
                 )
                 time.sleep(wait_seconds)
                 continue
@@ -147,7 +148,7 @@ def request_with_retries(
         except requests.RequestException:
             if attempt < MAX_RETRIES:
                 wait_seconds = sleep_seconds * attempt * 2
-                print(f"提示: 请求异常，等待 {wait_seconds:.1f} 秒后重试。")
+                print(f"Note: request exception. Waiting {wait_seconds:.1f} seconds before retrying.")
                 time.sleep(wait_seconds)
                 continue
             return None, "request_exception", last_status
@@ -156,30 +157,30 @@ def request_with_retries(
 
 
 def is_direct_document_url(url: str) -> bool:
-    """判断 URL 是否直接指向文本或 HTML 主文档。"""
+    """Return whether the URL points directly to a text or HTML primary document."""
     suffix = Path(urlparse(url).path).suffix.lower()
     return suffix in DIRECT_DOCUMENT_EXTENSIONS and "-index.html" not in url.lower()
 
 
 def is_filing_detail_page(url: str) -> bool:
-    """判断 URL 是否是 SEC filing detail page。"""
+    """Return whether the URL is an SEC filing detail page."""
     path_lower = urlparse(url).path.lower()
     return path_lower.endswith("-index.html") or "browse-edgar" in path_lower
 
 
 def _clean_cell_text(cell) -> str:
-    """提取 HTML 表格单元格文本。"""
+    """Extract text from an HTML table cell."""
     return cell.get_text(" ", strip=True) if cell is not None else ""
 
 
 def _is_allowed_document_href(href: str) -> bool:
-    """排除 XML、图片、PDF 等非主文档。"""
+    """Exclude XML, image, PDF, and other non-primary document links."""
     suffix = Path(urlparse(href).path).suffix.lower()
     return suffix in DIRECT_DOCUMENT_EXTENSIONS and suffix not in SKIP_EXTENSIONS
 
 
 def find_primary_doc_url(index_html: str, index_url: str) -> str | None:
-    """从 SEC detail page 的 Document Format Files 表里寻找 10-K 主文档。"""
+    """Find the 10-K primary document in the SEC detail page's Document Format Files table."""
     soup = BeautifulSoup(index_html, "html.parser")
 
     table_candidates = []
@@ -229,7 +230,7 @@ def resolve_download_url(
     headers: dict[str, str],
     sleep_seconds: float,
 ) -> tuple[str | None, str, int | None]:
-    """把 pilot 中的 URL 解析成真正要下载的主文档 URL。"""
+    """Resolve a pilot URL to the primary document URL that should be downloaded."""
     if pd.isna(original_url) or str(original_url).strip() == "":
         return None, "missing_url", None
 
@@ -257,7 +258,7 @@ def resolve_download_url(
 
 
 def accession_from_url(url: str) -> str | None:
-    """从 SEC URL 路径中提取 accession number，优先使用 accession 目录。"""
+    """Extract an accession number from an SEC URL path, preferring the accession directory."""
     parts = [part for part in urlparse(url).path.split("/") if part]
     for part in reversed(parts[:-1]):
         compact = part.replace("-", "")
@@ -269,7 +270,7 @@ def accession_from_url(url: str) -> str | None:
 
 
 def safe_filename_part(value: object, fallback: str) -> str:
-    """将文件名组成部分清洗成安全字符串。"""
+    """Clean one filename component into a safe string."""
     if pd.isna(value) or str(value).strip() == "":
         text = fallback
     else:
@@ -278,7 +279,7 @@ def safe_filename_part(value: object, fallback: str) -> str:
 
 
 def target_file_path(row: pd.Series, row_number: int, download_url: str, download_dir: Path) -> Path:
-    """生成稳定、可追踪的本地文件名。"""
+    """Generate a stable and traceable local filename."""
     cik = safe_filename_part(row.get("cik"), f"row{row_number:04d}")
     report_year = safe_filename_part(row.get("report_year"), "unknown_year")
     accession = accession_from_url(download_url) or f"row{row_number:04d}"
@@ -287,7 +288,7 @@ def target_file_path(row: pd.Series, row_number: int, download_url: str, downloa
 
 
 def relative_to_project(path: Path) -> str:
-    """返回相对于项目根目录的路径字符串。"""
+    """Return a path string relative to the project root."""
     try:
         return path.resolve().relative_to(PROJECT_ROOT).as_posix()
     except ValueError:
@@ -302,7 +303,7 @@ def download_one_filing(
     sleep_seconds: float,
     download_dir: Path,
 ) -> dict[str, object]:
-    """下载单条 pilot 记录对应的 10-K 主文档。"""
+    """Download the 10-K primary document for one pilot record."""
     result = {
         "local_path": pd.NA,
         "download_success": False,
@@ -362,7 +363,7 @@ def download_one_filing(
 
 
 def prepare_output_dataframe(pilot: pd.DataFrame) -> pd.DataFrame:
-    """准备输出 DataFrame；保留原始 download_success，避免和本次下载状态混淆。"""
+    """Prepare the output DataFrame while preserving the original download_success column."""
     output = pilot.copy()
     if "download_success" in output.columns and "input_download_success" not in output.columns:
         output = output.rename(columns={"download_success": "input_download_success"})
@@ -381,7 +382,7 @@ def prepare_output_dataframe(pilot: pd.DataFrame) -> pd.DataFrame:
 
 
 def run_negtone_script(input_csv: Path, output_csv: Path) -> int:
-    """下载完成后调用现有的 LM negtone 脚本。"""
+    """Call the existing LM negtone script after downloads finish."""
     command = [
         sys.executable,
         str(PROJECT_ROOT / "code" / "tone" / "03_lm_negtone_pilot.py"),
@@ -390,48 +391,48 @@ def run_negtone_script(input_csv: Path, output_csv: Path) -> int:
         "--output",
         str(output_csv),
     ]
-    print("\n开始自动运行 LM negtone 分析:")
+    print("\nStarting automatic LM negtone analysis:")
     print(" ".join(command))
     completed = subprocess.run(command, cwd=PROJECT_ROOT)
     return completed.returncode
 
 
 def main() -> None:
-    """主流程。"""
+    """Run the main workflow."""
     args = parse_args()
     if args.user_agent is None or args.user_agent.strip() == "":
         raise SystemExit(
-            "错误: 下载 SEC 文件必须传入 --user-agent。\n"
-            "请填写你自己的真实姓名和邮箱，例如:\n"
+            "Error: downloading SEC files requires --user-agent.\n"
+            "Use your real name and email, for example:\n"
             'python code\\tone\\04_download_pilot_10k_texts.py '
             '--limit 5 --user-agent "Your Name your.email@example.com"\n'
-            "不要使用假的邮箱。"
+            "Do not use a fake email address."
         )
 
     input_path = resolve_project_path(args.input)
     output_path = resolve_project_path(args.output)
     download_dir = resolve_project_path(args.download_dir)
 
-    print("开始下载 pilot 10-K 文本文件...")
-    print(f"输入 CSV: {input_path}")
-    print(f"输出 CSV: {output_path}")
-    print(f"下载目录: {download_dir}")
+    print("Starting pilot 10-K text file downloads...")
+    print(f"Input CSV: {input_path}")
+    print(f"Output CSV: {output_path}")
+    print(f"Download directory: {download_dir}")
 
     if not input_path.exists():
-        raise FileNotFoundError(f"找不到输入文件: {input_path}")
+        raise FileNotFoundError(f"Input file not found: {input_path}")
 
     pilot = pd.read_csv(input_path, dtype={"cik": "string"}, low_memory=False)
     if "url" not in pilot.columns:
-        raise ValueError(f"输入 CSV 缺少 url 列: {input_path}")
+        raise ValueError(f"Input CSV is missing the url column: {input_path}")
 
-    print("pilot CSV 实际列名:")
+    print("Actual pilot CSV columns:")
     print(", ".join(pilot.columns))
 
     if args.limit is not None:
         if args.limit <= 0:
-            raise ValueError("--limit 必须是正整数")
+            raise ValueError("--limit must be a positive integer")
         pilot_to_process = pilot.head(args.limit).copy()
-        print(f"测试模式: 只处理前 {len(pilot_to_process):,} 条记录。")
+        print(f"Test mode: processing only the first {len(pilot_to_process):,} records.")
     else:
         pilot_to_process = pilot.copy()
 
@@ -458,7 +459,7 @@ def main() -> None:
         if row_number % 25 == 0 or row_number == len(pilot_to_process):
             print(f"Processed {row_number}/{len(pilot_to_process)}")
 
-    print(f"正在保存带本地路径的新 pilot CSV: {output_path}")
+    print(f"Saving new pilot CSV with local paths: {output_path}")
     output.to_csv(output_path, index=False)
 
     status_counts = output["download_status"].value_counts(dropna=False)
@@ -467,17 +468,17 @@ def main() -> None:
     total_success_count = int(output["download_success"].fillna(False).astype(bool).sum())
     failure_count = int(len(output) - total_success_count)
 
-    print("\n下载 summary:")
-    print(f"- 总行数: {len(output):,}")
-    print(f"- 成功下载数量: {success_count:,}")
-    print(f"- 已存在数量: {already_exists_count:,}")
-    print(f"- 失败数量: {failure_count:,}")
-    print("- download_status 分布:")
+    print("\nDownload summary:")
+    print(f"- Total rows: {len(output):,}")
+    print(f"- Successful downloads: {success_count:,}")
+    print(f"- Already-existing files: {already_exists_count:,}")
+    print(f"- Failures: {failure_count:,}")
+    print("- download_status distribution:")
     for status, count in status_counts.items():
         print(f"  {status}: {count:,}")
 
     if args.skip_negtone:
-        print("\n已跳过自动运行 LM negtone 分析。可手动运行:")
+        print("\nSkipped automatic LM negtone analysis. To run it manually:")
         print(
             f"{sys.executable} code\\tone\\03_lm_negtone_pilot.py "
             f"--input {output_path} --output {DEFAULT_NEGTONE_OUTPUT}"
@@ -486,7 +487,7 @@ def main() -> None:
 
     returncode = run_negtone_script(output_path, DEFAULT_NEGTONE_OUTPUT)
     if returncode != 0:
-        print("\n提示: 自动运行 LM negtone 脚本失败。可手动运行以下命令:")
+        print("\nNote: automatic LM negtone script failed. You can run the following command manually:")
         print(
             f"{sys.executable} code\\tone\\03_lm_negtone_pilot.py "
             f"--input {output_path} --output {DEFAULT_NEGTONE_OUTPUT}"
