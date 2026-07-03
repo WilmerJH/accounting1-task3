@@ -22,11 +22,13 @@ RUN apt-get update \
  && rm -rf /var/lib/apt/lists/* /var/cache/apt/archives/*
 
 RUN install2.r --error --skipinstalled \
+      tidyverse \
       ggplot2 \
       knitr \
       rmarkdown \
       tinytex \
       duckdb \
+      DBI \
       gt \
       httr \
       htmltools \
