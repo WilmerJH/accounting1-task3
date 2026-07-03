@@ -15,6 +15,9 @@ format:
         \usepackage{array}
         \setbeamertemplate{navigation symbols}{}
         \setbeamertemplate{footline}[frame number]
+bibliography: 10-k.bib
+csl: apa.csl
+nocite: '@*'
 execute:
   echo: false
   warning: false
@@ -658,3 +661,10 @@ $R^2$ & 0.012 & 0.015 & 0.020 \\
 - Test tone changes rather than only tone levels.
 - Explore more granular 10-K sections, such as Item 1A Risk Factors and MD&A.
 - Use alternative tone measures, including LLM-based measures.
+
+
+
+## References {.unnumbered .unlisted .plain shrink=35}
+
+::: {#refs}
+:::
