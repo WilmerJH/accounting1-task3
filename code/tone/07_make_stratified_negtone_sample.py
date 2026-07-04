@@ -13,19 +13,11 @@ import pandas as pd
 
 
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
-INPUT_CSV = PROJECT_ROOT / "data" / "generated" / "full_10k_sample_dedup.csv"
-OUTPUT_CSV = (
-    PROJECT_ROOT
-    / "data"
-    / "generated"
-    / "full_10k_sample_dedup_stratified_1500_per_year.csv"
-)
-SUMMARY_CSV = (
-    PROJECT_ROOT
-    / "data"
-    / "generated"
-    / "full_10k_sample_dedup_stratified_1500_per_year_summary.csv"
-)
+OUTPUT_DIR = PROJECT_ROOT / "data" / "generated" / "tone"
+
+INPUT_CSV = PROJECT_ROOT / "data" / "generated" / "tone" / "full_10k_sample_dedup.csv"
+OUTPUT_CSV = OUTPUT_DIR / "full_10k_sample_dedup_stratified_1500_per_year.csv"
+SUMMARY_CSV = OUTPUT_DIR / "full_10k_sample_dedup_stratified_1500_per_year_summary.csv"
 
 YEAR_COLUMN = "report_year"
 YEAR_MIN = 2002

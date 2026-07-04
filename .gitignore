@@ -6,6 +6,7 @@ secrets.env
 # Generated data and output
 data/pulled/
 data/generated/
+data/generated/tone
 data/generated/10k_texts_full/
 data/generated/10k_texts/
 data/pulled/sec_filings/

@@ -2,7 +2,7 @@
 Create the initial 10-K sample and descriptive statistics.
 
 This script does not modify the raw file data/external/10k_word_counts.csv.
-Output files are saved to data/generated/.
+Output files are saved to data/generated/tone.
 """
 
 import sys
@@ -22,7 +22,7 @@ if hasattr(sys.stdout, "reconfigure"):
 # -----------------------------
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
 INPUT_FILE = PROJECT_ROOT / "data" / "external" / "10k_word_counts.csv"
-OUTPUT_DIR = PROJECT_ROOT / "data" / "generated"
+OUTPUT_DIR = PROJECT_ROOT / "data" / "generated" / "tone"
 
 INITIAL_SAMPLE_FILE = OUTPUT_DIR / "initial_10k_sample_2002_2024.csv"
 YEAR_SUMMARY_FILE = OUTPUT_DIR / "sample_size_by_year.csv"

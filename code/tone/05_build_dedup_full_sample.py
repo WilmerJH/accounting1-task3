@@ -32,13 +32,10 @@ if hasattr(sys.stdout, "reconfigure"):
 
 
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
-GENERATED_DIR = PROJECT_ROOT / "data" / "generated"
-DUPLICATE_DIR = GENERATED_DIR / "duplicate"
+GENERATED_DIR = PROJECT_ROOT / "data" / "generated" / "tone"
 
 DEFAULT_SAMPLE_FILE = GENERATED_DIR / "initial_10k_sample_2002_2024.csv"
-DEFAULT_DUPLICATE_GROUP_FILE = (
-    DUPLICATE_DIR / "duplicated_cik_report_year_group_classification.csv"
-)
+DEFAULT_DUPLICATE_GROUP_FILE = GENERATED_DIR / "duplicate_cik_report_year_classification.csv"
 
 DEDUP_SAMPLE_FILE = GENERATED_DIR / "full_10k_sample_dedup.csv"
 HELDOUT_REASON5_FILE = GENERATED_DIR / "full_10k_sample_heldout_reason5.csv"

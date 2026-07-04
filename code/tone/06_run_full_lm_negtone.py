@@ -1,9 +1,12 @@
 """
 Run Loughran-McDonald negative tone analysis on the deduplicated full 10-K sample.
 
-The core parsing and tone logic is reused from the pilot script:
-code/tone/03_lm_negtone_pilot.py. This full-sample runner adds SEC download
-caching, resumable batch writes, and per-row error handling.
+The core parsing, local text lookup, section extraction, and tone logic are
+implemented in code/tone/lm_negtone_utils.py. SEC URL resolution is implemented
+in code/tone/sec_download_utils.py.
+
+This full-sample runner adds SEC download caching, resumable batch writes,
+and per-row error handling.
 
 Example:
     python code/tone/06_run_full_lm_negtone.py --user-agent "Name email@example.com"
@@ -34,13 +37,13 @@ if hasattr(sys.stdout, "reconfigure"):
 
 
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
-DEFAULT_INPUT = PROJECT_ROOT / "data" / "generated" / "full_10k_sample_dedup.csv"
-DEFAULT_OUTPUT = PROJECT_ROOT / "data" / "generated" / "full_lm_negtone_results.csv"
-DEFAULT_SUMMARY = PROJECT_ROOT / "data" / "generated" / "full_lm_negtone_summary.csv"
-DEFAULT_DOWNLOAD_DIR = PROJECT_ROOT / "data" / "generated" / "10k_texts_full"
+DEFAULT_INPUT = PROJECT_ROOT / "data" / "generated" / "tone" / "full_10k_sample_dedup.csv"
+DEFAULT_OUTPUT = PROJECT_ROOT / "data" / "generated" / "tone" / "full_lm_negtone_results.csv"
+DEFAULT_SUMMARY = PROJECT_ROOT / "data" / "generated" / "tone" / "full_lm_negtone_summary.csv"
+DEFAULT_DOWNLOAD_DIR = PROJECT_ROOT / "data" / "generated" / "tone" / "10k_texts_full"
 
-PILOT_NEGTONE_SCRIPT = PROJECT_ROOT / "code" / "tone" / "03_lm_negtone_pilot.py"
-PILOT_DOWNLOAD_SCRIPT = PROJECT_ROOT / "code" / "tone" / "04_download_pilot_10k_texts.py"
+LM_NEGTONE_UTILS_SCRIPT = PROJECT_ROOT / "code" / "tone" / "lm_negtone_utils.py"
+SEC_DOWNLOAD_UTILS_SCRIPT = PROJECT_ROOT / "code" / "tone" / "sec_download_utils.py"
 
 ID_COLUMNS = [
     "original_row_number",
@@ -98,8 +101,8 @@ def load_module(script_path: Path, module_name: str):
     return module
 
 
-pilot_negtone = load_module(PILOT_NEGTONE_SCRIPT, "pilot_negtone")
-pilot_download = load_module(PILOT_DOWNLOAD_SCRIPT, "pilot_download")
+lm_negtone_utils = load_module(LM_NEGTONE_UTILS_SCRIPT, "lm_negtone_utils")
+sec_download_utils = load_module(SEC_DOWNLOAD_UTILS_SCRIPT, "sec_download_utils")
 
 
 def parse_args() -> argparse.Namespace:
@@ -295,12 +298,12 @@ def download_text_file(
     if is_missing(url):
         return None, result
 
-    download_url, resolve_status, resolve_http_status = pilot_download.resolve_download_url(
+    download_url, resolve_status, resolve_http_status = sec_download_utils.resolve_download_url(
         session=session,
         original_url=str(url).strip(),
         headers=headers,
         sleep_seconds=sleep_seconds,
-    )
+)
     result["download_status"] = resolve_status
     result["http_status"] = resolve_http_status
 
@@ -377,7 +380,7 @@ def process_one_row(
     result = initial_result(row)
 
     try:
-        text_path = pilot_negtone.find_filing_text_path(
+        text_path = lm_negtone_utils.find_filing_text_path(
             row=row,
             project_root=PROJECT_ROOT,
             file_index=file_index,
@@ -424,17 +427,17 @@ def process_one_row(
             )
             return result
 
-        raw_text = pilot_negtone.read_filing_text(text_path)
-        clean_text = pilot_negtone.clean_html_or_text(raw_text)
+        raw_text = lm_negtone_utils.read_filing_text(text_path)
+        clean_text = lm_negtone_utils.clean_html_or_text(raw_text)
         if clean_text.strip() == "":
             result["parse_status"] = "no_valid_text"
             result["failure_reason"] = "no valid text after cleaning"
             return result
 
-        section_text, section_used, extraction_success = pilot_negtone.extract_part_i_ii(
+        section_text, section_used, extraction_success = lm_negtone_utils.extract_part_i_ii(
             clean_text
         )
-        total_words, negative_count, negtone = pilot_negtone.compute_lm_negtone(
+        total_words, negative_count, negtone = lm_negtone_utils.compute_lm_negtone(
             section_text, negative_words
         )
 
@@ -618,12 +621,12 @@ def main() -> None:
     print("reason_type distribution in input:")
     print(sample["reason_type"].value_counts(dropna=False).sort_index().to_string())
 
-    dictionary_path = pilot_negtone.find_lm_dictionary(PROJECT_ROOT)
-    negative_words = pilot_negtone.load_lm_negative_words(dictionary_path)
+    dictionary_path = lm_negtone_utils.find_lm_dictionary(PROJECT_ROOT)
+    negative_words = lm_negtone_utils.load_lm_negative_words(dictionary_path)
 
     download_dir.mkdir(parents=True, exist_ok=True)
     print("Indexing local 10-K text files...")
-    file_index = pilot_negtone.build_local_file_index(PROJECT_ROOT)
+    file_index = lm_negtone_utils.build_local_file_index(PROJECT_ROOT)
     indexed_file_count = sum(len(paths) for paths in file_index.values())
     accession_lookup = build_accession_file_lookup(file_index)
     print(f"Indexed local text files: {indexed_file_count:,}")
