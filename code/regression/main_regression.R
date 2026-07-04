@@ -10,7 +10,8 @@ library(modelsummary)
 
 # ------------------------------------------------------------
 # Helper functions
-# 这一步：统一 cik 和 gvkey 格式，避免合并时因为前导 0 或数字格式不同对不上
+# This step: standardize `cik` and `gvkey` formats to avoid mismatches
+# caused by leading zeros or different numeric formats when merging
 # ------------------------------------------------------------
 
 clean_cik <- function(x) {
@@ -33,7 +34,7 @@ clean_gvkey <- function(x) {
 
 # ------------------------------------------------------------
 # Step 1: Read input files
-# 这一步：读取 X、Y、controls 三份数据
+# This step: read the X, Y, and controls files
 # ------------------------------------------------------------
 
 tone <- read_csv("data/generated/tone/stratified_1500_lm_negtone_results.csv")
@@ -42,7 +43,7 @@ controls <- read_csv("data/generated/regression/controls.csv")
 
 # ------------------------------------------------------------
 # Step 2: Clean LM negative tone data
-# 这一步：整理 X 变量，把 negtone 改名成 LM_NegTone
+# This step: clean X variables and rename `negtone` to `LM_NegTone`
 # ------------------------------------------------------------
 
 tone_clean <- tone %>%
@@ -59,21 +60,23 @@ tone_clean <- tone %>%
     !is.na(filing_date)
   ) %>%
   select(
-    cik,
-    filing_date,
-    fyear,
-    accession_number,
-    LM_NegTone,
-    text_length,
-    negative_words,
-    section_used,
-    status
+    any_of(c(
+      "cik",
+      "filing_date",
+      "fyear",
+      "accession_number",
+      "LM_NegTone",
+      "text_length",
+      "negative_words",
+      "section_used",
+      "status"
+    ))
   ) %>%
   distinct(cik, filing_date, accession_number, .keep_all = TRUE)
 
 # ------------------------------------------------------------
 # Step 3: Clean CAR data
-# 这一步：整理 Y 变量，把 car_vw_m1_p1 改名成 CAR_m1_p1
+# This step: clean Y variables and rename `car_vw_m1_p1` to `CAR_m1_p1`
 # ------------------------------------------------------------
 
 car_clean <- car %>%
@@ -107,7 +110,7 @@ car_clean <- car %>%
 
 # ------------------------------------------------------------
 # Step 4: Clean control variables
-# 这一步：整理 controls，确保 gvkey 和 fyear 格式一致
+# This step: clean `controls` and ensure `gvkey` and `fyear` formats are consistent
 # ------------------------------------------------------------
 
 controls_clean <- controls %>%
@@ -119,7 +122,7 @@ controls_clean <- controls %>%
 
 # ------------------------------------------------------------
 # Step 5: Merge LM_NegTone and CAR
-# 这一步：用 cik + filing_date 把 X 和 Y 合并
+# This step: merge X and Y using `cik` + `filing_date`
 # ------------------------------------------------------------
 
 sample_xy <- car_clean %>%
@@ -130,7 +133,7 @@ sample_xy <- car_clean %>%
 
 # ------------------------------------------------------------
 # Step 6: Merge controls
-# 这一步：用 gvkey + fyear 把 Compustat 控制变量合并进来
+# This step: merge Compustat control variables using `gvkey` + `fyear`
 # ------------------------------------------------------------
 
 main_sample <- sample_xy %>%
@@ -141,7 +144,7 @@ main_sample <- sample_xy %>%
 
 # ------------------------------------------------------------
 # Step 7: Check merged sample
-# 这一步：检查合并后样本数量、缺失值和重复值
+# This step: check merged sample counts, missing values, and duplicates
 # ------------------------------------------------------------
 
 main_sample_summary <- main_sample %>%
@@ -165,7 +168,7 @@ print(main_sample_summary)
 
 # ------------------------------------------------------------
 # Step 8: Create regression sample
-# 这一步：删除主回归变量缺失的 observations
+# This step: drop observations with missing main regression variables
 # ------------------------------------------------------------
 
 reg_sample <- main_sample %>%
@@ -194,7 +197,7 @@ print(reg_sample_summary)
 
 # ------------------------------------------------------------
 # Step 9: Run baseline regressions
-# 这一步：只用 LM_NegTone 做主回归，不再做 LLM 对比
+# This step: use only `LM_NegTone` for the main regression (no LLM comparison)
 # ------------------------------------------------------------
 
 m1 <- feols(
@@ -218,7 +221,7 @@ m3 <- feols(
 
 # ------------------------------------------------------------
 # Step 10: Export regression table and final sample
-# 这一步：输出主回归表和最终回归样本
+# This step: export the main regression table and the final regression sample
 # ------------------------------------------------------------
 
 dir.create("output/tables", recursive = TRUE, showWarnings = FALSE)
@@ -233,4 +236,6 @@ modelsummary(
   output = "output/tables/main_regression.html"
 )
 
-write_csv(reg_sample, "data/generated/main_regression_sample.csv")
+dir.create("data/generated/regression", recursive = TRUE, showWarnings = FALSE)
+
+write_csv(reg_sample, "data/generated/regression/main_regression_sample.csv")

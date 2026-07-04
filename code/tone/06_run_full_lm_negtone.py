@@ -1,18 +1,46 @@
 """
-Run Loughran-McDonald negative tone analysis on the deduplicated full 10-K sample.
+Run Loughran-McDonald negative tone analysis on the deduplicated 10-K sample.
 
-The core parsing, local text lookup, section extraction, and tone logic are
-implemented in code/tone/lm_negtone_utils.py. SEC URL resolution is implemented
-in code/tone/sec_download_utils.py.
+Default input:
+data/generated/tone/full_10k_sample_dedup.csv
 
-This full-sample runner adds SEC download caching, resumable batch writes,
-and per-row error handling.
+Default outputs:
+data/generated/tone/full_lm_negtone_results.csv
+data/generated/tone/full_lm_negtone_summary.csv
 
-Example:
+Default download cache:
+data/pulled/sec_filings
+
+Supporting utility modules:
+- code/tone/lm_negtone_utils.py
+  Provides LM dictionary loading, local filing lookup, text reading/cleaning,
+  Part I + Part II extraction, and LM negative tone calculation.
+
+- code/tone/sec_download_utils.py
+  Provides SEC URL resolution, including conversion from SEC filing detail
+  pages to primary 10-K document URLs.
+
+Secrets and environment variables:
+- SEC_USER_AGENT is required when downloading filings from SEC.
+- SEC_USER_AGENT can be provided in the shell environment or in:
+  _secrets.env
+
+Example _secrets.env entry:
+SEC_USER_AGENT="Your Name your.email@example.com"
+
+Notes:
+- SEC_USER_AGENT is not a login credential; it identifies the requester for
+  SEC fair-access compliance.
+- This script does not use WRDS_USERNAME or WRDS_PASSWORD.
+- Use --cache-only to avoid downloading from SEC and process only local cached
+  filing texts.
+
+Examples:
+    python code/tone/06_run_full_lm_negtone.py --limit 5 --overwrite
+
+    python code/tone/06_run_full_lm_negtone.py --cache-only --limit 5 --overwrite
+
     python code/tone/06_run_full_lm_negtone.py --user-agent "Name email@example.com"
-
-For a cache-only dry run using already downloaded texts:
-    python code/tone/06_run_full_lm_negtone.py --cache-only
 """
 
 from __future__ import annotations
@@ -40,7 +68,9 @@ PROJECT_ROOT = Path(__file__).resolve().parents[2]
 DEFAULT_INPUT = PROJECT_ROOT / "data" / "generated" / "tone" / "full_10k_sample_dedup.csv"
 DEFAULT_OUTPUT = PROJECT_ROOT / "data" / "generated" / "tone" / "full_lm_negtone_results.csv"
 DEFAULT_SUMMARY = PROJECT_ROOT / "data" / "generated" / "tone" / "full_lm_negtone_summary.csv"
-DEFAULT_DOWNLOAD_DIR = PROJECT_ROOT / "data" / "generated" / "tone" / "10k_texts_full"
+DEFAULT_DOWNLOAD_DIR = PROJECT_ROOT / "data" / "pulled" / "sec_filings"
+
+SECRETS_ENV_FILE = PROJECT_ROOT / "_secrets.env"
 
 LM_NEGTONE_UTILS_SCRIPT = PROJECT_ROOT / "code" / "tone" / "lm_negtone_utils.py"
 SEC_DOWNLOAD_UTILS_SCRIPT = PROJECT_ROOT / "code" / "tone" / "sec_download_utils.py"
@@ -100,6 +130,40 @@ def load_module(script_path: Path, module_name: str):
     spec.loader.exec_module(module)
     return module
 
+def load_secrets_env(env_path: Path) -> None:
+    """
+    Load key=value pairs from a local secrets env file into os.environ.
+
+    Existing environment variables are not overwritten.
+    Lines beginning with # and blank lines are ignored.
+
+    Example line:
+        SEC_USER_AGENT="Your Name your.email@example.com"
+    """
+    if not env_path.exists():
+        return
+
+    for line in env_path.read_text(encoding="utf-8").splitlines():
+        line = line.strip()
+
+        if not line or line.startswith("#"):
+            continue
+
+        if "=" not in line:
+            continue
+
+        key, value = line.split("=", 1)
+        key = key.strip()
+        value = value.strip()
+
+        if not key:
+            continue
+
+        # Remove optional surrounding quotes.
+        if len(value) >= 2 and value[0] == value[-1] and value[0] in {"'", '"'}:
+            value = value[1:-1]
+
+        os.environ.setdefault(key, value)
 
 lm_negtone_utils = load_module(LM_NEGTONE_UTILS_SCRIPT, "lm_negtone_utils")
 sec_download_utils = load_module(SEC_DOWNLOAD_UTILS_SCRIPT, "sec_download_utils")
@@ -303,7 +367,7 @@ def download_text_file(
         original_url=str(url).strip(),
         headers=headers,
         sleep_seconds=sleep_seconds,
-)
+    )
     result["download_status"] = resolve_status
     result["http_status"] = resolve_http_status
 
@@ -574,6 +638,7 @@ def validate_input(sample: pd.DataFrame) -> None:
 
 
 def main() -> None:
+    load_secrets_env(SECRETS_ENV_FILE)
     args = parse_args()
     input_path = resolve_project_path(args.input)
     output_path = resolve_project_path(args.output)

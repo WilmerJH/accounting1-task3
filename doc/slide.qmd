@@ -4,6 +4,7 @@ subtitle: ""
 author: "Chengjun Han, Yi Yang Kuo, Zilong Li, Lingke Zhang"
 format:
   beamer:
+    pdf-engine: xelatex
     aspectratio: 169
     theme: Frankfurt
     colortheme: seahorse
@@ -15,6 +16,8 @@ format:
         \usepackage{array}
         \setbeamertemplate{navigation symbols}{}
         \setbeamertemplate{footline}[frame number]
+header-includes:
+  - \usepackage{tabularx}
 bibliography: 10-k.bib
 csl: apa.csl
 nocite: '@*'

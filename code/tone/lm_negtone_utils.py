@@ -31,6 +31,8 @@ FILENAME_COLUMNS = ["filename", "accession_number"]
 COMMON_TEXT_DIRS = [
     "data/raw",
     "data/external",
+    "data/pulled",
+    "data/pulled/sec_filings"
     "data/interim",
     "data/generated",
     "data/sec_filings",

@@ -42,7 +42,8 @@ RUN python3 -m pip install --break-system-packages --no-cache-dir \
       pandas \
       numpy \
       pyarrow \
-      openpyxl
+      openpyxl \
+      duckdb
       
 RUN Rscript -e "tinytex::install_tinytex(dir = '/opt/TinyTeX', force = TRUE)" \
  && ln -sf /opt/TinyTeX/bin/*/* /usr/local/bin/

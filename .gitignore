@@ -6,10 +6,11 @@ secrets.env
 # Generated data and output
 data/pulled/
 data/generated/
-data/generated/tone
+data/generated/tone/
 data/generated/10k_texts_full/
 data/generated/10k_texts/
 data/pulled/sec_filings/
+data/sec_filings/
 
 output/
 *.html
@@ -17,6 +18,9 @@ output/
 *.tmp
 
 # Python cache
+code/__pycache__/
+code/tone/__pycache__/
+code/CAR/__pycache__/
 __pycache__/
 *.py[cod]
 

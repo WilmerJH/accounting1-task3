@@ -25,6 +25,8 @@ ROOT = SCRIPT_DIR.parents[1]
 
 generated_dir = ROOT / "data/generated"
 generated_dir.mkdir(parents=True, exist_ok=True)
+car_dir = ROOT / "data/generated/CAR"
+car_dir.mkdir(parents=True, exist_ok=True)
 
 # Use /tmp for DuckDB temporary files. It usually has more free space in Codespaces.
 duckdb_temp = Path("/tmp/duckdb_temp")
@@ -43,10 +45,10 @@ ret_path = ROOT / "data/external/ret_all.csv.gz"
 index_path = ROOT / "data/external/index.csv"
 link_path = ROOT / "data/external/cik_to_permno.csv.gz"
 
-out_path = ROOT / "data/generated/CAR/10k_sample_with_car.csv"
-analysis_path = ROOT / "data/generated/CAR/analysis_sample_car_m1_p1.csv"
+out_path = car_dir / "10k_sample_with_car.csv"
+analysis_path = car_dir / "analysis_sample_car_m1_p1.csv"
 
-ret_filtered_parquet = ROOT / "data/generated/CAR/ret_filtered.parquet"
+ret_filtered_parquet = car_dir / "ret_filtered.parquet"
 
 required_files = [sample_path, ret_path, index_path, link_path]
 for p in required_files:
