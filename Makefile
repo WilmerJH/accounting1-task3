@@ -44,7 +44,7 @@ PDF := doc/slide.pdf
 # Main commands
 # ============================================================
 
-.PHONY: all tone download-big-files car regression pdf clean clean-temp
+.PHONY: all tone download-big-files car regression pdf robustness robustness-test1 robustness-test3 robustness-test5 clean clean-temp
 
 all: tone download-big-files car regression pdf
 
@@ -134,7 +134,67 @@ $(REG_SAMPLE) $(REG_TABLE): \
 	$(RSCRIPT) code/regression/main_regression.R
 
 # ============================================================
-# 4. Render Quarto PDF
+# 4. Robustness tests
+# ------------------------------------------------------------
+# These tests are optional and are NOT included in make all.
+#
+# They rely on outputs from the main pipeline:
+#   - tone results from 06_run_full_lm_negtone.py
+#   - CAR analysis sample
+#   - regression controls
+#
+# Run manually:
+#   make robustness
+#   make robustness-test1
+#   make robustness-test3
+#   make robustness-test5
+# ============================================================
+
+ROBUSTNESS_TEST1 := output/robustness_test1_event_windows.html
+ROBUSTNESS_TEST3 := output/robustness_test3_text_subsets.html
+ROBUSTNESS_TEST5 := output/robustness_test5_sample_restrictions.html
+
+robustness: robustness-test1 robustness-test3 robustness-test5
+
+robustness-test1: $(ROBUSTNESS_TEST1)
+
+$(ROBUSTNESS_TEST1): \
+	$(TONE_RESULT) \
+	$(CAR_ANALYSIS) \
+	$(CONTROLS) \
+	data/external/10k_word_counts.csv \
+	code/robustness/robustness_test1_event_windows.R
+	mkdir -p output
+	$(RSCRIPT) code/robustness/robustness_test1_event_windows.R
+
+robustness-test3: $(ROBUSTNESS_TEST3)
+
+$(ROBUSTNESS_TEST3): \
+	$(CAR_ANALYSIS) \
+	$(CONTROLS) \
+	data/external/10k_word_counts.csv \
+	data/external/Loughran-McDonald_MasterDictionary_1993-2025.csv \
+	$(TONE_SAMPLE) \
+	code/robustness/robustness_test3_text_subsets.R
+	mkdir -p output
+	mkdir -p data/generated/tone
+	test -d data/pulled/sec_filings
+	$(RSCRIPT) code/robustness/robustness_test3_text_subsets.R
+
+robustness-test5: $(ROBUSTNESS_TEST5)
+
+$(ROBUSTNESS_TEST5): \
+	$(TONE_RESULT) \
+	$(CAR_ANALYSIS) \
+	$(CONTROLS) \
+	$(TONE_SAMPLE) \
+	data/external/10k_word_counts.csv \
+	code/robustness/robustness_test5_sample_restrictions.R
+	mkdir -p output
+	$(RSCRIPT) code/robustness/robustness_test5_sample_restrictions.R
+
+# ============================================================
+# 5. Render Quarto PDF
 # ============================================================
 
 pdf: $(PDF)
@@ -158,4 +218,9 @@ clean:
 	rm -f $(CONTROLS)
 	rm -f $(REG_SAMPLE)
 	rm -f $(REG_TABLE)
+	rm -f $(ROBUSTNESS_TEST1)
+	rm -f $(ROBUSTNESS_TEST3)
+	rm -f $(ROBUSTNESS_TEST5)
+	rm -f data/generated/tone/robustness_test3_text_subsets_negtone.csv
+	rm -f data/generated/tone/robustness_test3_text_subsets_desc.csv
 	rm -f $(PDF)

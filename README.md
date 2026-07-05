@@ -1,208 +1,216 @@
-# RCT Summer 2026: Template for the Team Project
+# 10-K Negative Tone and Market Reaction
 
-This repository is the **R version of a barebones project template**. It is meant to be small enough to understand quickly, but structured enough to grow into a real project.
+This repository contains our empirical project on **10-K negative tone and market reactions**.
 
-The main idea is simple:
+We study whether firms with more negative language in their 10-K filings experience lower short-window stock market reactions around the filing date. The key explanatory variable is the Loughran-McDonald negative tone measure, and the main outcome variable is cumulative abnormal return around the filing date, especially `CAR[-1,+1]`.
 
-- data are pulled into `data/pulled/`
-- data are prepared into `data/generated/`
-- analysis writes a serialized results bundle to `output/`
-- the presentation slide deck in `doc/` reads those saved results
-
-The example replicates the 10-K word count trend from Dyer, Lang & Stice-Lawrence (2017) using EDGAR filing metadata, and extends their sample to 2023.
-
-## What You Are Looking At
-
-This repository gives you a minimal project skeleton with four visible stages:
-
-1. `code/R/pull_data.R`
-2. `code/R/prep_data.R`
-3. `code/R/run_analysis.R`
-4. `doc/presentation.qmd`
-
-The workflow is organized like a real empirical project. If you later look at `trr266/treat`, you will see the same broad movement in a richer and more elaborate form.
-
-## Project Structure
+The main empirical idea is:
 
 ```text
-.devcontainer/
-README.md
-Makefile
-rct-project-template.Rproj
-code/R/pull_data.R
-code/R/prep_data.R
-code/R/run_analysis.R
-data/
-  external/
-  pulled/
-  generated/
-  data_readme.md
-doc/
-  presentation.qmd
-  references.bib
-info/
-  edgar_10k_intro.qmd
-output/
+CAR[-1,+1] = α + β LM_NegTone + γ Controls + Year FE + Industry FE + ε
 ```
 
-## How The Workflow Moves
+The main hypothesis is that `β < 0`.
 
-The workflow is intentionally explicit:
+## Repository Structure
 
-1. `pull_data.R` fetches EDGAR 10-K filing metadata from the TRR266 server via DuckDB over HTTPS and writes `data/pulled/edgar_10k_metadata.parquet`
-2. `prep_data.R` deduplicates, filters, and feature-engineers the raw metadata into `data/generated/prepared_data.parquet` and `data/generated/annual_summary.parquet`
-3. `run_analysis.R` reads the prepared data and writes a serialized `.rds` results bundle to `output/`
-4. `doc/presentation.qmd` reads that `.rds` bundle and renders the beamer slide deck
+```text
+.
+├── Makefile
+├── README.md
+├── _secrets.env
+├── code/
+│   ├── CAR/
+│   ├── regression/
+│   ├── robustness/
+│   └── tone/
+├── data/
+│   ├── external/
+│   ├── pulled/        # not pushed
+│   └── generated/     # not pushed
+├── doc/
+└── output/            # not pushed
+```
 
-The presentation does **not** rerun the full analysis pipeline internally. It uses prepared results from `output/`.
+The folders `data/generated/`, `data/pulled/`, and `output/` are not pushed to GitHub. They are created or filled during the workflow.
 
-## The `data/` Folder
+## Code and Data Workflow
 
-The `data/` folder keeps the same conceptual separation used in `treat`:
+The project has four main parts.
 
-- `data/external/`: files that come from outside the repo and are kept as source material
-- `data/pulled/`: raw data written by a pull step
-- `data/generated/`: prepared datasets created from raw or external inputs
+### 1. Tone Measurement
 
-## The `info/` Folder
+The scripts in `code/tone/` build the 10-K sample, handle duplicate filings, and calculate negative tone using the Loughran-McDonald dictionary.
 
-`info/edgar_10k_intro.qmd` is a standalone tutorial that shows how to access and query the EDGAR 10-K dataset directly. It is not part of the analysis pipeline but provides a helpful reference for understanding the data source.
+Raw filing texts are stored locally under `data/pulled/sec_filings/`. Since this folder is not pushed, users who rerun the project need either to download the filings again or to place existing filing text files there.
 
-## Credentials
+The main tone results are generated under `data/generated/tone/`.
 
-A `_secrets.env` template is included in the repository root. If any script you add later requires credentials (e.g. a WRDS username and password), copy this file to `secrets.env` and fill in your values:
+### 2. CAR Construction
+
+The files in `code/CAR/` link 10-K filings to market return data and construct cumulative abnormal returns around filing dates.
+
+This step needs the CIK-PERMNO link file and return data. These two large files are not downloaded automatically. They should be manually downloaded from the URLs in `secrets.env` and placed in `data/external/`.
+
+### 3. Main Regression
+
+The scripts in `code/regression/` construct controls, merge tone measures with CAR and accounting data, and run the main regression.
+
+The main regression output is written to:
+
+```text
+output/tables/main_regression.html
+```
+
+### 4. Robustness Tests
+
+The scripts in `code/robustness/` run additional robustness checks, including alternative event windows, text subsets, and sample restrictions.
+
+The robustness outputs are written to files such as:
+
+```text
+output/robustness_test1_event_windows.html
+output/robustness_test3_text_subsets.html
+output/robustness_test5_sample_restrictions.html
+```
+
+## Data
+
+The `data/` folder is organized by role:
+
+- `data/external/`: external files that must be manually downloaded or provided, such as CIK-PERMNO links, return data, Compustat data, and the Loughran-McDonald dictionary.
+- `data/pulled/`: raw files pulled or collected during the project, especially SEC filing texts. This folder is not pushed.
+- `data/generated/`: intermediate and final datasets generated by the scripts. This folder is not pushed.
+
+Important external files include:
+
+```text
+data/external/cik_to_permno.csv.gz
+data/external/ret_all.csv.gz
+data/external/compustat_annual.csv
+data/external/Loughran-McDonald_MasterDictionary_1993-2025.csv
+```
+
+## Output
+
+The `output/` folder contains rendered results and is not pushed to GitHub.
+
+Important outputs include:
+
+```text
+output/tables/main_regression.html
+output/robustness_test1_event_windows.html
+output/robustness_test3_text_subsets.html
+output/robustness_test5_sample_restrictions.html
+output/slide.pdf
+```
+
+## How to Run
+
+Run commands from the repository root.
+
+Common Makefile targets include:
+
+```bash
+make tone
+make car
+make regression
+make robustness
+make pdf
+```
+
+The exact targets can be checked in the `Makefile`.
+
+### Important: `make all`
+
+`make all` does **not** run the entire project, it only runs the data preparation and the main regression and renders the slide.pdf.
+
+In particular, `make all` does **not** run the robustness tests. To generate the robustness outputs, run:
+
+```bash
+make robustness
+```
+
+Therefore, a typical workflow is:
+
+```bash
+make all
+make robustness
+```
+
+## Running Without the Makefile
+
+Scripts can also be run manually.
+
+Python scripts:
+
+```bash
+python3 code/tone/06_run_full_lm_negtone.py
+python3 code/CAR/car.py
+```
+
+R scripts:
+
+```bash
+Rscript code/regression/construct_controls.R
+Rscript code/regression/main_regression.R
+Rscript code/robustness/robustness_test1_event_windows.R
+Rscript code/robustness/robustness_test3_text_subsets.R
+Rscript code/robustness/robustness_test5_sample_restrictions.R
+```
+
+Slides:
+
+```bash
+cd doc
+quarto render slide.qmd --to beamer
+```
+
+## `secrets.env`
+
+A template file named `_secrets.env` is included. Copy it before use:
 
 ```bash
 cp _secrets.env secrets.env
 ```
 
-Then edit `secrets.env` with your credentials. The file `secrets.env` is listed in `.gitignore` and will never be committed. The current workflow does not depend on this file.
+Do not commit `secrets.env`.
 
-## References
+The template contains:
 
-The paper cites Dyer, Lang & Stice-Lawrence (2017) and uses `doc/references.bib` for the bibliography.
+```text
+# WRDS download
+WRDS_USERNAME=
+WRDS_PASSWORD=
 
-## Recommended Setup Paths
+# SEC User-Agent
+SEC_USER_AGENT=
 
-There are three ways to work with this repo:
-
-1. **GitHub Codespaces**
-   This is the recommended path.
-2. **Local Docker + browser-based RStudio Server**
-   This is the recommended local path.
-3. **Fully local install**
-   This is possible, but not recommended.
-
-### 1. GitHub Codespaces
-
-1. Use this template on GitHub to create your own repository.
-2. Open your repository in Codespaces.
-3. Wait for the container to finish building.
-4. Open the forwarded port `8787` for RStudio Server.
-5. Log in with:
-   - username: `rstudio`
-   - password: `rstudio`
-6. If RStudio Server opens in the home directory and you do not see the project files yet, that is expected. Use `File -> Open Project`, paste `/workspaces/rct-project-template/rct-project-template.Rproj` into the `File name` field, and open it. If your repository folder has a different name, replace the middle `rct-project-template` folder segment with your actual repository folder name.
-7. In the RStudio Terminal, run:
-
-```bash
-git config --global user.name "Your Name"
-git config --global user.email "you@example.com"
-gh auth login
+# Big file storage
+CIK_PERMNO_URL=
+RET_URL=
+DIC_URL=
 ```
 
-Then run:
+Current notes:
 
-```bash
-make
+- `WRDS_USERNAME` and `WRDS_PASSWORD` are not required for the current workflow because WRDS downloading scripts are not prepared yet. They are kept for possible future extensions.
+- `SEC_USER_AGENT` must be filled in if SEC filings are downloaded. It should include a valid email address.
+- `CIK_PERMNO_URL` is used to download the CIK-PERMNO link file.
+- `RET_URL` is used to download the return data file.
+- Files from `CIK_PERMNO_URL` and `RET_URL` should be manually placed in `data/external/`.
+- `DIC_URL` is used to update the Loughran-McDonald dictionary.
+
+## Reproducibility Notes
+
+Because several large files are not pushed, the project is reproducible only after the required files have been placed in the correct folders.
+
+Before running the workflow, check that the following are available:
+
+```text
+data/external/cik_to_permno.csv.gz
+data/external/ret_all.csv.gz
+data/external/Loughran-McDonald_MasterDictionary_1993-2025.csv
 ```
 
-### 2. Local Docker + RStudio Server
-
-Build the image from the repository root:
-
-```bash
-docker build -f .devcontainer/Dockerfile -t rct-project-template .
-```
-
-Run the container:
-
-```bash
-docker run --rm -it \
-  -e PASSWORD=rstudio \
-  -e USERID=$(id -u) \
-  -e GROUPID=$(id -g) \
-  -p 8787:8787 \
-  -v "$PWD":/workspaces/$(basename "$PWD") \
-  -w /workspaces/$(basename "$PWD") \
-  rct-project-template
-```
-
-Then open `http://localhost:8787` and log in with:
-
-- username: `rstudio`
-- password: `rstudio`
-
-Use `File -> Open Project` and paste `/workspaces/rct-project-template/rct-project-template.Rproj` into the `File name` field. Then run:
-
-```bash
-git config --global --add safe.directory "$(pwd)"
-git config --global user.name "Your Name"
-git config --global user.email "you@example.com"
-gh auth login
-make
-```
-
-### 3. Fully Local Install
-
-You can also run the project outside containers, but this is **not recommended** unless you are comfortable managing the stack yourself:
-
-- R
-- Quarto
-- TinyTeX or another LaTeX installation
-- the required R packages: `duckdb`, `ggplot2`, `gt`, `httr`, `rvest`, `htmltools`, `knitr`
-- Git and optionally GitHub CLI
-
-If you choose this route, the project command is still:
-
-```bash
-make
-```
-
-## Main Project Command
-
-Run the whole project from the repository root with:
-
-```bash
-make
-```
-
-The Makefile runs the full pipeline in order:
-
-1. `code/R/pull_data.R`
-2. `code/R/prep_data.R`
-3. `code/R/run_analysis.R`
-4. `doc/paper.qmd`
-5. `doc/presentation.qmd`
-
-## Container Notes
-
-Both Codespaces and the local Docker path provide:
-
-- RStudio Server on port `8787`
-- `git`
-- `gh`
-- Quarto
-- TinyTeX
-- the R packages needed for this template
-
-This keeps the working environment consistent across students.
-
-## AI Prompts for Common Tasks
-
-Two ready-made prompts are included to help you work with the project configuration using an LLM assistant.
-
-- **`makefile_prompt.md`** — use this if you want to understand how the `Makefile` works or need help adapting it to your own pipeline.
-- **`docker_devcontainer_prompt.md`** — use this if you run into errors with the `.devcontainer/` setup or want to understand how the `Dockerfile` and `devcontainer.json` interact.
-
-In each file, replace the text inside the `{{ }}` blocks with your own input, then paste the whole prompt into an LLM of your choice.
+The tone and CAR steps may take a long time, especially when many filing texts or return observations are processed.
