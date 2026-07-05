@@ -1,0 +1,673 @@
+---
+title: "10-K Negative Tone and Market Reaction"
+subtitle: ""
+author: "Chengjun Han, Yi Yang Kuo, Zilong Li, Lingke Zhang"
+format:
+  beamer:
+    pdf-engine: xelatex
+    aspectratio: 169
+    theme: Frankfurt
+    colortheme: seahorse
+    fontsize: 10pt
+    navigation: horizontal
+    include-in-header:
+      text: |
+        \usepackage{tabularx}
+        \usepackage{array}
+        \setbeamertemplate{navigation symbols}{}
+        \setbeamertemplate{footline}[frame number]
+header-includes:
+  - \usepackage{tabularx}
+bibliography: 10-k.bib
+csl: apa.csl
+nocite: '@*'
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+# Research Design
+
+## Research Topic and Motivation
+
+\small
+
+**Research question**
+
+- Do more negative 10-K disclosures lead to a different stock market reaction around the filing date?
+- We use filing-window **cumulative abnormal returns**, $\mathrm{CAR}[-1,+1]$, as the market reaction measure.
+
+\vspace{0.15cm}
+
+**Why 10-K tone matters**
+
+- 10-K filings contain both accounting numbers and qualitative disclosures.
+- Part I and Part II discuss business conditions, risks, legal exposure, MD&A, and financial performance.
+- More negative language may indicate adverse information or higher perceived risk.
+- Investors may respond to this information around the filing date.
+
+\vspace{0.15cm}
+
+**Main variables**
+
+- **y variable:** filing-window CAR
+- **X variable:** negative tone in 10-K Part I and Part II
+
+
+# Construction of Variable X
+
+## Definition and Measurement of Variable X
+
+\small
+
+**Definition**
+
+- Negative tone is measured at the firm-year level from each 10-K filing.
+
+\vspace{0.15cm}
+
+$$
+\mathrm{NegTone}_{i,t}
+=
+\frac{\mathrm{Negative\ words}_{i,t}}{\mathrm{Total\ words}_{i,t}}
+$$
+
+\vspace{0.15cm}
+
+**Measurement choice**
+
+- Negative words are identified using the Loughran-McDonald financial sentiment dictionary.
+- The dictionary is designed for financial and accounting texts.
+- This is more suitable than a general sentiment dictionary for 10-K filings.
+
+\vspace{0.15cm}
+
+**Text scope**
+
+- We focus on Part I and Part II of the 10-K filing.
+- These sections contain business description, risk factors, MD&A, and financial discussion.
+- They are directly relevant to investor interpretation of firm risk and performance.
+
+
+## Construction Process of Variable X
+
+\small
+
+**Starting point**
+
+- Begin with the firm-year 10-K sample.
+- Key identifiers include CIK, report year, filing date, filing URL, and accession information.
+
+\vspace{0.2cm}
+
+**Text preparation**
+
+- Download 10-K filing texts from SEC EDGAR.
+- Cache filing texts locally to avoid repeated downloads.
+- Extract Part I and Part II where possible.
+- Use a documented full-text fallback if section extraction fails.
+
+\vspace{0.2cm}
+
+**Tone calculation**
+
+- Tokenize the extracted text.
+- Count total words and Loughran-McDonald negative words.
+- Calculate $\mathrm{NegTone}_{i,t}$ for each firm-year filing.
+- Export the tone measure for merging with CAR and firm-level controls.
+
+
+## Full-Sample Text Processing and Sampling
+
+\small
+
+- De-duplicated input: 160,816 firm-year filing rows from 2002 to 2024.
+- Cleaning is applied before tone calculation to avoid repeated filings and non-10-K placeholders.
+
+\vspace{0.08cm}
+
+**Main cleaning rules**
+
+\vspace{-0.08cm}
+
+\renewcommand{\arraystretch}{1.12}
+\begin{tabularx}{0.94\textwidth}{p{0.27\textwidth} p{0.16\textwidth} X}
+\hline
+\textbf{Case} & \textbf{Handling} & \textbf{Rationale} \\
+\hline
+Different filing date 
+& Keep 
+& Likely valid 10-K or transition filing. \\
+
+Multiple series / asset pools / trusts 
+& Drop 
+& Often not ordinary listed operating firms. \\
+
+Same filing date and same text count 
+& De-duplicate 
+& Likely repeated collection or repeated submission. \\
+
+Non-10-K placeholder 
+& Drop 
+& Not formal 10-K text; would contaminate tone. \\
+
+Same filing date but different text 
+& Drop from main regression 
+& May include amendments, exhibits, or extraction variants. \\
+\hline
+\end{tabularx}
+
+\vspace{0.08cm}
+
+**Sampling design**
+
+- Stratified yearly sampling: 1,500 observations per report year.
+- Final sampled input: 34,500 firm-year rows across 23 report years.
+- Filing date is preserved as the event date for the CAR merge.
+
+
+## Sampling Summary
+
+\small
+
+
+- Processing all 160,816 filings is time-consuming.
+- Stratified yearly sampling keeps coverage across the full 2002--2024 period.
+- The design avoids over-representing years with more filings.
+
+\vspace{0.08cm}
+
+**Sampling metrics**
+
+\begin{center}
+\renewcommand{\arraystretch}{1.15}
+\begin{tabular}{lr}
+\hline
+\textbf{Metric} & \textbf{Value} \\
+\hline
+Report-year range & 2002--2024 \\
+Rows before sampling & 160,816 \\
+Sampled rows & 34,500 \\
+Sampling rule & 1,500 per report year \\
+Average sampling rate & 21.51\% \\
+Sampling-rate range & 19.52\% in 2009 to 23.81\% in 2002 \\
+\hline
+\end{tabular}
+\end{center}
+
+\vspace{0.08cm}
+
+**Date distinction**
+
+- **Report year:** used for sampling and firm-year grouping.
+- **Filing date:** used as the event date for CAR construction and merge.
+
+
+## Descriptive Statistics of Negative Tone
+
+\small
+
+**Purpose**
+
+- Summarizes the dictionary-based tone output before the regression merge.
+- Core variables: negative tone, total words, and negative words.
+- Describes both tone intensity and text extraction coverage.
+
+\vspace{0.15cm}
+
+\begin{center}
+\renewcommand{\arraystretch}{1.15}
+\begin{tabular}{lrrrrr}
+\hline
+\textbf{Variable} & \textbf{Mean} & \textbf{Median} & \textbf{Std. dev.} & \textbf{Min} & \textbf{Max} \\
+\hline
+NegativeTone & 0.017981 & 0.017592 & 0.007988 & 0 & 0.118142 \\
+Total words & 28,596.633 & 23,983 & 23,318.390 & 6 & 235,876 \\
+Negative words & 552.889 & 430 & 500.646 & 0 & 5,302 \\
+\hline
+\end{tabular}
+\end{center}
+
+\vspace{0.15cm}
+
+**Interpretation**
+
+- A higher $\mathrm{NegTone}$ means a larger share of negative financial words in the relevant 10-K sections.
+- The wide range of total words reflects variation in filing length and text extraction coverage.
+
+
+# Construction of Variable y
+
+## Definition of Variable y
+
+\small
+
+**Dependent variable**
+
+::: columns
+::: {.column width="65%"}
+
+\vspace{0.2cm}
+
+$$
+\begin{aligned}
+\mathrm{CAR}_{i}[-1,+1] &= AR_{i,-1} + AR_{i,0} + AR_{i,+1} \\
+AR_{i,t} &= R_{i,t} - R_{m,t}
+\end{aligned}
+$$
+
+:::
+::: {.column width="35%"}
+
+\footnotesize
+\textbf{where:}
+
+\vspace{0.05cm}
+
+\begin{tabular}{@{}ll@{}}
+$R_{i,t}$: & firm daily return \\[0.25em]
+$R_{m,t}$: & market daily return \\[0.25em]
+$t=0$: & 10-K filing date
+\end{tabular}
+
+:::
+:::
+
+\vspace{0.08cm}
+
+**Interpretation**
+
+- $\mathrm{CAR}[-1,+1]$ measures the cumulative abnormal return around the 10-K filing date.
+- It captures the short-term stock market reaction to the filing.
+- A lower CAR indicates a more negative market reaction around the filing date.
+
+\vspace{0.08cm}
+
+**Why CAR?**
+
+- The research question studies market response to negative 10-K tone, and stock returns directly reflect investor reaction.
+- Abnormal returns remove general market-wide movements, making the measure more firm-specific.
+- The short $[-1,+1]$ window captures possible anticipation and delayed reaction while reducing noise from unrelated events.
+
+
+## Data Source for CAR Construction
+
+\small
+
+**Main platform: WRDS**
+
+\vspace{0.3cm}
+
+::: columns
+::: {.column width="48%"}
+
+**CRSP daily stock file**
+
+- Provides firm-level daily stock returns
+- Used to obtain $R_{i,t}$
+- Return data are retrieved around each 10-K filing date
+
+\vspace{0.3cm}
+
+**CRSP value-weighted market return**
+
+- Used as the market benchmark return
+- Used to obtain $R_{m,t}$
+- Allows market-adjusted abnormal return calculation
+
+:::
+::: {.column width="48%"}
+
+**SEC / 10-K filing data**
+
+- Provides filing date and CIK
+- Filing date defines the event date:
+  
+  $$
+  t=0
+  $$
+
+\vspace{0.3cm}
+
+**Why CIK-to-PERMNO linking is needed**
+
+- 10-K filings are identified by CIK
+- CRSP stock returns are identified by PERMNO
+- CIK must be linked to PERMNO before stock returns can be retrieved
+
+:::
+:::
+
+
+## Matching CAR with Negative Tone
+
+\small
+
+**Input from text-based tone construction**
+
+- Sampled 10-K observations
+- Calculated LM negative tone
+- CIK and filing date
+
+\vspace{0.08cm}
+
+**y-variable construction**
+
+- Link CIK to PERMNO
+- Retrieve CRSP daily returns around the filing date
+- Calculate daily abnormal returns
+- Sum abnormal returns into $\mathrm{CAR}[-1,+1]$
+
+\vspace{0.08cm}
+
+**Final merge**
+
+- Merge CAR back to the negative-tone dataset
+- Keep observations with both tone data and valid return data
+- The final regression sample is based on filings with matched X and y
+
+
+## Sample Construction Limitation
+
+\small
+
+**Main issue**
+
+- The text sample was drawn before CRSP coverage was checked.
+- A CIK-PERMNO availability table was not used before sampling.
+- As a result, the text sample included firms without usable stock return data.
+
+\vspace{0.08cm}
+
+**During the X-y matching process**
+
+- Some firms had no valid PERMNO.
+- Some firms were not covered by CRSP.
+- Some filing dates had no usable return data.
+- Only around 40\% of text observations could be matched to return data.
+
+\vspace{0.08cm}
+
+**Interpretation and future improvement**
+
+- This is a sample-construction limitation, not a CAR calculation error.
+- A better workflow would first restrict the universe to firms with CRSP coverage, and then draw the 10-K text sample.
+
+
+# Empirical Method and Results
+
+## Empirical Method
+
+\small
+
+**Main regression**
+
+$$
+\mathrm{CAR}_i[-1,+1]
+=
+\alpha
++
+\beta \cdot \texttt{LM\_NegTone}_i
++
+\gamma \cdot \mathrm{Controls}_i
++
+\mathrm{YearFE}
++
+\mathrm{IndustryFE}
++
+\varepsilon_i
+$$
+
+\vspace{0.08cm}
+
+**Main hypothesis**
+
+- $\beta < 0$: a negative $\beta$ would suggest that more negative 10-K tone is associated with lower filing-window CAR.
+
+\vspace{0.08cm}
+
+**Datasets merged**
+
+- **X variable:** LM negative tone from 10-K filings
+- **y variable:** $\mathrm{CAR}[-1,+1]$, renamed from `car_vw_m1_p1`
+- **Controls:** Compustat firm-level variables
+
+\vspace{0.08cm}
+
+**Final regression sample**
+
+- 13,243 observations
+- 5,841 firms
+- Sample period: 2002--2024
+
+
+## Regression Specification
+
+\small
+
+**Control variables**
+
+::: columns
+::: {.column width="48%"}
+
+\vspace{0.08cm}
+
+**Firm-level controls**
+
+- Firm size
+- Book-to-market
+- Leverage
+- ROA
+- Loss dummy
+- Text length
+
+:::
+::: {.column width="48%"}
+
+\vspace{0.08cm}
+
+**Fixed effects**
+
+- Year fixed effects
+- Two-digit SIC industry fixed effects
+
+\vspace{0.08cm}
+
+**Purpose**
+
+- Controls account for firm characteristics that may affect stock returns.
+- Fixed effects absorb common year-level and industry-level variation.
+
+:::
+:::
+
+\vspace{0.2cm}
+
+**Interpretation of** $\beta$
+
+- $\beta$ captures the association between 10-K negative tone and filing-window CAR.
+- If $\beta$ is significantly negative, the result supports the hypothesis that negative tone is related to lower market reaction.
+
+
+## Main Regression Results
+
+\small
+
+**Coefficient on** \textbf{\texttt{LM\_NegTone}}
+
+\begin{center}
+\renewcommand{\arraystretch}{1.2}
+\begin{tabular}{lr}
+\hline
+\textbf{Specification} & \textbf{Coefficient} \\
+\hline
+Tone only & -0.112 \\
+With controls & 0.069 \\
+Controls + FE & 0.156 \\
+\hline
+\end{tabular}
+\end{center}
+
+\vspace{0.2cm}
+
+**Main finding**
+
+- The coefficient on negative tone is not statistically significant.
+- After adding firm-level controls, the result remains insignificant.
+- We do not find strong evidence that negative tone predicts filing-window CAR.
+- The result suggests limited immediate market reaction to negative 10-K tone in our sample.
+
+
+## Interpretation and Limitations
+
+\small
+
+**Interpretation**
+
+- Insignificant results do not necessarily mean that the hypothesis is wrong.
+- Instead, the evidence does not show a statistically reliable relationship in this sample.
+- The market reaction to 10-K tone may be weaker or more difficult to detect than expected.
+
+\vspace{0.2cm}
+
+**Possible explanations**
+
+- The matched regression sample is relatively small, which may reduce statistical power.
+- 10-K information may already be anticipated by investors before the filing date.
+- Market reaction may occur outside the $[-1,+1]$ event window.
+- Negative tone may reflect routine risk disclosure rather than new bad news.
+- Firm-level controls may absorb part of the information contained in tone.
+- Tone levels may be less informative than changes in tone over time.
+
+
+# Robustness Tests and Conclusion
+
+## Purpose of Robustness Tests
+
+\small
+
+**Why robustness tests are needed**
+
+- The baseline result shows no significant relation between $\texttt{LM\_NegTone}$ and $\mathrm{CAR}[-1,+1]$.
+- Robustness tests check whether this result depends on specific sample or measurement choices.
+
+\vspace{0.2cm}
+
+**Main robustness concerns**
+
+- **Event-window choice:** Is the result driven by the specific $[-1,+1]$ window?
+- **Text-scope choice:** Does the result change when tone is measured from different 10-K sections?
+- **Sample composition:** Is the result driven by specific types of firms or by outliers?
+
+\vspace{0.2cm}
+
+**Robustness checks**
+
+- Use alternative event windows: $\mathrm{CAR}[0,+1]$ and $\mathrm{CAR}[-2,+2]$.
+- Test alternative text sections such as Part I, Part II, and Item 1A Risk Factors.
+- Exclude financial firms and utilities.
+- Winsorize extreme values.
+
+
+## Robustness Test 1: Alternative Event Windows
+
+\small
+
+**Purpose**
+
+- The baseline model uses $\mathrm{CAR}[-1,+1]$.
+- We test whether the conclusion changes under alternative filing-window definitions.
+
+\vspace{0.2cm}
+
+\begin{center}
+\renewcommand{\arraystretch}{1.2}
+\begin{tabular}{lrrr}
+\hline
+ & $\mathbf{CAR[-1,+1]}$ & $\mathbf{CAR[0,+1]}$ & $\mathbf{CAR[-2,+2]}$ \\
+\hline
+$\texttt{LM\_NegTone}$ & 0.157 & 0.098 & -0.045 \\
+Standard error & (0.172) & (0.162) & (0.198) \\
+Significant at 5\% & No & No & No \\
+Observations & 13,279 & 13,279 & 13,279 \\
+\hline
+\end{tabular}
+\end{center}
+
+\vspace{0.15cm}
+
+**Interpretation**
+
+- $\texttt{LM\_NegTone}$ is not statistically significant across event windows.
+- The baseline conclusion is therefore not driven by the specific $[-1,+1]$ window.
+
+
+## Robustness Test 2: Sample Restrictions and Winsorization
+
+\small
+
+**Purpose**
+
+- Financial firms and utilities may differ from ordinary operating firms.
+- Extreme values may mechanically affect regression estimates.
+- We therefore restrict the sample and winsorize extreme values.
+
+\vspace{0.2cm}
+
+\begin{center}
+\renewcommand{\arraystretch}{1.15}
+\begin{tabular}{lrrr}
+\hline
+ & $\textbf{Baseline}$ & $\textbf{Excl. Fin. \& Util.}$ & $\textbf{+ Winsorize}$ \\
+\hline
+$\texttt{LM\_NegTone}$ & 0.157 & 0.292 & 0.290 \\
+Standard error & (0.172) & (0.211) & (0.182) \\
+Significant at 5\% & No & No & No \\
+Observations & 13,279 & 9,761 & 9,761 \\
+$R^2$ & 0.012 & 0.015 & 0.020 \\
+\hline
+\end{tabular}
+\end{center}
+
+\vspace{0.15cm}
+
+**Interpretation**
+
+- Excluding financial firms and utilities reduces the sample size by about 26\%.
+- The coefficient remains insignificant.
+- The coefficient is almost unchanged after winsorization: 0.292 vs. 0.290.
+
+
+## Overall Conclusion
+
+\small
+
+**Main finding**
+
+- We do not find strong evidence that more negative 10-K tone predicts lower filing-window CAR.
+- The coefficient on $\texttt{LM\_NegTone}$ is insignificant in the baseline model and robustness tests.
+
+\vspace{0.2cm}
+
+**What the results suggest**
+
+- The stock market does not appear to respond strongly to the level of negative tone in 10-K filings in this sample.
+- Negative tone may reflect routine risk disclosure rather than new information.
+- Investors may already anticipate much of the information before the filing date.
+
+\vspace{0.2cm}
+
+**Future improvement**
+
+- Construct the text sample after checking CRSP coverage.
+- Test tone changes rather than only tone levels.
+- Explore more granular 10-K sections, such as Item 1A Risk Factors and MD&A.
+- Use alternative tone measures, including LLM-based measures.
+
+
+
+## References {.unnumbered .unlisted .plain shrink=35}
+
+::: {#refs}
+:::
