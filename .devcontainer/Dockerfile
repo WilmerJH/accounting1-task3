@@ -22,19 +22,21 @@ RUN apt-get update \
  && rm -rf /var/lib/apt/lists/* /var/cache/apt/archives/*
 
 RUN install2.r --error --skipinstalled \
-      tidyverse \
-      ggplot2 \
-      fixest \
-      modelsummary \
-      knitr \
-      rmarkdown \
-      tinytex \
-      duckdb \
-      gt \
-      httr \
-      htmltools \
-      rvest \
- && rm -rf /tmp/downloaded_packages
+    ggplot2 \
+    dplyr \
+    readr \
+    stringr \
+    knitr \
+    rmarkdown \
+    tinytex \
+    duckdb \
+    gt \
+    httr \
+    htmltools \
+    rvest \
+    fixest \
+    modelsummary \
+&& rm -rf /tmp/downloaded_packages
 
 RUN python3 -m pip install --break-system-packages --no-cache-dir \
       jupyter \
